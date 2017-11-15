@@ -2,14 +2,20 @@
   "id": 236730715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1228 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"1228",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.683,41.500758,-81.683,41.500758",
     "geom:latitude":41.500758,
     "geom:longitude":-81.683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1228 Euclid Ave",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -29,23 +35,27 @@
     "sg:website":"www.focal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
+    "wof:brand_id":1125158461,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47MYnjc8ZFOqTfRnGUL3zz_41.500758_-81.683000@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"93441aeb27dd58d8ebc2e7c4065e736d",
+    "wof:geomhash":"9164a280f7445fce52e8c1cf8da138a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":236730715,
-    "wof:lastmodified":1466750198,
+    "wof:lastmodified":1510613247,
     "wof:name":"Broadwing Communications",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

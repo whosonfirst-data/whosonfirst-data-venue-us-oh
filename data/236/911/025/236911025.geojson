@@ -2,9 +2,14 @@
   "id": 236911025,
   "type": "Feature",
   "properties": {
+    "addr:full":"13001 Athens Ave Cleveland OH 44107",
+    "addr:housenumber":"",
+    "addr:postcode":"13001;44107",
+    "addr:street":"Athens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.782308,41.473926,-81.782308,41.473926",
     "geom:latitude":41.473926,
     "geom:longitude":-81.782308,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
-        102084837
+        102084837,
+        85688485,
+        420534677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"0b56924ac47ad2310503e89ef7edaa28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85897097,
+            "region_id":85688485,
+            "venue_id":236911025
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404524417,
+            "locality_id":101712597,
+            "neighbourhood_id":420534677,
             "region_id":85688485,
             "venue_id":236911025
         }
     ],
     "wof:id":236911025,
-    "wof:lastmodified":1466751125,
+    "wof:lastmodified":1491924452,
     "wof:name":"Imp Heat Treating LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

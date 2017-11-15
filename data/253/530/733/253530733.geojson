@@ -2,9 +2,14 @@
   "id": 253530733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1711 Lockbourne Rd Columbus OH 43207",
+    "addr:housenumber":"1711",
+    "addr:postcode":"43207",
+    "addr:street":"Lockbourne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.964593,39.932311,-82.964593,39.932311",
     "geom:latitude":39.932311,
     "geom:longitude":-82.964593,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485,
+        420534791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"20d66bb75a5904c33a444a4b3922390b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893113,
+            "region_id":85688485,
+            "venue_id":253530733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":420534791,
             "region_id":85688485,
             "venue_id":253530733
         }
     ],
     "wof:id":253530733,
-    "wof:lastmodified":1466749076,
+    "wof:lastmodified":1491902969,
     "wof:name":"Sunoco Lockbourne",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

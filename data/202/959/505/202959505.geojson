@@ -2,9 +2,14 @@
   "id": 202959505,
   "type": "Feature",
   "properties": {
+    "addr:full":"7350 Sawmill Rd Columbus OH 43235",
+    "addr:housenumber":"7350",
+    "addr:postcode":"43235",
+    "addr:street":"Sawmill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.090577,40.114197,-83.090577,40.114197",
     "geom:latitude":40.114197,
     "geom:longitude":-83.090577,
@@ -29,10 +34,13 @@
     "sg:website":"www.fellowshiplutheran.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +50,20 @@
     "wof:geomhash":"b7af7537bdf9515117eaa359f623d51b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893119,
             "region_id":85688485,
             "venue_id":202959505
         }
     ],
     "wof:id":202959505,
-    "wof:lastmodified":1466747212,
+    "wof:lastmodified":1491900967,
     "wof:name":"Fellowship Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893119,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 169717749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2045 Broehm Rd Columbus OH 43207",
+    "addr:housenumber":"2045",
+    "addr:postcode":"43207",
+    "addr:street":"Broehm Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.942905,39.870932,-82.942905,39.870932",
     "geom:latitude":39.870932,
     "geom:longitude":-82.942905,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839131,
+        102191575,
+        404524633,
         85633793,
         101712421,
         102080969,
-        85839131
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"50cf7b1cc49052ebc003e80b12ea7a64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524633,
             "locality_id":101712421,
             "neighbourhood_id":85839131,
             "region_id":85688485,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":169717749,
-    "wof:lastmodified":1466745057,
+    "wof:lastmodified":1491926557,
     "wof:name":"Central Aluminum Co",
     "wof:parent_id":85839131,
     "wof:placetype":"venue",

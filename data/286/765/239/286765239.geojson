@@ -2,9 +2,14 @@
   "id": 286765239,
   "type": "Feature",
   "properties": {
+    "addr:full":"18500 Lake Rd Cleveland OH 44116",
+    "addr:housenumber":"18500",
+    "addr:postcode":"44116",
+    "addr:street":"Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.83279,41.482848,-81.83279,41.482848",
     "geom:latitude":41.482848,
     "geom:longitude":-81.83279,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:brand_id":420574327,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"04d93d813281c1e61a7b9b036860b6f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286765239,
-    "wof:lastmodified":1466749941,
+    "wof:lastmodified":1491932123,
     "wof:name":"Wells Fargo Home Mortgage",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

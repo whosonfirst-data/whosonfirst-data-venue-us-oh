@@ -2,9 +2,14 @@
   "id": 236120431,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 W 3rd St Cleveland OH 44113",
+    "addr:housenumber":"2205",
+    "addr:postcode":"44113",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.683227,41.485934,-81.683227,41.485934",
     "geom:latitude":41.485934,
     "geom:longitude":-81.683227,
@@ -30,11 +35,13 @@
     "sg:website":"www.biorem.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871843,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"761c4bc0dd9ea6c42dbeb452cda129a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871843,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236120431,
-    "wof:lastmodified":1466743286,
+    "wof:lastmodified":1491921271,
     "wof:name":"Bio Rem Eastern USA",
     "wof:parent_id":85871843,
     "wof:placetype":"venue",

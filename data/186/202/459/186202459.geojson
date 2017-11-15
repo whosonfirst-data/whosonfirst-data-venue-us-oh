@@ -2,9 +2,14 @@
   "id": 186202459,
   "type": "Feature",
   "properties": {
+    "addr:full":"627 Prospect Ave E Cleveland OH 44115",
+    "addr:housenumber":"627",
+    "addr:postcode":"44115",
+    "addr:street":"Prospect Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.687272,41.498793,-81.687272,41.498793",
     "geom:latitude":41.498793,
     "geom:longitude":-81.687272,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"68572680f30c35009f98c150ab40785f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":186202459,
-    "wof:lastmodified":1466742976,
+    "wof:lastmodified":1491896589,
     "wof:name":"Quality Jewelers Inc",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 203233951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Superior Ave E Cleveland OH 44114",
+    "addr:housenumber":"1111",
+    "addr:postcode":"44114",
+    "addr:street":"Superior Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.687528,41.502644,-81.687528,41.502644",
     "geom:latitude":41.502644,
     "geom:longitude":-81.687528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1111 Superior Ave E",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -26,23 +32,27 @@
     "sg:website":"www.eaton.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
+    "wof:brand_id":1125159539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IlSNCOTjHgJDMpJWEiECC_41.502644_-81.687528@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bded8f78f102a9de5a3085cb9a6b959",
+    "wof:geomhash":"8a635b0d51af3ddbd5d0d3dcab789a52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -50,7 +60,7 @@
         }
     ],
     "wof:id":203233951,
-    "wof:lastmodified":1466743289,
+    "wof:lastmodified":1510695345,
     "wof:name":"Eaton Corp",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

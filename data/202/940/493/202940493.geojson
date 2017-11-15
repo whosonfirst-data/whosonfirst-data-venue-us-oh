@@ -2,9 +2,14 @@
   "id": 202940493,
   "type": "Feature",
   "properties": {
+    "addr:full":"21734 Saint Clair Ave Cleveland OH 44117",
+    "addr:housenumber":"21734",
+    "addr:postcode":"44117",
+    "addr:street":"Saint Clair Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.535341,41.581026,-81.535341,41.581026",
     "geom:latitude":41.581026,
     "geom:longitude":-81.535341,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"470fd77270cf9da81ee7e2b3dfc5e416",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":202940493,
-    "wof:lastmodified":1466746997,
+    "wof:lastmodified":1491906481,
     "wof:name":"Street Machinery",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

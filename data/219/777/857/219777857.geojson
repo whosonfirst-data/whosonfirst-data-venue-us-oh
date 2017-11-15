@@ -2,9 +2,14 @@
   "id": 219777857,
   "type": "Feature",
   "properties": {
+    "addr:full":"6222 Wiehe Rd Cincinnati OH 45237",
+    "addr:housenumber":"",
+    "addr:postcode":"6222;45237",
+    "addr:street":"Wiehe Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.452255,39.188184,-84.452255,39.188184",
     "geom:latitude":39.188184,
     "geom:longitude":-84.452255,
@@ -31,11 +36,13 @@
     "sg:website":"www.johngray.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"287484b0686263d59259f0b9dd6a8d37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":219777857,
-    "wof:lastmodified":1466747940,
+    "wof:lastmodified":1491896873,
     "wof:name":"John Gray Awards Co Inc",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

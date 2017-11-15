@@ -2,9 +2,14 @@
   "id": 220106623,
   "type": "Feature",
   "properties": {
+    "addr:full":"13700 Shaker Blvd Cleveland OH 44120",
+    "addr:housenumber":"13700",
+    "addr:postcode":"44120",
+    "addr:street":"Shaker Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.586443,41.483665,-81.586443,41.483665",
     "geom:latitude":41.483665,
     "geom:longitude":-81.586443,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871793,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871793
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"21e76779fa92ac474091a91795df36ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871793,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":220106623,
-    "wof:lastmodified":1466741871,
+    "wof:lastmodified":1491927190,
     "wof:name":"Shaker Courts Condominiums",
     "wof:parent_id":85871793,
     "wof:placetype":"venue",

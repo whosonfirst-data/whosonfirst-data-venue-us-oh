@@ -2,9 +2,14 @@
   "id": 202613051,
   "type": "Feature",
   "properties": {
+    "addr:full":"7551 Forest Rd Cincinnati OH 45255",
+    "addr:housenumber":"7551",
+    "addr:postcode":"45255",
+    "addr:street":"Forest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.349979,39.067288,-84.349979,39.067288",
     "geom:latitude":39.067288,
     "geom:longitude":-84.349979,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:brand_id":420573811,
     "wof:breaches":[],
@@ -43,17 +50,18 @@
     "wof:geomhash":"67ed2c7cc75baffe04099fe1671ee2e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":202613051
         }
     ],
     "wof:id":202613051,
-    "wof:lastmodified":1466743363,
+    "wof:lastmodified":1491901891,
     "wof:name":"American Legion",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

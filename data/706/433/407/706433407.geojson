@@ -2,9 +2,14 @@
   "id": 706433407,
   "type": "Feature",
   "properties": {
+    "addr:full":"14985 Scarlet Oak Dr Strongsville OH 44146",
+    "addr:housenumber":"14985",
+    "addr:postcode":"44146",
+    "addr:street":"Scarlet Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.505673,41.398919,-81.505673,41.398919",
     "geom:latitude":41.398919,
     "geom:longitude":-81.505673,
@@ -27,17 +32,32 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62sSIzetTvXSkG6JJ7dRir_41.398919_-81.505673@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461803044,
-    "wof:geomhash":"54c9f424d75cb3c789f2a33b31e5b820",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cac18b41eacbc9b4303c06ce8e11b0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706433407
+        }
+    ],
     "wof:id":706433407,
-    "wof:lastmodified":1466759688,
+    "wof:lastmodified":1494529521,
     "wof:name":"Felix Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

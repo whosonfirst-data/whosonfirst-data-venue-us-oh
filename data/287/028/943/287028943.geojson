@@ -2,9 +2,14 @@
   "id": 287028943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1738 E 30th St Cleveland OH 44114",
+    "addr:housenumber":"1738",
+    "addr:postcode":"44114",
+    "addr:street":"E 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.668179,41.506347,-81.668179,41.506347",
     "geom:latitude":41.506347,
     "geom:longitude":-81.668179,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"3ac6299200d1e07b524c15d239e52497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":287028943,
-    "wof:lastmodified":1466743435,
+    "wof:lastmodified":1491917367,
     "wof:name":"Commercial Electric Pdts Corp",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

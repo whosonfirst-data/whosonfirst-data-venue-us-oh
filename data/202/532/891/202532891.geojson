@@ -2,9 +2,14 @@
   "id": 202532891,
   "type": "Feature",
   "properties": {
+    "addr:full":"6588 Brock St Dublin OH 43017",
+    "addr:housenumber":"6588",
+    "addr:postcode":"43017",
+    "addr:street":"Brock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.100833,40.090217,-83.100833,40.090217",
     "geom:latitude":40.090217,
     "geom:longitude":-83.100833,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"d868be9da32923c77bf6a9bf7c1be4d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":202532891,
-    "wof:lastmodified":1466742431,
+    "wof:lastmodified":1491900888,
     "wof:name":"SKF USA Inc",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186301623,
   "type": "Feature",
   "properties": {
+    "addr:full":"7505 Reading Rd Cincinnati OH 45237",
+    "addr:housenumber":"7505",
+    "addr:postcode":"45237",
+    "addr:street":"Reading Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.458092,39.198337,-84.458092,39.198337",
     "geom:latitude":39.198337,
     "geom:longitude":-84.458092,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"2d823f8aba4d0c3cb6afcdaedf75b573",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":186301623,
-    "wof:lastmodified":1466743980,
+    "wof:lastmodified":1491896875,
     "wof:name":"Hungsco",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

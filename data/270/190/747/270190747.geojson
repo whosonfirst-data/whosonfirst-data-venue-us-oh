@@ -2,9 +2,14 @@
   "id": 270190747,
   "type": "Feature",
   "properties": {
+    "addr:full":"18975 Villaview Rd Cleveland OH 44119",
+    "addr:housenumber":"18975",
+    "addr:postcode":"44119",
+    "addr:street":"Villaview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.547383,41.579853,-81.547383,41.579853",
     "geom:latitude":41.579853,
     "geom:longitude":-81.547383,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"7a5e99231c9c7889abe33cb21819c96e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":270190747,
-    "wof:lastmodified":1466744727,
+    "wof:lastmodified":1491906480,
     "wof:name":"Loyal E Luikart Jr",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

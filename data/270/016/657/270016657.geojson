@@ -2,9 +2,14 @@
   "id": 270016657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1686 Williams Rd Columbus OH 43207",
+    "addr:housenumber":"1686",
+    "addr:postcode":"43207",
+    "addr:street":"Williams Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.946429,39.889605,-82.946429,39.889605",
     "geom:latitude":39.889605,
     "geom:longitude":-82.946429,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85853405,
+        102191575,
+        404524633,
         85633793,
-        101712381,
+        101712421,
         102080969,
-        85853405
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"2dfab51478e4fa6c8e9bb872c0e3ded1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404524633,
+            "locality_id":101712421,
             "neighbourhood_id":85853405,
             "region_id":85688485,
             "venue_id":270016657
         }
     ],
     "wof:id":270016657,
-    "wof:lastmodified":1466742170,
+    "wof:lastmodified":1491919467,
     "wof:name":"John Eramo & Sons Inc",
     "wof:parent_id":85853405,
     "wof:placetype":"venue",

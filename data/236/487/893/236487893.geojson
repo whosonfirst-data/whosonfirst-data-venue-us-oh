@@ -2,9 +2,14 @@
   "id": 236487893,
   "type": "Feature",
   "properties": {
+    "addr:full":"18625 Saint Clair Ave Cleveland OH 44110",
+    "addr:housenumber":"18625",
+    "addr:postcode":"44110",
+    "addr:street":"Saint Clair Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.548037,41.574047,-81.548037,41.574047",
     "geom:latitude":41.574047,
     "geom:longitude":-81.548037,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"ee9e3ced65b19a63ac3df0935c2dbb43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236487893,
-    "wof:lastmodified":1466747793,
+    "wof:lastmodified":1491906478,
     "wof:name":"Unique Jewel's Rstrnt & Lounge",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

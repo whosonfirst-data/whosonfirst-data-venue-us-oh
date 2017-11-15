@@ -2,9 +2,14 @@
   "id": 705796987,
   "type": "Feature",
   "properties": {
+    "addr:full":"5434 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5434",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.145043,39.951571,-83.145043,39.951571",
     "geom:latitude":39.951571,
     "geom:longitude":-83.145043,
@@ -39,13 +44,7 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15iAcA634TSuwgdQ28BSpC_39.951571_-83.145043@1294180530"
@@ -53,18 +52,9 @@
     "wof:country":"US",
     "wof:created":1461788943,
     "wof:geomhash":"1266d4ae8e4230acce4216a66712cabb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":705796987
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":705796987,
-    "wof:lastmodified":1466752542,
+    "wof:lastmodified":1491899831,
     "wof:name":"Car Audio Consultants Inc",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

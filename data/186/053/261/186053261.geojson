@@ -2,9 +2,14 @@
   "id": 186053261,
   "type": "Feature",
   "properties": {
+    "addr:full":"2074 W 25th St Cleveland OH 44113",
+    "addr:housenumber":"2074",
+    "addr:postcode":"44113",
+    "addr:street":"W 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.702233,41.482807,-81.702233,41.482807",
     "geom:latitude":41.482807,
     "geom:longitude":-81.702233,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"4124939218f56d54833ecb6dc3a03f64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186053261,
-    "wof:lastmodified":1466748119,
+    "wof:lastmodified":1491899497,
     "wof:name":"Voodoo Monkey Inc",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

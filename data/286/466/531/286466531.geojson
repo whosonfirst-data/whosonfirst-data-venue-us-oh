@@ -2,9 +2,14 @@
   "id": 286466531,
   "type": "Feature",
   "properties": {
+    "addr:full":"5195 Northfield Rd Bedford OH 44146",
+    "addr:housenumber":"5195",
+    "addr:postcode":"44146",
+    "addr:street":"Northfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.527291,41.419567,-81.527291,41.419567",
     "geom:latitude":41.419567,
     "geom:longitude":-81.527291,
@@ -31,8 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712525,
         102084837
     ],
     "wof:breaches":[],
@@ -40,20 +45,20 @@
         "sg:id":"SG_2uZ2SAlS9mnuAdC0nx1gNd_41.419567_-81.527291@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"589d7bd8952fb9fb9db3c0a83044475d",
+    "wof:geomhash":"e2b3074a3536204002c1509abfe45d66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712525,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":286466531
         }
     ],
     "wof:id":286466531,
-    "wof:lastmodified":1466745365,
+    "wof:lastmodified":1494529530,
     "wof:name":"Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 706142409,
   "type": "Feature",
   "properties": {
+    "addr:full":"5851 Pearl Rd Cleveland OH 44130",
+    "addr:housenumber":"5851",
+    "addr:postcode":"44130",
+    "addr:street":"Pearl Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.745407,41.403949,-81.745407,41.403949",
     "geom:latitude":41.403949,
     "geom:longitude":-81.745407,
@@ -24,17 +29,32 @@
     "sg:postcode":"44130",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SsAmGCkdDN5aCsa0Q7edh_41.403949_-81.745407@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461796812,
-    "wof:geomhash":"52605de1929b7c30ab2388bf657019c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25f7a23ff6e808f87a5fe3bda775f164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706142409
+        }
+    ],
     "wof:id":706142409,
-    "wof:lastmodified":1466753669,
+    "wof:lastmodified":1494529509,
     "wof:name":"Yakovich Milan DDS Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

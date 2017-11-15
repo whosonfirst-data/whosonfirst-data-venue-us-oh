@@ -2,9 +2,14 @@
   "id": 253472945,
   "type": "Feature",
   "properties": {
+    "addr:full":"17128 Detroit Ave Cleveland OH 44107",
+    "addr:housenumber":"17128",
+    "addr:postcode":"44107",
+    "addr:street":"Detroit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.81643,41.485472,-81.81643,41.485472",
     "geom:latitude":41.485472,
     "geom:longitude":-81.81643,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"1f8e0ace76e3fab50e2560028fad0c3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253472945,
-    "wof:lastmodified":1466748219,
+    "wof:lastmodified":1491932133,
     "wof:name":"Rose-N-Sons",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

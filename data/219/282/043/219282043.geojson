@@ -2,9 +2,14 @@
   "id": 219282043,
   "type": "Feature",
   "properties": {
+    "addr:full":"1675 Ridgeway Pl Columbus OH 43212",
+    "addr:housenumber":"1675",
+    "addr:postcode":"43212",
+    "addr:street":"Ridgeway Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.048774,39.979003,-83.048774,39.979003",
     "geom:latitude":39.979003,
     "geom:longitude":-83.048774,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"1e4afb6e418b75599a48041471a8c9c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219282043,
-    "wof:lastmodified":1466742224,
+    "wof:lastmodified":1491924536,
     "wof:name":"L S Graves Assoc Inc",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

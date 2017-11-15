@@ -2,9 +2,14 @@
   "id": 689524087,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Pasadena Ave Columbus OH 43228",
+    "addr:housenumber":"55",
+    "addr:postcode":"43228",
+    "addr:street":"Pasadena Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.142632,39.953955,-83.142632,39.953955",
     "geom:latitude":39.953955,
     "geom:longitude":-83.142632,
@@ -27,13 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oVnfu4rAlt9ghdrptBQQ5_39.953955_-83.142632@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461773873,
     "wof:geomhash":"b9bb7aa597c21e8106835a4e6ec96ab9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":689524087
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689524087,
-    "wof:lastmodified":1466750756,
+    "wof:lastmodified":1491899825,
     "wof:name":"St Paul Lutheran Church Elca",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

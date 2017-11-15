@@ -2,9 +2,14 @@
   "id": 705876171,
   "type": "Feature",
   "properties": {
+    "addr:full":"16900 Detroit Ave Cleveland OH 44107",
+    "addr:housenumber":"16900",
+    "addr:postcode":"44107",
+    "addr:street":"Detroit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.81566,41.485385,-81.81566,41.485385",
     "geom:latitude":41.485385,
     "geom:longitude":-81.81566,
@@ -31,7 +36,8 @@
         85633793,
         101712597,
         102084837,
-        85688485
+        85688485,
+        85897117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85897109,
             "region_id":85688485,
             "venue_id":705876171
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404524417,
+            "locality_id":101712597,
+            "neighbourhood_id":85897117,
+            "region_id":85688485,
+            "venue_id":705876171
         }
     ],
     "wof:id":705876171,
-    "wof:lastmodified":1466754985,
+    "wof:lastmodified":1491932135,
     "wof:name":"Chiropractic Health Svc",
-    "wof:parent_id":85897109,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

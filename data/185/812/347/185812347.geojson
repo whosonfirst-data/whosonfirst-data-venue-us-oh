@@ -2,9 +2,14 @@
   "id": 185812347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1929 Kenny Rd Columbus OH 43210",
+    "addr:housenumber":"1929",
+    "addr:postcode":"43210",
+    "addr:street":"Kenny Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.034787,39.998791,-83.034787,39.998791",
     "geom:latitude":39.998791,
     "geom:longitude":-83.034787,
@@ -36,11 +41,13 @@
     "sg:website":"www.edcouncil.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"953ae15ee45eee30685206657d59fe33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":185812347,
-    "wof:lastmodified":1466742730,
+    "wof:lastmodified":1491921154,
     "wof:name":"Educational Council",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

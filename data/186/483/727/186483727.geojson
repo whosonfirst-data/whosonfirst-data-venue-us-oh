@@ -2,9 +2,14 @@
   "id": 186483727,
   "type": "Feature",
   "properties": {
+    "addr:full":"4709 Clark Ave Cleveland OH 44102",
+    "addr:housenumber":"4709",
+    "addr:postcode":"44102",
+    "addr:street":"Clark Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.719513,41.469575,-81.719513,41.469575",
     "geom:latitude":41.469575,
     "geom:longitude":-81.719513,
@@ -26,11 +31,13 @@
     "sg:website":"www.convenientfoodmart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:brand_id":420575633,
     "wof:breaches":[],
@@ -41,9 +48,10 @@
     "wof:geomhash":"4db4d18fe0b8589aaded241b346c8fac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":186483727,
-    "wof:lastmodified":1466745924,
+    "wof:lastmodified":1491925290,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

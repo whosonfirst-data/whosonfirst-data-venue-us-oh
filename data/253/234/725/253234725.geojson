@@ -2,9 +2,14 @@
   "id": 253234725,
   "type": "Feature",
   "properties": {
+    "addr:full":"997 Alnetta Dr Cincinnati OH 45230",
+    "addr:housenumber":"997",
+    "addr:postcode":"45230",
+    "addr:street":"Alnetta Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.365488,39.068278,-84.365488,39.068278",
     "geom:latitude":39.068278,
     "geom:longitude":-84.365488,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"3641cc2893139eb1c16e131b61924403",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":253234725
         }
     ],
     "wof:id":253234725,
-    "wof:lastmodified":1466744844,
+    "wof:lastmodified":1491901921,
     "wof:name":"One Man's Trash",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253657895,
   "type": "Feature",
   "properties": {
+    "addr:full":"3232 W 32nd St Cleveland OH 44109",
+    "addr:housenumber":"3232",
+    "addr:postcode":"44109",
+    "addr:street":"W 32Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.704336,41.4678,-81.704336,41.4678",
     "geom:latitude":41.4678,
     "geom:longitude":-81.704336,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"468220ed0723e788534922cf2a7c654e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253657895,
-    "wof:lastmodified":1466750493,
+    "wof:lastmodified":1491925297,
     "wof:name":"Babel Tower Construction LLC",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

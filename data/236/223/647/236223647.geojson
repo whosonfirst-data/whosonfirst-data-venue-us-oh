@@ -2,9 +2,14 @@
   "id": 236223647,
   "type": "Feature",
   "properties": {
+    "addr:full":"7000 Bent Tree Blvd Columbus OH 43235",
+    "addr:housenumber":"7000",
+    "addr:postcode":"43235",
+    "addr:street":"Bent Tree Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.084105,40.097764,-83.084105,40.097764",
     "geom:latitude":40.097764,
     "geom:longitude":-83.084105,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"49b5c8f4b370897c16c8d554fd87c18b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":236223647,
-    "wof:lastmodified":1466744575,
+    "wof:lastmodified":1491900825,
     "wof:name":"Andersons The General Store",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

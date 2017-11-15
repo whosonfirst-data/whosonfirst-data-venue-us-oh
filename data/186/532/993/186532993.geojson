@@ -2,9 +2,14 @@
   "id": 186532993,
   "type": "Feature",
   "properties": {
+    "addr:full":"7628 Castleton Pl Cincinnati OH 45237",
+    "addr:housenumber":"7628",
+    "addr:postcode":"45237",
+    "addr:street":"Castleton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.462829,39.200297,-84.462829,39.200297",
     "geom:latitude":39.200297,
     "geom:longitude":-84.462829,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"c518116889b71c2b1e63a6dd7c810b6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186532993,
-    "wof:lastmodified":1466746471,
+    "wof:lastmodified":1491896885,
     "wof:name":"Advanced Floor Care & Blind CL",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

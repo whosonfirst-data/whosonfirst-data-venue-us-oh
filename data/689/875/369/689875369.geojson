@@ -2,9 +2,14 @@
   "id": 689875369,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Greenwell Ave Cincinnati OH 45238",
+    "addr:housenumber":"200",
+    "addr:postcode":"45238",
+    "addr:street":"Greenwell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.608183,39.08583,-84.608183,39.08583",
     "geom:latitude":39.08583,
     "geom:longitude":-84.608183,
@@ -31,7 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688641,
+        102191575,
         85633793,
+        85947195,
+        102084469,
+        420534851,
         85803107,
         102084481
     ],
@@ -44,6 +53,15 @@
     "wof:geomhash":"ea4f3366aa50cc6fb29c0006f0c84cd0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084469,
+            "locality_id":85947195,
+            "neighbourhood_id":420534851,
+            "region_id":85688641,
+            "venue_id":689875369
+        },
+        {
             "country_id":85633793,
             "county_id":102084481,
             "neighbourhood_id":85803107,
@@ -52,9 +70,9 @@
         }
     ],
     "wof:id":689875369,
-    "wof:lastmodified":1466759797,
+    "wof:lastmodified":1491929779,
     "wof:name":"Tim Vest",
-    "wof:parent_id":85803107,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

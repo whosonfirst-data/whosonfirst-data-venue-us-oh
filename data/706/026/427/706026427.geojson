@@ -2,9 +2,14 @@
   "id": 706026427,
   "type": "Feature",
   "properties": {
+    "addr:full":"933 Archer Rd Cleveland OH 44146",
+    "addr:housenumber":"933",
+    "addr:postcode":"44146",
+    "addr:street":"Archer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.515372,41.39362,-81.515372,41.39362",
     "geom:latitude":41.39362,
     "geom:longitude":-81.515372,
@@ -29,17 +34,32 @@
         "drapery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_237Zq4uy8okwMlNRcpbay1_41.393620_-81.515372@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461794135,
-    "wof:geomhash":"a40321037632275a0ecfd93c2318d812",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74566fa11067427d4874e32d78849f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706026427
+        }
+    ],
     "wof:id":706026427,
-    "wof:lastmodified":1466748477,
+    "wof:lastmodified":1494529516,
     "wof:name":"Drapery Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

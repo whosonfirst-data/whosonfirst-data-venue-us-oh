@@ -2,9 +2,14 @@
   "id": 270076603,
   "type": "Feature",
   "properties": {
+    "addr:full":"1550 Central Ave Cincinnati OH 45214",
+    "addr:housenumber":"1550",
+    "addr:postcode":"45214",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.522125,39.111585,-84.522125,39.111585",
     "geom:latitude":39.111585,
     "geom:longitude":-84.522125,
@@ -29,11 +34,13 @@
     "sg:website":"www.tristatewholesale.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85839951
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"879bf424662229534b2e8f5ec4c9605e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85839951,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":270076603,
-    "wof:lastmodified":1466743037,
+    "wof:lastmodified":1491925132,
     "wof:name":"Tri-State Wholesale Building",
     "wof:parent_id":85839951,
     "wof:placetype":"venue",

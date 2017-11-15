@@ -2,9 +2,14 @@
   "id": 253655745,
   "type": "Feature",
   "properties": {
+    "addr:full":"496 Sunbury Rd Columbus OH 43219",
+    "addr:housenumber":"496",
+    "addr:postcode":"43219",
+    "addr:street":"Sunbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.951983,39.979863,-82.951983,39.979863",
     "geom:latitude":39.979863,
     "geom:longitude":-82.951983,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"744147861606ca482b0b7771a2f384f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":253655745
         }
     ],
     "wof:id":253655745,
-    "wof:lastmodified":1466750365,
+    "wof:lastmodified":1491907472,
     "wof:name":"Danielle Hogg",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

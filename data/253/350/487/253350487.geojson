@@ -2,9 +2,14 @@
   "id": 253350487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2934 Broadway Ave Cleveland OH 44115",
+    "addr:housenumber":"2934",
+    "addr:postcode":"44115",
+    "addr:street":"Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.670022,41.488366,-81.670022,41.488366",
     "geom:latitude":41.488366,
     "geom:longitude":-81.670022,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871791,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843,
-        85871791
+        85688485,
+        85871843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +50,30 @@
     "wof:geomhash":"ee4be4b28f7c542217023e2c009303e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871843,
+            "neighbourhood_id":85871791,
             "region_id":85688485,
             "venue_id":253350487
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871791,
+            "neighbourhood_id":85871843,
             "region_id":85688485,
             "venue_id":253350487
         }
     ],
     "wof:id":253350487,
-    "wof:lastmodified":1466746386,
+    "wof:lastmodified":1491921263,
     "wof:name":"Armont Machine Repair Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

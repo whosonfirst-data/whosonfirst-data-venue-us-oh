@@ -2,9 +2,14 @@
   "id": 236325243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1730 W 25th St Cleveland OH 44113",
+    "addr:housenumber":"1730",
+    "addr:postcode":"44113",
+    "addr:street":"W 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.706209,41.487854,-81.706209,41.487854",
     "geom:latitude":41.487854,
     "geom:longitude":-81.706209,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"cb362a5098b8a2c04a83739a636f4155",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":236325243,
-    "wof:lastmodified":1466745837,
+    "wof:lastmodified":1491899506,
     "wof:name":"Faust Psychological Services",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

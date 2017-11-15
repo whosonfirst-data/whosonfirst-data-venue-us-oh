@@ -2,9 +2,14 @@
   "id": 270308695,
   "type": "Feature",
   "properties": {
+    "addr:full":"3104 Morse Rd Columbus OH 43231",
+    "addr:housenumber":"3104",
+    "addr:postcode":"43231",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.934991,40.058768,-82.934991,40.058768",
     "geom:latitude":40.058768,
     "geom:longitude":-82.934991,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"029b95d396cc387286f4bd7e8eac8cf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":270308695,
-    "wof:lastmodified":1466746475,
+    "wof:lastmodified":1491903480,
     "wof:name":"Performance Auto Detailing Inc",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185784233,
   "type": "Feature",
   "properties": {
+    "addr:full":"1929 Staunton Rd Cleveland OH 44118",
+    "addr:housenumber":"1929",
+    "addr:postcode":"44118",
+    "addr:street":"Staunton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.547906,41.508374,-81.547906,41.508374",
     "geom:latitude":41.508374,
     "geom:longitude":-81.547906,
@@ -28,10 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897009,
+        102191575,
+        404524461,
         85633793,
-        101712565,
-        102084837
+        101712545,
+        102084837,
+        85688485,
+        85897043,
+        404525063,
+        101712565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +52,30 @@
     "wof:geomhash":"e4294d0f7fe3cc77f422424b5b322914",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524461,
+            "locality_id":101712545,
+            "neighbourhood_id":85897009,
+            "region_id":85688485,
+            "venue_id":185784233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85897043,
             "region_id":85688485,
             "venue_id":185784233
         }
     ],
     "wof:id":185784233,
-    "wof:lastmodified":1466742475,
+    "wof:lastmodified":1491926266,
     "wof:name":"Culinary Caper",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

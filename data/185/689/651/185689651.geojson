@@ -2,9 +2,14 @@
   "id": 185689651,
   "type": "Feature",
   "properties": {
+    "addr:full":"3622 Mayfield Rd Cleveland OH 44118",
+    "addr:housenumber":"3622",
+    "addr:postcode":"44118",
+    "addr:street":"Mayfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.555229,41.520338,-81.555229,41.520338",
     "geom:latitude":41.520338,
     "geom:longitude":-81.555229,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"53281906b78a271f34b0437ea2af86a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":185689651,
-    "wof:lastmodified":1466749029,
+    "wof:lastmodified":1491926272,
     "wof:name":"Shaker Square Beverages Inc",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

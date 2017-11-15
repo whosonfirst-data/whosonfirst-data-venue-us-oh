@@ -2,9 +2,14 @@
   "id": 220075233,
   "type": "Feature",
   "properties": {
+    "addr:full":"2692 E 5th Ave Columbus OH 43219",
+    "addr:housenumber":"2692",
+    "addr:postcode":"43219",
+    "addr:street":"E 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.93249,39.985245,-82.93249,39.985245",
     "geom:latitude":39.985245,
     "geom:longitude":-82.93249,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"cc82b8f57175f07af3b16628d14f5312",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":220075233
         }
     ],
     "wof:id":220075233,
-    "wof:lastmodified":1466748658,
+    "wof:lastmodified":1491907473,
     "wof:name":"St Thomas The Apostle School",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689719685,
   "type": "Feature",
   "properties": {
+    "addr:full":"1756 Hess Blvd Columbus OH 43212",
+    "addr:housenumber":"1756",
+    "addr:postcode":"43212",
+    "addr:street":"Hess Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.032479,39.995303,-83.032479,39.995303",
     "geom:latitude":39.995303,
     "geom:longitude":-83.032479,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +58,10 @@
     "wof:geomhash":"f00d864f1b85838ba52a84c4ebc05065",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":689719685,
-    "wof:lastmodified":1466756032,
+    "wof:lastmodified":1491921149,
     "wof:name":"James Balley Enterprises",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

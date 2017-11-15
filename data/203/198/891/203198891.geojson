@@ -2,9 +2,14 @@
   "id": 203198891,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"2010",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.675758,41.501485,-81.675758,41.501485",
     "geom:latitude":41.501485,
     "geom:longitude":-81.675758,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"aae0efc51ef7b9a7aa3d9fac73a2e6d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203198891,
-    "wof:lastmodified":1466742891,
+    "wof:lastmodified":1491917355,
     "wof:name":"Gems Department Store",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

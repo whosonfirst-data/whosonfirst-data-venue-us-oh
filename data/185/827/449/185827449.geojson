@@ -2,9 +2,14 @@
   "id": 185827449,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Elizabeth St Cincinnati OH 45203",
+    "addr:housenumber":"504",
+    "addr:postcode":"45203",
+    "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.523527,39.106176,-84.523527,39.106176",
     "geom:latitude":39.106176,
     "geom:longitude":-84.523527,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873121,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873121
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"44c9ddd279970ac05a8dbeecc4121dad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873121,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":185827449,
-    "wof:lastmodified":1466742860,
+    "wof:lastmodified":1491922428,
     "wof:name":"Healthcare Information Resourc",
     "wof:parent_id":85873121,
     "wof:placetype":"venue",

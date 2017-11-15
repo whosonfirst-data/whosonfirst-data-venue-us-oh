@@ -2,9 +2,14 @@
   "id": 252910295,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 N Parkview Ave Columbus OH 43209",
+    "addr:housenumber":"244",
+    "addr:postcode":"43209",
+    "addr:street":"N Parkview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.940793,39.974504,-82.940793,39.974504",
     "geom:latitude":39.974504,
     "geom:longitude":-82.940793,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"ed0af113c9bd77cfb28faee70b9e51f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":252910295
         }
     ],
     "wof:id":252910295,
-    "wof:lastmodified":1466744354,
+    "wof:lastmodified":1491907444,
     "wof:name":"Bexley Paper Co",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

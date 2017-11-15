@@ -2,9 +2,14 @@
   "id": 705742391,
   "type": "Feature",
   "properties": {
+    "addr:full":"5209 Northfield Rd Cleveland OH 44146",
+    "addr:housenumber":"5209",
+    "addr:postcode":"44146",
+    "addr:street":"Northfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.527291,41.419693,-81.527291,41.419693",
     "geom:latitude":41.419693,
     "geom:longitude":-81.527291,
@@ -27,17 +32,32 @@
         "sportswear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cc819f57Mv9PZcoxIyCTo_41.419693_-81.527291@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461787699,
-    "wof:geomhash":"b94bee206529ff31c85121cc7429229e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09e23d5fa573279fdaa07d51c3b46791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":705742391
+        }
+    ],
     "wof:id":705742391,
-    "wof:lastmodified":1466750592,
+    "wof:lastmodified":1494529524,
     "wof:name":"Mister Alans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 286804789,
   "type": "Feature",
   "properties": {
+    "addr:full":"1621 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"1621",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.681828,41.500885,-81.681828,41.500885",
     "geom:latitude":41.500885,
     "geom:longitude":-81.681828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1621 Euclid Ave",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -25,23 +31,27 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
+    "wof:brand_id":1125150315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CZ0mimWeFmOrgu4Ky9FE5_41.500885_-81.681828@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"b426832bfe552235a8273de72d81f120",
+    "wof:geomhash":"2ad7416331a0fedf8e4b8d3f62848361",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -49,7 +59,7 @@
         }
     ],
     "wof:id":286804789,
-    "wof:lastmodified":1466750081,
+    "wof:lastmodified":1510697387,
     "wof:name":"Principal Financial Group",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

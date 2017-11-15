@@ -2,9 +2,14 @@
   "id": 219241831,
   "type": "Feature",
   "properties": {
+    "addr:full":"18911 E Shoreland Ave Cleveland OH 44116",
+    "addr:housenumber":"18911",
+    "addr:postcode":"44116",
+    "addr:street":"E Shoreland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.832013,41.47514,-81.832013,41.47514",
     "geom:latitude":41.47514,
     "geom:longitude":-81.832013,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"5bc089cb1c9bdb09f662bffe167e44ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219241831,
-    "wof:lastmodified":1466749203,
+    "wof:lastmodified":1491932121,
     "wof:name":"Premiere Physicians Ctr Inc",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

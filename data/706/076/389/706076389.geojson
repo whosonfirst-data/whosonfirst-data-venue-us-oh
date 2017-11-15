@@ -2,9 +2,14 @@
   "id": 706076389,
   "type": "Feature",
   "properties": {
+    "addr:full":"5869 Pearl Rd Cleveland OH 44130",
+    "addr:housenumber":"5869",
+    "addr:postcode":"44130",
+    "addr:street":"Pearl Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.746491,41.403069,-81.746491,41.403069",
     "geom:latitude":41.403069,
     "geom:longitude":-81.746491,
@@ -27,17 +32,32 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NjDwdxfgeE4tTTu89AtLA_41.403069_-81.746491@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461795183,
-    "wof:geomhash":"563bdbfb6f6cf3920a5c5d13bac714f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f649678122f2388e79918e2f4e607e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706076389
+        }
+    ],
     "wof:id":706076389,
-    "wof:lastmodified":1466751557,
+    "wof:lastmodified":1494529509,
     "wof:name":"Zorc Photo & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

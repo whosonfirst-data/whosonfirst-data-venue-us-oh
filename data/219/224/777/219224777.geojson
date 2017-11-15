@@ -2,9 +2,14 @@
   "id": 219224777,
   "type": "Feature",
   "properties": {
+    "addr:full":"4725 Monticello Blvd Cleveland OH 44143",
+    "addr:housenumber":"4725",
+    "addr:postcode":"44143",
+    "addr:street":"Monticello Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.50745,41.539019,-81.50745,41.539019",
     "geom:latitude":41.539019,
     "geom:longitude":-81.50745,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712531,
         102084837
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_4iWkFXdP2cCAXJfNJjoZSP_41.539019_-81.507450@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"3b1897c36aaa3e15743b3565b41f458a",
+    "wof:geomhash":"131972d5b72f0ba2b1602aaa7d574399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712531,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":219224777
         }
     ],
     "wof:id":219224777,
-    "wof:lastmodified":1466748864,
+    "wof:lastmodified":1494529540,
     "wof:name":"Jubilee Excavation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185748601,
   "type": "Feature",
   "properties": {
+    "addr:full":"19106 Old Detroit Rd Cleveland OH 44116",
+    "addr:housenumber":"19106",
+    "addr:postcode":"44116",
+    "addr:street":"Old Detroit Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.832347,41.483209,-81.832347,41.483209",
     "geom:latitude":41.483209,
     "geom:longitude":-81.832347,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"d1a31bf8897748b5b54ee48d324dc745",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":185748601,
-    "wof:lastmodified":1466742164,
+    "wof:lastmodified":1491932137,
     "wof:name":"Pinnacle Computer Group",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

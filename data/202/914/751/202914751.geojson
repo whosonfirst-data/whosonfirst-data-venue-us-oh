@@ -2,9 +2,14 @@
   "id": 202914751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2211 Hamilton Ave Cleveland OH 44114",
+    "addr:housenumber":"2211",
+    "addr:postcode":"44114",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.680992,41.509588,-81.680992,41.509588",
     "geom:latitude":41.509588,
     "geom:longitude":-81.680992,
@@ -29,11 +34,13 @@
     "sg:website":"www.genierepros.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"01a41cea72eeea5f99951b1f24c86706",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":202914751,
-    "wof:lastmodified":1466746707,
+    "wof:lastmodified":1491929346,
     "wof:name":"Genie Repros",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219234801,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 E Weber Rd Columbus OH 43211",
+    "addr:housenumber":"910",
+    "addr:postcode":"43211",
+    "addr:street":"E Weber Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.987409,40.023829,-82.987409,40.023829",
     "geom:latitude":40.023829,
     "geom:longitude":-82.987409,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"f82bbbb4ffa1f87fbd9c23e7b6e22003",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219234801,
-    "wof:lastmodified":1466749006,
+    "wof:lastmodified":1491933594,
     "wof:name":"Wachholz Co",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

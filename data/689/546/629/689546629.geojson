@@ -2,9 +2,14 @@
   "id": 689546629,
   "type": "Feature",
   "properties": {
+    "addr:full":"2590 Ferris Rd Columbus OH 43224",
+    "addr:housenumber":"2590",
+    "addr:postcode":"43224",
+    "addr:street":"Ferris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.949373,40.049056,-82.949373,40.049056",
     "geom:latitude":40.049056,
     "geom:longitude":-82.949373,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85811437
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,20 @@
     "wof:geomhash":"829e6836eec902ed5aaa0a5049344b34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":85811437,
+            "neighbourhood_id":85870259,
             "region_id":85688485,
             "venue_id":689546629
         }
     ],
     "wof:id":689546629,
-    "wof:lastmodified":1466751601,
+    "wof:lastmodified":1491903472,
     "wof:name":"Christine's Hair & Tanning",
-    "wof:parent_id":85811437,
+    "wof:parent_id":85870259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

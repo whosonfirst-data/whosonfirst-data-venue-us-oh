@@ -2,9 +2,14 @@
   "id": 689578121,
   "type": "Feature",
   "properties": {
+    "addr:full":"3912 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3912",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.955113,40.047864,-82.955113,40.047864",
     "geom:latitude":40.047864,
     "geom:longitude":-82.955113,
@@ -27,13 +32,7 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GIUOMOSVmR0HLEr17B5nc_40.047864_-82.955113@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461775536,
     "wof:geomhash":"58a248474ae0d23ae72def4f88f15679",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":689578121
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689578121,
-    "wof:lastmodified":1466752590,
+    "wof:lastmodified":1491926714,
     "wof:name":"Sunshine Drive Thru",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

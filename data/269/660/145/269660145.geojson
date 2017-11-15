@@ -2,9 +2,14 @@
   "id": 269660145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Superior Ave E Cleveland OH 44114",
+    "addr:housenumber":"1111",
+    "addr:postcode":"44114",
+    "addr:street":"Superior Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.687528,41.502644,-81.687528,41.502644",
     "geom:latitude":41.502644,
     "geom:longitude":-81.687528,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"2bded8f78f102a9de5a3085cb9a6b959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":269660145,
-    "wof:lastmodified":1466744653,
+    "wof:lastmodified":1491896581,
     "wof:name":"Masters & Assoc",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

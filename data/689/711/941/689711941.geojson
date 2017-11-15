@@ -2,9 +2,14 @@
   "id": 689711941,
   "type": "Feature",
   "properties": {
+    "addr:full":"5109 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5109",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.139383,39.951671,-83.139383,39.951671",
     "geom:latitude":39.951671,
     "geom:longitude":-83.139383,
@@ -28,13 +33,7 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uO5r6THiQSb1l8GRTx99t_39.951671_-83.139383@1294180530"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1461779447,
     "wof:geomhash":"2ff076bdca4b28ec54059b89ceb1e53e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":689711941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689711941,
-    "wof:lastmodified":1466755723,
+    "wof:lastmodified":1491899831,
     "wof:name":"Doctor's West Expansion",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

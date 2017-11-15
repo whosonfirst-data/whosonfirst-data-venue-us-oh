@@ -2,9 +2,14 @@
   "id": 253686125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 E 222nd St Cleveland OH 44117",
+    "addr:housenumber":"1050",
+    "addr:postcode":"44117",
+    "addr:street":"E 222Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.526729,41.580279,-81.526729,41.580279",
     "geom:latitude":41.580279,
     "geom:longitude":-81.526729,
@@ -29,10 +34,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        420534663,
+        102191575,
+        404524401,
         85633793,
         101712577,
-        102084837
+        102084837,
+        85688485,
+        85838557,
+        404523697,
+        101712563,
+        85897077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +54,40 @@
     "wof:geomhash":"9a15f79c23ae2dc2a6a4cbcdb3bc3146",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524401,
             "locality_id":101712577,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420534663,
+            "region_id":85688485,
+            "venue_id":253686125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85838557,
+            "region_id":85688485,
+            "venue_id":253686125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404524401,
+            "locality_id":101712577,
+            "neighbourhood_id":85897077,
             "region_id":85688485,
             "venue_id":253686125
         }
     ],
     "wof:id":253686125,
-    "wof:lastmodified":1466750698,
+    "wof:lastmodified":1491906482,
     "wof:name":"Euclid Equipment Rental & Sls",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 706551145,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 N High St Columbus OH 43215",
+    "addr:housenumber":"700",
+    "addr:postcode":"43215",
+    "addr:street":"N High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.003354,39.976526,-83.003354,39.976526",
     "geom:latitude":39.976526,
     "geom:longitude":-83.003354,
@@ -30,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870239,
+        85867125,
         102191575,
         404524625,
         85633793,
         101712381,
         102080969,
         85688485,
-        85867125
+        85870239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +58,7 @@
             "county_id":102080969,
             "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":85870239,
+            "neighbourhood_id":85867125,
             "region_id":85688485,
             "venue_id":706551145
         },
@@ -63,15 +68,15 @@
             "county_id":102080969,
             "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":85867125,
+            "neighbourhood_id":85870239,
             "region_id":85688485,
             "venue_id":706551145
         }
     ],
     "wof:id":706551145,
-    "wof:lastmodified":1466761469,
+    "wof:lastmodified":1491888063,
     "wof:name":"R.J. Snappers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 219293205,
   "type": "Feature",
   "properties": {
+    "addr:full":"743 Azalea Dr Cleveland OH 44143",
+    "addr:housenumber":"743",
+    "addr:postcode":"44143",
+    "addr:street":"Azalea Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.514242,41.539344,-81.514242,41.539344",
     "geom:latitude":41.539344,
     "geom:longitude":-81.514242,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712531,
         102084837
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_4hYldeBn4U6PGJQoSD7j7z_41.539344_-81.514242@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"287ca08e33dc52098810eaeb2af0a6d3",
+    "wof:geomhash":"62ade621def5d3e23d673e05f7320fce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712531,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":219293205
         }
     ],
     "wof:id":219293205,
-    "wof:lastmodified":1466742365,
+    "wof:lastmodified":1494529537,
     "wof:name":"TDS Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

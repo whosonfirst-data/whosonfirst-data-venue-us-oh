@@ -2,9 +2,14 @@
   "id": 705873225,
   "type": "Feature",
   "properties": {
+    "addr:full":"3411 Calimero Dr Columbus OH 43224",
+    "addr:housenumber":"3411",
+    "addr:postcode":"43224",
+    "addr:street":"Calimero Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.950495,40.039213,-82.950495,40.039213",
     "geom:latitude":40.039213,
     "geom:longitude":-82.950495,
@@ -27,13 +32,7 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40pD4WwgUrmauXAvKRZYu3_40.039213_-82.950495@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461790773,
     "wof:geomhash":"af30af74be919ae4d14a9bee29d7c790",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":705873225
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":705873225,
-    "wof:lastmodified":1466754675,
+    "wof:lastmodified":1491926714,
     "wof:name":"National Refund Recovery",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

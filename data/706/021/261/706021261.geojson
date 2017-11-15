@@ -2,9 +2,14 @@
   "id": 706021261,
   "type": "Feature",
   "properties": {
+    "addr:full":"6190 Randolph Rd Cleveland OH 44146",
+    "addr:housenumber":"6190",
+    "addr:postcode":"44146",
+    "addr:street":"Randolph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.509323,41.390428,-81.509323,41.390428",
     "geom:latitude":41.390428,
     "geom:longitude":-81.509323,
@@ -27,17 +32,32 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BONmN8HoB7Tdm71qbgTD2_41.390428_-81.509323@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461794036,
-    "wof:geomhash":"e624c817a64352e5a4c81fa18b235ec3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21b4f132c289dbb4a9e28300c55479b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706021261
+        }
+    ],
     "wof:id":706021261,
-    "wof:lastmodified":1466747942,
+    "wof:lastmodified":1494529525,
     "wof:name":"Thomas Taylor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

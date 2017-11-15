@@ -2,9 +2,14 @@
   "id": 705911475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2175 Cornell Rd Cleveland OH 44106",
+    "addr:housenumber":"2175",
+    "addr:postcode":"44106",
+    "addr:street":"Cornell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.600528,41.504134,-81.600528,41.504134",
     "geom:latitude":41.504134,
     "geom:longitude":-81.600528,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867115,
+        85830935,
         102191575,
         404523697,
         85633793,
         101712563,
         102084837,
-        85688485
+        85688485,
+        85867115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102084837,
             "localadmin_id":404523697,
             "locality_id":101712563,
+            "neighbourhood_id":85830935,
+            "region_id":85688485,
+            "venue_id":705911475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
             "neighbourhood_id":85867115,
             "region_id":85688485,
             "venue_id":705911475
         }
     ],
     "wof:id":705911475,
-    "wof:lastmodified":1466755971,
+    "wof:lastmodified":1491900523,
     "wof:name":"Goose Acres Folk Music Center",
-    "wof:parent_id":85867115,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

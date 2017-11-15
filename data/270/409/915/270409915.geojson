@@ -2,9 +2,14 @@
   "id": 270409915,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 E Gates St Columbus OH 43206",
+    "addr:housenumber":"299",
+    "addr:postcode":"43206",
+    "addr:street":"E Gates St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.985525,39.937234,-82.985525,39.937234",
     "geom:latitude":39.937234,
     "geom:longitude":-82.985525,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893113
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"415152282a425e77008b33d30879e038",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893113,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":270409915,
-    "wof:lastmodified":1466747970,
+    "wof:lastmodified":1491902972,
     "wof:name":"Nature S Grace",
     "wof:parent_id":85893113,
     "wof:placetype":"venue",

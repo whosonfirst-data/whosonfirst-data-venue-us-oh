@@ -2,9 +2,14 @@
   "id": 186141577,
   "type": "Feature",
   "properties": {
+    "addr:full":"512 Euclid Ave Cleveland OH 44114",
+    "addr:housenumber":"512",
+    "addr:postcode":"44114",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.690008,41.499697,-81.690008,41.499697",
     "geom:latitude":41.499697,
     "geom:longitude":-81.690008,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:brand_id":420574289,
     "wof:breaches":[],
@@ -43,9 +50,10 @@
     "wof:geomhash":"b5b7a83239883ee384536e620439d8aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186141577,
-    "wof:lastmodified":1466742365,
+    "wof:lastmodified":1491896611,
     "wof:name":"Dunkin Donuts",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

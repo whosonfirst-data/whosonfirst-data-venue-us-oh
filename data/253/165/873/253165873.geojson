@@ -2,9 +2,14 @@
   "id": 253165873,
   "type": "Feature",
   "properties": {
+    "addr:full":"1496 Morse Rd Columbus OH 43229",
+    "addr:housenumber":"1496",
+    "addr:postcode":"43229",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.982428,40.06095,-82.982428,40.06095",
     "geom:latitude":40.06095,
     "geom:longitude":-82.982428,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"4edd83fb6a2e7f95f5f02e4dc88a27d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253165873,
-    "wof:lastmodified":1466743976,
+    "wof:lastmodified":1491903516,
     "wof:name":"General Automobile Insurance",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

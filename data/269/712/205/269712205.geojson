@@ -2,9 +2,14 @@
   "id": 269712205,
   "type": "Feature",
   "properties": {
+    "addr:full":"1931 W 47th St Cleveland OH 44102",
+    "addr:housenumber":"1931",
+    "addr:postcode":"44102",
+    "addr:street":"W 47Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.718827,41.478897,-81.718827,41.478897",
     "geom:latitude":41.478897,
     "geom:longitude":-81.718827,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"2f5f9ab661dab4ca2140528d020e1474",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":269712205,
-    "wof:lastmodified":1466745434,
+    "wof:lastmodified":1491914717,
     "wof:name":"Watters Manufacturing Co Inc",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286328993,
   "type": "Feature",
   "properties": {
+    "addr:full":"873 Walcutt Ave Columbus OH 43219",
+    "addr:housenumber":"873",
+    "addr:postcode":"43219",
+    "addr:street":"Walcutt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.943896,39.986129,-82.943896,39.986129",
     "geom:latitude":39.986129,
     "geom:longitude":-82.943896,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"83c93d635f85b381e6a30e4a4dfd9e0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":286328993
         }
     ],
     "wof:id":286328993,
-    "wof:lastmodified":1466743309,
+    "wof:lastmodified":1491907470,
     "wof:name":"Columbus Public School",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

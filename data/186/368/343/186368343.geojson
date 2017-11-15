@@ -2,9 +2,14 @@
   "id": 186368343,
   "type": "Feature",
   "properties": {
+    "addr:full":"15711 Waterloo Rd Cleveland OH 44110",
+    "addr:housenumber":"15711",
+    "addr:postcode":"44110",
+    "addr:street":"Waterloo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.571775,41.570965,-81.571775,41.570965",
     "geom:latitude":41.570965,
     "geom:longitude":-81.571775,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"37a7aa0af5deafdcfffe308e67dd39fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186368343,
-    "wof:lastmodified":1466744660,
+    "wof:lastmodified":1491918428,
     "wof:name":"Beachland Ballroom Inc",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

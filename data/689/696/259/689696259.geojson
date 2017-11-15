@@ -2,9 +2,14 @@
   "id": 689696259,
   "type": "Feature",
   "properties": {
+    "addr:full":"645 Trebisky Rd Cleveland OH 44143",
+    "addr:housenumber":"645",
+    "addr:postcode":"44143",
+    "addr:street":"Trebisky Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.510213,41.53987,-81.510213,41.53987",
     "geom:latitude":41.53987,
     "geom:longitude":-81.510213,
@@ -24,17 +29,32 @@
     "sg:postcode":"44143",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38kOvvL4yxQGR3U0DNtq2O_41.539870_-81.510213@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461779012,
-    "wof:geomhash":"2f3627134b38facb05f9cd3b91d0654e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0e6fb0d35d7e298199171d53b2eada7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689696259
+        }
+    ],
     "wof:id":689696259,
-    "wof:lastmodified":1466755272,
+    "wof:lastmodified":1494529539,
     "wof:name":"Daniel R Schmoldt & Entps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

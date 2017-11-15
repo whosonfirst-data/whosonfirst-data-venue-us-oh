@@ -2,9 +2,14 @@
   "id": 236519609,
   "type": "Feature",
   "properties": {
+    "addr:full":"22707 Rockside Rd Cleveland OH 44146",
+    "addr:housenumber":"",
+    "addr:postcode":"22707;44146",
+    "addr:street":"Rockside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.517849,41.408467,-81.517849,41.408467",
     "geom:latitude":41.408467,
     "geom:longitude":-81.517849,
@@ -26,8 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712523,
         102084837
     ],
     "wof:breaches":[],
@@ -35,20 +40,20 @@
         "sg:id":"SG_6IATwlileIxZ0SohY6sVFg_41.408467_-81.517849@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"2c7ba9bab5f5f70c29e74730866b14b8",
+    "wof:geomhash":"7e525a79f767bd9a2f416968db322636",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712523,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":236519609
         }
     ],
     "wof:id":236519609,
-    "wof:lastmodified":1466748199,
+    "wof:lastmodified":1494529516,
     "wof:name":"IHOP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

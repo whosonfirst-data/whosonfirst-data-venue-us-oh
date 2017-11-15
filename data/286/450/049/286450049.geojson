@@ -2,9 +2,14 @@
   "id": 286450049,
   "type": "Feature",
   "properties": {
+    "addr:full":"7057 Paddison Rd Cincinnati OH 45230",
+    "addr:housenumber":"",
+    "addr:postcode":"7057;45230",
+    "addr:street":"Paddison Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.358305,39.076941,-84.358305,39.076941",
     "geom:latitude":39.076941,
     "geom:longitude":-84.358305,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"eec05d261d8a30b544a8ee2efc17081b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":286450049
         }
     ],
     "wof:id":286450049,
-    "wof:lastmodified":1466745130,
+    "wof:lastmodified":1491901913,
     "wof:name":"Judy Barrick Enhancement Ctr",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

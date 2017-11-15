@@ -2,9 +2,14 @@
   "id": 252795407,
   "type": "Feature",
   "properties": {
+    "addr:full":"5760 Frantz Rd Dublin OH 43016",
+    "addr:housenumber":"5760",
+    "addr:postcode":"43016",
+    "addr:street":"Frantz Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.118368,40.069839,-83.118368,40.069839",
     "geom:latitude":40.069839,
     "geom:longitude":-83.118368,
@@ -26,11 +31,13 @@
     "sg:website":"www.ouac.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"79a8d40b493b29973a4323b9d5b4f12f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":252795407,
-    "wof:lastmodified":1466742947,
+    "wof:lastmodified":1491900943,
     "wof:name":"Once Upon A Child",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

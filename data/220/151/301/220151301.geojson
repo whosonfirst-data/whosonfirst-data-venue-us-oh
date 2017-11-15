@@ -2,9 +2,14 @@
   "id": 220151301,
   "type": "Feature",
   "properties": {
+    "addr:full":"2657 Whimswillow Dr Columbus OH 43207",
+    "addr:housenumber":"2657",
+    "addr:postcode":"43207",
+    "addr:street":"Whimswillow Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.929975,39.891997,-82.929975,39.891997",
     "geom:latitude":39.891997,
     "geom:longitude":-82.929975,
@@ -30,10 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85853405,
+        102191575,
+        404524633,
         85633793,
-        101712381,
-        102080969
+        101712421,
+        102080969,
+        85688485,
+        85817607,
+        404524625,
+        101712381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +54,30 @@
     "wof:geomhash":"969803a8394c484f77794b372b7672e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524633,
+            "locality_id":101712421,
+            "neighbourhood_id":85853405,
+            "region_id":85688485,
+            "venue_id":220151301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85817607,
             "region_id":85688485,
             "venue_id":220151301
         }
     ],
     "wof:id":220151301,
-    "wof:lastmodified":1466742392,
+    "wof:lastmodified":1491919465,
     "wof:name":"Original Moving Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

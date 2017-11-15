@@ -2,9 +2,14 @@
   "id": 203146669,
   "type": "Feature",
   "properties": {
+    "addr:full":"14912 Lake Shore Blvd Cleveland OH 44110",
+    "addr:housenumber":"14912",
+    "addr:postcode":"44110",
+    "addr:street":"Lake Shore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.577887,41.573072,-81.577887,41.573072",
     "geom:latitude":41.573072,
     "geom:longitude":-81.577887,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"8258fa7d66a07e33a4d4a9ccd566e947",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203146669,
-    "wof:lastmodified":1466742310,
+    "wof:lastmodified":1491918420,
     "wof:name":"Anne E Dalzell CPA",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

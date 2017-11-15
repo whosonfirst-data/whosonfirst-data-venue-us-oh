@@ -2,9 +2,14 @@
   "id": 286323195,
   "type": "Feature",
   "properties": {
+    "addr:full":"6900 Sawmill Village Dr Columbus OH 43235",
+    "addr:housenumber":"6900",
+    "addr:postcode":"43235",
+    "addr:street":"Sawmill Village Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.080652,40.097428,-83.080652,40.097428",
     "geom:latitude":40.097428,
     "geom:longitude":-83.080652,
@@ -30,11 +35,13 @@
     "sg:website":"www.sawmillvillageapts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"b47e518480cba17eed35dac63fecc5a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286323195,
-    "wof:lastmodified":1466743220,
+    "wof:lastmodified":1491900922,
     "wof:name":"Saw Mill Village Apartments",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

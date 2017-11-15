@@ -2,9 +2,14 @@
   "id": 219582877,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 N Cassady Ave Columbus OH 43219",
+    "addr:housenumber":"650",
+    "addr:postcode":"43219",
+    "addr:street":"N Cassady Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.93179,39.982889,-82.93179,39.982889",
     "geom:latitude":39.982889,
     "geom:longitude":-82.93179,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +56,18 @@
     "wof:geomhash":"b95be3e152e921ac9d65ab218fc0aab9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":219582877
         }
     ],
     "wof:id":219582877,
-    "wof:lastmodified":1466745754,
+    "wof:lastmodified":1491907479,
     "wof:name":"Blue Chip Sales & Associates",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186279521,
   "type": "Feature",
   "properties": {
+    "addr:full":"2915 Detroit Ave Cleveland OH 44113",
+    "addr:housenumber":"2915",
+    "addr:postcode":"44113",
+    "addr:street":"Detroit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.712886,41.48896,-81.712886,41.48896",
     "geom:latitude":41.48896,
     "geom:longitude":-81.712886,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"83ce40172f83aeddbe57145b883e5598",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":186279521,
-    "wof:lastmodified":1466743752,
+    "wof:lastmodified":1491914729,
     "wof:name":"Intermuseum Conservation Assoc",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

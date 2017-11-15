@@ -2,9 +2,14 @@
   "id": 203097089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1751 E 23rd St Cleveland OH 44114",
+    "addr:housenumber":"1751",
+    "addr:postcode":"44114",
+    "addr:street":"E 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.673872,41.50454,-81.673872,41.50454",
     "geom:latitude":41.50454,
     "geom:longitude":-81.673872,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"5300f7d559c1e100142c6ede57d6e308",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203097089,
-    "wof:lastmodified":1466749217,
+    "wof:lastmodified":1491917384,
     "wof:name":"Advanced Manufacturing Ctr",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

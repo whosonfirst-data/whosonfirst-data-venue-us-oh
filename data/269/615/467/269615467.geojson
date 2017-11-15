@@ -2,14 +2,20 @@
   "id": 269615467,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 Plum St Cincinnati OH 45202",
+    "addr:housenumber":"910",
+    "addr:postcode":"45202",
+    "addr:street":"Plum St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.518869,39.104645,-84.518869,39.104645",
     "geom:latitude":39.104645,
     "geom:longitude":-84.518869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"910 Plum St",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -25,32 +31,37 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873121,
+        102191575,
+        404523793,
         85633793,
         101712203,
-        102083687
+        102083687,
+        85688485
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VnmF34WSZNamSMBeojPoR_39.104645_-84.518869@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"6b06389c1fb272355a7ac13bcac5677d",
+    "wof:geomhash":"915b8fab2fda196f20f6d4fa8f4745dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85873121,
             "region_id":85688485,
             "venue_id":269615467
         }
     ],
     "wof:id":269615467,
-    "wof:lastmodified":1466743962,
+    "wof:lastmodified":1510694720,
     "wof:name":"Lamar Advertising Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85873121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 253258761,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 E 152nd St Cleveland OH 44110",
+    "addr:housenumber":"601",
+    "addr:postcode":"44110",
+    "addr:street":"E 152Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.575492,41.564058,-81.575492,41.564058",
     "geom:latitude":41.564058,
     "geom:longitude":-81.575492,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"bb7b79f682c483c57256ff96af505259",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253258761,
-    "wof:lastmodified":1466745139,
+    "wof:lastmodified":1491918424,
     "wof:name":"CSX Corporation",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

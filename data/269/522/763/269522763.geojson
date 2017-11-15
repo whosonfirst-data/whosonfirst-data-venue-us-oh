@@ -2,9 +2,14 @@
   "id": 269522763,
   "type": "Feature",
   "properties": {
+    "addr:full":"1675 Watkins Rd Columbus OH 43207",
+    "addr:housenumber":"1675",
+    "addr:postcode":"43207",
+    "addr:street":"Watkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.951747,39.904498,-82.951747,39.904498",
     "geom:latitude":39.904498,
     "geom:longitude":-82.951747,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85853405,
+        102191575,
+        404524633,
         85633793,
-        101712381,
+        101712421,
         102080969,
-        85853405
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"adf6221d87e7a1790a59ef6a558fd6f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404524633,
+            "locality_id":101712421,
             "neighbourhood_id":85853405,
             "region_id":85688485,
             "venue_id":269522763
         }
     ],
     "wof:id":269522763,
-    "wof:lastmodified":1466742507,
+    "wof:lastmodified":1491919474,
     "wof:name":"American Warehousing & Lgstcs",
     "wof:parent_id":85853405,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219642671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4231 Hertford Ln Dublin OH 43017",
+    "addr:housenumber":"4231",
+    "addr:postcode":"43017",
+    "addr:street":"Hertford Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.117452,40.081675,-83.117452,40.081675",
     "geom:latitude":40.081675,
     "geom:longitude":-83.117452,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"64ba5b7e5d25697ec7625ae7d08ea31b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":219642671,
-    "wof:lastmodified":1466746401,
+    "wof:lastmodified":1491900908,
     "wof:name":"Farina Inc",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

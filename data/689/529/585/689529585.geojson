@@ -2,9 +2,14 @@
   "id": 689529585,
   "type": "Feature",
   "properties": {
+    "addr:full":"3101 W 25th St Cleveland OH 44109",
+    "addr:housenumber":"3101",
+    "addr:postcode":"44109",
+    "addr:street":"W 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.699805,41.469201,-81.699805,41.469201",
     "geom:latitude":41.469201,
     "geom:longitude":-81.699805,
@@ -31,7 +36,8 @@
         85633793,
         101712563,
         102084837,
-        85688485
+        85688485,
+        85871803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85852601,
             "region_id":85688485,
             "venue_id":689529585
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85871803,
+            "region_id":85688485,
+            "venue_id":689529585
         }
     ],
     "wof:id":689529585,
-    "wof:lastmodified":1466751129,
+    "wof:lastmodified":1491925292,
     "wof:name":"Citywide Insurance",
-    "wof:parent_id":85852601,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

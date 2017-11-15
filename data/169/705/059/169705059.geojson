@@ -2,9 +2,14 @@
   "id": 169705059,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 W 9th St Cincinnati OH 45202",
+    "addr:housenumber":"324",
+    "addr:postcode":"45202",
+    "addr:street":"W 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.51965,39.104609,-84.51965,39.104609",
     "geom:latitude":39.104609,
     "geom:longitude":-84.51965,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873121,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873121
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"0b1731c8773c08479400ca1d7e603ce1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873121,
             "region_id":85688485,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":169705059,
-    "wof:lastmodified":1466741840,
+    "wof:lastmodified":1491922427,
     "wof:name":"Busken Bakery Inc",
     "wof:parent_id":85873121,
     "wof:placetype":"venue",

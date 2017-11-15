@@ -2,9 +2,14 @@
   "id": 236338275,
   "type": "Feature",
   "properties": {
+    "addr:full":"3274 Mc Guffey Rd Columbus OH 43224",
+    "addr:housenumber":"3274",
+    "addr:postcode":"43224",
+    "addr:street":"Mc Guffey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.97999,40.034232,-82.97999,40.034232",
     "geom:latitude":40.034232,
     "geom:longitude":-82.97999,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"56a3378189ec898330e91c6f8dcd8d64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236338275,
-    "wof:lastmodified":1466745990,
+    "wof:lastmodified":1491933593,
     "wof:name":"Universal Builders",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

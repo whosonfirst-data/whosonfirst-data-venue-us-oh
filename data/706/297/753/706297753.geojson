@@ -2,9 +2,14 @@
   "id": 706297753,
   "type": "Feature",
   "properties": {
+    "addr:full":"21881 Libby Rd Cleveland OH 44146",
+    "addr:housenumber":"21881",
+    "addr:postcode":"44146",
+    "addr:street":"Libby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.523646,41.41701,-81.523646,41.41701",
     "geom:latitude":41.41701,
     "geom:longitude":-81.523646,
@@ -27,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RdM5bdpGzQbOH5Hr4bF1C_41.417010_-81.523646@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461800256,
-    "wof:geomhash":"23fa5d8e84703466b752504210a8d128",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc24571a18ba9fdc924e9140e01078ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706297753
+        }
+    ],
     "wof:id":706297753,
-    "wof:lastmodified":1466757179,
+    "wof:lastmodified":1494529520,
     "wof:name":"Friendship Mennonite Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269622329,
   "type": "Feature",
   "properties": {
+    "addr:full":"3655 Severn Rd Cleveland OH 44118",
+    "addr:housenumber":"3655",
+    "addr:postcode":"44118",
+    "addr:street":"Severn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.550953,41.512518,-81.550953,41.512518",
     "geom:latitude":41.512518,
     "geom:longitude":-81.550953,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"ca4d41f1e8302164981c111f4c84aa61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":269622329,
-    "wof:lastmodified":1466744072,
+    "wof:lastmodified":1491926268,
     "wof:name":"Ultra Electric At This",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

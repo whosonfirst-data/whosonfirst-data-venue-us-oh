@@ -2,9 +2,14 @@
   "id": 220124197,
   "type": "Feature",
   "properties": {
+    "addr:full":"1113 Fehl Ln Cincinnati OH 45230",
+    "addr:housenumber":"1113",
+    "addr:postcode":"45230",
+    "addr:street":"Fehl Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.352413,39.071669,-84.352413,39.071669",
     "geom:latitude":39.071669,
     "geom:longitude":-84.352413,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"63b8c2e7324e4803ca14c66dadb4a4fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":220124197
         }
     ],
     "wof:id":220124197,
-    "wof:lastmodified":1466742081,
+    "wof:lastmodified":1491901911,
     "wof:name":"Group Realtors",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

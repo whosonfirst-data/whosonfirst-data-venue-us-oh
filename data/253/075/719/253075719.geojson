@@ -2,9 +2,14 @@
   "id": 253075719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3046 W 46th St Cleveland OH 44102",
+    "addr:housenumber":"3046",
+    "addr:postcode":"44102",
+    "addr:street":"W 46Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.718134,41.470483,-81.718134,41.470483",
     "geom:latitude":41.470483,
     "geom:longitude":-81.718134,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"f65f5102a0c2c1140cfba51ba5d61a12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253075719,
-    "wof:lastmodified":1466742784,
+    "wof:lastmodified":1491925292,
     "wof:name":"L K Quality",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

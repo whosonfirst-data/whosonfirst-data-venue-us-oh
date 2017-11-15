@@ -2,9 +2,14 @@
   "id": 706092719,
   "type": "Feature",
   "properties": {
+    "addr:full":"3588 Westerville Rd Columbus OH 43224",
+    "addr:housenumber":"",
+    "addr:postcode":"3588;43224",
+    "addr:street":"Westerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.948517,40.043214,-82.948517,40.043214",
     "geom:latitude":40.043214,
     "geom:longitude":-82.948517,
@@ -28,13 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TLtKx8OM92LwuVN0OdD7x_40.043214_-82.948517@1294180530"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1461795626,
     "wof:geomhash":"767d377435f3696dad4fdf4f6dec3d03",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":706092719
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706092719,
-    "wof:lastmodified":1466752027,
+    "wof:lastmodified":1491926685,
     "wof:name":"Dave Kreuzer Cement Contractor",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186513517,
   "type": "Feature",
   "properties": {
+    "addr:full":"5106 Franklin Blvd Cleveland OH 44102",
+    "addr:housenumber":"5106",
+    "addr:postcode":"44102",
+    "addr:street":"Franklin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.721995,41.484167,-81.721995,41.484167",
     "geom:latitude":41.484167,
     "geom:longitude":-81.721995,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"c48dac304b457b1dd179365ccc5215df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186513517,
-    "wof:lastmodified":1466746252,
+    "wof:lastmodified":1491914741,
     "wof:name":"Open Pantry Food Mart",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

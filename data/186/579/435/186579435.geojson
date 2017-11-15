@@ -2,9 +2,14 @@
   "id": 186579435,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Lorain Ave Cleveland OH 44113",
+    "addr:housenumber":"2701",
+    "addr:postcode":"44113",
+    "addr:street":"Lorain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.704866,41.483476,-81.704866,41.483476",
     "geom:latitude":41.483476,
     "geom:longitude":-81.704866,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"a4ce3c1e6b137ec4899aec885382e722",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186579435,
-    "wof:lastmodified":1466747008,
+    "wof:lastmodified":1491899499,
     "wof:name":"Hansa Import House Inc",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

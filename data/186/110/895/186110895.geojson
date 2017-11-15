@@ -2,9 +2,14 @@
   "id": 186110895,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 E Liberty St Cincinnati OH 45202",
+    "addr:housenumber":"112",
+    "addr:postcode":"45202",
+    "addr:street":"E Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.514232,39.112746,-84.514232,39.112746",
     "geom:latitude":39.112746,
     "geom:longitude":-84.514232,
@@ -33,10 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
-        102083687
+        102083687,
+        85688485,
+        85843211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +55,30 @@
     "wof:geomhash":"85254073752dfe53d7994c986121fefc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85839951,
+            "region_id":85688485,
+            "venue_id":186110895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85843211,
             "region_id":85688485,
             "venue_id":186110895
         }
     ],
     "wof:id":186110895,
-    "wof:lastmodified":1466742024,
+    "wof:lastmodified":1491919233,
     "wof:name":"Health Resource of Cincinnati",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 186203249,
   "type": "Feature",
   "properties": {
+    "addr:full":"1855 Fountain Square Ct Columbus OH 43224",
+    "addr:housenumber":"1855",
+    "addr:postcode":"43224",
+    "addr:street":"Fountain Square Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.965504,40.058077,-82.965504,40.058077",
     "geom:latitude":40.058077,
     "geom:longitude":-82.965504,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"c7c38df6ff08e33a1aca3d4426c23d4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186203249,
-    "wof:lastmodified":1466742981,
+    "wof:lastmodified":1491903508,
     "wof:name":"Mineral Resources Management",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270214261,
   "type": "Feature",
   "properties": {
+    "addr:full":"940 Bricker Blvd Columbus OH 43221",
+    "addr:housenumber":"940",
+    "addr:postcode":"43221",
+    "addr:street":"Bricker Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.039505,40.02389,-83.039505,40.02389",
     "geom:latitude":40.02389,
     "geom:longitude":-83.039505,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870273,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870273
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"bab846b5bdd3e56a87d88bd65fa39641",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870273,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":270214261,
-    "wof:lastmodified":1466745069,
+    "wof:lastmodified":1491920268,
     "wof:name":"Columbus On Location Recording",
     "wof:parent_id":85870273,
     "wof:placetype":"venue",

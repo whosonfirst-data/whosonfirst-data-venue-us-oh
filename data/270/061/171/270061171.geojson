@@ -2,9 +2,14 @@
   "id": 270061171,
   "type": "Feature",
   "properties": {
+    "addr:full":"931 Watch Creek Dr Cincinnati OH 45230",
+    "addr:housenumber":"931",
+    "addr:postcode":"45230",
+    "addr:street":"Watch Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390547,39.069011,-84.390547,39.069011",
     "geom:latitude":39.069011,
     "geom:longitude":-84.390547,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"4fad607443ef5422e04026043051926e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":270061171
         }
     ],
     "wof:id":270061171,
-    "wof:lastmodified":1466742815,
+    "wof:lastmodified":1491901890,
     "wof:name":"Miller Business Forms",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

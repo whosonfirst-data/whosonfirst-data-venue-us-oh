@@ -2,9 +2,14 @@
   "id": 253236629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1784 Morse Rd Columbus OH 43229",
+    "addr:housenumber":"1784",
+    "addr:postcode":"43229",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.976059,40.060587,-82.976059,40.060587",
     "geom:latitude":40.060587,
     "geom:longitude":-82.976059,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:brand_id":420574261,
     "wof:breaches":[],
@@ -40,9 +47,10 @@
     "wof:geomhash":"225dc2abac7c524329cb2f5dc646a54f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":253236629,
-    "wof:lastmodified":1466744870,
+    "wof:lastmodified":1491903482,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

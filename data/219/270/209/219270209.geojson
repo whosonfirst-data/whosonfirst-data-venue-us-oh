@@ -2,9 +2,14 @@
   "id": 219270209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2025 Elm St Cincinnati OH 45202",
+    "addr:housenumber":"2025",
+    "addr:postcode":"45202",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.520529,39.117424,-84.520529,39.117424",
     "geom:latitude":39.117424,
     "geom:longitude":-84.520529,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85839951
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"76d30b83dc80973419d999351eacf688",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85839951,
             "region_id":85688485,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":219270209,
-    "wof:lastmodified":1466742086,
+    "wof:lastmodified":1491925141,
     "wof:name":"Queen City Novelties & Spt Suv",
     "wof:parent_id":85839951,
     "wof:placetype":"venue",

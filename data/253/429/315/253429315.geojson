@@ -2,9 +2,14 @@
   "id": 253429315,
   "type": "Feature",
   "properties": {
+    "addr:full":"3929 Lorain Ave Cleveland OH 44113",
+    "addr:housenumber":"3929",
+    "addr:postcode":"44113",
+    "addr:street":"Lorain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.712921,41.480523,-81.712921,41.480523",
     "geom:latitude":41.480523,
     "geom:longitude":-81.712921,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"e72a88af155ea0f671543b00816836c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253429315,
-    "wof:lastmodified":1466747555,
+    "wof:lastmodified":1491914719,
     "wof:name":"Bodnar-Mahoney Funeral Homes",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

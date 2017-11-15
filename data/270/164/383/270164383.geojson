@@ -2,9 +2,14 @@
   "id": 270164383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1890 W 1st Ave Columbus OH 43212",
+    "addr:housenumber":"1890",
+    "addr:postcode":"43212",
+    "addr:street":"W 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.054425,39.982318,-83.054425,39.982318",
     "geom:latitude":39.982318,
     "geom:longitude":-83.054425,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"800e6a8538592c75ec5a53f6aecb2bb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":270164383,
-    "wof:lastmodified":1466744323,
+    "wof:lastmodified":1491924562,
     "wof:name":"Ryan & Ryan",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

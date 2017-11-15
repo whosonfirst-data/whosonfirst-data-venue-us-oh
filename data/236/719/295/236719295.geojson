@@ -2,9 +2,14 @@
   "id": 236719295,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 W 1st Ave Columbus OH 43201",
+    "addr:housenumber":"150",
+    "addr:postcode":"43201",
+    "addr:street":"W 1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.008348,39.980328,-83.008348,39.980328",
     "geom:latitude":39.980328,
     "geom:longitude":-83.008348,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870239,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870239
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"6ff2b50daaeb99caf23bb6f51cafc896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870239,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236719295,
-    "wof:lastmodified":1466750101,
+    "wof:lastmodified":1491888070,
     "wof:name":"KDH Consult",
     "wof:parent_id":85870239,
     "wof:placetype":"venue",

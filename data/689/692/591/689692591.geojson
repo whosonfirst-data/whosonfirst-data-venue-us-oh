@@ -2,9 +2,14 @@
   "id": 689692591,
   "type": "Feature",
   "properties": {
+    "addr:full":"22750 Rockside Rd Cleveland OH 44146",
+    "addr:housenumber":"22750",
+    "addr:postcode":"44146",
+    "addr:street":"Rockside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.518167,41.408617,-81.518167,41.408617",
     "geom:latitude":41.408617,
     "geom:longitude":-81.518167,
@@ -28,17 +33,32 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ySjIk77x7FGYSvGLAcU2Z_41.408617_-81.518167@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461778934,
-    "wof:geomhash":"b9c9138b9200c09e9546950cc3c1379c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"316acdeb2d08c2dbec4b923255426c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689692591
+        }
+    ],
     "wof:id":689692591,
-    "wof:lastmodified":1466755253,
+    "wof:lastmodified":1494529514,
     "wof:name":"Rockside Internal Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

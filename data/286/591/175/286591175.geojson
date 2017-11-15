@@ -2,9 +2,14 @@
   "id": 286591175,
   "type": "Feature",
   "properties": {
+    "addr:full":"17718 S Waterloo Rd Cleveland OH 44119",
+    "addr:housenumber":"17718",
+    "addr:postcode":"44119",
+    "addr:street":"S Waterloo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.570996,41.568723,-81.570996,41.568723",
     "geom:latitude":41.568723,
     "geom:longitude":-81.570996,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"fdbc932b9dfec2dfe7cd1c9fab67e705",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":286591175,
-    "wof:lastmodified":1466747282,
+    "wof:lastmodified":1491918422,
     "wof:name":"Alpha Metals",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185668831,
   "type": "Feature",
   "properties": {
+    "addr:full":"5065 Northfield Rd Bedford OH 44146",
+    "addr:housenumber":"5065",
+    "addr:postcode":"44146",
+    "addr:street":"Northfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.527366,41.421786,-81.527366,41.421786",
     "geom:latitude":41.421786,
     "geom:longitude":-81.527366,
@@ -31,19 +36,22 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688485,
+        102191575,
         85633793,
-        85688485
+        102084837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dAfyOzSS9N3pa1pxK1S9L_41.421786_-81.527366@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"32d36d120b4d0632c19ce6abe97bab0e",
+    "wof:geomhash":"a51aa976c1282f304f658ac51041534a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102084837,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":185668831,
-    "wof:lastmodified":1466748703,
+    "wof:lastmodified":1494529526,
     "wof:name":"Vision Mortgage South LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

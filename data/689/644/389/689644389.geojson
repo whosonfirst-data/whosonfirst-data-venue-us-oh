@@ -2,9 +2,14 @@
   "id": 689644389,
   "type": "Feature",
   "properties": {
+    "addr:full":"12201 Franklin Blvd Cleveland OH 44107",
+    "addr:housenumber":"12201",
+    "addr:postcode":"44107",
+    "addr:street":"Franklin Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.775072,41.480174,-81.775072,41.480174",
     "geom:latitude":41.480174,
     "geom:longitude":-81.775072,
@@ -40,7 +45,10 @@
         85633793,
         101712597,
         102084837,
-        85688485
+        85688485,
+        85817437,
+        404523697,
+        101712563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,12 +67,22 @@
             "neighbourhood_id":85897097,
             "region_id":85688485,
             "venue_id":689644389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85817437,
+            "region_id":85688485,
+            "venue_id":689644389
         }
     ],
     "wof:id":689644389,
-    "wof:lastmodified":1466754080,
+    "wof:lastmodified":1491924455,
     "wof:name":"Sam's Food & Beverage",
-    "wof:parent_id":85897097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

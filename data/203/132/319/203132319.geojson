@@ -2,9 +2,14 @@
   "id": 203132319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 E 13th St Cleveland OH 44114",
+    "addr:housenumber":"1700",
+    "addr:postcode":"44114",
+    "addr:street":"E 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.683726,41.502916,-81.683726,41.502916",
     "geom:latitude":41.502916,
     "geom:longitude":-81.683726,
@@ -26,11 +31,13 @@
     "sg:website":"www.cipusa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"5aeb2a4229f941adba4f3c6facd6b30f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":203132319,
-    "wof:lastmodified":1466742143,
+    "wof:lastmodified":1491896625,
     "wof:name":"Council Of Intl Programs",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

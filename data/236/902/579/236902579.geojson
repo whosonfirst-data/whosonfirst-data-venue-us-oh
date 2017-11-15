@@ -2,9 +2,14 @@
   "id": 236902579,
   "type": "Feature",
   "properties": {
+    "addr:full":"995 Goodale Blvd Columbus OH 43212",
+    "addr:housenumber":"995",
+    "addr:postcode":"43212",
+    "addr:street":"Goodale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.030356,39.974347,-83.030356,39.974347",
     "geom:latitude":39.974347,
     "geom:longitude":-83.030356,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"7675654e74600be2bdb8941207ee36e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236902579,
-    "wof:lastmodified":1466751222,
+    "wof:lastmodified":1491924546,
     "wof:name":"R G Kennedy & Associates Inc",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

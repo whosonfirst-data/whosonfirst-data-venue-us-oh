@@ -2,9 +2,14 @@
   "id": 705715717,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Lee Rd Bedford OH 44146",
+    "addr:housenumber":"401",
+    "addr:postcode":"44146",
+    "addr:street":"Lee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.565524,41.392857,-81.565524,41.392857",
     "geom:latitude":41.392857,
     "geom:longitude":-81.565524,
@@ -24,17 +29,32 @@
     "sg:postcode":"44146",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V6Eq1PUYW3ErL0qmode1i_41.392857_-81.565524@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461787058,
-    "wof:geomhash":"ed79f8409eb50f0526ef3ff3e3afb62d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"624f3a30c97cb8b7b88a6f9949582e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":705715717
+        }
+    ],
     "wof:id":705715717,
-    "wof:lastmodified":1466748298,
+    "wof:lastmodified":1494529516,
     "wof:name":"Forest City Insurance Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

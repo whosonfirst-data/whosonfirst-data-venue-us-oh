@@ -2,9 +2,14 @@
   "id": 236312791,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Superior Ave E Cleveland OH 44114",
+    "addr:housenumber":"1100",
+    "addr:postcode":"44114",
+    "addr:street":"Superior Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.687333,41.502592,-81.687333,41.502592",
     "geom:latitude":41.502592,
     "geom:longitude":-81.687333,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"dc4ce441d6001a527f513ec86cb363fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236312791,
-    "wof:lastmodified":1466745694,
+    "wof:lastmodified":1491896612,
     "wof:name":"Meaden & Moore Ltd",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

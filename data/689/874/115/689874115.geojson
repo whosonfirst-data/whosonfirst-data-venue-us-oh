@@ -2,9 +2,14 @@
   "id": 689874115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Kenny Rd Columbus OH 43212",
+    "addr:housenumber":"1701",
+    "addr:postcode":"43212",
+    "addr:street":"Kenny Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.03505,39.994375,-83.03505,39.994375",
     "geom:latitude":39.994375,
     "geom:longitude":-83.03505,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"3eaa8f55f345ecc71b1efe1a9efe71f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":689874115,
-    "wof:lastmodified":1466759782,
+    "wof:lastmodified":1491921154,
     "wof:name":"Tom & Jerry Auto Svc",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689849527,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 Trebisky Rd Cleveland OH 44143",
+    "addr:housenumber":"835",
+    "addr:postcode":"44143",
+    "addr:street":"Trebisky Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.51021,41.537402,-81.51021,41.537402",
     "geom:latitude":41.537402,
     "geom:longitude":-81.51021,
@@ -27,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65Gp9lcWee5ecc4kY0fucc_41.537402_-81.510210@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461783303,
-    "wof:geomhash":"52eb676fc9bc14149d42530a12821312",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a372aeeabacfba51a0933506817d9258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689849527
+        }
+    ],
     "wof:id":689849527,
-    "wof:lastmodified":1466759438,
+    "wof:lastmodified":1494529538,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

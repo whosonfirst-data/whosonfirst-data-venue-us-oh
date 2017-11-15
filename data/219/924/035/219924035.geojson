@@ -2,9 +2,14 @@
   "id": 219924035,
   "type": "Feature",
   "properties": {
+    "addr:full":"2036 Williams Rd Columbus OH 43207",
+    "addr:housenumber":"2036",
+    "addr:postcode":"43207",
+    "addr:street":"Williams Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.941381,39.889346,-82.941381,39.889346",
     "geom:latitude":39.889346,
     "geom:longitude":-82.941381,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85853405,
+        102191575,
+        404524633,
         85633793,
-        101712381,
+        101712421,
         102080969,
-        85853405
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"b1d55cc952a603835210105035eeac7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404524633,
+            "locality_id":101712421,
             "neighbourhood_id":85853405,
             "region_id":85688485,
             "venue_id":219924035
         }
     ],
     "wof:id":219924035,
-    "wof:lastmodified":1466749736,
+    "wof:lastmodified":1491919471,
     "wof:name":"Circle International",
     "wof:parent_id":85853405,
     "wof:placetype":"venue",

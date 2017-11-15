@@ -2,9 +2,14 @@
   "id": 269562565,
   "type": "Feature",
   "properties": {
+    "addr:full":"12118 Madison Ave Lakewood OH 44107",
+    "addr:housenumber":"12118",
+    "addr:postcode":"44107",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.773536,41.476991,-81.773536,41.476991",
     "geom:latitude":41.476991,
     "geom:longitude":-81.773536,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"63672604afb3f63195883042c30212aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":269562565,
-    "wof:lastmodified":1466743120,
+    "wof:lastmodified":1491924451,
     "wof:name":"McMorrows Antiques",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

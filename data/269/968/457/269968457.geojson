@@ -2,9 +2,14 @@
   "id": 269968457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 S Taylor Rd Cleveland OH 44118",
+    "addr:housenumber":"1700",
+    "addr:postcode":"44118",
+    "addr:street":"S Taylor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.555827,41.512451,-81.555827,41.512451",
     "geom:latitude":41.512451,
     "geom:longitude":-81.555827,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"2c01202e232291c21c5b0ee77c6203cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":269968457,
-    "wof:lastmodified":1466749200,
+    "wof:lastmodified":1491926268,
     "wof:name":"Mosdos Girls School",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

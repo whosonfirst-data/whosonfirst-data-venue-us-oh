@@ -2,9 +2,14 @@
   "id": 286305445,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 Corporation Aly Cincinnati OH 45202",
+    "addr:housenumber":"510",
+    "addr:postcode":"45202",
+    "addr:street":"Corporation Aly",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.505056,39.112684,-84.505056,39.112684",
     "geom:latitude":39.112684,
     "geom:longitude":-84.505056,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85843211,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85843211
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"43dffae85435887f579f5c96a74a80eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85843211,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":286305445,
-    "wof:lastmodified":1466742954,
+    "wof:lastmodified":1491919234,
     "wof:name":"Machine Masters",
     "wof:parent_id":85843211,
     "wof:placetype":"venue",

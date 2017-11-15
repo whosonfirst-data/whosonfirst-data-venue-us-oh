@@ -2,9 +2,14 @@
   "id": 202821481,
   "type": "Feature",
   "properties": {
+    "addr:full":"14639 Lake Shore Blvd Cleveland OH 44110",
+    "addr:housenumber":"14639",
+    "addr:postcode":"44110",
+    "addr:street":"Lake Shore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.580885,41.571621,-81.580885,41.571621",
     "geom:latitude":41.571621,
     "geom:longitude":-81.580885,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"077f04e4e708f293a595132b6efb414a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":202821481,
-    "wof:lastmodified":1466745655,
+    "wof:lastmodified":1491918421,
     "wof:name":"Economy Square Deal Market",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

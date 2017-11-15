@@ -2,9 +2,14 @@
   "id": 689660167,
   "type": "Feature",
   "properties": {
+    "addr:full":"767 Archer Rd Bedford OH 44146",
+    "addr:housenumber":"767",
+    "addr:postcode":"44146",
+    "addr:street":"Archer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.51809,41.398667,-81.51809,41.398667",
     "geom:latitude":41.398667,
     "geom:longitude":-81.51809,
@@ -24,17 +29,32 @@
     "sg:postcode":"44146",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yAchSROh8uiPlGIn5kJRK_41.398667_-81.518090@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461778131,
-    "wof:geomhash":"c9912d4525733a29ccd1222bd6c4ff8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54c627a9a47865a84a8b0bb6a92928a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689660167
+        }
+    ],
     "wof:id":689660167,
-    "wof:lastmodified":1466754461,
+    "wof:lastmodified":1494529515,
     "wof:name":"Mary Kay Cosmetics Sales Dir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

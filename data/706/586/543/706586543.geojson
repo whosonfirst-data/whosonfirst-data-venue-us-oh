@@ -2,9 +2,14 @@
   "id": 706586543,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 W Broad St Galloway OH 43119",
+    "addr:housenumber":"6000",
+    "addr:postcode":"43119",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.162003,39.950779,-83.162003,39.950779",
     "geom:latitude":39.950779,
     "geom:longitude":-83.162003,
@@ -28,13 +33,7 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yqJS9d7A1uWC8cz0N2mmH_39.950779_-83.162003@1303262752"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1461806458,
     "wof:geomhash":"32fef395c2ae9218864302ca5f5716cd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706586543
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706586543,
-    "wof:lastmodified":1466761739,
+    "wof:lastmodified":1491899820,
     "wof:name":"West Broad Golf Center",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

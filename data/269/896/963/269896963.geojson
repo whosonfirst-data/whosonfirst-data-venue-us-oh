@@ -2,9 +2,14 @@
   "id": 269896963,
   "type": "Feature",
   "properties": {
+    "addr:full":"884 Thurber Dr W Columbus OH 43215",
+    "addr:housenumber":"884",
+    "addr:postcode":"43215",
+    "addr:street":"Thurber Dr W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.016323,39.977367,-83.016323,39.977367",
     "geom:latitude":39.977367,
     "geom:longitude":-83.016323,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870239,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870239
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"cd7e33e803a539a33fa8ece91b85b052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870239,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":269896963,
-    "wof:lastmodified":1466748162,
+    "wof:lastmodified":1491888061,
     "wof:name":"Thurber Manor Apartments",
     "wof:parent_id":85870239,
     "wof:placetype":"venue",

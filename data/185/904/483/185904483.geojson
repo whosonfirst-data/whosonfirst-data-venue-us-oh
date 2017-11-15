@@ -2,9 +2,14 @@
   "id": 185904483,
   "type": "Feature",
   "properties": {
+    "addr:full":"4565 Northland Square Dr E Columbus OH 43231",
+    "addr:housenumber":"4565",
+    "addr:postcode":"43231",
+    "addr:street":"Northland Square Dr E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.954078,40.062539,-82.954078,40.062539",
     "geom:latitude":40.062539,
     "geom:longitude":-82.954078,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"325dcb42e5fd2d2318b96b6169b3591f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":185904483,
-    "wof:lastmodified":1466743525,
+    "wof:lastmodified":1491903482,
     "wof:name":"Northland Square Apartments",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

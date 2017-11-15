@@ -2,9 +2,14 @@
   "id": 219312111,
   "type": "Feature",
   "properties": {
+    "addr:full":"2060 Hamilton Ave Cleveland OH 44114",
+    "addr:housenumber":"2060",
+    "addr:postcode":"44114",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.680678,41.509608,-81.680678,41.509608",
     "geom:latitude":41.509608,
     "geom:longitude":-81.680678,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"c79f11fd4f74f9d0ba47ea03a965e204",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":219312111,
-    "wof:lastmodified":1466742607,
+    "wof:lastmodified":1491929342,
     "wof:name":"Stricker Refinishing Inc",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

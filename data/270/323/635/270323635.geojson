@@ -2,9 +2,14 @@
   "id": 270323635,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 Shanley Dr Columbus OH 43224",
+    "addr:housenumber":"",
+    "addr:postcode":"1712;43224",
+    "addr:street":"Shanley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.969137,40.05416,-82.969137,40.05416",
     "geom:latitude":40.05416,
     "geom:longitude":-82.969137,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"1a2c4f14c310353bcb2658609abb50f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":270323635,
-    "wof:lastmodified":1466746698,
+    "wof:lastmodified":1491903465,
     "wof:name":"Timothy W Gethers",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

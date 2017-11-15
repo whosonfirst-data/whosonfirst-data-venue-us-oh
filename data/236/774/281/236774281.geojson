@@ -2,9 +2,14 @@
   "id": 236774281,
   "type": "Feature",
   "properties": {
+    "addr:full":"18906 Neff Rd Cleveland OH 44119",
+    "addr:housenumber":"18906",
+    "addr:postcode":"44119",
+    "addr:street":"Neff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.546353,41.5789,-81.546353,41.5789",
     "geom:latitude":41.5789,
     "geom:longitude":-81.546353,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"d2ff019aa30c1b5d11aecb857acb5ca5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236774281,
-    "wof:lastmodified":1466750457,
+    "wof:lastmodified":1491906481,
     "wof:name":"Castlerock Design Inc",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

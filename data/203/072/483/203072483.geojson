@@ -2,9 +2,14 @@
   "id": 203072483,
   "type": "Feature",
   "properties": {
+    "addr:full":"2229 Waldorf Rd Columbus OH 43229",
+    "addr:housenumber":"2229",
+    "addr:postcode":"43229",
+    "addr:street":"Waldorf Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.961424,40.069108,-82.961424,40.069108",
     "geom:latitude":40.069108,
     "geom:longitude":-82.961424,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"f630806e53c00c0b84a3a8ee4fd0b65e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203072483,
-    "wof:lastmodified":1466748476,
+    "wof:lastmodified":1491903513,
     "wof:name":"Home Mortgage Solutions Inc",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

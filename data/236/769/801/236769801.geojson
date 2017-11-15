@@ -2,9 +2,14 @@
   "id": 236769801,
   "type": "Feature",
   "properties": {
+    "addr:full":"12600 Berea Rd Cleveland OH 44111",
+    "addr:housenumber":"12600",
+    "addr:postcode":"44111",
+    "addr:street":"Berea Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.774256,41.472462,-81.774256,41.472462",
     "geom:latitude":41.472462,
     "geom:longitude":-81.774256,
@@ -30,11 +35,13 @@
     "sg:website":"www.lightingfixtures.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"9c5cbb14b766ad3725b7812cc83cd237",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236769801,
-    "wof:lastmodified":1466750575,
+    "wof:lastmodified":1491924444,
     "wof:name":"Lights Out",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

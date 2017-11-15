@@ -2,9 +2,14 @@
   "id": 236143649,
   "type": "Feature",
   "properties": {
+    "addr:full":"1323 Molly Ln Columbus OH 43207",
+    "addr:housenumber":"1323",
+    "addr:postcode":"43207",
+    "addr:street":"Molly Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.956977,39.925248,-82.956977,39.925248",
     "geom:latitude":39.925248,
     "geom:longitude":-82.956977,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893113
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"a6d39a01afcedacfe3f23e2219b5e1a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893113,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236143649,
-    "wof:lastmodified":1466743571,
+    "wof:lastmodified":1491902971,
     "wof:name":"Eliud Christian Missionary",
     "wof:parent_id":85893113,
     "wof:placetype":"venue",

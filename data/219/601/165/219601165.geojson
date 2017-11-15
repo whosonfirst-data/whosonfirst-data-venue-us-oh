@@ -2,9 +2,14 @@
   "id": 219601165,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 W 15th St Cincinnati OH 45210",
+    "addr:housenumber":"316",
+    "addr:postcode":"45210",
+    "addr:street":"W 15Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.521085,39.110952,-84.521085,39.110952",
     "geom:latitude":39.110952,
     "geom:longitude":-84.521085,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873121,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873121
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"cabf4dee2576f6ae019f8712a1eaf8ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873121,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219601165,
-    "wof:lastmodified":1466745951,
+    "wof:lastmodified":1491922424,
     "wof:name":"Chicago Style Fish & Chicken",
     "wof:parent_id":85873121,
     "wof:placetype":"venue",

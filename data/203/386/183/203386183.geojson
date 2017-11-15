@@ -2,9 +2,14 @@
   "id": 203386183,
   "type": "Feature",
   "properties": {
+    "addr:full":"1624 Coutant Ave Cleveland OH 44107",
+    "addr:housenumber":"1624",
+    "addr:postcode":"44107",
+    "addr:street":"Coutant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.770403,41.478389,-81.770403,41.478389",
     "geom:latitude":41.478389,
     "geom:longitude":-81.770403,
@@ -31,11 +36,13 @@
     "sg:website":"www.clockelectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"31d919caca13f1ec90d8b3e6e72928df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":203386183,
-    "wof:lastmodified":1466744926,
+    "wof:lastmodified":1491924444,
     "wof:name":"Clock Electric Inc",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

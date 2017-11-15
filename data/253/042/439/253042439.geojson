@@ -2,9 +2,14 @@
   "id": 253042439,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 Literary Rd Cleveland OH 44113",
+    "addr:housenumber":"809",
+    "addr:postcode":"44113",
+    "addr:street":"Literary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.686665,41.481624,-81.686665,41.481624",
     "geom:latitude":41.481624,
     "geom:longitude":-81.686665,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871843,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"215272dd30e96831cb3bb3ddb1d68a3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871843,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253042439,
-    "wof:lastmodified":1466742380,
+    "wof:lastmodified":1491921266,
     "wof:name":"Parking Solutions Inc",
     "wof:parent_id":85871843,
     "wof:placetype":"venue",

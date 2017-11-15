@@ -2,9 +2,14 @@
   "id": 706092809,
   "type": "Feature",
   "properties": {
+    "addr:full":"2364 W McMicken Ave Cincinnati OH 45214",
+    "addr:housenumber":"2364",
+    "addr:postcode":"45214",
+    "addr:street":"W Mcmicken Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.532472,39.124164,-84.532472,39.124164",
     "geom:latitude":39.124164,
     "geom:longitude":-84.532472,
@@ -31,7 +36,8 @@
         85633793,
         101712203,
         102083687,
-        85688485
+        85688485,
+        85873109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +56,22 @@
             "neighbourhood_id":85873119,
             "region_id":85688485,
             "venue_id":706092809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85873109,
+            "region_id":85688485,
+            "venue_id":706092809
         }
     ],
     "wof:id":706092809,
-    "wof:lastmodified":1466752032,
+    "wof:lastmodified":1491929846,
     "wof:name":"Mc Micken Improvement Assn",
-    "wof:parent_id":85873119,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

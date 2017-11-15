@@ -2,9 +2,14 @@
   "id": 705800555,
   "type": "Feature",
   "properties": {
+    "addr:full":"3737 Mexico Ave Westerville OH 43081",
+    "addr:housenumber":"3737",
+    "addr:postcode":"43081",
+    "addr:street":"Mexico Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.912365,40.08763,-82.912365,40.08763",
     "geom:latitude":40.08763,
     "geom:longitude":-82.912365,
@@ -28,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85826407,
+        102191575,
+        404524511,
+        85633793,
+        101713837,
+        102080969,
+        85688485
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o0wPMnntO3B3UNLiIwimB_40.087630_-82.912365@1294180530"
@@ -36,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1461789029,
     "wof:geomhash":"9f715637cf81f67ab0f5c4e5f9f9d254",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524511,
+            "locality_id":101713837,
+            "neighbourhood_id":85826407,
+            "region_id":85688485,
+            "venue_id":705800555
+        }
+    ],
     "wof:id":705800555,
-    "wof:lastmodified":1466752840,
+    "wof:lastmodified":1491929326,
     "wof:name":"In Home Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

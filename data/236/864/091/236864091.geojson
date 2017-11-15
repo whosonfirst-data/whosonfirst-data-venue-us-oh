@@ -2,9 +2,14 @@
   "id": 236864091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2273 Valley View Dr Cleveland OH 44116",
+    "addr:housenumber":"2273",
+    "addr:postcode":"44116",
+    "addr:street":"Valley View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.825379,41.475544,-81.825379,41.475544",
     "geom:latitude":41.475544,
     "geom:longitude":-81.825379,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"ab393a7235010b08b328bfb8df588ab7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":236864091,
-    "wof:lastmodified":1466751090,
+    "wof:lastmodified":1491932132,
     "wof:name":"Value Added Svc",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

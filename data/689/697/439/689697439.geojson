@@ -2,9 +2,14 @@
   "id": 689697439,
   "type": "Feature",
   "properties": {
+    "addr:full":"591 Parkside Blvd Cleveland OH 44143",
+    "addr:housenumber":"591",
+    "addr:postcode":"44143",
+    "addr:street":"Parkside Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.523426,41.543963,-81.523426,41.543963",
     "geom:latitude":41.543963,
     "geom:longitude":-81.523426,
@@ -28,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GvDxmlJX0hTD1ohlwU5E8_41.543963_-81.523426@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461779037,
-    "wof:geomhash":"795bc51ace31d9824bf770f138f7828b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5e5849384308451f29f489572905484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689697439
+        }
+    ],
     "wof:id":689697439,
-    "wof:lastmodified":1466755508,
+    "wof:lastmodified":1494529540,
     "wof:name":"Strano Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

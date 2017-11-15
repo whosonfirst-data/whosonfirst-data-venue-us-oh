@@ -2,9 +2,14 @@
   "id": 186100465,
   "type": "Feature",
   "properties": {
+    "addr:full":"7002 Orchard Blvd Cleveland OH 44130",
+    "addr:housenumber":"7002",
+    "addr:postcode":"44130",
+    "addr:street":"Orchard Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.774264,41.373273,-81.774264,41.373273",
     "geom:latitude":41.373273,
     "geom:longitude":-81.774264,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712505,
         102084837
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_7DQx8f3lCElBXLPR4c7p87_41.373273_-81.774264@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"f05535c5f4466787c0003ebbce6c554c",
+    "wof:geomhash":"730826a02d824de3d910d651994173d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712505,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":186100465
         }
     ],
     "wof:id":186100465,
-    "wof:lastmodified":1466741899,
+    "wof:lastmodified":1494529510,
     "wof:name":"Landis Temperature Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

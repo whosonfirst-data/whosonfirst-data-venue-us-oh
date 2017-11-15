@@ -2,9 +2,14 @@
   "id": 219393815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1220 Harrison Ave Cincinnati OH 45214",
+    "addr:housenumber":"1220",
+    "addr:postcode":"45214",
+    "addr:street":"Harrison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.53612,39.123028,-84.53612,39.123028",
     "geom:latitude":39.123028,
     "geom:longitude":-84.53612,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873119,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"8836cfd1f8fe24faa595602164f8c73a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873119,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":219393815,
-    "wof:lastmodified":1466743625,
+    "wof:lastmodified":1491929847,
     "wof:name":"Harrison Terminal",
     "wof:parent_id":85873119,
     "wof:placetype":"venue",

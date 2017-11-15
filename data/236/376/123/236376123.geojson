@@ -2,9 +2,14 @@
   "id": 236376123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1871 Prospect Ave E Cleveland OH 44115",
+    "addr:housenumber":"1871",
+    "addr:postcode":"44115",
+    "addr:street":"Prospect Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.677643,41.500077,-81.677643,41.500077",
     "geom:latitude":41.500077,
     "geom:longitude":-81.677643,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"b4d28dafe94c7dd80027f8af944df3ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236376123,
-    "wof:lastmodified":1466746429,
+    "wof:lastmodified":1491917376,
     "wof:name":"Coral Graphics Co",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

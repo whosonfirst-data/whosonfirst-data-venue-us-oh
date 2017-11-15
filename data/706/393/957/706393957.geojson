@@ -2,9 +2,14 @@
   "id": 706393957,
   "type": "Feature",
   "properties": {
+    "addr:full":"1860 Columbus Rd Cleveland OH 44113",
+    "addr:housenumber":"1860",
+    "addr:postcode":"44113",
+    "addr:street":"Columbus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.700464,41.488752,-81.700464,41.488752",
     "geom:latitude":41.488752,
     "geom:longitude":-81.700464,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871841,
+        85839251,
         102191575,
         404523697,
         85633793,
         101712563,
         102084837,
-        85688485
+        85688485,
+        85871841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102084837,
             "localadmin_id":404523697,
             "locality_id":101712563,
+            "neighbourhood_id":85839251,
+            "region_id":85688485,
+            "venue_id":706393957
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
             "neighbourhood_id":85871841,
             "region_id":85688485,
             "venue_id":706393957
         }
     ],
     "wof:id":706393957,
-    "wof:lastmodified":1466759132,
+    "wof:lastmodified":1491914733,
     "wof:name":"Jake's Heliarc Welding Co",
-    "wof:parent_id":85871841,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

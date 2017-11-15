@@ -2,9 +2,14 @@
   "id": 219946027,
   "type": "Feature",
   "properties": {
+    "addr:full":"1849 W 24th St Cleveland OH 44113",
+    "addr:housenumber":"1849",
+    "addr:postcode":"44113",
+    "addr:street":"W 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.703029,41.486299,-81.703029,41.486299",
     "geom:latitude":41.486299,
     "geom:longitude":-81.703029,
@@ -30,11 +35,13 @@
     "sg:website":"www.americanculinaryconcepts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"24b55ac8734b818b6f0452cb81ba2d93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":219946027,
-    "wof:lastmodified":1466750058,
+    "wof:lastmodified":1491899505,
     "wof:name":"American Culinary Concepts",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

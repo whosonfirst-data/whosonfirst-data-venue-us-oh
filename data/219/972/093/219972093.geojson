@@ -2,9 +2,14 @@
   "id": 219972093,
   "type": "Feature",
   "properties": {
+    "addr:full":"23800 Saint Clair Ave Cleveland OH 44117",
+    "addr:housenumber":"23800",
+    "addr:postcode":"44117",
+    "addr:street":"Saint Clair Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.526742,41.585575,-81.526742,41.585575",
     "geom:latitude":41.585575,
     "geom:longitude":-81.526742,
@@ -29,10 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
-        101712577,
-        102084837
+        101712563,
+        102084837,
+        85688485,
+        420534663,
+        404524401,
+        101712577
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +53,30 @@
     "wof:geomhash":"d03f38ecc381037b5885d0ce8d89b1b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85838557,
+            "region_id":85688485,
+            "venue_id":219972093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404524401,
             "locality_id":101712577,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420534663,
             "region_id":85688485,
             "venue_id":219972093
         }
     ],
     "wof:id":219972093,
-    "wof:lastmodified":1466749915,
+    "wof:lastmodified":1491906477,
     "wof:name":"Corsillo Plumbing & Sewer Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

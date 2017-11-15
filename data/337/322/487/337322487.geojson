@@ -2,9 +2,14 @@
   "id": 337322487,
   "type": "Feature",
   "properties": {
+    "addr:full":"5917 Balboa Rd Westerville OH 43081",
+    "addr:housenumber":"5917",
+    "addr:postcode":"43081",
+    "addr:street":"Balboa Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.911631,40.092336,-82.911631,40.092336",
     "geom:latitude":40.092336,
     "geom:longitude":-82.911631,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85826407,
+        102191575,
+        404524511,
         85633793,
         101713837,
         102080969,
-        85826407
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"1ec89783bb44c3dd9b75538fa3fc0997",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524511,
             "locality_id":101713837,
             "neighbourhood_id":85826407,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":337322487,
-    "wof:lastmodified":1466745845,
+    "wof:lastmodified":1491929329,
     "wof:name":"Peat Group",
     "wof:parent_id":85826407,
     "wof:placetype":"venue",

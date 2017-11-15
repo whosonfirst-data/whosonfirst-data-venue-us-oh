@@ -2,9 +2,14 @@
   "id": 270448267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1780 E Broad St Columbus OH 43203",
+    "addr:housenumber":"1780",
+    "addr:postcode":"43203",
+    "addr:street":"E Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.954859,39.967454,-82.954859,39.967454",
     "geom:latitude":39.967454,
     "geom:longitude":-82.954859,
@@ -29,11 +34,13 @@
     "sg:website":"www.ohiobaptist.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893109,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893109
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"fed034a285b18387d5b0b477e9a2a1b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893109,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":270448267,
-    "wof:lastmodified":1466748527,
+    "wof:lastmodified":1491906887,
     "wof:name":"Congress Of Christian Edu",
     "wof:parent_id":85893109,
     "wof:placetype":"venue",

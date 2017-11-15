@@ -2,9 +2,14 @@
   "id": 253359987,
   "type": "Feature",
   "properties": {
+    "addr:full":"3535 Severn Rd Cleveland OH 44118",
+    "addr:housenumber":"3535",
+    "addr:postcode":"44118",
+    "addr:street":"Severn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.554928,41.512526,-81.554928,41.512526",
     "geom:latitude":41.512526,
     "geom:longitude":-81.554928,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"cf827262f77ae56c0c79455cfa3b8d65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253359987,
-    "wof:lastmodified":1466746521,
+    "wof:lastmodified":1491926269,
     "wof:name":"Shoe Town",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253057443,
   "type": "Feature",
   "properties": {
+    "addr:full":"12408 Mayfield Rd Cleveland OH 44106",
+    "addr:housenumber":"12408",
+    "addr:postcode":"44106",
+    "addr:street":"Mayfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.596732,41.508575,-81.596732,41.508575",
     "geom:latitude":41.508575,
     "geom:longitude":-81.596732,
@@ -30,11 +35,13 @@
     "sg:website":"www.ferengifts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830935,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85830935
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"4d8aacb28a5b32a065e2504b14a472da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85830935,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253057443,
-    "wof:lastmodified":1466742557,
+    "wof:lastmodified":1491900519,
     "wof:name":"Feren Fruit & Gift Basket Co",
     "wof:parent_id":85830935,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270388339,
   "type": "Feature",
   "properties": {
+    "addr:full":"2319 W 11th St Cleveland OH 44113",
+    "addr:housenumber":"2319",
+    "addr:postcode":"44113",
+    "addr:street":"W 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.689252,41.481552,-81.689252,41.481552",
     "geom:latitude":41.481552,
     "geom:longitude":-81.689252,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871843,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"3633518978768895e62592b9497ed89a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871843,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":270388339,
-    "wof:lastmodified":1466747647,
+    "wof:lastmodified":1491921269,
     "wof:name":"Elan Catering Inc",
     "wof:parent_id":85871843,
     "wof:placetype":"venue",

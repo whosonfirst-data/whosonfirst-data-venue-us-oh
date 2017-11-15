@@ -2,14 +2,20 @@
   "id": 270364367,
   "type": "Feature",
   "properties": {
+    "addr:full":"1303 E 9th St Cleveland OH 44114",
+    "addr:housenumber":"1303",
+    "addr:postcode":"44114",
+    "addr:street":"E 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.689515,41.503479,-81.689515,41.503479",
     "geom:latitude":41.503479,
     "geom:longitude":-81.689515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1303 E 9th St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -28,23 +34,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
+    "wof:brand_id":1125151013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f5ezWKiSIAMXQpDEfwXyQ_41.503479_-81.689515@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"6598dbe0943cf3b940fd73a1e8380674",
+    "wof:geomhash":"8cdd600fffe0a196496830bf06d17043",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":270364367,
-    "wof:lastmodified":1466747285,
+    "wof:lastmodified":1510693725,
     "wof:name":"Manchu Wok",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

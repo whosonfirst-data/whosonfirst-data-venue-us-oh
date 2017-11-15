@@ -2,9 +2,14 @@
   "id": 186116367,
   "type": "Feature",
   "properties": {
+    "addr:full":"13002 Madison Ave Cleveland OH 44107",
+    "addr:housenumber":"13002",
+    "addr:postcode":"44107",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.780382,41.477055,-81.780382,41.477055",
     "geom:latitude":41.477055,
     "geom:longitude":-81.780382,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"0dc4733a48bdd0f36d2e55514963e807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186116367,
-    "wof:lastmodified":1466742085,
+    "wof:lastmodified":1491924449,
     "wof:name":"Staff Inc",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

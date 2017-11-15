@@ -2,9 +2,14 @@
   "id": 219164789,
   "type": "Feature",
   "properties": {
+    "addr:full":"2284 Scranton Rd Cleveland OH 44113",
+    "addr:housenumber":"2284",
+    "addr:postcode":"44113",
+    "addr:street":"Scranton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.694703,41.482093,-81.694703,41.482093",
     "geom:latitude":41.482093,
     "geom:longitude":-81.694703,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"69950490ec1080bc3471f1424f5c4835",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219164789,
-    "wof:lastmodified":1466745544,
+    "wof:lastmodified":1491914724,
     "wof:name":"Classic Restoration Co",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

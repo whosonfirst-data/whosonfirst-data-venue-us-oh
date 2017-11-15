@@ -2,9 +2,14 @@
   "id": 270082357,
   "type": "Feature",
   "properties": {
+    "addr:full":"7300 Beechmont Ave Cincinnati OH 45230",
+    "addr:housenumber":"7300",
+    "addr:postcode":"45230",
+    "addr:street":"Beechmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.355842,39.072863,-84.355842,39.072863",
     "geom:latitude":39.072863,
     "geom:longitude":-84.355842,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"e74bcbffef17ab52dbd2000bb1ebc3bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":270082357
         }
     ],
     "wof:id":270082357,
-    "wof:lastmodified":1466743118,
+    "wof:lastmodified":1491901879,
     "wof:name":"Medical Weight Loss Programs",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

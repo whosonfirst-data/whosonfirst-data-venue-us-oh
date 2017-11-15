@@ -2,9 +2,14 @@
   "id": 286431379,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Euclid Ave Cleveland OH 44114",
+    "addr:housenumber":"530",
+    "addr:postcode":"44114",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.687409,41.500067,-81.687409,41.500067",
     "geom:latitude":41.500067,
     "geom:longitude":-81.687409,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"539f0e36f4daf45c428746928de14c9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":286431379,
-    "wof:lastmodified":1466744854,
+    "wof:lastmodified":1491896582,
     "wof:name":"Bancroft Gallery",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

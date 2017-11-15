@@ -2,9 +2,14 @@
   "id": 706578545,
   "type": "Feature",
   "properties": {
+    "addr:full":"3391 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3391",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.962908,40.03652,-82.962908,40.03652",
     "geom:latitude":40.03652,
     "geom:longitude":-82.962908,
@@ -29,13 +34,7 @@
         "sandwich"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aaXq40K0MRXBrYPYon9Ru_40.036296_-82.963054@1294180530"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1461806275,
     "wof:geomhash":"b20951aa23b2f7175603398e4c847643",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":706578545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706578545,
-    "wof:lastmodified":1466761638,
+    "wof:lastmodified":1491926687,
     "wof:name":"Subway",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

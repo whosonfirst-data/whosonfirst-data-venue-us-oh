@@ -2,9 +2,14 @@
   "id": 269933033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1014 Dublin Rd Columbus OH 43215",
+    "addr:housenumber":"1014",
+    "addr:postcode":"43215",
+    "addr:street":"Dublin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.03958,39.970881,-83.03958,39.970881",
     "geom:latitude":39.970881,
     "geom:longitude":-83.03958,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"2bc9e1bd70a469da738590da636bcfb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":269933033,
-    "wof:lastmodified":1466748686,
+    "wof:lastmodified":1491924549,
     "wof:name":"Fry Contracting Co",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

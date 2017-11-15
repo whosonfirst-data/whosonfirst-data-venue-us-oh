@@ -2,9 +2,14 @@
   "id": 236098921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1196 W 3rd Ave Columbus OH 43212",
+    "addr:housenumber":"1196",
+    "addr:postcode":"43212",
+    "addr:street":"W 3Rd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.03814,39.984829,-83.03814,39.984829",
     "geom:latitude":39.984829,
     "geom:longitude":-83.03814,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"58b8f05d0086b4f18fa3e1be1890cf38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236098921,
-    "wof:lastmodified":1466743038,
+    "wof:lastmodified":1491924562,
     "wof:name":"Classico Tile & Marble",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

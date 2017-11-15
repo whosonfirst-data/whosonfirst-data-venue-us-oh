@@ -2,9 +2,14 @@
   "id": 202600627,
   "type": "Feature",
   "properties": {
+    "addr:full":"2007 Prospect Ave E Cleveland OH 44115",
+    "addr:housenumber":"2007",
+    "addr:postcode":"44115",
+    "addr:street":"Prospect Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.676818,41.500167,-81.676818,41.500167",
     "geom:latitude":41.500167,
     "geom:longitude":-81.676818,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"4da72447dcd42f1789b624c4009f0d40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":202600627,
-    "wof:lastmodified":1466743220,
+    "wof:lastmodified":1491917359,
     "wof:name":"Ameritemps Inc",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

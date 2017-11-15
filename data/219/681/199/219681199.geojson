@@ -2,9 +2,14 @@
   "id": 219681199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1191 Eversole Rd Cincinnati OH 45230",
+    "addr:housenumber":"1191",
+    "addr:postcode":"45230",
+    "addr:street":"Eversole Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.398969,39.077058,-84.398969,39.077058",
     "geom:latitude":39.077058,
     "geom:longitude":-84.398969,
@@ -32,11 +37,13 @@
     "sg:website":"www.liben.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"e8fa4750c793c2f4a977857704201086",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":219681199
         }
     ],
     "wof:id":219681199,
-    "wof:lastmodified":1466746832,
+    "wof:lastmodified":1491901948,
     "wof:name":"Liben Music Publishing",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

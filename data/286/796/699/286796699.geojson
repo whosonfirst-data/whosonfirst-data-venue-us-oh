@@ -2,9 +2,14 @@
   "id": 286796699,
   "type": "Feature",
   "properties": {
+    "addr:full":"2375 Cleveland Ave Columbus OH 43211",
+    "addr:housenumber":"2375",
+    "addr:postcode":"43211",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.96589,40.016169,-82.96589,40.016169",
     "geom:latitude":40.016169,
     "geom:longitude":-82.96589,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"5d073007baf71d768e1bcd13db0971d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286796699,
-    "wof:lastmodified":1466750016,
+    "wof:lastmodified":1491934129,
     "wof:name":"International Inc",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

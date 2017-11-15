@@ -2,9 +2,14 @@
   "id": 185657673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1767 Genessee Ave Columbus OH 43211",
+    "addr:housenumber":"1767",
+    "addr:postcode":"43211",
+    "addr:street":"Genessee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.96343,40.018869,-82.96343,40.018869",
     "geom:latitude":40.018869,
     "geom:longitude":-82.96343,
@@ -30,11 +35,13 @@
     "sg:website":"www.iamcontrols.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"bab422274d25d57c9d9c0e3a5b9d2f84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":185657673,
-    "wof:lastmodified":1466748401,
+    "wof:lastmodified":1491934140,
     "wof:name":"Innovative American Mfg",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

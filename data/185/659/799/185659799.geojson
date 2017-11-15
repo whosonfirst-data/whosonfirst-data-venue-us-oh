@@ -2,9 +2,14 @@
   "id": 185659799,
   "type": "Feature",
   "properties": {
+    "addr:full":"12316 Euclid Ave Cleveland OH 44106",
+    "addr:housenumber":"12316",
+    "addr:postcode":"44106",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.59702,41.515659,-81.59702,41.515659",
     "geom:latitude":41.515659,
     "geom:longitude":-81.59702,
@@ -29,11 +34,13 @@
     "sg:website":"www.lakeviewcemetery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897041,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897041
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"89f62f365d2e0574fc2bd9a812c364a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897041,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":185659799,
-    "wof:lastmodified":1466748449,
+    "wof:lastmodified":1491934030,
     "wof:name":"Lake View Cemetery",
     "wof:parent_id":85897041,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 705732261,
   "type": "Feature",
   "properties": {
+    "addr:full":"1983 W 28th St Cleveland OH 44113",
+    "addr:housenumber":"1983",
+    "addr:postcode":"44113",
+    "addr:street":"W 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.705258,41.483322,-81.705258,41.483322",
     "geom:latitude":41.483322,
     "geom:longitude":-81.705258,
@@ -29,13 +34,14 @@
     "sg:website":"www.equestengineers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85871857,
+        85839251,
         102191575,
         404523697,
         85633793,
         101712563,
         102084837,
-        85688485
+        85688485,
+        85871857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102084837,
             "localadmin_id":404523697,
             "locality_id":101712563,
+            "neighbourhood_id":85839251,
+            "region_id":85688485,
+            "venue_id":705732261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
             "venue_id":705732261
         }
     ],
     "wof:id":705732261,
-    "wof:lastmodified":1466749917,
+    "wof:lastmodified":1491899509,
     "wof:name":"Equest",
-    "wof:parent_id":85871857,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

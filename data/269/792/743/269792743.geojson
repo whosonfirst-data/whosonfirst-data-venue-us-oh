@@ -2,9 +2,14 @@
   "id": 269792743,
   "type": "Feature",
   "properties": {
+    "addr:full":"7438 Silverleaf Ct Columbus OH 43235",
+    "addr:housenumber":"7438",
+    "addr:postcode":"43235",
+    "addr:street":"Silverleaf Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.078189,40.107714,-83.078189,40.107714",
     "geom:latitude":40.107714,
     "geom:longitude":-83.078189,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"ee30b0af477b0f379a51eababfea4f40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":269792743,
-    "wof:lastmodified":1466746643,
+    "wof:lastmodified":1491900864,
     "wof:name":"A T & T Cits",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

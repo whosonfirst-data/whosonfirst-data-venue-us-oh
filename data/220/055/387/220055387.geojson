@@ -2,9 +2,14 @@
   "id": 220055387,
   "type": "Feature",
   "properties": {
+    "addr:full":"4685 Groveport Rd Obetz OH 43207",
+    "addr:housenumber":"4685",
+    "addr:postcode":"43207",
+    "addr:street":"Groveport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.944767,39.874351,-82.944767,39.874351",
     "geom:latitude":39.874351,
     "geom:longitude":-82.944767,
@@ -31,11 +36,13 @@
     "sg:website":"www.shastapop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839131,
+        102191575,
+        404524633,
         85633793,
         101712421,
         102080969,
-        85839131
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"6a66946bfadac3b30fd3612e410cf41c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524633,
             "locality_id":101712421,
             "neighbourhood_id":85839131,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":220055387,
-    "wof:lastmodified":1466748137,
+    "wof:lastmodified":1491926557,
     "wof:name":"Shasta Beverages Inc",
     "wof:parent_id":85839131,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 252731957,
   "type": "Feature",
   "properties": {
+    "addr:full":"1855 Franklin Park S Columbus OH 43205",
+    "addr:housenumber":"1855",
+    "addr:postcode":"43205",
+    "addr:street":"Franklin Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.951423,39.963057,-82.951423,39.963057",
     "geom:latitude":39.963057,
     "geom:longitude":-82.951423,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893109,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893109
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"115a7e6d5dac1c655da76dfe5c960d46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893109,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":252731957,
-    "wof:lastmodified":1466742140,
+    "wof:lastmodified":1491906886,
     "wof:name":"Marketeers LTD",
     "wof:parent_id":85893109,
     "wof:placetype":"venue",

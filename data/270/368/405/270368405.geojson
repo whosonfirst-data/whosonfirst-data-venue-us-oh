@@ -2,9 +2,14 @@
   "id": 270368405,
   "type": "Feature",
   "properties": {
+    "addr:full":"3718 Shannon Rd Cleveland OH 44118",
+    "addr:housenumber":"3718",
+    "addr:postcode":"44118",
+    "addr:street":"Shannon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.545535,41.511548,-81.545535,41.511548",
     "geom:latitude":41.511548,
     "geom:longitude":-81.545535,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"e6a21bfe165f3fbb6673902fcadc4f62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":270368405,
-    "wof:lastmodified":1466747346,
+    "wof:lastmodified":1491926275,
     "wof:name":"Daniel Neustadt",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

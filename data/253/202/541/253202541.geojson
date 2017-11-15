@@ -2,9 +2,14 @@
   "id": 253202541,
   "type": "Feature",
   "properties": {
+    "addr:full":"637 Parsons Ave Columbus OH 43206",
+    "addr:housenumber":"637",
+    "addr:postcode":"43206",
+    "addr:street":"Parsons Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.98249,39.951612,-82.98249,39.951612",
     "geom:latitude":39.951612,
     "geom:longitude":-82.98249,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893123,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893123
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"ffb48036beadd1cddc5e49bab37f4cbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893123,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253202541,
-    "wof:lastmodified":1466744432,
+    "wof:lastmodified":1491922914,
     "wof:name":"A & H Used Tires",
     "wof:parent_id":85893123,
     "wof:placetype":"venue",

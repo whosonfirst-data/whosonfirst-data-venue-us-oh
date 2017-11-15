@@ -2,9 +2,14 @@
   "id": 287116377,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Spring Grove Ave Cincinnati OH 45214",
+    "addr:housenumber":"2201",
+    "addr:postcode":"45214",
+    "addr:street":"Spring Grove Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.536046,39.124091,-84.536046,39.124091",
     "geom:latitude":39.124091,
     "geom:longitude":-84.536046,
@@ -30,11 +35,13 @@
     "sg:website":"www.721-file.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873119,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"fc942d20d3125c6a9d4dc950b2a2d1f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873119,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":287116377,
-    "wof:lastmodified":1466744796,
+    "wof:lastmodified":1491929850,
     "wof:name":"Business Information Solutions",
     "wof:parent_id":85873119,
     "wof:placetype":"venue",

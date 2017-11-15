@@ -2,9 +2,14 @@
   "id": 706022985,
   "type": "Feature",
   "properties": {
+    "addr:full":"5653 Vickie Ln Cleveland OH 44146",
+    "addr:housenumber":"5653",
+    "addr:postcode":"44146",
+    "addr:street":"Vickie Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.509974,41.403063,-81.509974,41.403063",
     "geom:latitude":41.403063,
     "geom:longitude":-81.509974,
@@ -27,17 +32,32 @@
         "artist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cr8RxB3DRIzJLjEZF2ojv_41.403063_-81.509974@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461794068,
-    "wof:geomhash":"f23d731c508bfd10f0bf227d98fd2d99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c00c5509a25639566b0f61fbb3d024c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706022985
+        }
+    ],
     "wof:id":706022985,
-    "wof:lastmodified":1466748119,
+    "wof:lastmodified":1494529526,
     "wof:name":"Decorative Artisans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

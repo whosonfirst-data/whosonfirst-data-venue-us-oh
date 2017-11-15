@@ -2,9 +2,14 @@
   "id": 269535797,
   "type": "Feature",
   "properties": {
+    "addr:full":"4163 Bright Rd Dublin OH 43016",
+    "addr:housenumber":"4163",
+    "addr:postcode":"43016",
+    "addr:street":"Bright Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.092447,40.114153,-83.092447,40.114153",
     "geom:latitude":40.114153,
     "geom:longitude":-83.092447,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"766ed529e55d825b389eb3e73b45ae1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":269535797,
-    "wof:lastmodified":1466742702,
+    "wof:lastmodified":1491900864,
     "wof:name":"Chuck Johnson Builders",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

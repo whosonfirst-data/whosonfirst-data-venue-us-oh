@@ -2,9 +2,14 @@
   "id": 252834499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1418 W 29th St Cleveland OH 44113",
+    "addr:housenumber":"1418",
+    "addr:postcode":"44113",
+    "addr:street":"W 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.710973,41.489673,-81.710973,41.489673",
     "geom:latitude":41.489673,
     "geom:longitude":-81.710973,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"bfd88874e59669aff1572eb0dbaceddc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":252834499,
-    "wof:lastmodified":1466743425,
+    "wof:lastmodified":1491914734,
     "wof:name":"Gay-Lesbian Hotline",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

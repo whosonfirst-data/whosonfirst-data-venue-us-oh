@@ -2,9 +2,14 @@
   "id": 185954197,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 Burr Ave Columbus OH 43212",
+    "addr:housenumber":"920",
+    "addr:postcode":"43212",
+    "addr:street":"Burr Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.027147,39.976697,-83.027147,39.976697",
     "geom:latitude":39.976697,
     "geom:longitude":-83.027147,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"8ff4b2516e5c8235859958cd64edf59d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":185954197,
-    "wof:lastmodified":1466744067,
+    "wof:lastmodified":1491924561,
     "wof:name":"Four T Maintenance Co",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

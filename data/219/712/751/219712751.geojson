@@ -2,9 +2,14 @@
   "id": 219712751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Airport Dr Columbus OH 43219",
+    "addr:housenumber":"2700",
+    "addr:postcode":"43219",
+    "addr:street":"Airport Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.933549,39.995627,-82.933549,39.995627",
     "geom:latitude":39.995627,
     "geom:longitude":-82.933549,
@@ -25,12 +30,16 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
+        85688485,
         85816157,
-        85868821
+        404524625,
+        101712381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +49,30 @@
     "wof:geomhash":"361cedd14250ce80e98fd0648b473d57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85816157,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
+            "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":219712751
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":85868821,
+            "neighbourhood_id":85816157,
             "region_id":85688485,
             "venue_id":219712751
         }
     ],
     "wof:id":219712751,
-    "wof:lastmodified":1466747192,
+    "wof:lastmodified":1491907443,
     "wof:name":"Real Estate Weekly",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

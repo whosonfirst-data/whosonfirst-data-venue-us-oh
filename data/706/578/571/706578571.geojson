@@ -2,9 +2,14 @@
   "id": 706578571,
   "type": "Feature",
   "properties": {
+    "addr:full":"5425 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5425",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.144843,39.950949,-83.144843,39.950949",
     "geom:latitude":39.950949,
     "geom:longitude":-83.144843,
@@ -29,13 +34,7 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58Ys8ckG1zBZAgAEYujYj1_39.951419_-83.145063@1294180530"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1461806276,
     "wof:geomhash":"8088edba187a95a04a5ef758c5f4dcab",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706578571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706578571,
-    "wof:lastmodified":1466761641,
+    "wof:lastmodified":1491899828,
     "wof:name":"Burger King",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

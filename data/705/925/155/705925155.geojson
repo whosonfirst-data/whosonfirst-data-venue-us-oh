@@ -2,9 +2,14 @@
   "id": 705925155,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Thurber Dr W Columbus OH 43215",
+    "addr:housenumber":"900",
+    "addr:postcode":"43215",
+    "addr:street":"Thurber Dr W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.0162,39.980591,-83.0162,39.980591",
     "geom:latitude":39.980591,
     "geom:longitude":-83.0162,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870239,
+        85870247,
         102191575,
         404524625,
         85633793,
         101712381,
         102080969,
-        85688485
+        85688485,
+        85870239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102080969,
             "localadmin_id":404524625,
             "locality_id":101712381,
+            "neighbourhood_id":85870247,
+            "region_id":85688485,
+            "venue_id":705925155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
             "neighbourhood_id":85870239,
             "region_id":85688485,
             "venue_id":705925155
         }
     ],
     "wof:id":705925155,
-    "wof:lastmodified":1466756373,
+    "wof:lastmodified":1491888061,
     "wof:name":"Accredited Firearms Training",
-    "wof:parent_id":85870239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

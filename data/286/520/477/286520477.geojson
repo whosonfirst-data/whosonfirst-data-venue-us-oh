@@ -2,9 +2,14 @@
   "id": 286520477,
   "type": "Feature",
   "properties": {
+    "addr:full":"2332 Prospect Ave E Cleveland OH 44115",
+    "addr:housenumber":"2332",
+    "addr:postcode":"44115",
+    "addr:street":"Prospect Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.671163,41.500754,-81.671163,41.500754",
     "geom:latitude":41.500754,
     "geom:longitude":-81.671163,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"2e375aeff39e58df91c9fe0eb6036e2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":286520477,
-    "wof:lastmodified":1466746178,
+    "wof:lastmodified":1491917383,
     "wof:name":"Onesource Facility Services",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

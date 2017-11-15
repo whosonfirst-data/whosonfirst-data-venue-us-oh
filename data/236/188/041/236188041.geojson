@@ -2,9 +2,14 @@
   "id": 236188041,
   "type": "Feature",
   "properties": {
+    "addr:full":"17216 Lake Ave Lakewood OH 44107",
+    "addr:housenumber":"17216",
+    "addr:postcode":"44107",
+    "addr:street":"Lake Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.817791,41.492771,-81.817791,41.492771",
     "geom:latitude":41.492771,
     "geom:longitude":-81.817791,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"1916333d933f9ea8d003f634fcd535ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236188041,
-    "wof:lastmodified":1466744132,
+    "wof:lastmodified":1491932135,
     "wof:name":"Kaplysh L L C",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

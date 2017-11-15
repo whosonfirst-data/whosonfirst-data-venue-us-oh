@@ -2,9 +2,14 @@
   "id": 689934689,
   "type": "Feature",
   "properties": {
+    "addr:full":"3837 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3837",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.955416,40.047709,-82.955416,40.047709",
     "geom:latitude":40.047709,
     "geom:longitude":-82.955416,
@@ -27,13 +32,7 @@
         "repossessing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fCpRVB0B7pvmIWEJxl3wo_40.047709_-82.955416@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461785482,
     "wof:geomhash":"6b60b7e6bf5c87ce2a0d7c1e872cbab8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":689934689
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689934689,
-    "wof:lastmodified":1466760937,
+    "wof:lastmodified":1491926700,
     "wof:name":"FIB Of Central Ohio LLC",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

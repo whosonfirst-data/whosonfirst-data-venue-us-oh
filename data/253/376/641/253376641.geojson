@@ -2,9 +2,14 @@
   "id": 253376641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2006 Crown Plaza Dr Columbus OH 43235",
+    "addr:housenumber":"2006",
+    "addr:postcode":"43235",
+    "addr:street":"Crown Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.072694,40.065283,-83.072694,40.065283",
     "geom:latitude":40.065283,
     "geom:longitude":-83.072694,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"fb9c94190e6c80ecbca7c89c05b4b2f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253376641,
-    "wof:lastmodified":1466746766,
+    "wof:lastmodified":1491900865,
     "wof:name":"Bethel Road Sweepers",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

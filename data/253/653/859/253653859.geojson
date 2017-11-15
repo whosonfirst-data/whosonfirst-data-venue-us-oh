@@ -2,9 +2,14 @@
   "id": 253653859,
   "type": "Feature",
   "properties": {
+    "addr:full":"1408 E 25th St Cleveland OH 44114",
+    "addr:housenumber":"1408",
+    "addr:postcode":"44114",
+    "addr:street":"E 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.674106,41.509181,-81.674106,41.509181",
     "geom:latitude":41.509181,
     "geom:longitude":-81.674106,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"9b8a787bb03cd43338a4ad1a9436f9d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253653859,
-    "wof:lastmodified":1466750347,
+    "wof:lastmodified":1491929343,
     "wof:name":"Ohio Hydraulic",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

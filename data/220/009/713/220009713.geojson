@@ -2,9 +2,14 @@
   "id": 220009713,
   "type": "Feature",
   "properties": {
+    "addr:full":"982 Jaeger St Columbus OH 43206",
+    "addr:housenumber":"982",
+    "addr:postcode":"43206",
+    "addr:street":"Jaeger St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.990328,39.942236,-82.990328,39.942236",
     "geom:latitude":39.942236,
     "geom:longitude":-82.990328,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893123,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893123
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"3b451b3fefa607fd9715fafd4a6a8cb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893123,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":220009713,
-    "wof:lastmodified":1466745160,
+    "wof:lastmodified":1491922918,
     "wof:name":"Colvin Inc",
     "wof:parent_id":85893123,
     "wof:placetype":"venue",

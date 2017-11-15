@@ -2,9 +2,14 @@
   "id": 219822071,
   "type": "Feature",
   "properties": {
+    "addr:full":"2003 Saint Clair Ave NE Cleveland OH 44114",
+    "addr:housenumber":"2003",
+    "addr:postcode":"44114",
+    "addr:street":"Saint Clair Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.67994,41.509052,-81.67994,41.509052",
     "geom:latitude":41.509052,
     "geom:longitude":-81.67994,
@@ -29,11 +34,13 @@
     "sg:website":"www.douglasphotoinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"c9ae7a9c21deafd2349f0d11a0d6de0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219822071,
-    "wof:lastmodified":1466748473,
+    "wof:lastmodified":1491929342,
     "wof:name":"Douglas Photography Inc",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286724191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1948 Columbus Rd Cleveland OH 44113",
+    "addr:housenumber":"1948",
+    "addr:postcode":"44113",
+    "addr:street":"Columbus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.700531,41.487219,-81.700531,41.487219",
     "geom:latitude":41.487219,
     "geom:longitude":-81.700531,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"3790183b2aab0fead4c5b901e096fff6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":286724191,
-    "wof:lastmodified":1466749341,
+    "wof:lastmodified":1491899499,
     "wof:name":"Culbertson Group",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

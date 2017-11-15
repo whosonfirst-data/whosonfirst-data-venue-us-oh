@@ -2,9 +2,14 @@
   "id": 705950201,
   "type": "Feature",
   "properties": {
+    "addr:full":"5676 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5676",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.152646,39.951109,-83.152646,39.951109",
     "geom:latitude":39.951109,
     "geom:longitude":-83.152646,
@@ -27,13 +32,7 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lb6RZifTrVdJS1vB5OSZG_39.951109_-83.152646@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461792533,
     "wof:geomhash":"39af52c6c4901d4b2c7de34fe9276014",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":705950201
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":705950201,
-    "wof:lastmodified":1466757058,
+    "wof:lastmodified":1491899821,
     "wof:name":"K One Dry Cleaners",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

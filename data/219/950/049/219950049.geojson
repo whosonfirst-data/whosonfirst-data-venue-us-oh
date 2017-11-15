@@ -2,9 +2,14 @@
   "id": 219950049,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 N Cassady Ave Columbus OH 43209",
+    "addr:housenumber":"524",
+    "addr:postcode":"43209",
+    "addr:street":"N Cassady Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.931914,39.981808,-82.931914,39.981808",
     "geom:latitude":39.981808,
     "geom:longitude":-82.931914,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a06ae0bcc666d37203b674200b85383c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":219950049
         }
     ],
     "wof:id":219950049,
-    "wof:lastmodified":1466749950,
+    "wof:lastmodified":1491907446,
     "wof:name":"Studio Fringe",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

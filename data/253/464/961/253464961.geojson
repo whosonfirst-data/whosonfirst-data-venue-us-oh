@@ -2,9 +2,14 @@
   "id": 253464961,
   "type": "Feature",
   "properties": {
+    "addr:full":"1362 Meadow Rd Columbus OH 43212",
+    "addr:housenumber":"1362",
+    "addr:postcode":"43212",
+    "addr:street":"Meadow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.039065,39.986288,-83.039065,39.986288",
     "geom:latitude":39.986288,
     "geom:longitude":-83.039065,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"ab7b68ef52040b117d04e6f69b966420",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253464961,
-    "wof:lastmodified":1466748092,
+    "wof:lastmodified":1491924543,
     "wof:name":"D C Richards",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

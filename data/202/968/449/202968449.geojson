@@ -2,9 +2,14 @@
   "id": 202968449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1444 W 50th St Cleveland OH 44102",
+    "addr:housenumber":"1444",
+    "addr:postcode":"44102",
+    "addr:street":"W 50Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.721479,41.484701,-81.721479,41.484701",
     "geom:latitude":41.484701,
     "geom:longitude":-81.721479,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"32590102b9f9348f5cb3bb2b47a54e54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":202968449,
-    "wof:lastmodified":1466747314,
+    "wof:lastmodified":1491914721,
     "wof:name":"White Glove Cleaning Plus",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

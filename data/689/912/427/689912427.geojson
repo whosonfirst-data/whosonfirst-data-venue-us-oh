@@ -2,9 +2,14 @@
   "id": 689912427,
   "type": "Feature",
   "properties": {
+    "addr:full":"176 Galloway Rd Galloway OH 43119",
+    "addr:housenumber":"176",
+    "addr:postcode":"43119",
+    "addr:street":"Galloway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.154752,39.947433,-83.154752,39.947433",
     "geom:latitude":39.947433,
     "geom:longitude":-83.154752,
@@ -27,13 +32,7 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ILQTIU0mQzlqmhsxcf9Ld_39.947433_-83.154752@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461784920,
     "wof:geomhash":"ad390cd1435b9bbf2253e7661da27faa",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":689912427
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689912427,
-    "wof:lastmodified":1466760584,
+    "wof:lastmodified":1491899828,
     "wof:name":"Toppins Technical Svc",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

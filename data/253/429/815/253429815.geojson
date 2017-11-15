@@ -2,9 +2,14 @@
   "id": 253429815,
   "type": "Feature",
   "properties": {
+    "addr:full":"988 E 185th St Cleveland OH 44119",
+    "addr:housenumber":"988",
+    "addr:postcode":"44119",
+    "addr:street":"E 185Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.549916,41.582172,-81.549916,41.582172",
     "geom:latitude":41.582172,
     "geom:longitude":-81.549916,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"5ce485a07286eeec431375718c7420bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253429815,
-    "wof:lastmodified":1466747565,
+    "wof:lastmodified":1491906477,
     "wof:name":"James Lawless Inc",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

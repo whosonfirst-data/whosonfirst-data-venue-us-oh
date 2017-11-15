@@ -2,9 +2,14 @@
   "id": 269906795,
   "type": "Feature",
   "properties": {
+    "addr:full":"769 Neil Ave Columbus OH 43215",
+    "addr:housenumber":"769",
+    "addr:postcode":"43215",
+    "addr:street":"Neil Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.01107,39.97648,-83.01107,39.97648",
     "geom:latitude":39.97648,
     "geom:longitude":-83.01107,
@@ -29,11 +34,13 @@
     "sg:website":"www.greatclips.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870239,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870239
+        85688485
     ],
     "wof:brand_id":420573895,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"fc107bd469f2a530d89065d1269585a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870239,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":269906795,
-    "wof:lastmodified":1466748307,
+    "wof:lastmodified":1491888061,
     "wof:name":"Great Clips",
     "wof:parent_id":85870239,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270442453,
   "type": "Feature",
   "properties": {
+    "addr:full":"3043 Hamilton Ave Cleveland OH 44114",
+    "addr:housenumber":"3043",
+    "addr:postcode":"44114",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.671747,41.514127,-81.671747,41.514127",
     "geom:latitude":41.514127,
     "geom:longitude":-81.671747,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"0969cbcc55c9f94909a382275c58e3c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":270442453,
-    "wof:lastmodified":1466748441,
+    "wof:lastmodified":1491929347,
     "wof:name":"State Industrial Products",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

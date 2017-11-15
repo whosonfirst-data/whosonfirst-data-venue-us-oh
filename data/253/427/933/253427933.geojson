@@ -2,9 +2,14 @@
   "id": 253427933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 Race St Cincinnati OH 45202",
+    "addr:housenumber":"1720",
+    "addr:postcode":"45202",
+    "addr:street":"Race St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.518013,39.114768,-84.518013,39.114768",
     "geom:latitude":39.114768,
     "geom:longitude":-84.518013,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85839951
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"717c2b149a1b7dd936ccfe85c6d4dd18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85839951,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253427933,
-    "wof:lastmodified":1466747533,
+    "wof:lastmodified":1491925120,
     "wof:name":"Corp For Findlay Market",
     "wof:parent_id":85839951,
     "wof:placetype":"venue",

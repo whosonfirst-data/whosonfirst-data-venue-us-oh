@@ -2,9 +2,14 @@
   "id": 706551769,
   "type": "Feature",
   "properties": {
+    "addr:full":"1959 Innis Rd Columbus OH 43224",
+    "addr:housenumber":"1959",
+    "addr:postcode":"43224",
+    "addr:street":"Innis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.961604,40.037096,-82.961604,40.037096",
     "geom:latitude":40.037096,
     "geom:longitude":-82.961604,
@@ -29,13 +34,7 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HNcbQ06gJMEPCX4TaS3Kb_40.037096_-82.961604@1299784598"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1461805693,
     "wof:geomhash":"8d1493d395d2e1e248b872e4e386c5ef",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":706551769
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706551769,
-    "wof:lastmodified":1466761522,
+    "wof:lastmodified":1491926709,
     "wof:name":"Captain D's Seafood",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

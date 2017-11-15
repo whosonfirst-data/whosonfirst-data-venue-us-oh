@@ -2,9 +2,14 @@
   "id": 202798113,
   "type": "Feature",
   "properties": {
+    "addr:full":"2800 Harnet Ct Columbus OH 43231",
+    "addr:housenumber":"",
+    "addr:postcode":"2800;43231",
+    "addr:street":"Harnet Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.943195,40.062966,-82.943195,40.062966",
     "geom:latitude":40.062966,
     "geom:longitude":-82.943195,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"8a86a5d438e29b98d863f1cf6c3d4264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":202798113,
-    "wof:lastmodified":1466745389,
+    "wof:lastmodified":1491903505,
     "wof:name":"Rodriguez Properties LTD",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

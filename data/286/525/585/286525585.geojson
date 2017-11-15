@@ -2,9 +2,14 @@
   "id": 286525585,
   "type": "Feature",
   "properties": {
+    "addr:full":"648 N Cassady Ave Columbus OH 43219",
+    "addr:housenumber":"648",
+    "addr:postcode":"43219",
+    "addr:street":"N Cassady Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.931787,39.982922,-82.931787,39.982922",
     "geom:latitude":39.982922,
     "geom:longitude":-82.931787,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"b3be29dd57e13c2c040a44203b55755c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":286525585
         }
     ],
     "wof:id":286525585,
-    "wof:lastmodified":1466746249,
+    "wof:lastmodified":1491907450,
     "wof:name":"Adventure Vending",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

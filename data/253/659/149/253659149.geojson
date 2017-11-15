@@ -2,9 +2,14 @@
   "id": 253659149,
   "type": "Feature",
   "properties": {
+    "addr:full":"2214 Trent Rd Columbus OH 43229",
+    "addr:housenumber":"2214",
+    "addr:postcode":"43229",
+    "addr:street":"Trent Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.960685,40.067592,-82.960685,40.067592",
     "geom:latitude":40.067592,
     "geom:longitude":-82.960685,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"31f128ae3f08210d5bf5a51415e20cda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253659149,
-    "wof:lastmodified":1466750494,
+    "wof:lastmodified":1491903464,
     "wof:name":"Richard Lilly Delmon",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

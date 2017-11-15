@@ -2,9 +2,14 @@
   "id": 253188767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1811 Losantiville Ave Cincinnati OH 45237",
+    "addr:housenumber":"1811",
+    "addr:postcode":"45237",
+    "addr:street":"Losantiville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.458965,39.192423,-84.458965,39.192423",
     "geom:latitude":39.192423,
     "geom:longitude":-84.458965,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"cebdf7e7f4dbeee5d1af6ad9c18458ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253188767,
-    "wof:lastmodified":1466744263,
+    "wof:lastmodified":1491896866,
     "wof:name":"Spherion Corporation",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

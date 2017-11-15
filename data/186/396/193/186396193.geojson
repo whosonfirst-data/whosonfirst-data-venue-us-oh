@@ -2,9 +2,14 @@
   "id": 186396193,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Ringgold St Cincinnati OH 45202",
+    "addr:housenumber":"555",
+    "addr:postcode":"45202",
+    "addr:street":"Ringgold St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.505899,39.115033,-84.505899,39.115033",
     "geom:latitude":39.115033,
     "geom:longitude":-84.505899,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85843211,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85843211
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"2f4ba090e1d291426228317a79a977fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85843211,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186396193,
-    "wof:lastmodified":1466744957,
+    "wof:lastmodified":1491919231,
     "wof:name":"Mt Auburn Hair World",
     "wof:parent_id":85843211,
     "wof:placetype":"venue",

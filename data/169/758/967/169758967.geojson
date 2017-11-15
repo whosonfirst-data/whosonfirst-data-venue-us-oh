@@ -2,9 +2,14 @@
   "id": 169758967,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Hanford St Columbus OH 43206",
+    "addr:housenumber":"310",
+    "addr:postcode":"43206",
+    "addr:street":"Hanford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.985624,39.936479,-82.985624,39.936479",
     "geom:latitude":39.936479,
     "geom:longitude":-82.985624,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893113
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"461c2d908cbfd7cc2ec05f7c4c79b288",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893113,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":169758967,
-    "wof:lastmodified":1466747918,
+    "wof:lastmodified":1491902975,
     "wof:name":"Capital Research Inc",
     "wof:parent_id":85893113,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236872171,
   "type": "Feature",
   "properties": {
+    "addr:full":"2274 Cleveland Ave Columbus OH 43211",
+    "addr:housenumber":"2274",
+    "addr:postcode":"43211",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.967525,40.013222,-82.967525,40.013222",
     "geom:latitude":40.013222,
     "geom:longitude":-82.967525,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"ab79b2ce7d9978f1c8bbdb0e6749a1a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236872171,
-    "wof:lastmodified":1466750995,
+    "wof:lastmodified":1491934145,
     "wof:name":"Check Point Auto Body Inc",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

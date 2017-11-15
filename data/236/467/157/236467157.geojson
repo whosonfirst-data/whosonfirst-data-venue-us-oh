@@ -2,9 +2,14 @@
   "id": 236467157,
   "type": "Feature",
   "properties": {
+    "addr:full":"2829 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"2829",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.668178,41.502489,-81.668178,41.502489",
     "geom:latitude":41.502489,
     "geom:longitude":-81.668178,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"062352453d2b5523cd972ab07355e7f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236467157,
-    "wof:lastmodified":1466747553,
+    "wof:lastmodified":1491917376,
     "wof:name":"Mandel Foundation",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

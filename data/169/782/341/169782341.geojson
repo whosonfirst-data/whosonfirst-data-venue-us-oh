@@ -2,9 +2,14 @@
   "id": 169782341,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 N Nelson Rd Columbus OH 43219",
+    "addr:housenumber":"520",
+    "addr:postcode":"43219",
+    "addr:street":"N Nelson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.944721,39.978957,-82.944721,39.978957",
     "geom:latitude":39.978957,
     "geom:longitude":-82.944721,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"dd7305f8a8a34a88ace3587c2ff20fd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":169782341
         }
     ],
     "wof:id":169782341,
-    "wof:lastmodified":1466748586,
+    "wof:lastmodified":1491907462,
     "wof:name":"Child Development Council",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

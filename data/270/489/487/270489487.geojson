@@ -2,9 +2,14 @@
   "id": 270489487,
   "type": "Feature",
   "properties": {
+    "addr:full":"15603 Waterloo Rd Cleveland OH 44110",
+    "addr:housenumber":"15603",
+    "addr:postcode":"44110",
+    "addr:street":"Waterloo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.570976,41.571202,-81.570976,41.571202",
     "geom:latitude":41.571202,
     "geom:longitude":-81.570976,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"5cfd0283590d35f95434f1fa86b223d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":270489487,
-    "wof:lastmodified":1466749115,
+    "wof:lastmodified":1491918426,
     "wof:name":"Anointed Creations Unlimited",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

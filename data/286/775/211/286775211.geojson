@@ -2,9 +2,14 @@
   "id": 286775211,
   "type": "Feature",
   "properties": {
+    "addr:full":"883 E Hudson St Columbus OH 43211",
+    "addr:housenumber":"883",
+    "addr:postcode":"43211",
+    "addr:street":"E Hudson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.986691,40.014517,-82.986691,40.014517",
     "geom:latitude":40.014517,
     "geom:longitude":-82.986691,
@@ -32,10 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870289,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485,
+        85870253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +54,30 @@
     "wof:geomhash":"67416f09475498c1e55d06e9cdf110ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85870289,
+            "region_id":85688485,
+            "venue_id":286775211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85870253,
             "region_id":85688485,
             "venue_id":286775211
         }
     ],
     "wof:id":286775211,
-    "wof:lastmodified":1466749844,
+    "wof:lastmodified":1491933586,
     "wof:name":"Cook R D Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

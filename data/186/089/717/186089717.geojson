@@ -2,9 +2,14 @@
   "id": 186089717,
   "type": "Feature",
   "properties": {
+    "addr:full":"11457 Mayfield Rd Cleveland OH 44106",
+    "addr:housenumber":"11457",
+    "addr:postcode":"44106",
+    "addr:street":"Mayfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.60526,41.50889,-81.60526,41.50889",
     "geom:latitude":41.50889,
     "geom:longitude":-81.60526,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830935,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85830935
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"b78394921a1eb3a86c56408ce24bf8ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85830935,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186089717,
-    "wof:lastmodified":1466749273,
+    "wof:lastmodified":1491900519,
     "wof:name":"Triangle Apartments",
     "wof:parent_id":85830935,
     "wof:placetype":"venue",

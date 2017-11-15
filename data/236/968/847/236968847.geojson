@@ -2,9 +2,14 @@
   "id": 236968847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1351 Parsons Ave Columbus OH 43206",
+    "addr:housenumber":"1351",
+    "addr:postcode":"43206",
+    "addr:street":"Parsons Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.983681,39.936017,-82.983681,39.936017",
     "geom:latitude":39.936017,
     "geom:longitude":-82.983681,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893113
+        85688485
     ],
     "wof:brand_id":420573891,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"5bf98326c6409ccc5d1676aa1c0708d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893113,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236968847,
-    "wof:lastmodified":1466751523,
+    "wof:lastmodified":1491902970,
     "wof:name":"Rite Aid",
     "wof:parent_id":85893113,
     "wof:placetype":"venue",

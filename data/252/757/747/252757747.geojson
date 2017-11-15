@@ -2,9 +2,14 @@
   "id": 252757747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1384 Bonnieview Ave Cleveland OH 44107",
+    "addr:housenumber":"1384",
+    "addr:postcode":"44107",
+    "addr:street":"Bonnieview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.815681,41.487162,-81.815681,41.487162",
     "geom:latitude":41.487162,
     "geom:longitude":-81.815681,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"4789195397978551c2fecd6cdc5597ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":252757747,
-    "wof:lastmodified":1466742456,
+    "wof:lastmodified":1491932126,
     "wof:name":"Dog House",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

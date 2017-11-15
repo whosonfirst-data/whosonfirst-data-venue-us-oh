@@ -2,9 +2,14 @@
   "id": 706101335,
   "type": "Feature",
   "properties": {
+    "addr:full":"1762 Huy Rd Columbus OH 43224",
+    "addr:housenumber":"1762",
+    "addr:postcode":"43224",
+    "addr:street":"Huy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.964491,40.035225,-82.964491,40.035225",
     "geom:latitude":40.035225,
     "geom:longitude":-82.964491,
@@ -27,13 +32,7 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VVqpEaEnvHl3rIhWamIvX_40.035225_-82.964491@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461795811,
     "wof:geomhash":"0f1e52e3fe1ac4e358ec9e107959ac95",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":706101335
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706101335,
-    "wof:lastmodified":1466752388,
+    "wof:lastmodified":1491926700,
     "wof:name":"CD Store",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

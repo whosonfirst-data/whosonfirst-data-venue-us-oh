@@ -2,9 +2,14 @@
   "id": 236554717,
   "type": "Feature",
   "properties": {
+    "addr:full":"618 S 9th St Columbus OH 43206",
+    "addr:housenumber":"618",
+    "addr:postcode":"43206",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.986596,39.951287,-82.986596,39.951287",
     "geom:latitude":39.951287,
     "geom:longitude":-82.986596,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893123,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893123
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"6f38af5c0022592e643f9fb81b59faa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893123,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":236554717,
-    "wof:lastmodified":1466748650,
+    "wof:lastmodified":1491922904,
     "wof:name":"From My House To Your House",
     "wof:parent_id":85893123,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286439317,
   "type": "Feature",
   "properties": {
+    "addr:full":"16110 S Waterloo Rd Cleveland OH 44110",
+    "addr:housenumber":"16110",
+    "addr:postcode":"44110",
+    "addr:street":"S Waterloo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.553618,41.575023,-81.553618,41.575023",
     "geom:latitude":41.575023,
     "geom:longitude":-81.553618,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"6a1d4ad34265459ad3e7ad494f6f3e4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":286439317,
-    "wof:lastmodified":1466744974,
+    "wof:lastmodified":1491918419,
     "wof:name":"B & S Auto Repair",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 705860795,
   "type": "Feature",
   "properties": {
+    "addr:full":"634 Trebisky Rd Cleveland OH 44143",
+    "addr:housenumber":"634",
+    "addr:postcode":"44143",
+    "addr:street":"Trebisky Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.510281,41.544488,-81.510281,41.544488",
     "geom:latitude":41.544488,
     "geom:longitude":-81.510281,
@@ -27,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DbbrfCc6zXkCvvr2VqpVy_41.544488_-81.510281@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461790445,
-    "wof:geomhash":"707967d98408e8538c2df9d2920ed45b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee0f3524c1d4209177a33262afc27be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":705860795
+        }
+    ],
     "wof:id":705860795,
-    "wof:lastmodified":1466754514,
+    "wof:lastmodified":1494529541,
     "wof:name":"Inna's Denture Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 705870971,
   "type": "Feature",
   "properties": {
+    "addr:full":"1877 Kenny Rd Columbus OH 43212",
+    "addr:housenumber":"1877",
+    "addr:postcode":"43212",
+    "addr:street":"Kenny Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.035011,39.995797,-83.035011,39.995797",
     "geom:latitude":39.995797,
     "geom:longitude":-83.035011,
@@ -26,11 +31,13 @@
     "sg:website":"www.fifthavenuefloral.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"ce413e2dd22f316d4fa5644ccba169c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":705870971,
-    "wof:lastmodified":1466754804,
+    "wof:lastmodified":1491921154,
     "wof:name":"Barbers Fifth Avenue Floral Co",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

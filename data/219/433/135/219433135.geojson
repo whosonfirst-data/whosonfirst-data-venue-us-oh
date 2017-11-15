@@ -2,9 +2,14 @@
   "id": 219433135,
   "type": "Feature",
   "properties": {
+    "addr:full":"2194 Cassandra Ln Columbus OH 43211",
+    "addr:housenumber":"2194",
+    "addr:postcode":"43211",
+    "addr:street":"Cassandra Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.958729,40.012977,-82.958729,40.012977",
     "geom:latitude":40.012977,
     "geom:longitude":-82.958729,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"c2588863f2c29e88b4bc209e93c7140c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":219433135,
-    "wof:lastmodified":1466744087,
+    "wof:lastmodified":1491934139,
     "wof:name":"Hudson Mobile Home Park",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219727673,
   "type": "Feature",
   "properties": {
+    "addr:full":"1711 Norma Rd Columbus OH 43229",
+    "addr:housenumber":"1711",
+    "addr:postcode":"43229",
+    "addr:street":"Norma Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.972452,40.068149,-82.972452,40.068149",
     "geom:latitude":40.068149,
     "geom:longitude":-82.972452,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"90b30adc12341d77b1d214f32728dced",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219727673,
-    "wof:lastmodified":1466747359,
+    "wof:lastmodified":1491903486,
     "wof:name":"Hairston Cad Svc",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

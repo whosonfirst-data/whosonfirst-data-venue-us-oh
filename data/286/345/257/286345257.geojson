@@ -2,9 +2,14 @@
   "id": 286345257,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Chester Ave Cleveland OH 44114",
+    "addr:housenumber":"3333",
+    "addr:postcode":"44114",
+    "addr:street":"Chester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.663239,41.504806,-81.663239,41.504806",
     "geom:latitude":41.504806,
     "geom:longitude":-81.663239,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"da6a0301b8fb76f75c276d885cb50258",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":286345257,
-    "wof:lastmodified":1466743555,
+    "wof:lastmodified":1491917369,
     "wof:name":"Original Realty Co",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

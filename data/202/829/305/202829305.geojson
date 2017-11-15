@@ -2,9 +2,14 @@
   "id": 202829305,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Abbey Ave Cleveland OH 44113",
+    "addr:housenumber":"2100",
+    "addr:postcode":"44113",
+    "addr:street":"Abbey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.700453,41.484386,-81.700453,41.484386",
     "geom:latitude":41.484386,
     "geom:longitude":-81.700453,
@@ -29,11 +34,13 @@
     "sg:website":"www.cgstool.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"ddca3e18d99ae993e0d518e1c667a093",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":202829305,
-    "wof:lastmodified":1466745744,
+    "wof:lastmodified":1491899495,
     "wof:name":"Commercial Grinding Svc",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

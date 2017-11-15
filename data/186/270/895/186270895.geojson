@@ -2,9 +2,14 @@
   "id": 186270895,
   "type": "Feature",
   "properties": {
+    "addr:full":"3619 Walton Ave Cleveland OH 44113",
+    "addr:housenumber":"3619",
+    "addr:postcode":"44113",
+    "addr:street":"Walton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.709772,41.470899,-81.709772,41.470899",
     "geom:latitude":41.470899,
     "geom:longitude":-81.709772,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"07f49b61a6f3b9f7ff2817a3ea2a9db5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186270895,
-    "wof:lastmodified":1466743659,
+    "wof:lastmodified":1491925290,
     "wof:name":"Clean Cemp-Construction Mgmt",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

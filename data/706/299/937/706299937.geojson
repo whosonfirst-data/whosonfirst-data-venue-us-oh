@@ -2,9 +2,14 @@
   "id": 706299937,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Losantiville Ave Cincinnati OH 45213",
+    "addr:housenumber":"2700",
+    "addr:postcode":"45213",
+    "addr:street":"Losantiville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.438668,39.187762,-84.438668,39.187762",
     "geom:latitude":39.187762,
     "geom:longitude":-84.438668,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85838537,
+        85846009,
         102191575,
         404523793,
         85633793,
         101712203,
         102083687,
-        85688485
+        85688485,
+        85838537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102083687,
             "localadmin_id":404523793,
             "locality_id":101712203,
+            "neighbourhood_id":85846009,
+            "region_id":85688485,
+            "venue_id":706299937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
             "neighbourhood_id":85838537,
             "region_id":85688485,
             "venue_id":706299937
         }
     ],
     "wof:id":706299937,
-    "wof:lastmodified":1466757344,
+    "wof:lastmodified":1491896890,
     "wof:name":"Total Blessing Auto Detailing",
-    "wof:parent_id":85838537,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 253041405,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 W 54th St Cleveland OH 44102",
+    "addr:housenumber":"1300",
+    "addr:postcode":"44102",
+    "addr:street":"W 54Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.723972,41.487629,-81.723972,41.487629",
     "geom:latitude":41.487629,
     "geom:longitude":-81.723972,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
-        102084837
+        102084837,
+        85688485,
+        85871795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"db356a3482e7c10e7bfe5c8f9c64879f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85839251,
+            "region_id":85688485,
+            "venue_id":253041405
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85871795,
             "region_id":85688485,
             "venue_id":253041405
         }
     ],
     "wof:id":253041405,
-    "wof:lastmodified":1466742364,
+    "wof:lastmodified":1491914720,
     "wof:name":"Essential Video Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

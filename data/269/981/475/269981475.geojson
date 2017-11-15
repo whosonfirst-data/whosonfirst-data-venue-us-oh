@@ -2,9 +2,14 @@
   "id": 269981475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2151 W Dublin Granville Rd Worthington OH 43085",
+    "addr:housenumber":"2151",
+    "addr:postcode":"43085",
+    "addr:street":"W Dublin Granville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.049167,40.090129,-83.049167,40.090129",
     "geom:latitude":40.090129,
     "geom:longitude":-83.049167,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"52ab4e23c0637b5e8925f2482bfb25e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":269981475,
-    "wof:lastmodified":1466749388,
+    "wof:lastmodified":1491900838,
     "wof:name":"Accents By Y Design LLC",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

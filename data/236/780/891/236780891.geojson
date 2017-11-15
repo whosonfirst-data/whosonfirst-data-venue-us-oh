@@ -2,14 +2,20 @@
   "id": 236780891,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 Watkins Rd Columbus OH 43207",
+    "addr:housenumber":"1801",
+    "addr:postcode":"43207",
+    "addr:street":"Watkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.941117,39.903954,-82.941117,39.903954",
     "geom:latitude":39.903954,
     "geom:longitude":-82.941117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 Watkins Rd",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -28,31 +34,35 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85853405,
+        102191575,
+        404524633,
         85633793,
-        101712381,
+        101712421,
         102080969,
-        85853405
+        85688485
     ],
+    "wof:brand_id":1125159603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k6b9gT1N9Ij7YV6vOYoJ7_39.903954_-82.941117@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"997fa07d1215b2e25b29a7d720a0b1c8",
+    "wof:geomhash":"66efc622d4041915e5841df7b11f2274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404524633,
+            "locality_id":101712421,
             "neighbourhood_id":85853405,
             "region_id":85688485,
             "venue_id":236780891
         }
     ],
     "wof:id":236780891,
-    "wof:lastmodified":1466750626,
+    "wof:lastmodified":1510695405,
     "wof:name":"Lafarge Corp",
     "wof:parent_id":85853405,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253279829,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 Hamilton Ave Cleveland OH 44114",
+    "addr:housenumber":"2350",
+    "addr:postcode":"44114",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.675487,41.512025,-81.675487,41.512025",
     "geom:latitude":41.512025,
     "geom:longitude":-81.675487,
@@ -30,11 +35,13 @@
     "sg:website":"www.seblueprint.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"c1e26a11e229e59ebb9193028e6dd687",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253279829,
-    "wof:lastmodified":1466745419,
+    "wof:lastmodified":1491929341,
     "wof:name":"S E Blueprint Inc",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203208613,
   "type": "Feature",
   "properties": {
+    "addr:full":"24780 Eldridge Blvd Cleveland OH 44146",
+    "addr:housenumber":"24780",
+    "addr:postcode":"44146",
+    "addr:street":"Eldridge Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.502321,41.39057,-81.502321,41.39057",
     "geom:latitude":41.39057,
     "geom:longitude":-81.502321,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712525,
         102084837
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_0nLQTppn3cTIeoyaCTrBwL_41.390570_-81.502321@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"42fe4060babe1a5d8606725f1c107b7e",
+    "wof:geomhash":"e57a20eddf45d9c6ddffd68344dd7d71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712525,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":203208613
         }
     ],
     "wof:id":203208613,
-    "wof:lastmodified":1466742995,
+    "wof:lastmodified":1494529532,
     "wof:name":"Municipal Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

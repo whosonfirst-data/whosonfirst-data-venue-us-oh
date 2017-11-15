@@ -2,9 +2,14 @@
   "id": 202889379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1872 Dandridge Dr Columbus OH 43229",
+    "addr:housenumber":"1872",
+    "addr:postcode":"43229",
+    "addr:street":"Dandridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.967139,40.067101,-82.967139,40.067101",
     "geom:latitude":40.067101,
     "geom:longitude":-82.967139,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"3a5e471e384d64e8a0a432d1292a8caa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":202889379,
-    "wof:lastmodified":1466746424,
+    "wof:lastmodified":1491903472,
     "wof:name":"Lane Securities",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

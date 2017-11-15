@@ -2,9 +2,14 @@
   "id": 185806991,
   "type": "Feature",
   "properties": {
+    "addr:full":"7288 Ayers Rd Cincinnati OH 45255",
+    "addr:housenumber":"7288",
+    "addr:postcode":"45255",
+    "addr:street":"Ayers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.363353,39.055187,-84.363353,39.055187",
     "geom:latitude":39.055187,
     "geom:longitude":-84.363353,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"7602ea80a0bea454e40fc877acb95586",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":185806991
         }
     ],
     "wof:id":185806991,
-    "wof:lastmodified":1466742686,
+    "wof:lastmodified":1491901890,
     "wof:name":"Anderson Twp Properties",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

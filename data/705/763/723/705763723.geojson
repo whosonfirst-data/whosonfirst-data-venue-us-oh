@@ -2,9 +2,14 @@
   "id": 705763723,
   "type": "Feature",
   "properties": {
+    "addr:full":"3708 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3708",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.958255,40.0446,-82.958255,40.0446",
     "geom:latitude":40.0446,
     "geom:longitude":-82.958255,
@@ -27,13 +32,7 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lRM6M6ddNTh5Xn05no606_40.044600_-82.958255@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461788172,
     "wof:geomhash":"3cd9fc3116d28d367ddc0a7159dd14ea",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":705763723
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":705763723,
-    "wof:lastmodified":1466751632,
+    "wof:lastmodified":1491926695,
     "wof:name":"Mikes Pub",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

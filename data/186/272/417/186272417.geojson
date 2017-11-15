@@ -2,9 +2,14 @@
   "id": 186272417,
   "type": "Feature",
   "properties": {
+    "addr:full":"3141 Parklane Ave Columbus OH 43231",
+    "addr:housenumber":"3141",
+    "addr:postcode":"43231",
+    "addr:street":"Parklane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.934413,40.063249,-82.934413,40.063249",
     "geom:latitude":40.063249,
     "geom:longitude":-82.934413,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"9504181b910302cc063cd273680efbd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186272417,
-    "wof:lastmodified":1466743677,
+    "wof:lastmodified":1491903514,
     "wof:name":"Crazy Bear Xpress",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

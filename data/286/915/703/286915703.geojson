@@ -2,9 +2,14 @@
   "id": 286915703,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 Lorain Ave Cleveland OH 44113",
+    "addr:housenumber":"",
+    "addr:postcode":"3500;44113",
+    "addr:street":"Lorain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.710635,41.481485,-81.710635,41.481485",
     "geom:latitude":41.481485,
     "geom:longitude":-81.710635,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"cd20e479d1153c652344212cf6bb9ed8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286915703,
-    "wof:lastmodified":1466750922,
+    "wof:lastmodified":1491914737,
     "wof:name":"Brush Foundation",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

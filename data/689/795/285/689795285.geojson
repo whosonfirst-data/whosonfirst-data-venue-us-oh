@@ -2,9 +2,14 @@
   "id": 689795285,
   "type": "Feature",
   "properties": {
+    "addr:full":"22291 Libby Rd Cleveland OH 44146",
+    "addr:housenumber":"22291",
+    "addr:postcode":"44146",
+    "addr:street":"Libby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.521499,41.416998,-81.521499,41.416998",
     "geom:latitude":41.416998,
     "geom:longitude":-81.521499,
@@ -24,17 +29,32 @@
     "sg:postcode":"44146",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4By98G7C5iRo3hXlSNRsb0_41.416998_-81.521499@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461781715,
-    "wof:geomhash":"63daae25ffe4334e8fe3441b861f5bd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"adad9fd4cf7a77688b0fb8050243d1fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689795285
+        }
+    ],
     "wof:id":689795285,
-    "wof:lastmodified":1466758120,
+    "wof:lastmodified":1494529529,
     "wof:name":"American Alliance For Dvrsty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

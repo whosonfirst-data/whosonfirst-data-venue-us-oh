@@ -2,9 +2,14 @@
   "id": 706048531,
   "type": "Feature",
   "properties": {
+    "addr:full":"23 Norton Rd Columbus OH 43228",
+    "addr:housenumber":"23",
+    "addr:postcode":"43228",
+    "addr:street":"Norton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.139842,39.950908,-83.139842,39.950908",
     "geom:latitude":39.950908,
     "geom:longitude":-83.139842,
@@ -24,13 +29,7 @@
     "sg:postcode":"43228",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AScmLT0ysP197037szjK1_39.950908_-83.139842@1294180530"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1461794569,
     "wof:geomhash":"cecad115f1a71ccf67f5086b76e38a49",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706048531
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706048531,
-    "wof:lastmodified":1466750198,
+    "wof:lastmodified":1491899821,
     "wof:name":"His & Ms",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

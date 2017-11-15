@@ -2,9 +2,14 @@
   "id": 219295745,
   "type": "Feature",
   "properties": {
+    "addr:full":"4354 Wetmore Rd E Columbus OH 43224",
+    "addr:housenumber":"4354",
+    "addr:postcode":"43224",
+    "addr:street":"Wetmore Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.988828,40.054607,-82.988828,40.054607",
     "geom:latitude":40.054607,
     "geom:longitude":-82.988828,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"a3df460ea642446a1e63f28dfcdfa0fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219295745,
-    "wof:lastmodified":1466742401,
+    "wof:lastmodified":1491903514,
     "wof:name":"Randall Colby Painting",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

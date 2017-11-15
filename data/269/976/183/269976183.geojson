@@ -2,9 +2,14 @@
   "id": 269976183,
   "type": "Feature",
   "properties": {
+    "addr:full":"2039 Balmoral Ct Columbus OH 43229",
+    "addr:housenumber":"2039",
+    "addr:postcode":"43229",
+    "addr:street":"Balmoral Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.962431,40.065276,-82.962431,40.065276",
     "geom:latitude":40.065276,
     "geom:longitude":-82.962431,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"efbc2bc2397427152d5986ee6e695ee2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":269976183,
-    "wof:lastmodified":1466749306,
+    "wof:lastmodified":1491903515,
     "wof:name":"Melissa Smitherman",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

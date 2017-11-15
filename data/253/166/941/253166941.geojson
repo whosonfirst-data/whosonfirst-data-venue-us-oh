@@ -2,9 +2,14 @@
   "id": 253166941,
   "type": "Feature",
   "properties": {
+    "addr:full":"3685 Alum Creek Dr Columbus OH 43207",
+    "addr:housenumber":"3685",
+    "addr:postcode":"43207",
+    "addr:street":"Alum Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.929619,39.897312,-82.929619,39.897312",
     "geom:latitude":39.897312,
     "geom:longitude":-82.929619,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85853405,
+        102191575,
+        404524633,
         85633793,
-        101712381,
+        101712421,
         102080969,
-        85853405
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"7e8d6c084db92de9abecdf6d53335be3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404524633,
+            "locality_id":101712421,
             "neighbourhood_id":85853405,
             "region_id":85688485,
             "venue_id":253166941
         }
     ],
     "wof:id":253166941,
-    "wof:lastmodified":1466743989,
+    "wof:lastmodified":1491919474,
     "wof:name":"Sears Logistics Svc",
     "wof:parent_id":85853405,
     "wof:placetype":"venue",

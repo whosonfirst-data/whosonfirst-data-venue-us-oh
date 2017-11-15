@@ -2,9 +2,14 @@
   "id": 287001625,
   "type": "Feature",
   "properties": {
+    "addr:full":"2363 Somersworth Dr Columbus OH 43219",
+    "addr:housenumber":"2363",
+    "addr:postcode":"43219",
+    "addr:street":"Somersworth Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.942666,39.997221,-82.942666,39.997221",
     "geom:latitude":39.997221,
     "geom:longitude":-82.942666,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"8a8bb1f4914f4263ec076de775213357",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":287001625
         }
     ],
     "wof:id":287001625,
-    "wof:lastmodified":1466743025,
+    "wof:lastmodified":1491907464,
     "wof:name":"Plantation Quilts",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

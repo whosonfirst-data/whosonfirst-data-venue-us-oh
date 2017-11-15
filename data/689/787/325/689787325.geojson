@@ -2,9 +2,14 @@
   "id": 689787325,
   "type": "Feature",
   "properties": {
+    "addr:full":"73 Overlook Pl Cleveland OH 44146",
+    "addr:housenumber":"73",
+    "addr:postcode":"44146",
+    "addr:street":"Overlook Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.516885,41.399222,-81.516885,41.399222",
     "geom:latitude":41.399222,
     "geom:longitude":-81.516885,
@@ -28,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PEeZ76IHHAv4goVNJJh5A_41.399222_-81.516885@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461781446,
-    "wof:geomhash":"1ea81a269f51862ea1c25a52a425b676",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5818952f18883eb6899c7b44ba558663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689787325
+        }
+    ],
     "wof:id":689787325,
-    "wof:lastmodified":1466757917,
+    "wof:lastmodified":1494529514,
     "wof:name":"Detail Plumbing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

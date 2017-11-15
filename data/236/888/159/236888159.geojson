@@ -2,9 +2,14 @@
   "id": 236888159,
   "type": "Feature",
   "properties": {
+    "addr:full":"12500 Madison Ave Cleveland OH 44107",
+    "addr:housenumber":"12500",
+    "addr:postcode":"44107",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.776344,41.476935,-81.776344,41.476935",
     "geom:latitude":41.476935,
     "geom:longitude":-81.776344,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"12d6d355e8bd118fea00f89bbfc0a930",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":236888159,
-    "wof:lastmodified":1466751156,
+    "wof:lastmodified":1491924451,
     "wof:name":"Joseph A Misencik Funeral Home",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

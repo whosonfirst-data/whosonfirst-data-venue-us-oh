@@ -2,9 +2,14 @@
   "id": 185829521,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 Seymour Ave Cincinnati OH 45212",
+    "addr:housenumber":"2250",
+    "addr:postcode":"45212",
+    "addr:street":"Seymour Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.456747,39.183372,-84.456747,39.183372",
     "geom:latitude":39.183372,
     "geom:longitude":-84.456747,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"6ddf9bad79ef29cf46e279b30b19ed5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":185829521,
-    "wof:lastmodified":1466742880,
+    "wof:lastmodified":1491896853,
     "wof:name":"Kenko Corp",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

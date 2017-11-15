@@ -2,9 +2,14 @@
   "id": 269752631,
   "type": "Feature",
   "properties": {
+    "addr:full":"14920 Lake Shore Blvd Cleveland OH 44110",
+    "addr:housenumber":"14920",
+    "addr:postcode":"44110",
+    "addr:street":"Lake Shore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.577895,41.573066,-81.577895,41.573066",
     "geom:latitude":41.573066,
     "geom:longitude":-81.577895,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"543e4aa3813e3448426c12ef7ba81b10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":269752631,
-    "wof:lastmodified":1466746031,
+    "wof:lastmodified":1491918421,
     "wof:name":"Cutz R Us",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

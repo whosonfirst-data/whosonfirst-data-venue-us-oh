@@ -2,9 +2,14 @@
   "id": 236125391,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 E 9th St Cleveland OH 44114",
+    "addr:housenumber":"1801",
+    "addr:postcode":"44114",
+    "addr:street":"E 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.687914,41.501762,-81.687914,41.501762",
     "geom:latitude":41.501762,
     "geom:longitude":-81.687914,
@@ -26,11 +31,13 @@
     "sg:website":"www.nmfn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:brand_id":420574591,
     "wof:breaches":[],
@@ -41,9 +48,10 @@
     "wof:geomhash":"aafdaae871880b68419fa9f67b7dbf76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":236125391,
-    "wof:lastmodified":1466743343,
+    "wof:lastmodified":1491896547,
     "wof:name":"Northwestern Mutual Financial",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

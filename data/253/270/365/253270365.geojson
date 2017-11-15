@@ -2,9 +2,14 @@
   "id": 253270365,
   "type": "Feature",
   "properties": {
+    "addr:full":"2660 W 41st St Cleveland OH 44113",
+    "addr:housenumber":"2660",
+    "addr:postcode":"44113",
+    "addr:street":"W 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.713425,41.470812,-81.713425,41.470812",
     "geom:latitude":41.470812,
     "geom:longitude":-81.713425,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"525357e0a192ad43d0d599ac9c1b8f0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253270365,
-    "wof:lastmodified":1466745287,
+    "wof:lastmodified":1491925290,
     "wof:name":"Sunshine Electrician's",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

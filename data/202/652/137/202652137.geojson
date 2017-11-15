@@ -2,9 +2,14 @@
   "id": 202652137,
   "type": "Feature",
   "properties": {
+    "addr:full":"2825 Olentangy River Rd Columbus OH 43202",
+    "addr:housenumber":"2825",
+    "addr:postcode":"43202",
+    "addr:street":"Olentangy River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.023413,40.016801,-83.023413,40.016801",
     "geom:latitude":40.016801,
     "geom:longitude":-83.023413,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870273,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870273
+        85688485
     ],
     "wof:brand_id":420574431,
     "wof:breaches":[],
@@ -40,9 +47,10 @@
     "wof:geomhash":"12e1e5e7349d765e0d9a3e82ca22f47c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870273,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":202652137,
-    "wof:lastmodified":1466743801,
+    "wof:lastmodified":1491920269,
     "wof:name":"Citgo",
     "wof:parent_id":85870273,
     "wof:placetype":"venue",

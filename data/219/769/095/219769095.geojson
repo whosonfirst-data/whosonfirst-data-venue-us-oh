@@ -2,9 +2,14 @@
   "id": 219769095,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Huron Rd E Cleveland OH 44115",
+    "addr:housenumber":"1200",
+    "addr:postcode":"44115",
+    "addr:street":"Huron Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.681828,41.500885,-81.681828,41.500885",
     "geom:latitude":41.500885,
     "geom:longitude":-81.681828,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:brand_id":420573749,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"b426832bfe552235a8273de72d81f120",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":219769095,
-    "wof:lastmodified":1466747841,
+    "wof:lastmodified":1491896551,
     "wof:name":"US Post Office",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

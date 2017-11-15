@@ -2,9 +2,14 @@
   "id": 236523533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1916 Central Pkwy Cincinnati OH 45214",
+    "addr:housenumber":"1916",
+    "addr:postcode":"45214",
+    "addr:street":"Central Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.523113,39.118041,-84.523113,39.118041",
     "geom:latitude":39.118041,
     "geom:longitude":-84.523113,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85839951
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"b33ec6130e1173cb2b673ca72d2d016f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85839951,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":236523533,
-    "wof:lastmodified":1466748253,
+    "wof:lastmodified":1491925122,
     "wof:name":"Bills Place",
     "wof:parent_id":85839951,
     "wof:placetype":"venue",

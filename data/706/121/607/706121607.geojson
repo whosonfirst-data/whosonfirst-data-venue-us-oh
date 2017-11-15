@@ -2,9 +2,14 @@
   "id": 706121607,
   "type": "Feature",
   "properties": {
+    "addr:full":"2012 Kenny Rd Columbus OH 43221",
+    "addr:housenumber":"2012",
+    "addr:postcode":"43221",
+    "addr:street":"Kenny Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.034502,40.000616,-83.034502,40.000616",
     "geom:latitude":40.000616,
     "geom:longitude":-83.034502,
@@ -30,11 +35,13 @@
     "sg:website":"www.ohio.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"a163b29f367a60b49bf2fd03a7f03d4b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":706121607,
-    "wof:lastmodified":1466752847,
+    "wof:lastmodified":1491921153,
     "wof:name":"Vocational Rehabilitation Bur",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

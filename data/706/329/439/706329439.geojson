@@ -2,9 +2,14 @@
   "id": 706329439,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 E Frankfort St Columbus OH 43206",
+    "addr:housenumber":"100",
+    "addr:postcode":"43206",
+    "addr:street":"E Frankfort St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.994181,39.947493,-82.994181,39.947493",
     "geom:latitude":39.947493,
     "geom:longitude":-82.994181,
@@ -34,7 +39,8 @@
         85633793,
         101712381,
         102080969,
-        85688485
+        85688485,
+        85893123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,22 @@
             "neighbourhood_id":85870231,
             "region_id":85688485,
             "venue_id":706329439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85893123,
+            "region_id":85688485,
+            "venue_id":706329439
         }
     ],
     "wof:id":706329439,
-    "wof:lastmodified":1466758182,
+    "wof:lastmodified":1491922914,
     "wof:name":"Elford Development",
-    "wof:parent_id":85870231,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

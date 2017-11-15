@@ -2,9 +2,14 @@
   "id": 270268079,
   "type": "Feature",
   "properties": {
+    "addr:full":"12510 Mayfield Rd Cleveland OH 44106",
+    "addr:housenumber":"12510",
+    "addr:postcode":"44106",
+    "addr:street":"Mayfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.595831,41.508583,-81.595831,41.508583",
     "geom:latitude":41.508583,
     "geom:longitude":-81.595831,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830935,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85830935
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"7f6974b73589b8d95baefbdbe714222c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85830935,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":270268079,
-    "wof:lastmodified":1466745868,
+    "wof:lastmodified":1491900515,
     "wof:name":"Alta Social Settlement",
     "wof:parent_id":85830935,
     "wof:placetype":"venue",

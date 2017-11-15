@@ -2,9 +2,14 @@
   "id": 203408789,
   "type": "Feature",
   "properties": {
+    "addr:full":"21100 Saint Clair Ave Cleveland OH 44117",
+    "addr:housenumber":"21100",
+    "addr:postcode":"44117",
+    "addr:street":"Saint Clair Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.532437,41.582801,-81.532437,41.582801",
     "geom:latitude":41.582801,
     "geom:longitude":-81.532437,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"309c4debe50eafda01b9e98a8ac444ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":203408789,
-    "wof:lastmodified":1466745195,
+    "wof:lastmodified":1491906476,
     "wof:name":"St Clair Automotive & Equip",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

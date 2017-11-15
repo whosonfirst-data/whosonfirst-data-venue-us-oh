@@ -2,9 +2,14 @@
   "id": 253563897,
   "type": "Feature",
   "properties": {
+    "addr:full":"1706 E Broad St Columbus OH 43203",
+    "addr:housenumber":"1706",
+    "addr:postcode":"43203",
+    "addr:street":"E Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.956403,39.967312,-82.956403,39.967312",
     "geom:latitude":39.967312,
     "geom:longitude":-82.956403,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893109,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893109
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"66c271b31b57ea40f02561007e5184d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893109,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253563897,
-    "wof:lastmodified":1466749890,
+    "wof:lastmodified":1491906887,
     "wof:name":"Developmental Systems Inc",
     "wof:parent_id":85893109,
     "wof:placetype":"venue",

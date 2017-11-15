@@ -2,9 +2,14 @@
   "id": 287113709,
   "type": "Feature",
   "properties": {
+    "addr:full":"2335 E 5th Ave Columbus OH 43219",
+    "addr:housenumber":"2335",
+    "addr:postcode":"43219",
+    "addr:street":"E 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.943052,39.985682,-82.943052,39.985682",
     "geom:latitude":39.985682,
     "geom:longitude":-82.943052,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:brand_id":420574055,
     "wof:breaches":[],
@@ -43,17 +50,18 @@
     "wof:geomhash":"61be55a08ae6d0c0e1a52ed3a18fbbd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":287113709
         }
     ],
     "wof:id":287113709,
-    "wof:lastmodified":1466744754,
+    "wof:lastmodified":1491907487,
     "wof:name":"Wendys",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219160621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2136 Bethel Rd Columbus OH 43220",
+    "addr:housenumber":"2136",
+    "addr:postcode":"43220",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.081969,40.064627,-83.081969,40.064627",
     "geom:latitude":40.064627,
     "geom:longitude":-83.081969,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"b3edc5555625494bf768f84659c6fcbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":219160621,
-    "wof:lastmodified":1466745170,
+    "wof:lastmodified":1491900906,
     "wof:name":"Clintonville Appliance Sales",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

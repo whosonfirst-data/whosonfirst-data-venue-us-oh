@@ -2,9 +2,14 @@
   "id": 269773565,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Bethel Rd Columbus OH 43220",
+    "addr:housenumber":"1601",
+    "addr:postcode":"43220",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.063172,40.06393,-83.063172,40.06393",
     "geom:latitude":40.06393,
     "geom:longitude":-83.063172,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485,
+        85839521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"4cf3bb9d35acc7c7d582dae2f34a3ea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893119,
+            "region_id":85688485,
+            "venue_id":269773565
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85839521,
             "region_id":85688485,
             "venue_id":269773565
         }
     ],
     "wof:id":269773565,
-    "wof:lastmodified":1466746357,
+    "wof:lastmodified":1491900860,
     "wof:name":"Lusk Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

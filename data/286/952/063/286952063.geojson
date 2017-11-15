@@ -2,9 +2,14 @@
   "id": 286952063,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 Bethel Rd Columbus OH 43220",
+    "addr:housenumber":"2000",
+    "addr:postcode":"43220",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.072109,40.064229,-83.072109,40.064229",
     "geom:latitude":40.064229,
     "geom:longitude":-83.072109,
@@ -33,10 +38,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485,
+        85839521
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +55,30 @@
     "wof:geomhash":"0b3e8eb16ed48aa6ba813617d40acb6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893119,
+            "region_id":85688485,
+            "venue_id":286952063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85839521,
             "region_id":85688485,
             "venue_id":286952063
         }
     ],
     "wof:id":286952063,
-    "wof:lastmodified":1466751184,
+    "wof:lastmodified":1491900956,
     "wof:name":"Pennant Companies",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

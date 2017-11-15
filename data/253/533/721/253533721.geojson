@@ -2,9 +2,14 @@
   "id": 253533721,
   "type": "Feature",
   "properties": {
+    "addr:full":"1969 Honeysuckle Ln Cincinnati OH 45230",
+    "addr:housenumber":"1969",
+    "addr:postcode":"45230",
+    "addr:street":"Honeysuckle Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.381459,39.089675,-84.381459,39.089675",
     "geom:latitude":39.089675,
     "geom:longitude":-84.381459,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"38d2b00367d97141bc042504254f6b00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":253533721
         }
     ],
     "wof:id":253533721,
-    "wof:lastmodified":1466749120,
+    "wof:lastmodified":1491901925,
     "wof:name":"Shelton Tree Svc Inc",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

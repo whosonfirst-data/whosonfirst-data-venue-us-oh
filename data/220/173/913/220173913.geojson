@@ -2,9 +2,14 @@
   "id": 220173913,
   "type": "Feature",
   "properties": {
+    "addr:full":"3641 Erin Ave Cleveland OH 44113",
+    "addr:housenumber":"3641",
+    "addr:postcode":"44113",
+    "addr:street":"Erin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.709421,41.471966,-81.709421,41.471966",
     "geom:latitude":41.471966,
     "geom:longitude":-81.709421,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"1ebf0aa191fd2dbb5ca8e2a046e38c32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":220173913,
-    "wof:lastmodified":1466742653,
+    "wof:lastmodified":1491914740,
     "wof:name":"Baskets By Bundles",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

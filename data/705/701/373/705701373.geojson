@@ -2,9 +2,14 @@
   "id": 705701373,
   "type": "Feature",
   "properties": {
+    "addr:full":"3252 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3252",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.963783,40.033803,-82.963783,40.033803",
     "geom:latitude":40.033803,
     "geom:longitude":-82.963783,
@@ -27,12 +32,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        85834167,
-        102080969
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0le8Pet9rvr2vQEm0r1hbd_40.033803_-82.963783@1294180530"
@@ -40,19 +40,11 @@
     "wof:country":"US",
     "wof:created":1461786591,
     "wof:geomhash":"ea16c18785d0f8abef6c774a18ecd29e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "neighbourhood_id":85834167,
-            "region_id":85688485,
-            "venue_id":705701373
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":705701373,
-    "wof:lastmodified":1466746787,
+    "wof:lastmodified":1491926692,
     "wof:name":"Tawakal Express",
-    "wof:parent_id":85834167,
+    "wof:parent_id":85811437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

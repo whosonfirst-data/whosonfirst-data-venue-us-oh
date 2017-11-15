@@ -2,9 +2,14 @@
   "id": 253446877,
   "type": "Feature",
   "properties": {
+    "addr:full":"13970 Superior Rd Cleveland OH 44118",
+    "addr:housenumber":"13970",
+    "addr:postcode":"44118",
+    "addr:street":"Superior Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.579895,41.518682,-81.579895,41.518682",
     "geom:latitude":41.518682,
     "geom:longitude":-81.579895,
@@ -28,10 +33,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897041,
+        102191575,
+        404525063,
         85633793,
+        101712565,
+        102084837,
+        85688485,
+        85897021,
+        404524399,
         101712575,
-        102084837
+        85897011
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +53,40 @@
     "wof:geomhash":"de818db77b3f67e9dadc54fec641993a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
+            "locality_id":101712565,
+            "neighbourhood_id":85897041,
+            "region_id":85688485,
+            "venue_id":253446877
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404524399,
             "locality_id":101712575,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85897021,
+            "region_id":85688485,
+            "venue_id":253446877
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404525063,
+            "locality_id":101712565,
+            "neighbourhood_id":85897011,
             "region_id":85688485,
             "venue_id":253446877
         }
     ],
     "wof:id":253446877,
-    "wof:lastmodified":1466747815,
+    "wof:lastmodified":1491934029,
     "wof:name":"Blue Love",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

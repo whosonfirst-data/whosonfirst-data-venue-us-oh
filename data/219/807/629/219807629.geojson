@@ -2,9 +2,14 @@
   "id": 219807629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 Goodale Blvd Columbus OH 43212",
+    "addr:housenumber":"1060",
+    "addr:postcode":"43212",
+    "addr:street":"Goodale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.032623,39.974593,-83.032623,39.974593",
     "geom:latitude":39.974593,
     "geom:longitude":-83.032623,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"1b0cfd697bd9862b2b9d55226be3e29d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":219807629,
-    "wof:lastmodified":1466748293,
+    "wof:lastmodified":1491924568,
     "wof:name":"Vorhees Signs Co",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

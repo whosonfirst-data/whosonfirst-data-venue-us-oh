@@ -2,9 +2,14 @@
   "id": 286846937,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"3030",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.665559,41.502658,-81.665559,41.502658",
     "geom:latitude":41.502658,
     "geom:longitude":-81.665559,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"969114a34efea261dc3e94cc5b4b7a5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":286846937,
-    "wof:lastmodified":1466750427,
+    "wof:lastmodified":1491917371,
     "wof:name":"Ohio Educational Academy",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

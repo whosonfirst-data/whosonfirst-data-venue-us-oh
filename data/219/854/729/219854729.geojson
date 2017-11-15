@@ -2,9 +2,14 @@
   "id": 219854729,
   "type": "Feature",
   "properties": {
+    "addr:full":"19111 Detroit Rd Cleveland OH 44116",
+    "addr:housenumber":"19111",
+    "addr:postcode":"44116",
+    "addr:street":"Detroit Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.833952,41.482946,-81.833952,41.482946",
     "geom:latitude":41.482946,
     "geom:longitude":-81.833952,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"6163e3faffbc91da4bfe16b3c56913a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219854729,
-    "wof:lastmodified":1466748840,
+    "wof:lastmodified":1491932117,
     "wof:name":"Pamela L Gorski",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

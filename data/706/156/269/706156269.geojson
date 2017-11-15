@@ -2,9 +2,14 @@
   "id": 706156269,
   "type": "Feature",
   "properties": {
+    "addr:full":"6380 York Rd Cleveland OH 44130",
+    "addr:housenumber":"6380",
+    "addr:postcode":"44130",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.759696,41.382374,-81.759696,41.382374",
     "geom:latitude":41.382374,
     "geom:longitude":-81.759696,
@@ -27,17 +32,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VxeqPbHwsVP9epXfHGmok_41.382374_-81.759696@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461797116,
-    "wof:geomhash":"bf9cd94757c9d27580d7d079b58d14ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c90494b1f5804b56cd75cee19d5e561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706156269
+        }
+    ],
     "wof:id":706156269,
-    "wof:lastmodified":1466753943,
+    "wof:lastmodified":1494529506,
     "wof:name":"Lunas Deli & Restaurant Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

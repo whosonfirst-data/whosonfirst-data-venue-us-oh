@@ -2,9 +2,14 @@
   "id": 706017405,
   "type": "Feature",
   "properties": {
+    "addr:full":"7018 Beresford Ave Cleveland OH 44130",
+    "addr:housenumber":"7018",
+    "addr:postcode":"44130",
+    "addr:street":"Beresford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.778879,41.373163,-81.778879,41.373163",
     "geom:latitude":41.373163,
     "geom:longitude":-81.778879,
@@ -28,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QnFOPlfxsZqrgw4i32q4z_41.373163_-81.778879@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461793948,
-    "wof:geomhash":"2d9549d05cb9135dedcd9e04042e7652",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d8d6975627ecb6f308cc7420323baf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706017405
+        }
+    ],
     "wof:id":706017405,
-    "wof:lastmodified":1466747522,
+    "wof:lastmodified":1494529509,
     "wof:name":"Keygroup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

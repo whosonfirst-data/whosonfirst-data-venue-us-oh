@@ -2,9 +2,14 @@
   "id": 706445669,
   "type": "Feature",
   "properties": {
+    "addr:full":"6390 York Rd Cleveland OH 44130",
+    "addr:housenumber":"6390",
+    "addr:postcode":"44130",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.7597,41.382445,-81.7597,41.382445",
     "geom:latitude":41.382445,
     "geom:longitude":-81.7597,
@@ -28,17 +33,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r4frJliSLi6jbdOjPqtVu_41.382445_-81.759700@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461803343,
-    "wof:geomhash":"6f768fffe43540b53b5726c5248f30a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f3caa27175161a7dceb51d6714b4407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706445669
+        }
+    ],
     "wof:id":706445669,
-    "wof:lastmodified":1466760067,
+    "wof:lastmodified":1494529507,
     "wof:name":"Jan's Confectionary Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

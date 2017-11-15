@@ -2,9 +2,14 @@
   "id": 253421629,
   "type": "Feature",
   "properties": {
+    "addr:full":"3033 W 44th St Cleveland OH 44113",
+    "addr:housenumber":"3033",
+    "addr:postcode":"44113",
+    "addr:street":"W 44Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.716444,41.471182,-81.716444,41.471182",
     "geom:latitude":41.471182,
     "geom:longitude":-81.716444,
@@ -32,11 +37,13 @@
     "sg:website":"www.truco-inc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"c010d925be390220a7dbbaa1affdbc17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":253421629,
-    "wof:lastmodified":1466747444,
+    "wof:lastmodified":1491925297,
     "wof:name":"Truco Inc",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

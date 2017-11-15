@@ -2,9 +2,14 @@
   "id": 270385363,
   "type": "Feature",
   "properties": {
+    "addr:full":"7660 Production Dr Cincinnati OH 45237",
+    "addr:housenumber":"7660",
+    "addr:postcode":"45237",
+    "addr:street":"Production Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454994,39.199343,-84.454994,39.199343",
     "geom:latitude":39.199343,
     "geom:longitude":-84.454994,
@@ -39,11 +44,13 @@
     "sg:website":"www.solidsurfaceconcepts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +60,10 @@
     "wof:geomhash":"f078fc9f704257ea452da0c6d790b62d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":270385363,
-    "wof:lastmodified":1466747602,
+    "wof:lastmodified":1491896853,
     "wof:name":"Solid Surface Concepts Inc",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

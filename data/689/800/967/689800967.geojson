@@ -2,9 +2,14 @@
   "id": 689800967,
   "type": "Feature",
   "properties": {
+    "addr:full":"6997 Orchard Blvd Cleveland OH 44130",
+    "addr:housenumber":"6997",
+    "addr:postcode":"44130",
+    "addr:street":"Orchard Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.774114,41.373238,-81.774114,41.373238",
     "geom:latitude":41.373238,
     "geom:longitude":-81.774114,
@@ -24,17 +29,32 @@
     "sg:postcode":"44130",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FsMjlKEhK24OunUAngJJC_41.373238_-81.774114@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461781900,
-    "wof:geomhash":"89ad24b0c6dcd11dd02c1efb513f3fb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db74f227dee44fe3bff91645c80e6698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689800967
+        }
+    ],
     "wof:id":689800967,
-    "wof:lastmodified":1466758325,
+    "wof:lastmodified":1494529508,
     "wof:name":"Crew Cut Lawn Landscape Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

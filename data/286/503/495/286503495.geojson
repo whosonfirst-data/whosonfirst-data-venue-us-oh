@@ -2,9 +2,14 @@
   "id": 286503495,
   "type": "Feature",
   "properties": {
+    "addr:full":"2175 Morse Rd Columbus OH 43229",
+    "addr:housenumber":"2175",
+    "addr:postcode":"43229",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.957857,40.059744,-82.957857,40.059744",
     "geom:latitude":40.059744,
     "geom:longitude":-82.957857,
@@ -30,11 +35,13 @@
     "sg:website":"www.americasfitness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"674cb7274037fb53f95b2c357bcad03d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286503495,
-    "wof:lastmodified":1466745925,
+    "wof:lastmodified":1491903481,
     "wof:name":"America's Fitness Warehouse",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

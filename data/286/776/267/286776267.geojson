@@ -2,9 +2,14 @@
   "id": 286776267,
   "type": "Feature",
   "properties": {
+    "addr:full":"1516 Morse Rd Columbus OH 43229",
+    "addr:housenumber":"1516",
+    "addr:postcode":"43229",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.977614,40.060656,-82.977614,40.060656",
     "geom:latitude":40.060656,
     "geom:longitude":-82.977614,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"8361674d978540142140d419380c95a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":286776267,
-    "wof:lastmodified":1466749853,
+    "wof:lastmodified":1491903466,
     "wof:name":"Patio Liquor Beer & Wine",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

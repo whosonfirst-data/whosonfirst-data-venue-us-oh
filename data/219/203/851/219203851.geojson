@@ -2,9 +2,14 @@
   "id": 219203851,
   "type": "Feature",
   "properties": {
+    "addr:full":"705 Central Ave Cincinnati OH 45202",
+    "addr:housenumber":"705",
+    "addr:postcode":"45202",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.520199,39.103211,-84.520199,39.103211",
     "geom:latitude":39.103211,
     "geom:longitude":-84.520199,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873121,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873121
+        85688485
     ],
     "wof:brand_id":420574119,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"3c7338339c95439a3ef314ae7a97ae2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873121,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":219203851,
-    "wof:lastmodified":1466748197,
+    "wof:lastmodified":1491922425,
     "wof:name":"Fifth Third Bank",
     "wof:parent_id":85873121,
     "wof:placetype":"venue",

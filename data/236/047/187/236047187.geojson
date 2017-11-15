@@ -2,9 +2,14 @@
   "id": 236047187,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 E 150th St Cleveland OH 44110",
+    "addr:housenumber":"274",
+    "addr:postcode":"44110",
+    "addr:street":"E 150Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.577451,41.573997,-81.577451,41.573997",
     "geom:latitude":41.573997,
     "geom:longitude":-81.577451,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"a3b7bb5afd4589d2ca0ae4bbda5560de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236047187,
-    "wof:lastmodified":1466742412,
+    "wof:lastmodified":1491918428,
     "wof:name":"Roger J Lancaster",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

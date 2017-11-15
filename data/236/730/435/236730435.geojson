@@ -2,9 +2,14 @@
   "id": 236730435,
   "type": "Feature",
   "properties": {
+    "addr:full":"2709 Sawbury Blvd Columbus OH 43235",
+    "addr:housenumber":"2709",
+    "addr:postcode":"43235",
+    "addr:street":"Sawbury Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.088543,40.11401,-83.088543,40.11401",
     "geom:latitude":40.11401,
     "geom:longitude":-83.088543,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"6c20a28722a35974f33581febdb9f5eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236730435,
-    "wof:lastmodified":1466750197,
+    "wof:lastmodified":1491900941,
     "wof:name":"TMC Micrographic Services Inc",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

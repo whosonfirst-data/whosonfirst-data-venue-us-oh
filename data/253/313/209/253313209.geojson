@@ -2,9 +2,14 @@
   "id": 253313209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2054 Fulton Rd Cleveland OH 44113",
+    "addr:housenumber":"2054",
+    "addr:postcode":"44113",
+    "addr:street":"Fulton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.71084,41.480839,-81.71084,41.480839",
     "geom:latitude":41.480839,
     "geom:longitude":-81.71084,
@@ -29,11 +34,13 @@
     "sg:website":"www.vfw.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:brand_id":420573927,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"04dafe39e9c709ef550a671b9940c4af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253313209,
-    "wof:lastmodified":1466745883,
+    "wof:lastmodified":1491914716,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

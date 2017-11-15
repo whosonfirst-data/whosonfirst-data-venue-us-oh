@@ -2,9 +2,14 @@
   "id": 236154935,
   "type": "Feature",
   "properties": {
+    "addr:full":"6666 Salem Rd Cincinnati OH 45230",
+    "addr:housenumber":"6666",
+    "addr:postcode":"45230",
+    "addr:street":"Salem Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.376728,39.074342,-84.376728,39.074342",
     "geom:latitude":39.074342,
     "geom:longitude":-84.376728,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"fd6416bae0ff36856e904f1e840a4cf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":236154935
         }
     ],
     "wof:id":236154935,
-    "wof:lastmodified":1466743719,
+    "wof:lastmodified":1491901887,
     "wof:name":"Daleco",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236711491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1985 W 28th St Cleveland OH 44113",
+    "addr:housenumber":"1985",
+    "addr:postcode":"44113",
+    "addr:street":"W 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.705223,41.483409,-81.705223,41.483409",
     "geom:latitude":41.483409,
     "geom:longitude":-81.705223,
@@ -29,11 +34,13 @@
     "sg:website":"www.helpstopsmoking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"c70ad438e5a09c13f7028d3da796c564",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236711491,
-    "wof:lastmodified":1466750059,
+    "wof:lastmodified":1491899508,
     "wof:name":"Studio Twenty Seven Production",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

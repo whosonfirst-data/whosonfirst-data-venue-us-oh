@@ -2,9 +2,14 @@
   "id": 270425599,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Carnegie Ave Cleveland OH 44115",
+    "addr:housenumber":"2200",
+    "addr:postcode":"44115",
+    "addr:street":"Carnegie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.671807,41.499379,-81.671807,41.499379",
     "geom:latitude":41.499379,
     "geom:longitude":-81.671807,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"d8fa19752a001b5ed173a270bd39f871",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":270425599,
-    "wof:lastmodified":1466748196,
+    "wof:lastmodified":1491917342,
     "wof:name":"Music Talent Of Cleveland",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

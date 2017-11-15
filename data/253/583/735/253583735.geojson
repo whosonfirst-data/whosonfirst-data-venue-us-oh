@@ -2,9 +2,14 @@
   "id": 253583735,
   "type": "Feature",
   "properties": {
+    "addr:full":"1463 Thurell Rd Columbus OH 43229",
+    "addr:housenumber":"1463",
+    "addr:postcode":"43229",
+    "addr:street":"Thurell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.979274,40.069504,-82.979274,40.069504",
     "geom:latitude":40.069504,
     "geom:longitude":-82.979274,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"fdb1a3c167116d74c9452b9c1be202c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253583735,
-    "wof:lastmodified":1466749711,
+    "wof:lastmodified":1491903468,
     "wof:name":"Three Second Sermonds LLC",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 706535741,
   "type": "Feature",
   "properties": {
+    "addr:full":"3865 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3865",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.955471,40.047606,-82.955471,40.047606",
     "geom:latitude":40.047606,
     "geom:longitude":-82.955471,
@@ -28,13 +33,7 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wxf5wRXQV2iLpLMWyiVYe_40.047147_-82.955920@1293134755"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1461805379,
     "wof:geomhash":"2d9e44ca241974440b1dcbcb3d47e880",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":706535741
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706535741,
-    "wof:lastmodified":1466761305,
+    "wof:lastmodified":1491926710,
     "wof:name":"Decker Motors",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269827901,
   "type": "Feature",
   "properties": {
+    "addr:full":"6488 York Rd Cleveland OH 44130",
+    "addr:housenumber":"6488",
+    "addr:postcode":"44130",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.759787,41.383183,-81.759787,41.383183",
     "geom:latitude":41.383183,
     "geom:longitude":-81.759787,
@@ -29,8 +34,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712505,
         102084837
     ],
     "wof:breaches":[],
@@ -38,20 +43,20 @@
         "sg:id":"SG_6iYSxsVaGUW5HTwagvOVER_41.383183_-81.759787@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8dd7f3095a7edf2aa3e1866619201f8",
+    "wof:geomhash":"a8ec2d550f7086abfd1d036cb4f176fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712505,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":269827901
         }
     ],
     "wof:id":269827901,
-    "wof:lastmodified":1466747152,
+    "wof:lastmodified":1494529507,
     "wof:name":"Spa & Nails",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253186487,
   "type": "Feature",
   "properties": {
+    "addr:full":"13501 Lakewood Heights Blvd Cleveland OH 44107",
+    "addr:housenumber":"13501",
+    "addr:postcode":"44107",
+    "addr:street":"Lakewood Heights Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.785583,41.470478,-81.785583,41.470478",
     "geom:latitude":41.470478,
     "geom:longitude":-81.785583,
@@ -28,8 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85897097,
+        102191575,
+        404524417,
         85633793,
-        85688485
+        101712597,
+        102084837,
+        85688485,
+        85897113,
+        404523697,
+        101712563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +52,30 @@
     "wof:geomhash":"af60461b09ac7481f4d98d15e6d53e76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084837,
+            "localadmin_id":404524417,
+            "locality_id":101712597,
+            "neighbourhood_id":85897097,
+            "region_id":85688485,
+            "venue_id":253186487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85897113,
             "region_id":85688485,
             "venue_id":253186487
         }
     ],
     "wof:id":253186487,
-    "wof:lastmodified":1466744234,
+    "wof:lastmodified":1491924455,
     "wof:name":"Stop N Save Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

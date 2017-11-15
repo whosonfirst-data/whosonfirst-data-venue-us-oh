@@ -2,9 +2,14 @@
   "id": 186593389,
   "type": "Feature",
   "properties": {
+    "addr:full":"3953 Bluebird Ct Westerville OH 43081",
+    "addr:housenumber":"3953",
+    "addr:postcode":"43081",
+    "addr:street":"Bluebird Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.905091,40.086841,-82.905091,40.086841",
     "geom:latitude":40.086841,
     "geom:longitude":-82.905091,
@@ -30,11 +35,13 @@
     "sg:website":"www.tenaska.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85826407,
+        102191575,
+        404524511,
         85633793,
         101713837,
         102080969,
-        85826407
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"1b12000db0284d7097f90475946bb208",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524511,
             "locality_id":101713837,
             "neighbourhood_id":85826407,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":186593389,
-    "wof:lastmodified":1466747190,
+    "wof:lastmodified":1491929328,
     "wof:name":"Langston Group",
     "wof:parent_id":85826407,
     "wof:placetype":"venue",

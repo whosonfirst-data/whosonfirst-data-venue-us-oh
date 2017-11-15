@@ -2,9 +2,14 @@
   "id": 253576641,
   "type": "Feature",
   "properties": {
+    "addr:full":"819 Jefferson Ave Cleveland OH 44113",
+    "addr:housenumber":"819",
+    "addr:postcode":"44113",
+    "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.683844,41.479904,-81.683844,41.479904",
     "geom:latitude":41.479904,
     "geom:longitude":-81.683844,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871843,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"95ed0dc4e8787205e557de23bebbb244",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871843,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253576641,
-    "wof:lastmodified":1466749822,
+    "wof:lastmodified":1491921263,
     "wof:name":"Ideal Market",
     "wof:parent_id":85871843,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 269709421,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Sunbury Rd Columbus OH 43219",
+    "addr:housenumber":"1525",
+    "addr:postcode":"43219",
+    "addr:street":"Sunbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.937346,40.002731,-82.937346,40.002731",
     "geom:latitude":40.002731,
     "geom:longitude":-82.937346,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"cc93937d6b9b98dd14001668d08d18e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":269709421
         }
     ],
     "wof:id":269709421,
-    "wof:lastmodified":1466745391,
+    "wof:lastmodified":1491907440,
     "wof:name":"Fellowship of Love Church",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

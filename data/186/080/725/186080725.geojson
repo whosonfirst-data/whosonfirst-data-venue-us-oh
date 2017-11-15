@@ -2,9 +2,14 @@
   "id": 186080725,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Findlay St Cincinnati OH 45202",
+    "addr:housenumber":"102",
+    "addr:postcode":"45202",
+    "addr:street":"Findlay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.518543,39.116583,-84.518543,39.116583",
     "geom:latitude":39.116583,
     "geom:longitude":-84.518543,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85839951
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"23bced8658215094419b1d139f037620",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85839951,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186080725,
-    "wof:lastmodified":1466748992,
+    "wof:lastmodified":1491925131,
     "wof:name":"Fateye Records",
     "wof:parent_id":85839951,
     "wof:placetype":"venue",

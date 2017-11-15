@@ -2,9 +2,14 @@
   "id": 186559963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1566 Ferris Rd Columbus OH 43224",
+    "addr:housenumber":"1566",
+    "addr:postcode":"43224",
+    "addr:street":"Ferris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.975084,40.050778,-82.975084,40.050778",
     "geom:latitude":40.050778,
     "geom:longitude":-82.975084,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"120114c4304044b40657b16fa312df4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186559963,
-    "wof:lastmodified":1466746781,
+    "wof:lastmodified":1491903482,
     "wof:name":"St Matthias School",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 252994045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1460 E 120th St Cleveland OH 44106",
+    "addr:housenumber":"1460",
+    "addr:postcode":"44106",
+    "addr:street":"E 120Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.601752,41.517643,-81.601752,41.517643",
     "geom:latitude":41.517643,
     "geom:longitude":-81.601752,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830935,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85830935
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"89d28d8829aa8ca528167c8aff9ee259",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85830935,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":252994045,
-    "wof:lastmodified":1466745404,
+    "wof:lastmodified":1491900523,
     "wof:name":"Dot Your Eye Designs",
     "wof:parent_id":85830935,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219646779,
   "type": "Feature",
   "properties": {
+    "addr:full":"2215 Lisa Dr Columbus OH 43219",
+    "addr:housenumber":"2215",
+    "addr:postcode":"43219",
+    "addr:street":"Lisa Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.948959,39.99654,-82.948959,39.99654",
     "geom:latitude":39.99654,
     "geom:longitude":-82.948959,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"fb5be54974a32240d0aaf73b7131a9d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":219646779
         }
     ],
     "wof:id":219646779,
-    "wof:lastmodified":1466746447,
+    "wof:lastmodified":1491907441,
     "wof:name":"Rudolph Ayler Sr",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

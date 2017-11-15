@@ -2,9 +2,14 @@
   "id": 203352463,
   "type": "Feature",
   "properties": {
+    "addr:full":"975 E 185th St Cleveland OH 44119",
+    "addr:housenumber":"975",
+    "addr:postcode":"44119",
+    "addr:street":"E 185Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.549841,41.581177,-81.549841,41.581177",
     "geom:latitude":41.581177,
     "geom:longitude":-81.549841,
@@ -30,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
-        102084837
+        102084837,
+        85688485,
+        85871859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +52,30 @@
     "wof:geomhash":"ebf5d84f222e4790e9adc9ae0652c42d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85838557,
+            "region_id":85688485,
+            "venue_id":203352463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85871859,
             "region_id":85688485,
             "venue_id":203352463
         }
     ],
     "wof:id":203352463,
-    "wof:lastmodified":1466744560,
+    "wof:lastmodified":1491906488,
     "wof:name":"Star Complete",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

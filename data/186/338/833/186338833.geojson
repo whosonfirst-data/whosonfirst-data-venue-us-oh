@@ -2,9 +2,14 @@
   "id": 186338833,
   "type": "Feature",
   "properties": {
+    "addr:full":"2654 Pontiac St Columbus OH 43211",
+    "addr:housenumber":"2654",
+    "addr:postcode":"43211",
+    "addr:street":"Pontiac St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.988453,40.019267,-82.988453,40.019267",
     "geom:latitude":40.019267,
     "geom:longitude":-82.988453,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"30c9abbb7009a26415e2bbd7b9351ed6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186338833,
-    "wof:lastmodified":1466744356,
+    "wof:lastmodified":1491933587,
     "wof:name":"Brush Master Painting",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

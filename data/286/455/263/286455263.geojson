@@ -2,9 +2,14 @@
   "id": 286455263,
   "type": "Feature",
   "properties": {
+    "addr:full":"1776 Drew Ave Columbus OH 43235",
+    "addr:housenumber":"1776",
+    "addr:postcode":"43235",
+    "addr:street":"Drew Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.065049,40.066757,-83.065049,40.066757",
     "geom:latitude":40.066757,
     "geom:longitude":-83.065049,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"82d29d7994c9843750af32abd34ad24d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":286455263,
-    "wof:lastmodified":1466745206,
+    "wof:lastmodified":1491900945,
     "wof:name":"Honey Dos",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

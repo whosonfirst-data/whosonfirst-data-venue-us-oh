@@ -2,9 +2,14 @@
   "id": 186002981,
   "type": "Feature",
   "properties": {
+    "addr:full":"18214 Sloane Ave Cleveland OH 44107",
+    "addr:housenumber":"",
+    "addr:postcode":"18214;44107",
+    "addr:street":"Sloane Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.829508,41.4849,-81.829508,41.4849",
     "geom:latitude":41.4849,
     "geom:longitude":-81.829508,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"7c90db8e7eaf4e4e1d49ca3d14dbe2fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186002981,
-    "wof:lastmodified":1466741861,
+    "wof:lastmodified":1491932122,
     "wof:name":"Plaza Laundromat",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

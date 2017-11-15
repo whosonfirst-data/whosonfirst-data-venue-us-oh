@@ -2,9 +2,14 @@
   "id": 269920497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1900 Fulton Rd Cleveland OH 44113",
+    "addr:housenumber":"1900",
+    "addr:postcode":"44113",
+    "addr:street":"Fulton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.710169,41.484053,-81.710169,41.484053",
     "geom:latitude":41.484053,
     "geom:longitude":-81.710169,
@@ -26,11 +31,13 @@
     "sg:website":"www.cpl.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"465579b2c9b7b4c0b1957c885e191ba6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":269920497,
-    "wof:lastmodified":1466748498,
+    "wof:lastmodified":1491914735,
     "wof:name":"Cleveland Public Library",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

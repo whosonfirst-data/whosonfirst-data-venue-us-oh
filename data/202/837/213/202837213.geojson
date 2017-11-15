@@ -2,9 +2,14 @@
   "id": 202837213,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Chester Ave Cleveland OH 44114",
+    "addr:housenumber":"1120",
+    "addr:postcode":"44114",
+    "addr:street":"Chester Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.685203,41.502036,-81.685203,41.502036",
     "geom:latitude":41.502036,
     "geom:longitude":-81.685203,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"edb194ae27d5828a3e61130d7104db47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":202837213,
-    "wof:lastmodified":1466745840,
+    "wof:lastmodified":1491896549,
     "wof:name":"Estate Plg Council Cleveland",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

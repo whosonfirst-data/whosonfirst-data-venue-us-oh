@@ -2,9 +2,14 @@
   "id": 270413707,
   "type": "Feature",
   "properties": {
+    "addr:full":"18875 Detroit Exn Cleveland OH 44107",
+    "addr:housenumber":"18875",
+    "addr:postcode":"44107",
+    "addr:street":"Detroit Exn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.827981,41.481059,-81.827981,41.481059",
     "geom:latitude":41.481059,
     "geom:longitude":-81.827981,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"131ac8837c03699ea4495d7811ede888",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":270413707,
-    "wof:lastmodified":1466748024,
+    "wof:lastmodified":1491932123,
     "wof:name":"Accurate Align Auto Frame",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

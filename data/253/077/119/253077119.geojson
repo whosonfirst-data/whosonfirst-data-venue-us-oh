@@ -2,9 +2,14 @@
   "id": 253077119,
   "type": "Feature",
   "properties": {
+    "addr:full":"5595 Tangarey Ct Columbus OH 43235",
+    "addr:housenumber":"5595",
+    "addr:postcode":"43235",
+    "addr:street":"Tangarey Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.071671,40.07018,-83.071671,40.07018",
     "geom:latitude":40.07018,
     "geom:longitude":-83.071671,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"c1c66f18e307bd8cbc2b4a7d3e4502b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253077119,
-    "wof:lastmodified":1466742801,
+    "wof:lastmodified":1491900931,
     "wof:name":"Ohio Estate Lawncare LLC",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

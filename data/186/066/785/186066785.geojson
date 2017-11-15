@@ -2,9 +2,14 @@
   "id": 186066785,
   "type": "Feature",
   "properties": {
+    "addr:full":"2671 Sawbury Blvd Columbus OH 43235",
+    "addr:housenumber":"2671",
+    "addr:postcode":"43235",
+    "addr:street":"Sawbury Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.089439,40.114085,-83.089439,40.114085",
     "geom:latitude":40.114085,
     "geom:longitude":-83.089439,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"b48b2380fdec94e3a04d918b41a5dfff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186066785,
-    "wof:lastmodified":1466748562,
+    "wof:lastmodified":1491900899,
     "wof:name":"Fabreeka International Inc",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

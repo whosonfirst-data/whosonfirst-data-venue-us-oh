@@ -2,9 +2,14 @@
   "id": 706242715,
   "type": "Feature",
   "properties": {
+    "addr:full":"3283 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3283",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.963647,40.034784,-82.963647,40.034784",
     "geom:latitude":40.034784,
     "geom:longitude":-82.963647,
@@ -29,13 +34,7 @@
     ],
     "sg:website":"www.hollywoodvideo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_560BrkAyOpFsmGBRfkVlsF_40.034784_-82.963647@1294180530"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1461799010,
     "wof:geomhash":"63ee26e5a9e851f8ce288f21afb62e6f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":706242715
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706242715,
-    "wof:lastmodified":1466756055,
+    "wof:lastmodified":1491926708,
     "wof:name":"Hollywood Video",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

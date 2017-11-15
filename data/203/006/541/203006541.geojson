@@ -2,9 +2,14 @@
   "id": 203006541,
   "type": "Feature",
   "properties": {
+    "addr:full":"4210 Cloud Ave Cleveland OH 44113",
+    "addr:housenumber":"4210",
+    "addr:postcode":"44113",
+    "addr:street":"Cloud Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.714525,41.471538,-81.714525,41.471538",
     "geom:latitude":41.471538,
     "geom:longitude":-81.714525,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"960ba897efdc4c785692f42aeba1a844",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":203006541,
-    "wof:lastmodified":1466744726,
+    "wof:lastmodified":1491925293,
     "wof:name":"Mike Holt",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

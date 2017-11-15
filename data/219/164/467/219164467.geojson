@@ -2,9 +2,14 @@
   "id": 219164467,
   "type": "Feature",
   "properties": {
+    "addr:full":"7616 Reading Rd Cincinnati OH 45237",
+    "addr:housenumber":"7616",
+    "addr:postcode":"45237",
+    "addr:street":"Reading Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.456553,39.20068,-84.456553,39.20068",
     "geom:latitude":39.20068,
     "geom:longitude":-84.456553,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"75250a38c85291c41499841b64acbd52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219164467,
-    "wof:lastmodified":1466745541,
+    "wof:lastmodified":1491896845,
     "wof:name":"KAL Construction",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

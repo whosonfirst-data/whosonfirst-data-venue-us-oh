@@ -2,9 +2,14 @@
   "id": 689498499,
   "type": "Feature",
   "properties": {
+    "addr:full":"1165 Kinnear Rd Columbus OH 43212",
+    "addr:housenumber":"1165",
+    "addr:postcode":"43212",
+    "addr:street":"Kinnear Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.038924,39.998007,-83.038924,39.998007",
     "geom:latitude":39.998007,
     "geom:longitude":-83.038924,
@@ -38,11 +43,13 @@
     "sg:website":"www.columbuswoodproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +60,10 @@
     "wof:geomhash":"3464a238ad8dc7c077f032c871974ee8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":689498499,
-    "wof:lastmodified":1466749458,
+    "wof:lastmodified":1491921152,
     "wof:name":"Columbus Wood Products LLC",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

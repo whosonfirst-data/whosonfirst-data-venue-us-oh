@@ -2,9 +2,14 @@
   "id": 252735389,
   "type": "Feature",
   "properties": {
+    "addr:full":"1150 E 185th St Cleveland OH 44119",
+    "addr:housenumber":"1150",
+    "addr:postcode":"44119",
+    "addr:street":"E 185Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.549871,41.57673,-81.549871,41.57673",
     "geom:latitude":41.57673,
     "geom:longitude":-81.549871,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"33e803c0457cbd4c8eccb50c495a9fac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":252735389,
-    "wof:lastmodified":1466742181,
+    "wof:lastmodified":1491906478,
     "wof:name":"E 185th Shell",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

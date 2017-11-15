@@ -2,9 +2,14 @@
   "id": 219866249,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 E 5th Ave Columbus OH 43219",
+    "addr:housenumber":"2323",
+    "addr:postcode":"43219",
+    "addr:street":"E 5Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.942811,39.985668,-82.942811,39.985668",
     "geom:latitude":39.985668,
     "geom:longitude":-82.942811,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"51bedda5a32f1f32d46f346e48d2eaaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":219866249
         }
     ],
     "wof:id":219866249,
-    "wof:lastmodified":1466748984,
+    "wof:lastmodified":1491907484,
     "wof:name":"Eva M Crosby",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

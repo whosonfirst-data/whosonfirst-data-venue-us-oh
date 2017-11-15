@@ -2,9 +2,14 @@
   "id": 220021135,
   "type": "Feature",
   "properties": {
+    "addr:full":"4461 Ammon Rd Cleveland OH 44143",
+    "addr:housenumber":"4461",
+    "addr:postcode":"44143",
+    "addr:street":"Ammon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.518331,41.542736,-81.518331,41.542736",
     "geom:latitude":41.542736,
     "geom:longitude":-81.518331,
@@ -31,8 +36,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712531,
         102084837
     ],
     "wof:breaches":[],
@@ -40,20 +45,20 @@
         "sg:id":"SG_4OsWNam8VB8IBWK6pCcwRY_41.542736_-81.518331@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"296efd57c0389b0ca201de199e642854",
+    "wof:geomhash":"c99f7d61186f2fbd124f91760712cec6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712531,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":220021135
         }
     ],
     "wof:id":220021135,
-    "wof:lastmodified":1466746339,
+    "wof:lastmodified":1494529539,
     "wof:name":"Fini Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

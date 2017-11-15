@@ -2,9 +2,14 @@
   "id": 286447099,
   "type": "Feature",
   "properties": {
+    "addr:full":"2709 Westerville Rd Columbus OH 43224",
+    "addr:housenumber":"2709",
+    "addr:postcode":"43224",
+    "addr:street":"Westerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.962915,40.023473,-82.962915,40.023473",
     "geom:latitude":40.023473,
     "geom:longitude":-82.962915,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"43cac4f50d2cbddf63697f78d5ceacb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":286447099,
-    "wof:lastmodified":1466745083,
+    "wof:lastmodified":1491933594,
     "wof:name":"James W Fox Co",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

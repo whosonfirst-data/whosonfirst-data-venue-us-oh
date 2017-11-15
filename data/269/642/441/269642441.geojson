@@ -2,9 +2,14 @@
   "id": 269642441,
   "type": "Feature",
   "properties": {
+    "addr:full":"3810 Bendemeer Rd Cleveland OH 44118",
+    "addr:housenumber":"3810",
+    "addr:postcode":"44118",
+    "addr:street":"Bendemeer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.542116,41.510714,-81.542116,41.510714",
     "geom:latitude":41.510714,
     "geom:longitude":-81.542116,
@@ -29,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85849643,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043,
-        85849643
+        85688485,
+        85897043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +51,30 @@
     "wof:geomhash":"ba9e44726748032056afb1dace468427",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
-            "neighbourhood_id":85897043,
+            "neighbourhood_id":85849643,
             "region_id":85688485,
             "venue_id":269642441
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
-            "neighbourhood_id":85849643,
+            "neighbourhood_id":85897043,
             "region_id":85688485,
             "venue_id":269642441
         }
     ],
     "wof:id":269642441,
-    "wof:lastmodified":1466744379,
+    "wof:lastmodified":1491926266,
     "wof:name":"Mr Dunn Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

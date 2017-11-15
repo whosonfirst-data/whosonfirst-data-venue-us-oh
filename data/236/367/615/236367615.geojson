@@ -2,9 +2,14 @@
   "id": 236367615,
   "type": "Feature",
   "properties": {
+    "addr:full":"3122 Grangehill Pl Dublin OH 43017",
+    "addr:housenumber":"",
+    "addr:postcode":"3122;43017",
+    "addr:street":"Grangehill Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.099977,40.08133,-83.099977,40.08133",
     "geom:latitude":40.08133,
     "geom:longitude":-83.099977,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"95d1f60faf05d22495bd8271d91bd7e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236367615,
-    "wof:lastmodified":1466746324,
+    "wof:lastmodified":1491900952,
     "wof:name":"Tri-Village Physical Therapy",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

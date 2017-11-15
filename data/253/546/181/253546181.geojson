@@ -2,9 +2,14 @@
   "id": 253546181,
   "type": "Feature",
   "properties": {
+    "addr:full":"12501 Berea Rd Cleveland OH 44111",
+    "addr:housenumber":"12501",
+    "addr:postcode":"44111",
+    "addr:street":"Berea Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.774863,41.471964,-81.774863,41.471964",
     "geom:latitude":41.471964,
     "geom:longitude":-81.774863,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"06e78d6aa140e01c4045feacda0c7d4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253546181,
-    "wof:lastmodified":1466749295,
+    "wof:lastmodified":1491924446,
     "wof:name":"Gregg Express Inc",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

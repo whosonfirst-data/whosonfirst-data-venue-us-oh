@@ -2,9 +2,14 @@
   "id": 269498285,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Jefferson Ave Cleveland OH 44113",
+    "addr:housenumber":"250",
+    "addr:postcode":"44113",
+    "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.679666,41.482333,-81.679666,41.482333",
     "geom:latitude":41.482333,
     "geom:longitude":-81.679666,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871791,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843,
-        85871791
+        85688485,
+        85871843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +50,30 @@
     "wof:geomhash":"4fd1c03d6f917984029a3bf55a87d871",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871843,
+            "neighbourhood_id":85871791,
             "region_id":85688485,
             "venue_id":269498285
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871791,
+            "neighbourhood_id":85871843,
             "region_id":85688485,
             "venue_id":269498285
         }
     ],
     "wof:id":269498285,
-    "wof:lastmodified":1466742127,
+    "wof:lastmodified":1491921268,
     "wof:name":"St Marys Cement Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

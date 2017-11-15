@@ -2,9 +2,14 @@
   "id": 186293697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 Apple Farm Ln Cincinnati OH 45230",
+    "addr:housenumber":"1405",
+    "addr:postcode":"45230",
+    "addr:street":"Apple Farm Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.408972,39.078835,-84.408972,39.078835",
     "geom:latitude":39.078835,
     "geom:longitude":-84.408972,
@@ -34,12 +39,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85808861,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
+        85688485,
         85835779,
-        85808861
+        404525431,
+        101713759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +58,30 @@
     "wof:geomhash":"c186922baa0e6e5f363f33196e5a627a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
-            "neighbourhood_id":85835779,
+            "neighbourhood_id":85808861,
             "region_id":85688485,
             "venue_id":186293697
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
-            "neighbourhood_id":85808861,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
+            "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":186293697
         }
     ],
     "wof:id":186293697,
-    "wof:lastmodified":1466743900,
+    "wof:lastmodified":1491901899,
     "wof:name":"Jim Palmer & Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 236538393,
   "type": "Feature",
   "properties": {
+    "addr:full":"638 Bennettwoods Ct Cincinnati OH 45230",
+    "addr:housenumber":"638",
+    "addr:postcode":"45230",
+    "addr:street":"Bennettwoods Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.365536,39.059385,-84.365536,39.059385",
     "geom:latitude":39.059385,
     "geom:longitude":-84.365536,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"9a7e7aef3e85ee8a2ed45f7fa9e25c01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":236538393
         }
     ],
     "wof:id":236538393,
-    "wof:lastmodified":1466748451,
+    "wof:lastmodified":1491901930,
     "wof:name":"Shaklee Authrizd Distribtrs",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

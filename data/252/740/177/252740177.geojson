@@ -2,9 +2,14 @@
   "id": 252740177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1021 Tipton Ct Westerville OH 43081",
+    "addr:housenumber":"1021",
+    "addr:postcode":"43081",
+    "addr:street":"Tipton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.907883,40.097688,-82.907883,40.097688",
     "geom:latitude":40.097688,
     "geom:longitude":-82.907883,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85826407,
+        102191575,
+        404524511,
         85633793,
         101713837,
         102080969,
-        85826407
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"00f413df9b7e3a9c4fdca79b4c7a6d24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524511,
             "locality_id":101713837,
             "neighbourhood_id":85826407,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":252740177,
-    "wof:lastmodified":1466742242,
+    "wof:lastmodified":1491929328,
     "wof:name":"Panini Foundation",
     "wof:parent_id":85826407,
     "wof:placetype":"venue",

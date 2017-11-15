@@ -2,9 +2,14 @@
   "id": 253539341,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Sunnybrook Dr Cincinnati OH 45237",
+    "addr:housenumber":"14",
+    "addr:postcode":"45237",
+    "addr:street":"Sunnybrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.455424,39.207168,-84.455424,39.207168",
     "geom:latitude":39.207168,
     "geom:longitude":-84.455424,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"2e5c6a7a59fc09e649dc3e671e4a4661",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":253539341,
-    "wof:lastmodified":1466749209,
+    "wof:lastmodified":1491896847,
     "wof:name":"Technology Recycling Group",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

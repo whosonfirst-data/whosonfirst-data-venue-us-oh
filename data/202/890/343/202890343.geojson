@@ -2,9 +2,14 @@
   "id": 202890343,
   "type": "Feature",
   "properties": {
+    "addr:full":"5372 Thistledown Dr Columbus OH 43221",
+    "addr:housenumber":"5372",
+    "addr:postcode":"43221",
+    "addr:street":"Thistledown Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.115227,40.063199,-83.115227,40.063199",
     "geom:latitude":40.063199,
     "geom:longitude":-83.115227,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"97f4e69e5577ad9418a0d5297b8684a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":202890343,
-    "wof:lastmodified":1466746437,
+    "wof:lastmodified":1491900908,
     "wof:name":"Custom Balloons Unlimited",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

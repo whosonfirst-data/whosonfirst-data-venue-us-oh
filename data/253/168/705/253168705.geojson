@@ -2,9 +2,14 @@
   "id": 253168705,
   "type": "Feature",
   "properties": {
+    "addr:full":"1433 Main St Cincinnati OH 45202",
+    "addr:housenumber":"1433",
+    "addr:postcode":"45202",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.512579,39.112621,-84.512579,39.112621",
     "geom:latitude":39.112621,
     "geom:longitude":-84.512579,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85843211,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85843211
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"fd6a590855c723374ae14a23414aff27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85843211,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":253168705,
-    "wof:lastmodified":1466744007,
+    "wof:lastmodified":1491919234,
     "wof:name":"L S Fitness",
     "wof:parent_id":85843211,
     "wof:placetype":"venue",

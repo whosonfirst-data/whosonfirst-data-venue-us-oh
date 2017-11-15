@@ -2,9 +2,14 @@
   "id": 689778533,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Kohr Blvd Columbus OH 43224",
+    "addr:housenumber":"",
+    "addr:postcode":"3400;43224",
+    "addr:street":"Kohr Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.947269,40.037775,-82.947269,40.037775",
     "geom:latitude":40.037775,
     "geom:longitude":-82.947269,
@@ -27,13 +32,7 @@
         "middle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Sx6MtTVrfJJ8BcUG2Fafv_40.037775_-82.947269@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461781213,
     "wof:geomhash":"fc89cc1424162f8179407023a628b35b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":689778533
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689778533,
-    "wof:lastmodified":1466757877,
+    "wof:lastmodified":1491926692,
     "wof:name":"W C Handy Middle School",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

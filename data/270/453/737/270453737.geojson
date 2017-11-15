@@ -2,9 +2,14 @@
   "id": 270453737,
   "type": "Feature",
   "properties": {
+    "addr:full":"2936 Broadway Ave Cleveland OH 44115",
+    "addr:housenumber":"2936",
+    "addr:postcode":"44115",
+    "addr:street":"Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.670035,41.488369,-81.670035,41.488369",
     "geom:latitude":41.488369,
     "geom:longitude":-81.670035,
@@ -31,12 +36,14 @@
     "sg:website":"www.deboisinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871791,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843,
-        85871791
+        85688485,
+        85871843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,28 +53,30 @@
     "wof:geomhash":"b0c29bf5098c1c08a6d7b8267798b875",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871843,
+            "neighbourhood_id":85871791,
             "region_id":85688485,
             "venue_id":270453737
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871791,
+            "neighbourhood_id":85871843,
             "region_id":85688485,
             "venue_id":270453737
         }
     ],
     "wof:id":270453737,
-    "wof:lastmodified":1466748602,
+    "wof:lastmodified":1491921268,
     "wof:name":"Debois Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 236754703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1063 Dublin Rd Columbus OH 43215",
+    "addr:housenumber":"1063",
+    "addr:postcode":"43215",
+    "addr:street":"Dublin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.045737,39.972968,-83.045737,39.972968",
     "geom:latitude":39.972968,
     "geom:longitude":-83.045737,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"9843ff5f1ad5fb15c83d674fd2070e34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236754703,
-    "wof:lastmodified":1466750458,
+    "wof:lastmodified":1491924563,
     "wof:name":"Panel Town and More",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

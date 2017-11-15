@@ -2,9 +2,14 @@
   "id": 169771459,
   "type": "Feature",
   "properties": {
+    "addr:full":"4600 Northtowne Blvd Columbus OH 43229",
+    "addr:housenumber":"",
+    "addr:postcode":"4600;43229",
+    "addr:street":"Northtowne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.959976,40.063306,-82.959976,40.063306",
     "geom:latitude":40.063306,
     "geom:longitude":-82.959976,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"3e56f3b9c65dbf4a8c2557322906f6ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":169771459,
-    "wof:lastmodified":1466748301,
+    "wof:lastmodified":1491903475,
     "wof:name":"Artifact",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

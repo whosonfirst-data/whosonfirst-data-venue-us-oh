@@ -2,9 +2,14 @@
   "id": 269737195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1865 Morse Rd Columbus OH 43229",
+    "addr:housenumber":"1865",
+    "addr:postcode":"43229",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.969929,40.060229,-82.969929,40.060229",
     "geom:latitude":40.060229,
     "geom:longitude":-82.969929,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"9e67ee94514ab6729ef6c3a89a6c7ede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":269737195,
-    "wof:lastmodified":1466745804,
+    "wof:lastmodified":1491903470,
     "wof:name":"Vaud-Villities Productions",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

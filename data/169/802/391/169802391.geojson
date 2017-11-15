@@ -2,9 +2,14 @@
   "id": 169802391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2233 Margaret Ave Columbus OH 43219",
+    "addr:housenumber":"2233",
+    "addr:postcode":"43219",
+    "addr:street":"Margaret Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.946284,39.984867,-82.946284,39.984867",
     "geom:latitude":39.984867,
     "geom:longitude":-82.946284,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"b3a38e4118f67c4c09dee6a8ddf1fc63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":169802391
         }
     ],
     "wof:id":169802391,
-    "wof:lastmodified":1466749140,
+    "wof:lastmodified":1491907451,
     "wof:name":"R C Remodeling Co",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

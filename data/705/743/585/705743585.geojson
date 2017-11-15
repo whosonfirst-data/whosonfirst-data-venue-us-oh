@@ -2,9 +2,14 @@
   "id": 705743585,
   "type": "Feature",
   "properties": {
+    "addr:full":"1420 Sycamore St Cincinnati OH 45202",
+    "addr:housenumber":"1420",
+    "addr:postcode":"45202",
+    "addr:street":"Sycamore St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.510578,39.111422,-84.510578,39.111422",
     "geom:latitude":39.111422,
     "geom:longitude":-84.510578,
@@ -35,7 +40,8 @@
         85633793,
         101712203,
         102083687,
-        85688485
+        85688485,
+        85843211
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +60,22 @@
             "neighbourhood_id":85841141,
             "region_id":85688485,
             "venue_id":705743585
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85843211,
+            "region_id":85688485,
+            "venue_id":705743585
         }
     ],
     "wof:id":705743585,
-    "wof:lastmodified":1466750679,
+    "wof:lastmodified":1491919232,
     "wof:name":"Cincinnati Fax News Inc",
-    "wof:parent_id":85841141,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

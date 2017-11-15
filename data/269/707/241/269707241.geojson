@@ -2,9 +2,14 @@
   "id": 269707241,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Severance Cir Cleveland OH 44118",
+    "addr:housenumber":"25",
+    "addr:postcode":"44118",
+    "addr:street":"Severance Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.553954,41.515376,-81.553954,41.515376",
     "geom:latitude":41.515376,
     "geom:longitude":-81.553954,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"608fc9ff32c30896b271c42f77e7cb9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":269707241,
-    "wof:lastmodified":1466745356,
+    "wof:lastmodified":1491926268,
     "wof:name":"Cuyahoga Metro Housing Auth",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

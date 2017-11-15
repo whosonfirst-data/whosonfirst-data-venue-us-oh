@@ -2,9 +2,14 @@
   "id": 202523567,
   "type": "Feature",
   "properties": {
+    "addr:full":"1871 Summit Rd Cincinnati OH 45237",
+    "addr:housenumber":"1871",
+    "addr:postcode":"45237",
+    "addr:street":"Summit Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454796,39.201906,-84.454796,39.201906",
     "geom:latitude":39.201906,
     "geom:longitude":-84.454796,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"fe89e4c85d0fd18c817daa4f05c7b5e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":202523567,
-    "wof:lastmodified":1466742330,
+    "wof:lastmodified":1491896894,
     "wof:name":"Harris-The Copier People Iinc",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

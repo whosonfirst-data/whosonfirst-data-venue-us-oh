@@ -2,9 +2,14 @@
   "id": 253353313,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 Main St Cincinnati OH 45202",
+    "addr:housenumber":"1405",
+    "addr:postcode":"45202",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.51237,39.111701,-84.51237,39.111701",
     "geom:latitude":39.111701,
     "geom:longitude":-84.51237,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85843211,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85843211
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"95743f2de3deac1fca0c1cadbe1e82b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85843211,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253353313,
-    "wof:lastmodified":1466746426,
+    "wof:lastmodified":1491919231,
     "wof:name":"City Flavors",
     "wof:parent_id":85843211,
     "wof:placetype":"venue",

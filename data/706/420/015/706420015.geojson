@@ -2,9 +2,14 @@
   "id": 706420015,
   "type": "Feature",
   "properties": {
+    "addr:full":"6126 Randolph Rd Bedford OH 44146",
+    "addr:housenumber":"6126",
+    "addr:postcode":"44146",
+    "addr:street":"Randolph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.508497,41.392663,-81.508497,41.392663",
     "geom:latitude":41.392663,
     "geom:longitude":-81.508497,
@@ -24,17 +29,32 @@
     "sg:postcode":"44146",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CLcm8WKfRXRkau8d0FLUN_41.392663_-81.508497@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461802791,
-    "wof:geomhash":"de7680d8817d4ec6e91c4839afba911d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5b620fbb152ec791290800188bdb0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706420015
+        }
+    ],
     "wof:id":706420015,
-    "wof:lastmodified":1466759675,
+    "wof:lastmodified":1494529525,
     "wof:name":"Inspirations From Above",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

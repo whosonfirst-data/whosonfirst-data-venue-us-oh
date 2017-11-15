@@ -2,9 +2,14 @@
   "id": 253141169,
   "type": "Feature",
   "properties": {
+    "addr:full":"1701 Payne Ave Cleveland OH 44114",
+    "addr:housenumber":"1701",
+    "addr:postcode":"44114",
+    "addr:street":"Payne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.6795,41.504923,-81.6795,41.504923",
     "geom:latitude":41.504923,
     "geom:longitude":-81.6795,
@@ -25,10 +30,14 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85867113,
+        102191575,
+        404523697,
         85633793,
         101712563,
-        102084837
+        102084837,
+        85688485,
+        85871837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +47,30 @@
     "wof:geomhash":"e316df5890298415604e38868c144ea9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867113,
+            "region_id":85688485,
+            "venue_id":253141169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85871837,
             "region_id":85688485,
             "venue_id":253141169
         }
     ],
     "wof:id":253141169,
-    "wof:lastmodified":1466743618,
+    "wof:lastmodified":1491917377,
     "wof:name":"Mental Health Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

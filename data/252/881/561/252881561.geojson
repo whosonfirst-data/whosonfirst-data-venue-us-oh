@@ -2,9 +2,14 @@
   "id": 252881561,
   "type": "Feature",
   "properties": {
+    "addr:full":"1427 W 54th St Cleveland OH 44102",
+    "addr:housenumber":"1427",
+    "addr:postcode":"44102",
+    "addr:street":"W 54Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.723633,41.48418,-81.723633,41.48418",
     "geom:latitude":41.48418,
     "geom:longitude":-81.723633,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"66d7e1420a3a38105011fa61d267e18e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":252881561,
-    "wof:lastmodified":1466743992,
+    "wof:lastmodified":1491914732,
     "wof:name":"Extravagant Bridal Consultants",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

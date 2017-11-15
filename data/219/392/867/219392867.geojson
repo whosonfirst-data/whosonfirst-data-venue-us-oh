@@ -2,9 +2,14 @@
   "id": 219392867,
   "type": "Feature",
   "properties": {
+    "addr:full":"1737 Section Rd Cincinnati OH 45237",
+    "addr:housenumber":"1737",
+    "addr:postcode":"45237",
+    "addr:street":"Section Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.457828,39.197245,-84.457828,39.197245",
     "geom:latitude":39.197245,
     "geom:longitude":-84.457828,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"e766e7677cd94fb7cc4ac19f1b1c72b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219392867,
-    "wof:lastmodified":1466743609,
+    "wof:lastmodified":1491896892,
     "wof:name":"Song Long Restaurant",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

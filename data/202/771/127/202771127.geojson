@@ -2,9 +2,14 @@
   "id": 202771127,
   "type": "Feature",
   "properties": {
+    "addr:full":"1094 Wellington Blvd Columbus OH 43219",
+    "addr:housenumber":"1094",
+    "addr:postcode":"43219",
+    "addr:street":"Wellington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.94456,39.99009,-82.94456,39.99009",
     "geom:latitude":39.99009,
     "geom:longitude":-82.94456,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"459b414deb63720c60c6005ad1af6b87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":202771127
         }
     ],
     "wof:id":202771127,
-    "wof:lastmodified":1466745096,
+    "wof:lastmodified":1491907484,
     "wof:name":"Michelles Antiques",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

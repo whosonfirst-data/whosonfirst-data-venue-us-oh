@@ -2,9 +2,14 @@
   "id": 706029649,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 Westerville Rd Columbus OH 43224",
+    "addr:housenumber":"",
+    "addr:postcode":"3505;43224",
+    "addr:street":"Westerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.951715,40.038868,-82.951715,40.038868",
     "geom:latitude":40.038868,
     "geom:longitude":-82.951715,
@@ -27,12 +32,7 @@
         "military"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        85834167,
-        102080969
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HZL6GEtI9JXRtR2kl9jAP_40.038868_-82.951715@1294180530"
@@ -40,19 +40,11 @@
     "wof:country":"US",
     "wof:created":1461794201,
     "wof:geomhash":"ec2175f07dcf4d4ea00b7d74484c5e69",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "neighbourhood_id":85834167,
-            "region_id":85688485,
-            "venue_id":706029649
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706029649,
-    "wof:lastmodified":1466748807,
+    "wof:lastmodified":1491926699,
     "wof:name":"Amvest",
-    "wof:parent_id":85834167,
+    "wof:parent_id":85811437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

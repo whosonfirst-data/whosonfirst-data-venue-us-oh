@@ -2,9 +2,14 @@
   "id": 185833459,
   "type": "Feature",
   "properties": {
+    "addr:full":"2719 Columbus Ave Columbus OH 43209",
+    "addr:housenumber":"2719",
+    "addr:postcode":"43209",
+    "addr:street":"Columbus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.931291,39.97922,-82.931291,39.97922",
     "geom:latitude":39.97922,
     "geom:longitude":-82.931291,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"bea114ab09115718cfefdd9c6cd42c64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":185833459
         }
     ],
     "wof:id":185833459,
-    "wof:lastmodified":1466742914,
+    "wof:lastmodified":1491907441,
     "wof:name":"Precision Pontiac",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236161407,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 Prospect Ave E Cleveland OH 44115",
+    "addr:housenumber":"615",
+    "addr:postcode":"44115",
+    "addr:street":"Prospect Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.687193,41.49881,-81.687193,41.49881",
     "geom:latitude":41.49881,
     "geom:longitude":-81.687193,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"687737432bb4e0627e37c050588ad668",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236161407,
-    "wof:lastmodified":1466743800,
+    "wof:lastmodified":1491896571,
     "wof:name":"Nick's Sport Ctr",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

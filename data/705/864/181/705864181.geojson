@@ -2,9 +2,14 @@
   "id": 705864181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1439 Ida Ave Columbus OH 43212",
+    "addr:housenumber":"1439",
+    "addr:postcode":"43212",
+    "addr:street":"Ida Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.046048,39.987625,-83.046048,39.987625",
     "geom:latitude":39.987625,
     "geom:longitude":-83.046048,
@@ -31,7 +36,10 @@
         85633793,
         101712405,
         102080969,
-        85688485
+        85688485,
+        85893101,
+        404524651,
+        101712425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,22 @@
             "neighbourhood_id":85822501,
             "region_id":85688485,
             "venue_id":705864181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524651,
+            "locality_id":101712425,
+            "neighbourhood_id":85893101,
+            "region_id":85688485,
+            "venue_id":705864181
         }
     ],
     "wof:id":705864181,
-    "wof:lastmodified":1466754455,
+    "wof:lastmodified":1491924559,
     "wof:name":"Emperors Newest Clothes",
-    "wof:parent_id":85822501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

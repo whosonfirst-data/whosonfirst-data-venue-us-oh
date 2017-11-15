@@ -2,9 +2,14 @@
   "id": 186117859,
   "type": "Feature",
   "properties": {
+    "addr:full":"6448 Sherman Ave Cincinnati OH 45230",
+    "addr:housenumber":"6448",
+    "addr:postcode":"45230",
+    "addr:street":"Sherman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.380375,39.078217,-84.380375,39.078217",
     "geom:latitude":39.078217,
     "geom:longitude":-84.380375,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,18 @@
     "wof:geomhash":"8e0adeb02400d399c219c8b21677592b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":186117859
         }
     ],
     "wof:id":186117859,
-    "wof:lastmodified":1466742102,
+    "wof:lastmodified":1491901889,
     "wof:name":"Design Support",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

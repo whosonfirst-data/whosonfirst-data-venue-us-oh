@@ -2,9 +2,14 @@
   "id": 253669501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1377 Genessee Ave Columbus OH 43211",
+    "addr:housenumber":"1377",
+    "addr:postcode":"43211",
+    "addr:street":"Genessee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.972156,40.018914,-82.972156,40.018914",
     "geom:latitude":40.018914,
     "geom:longitude":-82.972156,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"1e24acc1005c46bd6a953b4dcf2abe20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253669501,
-    "wof:lastmodified":1466750559,
+    "wof:lastmodified":1491934143,
     "wof:name":"Dede's Daycare",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

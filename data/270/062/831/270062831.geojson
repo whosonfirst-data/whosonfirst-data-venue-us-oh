@@ -2,9 +2,14 @@
   "id": 270062831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2530 W 3rd St Cleveland OH 44113",
+    "addr:housenumber":"2530",
+    "addr:postcode":"44113",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.679216,41.48216,-81.679216,41.48216",
     "geom:latitude":41.48216,
     "geom:longitude":-81.679216,
@@ -28,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871791,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843,
-        85871791
+        85688485,
+        85871843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +50,30 @@
     "wof:geomhash":"52f759f60c9896b646b19ffd6f372996",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871843,
+            "neighbourhood_id":85871791,
             "region_id":85688485,
             "venue_id":270062831
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":85871791,
+            "neighbourhood_id":85871843,
             "region_id":85688485,
             "venue_id":270062831
         }
     ],
     "wof:id":270062831,
-    "wof:lastmodified":1466742835,
+    "wof:lastmodified":1491921270,
     "wof:name":"Cameo Autobody & Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 202560207,
   "type": "Feature",
   "properties": {
+    "addr:full":"4739 Bourke Rd Columbus OH 43229",
+    "addr:housenumber":"4739",
+    "addr:postcode":"43229",
+    "addr:street":"Bourke Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.97948,40.066187,-82.97948,40.066187",
     "geom:latitude":40.066187,
     "geom:longitude":-82.97948,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"e7f8558ca3d3f378e062c6c78d6ec594",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":202560207,
-    "wof:lastmodified":1466742759,
+    "wof:lastmodified":1491903502,
     "wof:name":"Choose Him Publishing",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

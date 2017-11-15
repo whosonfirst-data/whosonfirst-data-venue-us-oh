@@ -2,14 +2,20 @@
   "id": 186556461,
   "type": "Feature",
   "properties": {
+    "addr:full":"2428 Saint Clair Ave NE Cleveland OH 44114",
+    "addr:housenumber":"2428",
+    "addr:postcode":"44114",
+    "addr:street":"Saint Clair Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.676366,41.510541,-81.676366,41.510541",
     "geom:latitude":41.510541,
     "geom:longitude":-81.676366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2428 Saint Clair Ave NE",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -26,23 +32,27 @@
     "sg:website":"www.atu.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
+    "wof:brand_id":1125158701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52wYvoDlFPiWS1UbpAA9io_41.510541_-81.676366@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"27cadc0f112151b057b7d36890f3d366",
+    "wof:geomhash":"9e1ffdac420fda981852a65e514f3e88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -50,7 +60,7 @@
         }
     ],
     "wof:id":186556461,
-    "wof:lastmodified":1466746741,
+    "wof:lastmodified":1510613309,
     "wof:name":"Amalgamated Transit Union",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

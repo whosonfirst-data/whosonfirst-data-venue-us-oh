@@ -2,9 +2,14 @@
   "id": 705920429,
   "type": "Feature",
   "properties": {
+    "addr:full":"2701 Saint Clair Ave NE Cleveland OH 44114",
+    "addr:housenumber":"2701",
+    "addr:postcode":"44114",
+    "addr:street":"Saint Clair Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.672467,41.512557,-81.672467,41.512557",
     "geom:latitude":41.512557,
     "geom:longitude":-81.672467,
@@ -28,7 +33,16 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85871837,
+        102191575,
+        404523697,
+        85633793,
+        101712563,
+        102084837,
+        85688485,
+        85871855
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hR27pdW4Gn6XG3iQqMA75_41.512557_-81.672467@1294180530"
@@ -36,11 +50,32 @@
     "wof:country":"US",
     "wof:created":1461791854,
     "wof:geomhash":"67c4b5414e96b7f9d447ac1f3bf1ad89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85871837,
+            "region_id":85688485,
+            "venue_id":705920429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85871855,
+            "region_id":85688485,
+            "venue_id":705920429
+        }
+    ],
     "wof:id":705920429,
-    "wof:lastmodified":1466756107,
+    "wof:lastmodified":1491917364,
     "wof:name":"Commercial Electric Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

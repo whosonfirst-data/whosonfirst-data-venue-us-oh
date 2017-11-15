@@ -2,9 +2,14 @@
   "id": 269837045,
   "type": "Feature",
   "properties": {
+    "addr:full":"449 Dayton St Cincinnati OH 45214",
+    "addr:housenumber":"449",
+    "addr:postcode":"45214",
+    "addr:street":"Dayton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.524761,39.118057,-84.524761,39.118057",
     "geom:latitude":39.118057,
     "geom:longitude":-84.524761,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85839951
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"0ac15767f846f434ad88688eeb67fca0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85839951,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":269837045,
-    "wof:lastmodified":1466747280,
+    "wof:lastmodified":1491925139,
     "wof:name":"Beams Of Heaven Baptist Church",
     "wof:parent_id":85839951,
     "wof:placetype":"venue",

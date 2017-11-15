@@ -2,9 +2,14 @@
   "id": 236034611,
   "type": "Feature",
   "properties": {
+    "addr:full":"4141 Maize Rd Columbus OH 43224",
+    "addr:housenumber":"4141",
+    "addr:postcode":"43224",
+    "addr:street":"Maize Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.988162,40.050124,-82.988162,40.050124",
     "geom:latitude":40.050124,
     "geom:longitude":-82.988162,
@@ -29,10 +34,14 @@
     "sg:website":"www.columbusccc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485,
+        85870257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"0bc4266fa20d627fab747eafb556cd3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85870259,
+            "region_id":85688485,
+            "venue_id":236034611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85870257,
             "region_id":85688485,
             "venue_id":236034611
         }
     ],
     "wof:id":236034611,
-    "wof:lastmodified":1466742260,
+    "wof:lastmodified":1491903477,
     "wof:name":"Columbus Chinese Christian Chr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

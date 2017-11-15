@@ -2,9 +2,14 @@
   "id": 706380117,
   "type": "Feature",
   "properties": {
+    "addr:full":"5544 Belle Oak Dr Galloway OH 43119",
+    "addr:housenumber":"5544",
+    "addr:postcode":"43119",
+    "addr:street":"Belle Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.14657,39.945875,-83.14657,39.945875",
     "geom:latitude":39.945875,
     "geom:longitude":-83.14657,
@@ -24,13 +29,7 @@
     "sg:postcode":"43119",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xcj0mC4x8FruC3dJep5GB_39.945875_-83.146570@1294180530"
@@ -38,18 +37,9 @@
     "wof:country":"US",
     "wof:created":1461802010,
     "wof:geomhash":"5b6e43e8b2825484372925ae0959ce18",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706380117
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706380117,
-    "wof:lastmodified":1466758932,
+    "wof:lastmodified":1491899826,
     "wof:name":"Anna Sheer",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

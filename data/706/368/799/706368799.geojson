@@ -2,9 +2,14 @@
   "id": 706368799,
   "type": "Feature",
   "properties": {
+    "addr:full":"5562 Rustlingway Ln Galloway OH 43119",
+    "addr:housenumber":"5562",
+    "addr:postcode":"43119",
+    "addr:street":"Rustlingway Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.145712,39.948907,-83.145712,39.948907",
     "geom:latitude":39.948907,
     "geom:longitude":-83.145712,
@@ -28,13 +33,7 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PUTsaEUOl4iZCP7EmTkJ3_39.948907_-83.145712@1294180530"
@@ -42,18 +41,9 @@
     "wof:country":"US",
     "wof:created":1461801784,
     "wof:geomhash":"f79bbf05d709110bdae286b82437b6d8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706368799
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706368799,
-    "wof:lastmodified":1466758834,
+    "wof:lastmodified":1491899836,
     "wof:name":"West Winds Associates",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

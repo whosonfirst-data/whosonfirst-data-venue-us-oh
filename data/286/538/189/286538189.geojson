@@ -2,9 +2,14 @@
   "id": 286538189,
   "type": "Feature",
   "properties": {
+    "addr:full":"2675 Hamilton Ave Cleveland OH 44114",
+    "addr:housenumber":"2675",
+    "addr:postcode":"44114",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.670816,41.514719,-81.670816,41.514719",
     "geom:latitude":41.514719,
     "geom:longitude":-81.670816,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"6c540ef327a30d5f204b38ef0e6e3d5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286538189,
-    "wof:lastmodified":1466746460,
+    "wof:lastmodified":1491929341,
     "wof:name":"Executive Printing Services",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203059147,
   "type": "Feature",
   "properties": {
+    "addr:full":"952 N Nelson Rd Columbus OH 43219",
+    "addr:housenumber":"952",
+    "addr:postcode":"43219",
+    "addr:street":"N Nelson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.940613,39.988391,-82.940613,39.988391",
     "geom:latitude":39.988391,
     "geom:longitude":-82.940613,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"75b6cdfcaaba34fdc9b25b9113015a0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":203059147
         }
     ],
     "wof:id":203059147,
-    "wof:lastmodified":1466748091,
+    "wof:lastmodified":1491907483,
     "wof:name":"Stonescape Creations",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

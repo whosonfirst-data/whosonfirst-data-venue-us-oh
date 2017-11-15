@@ -2,9 +2,14 @@
   "id": 236140041,
   "type": "Feature",
   "properties": {
+    "addr:full":"1837 Sutton Ave Cincinnati OH 45230",
+    "addr:housenumber":"1837",
+    "addr:postcode":"45230",
+    "addr:street":"Sutton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.390213,39.087378,-84.390213,39.087378",
     "geom:latitude":39.087378,
     "geom:longitude":-84.390213,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"e43e4fdb888e33d2d449b408f8ef34a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":236140041
         }
     ],
     "wof:id":236140041,
-    "wof:lastmodified":1466743523,
+    "wof:lastmodified":1491901944,
     "wof:name":"American Legion",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

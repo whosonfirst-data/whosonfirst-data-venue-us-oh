@@ -2,9 +2,14 @@
   "id": 236248577,
   "type": "Feature",
   "properties": {
+    "addr:full":"12711 Madison Ave Lakewood OH 44107",
+    "addr:housenumber":"12711",
+    "addr:postcode":"44107",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.778023,41.476874,-81.778023,41.476874",
     "geom:latitude":41.476874,
     "geom:longitude":-81.778023,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"883c20b2c9943c35c7bf4654fc1feb41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236248577,
-    "wof:lastmodified":1466749466,
+    "wof:lastmodified":1491924454,
     "wof:name":"St Peter Paul Russian Orthodox",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

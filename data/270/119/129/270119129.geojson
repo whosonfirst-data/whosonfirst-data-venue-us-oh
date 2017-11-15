@@ -2,9 +2,14 @@
   "id": 270119129,
   "type": "Feature",
   "properties": {
+    "addr:full":"1260 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"1260",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.683398,41.500605,-81.683398,41.500605",
     "geom:latitude":41.500605,
     "geom:longitude":-81.683398,
@@ -26,11 +31,13 @@
     "sg:website":"www.winsors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"689c117f2d6fed4f39e73e7406170a25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":270119129,
-    "wof:lastmodified":1466743654,
+    "wof:lastmodified":1491896551,
     "wof:name":"Winsor's",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 185771659,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 E Weber Rd Columbus OH 43211",
+    "addr:housenumber":"920",
+    "addr:postcode":"43211",
+    "addr:street":"E Weber Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.987781,40.023851,-82.987781,40.023851",
     "geom:latitude":40.023851,
     "geom:longitude":-82.987781,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"a75ddf5f7b39dcff7d38d117c4284b63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":185771659,
-    "wof:lastmodified":1466742372,
+    "wof:lastmodified":1491933591,
     "wof:name":"B & G Carry Out",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

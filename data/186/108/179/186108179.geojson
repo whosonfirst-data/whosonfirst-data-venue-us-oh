@@ -2,9 +2,14 @@
   "id": 186108179,
   "type": "Feature",
   "properties": {
+    "addr:full":"7178 Foxview Dr Cincinnati OH 45230",
+    "addr:housenumber":"",
+    "addr:postcode":"7178;45230",
+    "addr:street":"Foxview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.359975,39.063419,-84.359975,39.063419",
     "geom:latitude":39.063419,
     "geom:longitude":-84.359975,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +55,18 @@
     "wof:geomhash":"2cc2f3f6ea072396b7fb69923c61999a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":186108179
         }
     ],
     "wof:id":186108179,
-    "wof:lastmodified":1466741990,
+    "wof:lastmodified":1491901914,
     "wof:name":"Casana Properties LLC",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 270405885,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 E Weber Rd Columbus OH 43211",
+    "addr:housenumber":"909",
+    "addr:postcode":"43211",
+    "addr:street":"E Weber Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.987663,40.023693,-82.987663,40.023693",
     "geom:latitude":40.023693,
     "geom:longitude":-82.987663,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"1af60f9368f62c1cc633beaf4bbbd726",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":270405885,
-    "wof:lastmodified":1466747910,
+    "wof:lastmodified":1491933592,
     "wof:name":"Affordable Lawn Svc",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

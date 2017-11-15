@@ -2,9 +2,14 @@
   "id": 253144969,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 E Livingston Ave Columbus OH 43215",
+    "addr:housenumber":"251",
+    "addr:postcode":"43215",
+    "addr:street":"E Livingston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.991752,39.952509,-82.991752,39.952509",
     "geom:latitude":39.952509,
     "geom:longitude":-82.991752,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893123,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893123
+        85688485
     ],
     "wof:brand_id":420573975,
     "wof:breaches":[],
@@ -44,9 +51,10 @@
     "wof:geomhash":"cbd56018df50b5a3007d6cee9926f60e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893123,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253144969,
-    "wof:lastmodified":1466743673,
+    "wof:lastmodified":1491922913,
     "wof:name":"Bank One",
     "wof:parent_id":85893123,
     "wof:placetype":"venue",

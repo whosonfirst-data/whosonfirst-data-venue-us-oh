@@ -2,9 +2,14 @@
   "id": 269751185,
   "type": "Feature",
   "properties": {
+    "addr:full":"3668 Bogota Dr Westerville OH 43081",
+    "addr:housenumber":"3668",
+    "addr:postcode":"43081",
+    "addr:street":"Bogota Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.913351,40.08706,-82.913351,40.08706",
     "geom:latitude":40.08706,
     "geom:longitude":-82.913351,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85826407,
+        102191575,
+        404524511,
         85633793,
         101713837,
         102080969,
-        85826407
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"fe5a133a49e81a9870803bec1e21bc4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524511,
             "locality_id":101713837,
             "neighbourhood_id":85826407,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":269751185,
-    "wof:lastmodified":1466746009,
+    "wof:lastmodified":1491929327,
     "wof:name":"Shasta Home",
     "wof:parent_id":85826407,
     "wof:placetype":"venue",

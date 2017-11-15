@@ -2,9 +2,14 @@
   "id": 236091295,
   "type": "Feature",
   "properties": {
+    "addr:full":"686 Grandview Ave Columbus OH 43215",
+    "addr:housenumber":"686",
+    "addr:postcode":"43215",
+    "addr:street":"Grandview Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.045843,39.97083,-83.045843,39.97083",
     "geom:latitude":39.97083,
     "geom:longitude":-83.045843,
@@ -31,11 +36,13 @@
     "sg:website":"www.economicleasing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"1388d6af9e236158cc8022613e0079bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":236091295,
-    "wof:lastmodified":1466742946,
+    "wof:lastmodified":1491924541,
     "wof:name":"Economic Leasing",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 706137053,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Inah Ave Columbus OH 43228",
+    "addr:housenumber":"123",
+    "addr:postcode":"43228",
+    "addr:street":"Inah Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.138077,39.946124,-83.138077,39.946124",
     "geom:latitude":39.946124,
     "geom:longitude":-83.138077,
@@ -27,13 +32,7 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7l852Cp9gqKot2ofS1VyJn_39.946124_-83.138077@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461796691,
     "wof:geomhash":"b31887a84091ff8d31210d60eb346403",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706137053
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706137053,
-    "wof:lastmodified":1466753410,
+    "wof:lastmodified":1491899834,
     "wof:name":"Galloway Fire Dept",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

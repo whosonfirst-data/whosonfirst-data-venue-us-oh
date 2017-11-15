@@ -2,9 +2,14 @@
   "id": 269930135,
   "type": "Feature",
   "properties": {
+    "addr:full":"615 Elsinore Pl Cincinnati OH 45202",
+    "addr:housenumber":"615",
+    "addr:postcode":"45202",
+    "addr:street":"Elsinore Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.502193,39.113101,-84.502193,39.113101",
     "geom:latitude":39.113101,
     "geom:longitude":-84.502193,
@@ -38,11 +43,13 @@
     "sg:website":"www.health-partners.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85843211,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85843211
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +59,10 @@
     "wof:geomhash":"ad26b2377575a2543397f106b5eda0a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85843211,
             "region_id":85688485,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":269930135,
-    "wof:lastmodified":1466748643,
+    "wof:lastmodified":1491919235,
     "wof:name":"Catholic Health Care Partners",
     "wof:parent_id":85843211,
     "wof:placetype":"venue",

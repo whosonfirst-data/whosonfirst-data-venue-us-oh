@@ -2,9 +2,14 @@
   "id": 706611967,
   "type": "Feature",
   "properties": {
+    "addr:full":"24165 Randolph Rd Bedford OH 44146",
+    "addr:housenumber":"24165",
+    "addr:postcode":"44146",
+    "addr:street":"Randolph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.507702,41.394229,-81.507702,41.394229",
     "geom:latitude":41.394229,
     "geom:longitude":-81.507702,
@@ -32,17 +37,32 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62TuAzIlVKwa9DhPyjyvdu_41.394229_-81.507702@1303262755"
     },
     "wof:country":"US",
     "wof:created":1461806966,
-    "wof:geomhash":"3912deaaeada756fcf58f8a0d7020d64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b78908a10cfdc49e18cc6aa2fac6d0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706611967
+        }
+    ],
     "wof:id":706611967,
-    "wof:lastmodified":1466762037,
+    "wof:lastmodified":1494529522,
     "wof:name":"Renee's Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

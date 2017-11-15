@@ -2,9 +2,14 @@
   "id": 186462851,
   "type": "Feature",
   "properties": {
+    "addr:full":"3215 Fulton Rd Cleveland OH 44109",
+    "addr:housenumber":"3215",
+    "addr:postcode":"44109",
+    "addr:street":"Fulton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.707692,41.466587,-81.707692,41.466587",
     "geom:latitude":41.466587,
     "geom:longitude":-81.707692,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"4392b921073258abd957340cbac3222a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186462851,
-    "wof:lastmodified":1466745690,
+    "wof:lastmodified":1491925300,
     "wof:name":"Metro Distribution",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

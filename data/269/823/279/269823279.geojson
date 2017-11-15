@@ -2,9 +2,14 @@
   "id": 269823279,
   "type": "Feature",
   "properties": {
+    "addr:full":"7611 Production Dr Cincinnati OH 45237",
+    "addr:housenumber":"7611",
+    "addr:postcode":"45237",
+    "addr:street":"Production Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454709,39.197864,-84.454709,39.197864",
     "geom:latitude":39.197864,
     "geom:longitude":-84.454709,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"214239fdb3330d84fdc29190c70891ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":269823279,
-    "wof:lastmodified":1466747089,
+    "wof:lastmodified":1491896854,
     "wof:name":"A Circle Of Light",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

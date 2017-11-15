@@ -2,9 +2,14 @@
   "id": 706515823,
   "type": "Feature",
   "properties": {
+    "addr:full":"5588 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5588",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.152227,39.951198,-83.152227,39.951198",
     "geom:latitude":39.951198,
     "geom:longitude":-83.152227,
@@ -22,13 +27,7 @@
         "diesel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YxQHOhN6VGPZgo4qIcmp9_39.951198_-83.152227@1294180530"
@@ -36,18 +35,9 @@
     "wof:country":"US",
     "wof:created":1461804958,
     "wof:geomhash":"72dc97afc3bcea18ee41711afb35139a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706515823
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706515823,
-    "wof:lastmodified":1466760987,
+    "wof:lastmodified":1491899834,
     "wof:name":"Stought Diesel Eng & Trnmssn",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

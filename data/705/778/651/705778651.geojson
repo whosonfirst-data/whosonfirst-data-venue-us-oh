@@ -2,9 +2,14 @@
   "id": 705778651,
   "type": "Feature",
   "properties": {
+    "addr:full":"14944 Scarlet Oak Dr Strongsville OH 44146",
+    "addr:housenumber":"14944",
+    "addr:postcode":"44146",
+    "addr:street":"Scarlet Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.50582,41.39895,-81.50582,41.39895",
     "geom:latitude":41.39895,
     "geom:longitude":-81.50582,
@@ -27,17 +32,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QZb4wwHR8zIaRCnNTubEw_41.398950_-81.505820@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461788516,
-    "wof:geomhash":"8fe7e6ed8bd9d414ef1f572f60df3417",
-    "wof:hierarchy":[],
+    "wof:geomhash":"159081e3808d0342ff92e6e309b42579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":705778651
+        }
+    ],
     "wof:id":705778651,
-    "wof:lastmodified":1466752011,
+    "wof:lastmodified":1494529521,
     "wof:name":"Fay Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

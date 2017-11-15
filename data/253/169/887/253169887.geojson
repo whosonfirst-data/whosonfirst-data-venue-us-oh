@@ -2,9 +2,14 @@
   "id": 253169887,
   "type": "Feature",
   "properties": {
+    "addr:full":"2240 Morse Rd Columbus OH 43229",
+    "addr:housenumber":"2240",
+    "addr:postcode":"43229",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.959725,40.059989,-82.959725,40.059989",
     "geom:latitude":40.059989,
     "geom:longitude":-82.959725,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"21fbcd6e5587444f34eb92a2d11f12b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253169887,
-    "wof:lastmodified":1466744022,
+    "wof:lastmodified":1491903496,
     "wof:name":"Northowne Chiropractic",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

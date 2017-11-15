@@ -2,9 +2,14 @@
   "id": 185975537,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"1227",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.682241,41.500905,-81.682241,41.500905",
     "geom:latitude":41.500905,
     "geom:longitude":-81.682241,
@@ -26,11 +31,13 @@
     "sg:website":"www.maxelles.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"d4a449e463b29c1a0eb77b01e3ee145f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":185975537,
-    "wof:lastmodified":1466744362,
+    "wof:lastmodified":1491896576,
     "wof:name":"Maxelle's",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

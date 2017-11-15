@@ -2,9 +2,14 @@
   "id": 253220603,
   "type": "Feature",
   "properties": {
+    "addr:full":"926 S Spring Rd Westerville OH 43081",
+    "addr:housenumber":"926",
+    "addr:postcode":"43081",
+    "addr:street":"S Spring Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.905954,40.100065,-82.905954,40.100065",
     "geom:latitude":40.100065,
     "geom:longitude":-82.905954,
@@ -30,10 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85810231,
+        102191575,
+        404524655,
         85633793,
         101712395,
-        102080969
+        102080969,
+        85688485,
+        85826407,
+        404524511,
+        101713837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +54,30 @@
     "wof:geomhash":"e43cd0b4eeb59d6c4bef38a0e9f2ab22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524655,
             "locality_id":101712395,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85810231,
+            "region_id":85688485,
+            "venue_id":253220603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524511,
+            "locality_id":101713837,
+            "neighbourhood_id":85826407,
             "region_id":85688485,
             "venue_id":253220603
         }
     ],
     "wof:id":253220603,
-    "wof:lastmodified":1466744664,
+    "wof:lastmodified":1491929327,
     "wof:name":"Ed Hilditch Carpeting Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

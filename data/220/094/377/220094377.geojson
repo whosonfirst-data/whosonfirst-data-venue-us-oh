@@ -2,9 +2,14 @@
   "id": 220094377,
   "type": "Feature",
   "properties": {
+    "addr:full":"12503 Madison Ave Cleveland OH 44107",
+    "addr:housenumber":"12503",
+    "addr:postcode":"44107",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.776339,41.47686,-81.776339,41.47686",
     "geom:latitude":41.47686,
     "geom:longitude":-81.776339,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"248c1b200b1c352d490810996eb58df4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":220094377,
-    "wof:lastmodified":1466749352,
+    "wof:lastmodified":1491924454,
     "wof:name":"Swami Corp",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186081967,
   "type": "Feature",
   "properties": {
+    "addr:full":"1211 Oakridge Dr Cleveland OH 44121",
+    "addr:housenumber":"1211",
+    "addr:postcode":"44121",
+    "addr:street":"Oakridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.550591,41.52523,-81.550591,41.52523",
     "geom:latitude":41.52523,
     "geom:longitude":-81.550591,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"daa0c77d954c7e8d8005aef0f25d2621",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186081967,
-    "wof:lastmodified":1466749044,
+    "wof:lastmodified":1491926267,
     "wof:name":"Alpha Builders Inc",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

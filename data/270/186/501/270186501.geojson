@@ -2,9 +2,14 @@
   "id": 270186501,
   "type": "Feature",
   "properties": {
+    "addr:full":"6650 Pearl Rd Cleveland OH 44130",
+    "addr:housenumber":"6650",
+    "addr:postcode":"44130",
+    "addr:street":"Pearl Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.782412,41.381423,-81.782412,41.381423",
     "geom:latitude":41.381423,
     "geom:longitude":-81.782412,
@@ -30,32 +35,31 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712505,
-        102084837,
-        85840825
+        102084837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bWg8ODt5bnQ1S22CnRG9p_41.381423_-81.782412@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"69c5e847521fb2dc92874ab183e05a6f",
+    "wof:geomhash":"11cea21aafe81e26fc7369c907fb243b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712505,
-            "neighbourhood_id":85840825,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":270186501
         }
     ],
     "wof:id":270186501,
-    "wof:lastmodified":1466744661,
+    "wof:lastmodified":1494529505,
     "wof:name":"Paul J Stano Law Offices",
-    "wof:parent_id":85840825,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

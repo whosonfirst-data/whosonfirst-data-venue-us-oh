@@ -2,9 +2,14 @@
   "id": 269829077,
   "type": "Feature",
   "properties": {
+    "addr:full":"1439 Elm St Cincinnati OH 45202",
+    "addr:housenumber":"1439",
+    "addr:postcode":"45202",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.518934,39.111192,-84.518934,39.111192",
     "geom:latitude":39.111192,
     "geom:longitude":-84.518934,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839951,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85839951
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"786bb305f8e332f62a38ddb2053d8efe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85839951,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":269829077,
-    "wof:lastmodified":1466747167,
+    "wof:lastmodified":1491925139,
     "wof:name":"Sweet P's Styling Shop",
     "wof:parent_id":85839951,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 186527399,
   "type": "Feature",
   "properties": {
+    "addr:full":"4133 Lorain Ave Cleveland OH 44113",
+    "addr:housenumber":"4133",
+    "addr:postcode":"44113",
+    "addr:street":"Lorain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.714855,41.479756,-81.714855,41.479756",
     "geom:latitude":41.479756,
     "geom:longitude":-81.714855,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"0a1af3ab70336b7b6b8737bd398f4e48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":186527399,
-    "wof:lastmodified":1466746406,
+    "wof:lastmodified":1491914728,
     "wof:name":"Antiques In The Bank",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

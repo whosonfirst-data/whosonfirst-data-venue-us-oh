@@ -2,9 +2,14 @@
   "id": 270372869,
   "type": "Feature",
   "properties": {
+    "addr:full":"16101 Waterloo Rd Cleveland OH 44110",
+    "addr:housenumber":"16101",
+    "addr:postcode":"44110",
+    "addr:street":"Waterloo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.567337,41.571176,-81.567337,41.571176",
     "geom:latitude":41.571176,
     "geom:longitude":-81.567337,
@@ -32,11 +37,13 @@
     "sg:website":"www.easygraphics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"ddc8ab1f6cfb7799e7f3e9ff98887355",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":270372869,
-    "wof:lastmodified":1466747411,
+    "wof:lastmodified":1491918419,
     "wof:name":"Easy Graphics Corp",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

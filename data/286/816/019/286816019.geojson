@@ -2,9 +2,14 @@
   "id": 286816019,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 W Bridge St Dublin OH 43017",
+    "addr:housenumber":"299",
+    "addr:postcode":"43017",
+    "addr:street":"W Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.119621,40.099197,-83.119621,40.099197",
     "geom:latitude":40.099197,
     "geom:longitude":-83.119621,
@@ -29,10 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85847055,
+        102191575,
+        404524627,
         85633793,
         101712391,
-        102080969
+        102080969,
+        85688485,
+        85893119,
+        404524625,
+        101712381
     ],
     "wof:brand_id":420574755,
     "wof:breaches":[],
@@ -43,19 +54,30 @@
     "wof:geomhash":"cb9e29a50901e86a6bff70bd72908723",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524627,
             "locality_id":101712391,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847055,
+            "region_id":85688485,
+            "venue_id":286816019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85893119,
             "region_id":85688485,
             "venue_id":286816019
         }
     ],
     "wof:id":286816019,
-    "wof:lastmodified":1466750209,
+    "wof:lastmodified":1491900947,
     "wof:name":"Western Union",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

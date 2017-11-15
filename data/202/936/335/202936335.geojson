@@ -2,9 +2,14 @@
   "id": 202936335,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Frantz Rd Dublin OH 43016",
+    "addr:housenumber":"",
+    "addr:postcode":"5400;43016",
+    "addr:street":"Frantz Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.122812,40.07743,-83.122812,40.07743",
     "geom:latitude":40.07743,
     "geom:longitude":-83.122812,
@@ -29,10 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485,
+        85847055,
+        404524627,
+        101712391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +53,30 @@
     "wof:geomhash":"b1c5e4e91bd5bd804a07e0525fc6f63f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893119,
+            "region_id":85688485,
+            "venue_id":202936335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524627,
+            "locality_id":101712391,
+            "neighbourhood_id":85847055,
             "region_id":85688485,
             "venue_id":202936335
         }
     ],
     "wof:id":202936335,
-    "wof:lastmodified":1466746948,
+    "wof:lastmodified":1491900879,
     "wof:name":"John Deere Columbus Sales Br",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

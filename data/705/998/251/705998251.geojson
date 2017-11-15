@@ -2,9 +2,14 @@
   "id": 705998251,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 Bartlett Rd Bedford OH 44146",
+    "addr:housenumber":"5555",
+    "addr:postcode":"44146",
+    "addr:street":"Bartlett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.517656,41.408387,-81.517656,41.408387",
     "geom:latitude":41.408387,
     "geom:longitude":-81.517656,
@@ -24,17 +29,32 @@
     "sg:postcode":"44146",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cSlIxOqoZ9BYjdSFkan70_41.408387_-81.517656@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461793544,
-    "wof:geomhash":"f3bc8aec955297d3ef2d3712bb86d0e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7533a7fed10b75e4a2071fba58ca4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":705998251
+        }
+    ],
     "wof:id":705998251,
-    "wof:lastmodified":1466758311,
+    "wof:lastmodified":1494529520,
     "wof:name":"Biondo-Vito-Nero",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

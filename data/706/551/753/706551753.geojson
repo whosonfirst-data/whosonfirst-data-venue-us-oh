@@ -2,9 +2,14 @@
   "id": 706551753,
   "type": "Feature",
   "properties": {
+    "addr:full":"3561 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3561",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.961842,40.040038,-82.961842,40.040038",
     "geom:latitude":40.040038,
     "geom:longitude":-82.961842,
@@ -32,13 +37,7 @@
         "hot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fB351Bh28A4iYjCXa3fjW_40.040038_-82.961842@1299784598"
@@ -46,18 +45,9 @@
     "wof:country":"US",
     "wof:created":1461805693,
     "wof:geomhash":"11033e57417be74864b405e62c769ba3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":706551753
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706551753,
-    "wof:lastmodified":1466761520,
+    "wof:lastmodified":1491926698,
     "wof:name":"A&W Restaurant",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

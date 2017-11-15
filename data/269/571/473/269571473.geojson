@@ -2,9 +2,14 @@
   "id": 269571473,
   "type": "Feature",
   "properties": {
+    "addr:full":"3663 Alum Creek Dr Columbus OH 43207",
+    "addr:housenumber":"3663",
+    "addr:postcode":"43207",
+    "addr:street":"Alum Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.929634,39.89708,-82.929634,39.89708",
     "geom:latitude":39.89708,
     "geom:longitude":-82.929634,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85853405,
+        102191575,
+        404524633,
         85633793,
-        101712381,
+        101712421,
         102080969,
-        85853405
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,18 @@
     "wof:geomhash":"8a5385970ca03924b4476792f316cd04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404524633,
+            "locality_id":101712421,
             "neighbourhood_id":85853405,
             "region_id":85688485,
             "venue_id":269571473
         }
     ],
     "wof:id":269571473,
-    "wof:lastmodified":1466743270,
+    "wof:lastmodified":1491919474,
     "wof:name":"Viking Properties Ltd",
     "wof:parent_id":85853405,
     "wof:placetype":"venue",

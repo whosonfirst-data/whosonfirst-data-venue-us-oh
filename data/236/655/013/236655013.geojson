@@ -2,14 +2,20 @@
   "id": 236655013,
   "type": "Feature",
   "properties": {
+    "addr:full":"3358 W 30th St Cleveland OH 44109",
+    "addr:housenumber":"3358",
+    "addr:postcode":"44109",
+    "addr:street":"W 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.70168,41.462071,-81.70168,41.462071",
     "geom:latitude":41.462071,
     "geom:longitude":-81.70168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3358 W 30th St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -29,23 +35,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
+    "wof:brand_id":1125159773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5okjP3NOF3MN73xnEte9Ph_41.462071_-81.701680@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"7c9467d198e28fba7069a429e589cdff",
+    "wof:geomhash":"5ef80e2bd90ab0f76571d7e9543abe21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":236655013,
-    "wof:lastmodified":1466749872,
+    "wof:lastmodified":1510699931,
     "wof:name":"Affordable Plumbing",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

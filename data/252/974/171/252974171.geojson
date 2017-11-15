@@ -2,9 +2,14 @@
   "id": 252974171,
   "type": "Feature",
   "properties": {
+    "addr:full":"1730 Lockbourne Rd Columbus OH 43207",
+    "addr:housenumber":"1730",
+    "addr:postcode":"43207",
+    "addr:street":"Lockbourne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.964629,39.931439,-82.964629,39.931439",
     "geom:latitude":39.931439,
     "geom:longitude":-82.964629,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893113
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"262ae93db029d304d0d3d04e5a170f4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893113,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":252974171,
-    "wof:lastmodified":1466745157,
+    "wof:lastmodified":1491902972,
     "wof:name":"Lockbourne Smoke Shop",
     "wof:parent_id":85893113,
     "wof:placetype":"venue",

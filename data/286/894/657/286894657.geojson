@@ -2,9 +2,14 @@
   "id": 286894657,
   "type": "Feature",
   "properties": {
+    "addr:full":"4747 Sawmill Rd Columbus OH 43220",
+    "addr:housenumber":"4747",
+    "addr:postcode":"43220",
+    "addr:street":"Sawmill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.093407,40.063265,-83.093407,40.063265",
     "geom:latitude":40.063265,
     "geom:longitude":-83.093407,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:brand_id":420574061,
     "wof:breaches":[],
@@ -40,9 +47,10 @@
     "wof:geomhash":"f9f7d3d7c8d6e3ffdf00bff5eb1544d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":286894657,
-    "wof:lastmodified":1466750769,
+    "wof:lastmodified":1491900817,
     "wof:name":"US Bank",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

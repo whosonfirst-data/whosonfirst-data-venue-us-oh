@@ -2,9 +2,14 @@
   "id": 236812061,
   "type": "Feature",
   "properties": {
+    "addr:full":"4555 Cleveland Ave Columbus OH 43231",
+    "addr:housenumber":"4555",
+    "addr:postcode":"43231",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.952799,40.063095,-82.952799,40.063095",
     "geom:latitude":40.063095,
     "geom:longitude":-82.952799,
@@ -29,11 +34,13 @@
     "sg:website":"www.monacoscatering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"bf12fd6d2a1b7680c8fb832c9d998a32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236812061,
-    "wof:lastmodified":1466750666,
+    "wof:lastmodified":1491903478,
     "wof:name":"Monaco Palace",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

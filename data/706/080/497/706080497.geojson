@@ -2,9 +2,14 @@
   "id": 706080497,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 Butterscotch Ln Galloway OH 43119",
+    "addr:housenumber":"580",
+    "addr:postcode":"43119",
+    "addr:street":"Butterscotch Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.145103,39.941202,-83.145103,39.941202",
     "geom:latitude":39.941202,
     "geom:longitude":-83.145103,
@@ -29,13 +34,7 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RRxNURxGU9YkLAbA3Zkvg_39.941202_-83.145103@1294180530"
@@ -43,18 +42,9 @@
     "wof:country":"US",
     "wof:created":1461795264,
     "wof:geomhash":"4f4e1bc712628305020910e69a3b80c9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706080497
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706080497,
-    "wof:lastmodified":1466751861,
+    "wof:lastmodified":1491899823,
     "wof:name":"Frc Trucking",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

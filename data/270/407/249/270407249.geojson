@@ -2,9 +2,14 @@
   "id": 270407249,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Bradenton Ave Dublin OH 43017",
+    "addr:housenumber":"201",
+    "addr:postcode":"43017",
+    "addr:street":"Bradenton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.118782,40.080964,-83.118782,40.080964",
     "geom:latitude":40.080964,
     "geom:longitude":-83.118782,
@@ -40,10 +45,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
-        101712391,
-        102080969
+        101712381,
+        102080969,
+        85688485,
+        85847055,
+        404524627,
+        101712391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +64,30 @@
     "wof:geomhash":"9a531fe2b28c8247105e7358e84282cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85893119,
+            "region_id":85688485,
+            "venue_id":270407249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524627,
             "locality_id":101712391,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847055,
             "region_id":85688485,
             "venue_id":270407249
         }
     ],
     "wof:id":270407249,
-    "wof:lastmodified":1466747930,
+    "wof:lastmodified":1491900819,
     "wof:name":"Commonwealth Capital Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 689860237,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Galloway Rd Galloway OH 43119",
+    "addr:housenumber":"175",
+    "addr:postcode":"43119",
+    "addr:street":"Galloway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.154893,39.947489,-83.154893,39.947489",
     "geom:latitude":39.947489,
     "geom:longitude":-83.154893,
@@ -27,13 +32,7 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nJ7tflhXdFFRXeVwDQAV5_39.947489_-83.154893@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461783537,
     "wof:geomhash":"bd6718cece420c4bdeacd2a0c151b825",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":689860237
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689860237,
-    "wof:lastmodified":1466759605,
+    "wof:lastmodified":1491899837,
     "wof:name":"Angel Animal Hospital Inc",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

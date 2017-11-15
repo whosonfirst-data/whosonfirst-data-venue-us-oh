@@ -2,9 +2,14 @@
   "id": 689485317,
   "type": "Feature",
   "properties": {
+    "addr:full":"5331 Orangelawn Dr Cincinnati OH 45238",
+    "addr:housenumber":"5331",
+    "addr:postcode":"45238",
+    "addr:street":"Orangelawn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.618721,39.088871,-84.618721,39.088871",
     "geom:latitude":39.088871,
     "geom:longitude":-84.618721,
@@ -34,7 +39,9 @@
         85633793,
         85947195,
         102084469,
-        420534851
+        420534851,
+        85803107,
+        102084481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +59,19 @@
             "neighbourhood_id":420534851,
             "region_id":85688641,
             "venue_id":689485317
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084481,
+            "neighbourhood_id":85803107,
+            "region_id":85688641,
+            "venue_id":689485317
         }
     ],
     "wof:id":689485317,
-    "wof:lastmodified":1466748113,
+    "wof:lastmodified":1491929781,
     "wof:name":"John J Backscheider",
-    "wof:parent_id":420534851,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

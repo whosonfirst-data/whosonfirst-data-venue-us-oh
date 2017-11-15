@@ -2,9 +2,14 @@
   "id": 270464213,
   "type": "Feature",
   "properties": {
+    "addr:full":"3665 Shannon Rd Cleveland OH 44118",
+    "addr:housenumber":"3665",
+    "addr:postcode":"44118",
+    "addr:street":"Shannon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.551257,41.511701,-81.551257,41.511701",
     "geom:latitude":41.511701,
     "geom:longitude":-81.551257,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"aae1948d0954a165470a58d54277b60e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":270464213,
-    "wof:lastmodified":1466748762,
+    "wof:lastmodified":1491926268,
     "wof:name":"Foxville Farmers Market",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

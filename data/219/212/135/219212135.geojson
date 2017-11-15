@@ -2,9 +2,14 @@
   "id": 219212135,
   "type": "Feature",
   "properties": {
+    "addr:full":"4650 Coolbrook Dr Hilliard OH 43026",
+    "addr:housenumber":"4650",
+    "addr:postcode":"43026",
+    "addr:street":"Coolbrook Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.112349,40.049728,-83.112349,40.049728",
     "geom:latitude":40.049728,
     "geom:longitude":-83.112349,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"90d0cc9cec1a7fc83d12472d3aa9a892",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219212135,
-    "wof:lastmodified":1466748498,
+    "wof:lastmodified":1491900921,
     "wof:name":"Cowtown Investment Club",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

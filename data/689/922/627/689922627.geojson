@@ -2,9 +2,14 @@
   "id": 689922627,
   "type": "Feature",
   "properties": {
+    "addr:full":"5912 Kellogg Ave Cincinnati OH 45228",
+    "addr:housenumber":"5912",
+    "addr:postcode":"45228",
+    "addr:street":"Kellogg Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.423676,39.065417,-84.423676,39.065417",
     "geom:latitude":39.065417,
     "geom:longitude":-84.423676,
@@ -30,14 +35,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808861,
+        85868473,
         102191575,
         404523793,
         85633793,
         101712203,
         102083687,
         85688485,
-        85868473
+        85835779,
+        404525431,
+        101713759,
+        85808861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +61,17 @@
             "county_id":102083687,
             "localadmin_id":404523793,
             "locality_id":101712203,
-            "neighbourhood_id":85808861,
+            "neighbourhood_id":85868473,
+            "region_id":85688485,
+            "venue_id":689922627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
+            "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":689922627
         },
@@ -63,15 +81,15 @@
             "county_id":102083687,
             "localadmin_id":404523793,
             "locality_id":101712203,
-            "neighbourhood_id":85868473,
+            "neighbourhood_id":85808861,
             "region_id":85688485,
             "venue_id":689922627
         }
     ],
     "wof:id":689922627,
-    "wof:lastmodified":1466760750,
+    "wof:lastmodified":1491901902,
     "wof:name":"Bove Connolly & Taylor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 269589615,
   "type": "Feature",
   "properties": {
+    "addr:full":"2155 W 11th St Cleveland OH 44113",
+    "addr:housenumber":"2155",
+    "addr:postcode":"44113",
+    "addr:street":"W 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.689275,41.483327,-81.689275,41.483327",
     "geom:latitude":41.483327,
     "geom:longitude":-81.689275,
@@ -29,11 +34,13 @@
     "sg:website":"www.mormon.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871843,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"7797730350dd3235b36f9b1e67b09230",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871843,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":269589615,
-    "wof:lastmodified":1466743546,
+    "wof:lastmodified":1491921264,
     "wof:name":"Church-Jesus Christ-Lds",
     "wof:parent_id":85871843,
     "wof:placetype":"venue",

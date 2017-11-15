@@ -2,9 +2,14 @@
   "id": 186476291,
   "type": "Feature",
   "properties": {
+    "addr:full":"20800 Harvard Rd Cleveland OH 44122",
+    "addr:housenumber":"20800",
+    "addr:postcode":"44122",
+    "addr:street":"Harvard Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.527427,41.45126,-81.527427,41.45126",
     "geom:latitude":41.45126,
     "geom:longitude":-81.527427,
@@ -26,8 +31,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712589,
         102084837
     ],
     "wof:breaches":[],
@@ -35,20 +40,20 @@
         "sg:id":"SG_2tB8ltDkmmPLym8lxA3gJl_41.451260_-81.527427@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"f24fbc088a946bbf4f9c8c87af4c33bd",
+    "wof:geomhash":"7deb9ccd97a4d289f0be38e2e88a4b0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712589,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":186476291
         }
     ],
     "wof:id":186476291,
-    "wof:lastmodified":1466745838,
+    "wof:lastmodified":1494529543,
     "wof:name":"Harvard Crossing Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

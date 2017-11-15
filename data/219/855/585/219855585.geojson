@@ -2,9 +2,14 @@
   "id": 219855585,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 S High St Dublin OH 43017",
+    "addr:housenumber":"106",
+    "addr:postcode":"43017",
+    "addr:street":"S High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.113288,40.097444,-83.113288,40.097444",
     "geom:latitude":40.097444,
     "geom:longitude":-83.113288,
@@ -38,11 +43,13 @@
     "sg:website":"www.mcfadden-sales.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +59,10 @@
     "wof:geomhash":"590187e5b4db646cb5df86976533eb0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":219855585,
-    "wof:lastmodified":1466748849,
+    "wof:lastmodified":1491900901,
     "wof:name":"Mc Fadden Sales Inc",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

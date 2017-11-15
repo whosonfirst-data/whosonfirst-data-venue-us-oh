@@ -2,9 +2,14 @@
   "id": 186395939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2175 Columbus Rd Cleveland OH 44113",
+    "addr:housenumber":"2175",
+    "addr:postcode":"44113",
+    "addr:street":"Columbus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.700383,41.483359,-81.700383,41.483359",
     "geom:latitude":41.483359,
     "geom:longitude":-81.700383,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"349337a30b4d51f75fc2dd9e534e69b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186395939,
-    "wof:lastmodified":1466744955,
+    "wof:lastmodified":1491899506,
     "wof:name":"Total Industrial Machine Inc",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

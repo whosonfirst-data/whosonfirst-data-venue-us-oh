@@ -2,9 +2,14 @@
   "id": 185911933,
   "type": "Feature",
   "properties": {
+    "addr:full":"1428 Wayne Ave Cleveland OH 44107",
+    "addr:housenumber":"1428",
+    "addr:postcode":"44107",
+    "addr:street":"Wayne Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.82111,41.480997,-81.82111,41.480997",
     "geom:latitude":41.480997,
     "geom:longitude":-81.82111,
@@ -31,11 +36,13 @@
     "sg:website":"www.twowayinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"bafcc3ee250d274e88d6ab08123e3654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":185911933,
-    "wof:lastmodified":1466743602,
+    "wof:lastmodified":1491932137,
     "wof:name":"Two-Way Svc Co Inc",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

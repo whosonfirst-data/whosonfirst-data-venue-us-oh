@@ -2,9 +2,14 @@
   "id": 219314261,
   "type": "Feature",
   "properties": {
+    "addr:full":"5299 Delhi Ave Cincinnati OH 45238",
+    "addr:housenumber":"5299",
+    "addr:postcode":"45238",
+    "addr:street":"Delhi Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.615768,39.094387,-84.615768,39.094387",
     "geom:latitude":39.094387,
     "geom:longitude":-84.615768,
@@ -31,7 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688641,
         85633793,
+        85803107,
+        102084481,
+        85868087,
+        102191575,
+        404523793,
+        101712203,
+        102083687,
         85688485
     ],
     "wof:breaches":[],
@@ -42,18 +55,27 @@
     "wof:geomhash":"7481ea335f310bfec56a2fc14784eb0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084481,
+            "neighbourhood_id":85803107,
+            "region_id":85688641,
+            "venue_id":219314261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85868087,
             "region_id":85688485,
             "venue_id":219314261
         }
     ],
     "wof:id":219314261,
-    "wof:lastmodified":1466742633,
+    "wof:lastmodified":1491929777,
     "wof:name":"Alpha Travel Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

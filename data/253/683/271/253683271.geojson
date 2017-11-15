@@ -2,9 +2,14 @@
   "id": 253683271,
   "type": "Feature",
   "properties": {
+    "addr:full":"2594 Cleveland Ave Columbus OH 43211",
+    "addr:housenumber":"2594",
+    "addr:postcode":"43211",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.964822,40.020532,-82.964822,40.020532",
     "geom:latitude":40.020532,
     "geom:longitude":-82.964822,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"4213305f4b09fd6fa9554904d63bf7eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253683271,
-    "wof:lastmodified":1466750682,
+    "wof:lastmodified":1491934130,
     "wof:name":"Hairline Beauty Salon",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

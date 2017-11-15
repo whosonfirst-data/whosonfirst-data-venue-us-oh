@@ -2,9 +2,14 @@
   "id": 236202923,
   "type": "Feature",
   "properties": {
+    "addr:full":"18117 Clifton Rd Lakewood OH 44107",
+    "addr:housenumber":"18117",
+    "addr:postcode":"44107",
+    "addr:street":"Clifton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.825986,41.48988,-81.825986,41.48988",
     "geom:latitude":41.48988,
     "geom:longitude":-81.825986,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"5446f066809ff1cf168e9072f07c7dc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":236202923,
-    "wof:lastmodified":1466744317,
+    "wof:lastmodified":1491932120,
     "wof:name":"Pac One Ltd",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

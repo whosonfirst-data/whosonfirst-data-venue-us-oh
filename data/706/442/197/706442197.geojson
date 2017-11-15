@@ -2,9 +2,14 @@
   "id": 706442197,
   "type": "Feature",
   "properties": {
+    "addr:full":"694 N High St Columbus OH 43215",
+    "addr:housenumber":"694",
+    "addr:postcode":"43215",
+    "addr:street":"N High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.003332,39.976427,-83.003332,39.976427",
     "geom:latitude":39.976427,
     "geom:longitude":-83.003332,
@@ -29,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85870239,
+        85867125,
         102191575,
         404524625,
         85633793,
         101712381,
         102080969,
         85688485,
-        85867125
+        85870239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +57,7 @@
             "county_id":102080969,
             "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":85870239,
+            "neighbourhood_id":85867125,
             "region_id":85688485,
             "venue_id":706442197
         },
@@ -62,15 +67,15 @@
             "county_id":102080969,
             "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":85867125,
+            "neighbourhood_id":85870239,
             "region_id":85688485,
             "venue_id":706442197
         }
     ],
     "wof:id":706442197,
-    "wof:lastmodified":1466759927,
+    "wof:lastmodified":1491888053,
     "wof:name":"Gallery V",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

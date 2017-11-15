@@ -2,9 +2,14 @@
   "id": 286653707,
   "type": "Feature",
   "properties": {
+    "addr:full":"6339 Sawmill Rd Dublin OH 43017",
+    "addr:housenumber":"6339",
+    "addr:postcode":"43017",
+    "addr:street":"Sawmill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.091581,40.0964,-83.091581,40.0964",
     "geom:latitude":40.0964,
     "geom:longitude":-83.091581,
@@ -30,11 +35,13 @@
     "sg:website":"www.wendysbridal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"b68326137272c96049f5b91ea9e4dbdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286653707,
-    "wof:lastmodified":1466748264,
+    "wof:lastmodified":1491900892,
     "wof:name":"Wendy's Bridal Gallerie",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

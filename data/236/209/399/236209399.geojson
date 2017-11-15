@@ -2,9 +2,14 @@
   "id": 236209399,
   "type": "Feature",
   "properties": {
+    "addr:full":"2537 Lorain Ave Cleveland OH 44113",
+    "addr:housenumber":"2537",
+    "addr:postcode":"44113",
+    "addr:street":"Lorain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.704029,41.483842,-81.704029,41.483842",
     "geom:latitude":41.483842,
     "geom:longitude":-81.704029,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"58c3030af3da4c11280bb00f4eed78dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":236209399,
-    "wof:lastmodified":1466744399,
+    "wof:lastmodified":1491899500,
     "wof:name":"Creative Capital Management",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

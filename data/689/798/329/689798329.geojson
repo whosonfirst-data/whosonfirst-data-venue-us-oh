@@ -2,14 +2,20 @@
   "id": 689798329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 Watermark Dr Columbus OH 43215",
+    "addr:housenumber":"1600",
+    "addr:postcode":"43215",
+    "addr:street":"Watermark Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.046033,39.970036,-83.046033,39.970036",
     "geom:latitude":39.970036,
     "geom:longitude":-83.046033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 Watermark Dr",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -36,15 +42,19 @@
         85633793,
         101712405,
         102080969,
-        85688485
+        85688485,
+        85870307,
+        404524625,
+        101712381
     ],
+    "wof:brand_id":1125159731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cbrtuOiTZilRuDrpKFVUJ_39.970036_-83.046033@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461781816,
-    "wof:geomhash":"2a1be7613f15a939c920f7e1f646615a",
+    "wof:geomhash":"70254f4651d8489a46930b39a9ed14ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +65,22 @@
             "neighbourhood_id":85822501,
             "region_id":85688485,
             "venue_id":689798329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85870307,
+            "region_id":85688485,
+            "venue_id":689798329
         }
     ],
     "wof:id":689798329,
-    "wof:lastmodified":1466758385,
+    "wof:lastmodified":1510698013,
     "wof:name":"US Food & Drug Adm",
-    "wof:parent_id":85822501,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 236006421,
   "type": "Feature",
   "properties": {
+    "addr:full":"2763 E 4th Ave Columbus OH 43219",
+    "addr:housenumber":"2763",
+    "addr:postcode":"43219",
+    "addr:street":"E 4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.927063,39.984027,-82.927063,39.984027",
     "geom:latitude":39.984027,
     "geom:longitude":-82.927063,
@@ -28,12 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
+        85688485,
         85816157,
-        85868821
+        404524625,
+        101712381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +52,30 @@
     "wof:geomhash":"8bf5daac3c93ae3b48b7ea8c1c5a6339",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85816157,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
+            "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":236006421
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":85868821,
+            "neighbourhood_id":85816157,
             "region_id":85688485,
             "venue_id":236006421
         }
     ],
     "wof:id":236006421,
-    "wof:lastmodified":1466741907,
+    "wof:lastmodified":1491907476,
     "wof:name":"Hunger Busters Vending",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

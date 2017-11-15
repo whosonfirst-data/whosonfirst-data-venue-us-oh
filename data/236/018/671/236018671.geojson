@@ -2,9 +2,14 @@
   "id": 236018671,
   "type": "Feature",
   "properties": {
+    "addr:full":"5970 Godown Rd Columbus OH 43235",
+    "addr:housenumber":"",
+    "addr:postcode":"5970;43235",
+    "addr:street":"Godown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.05566,40.078583,-83.05566,40.078583",
     "geom:latitude":40.078583,
     "geom:longitude":-83.05566,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"76f5683f283304150b610afa626ea670",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":236018671,
-    "wof:lastmodified":1466742064,
+    "wof:lastmodified":1491900910,
     "wof:name":"Family Life Ministries",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 219601091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2012 Sycamore Dr Cleveland OH 44146",
+    "addr:housenumber":"2012",
+    "addr:postcode":"44146",
+    "addr:street":"Sycamore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.515935,41.401902,-81.515935,41.401902",
     "geom:latitude":41.401902,
     "geom:longitude":-81.515935,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712523,
         102084837
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_63JyR7IJbn2X1QGmn2LV3J_41.401902_-81.515935@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"8513bb1666a92bf95719559caf39a956",
+    "wof:geomhash":"a7617fdda34b1550ff29b93a50c437cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712523,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":219601091
         }
     ],
     "wof:id":219601091,
-    "wof:lastmodified":1466745950,
+    "wof:lastmodified":1494529517,
     "wof:name":"Visions Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 220199717,
   "type": "Feature",
   "properties": {
+    "addr:full":"4852 Frusta Dr Columbus OH 43207",
+    "addr:housenumber":"4852",
+    "addr:postcode":"43207",
+    "addr:street":"Frusta Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.939484,39.869534,-82.939484,39.869534",
     "geom:latitude":39.869534,
     "geom:longitude":-82.939484,
@@ -28,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839131,
+        102191575,
+        404524633,
         85633793,
         101712421,
-        102080969
+        102080969,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +49,20 @@
     "wof:geomhash":"b212b273f3ed7e0616bd9eb4bc1afbc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524633,
             "locality_id":101712421,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85839131,
             "region_id":85688485,
             "venue_id":220199717
         }
     ],
     "wof:id":220199717,
-    "wof:lastmodified":1466742943,
+    "wof:lastmodified":1491926556,
     "wof:name":"Automobile Recovery Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 286996133,
   "type": "Feature",
   "properties": {
+    "addr:full":"4134 Lorain Ave Cleveland OH 44113",
+    "addr:housenumber":"4134",
+    "addr:postcode":"44113",
+    "addr:street":"Lorain Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.714145,41.4802,-81.714145,41.4802",
     "geom:latitude":41.4802,
     "geom:longitude":-81.714145,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"2258e91a49e58cfba0f94f91d46b285d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":286996133,
-    "wof:lastmodified":1466751485,
+    "wof:lastmodified":1491914720,
     "wof:name":"Craftsman Antiques-Refinishing",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

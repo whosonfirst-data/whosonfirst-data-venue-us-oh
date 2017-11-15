@@ -2,9 +2,14 @@
   "id": 252738247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2995 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"2995",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.669152,41.502329,-81.669152,41.502329",
     "geom:latitude":41.502329,
     "geom:longitude":-81.669152,
@@ -26,11 +31,13 @@
     "sg:website":"www.greatclips.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:brand_id":420573895,
     "wof:breaches":[],
@@ -41,9 +48,10 @@
     "wof:geomhash":"d2ad5eb7eb597e35e11b3d6dbabb8bb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":252738247,
-    "wof:lastmodified":1466742217,
+    "wof:lastmodified":1491917339,
     "wof:name":"Great Clips",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

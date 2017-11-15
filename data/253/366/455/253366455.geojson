@@ -2,9 +2,14 @@
   "id": 253366455,
   "type": "Feature",
   "properties": {
+    "addr:full":"2669 Sawbury Blvd Columbus OH 43235",
+    "addr:housenumber":"2669",
+    "addr:postcode":"43235",
+    "addr:street":"Sawbury Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.08947,40.114086,-83.08947,40.114086",
     "geom:latitude":40.114086,
     "geom:longitude":-83.08947,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"f4bd04ddd596c496d41c18def12e36b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253366455,
-    "wof:lastmodified":1466746615,
+    "wof:lastmodified":1491900842,
     "wof:name":"Westware Supply",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

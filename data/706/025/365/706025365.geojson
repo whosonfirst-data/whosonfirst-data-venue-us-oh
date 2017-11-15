@@ -2,9 +2,14 @@
   "id": 706025365,
   "type": "Feature",
   "properties": {
+    "addr:full":"8761 Snow Rd Cleveland OH 44130",
+    "addr:housenumber":"8761",
+    "addr:postcode":"44130",
+    "addr:street":"Snow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.747119,41.404802,-81.747119,41.404802",
     "geom:latitude":41.404802,
     "geom:longitude":-81.747119,
@@ -27,17 +32,32 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iQ17UULzmY21gWTHVbIEJ_41.404802_-81.747119@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461794115,
-    "wof:geomhash":"0b1a89ecc1d24e042e26af52f45c8160",
-    "wof:hierarchy":[],
+    "wof:geomhash":"909b9ce41ad8753768dad97e2c4108d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":706025365
+        }
+    ],
     "wof:id":706025365,
-    "wof:lastmodified":1466748365,
+    "wof:lastmodified":1494529506,
     "wof:name":"Phils Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

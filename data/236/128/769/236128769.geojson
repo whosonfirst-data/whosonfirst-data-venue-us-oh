@@ -2,9 +2,14 @@
   "id": 236128769,
   "type": "Feature",
   "properties": {
+    "addr:full":"2619 Caroline Ave Columbus OH 43209",
+    "addr:housenumber":"2619",
+    "addr:postcode":"43209",
+    "addr:street":"Caroline Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.932599,39.979779,-82.932599,39.979779",
     "geom:latitude":39.979779,
     "geom:longitude":-82.932599,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"a7519807cfdd5e9ea72f6362a1e6be61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":236128769
         }
     ],
     "wof:id":236128769,
-    "wof:lastmodified":1466743381,
+    "wof:lastmodified":1491907481,
     "wof:name":"Bardon Home Improvement",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

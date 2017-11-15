@@ -2,9 +2,14 @@
   "id": 236746975,
   "type": "Feature",
   "properties": {
+    "addr:full":"2205 Central Pkwy Cincinnati OH 45214",
+    "addr:housenumber":"2205",
+    "addr:postcode":"45214",
+    "addr:street":"Central Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.531845,39.121879,-84.531845,39.121879",
     "geom:latitude":39.121879,
     "geom:longitude":-84.531845,
@@ -37,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873119,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +58,10 @@
     "wof:geomhash":"99f9562943d2136074b9fe9c1af03c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873119,
             "region_id":85688485,
@@ -61,7 +69,7 @@
         }
     ],
     "wof:id":236746975,
-    "wof:lastmodified":1466750319,
+    "wof:lastmodified":1491929851,
     "wof:name":"Favorite Products Inc",
     "wof:parent_id":85873119,
     "wof:placetype":"venue",

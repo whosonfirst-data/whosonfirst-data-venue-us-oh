@@ -2,9 +2,14 @@
   "id": 219439605,
   "type": "Feature",
   "properties": {
+    "addr:full":"3793 Bendemeer Rd Cleveland OH 44118",
+    "addr:housenumber":"3793",
+    "addr:postcode":"44118",
+    "addr:street":"Bendemeer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.541798,41.510863,-81.541798,41.510863",
     "geom:latitude":41.510863,
     "geom:longitude":-81.541798,
@@ -25,12 +30,14 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85849643,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043,
-        85849643
+        85688485,
+        85897043
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +47,30 @@
     "wof:geomhash":"feaf14e9110008ddd8f65f0ef1a00959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
-            "neighbourhood_id":85897043,
+            "neighbourhood_id":85849643,
             "region_id":85688485,
             "venue_id":219439605
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
-            "neighbourhood_id":85849643,
+            "neighbourhood_id":85897043,
             "region_id":85688485,
             "venue_id":219439605
         }
     ],
     "wof:id":219439605,
-    "wof:lastmodified":1466744158,
+    "wof:lastmodified":1491926275,
     "wof:name":"American Friends of Mosdo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

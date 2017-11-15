@@ -2,9 +2,14 @@
   "id": 706330185,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 S 4th St Columbus OH 43206",
+    "addr:housenumber":"500",
+    "addr:postcode":"43206",
+    "addr:street":"S 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.994492,39.951736,-82.994492,39.951736",
     "geom:latitude":39.951736,
     "geom:longitude":-82.994492,
@@ -28,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85893123,
+        420534797,
         102191575,
         404524625,
         85633793,
         101712381,
         102080969,
-        85688485
+        85688485,
+        85893123,
+        85893105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +57,35 @@
             "county_id":102080969,
             "localadmin_id":404524625,
             "locality_id":101712381,
+            "neighbourhood_id":420534797,
+            "region_id":85688485,
+            "venue_id":706330185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
             "neighbourhood_id":85893123,
+            "region_id":85688485,
+            "venue_id":706330185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85893105,
             "region_id":85688485,
             "venue_id":706330185
         }
     ],
     "wof:id":706330185,
-    "wof:lastmodified":1466757914,
+    "wof:lastmodified":1491922912,
     "wof:name":"Vincent A Dugan Law Offices",
-    "wof:parent_id":85893123,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

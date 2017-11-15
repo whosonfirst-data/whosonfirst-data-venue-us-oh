@@ -2,9 +2,14 @@
   "id": 286388657,
   "type": "Feature",
   "properties": {
+    "addr:full":"4266 Tuller Rd Dublin OH 43017",
+    "addr:housenumber":"4266",
+    "addr:postcode":"43017",
+    "addr:street":"Tuller Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.105315,40.10775,-83.105315,40.10775",
     "geom:latitude":40.10775,
     "geom:longitude":-83.105315,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"dfd17622653035c644073e04deac406c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":286388657,
-    "wof:lastmodified":1466744203,
+    "wof:lastmodified":1491900938,
     "wof:name":"Rucker Co",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

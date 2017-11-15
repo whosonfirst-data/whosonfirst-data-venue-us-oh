@@ -2,9 +2,14 @@
   "id": 219375805,
   "type": "Feature",
   "properties": {
+    "addr:full":"877 Dennison Ave Columbus OH 43215",
+    "addr:housenumber":"877",
+    "addr:postcode":"43215",
+    "addr:street":"Dennison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.008893,39.980232,-83.008893,39.980232",
     "geom:latitude":39.980232,
     "geom:longitude":-83.008893,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870239,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870239
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"35a47232ccb0820af6fc379d86c539af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870239,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219375805,
-    "wof:lastmodified":1466743378,
+    "wof:lastmodified":1491888062,
     "wof:name":"A PC Guy",
     "wof:parent_id":85870239,
     "wof:placetype":"venue",

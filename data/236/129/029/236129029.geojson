@@ -2,9 +2,14 @@
   "id": 236129029,
   "type": "Feature",
   "properties": {
+    "addr:full":"22155 Libby Rd Bedford OH 44146",
+    "addr:housenumber":"22155",
+    "addr:postcode":"44146",
+    "addr:street":"Libby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.525606,41.417005,-81.525606,41.417005",
     "geom:latitude":41.417005,
     "geom:longitude":-81.525606,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712525,
         102084837
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_1zzLbEU0yhlMX2mBhDkSw8_41.417005_-81.525606@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"9be8ff5f76b2630e71015f86a432f4d3",
+    "wof:geomhash":"31cc7eda4d73a7fe0a5d1810c5661932",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712525,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":236129029
         }
     ],
     "wof:id":236129029,
-    "wof:lastmodified":1466743384,
+    "wof:lastmodified":1494529527,
     "wof:name":"Sherwood Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286636881,
   "type": "Feature",
   "properties": {
+    "addr:full":"971 Kelenard Ave Columbus OH 43219",
+    "addr:housenumber":"971",
+    "addr:postcode":"43219",
+    "addr:street":"Kelenard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.939047,39.98969,-82.939047,39.98969",
     "geom:latitude":39.98969,
     "geom:longitude":-82.939047,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"1d6c3e34da9de6289496b5e3ba955008",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":286636881
         }
     ],
     "wof:id":286636881,
-    "wof:lastmodified":1466747993,
+    "wof:lastmodified":1491907456,
     "wof:name":"Schmidt Landscape",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

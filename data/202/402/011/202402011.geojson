@@ -2,9 +2,14 @@
   "id": 202402011,
   "type": "Feature",
   "properties": {
+    "addr:full":"13899 Cedar Rd Cleveland OH 44118",
+    "addr:housenumber":"13899",
+    "addr:postcode":"44118",
+    "addr:street":"Cedar Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.545682,41.501369,-81.545682,41.501369",
     "geom:latitude":41.501369,
     "geom:longitude":-81.545682,
@@ -25,19 +30,22 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688485,
+        102191575,
         85633793,
-        85688485
+        102084837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wpIa8GksCS5ltTMbPTtPO_41.501369_-81.545682@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"83d9131c579acccf322ee9847b5c20e5",
+    "wof:geomhash":"f9b082059660cb7f32dec7c5215fed1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102084837,
             "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
@@ -45,7 +53,7 @@
         }
     ],
     "wof:id":202402011,
-    "wof:lastmodified":1466749519,
+    "wof:lastmodified":1494529541,
     "wof:name":"Joanne's Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

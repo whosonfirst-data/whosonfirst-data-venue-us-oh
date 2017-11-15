@@ -2,9 +2,14 @@
   "id": 186318507,
   "type": "Feature",
   "properties": {
+    "addr:full":"2230 Euclid Ave Cleveland OH 44115",
+    "addr:housenumber":"2230",
+    "addr:postcode":"44115",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.675126,41.50154,-81.675126,41.50154",
     "geom:latitude":41.50154,
     "geom:longitude":-81.675126,
@@ -30,11 +35,13 @@
     "sg:website":"www.trinitycleveland.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"41ea91b2fc7da7706302b4534d2f38b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":186318507,
-    "wof:lastmodified":1466744154,
+    "wof:lastmodified":1491917338,
     "wof:name":"Trinity Cathedral",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

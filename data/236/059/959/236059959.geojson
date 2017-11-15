@@ -2,9 +2,14 @@
   "id": 236059959,
   "type": "Feature",
   "properties": {
+    "addr:full":"5241 Adena Trl Cincinnati OH 45230",
+    "addr:housenumber":"5241",
+    "addr:postcode":"45230",
+    "addr:street":"Adena Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.407721,39.08764,-84.407721,39.08764",
     "geom:latitude":39.08764,
     "geom:longitude":-84.407721,
@@ -25,12 +30,16 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85808861,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
+        85688485,
         85835779,
-        85808861
+        404525431,
+        101713759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,28 +49,30 @@
     "wof:geomhash":"fd2d0dcf0c6838207d705c567c58d134",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
-            "neighbourhood_id":85835779,
+            "neighbourhood_id":85808861,
             "region_id":85688485,
             "venue_id":236059959
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
-            "neighbourhood_id":85808861,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
+            "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":236059959
         }
     ],
     "wof:id":236059959,
-    "wof:lastmodified":1466742558,
+    "wof:lastmodified":1491901888,
     "wof:name":"Neal L Provident",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

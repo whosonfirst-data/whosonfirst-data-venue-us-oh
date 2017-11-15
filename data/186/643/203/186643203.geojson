@@ -2,9 +2,14 @@
   "id": 186643203,
   "type": "Feature",
   "properties": {
+    "addr:full":"1567 Loretta Ave Columbus OH 43211",
+    "addr:housenumber":"1567",
+    "addr:postcode":"43211",
+    "addr:street":"Loretta Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.969535,40.014637,-82.969535,40.014637",
     "geom:latitude":40.014637,
     "geom:longitude":-82.969535,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"067f52832a35706bb6a4b5a413c6cb64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186643203,
-    "wof:lastmodified":1466747776,
+    "wof:lastmodified":1491934137,
     "wof:name":"Southeast Christian Academy",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

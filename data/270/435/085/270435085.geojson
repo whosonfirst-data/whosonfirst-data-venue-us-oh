@@ -2,9 +2,14 @@
   "id": 270435085,
   "type": "Feature",
   "properties": {
+    "addr:full":"3978 Bluebird Ct Westerville OH 43081",
+    "addr:housenumber":"3978",
+    "addr:postcode":"43081",
+    "addr:street":"Bluebird Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.905381,40.087029,-82.905381,40.087029",
     "geom:latitude":40.087029,
     "geom:longitude":-82.905381,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85826407,
+        102191575,
+        404524511,
         85633793,
         101713837,
         102080969,
-        85826407
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"75474a35fc783627b2a8851c1da933a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524511,
             "locality_id":101713837,
             "neighbourhood_id":85826407,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":270435085,
-    "wof:lastmodified":1466748331,
+    "wof:lastmodified":1491929328,
     "wof:name":"Precision Electric",
     "wof:parent_id":85826407,
     "wof:placetype":"venue",

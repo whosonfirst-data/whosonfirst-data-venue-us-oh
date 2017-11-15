@@ -2,9 +2,14 @@
   "id": 252733229,
   "type": "Feature",
   "properties": {
+    "addr:full":"787 Thurber Dr E Columbus OH 43215",
+    "addr:housenumber":"787",
+    "addr:postcode":"43215",
+    "addr:street":"Thurber Dr E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.013319,39.977355,-83.013319,39.977355",
     "geom:latitude":39.977355,
     "geom:longitude":-83.013319,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870239,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870239
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"5d0ef70f5c02c79155d3b5680721eff9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870239,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":252733229,
-    "wof:lastmodified":1466742156,
+    "wof:lastmodified":1491888054,
     "wof:name":"Sterling Reality",
     "wof:parent_id":85870239,
     "wof:placetype":"venue",

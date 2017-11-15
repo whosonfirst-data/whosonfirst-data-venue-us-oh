@@ -2,9 +2,14 @@
   "id": 236595313,
   "type": "Feature",
   "properties": {
+    "addr:full":"3703 Severn Rd Cleveland OH 44118",
+    "addr:housenumber":"3703",
+    "addr:postcode":"44118",
+    "addr:street":"Severn Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.545023,41.512504,-81.545023,41.512504",
     "geom:latitude":41.512504,
     "geom:longitude":-81.545023,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897043,
+        102191575,
+        404525063,
         85633793,
         101712565,
         102084837,
-        85897043
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"6a9d1ee5ea7162eabed404604227f39c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404525063,
             "locality_id":101712565,
             "neighbourhood_id":85897043,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236595313,
-    "wof:lastmodified":1466749147,
+    "wof:lastmodified":1491926267,
     "wof:name":"Designer Lady Inc",
     "wof:parent_id":85897043,
     "wof:placetype":"venue",

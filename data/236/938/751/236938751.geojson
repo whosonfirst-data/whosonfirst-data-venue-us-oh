@@ -2,9 +2,14 @@
   "id": 236938751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2700 Columbus Ave Columbus OH 43209",
+    "addr:housenumber":"2700",
+    "addr:postcode":"43209",
+    "addr:street":"Columbus Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.930699,39.979334,-82.930699,39.979334",
     "geom:latitude":39.979334,
     "geom:longitude":-82.930699,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +51,18 @@
     "wof:geomhash":"52c6296e93e9f4d8fcfe195f4ae0f195",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":236938751
         }
     ],
     "wof:id":236938751,
-    "wof:lastmodified":1466751409,
+    "wof:lastmodified":1491907481,
     "wof:name":"Pyro Chem",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

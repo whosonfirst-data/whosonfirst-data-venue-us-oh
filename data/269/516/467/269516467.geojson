@@ -2,14 +2,20 @@
   "id": 269516467,
   "type": "Feature",
   "properties": {
+    "addr:full":"2160 Mc Gaw Rd Obetz OH 43207",
+    "addr:housenumber":"2160",
+    "addr:postcode":"43207",
+    "addr:street":"Mc Gaw Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.947763,39.867676,-82.947763,39.867676",
     "geom:latitude":39.867676,
     "geom:longitude":-82.947763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2160 Mc Gaw Rd",
     "sg:city":"Obetz",
     "sg:classifiers":[
@@ -28,23 +34,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839131,
+        102191575,
+        404524633,
         85633793,
         101712421,
         102080969,
-        85839131
+        85688485
     ],
+    "wof:brand_id":1125155921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F7og3JxYJSQzlbxkkuBjo_39.867676_-82.947763@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"9b1ec67502cfc39cf70be395a51adfa3",
+    "wof:geomhash":"3d1742bb147aee349c3a4d2e8a5a4514",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524633,
             "locality_id":101712421,
             "neighbourhood_id":85839131,
             "region_id":85688485,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":269516467,
-    "wof:lastmodified":1466742417,
+    "wof:lastmodified":1510697680,
     "wof:name":"Exel Logistics",
     "wof:parent_id":85839131,
     "wof:placetype":"venue",

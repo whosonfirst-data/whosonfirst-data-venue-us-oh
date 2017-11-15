@@ -2,9 +2,14 @@
   "id": 287098617,
   "type": "Feature",
   "properties": {
+    "addr:full":"4306 Trowbridge Ave Cleveland OH 44109",
+    "addr:housenumber":"4306",
+    "addr:postcode":"44109",
+    "addr:street":"Trowbridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.714455,41.46171,-81.714455,41.46171",
     "geom:latitude":41.46171,
     "geom:longitude":-81.714455,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"2ec047f34088dab7011133f0a1171b8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":287098617,
-    "wof:lastmodified":1466744520,
+    "wof:lastmodified":1491925297,
     "wof:name":"K C Communications",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

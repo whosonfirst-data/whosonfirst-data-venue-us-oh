@@ -2,9 +2,14 @@
   "id": 236176451,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 North St Dublin OH 43017",
+    "addr:housenumber":"20",
+    "addr:postcode":"43017",
+    "addr:street":"North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.113207,40.100997,-83.113207,40.100997",
     "geom:latitude":40.100997,
     "geom:longitude":-83.113207,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"16f13c04716d5ef41d13a84efbce7370",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":236176451,
-    "wof:lastmodified":1466743989,
+    "wof:lastmodified":1491900890,
     "wof:name":"Brinker Capital Holdings Inc",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

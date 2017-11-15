@@ -2,9 +2,14 @@
   "id": 689962571,
   "type": "Feature",
   "properties": {
+    "addr:full":"5267 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5267",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.141292,39.951581,-83.141292,39.951581",
     "geom:latitude":39.951581,
     "geom:longitude":-83.141292,
@@ -35,13 +40,7 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sxoievl5c1ELcUwnp9KKe_39.951581_-83.141292@1294180530"
@@ -49,18 +48,9 @@
     "wof:country":"US",
     "wof:created":1461786198,
     "wof:geomhash":"4d95d8bed66f70ccffd1bbe4e7130811",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":689962571
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689962571,
-    "wof:lastmodified":1466761208,
+    "wof:lastmodified":1491899821,
     "wof:name":"New Rome Towing & Auto Center",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

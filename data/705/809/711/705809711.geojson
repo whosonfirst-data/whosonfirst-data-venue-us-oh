@@ -2,9 +2,14 @@
   "id": 705809711,
   "type": "Feature",
   "properties": {
+    "addr:full":"21800 Libby Rd Cleveland OH 44146",
+    "addr:housenumber":"21800",
+    "addr:postcode":"44146",
+    "addr:street":"Libby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.523074,41.416937,-81.523074,41.416937",
     "geom:latitude":41.416937,
     "geom:longitude":-81.523074,
@@ -24,17 +29,32 @@
     "sg:postcode":"44146",
     "sg:province":"OH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47QFEA4uKdLdUFAwuBgUsi_41.416937_-81.523074@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461789224,
-    "wof:geomhash":"0970bdb8253a2d0bacbe1d1a7238e75f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe58ecdf36bc0c9c6ba8bfac563d9782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":705809711
+        }
+    ],
     "wof:id":705809711,
-    "wof:lastmodified":1466752949,
+    "wof:lastmodified":1494529523,
     "wof:name":"Rite Aid Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

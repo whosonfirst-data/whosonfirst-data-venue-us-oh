@@ -2,9 +2,14 @@
   "id": 253747645,
   "type": "Feature",
   "properties": {
+    "addr:full":"1093 Dublin Rd Columbus OH 43215",
+    "addr:housenumber":"1093",
+    "addr:postcode":"43215",
+    "addr:street":"Dublin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.046957,39.973232,-83.046957,39.973232",
     "geom:latitude":39.973232,
     "geom:longitude":-83.046957,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"641b12c2918b6f81fc57910a04941023",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":253747645,
-    "wof:lastmodified":1466751115,
+    "wof:lastmodified":1491924570,
     "wof:name":"Dublin & Grandview Auto Svc",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

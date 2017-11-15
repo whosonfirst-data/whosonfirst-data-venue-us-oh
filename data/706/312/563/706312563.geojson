@@ -2,9 +2,14 @@
   "id": 706312563,
   "type": "Feature",
   "properties": {
+    "addr:full":"5239 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5239",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.140307,39.951698,-83.140307,39.951698",
     "geom:latitude":39.951698,
     "geom:longitude":-83.140307,
@@ -34,13 +39,7 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HT2vPzltkdfeW8ClPvzVY_39.951698_-83.140307@1294180530"
@@ -48,20 +47,11 @@
     "wof:country":"US",
     "wof:created":1461800567,
     "wof:geomhash":"d9b561d0a10436679f42ca26f259afea",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":706312563
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":706312563,
-    "wof:lastmodified":1466757566,
+    "wof:lastmodified":1491899827,
     "wof:name":"Brandon's Video Game Exchange",
-    "wof:parent_id":85870293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

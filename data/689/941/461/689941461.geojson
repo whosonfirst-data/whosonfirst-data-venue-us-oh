@@ -2,9 +2,14 @@
   "id": 689941461,
   "type": "Feature",
   "properties": {
+    "addr:full":"24500 Solon Rd Cleveland OH 44146",
+    "addr:housenumber":"24500",
+    "addr:postcode":"44146",
+    "addr:street":"Solon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.505072,41.385394,-81.505072,41.385394",
     "geom:latitude":41.385394,
     "geom:longitude":-81.505072,
@@ -28,17 +33,32 @@
     ],
     "sg:website":"www.alertstamping.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Nau1e3QC4pdeXa6SFKhTX_41.385394_-81.505072@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461785652,
-    "wof:geomhash":"f7c5b2044b8e6f66778675f87bb9b261",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30508bcc2f02cd27d3e575cba4df8997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689941461
+        }
+    ],
     "wof:id":689941461,
-    "wof:lastmodified":1466761069,
+    "wof:lastmodified":1494529526,
     "wof:name":"Alert Stamping & Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

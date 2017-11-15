@@ -2,9 +2,14 @@
   "id": 220191203,
   "type": "Feature",
   "properties": {
+    "addr:full":"1228 Gilbert St Columbus OH 43206",
+    "addr:housenumber":"1228",
+    "addr:postcode":"43206",
+    "addr:street":"Gilbert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.975155,39.939423,-82.975155,39.939423",
     "geom:latitude":39.939423,
     "geom:longitude":-82.975155,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893113
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"1ecfd703e2f3882d225598fa8c3bd952",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893113,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":220191203,
-    "wof:lastmodified":1466742845,
+    "wof:lastmodified":1491902968,
     "wof:name":"Herbert Muncy",
     "wof:parent_id":85893113,
     "wof:placetype":"venue",

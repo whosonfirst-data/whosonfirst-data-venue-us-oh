@@ -2,14 +2,20 @@
   "id": 219672131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"2727",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.964742,40.023542,-82.964742,40.023542",
     "geom:latitude":40.023542,
     "geom:longitude":-82.964742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2727 Cleveland Ave",
     "sg:city":"Columbus",
     "sg:classifiers":[
@@ -30,23 +36,27 @@
     "sg:website":"www.udfinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
+    "wof:brand_id":1125150845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63TSVUbkx5hjsdgL0JlM2k_40.023542_-82.964742@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"eb835c951a34aba1f150138e262a6819",
+    "wof:geomhash":"53d65be14a4695c870e59f4ee3b0f6ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":219672131,
-    "wof:lastmodified":1466746724,
+    "wof:lastmodified":1510693804,
     "wof:name":"United Dairy Farmers",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253748897,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Storer Ave Cleveland OH 44102",
+    "addr:housenumber":"4701",
+    "addr:postcode":"44102",
+    "addr:street":"Storer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.719258,41.462337,-81.719258,41.462337",
     "geom:latitude":41.462337,
     "geom:longitude":-81.719258,
@@ -26,11 +31,13 @@
     "sg:website":"www.convenientfoodmart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871803,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871803
+        85688485
     ],
     "wof:brand_id":420575633,
     "wof:breaches":[],
@@ -41,9 +48,10 @@
     "wof:geomhash":"64c81cd866b7ccd8c17c34ba385210a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871803,
             "region_id":85688485,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":253748897,
-    "wof:lastmodified":1466751026,
+    "wof:lastmodified":1491925302,
     "wof:name":"Convenient Food Mart",
     "wof:parent_id":85871803,
     "wof:placetype":"venue",

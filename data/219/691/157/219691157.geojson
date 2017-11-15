@@ -2,9 +2,14 @@
   "id": 219691157,
   "type": "Feature",
   "properties": {
+    "addr:full":"1330 Miller Ave Columbus OH 43206",
+    "addr:housenumber":"1330",
+    "addr:postcode":"43206",
+    "addr:street":"Miller Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.963032,39.937152,-82.963032,39.937152",
     "geom:latitude":39.937152,
     "geom:longitude":-82.963032,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893113,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893113
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"65633fa36eac0f89521ba9b9e54c0d80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893113,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219691157,
-    "wof:lastmodified":1466746943,
+    "wof:lastmodified":1491902979,
     "wof:name":"Money Orientated Brothers",
     "wof:parent_id":85893113,
     "wof:placetype":"venue",

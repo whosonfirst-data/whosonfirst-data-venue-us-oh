@@ -2,9 +2,14 @@
   "id": 270525991,
   "type": "Feature",
   "properties": {
+    "addr:full":"5623 Donnally Ct Dublin OH 43016",
+    "addr:housenumber":"5623",
+    "addr:postcode":"43016",
+    "addr:street":"Donnally Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.124944,40.067489,-83.124944,40.067489",
     "geom:latitude":40.067489,
     "geom:longitude":-83.124944,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"dfc68a5eb44744f2e87819e320ec27f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":270525991,
-    "wof:lastmodified":1466749598,
+    "wof:lastmodified":1491900944,
     "wof:name":"All American Fire Equipment",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

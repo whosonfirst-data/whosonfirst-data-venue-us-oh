@@ -2,9 +2,14 @@
   "id": 185616995,
   "type": "Feature",
   "properties": {
+    "addr:full":"416 W 9th St Cincinnati OH 45203",
+    "addr:housenumber":"416",
+    "addr:postcode":"45203",
+    "addr:street":"W 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.521559,39.104193,-84.521559,39.104193",
     "geom:latitude":39.104193,
     "geom:longitude":-84.521559,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873121,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873121
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"c3e509f5c7127de053f4c15984f5caaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873121,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":185616995,
-    "wof:lastmodified":1466745547,
+    "wof:lastmodified":1491922428,
     "wof:name":"Uptown Towers Apartments",
     "wof:parent_id":85873121,
     "wof:placetype":"venue",

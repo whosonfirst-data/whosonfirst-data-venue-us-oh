@@ -2,9 +2,14 @@
   "id": 269842499,
   "type": "Feature",
   "properties": {
+    "addr:full":"5403 Northfield Rd Cleveland OH 44146",
+    "addr:housenumber":"5403",
+    "addr:postcode":"44146",
+    "addr:street":"Northfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.527285,41.413774,-81.527285,41.413774",
     "geom:latitude":41.413774,
     "geom:longitude":-81.527285,
@@ -30,8 +35,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712525,
         102084837
     ],
     "wof:breaches":[],
@@ -39,20 +44,20 @@
         "sg:id":"SG_1xRyiJqljj0i5aTGKjRor7_41.413774_-81.527285@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"e6c5e9bb77492788e69a52937dcc81a0",
+    "wof:geomhash":"1cad6f2b52f647e5b60bc311e77aabb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712525,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":269842499
         }
     ],
     "wof:id":269842499,
-    "wof:lastmodified":1466747360,
+    "wof:lastmodified":1494529527,
     "wof:name":"Petit Auto Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 689818247,
   "type": "Feature",
   "properties": {
+    "addr:full":"6420 York Rd Cleveland OH 44130",
+    "addr:housenumber":"6420",
+    "addr:postcode":"44130",
+    "addr:street":"York Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.759718,41.382673,-81.759718,41.382673",
     "geom:latitude":41.382673,
     "geom:longitude":-81.759718,
@@ -30,17 +35,32 @@
     ],
     "sg:website":"www.medgroup.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688485,
+        102191575,
+        85633793,
+        102084837
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10MR7eBqtJXqIaKX4k8x8V_41.382673_-81.759718@1294180530"
     },
     "wof:country":"US",
     "wof:created":1461782413,
-    "wof:geomhash":"6e12b9fec64e6e6a96e6041d0f3774c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"207c974d0280b75bac22df5d88b43fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688485,
+            "venue_id":689818247
+        }
+    ],
     "wof:id":689818247,
-    "wof:lastmodified":1466758620,
+    "wof:lastmodified":1494529511,
     "wof:name":"Med Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

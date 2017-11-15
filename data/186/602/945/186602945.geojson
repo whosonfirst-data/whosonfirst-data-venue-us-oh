@@ -2,9 +2,14 @@
   "id": 186602945,
   "type": "Feature",
   "properties": {
+    "addr:full":"11901 Berea Rd Cleveland OH 44111",
+    "addr:housenumber":"11901",
+    "addr:postcode":"44111",
+    "addr:street":"Berea Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.769687,41.473682,-81.769687,41.473682",
     "geom:latitude":41.473682,
     "geom:longitude":-81.769687,
@@ -26,11 +31,13 @@
     "sg:website":"www.homedepot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897097,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897097
+        85688485
     ],
     "wof:brand_id":420574013,
     "wof:breaches":[],
@@ -41,9 +48,10 @@
     "wof:geomhash":"c83fe04a3b54e25f545c57b0a5f20ff6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897097,
             "region_id":85688485,
@@ -51,7 +59,7 @@
         }
     ],
     "wof:id":186602945,
-    "wof:lastmodified":1466747307,
+    "wof:lastmodified":1491924449,
     "wof:name":"Home Depot",
     "wof:parent_id":85897097,
     "wof:placetype":"venue",

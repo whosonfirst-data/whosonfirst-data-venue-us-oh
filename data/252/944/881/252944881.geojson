@@ -2,9 +2,14 @@
   "id": 252944881,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 W 14th St Cincinnati OH 45202",
+    "addr:housenumber":"115",
+    "addr:postcode":"45202",
+    "addr:street":"W 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.517197,39.110246,-84.517197,39.110246",
     "geom:latitude":39.110246,
     "geom:longitude":-84.517197,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873121,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873121
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"8188677c69741415f986db3f47465dea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873121,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":252944881,
-    "wof:lastmodified":1466744794,
+    "wof:lastmodified":1491922420,
     "wof:name":"Washington Park",
     "wof:parent_id":85873121,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 286981517,
   "type": "Feature",
   "properties": {
+    "addr:full":"4645 Westerville Rd Columbus OH 43231",
+    "addr:housenumber":"",
+    "addr:postcode":"4645;43231",
+    "addr:street":"Westerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.93127,40.067246,-82.93127,40.067246",
     "geom:latitude":40.067246,
     "geom:longitude":-82.93127,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"dfeb3332f15f79aabc683f0241f51775",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286981517,
-    "wof:lastmodified":1466751524,
+    "wof:lastmodified":1491903477,
     "wof:name":"Calhoon Financial Pros",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

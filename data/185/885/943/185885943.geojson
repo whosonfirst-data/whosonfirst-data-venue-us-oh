@@ -2,9 +2,14 @@
   "id": 185885943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1814 W 30th St Cleveland OH 44113",
+    "addr:housenumber":"1814",
+    "addr:postcode":"44113",
+    "addr:street":"W 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.708945,41.484687,-81.708945,41.484687",
     "geom:latitude":41.484687,
     "geom:longitude":-81.708945,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"0157b59d87c49321240279757e6719ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":185885943,
-    "wof:lastmodified":1466743351,
+    "wof:lastmodified":1491914738,
     "wof:name":"Christopher Art Installation",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

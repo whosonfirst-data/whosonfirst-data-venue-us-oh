@@ -2,9 +2,14 @@
   "id": 706141123,
   "type": "Feature",
   "properties": {
+    "addr:full":"880 Kinnear Rd Columbus OH 43212",
+    "addr:housenumber":"880",
+    "addr:postcode":"43212",
+    "addr:street":"Kinnear Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.031939,39.997754,-83.031939,39.997754",
     "geom:latitude":39.997754,
     "geom:longitude":-83.031939,
@@ -35,11 +40,13 @@
     "sg:website":"www.livingstonseed.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,8 +57,10 @@
     "wof:geomhash":"a660b09e8296c310e26d6363fff1c80f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":706141123,
-    "wof:lastmodified":1466753647,
+    "wof:lastmodified":1491921149,
     "wof:name":"Livingston Seed Co Inc",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

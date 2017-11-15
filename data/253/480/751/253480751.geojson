@@ -2,9 +2,14 @@
   "id": 253480751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2394 W 3rd St Cleveland OH 44113",
+    "addr:housenumber":"2394",
+    "addr:postcode":"44113",
+    "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.681338,41.48439,-81.681338,41.48439",
     "geom:latitude":41.48439,
     "geom:longitude":-81.681338,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871843,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"0bb425e16cee9baa16e86c45b7479c7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871843,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":253480751,
-    "wof:lastmodified":1466748344,
+    "wof:lastmodified":1491921266,
     "wof:name":"Third Street Cafe",
     "wof:parent_id":85871843,
     "wof:placetype":"venue",

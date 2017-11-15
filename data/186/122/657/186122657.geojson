@@ -2,9 +2,14 @@
   "id": 186122657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1329 Virginia Ave Columbus OH 43212",
+    "addr:housenumber":"1329",
+    "addr:postcode":"43212",
+    "addr:street":"Virginia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.036977,39.985613,-83.036977,39.985613",
     "geom:latitude":39.985613,
     "geom:longitude":-83.036977,
@@ -32,11 +37,13 @@
     "sg:website":"www.wecanunlimited.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"350ba888d4aaefb12493b520beb749c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":186122657,
-    "wof:lastmodified":1466742158,
+    "wof:lastmodified":1491924550,
     "wof:name":"We Can Unltd",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

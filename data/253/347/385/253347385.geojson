@@ -2,9 +2,14 @@
   "id": 253347385,
   "type": "Feature",
   "properties": {
+    "addr:full":"1865 Summit Rd Cincinnati OH 45237",
+    "addr:housenumber":"1865",
+    "addr:postcode":"45237",
+    "addr:street":"Summit Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.454664,39.201842,-84.454664,39.201842",
     "geom:latitude":39.201842,
     "geom:longitude":-84.454664,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"a8354ee61d87c429332465ef531e3fe7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":253347385,
-    "wof:lastmodified":1466746339,
+    "wof:lastmodified":1491896885,
     "wof:name":"James Hunt Construction Co",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

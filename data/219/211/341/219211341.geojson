@@ -2,9 +2,14 @@
   "id": 219211341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2403 Saint Clair Ave NE Cleveland OH 44114",
+    "addr:housenumber":"2403",
+    "addr:postcode":"44114",
+    "addr:street":"Saint Clair Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.676102,41.510891,-81.676102,41.510891",
     "geom:latitude":41.510891,
     "geom:longitude":-81.676102,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"59b9881d730d9d6f776ccf7e0692381f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":219211341,
-    "wof:lastmodified":1466748455,
+    "wof:lastmodified":1491929348,
     "wof:name":"Your Carpenter",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

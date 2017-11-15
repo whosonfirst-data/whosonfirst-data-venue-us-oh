@@ -2,9 +2,14 @@
   "id": 286751623,
   "type": "Feature",
   "properties": {
+    "addr:full":"2532 Saint Clair Ave NE Cleveland OH 44114",
+    "addr:housenumber":"2532",
+    "addr:postcode":"44114",
+    "addr:street":"Saint Clair Ave Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.674762,41.511325,-81.674762,41.511325",
     "geom:latitude":41.511325,
     "geom:longitude":-81.674762,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"33d1aa93e1d2c4275c48f5ba17d59ddc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":286751623,
-    "wof:lastmodified":1466749649,
+    "wof:lastmodified":1491929348,
     "wof:name":"Annes Granny Dry Cleaning Inc",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

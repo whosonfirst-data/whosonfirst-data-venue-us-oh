@@ -2,9 +2,14 @@
   "id": 253041491,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Carolyn Ave Columbus OH 43224",
+    "addr:housenumber":"1208",
+    "addr:postcode":"43224",
+    "addr:street":"Carolyn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.981778,40.03717,-82.981778,40.03717",
     "geom:latitude":40.03717,
     "geom:longitude":-82.981778,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"a9817582e3a409693ba38d1a0e47151c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253041491,
-    "wof:lastmodified":1466742366,
+    "wof:lastmodified":1491933582,
     "wof:name":"David D Cooper",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 236201235,
   "type": "Feature",
   "properties": {
+    "addr:full":"3150 Toy Rd Groveport OH 43125",
+    "addr:housenumber":"3150",
+    "addr:postcode":"43125",
+    "addr:street":"Toy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.931255,39.852342,-82.931255,39.852342",
     "geom:latitude":39.852342,
     "geom:longitude":-82.931255,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839131,
+        102191575,
+        404524633,
         85633793,
         101712421,
         102080969,
-        85839131
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"8517fee5da7f0eb5fc5e698a37ce1eb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524633,
             "locality_id":101712421,
             "neighbourhood_id":85839131,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":236201235,
-    "wof:lastmodified":1466744296,
+    "wof:lastmodified":1491926557,
     "wof:name":"Central Oh Home Inspections",
     "wof:parent_id":85839131,
     "wof:placetype":"venue",

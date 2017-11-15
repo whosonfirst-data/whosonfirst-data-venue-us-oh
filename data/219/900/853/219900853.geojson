@@ -2,9 +2,14 @@
   "id": 219900853,
   "type": "Feature",
   "properties": {
+    "addr:full":"11400 Euclid Ave Cleveland OH 44106",
+    "addr:housenumber":"11400",
+    "addr:postcode":"44106",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.603584,41.510276,-81.603584,41.510276",
     "geom:latitude":41.510276,
     "geom:longitude":-81.603584,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830935,
+        102191575,
+        404523697,
         85633793,
         101712563,
-        102084837
+        102084837,
+        85688485,
+        85867115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +51,30 @@
     "wof:geomhash":"a10c5b7293fd28fd40b4dd0533d6f912",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85830935,
+            "region_id":85688485,
+            "venue_id":219900853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85867115,
             "region_id":85688485,
             "venue_id":219900853
         }
     ],
     "wof:id":219900853,
-    "wof:lastmodified":1466749375,
+    "wof:lastmodified":1491900523,
     "wof:name":"Joseph Calabrese MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 689744553,
   "type": "Feature",
   "properties": {
+    "addr:full":"5460 W Broad St Columbus OH 43228",
+    "addr:housenumber":"5460",
+    "addr:postcode":"43228",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.145783,39.951453,-83.145783,39.951453",
     "geom:latitude":39.951453,
     "geom:longitude":-83.145783,
@@ -27,13 +32,7 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870293
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cGxONFkXWJunKj9N6tZvN_39.951453_-83.145783@1294180530"
@@ -41,18 +40,9 @@
     "wof:country":"US",
     "wof:created":1461780308,
     "wof:geomhash":"65170ccc30fbb7b244965831ac76e42e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870293,
-            "region_id":85688485,
-            "venue_id":689744553
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689744553,
-    "wof:lastmodified":1466756842,
+    "wof:lastmodified":1491899835,
     "wof:name":"Rome-Hilliard Market",
     "wof:parent_id":85870293,
     "wof:placetype":"venue",

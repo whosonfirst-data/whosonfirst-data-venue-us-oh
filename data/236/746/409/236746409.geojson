@@ -2,9 +2,14 @@
   "id": 236746409,
   "type": "Feature",
   "properties": {
+    "addr:full":"889 Williams Ave Columbus OH 43212",
+    "addr:housenumber":"889",
+    "addr:postcode":"43212",
+    "addr:street":"Williams Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.029603,39.978113,-83.029603,39.978113",
     "geom:latitude":39.978113,
     "geom:longitude":-83.029603,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"042cf8d000b7ca4c31f83317d6d3af5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236746409,
-    "wof:lastmodified":1466750314,
+    "wof:lastmodified":1491924547,
     "wof:name":"Environmental Enhancements",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

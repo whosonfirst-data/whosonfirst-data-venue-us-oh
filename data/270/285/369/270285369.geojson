@@ -2,9 +2,14 @@
   "id": 270285369,
   "type": "Feature",
   "properties": {
+    "addr:full":"3914 Kul Cir N Hilliard OH 43026",
+    "addr:housenumber":"3914",
+    "addr:postcode":"43026",
+    "addr:street":"Kul Cir N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.121631,40.056628,-83.121631,40.056628",
     "geom:latitude":40.056628,
     "geom:longitude":-83.121631,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"10b32c557f69b7cf9834586b9b859809",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":270285369,
-    "wof:lastmodified":1466746119,
+    "wof:lastmodified":1491900948,
     "wof:name":"Mid State Contracting Inc",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

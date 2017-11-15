@@ -2,9 +2,14 @@
   "id": 219714773,
   "type": "Feature",
   "properties": {
+    "addr:full":"1994 Willey Ave Cleveland OH 44113",
+    "addr:housenumber":"1994",
+    "addr:postcode":"44113",
+    "addr:street":"Willey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.698225,41.48169,-81.698225,41.48169",
     "geom:latitude":41.48169,
     "geom:longitude":-81.698225,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871857,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871857
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"92a6cde5d92ad1aa1cb48fadff29bd47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871857,
             "region_id":85688485,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":219714773,
-    "wof:lastmodified":1466747214,
+    "wof:lastmodified":1491899503,
     "wof:name":"Pikula Machine Products",
     "wof:parent_id":85871857,
     "wof:placetype":"venue",

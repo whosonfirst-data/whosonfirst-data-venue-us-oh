@@ -2,9 +2,14 @@
   "id": 202534737,
   "type": "Feature",
   "properties": {
+    "addr:full":"3636 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3636",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.960385,40.042118,-82.960385,40.042118",
     "geom:latitude":40.042118,
     "geom:longitude":-82.960385,
@@ -29,13 +34,7 @@
     ],
     "sg:website":"www.autozone.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:brand_id":420573803,
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +42,9 @@
     },
     "wof:country":"US",
     "wof:geomhash":"5fb55391dacb51370dca9ed21884a7dd",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":202534737
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":202534737,
-    "wof:lastmodified":1466742454,
+    "wof:lastmodified":1491926713,
     "wof:name":"Autozone",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253417451,
   "type": "Feature",
   "properties": {
+    "addr:full":"1875 Morse Rd Columbus OH 43229",
+    "addr:housenumber":"1875",
+    "addr:postcode":"43229",
+    "addr:street":"Morse Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.970225,40.060238,-82.970225,40.060238",
     "geom:latitude":40.060238,
     "geom:longitude":-82.970225,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"b8595d9b35e1749d8847d0d49b421cdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":253417451,
-    "wof:lastmodified":1466747379,
+    "wof:lastmodified":1491903513,
     "wof:name":"Northland Preparatory & Fitns",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

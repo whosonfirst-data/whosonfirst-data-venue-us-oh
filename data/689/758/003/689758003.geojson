@@ -2,9 +2,14 @@
   "id": 689758003,
   "type": "Feature",
   "properties": {
+    "addr:full":"3595 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber":"3595",
+    "addr:postcode":"43224",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.96077,40.041564,-82.96077,40.041564",
     "geom:latitude":40.041564,
     "geom:longitude":-82.96077,
@@ -33,13 +38,7 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85811437
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xEoZaJ11gBJQMdtlZyE5L_40.041564_-82.960770@1294180530"
@@ -47,18 +46,9 @@
     "wof:country":"US",
     "wof:created":1461780677,
     "wof:geomhash":"e9281c0480f56ba2e28bb1045971324e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85811437,
-            "region_id":85688485,
-            "venue_id":689758003
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":689758003,
-    "wof:lastmodified":1466757488,
+    "wof:lastmodified":1491926691,
     "wof:name":"Steve's Used Tires",
     "wof:parent_id":85811437,
     "wof:placetype":"venue",

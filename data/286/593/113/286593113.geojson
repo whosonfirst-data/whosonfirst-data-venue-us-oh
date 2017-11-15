@@ -2,9 +2,14 @@
   "id": 286593113,
   "type": "Feature",
   "properties": {
+    "addr:full":"799 Sunbury Rd Columbus OH 43219",
+    "addr:housenumber":"799",
+    "addr:postcode":"43219",
+    "addr:street":"Sunbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.94876,39.984179,-82.94876,39.984179",
     "geom:latitude":39.984179,
     "geom:longitude":-82.94876,
@@ -32,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +53,18 @@
     "wof:geomhash":"2215d7f3bcbcded2c83bcbd2b8c3d600",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":286593113
         }
     ],
     "wof:id":286593113,
-    "wof:lastmodified":1466747311,
+    "wof:lastmodified":1491907481,
     "wof:name":"Ronald Sroufe",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

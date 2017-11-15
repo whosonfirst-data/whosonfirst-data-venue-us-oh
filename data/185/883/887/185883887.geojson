@@ -2,9 +2,14 @@
   "id": 185883887,
   "type": "Feature",
   "properties": {
+    "addr:full":"869 Goodale Blvd Columbus OH 43212",
+    "addr:housenumber":"869",
+    "addr:postcode":"43212",
+    "addr:street":"Goodale Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.028935,39.974283,-83.028935,39.974283",
     "geom:latitude":39.974283,
     "geom:longitude":-83.028935,
@@ -30,11 +35,13 @@
     "sg:website":"www.vwbresearch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85822501,
+        102191575,
+        404524631,
         85633793,
         101712405,
         102080969,
-        85822501
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"60a88510eaae815be6450f890295e91d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524631,
             "locality_id":101712405,
             "neighbourhood_id":85822501,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":185883887,
-    "wof:lastmodified":1466743334,
+    "wof:lastmodified":1491924544,
     "wof:name":"Vogt Williams & Bowen",
     "wof:parent_id":85822501,
     "wof:placetype":"venue",

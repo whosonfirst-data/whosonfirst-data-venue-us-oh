@@ -2,14 +2,20 @@
   "id": 253524419,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Superior Ave E Cleveland OH 44114",
+    "addr:housenumber":"600",
+    "addr:postcode":"44114",
+    "addr:street":"Superior Ave E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.688583,41.502265,-81.688583,41.502265",
     "geom:latitude":41.502265,
     "geom:longitude":-81.688583,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Superior Ave E",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -28,23 +34,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
+    "wof:brand_id":1125151127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14OuFdSs3ImWnSKjwNyBn9_41.502265_-81.688583@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"4403553dee390bc39c4053c640946e5d",
+    "wof:geomhash":"fb65f9e0ff8a9c29fbfb9f12bfc3b3e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":253524419,
-    "wof:lastmodified":1466748979,
+    "wof:lastmodified":1510696833,
     "wof:name":"UBS Financial Services Inc",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

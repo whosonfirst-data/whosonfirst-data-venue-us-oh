@@ -2,9 +2,14 @@
   "id": 203001123,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Ashbourne Rd Columbus OH 43209",
+    "addr:housenumber":"221",
+    "addr:postcode":"43209",
+    "addr:street":"Ashbourne Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.934581,39.975804,-82.934581,39.975804",
     "geom:latitude":39.975804,
     "geom:longitude":-82.934581,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
         101712399,
-        102080969
+        102080969,
+        85688485,
+        85893127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"9b47e6e0c405f254b594d82602b1ddbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404523491,
             "locality_id":101712399,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85868821,
+            "region_id":85688485,
+            "venue_id":203001123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
+            "neighbourhood_id":85893127,
             "region_id":85688485,
             "venue_id":203001123
         }
     ],
     "wof:id":203001123,
-    "wof:lastmodified":1466741835,
+    "wof:lastmodified":1491907479,
     "wof:name":"Share-A-Shabbos",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

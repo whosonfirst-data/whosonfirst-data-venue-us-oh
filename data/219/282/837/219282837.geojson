@@ -2,9 +2,14 @@
   "id": 219282837,
   "type": "Feature",
   "properties": {
+    "addr:full":"2546 Central Ave Cleveland OH 44115",
+    "addr:housenumber":"2546",
+    "addr:postcode":"44115",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.666288,41.496885,-81.666288,41.496885",
     "geom:latitude":41.496885,
     "geom:longitude":-81.666288,
@@ -28,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871839,
+        102191575,
+        404523697,
         85633793,
         101712563,
-        102084837
+        102084837,
+        85688485,
+        85871837
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +50,30 @@
     "wof:geomhash":"a50a2322aef9c6d9ec09d3d4a2fdbf69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871839,
+            "region_id":85688485,
+            "venue_id":219282837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084837,
+            "localadmin_id":404523697,
+            "locality_id":101712563,
+            "neighbourhood_id":85871837,
             "region_id":85688485,
             "venue_id":219282837
         }
     ],
     "wof:id":219282837,
-    "wof:lastmodified":1466742234,
+    "wof:lastmodified":1491917360,
     "wof:name":"Tire World",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

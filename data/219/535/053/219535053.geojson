@@ -2,9 +2,14 @@
   "id": 219535053,
   "type": "Feature",
   "properties": {
+    "addr:full":"2572 Cleveland Ave Columbus OH 43211",
+    "addr:housenumber":"2572",
+    "addr:postcode":"43211",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.964879,40.019882,-82.964879,40.019882",
     "geom:latitude":40.019882,
     "geom:longitude":-82.964879,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85830697,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85830697
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"1b81c8ee47a2df5b9d11cd5941b0ab38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85830697,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219535053,
-    "wof:lastmodified":1466745237,
+    "wof:lastmodified":1491934134,
     "wof:name":"Salem House",
     "wof:parent_id":85830697,
     "wof:placetype":"venue",

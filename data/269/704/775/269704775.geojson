@@ -2,9 +2,14 @@
   "id": 269704775,
   "type": "Feature",
   "properties": {
+    "addr:full":"1776 E 17th St Cleveland OH 44114",
+    "addr:housenumber":"1776",
+    "addr:postcode":"44114",
+    "addr:street":"E 17Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.680555,41.503831,-81.680555,41.503831",
     "geom:latitude":41.503831,
     "geom:longitude":-81.680555,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"436fea5036f32420609afe6ddca42aeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":269704775,
-    "wof:lastmodified":1466745316,
+    "wof:lastmodified":1491896589,
     "wof:name":"Cie",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",

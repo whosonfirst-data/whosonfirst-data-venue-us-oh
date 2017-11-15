@@ -2,9 +2,14 @@
   "id": 236040083,
   "type": "Feature",
   "properties": {
+    "addr:full":"2050 Kenny Rd Columbus OH 43221",
+    "addr:housenumber":"2050",
+    "addr:postcode":"43221",
+    "addr:street":"Kenny Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.034438,40.001285,-83.034438,40.001285",
     "geom:latitude":40.001285,
     "geom:longitude":-83.034438,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870283,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870283
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"a66e098b2e97356d1455b084e4f7c1f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870283,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":236040083,
-    "wof:lastmodified":1466742324,
+    "wof:lastmodified":1491921156,
     "wof:name":"Ohio State University Med Ctr",
     "wof:parent_id":85870283,
     "wof:placetype":"venue",

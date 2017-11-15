@@ -2,9 +2,14 @@
   "id": 203198359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1651 E 24th St Cleveland OH 44114",
+    "addr:housenumber":"1651",
+    "addr:postcode":"44114",
+    "addr:street":"E 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.67424,41.508265,-81.67424,41.508265",
     "geom:latitude":41.508265,
     "geom:longitude":-81.67424,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871837,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871837
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"f9d2ef5c9d5dfa37445efadb1f801f97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871837,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203198359,
-    "wof:lastmodified":1466742884,
+    "wof:lastmodified":1491917345,
     "wof:name":"Roofers & Waterproofers Local",
     "wof:parent_id":85871837,
     "wof:placetype":"venue",

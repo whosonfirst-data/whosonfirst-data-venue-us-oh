@@ -2,9 +2,14 @@
   "id": 202579873,
   "type": "Feature",
   "properties": {
+    "addr:full":"6923 Hunley Rd Cincinnati OH 45244",
+    "addr:housenumber":"",
+    "addr:postcode":"6923;45244",
+    "addr:street":"Hunley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.361088,39.09714,-84.361088,39.09714",
     "geom:latitude":39.09714,
     "geom:longitude":-84.361088,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85835779,
+        102191575,
+        404525431,
         85633793,
-        101712203,
+        101713759,
         102083687,
-        85835779
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +56,18 @@
     "wof:geomhash":"9531273014d3694bbab5ba5750c745e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
-            "locality_id":101712203,
+            "localadmin_id":404525431,
+            "locality_id":101713759,
             "neighbourhood_id":85835779,
             "region_id":85688485,
             "venue_id":202579873
         }
     ],
     "wof:id":202579873,
-    "wof:lastmodified":1466742981,
+    "wof:lastmodified":1491901882,
     "wof:name":"Newhall Brothers Plumbing",
     "wof:parent_id":85835779,
     "wof:placetype":"venue",

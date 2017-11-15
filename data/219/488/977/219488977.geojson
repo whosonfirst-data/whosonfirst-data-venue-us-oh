@@ -2,14 +2,20 @@
   "id": 219488977,
   "type": "Feature",
   "properties": {
+    "addr:full":"2151 Losantiville Ave Cincinnati OH 45237",
+    "addr:housenumber":"2151",
+    "addr:postcode":"45237",
+    "addr:street":"Losantiville Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.453035,39.191164,-84.453035,39.191164",
     "geom:latitude":39.191164,
     "geom:longitude":-84.453035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2151 Losantiville Ave",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -26,23 +32,27 @@
     "sg:website":"www.udfinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
+    "wof:brand_id":1125150845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JoYS9Y7CvBPFKvFcjIsOp_39.191164_-84.453035@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"962df340e790e73813c405b615d8f6ee",
+    "wof:geomhash":"035ec0678796f7fffc4737c6ab978056",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -50,7 +60,7 @@
         }
     ],
     "wof:id":219488977,
-    "wof:lastmodified":1466744732,
+    "wof:lastmodified":1510693804,
     "wof:name":"United Dairy Farmers",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

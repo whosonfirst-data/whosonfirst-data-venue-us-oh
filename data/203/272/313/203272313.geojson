@@ -2,9 +2,14 @@
   "id": 203272313,
   "type": "Feature",
   "properties": {
+    "addr:full":"5199 Garmouth Ct Columbus OH 43221",
+    "addr:housenumber":"5199",
+    "addr:postcode":"43221",
+    "addr:street":"Garmouth Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.114904,40.059699,-83.114904,40.059699",
     "geom:latitude":40.059699,
     "geom:longitude":-83.114904,
@@ -29,11 +34,13 @@
     "sg:website":"www.lawlerservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"461a8a2cff7af7bff3427b3416741fe1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":203272313,
-    "wof:lastmodified":1466743714,
+    "wof:lastmodified":1491900901,
     "wof:name":"Lawler Services",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

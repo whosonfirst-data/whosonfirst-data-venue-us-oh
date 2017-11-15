@@ -2,9 +2,14 @@
   "id": 219230175,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Section Rd Cincinnati OH 45237",
+    "addr:housenumber":"2100",
+    "addr:postcode":"45237",
+    "addr:street":"Section Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.448985,39.196797,-84.448985,39.196797",
     "geom:latitude":39.196797,
     "geom:longitude":-84.448985,
@@ -30,10 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
-        101712193,
-        102083687
+        101712203,
+        102083687,
+        85688485,
+        85857575,
+        404525429,
+        101712193
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +54,30 @@
     "wof:geomhash":"2b225fe6256fe253b7f92ac887209961",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85846009,
+            "region_id":85688485,
+            "venue_id":219230175
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404525429,
             "locality_id":101712193,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85857575,
             "region_id":85688485,
             "venue_id":219230175
         }
     ],
     "wof:id":219230175,
-    "wof:lastmodified":1466748889,
+    "wof:lastmodified":1491896862,
     "wof:name":"Saturday Knight LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 202652013,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 W Liberty St Cincinnati OH 45214",
+    "addr:housenumber":"1036",
+    "addr:postcode":"45214",
+    "addr:street":"W Liberty St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.534534,39.114137,-84.534534,39.114137",
     "geom:latitude":39.114137,
     "geom:longitude":-84.534534,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873119,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85873119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"7b30d7ca5a1eaeb5479651c07ec83f5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85873119,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":202652013,
-    "wof:lastmodified":1466743799,
+    "wof:lastmodified":1491929847,
     "wof:name":"Aads-Cincinnati",
     "wof:parent_id":85873119,
     "wof:placetype":"venue",

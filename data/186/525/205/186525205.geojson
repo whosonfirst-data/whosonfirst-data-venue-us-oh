@@ -2,9 +2,14 @@
   "id": 186525205,
   "type": "Feature",
   "properties": {
+    "addr:full":"3643 Karl Rd Columbus OH 43224",
+    "addr:housenumber":"3643",
+    "addr:postcode":"43224",
+    "addr:street":"Karl Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.977325,40.042454,-82.977325,40.042454",
     "geom:latitude":40.042454,
     "geom:longitude":-82.977325,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870253,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870253
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"5f1828137e5e21620f7a81d227756bd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870253,
             "region_id":85688485,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":186525205,
-    "wof:lastmodified":1466746380,
+    "wof:lastmodified":1491933575,
     "wof:name":"Classic Glass & Mirror Inc",
     "wof:parent_id":85870253,
     "wof:placetype":"venue",

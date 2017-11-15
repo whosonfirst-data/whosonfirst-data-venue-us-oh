@@ -2,14 +2,20 @@
   "id": 203191743,
   "type": "Feature",
   "properties": {
+    "addr:full":"7770 Reading Rd Cincinnati OH 45237",
+    "addr:housenumber":"7770",
+    "addr:postcode":"45237",
+    "addr:street":"Reading Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.455744,39.202268,-84.455744,39.202268",
     "geom:latitude":39.202268,
     "geom:longitude":-84.455744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7770 Reading Rd",
     "sg:city":"Cincinnati",
     "sg:classifiers":[
@@ -28,23 +34,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85846009,
+        102191575,
+        404523793,
         85633793,
         101712203,
         102083687,
-        85846009
+        85688485
     ],
+    "wof:brand_id":1125151085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aFusgwKZXlSXFvN3hOz6P_39.202268_-84.455744@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"626e9c121feea1d1ec55ddc6336220c7",
+    "wof:geomhash":"3330e07f873ab31abc5df582bd47e259",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
             "neighbourhood_id":85846009,
             "region_id":85688485,
@@ -52,7 +62,7 @@
         }
     ],
     "wof:id":203191743,
-    "wof:lastmodified":1466742806,
+    "wof:lastmodified":1510695429,
     "wof:name":"Perkins Family Restaurant",
     "wof:parent_id":85846009,
     "wof:placetype":"venue",

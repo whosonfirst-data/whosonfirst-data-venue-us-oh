@@ -2,9 +2,14 @@
   "id": 203012701,
   "type": "Feature",
   "properties": {
+    "addr:full":"961 Highland St Columbus OH 43201",
+    "addr:housenumber":"961",
+    "addr:postcode":"43201",
+    "addr:street":"Highland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.010898,39.982,-83.010898,39.982",
     "geom:latitude":39.982,
     "geom:longitude":-83.010898,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870239,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870239
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"2351d4222eae9bf137f276b7cce1e555",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870239,
             "region_id":85688485,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":203012701,
-    "wof:lastmodified":1466745280,
+    "wof:lastmodified":1491888068,
     "wof:name":"Kent William Mills Interior",
     "wof:parent_id":85870239,
     "wof:placetype":"venue",

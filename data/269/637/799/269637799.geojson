@@ -2,9 +2,14 @@
   "id": 269637799,
   "type": "Feature",
   "properties": {
+    "addr:full":"4115 Bridge Ave Cleveland OH 44113",
+    "addr:housenumber":"4115",
+    "addr:postcode":"44113",
+    "addr:street":"Bridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.716377,41.480577,-81.716377,41.480577",
     "geom:latitude":41.480577,
     "geom:longitude":-81.716377,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85839251,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85839251
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"dc06e9ba0542e1a12a69089f21c7d616",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85839251,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":269637799,
-    "wof:lastmodified":1466744308,
+    "wof:lastmodified":1491914719,
     "wof:name":"Hispanic Business Association",
     "wof:parent_id":85839251,
     "wof:placetype":"venue",

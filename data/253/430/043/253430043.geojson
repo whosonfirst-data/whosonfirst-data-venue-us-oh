@@ -2,9 +2,14 @@
   "id": 253430043,
   "type": "Feature",
   "properties": {
+    "addr:full":"19512 Tiverton Rd Cleveland OH 44110",
+    "addr:housenumber":"19512",
+    "addr:postcode":"44110",
+    "addr:street":"Tiverton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.542735,41.570966,-81.542735,41.570966",
     "geom:latitude":41.570966,
     "geom:longitude":-81.542735,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85838557,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85838557
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"9be0cad65fe172deef1285cf1be6a1c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85838557,
             "region_id":85688485,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":253430043,
-    "wof:lastmodified":1466747568,
+    "wof:lastmodified":1491906486,
     "wof:name":"Calvin's Delivery Svc",
     "wof:parent_id":85838557,
     "wof:placetype":"venue",

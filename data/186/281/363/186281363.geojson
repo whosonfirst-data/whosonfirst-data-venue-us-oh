@@ -2,9 +2,14 @@
   "id": 186281363,
   "type": "Feature",
   "properties": {
+    "addr:full":"2434 Hamilton Ave Cleveland OH 44114",
+    "addr:housenumber":"2434",
+    "addr:postcode":"44114",
+    "addr:street":"Hamilton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.676103,41.511631,-81.676103,41.511631",
     "geom:latitude":41.511631,
     "geom:longitude":-81.676103,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871855,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871855
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"72a30e254d97abee9ea583da80de15e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871855,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":186281363,
-    "wof:lastmodified":1466743772,
+    "wof:lastmodified":1491929345,
     "wof:name":"Reel Fish and Seafood Company",
     "wof:parent_id":85871855,
     "wof:placetype":"venue",

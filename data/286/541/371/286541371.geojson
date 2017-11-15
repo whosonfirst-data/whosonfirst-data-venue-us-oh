@@ -2,9 +2,14 @@
   "id": 286541371,
   "type": "Feature",
   "properties": {
+    "addr:full":"18615 Detroit Ave Cleveland OH 44107",
+    "addr:housenumber":"18615",
+    "addr:postcode":"44107",
+    "addr:street":"Detroit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.827637,41.48141,-81.827637,41.48141",
     "geom:latitude":41.48141,
     "geom:longitude":-81.827637,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85897117,
+        102191575,
+        404524417,
         85633793,
         101712597,
         102084837,
-        85897117
+        85688485
     ],
     "wof:brand_id":420573979,
     "wof:breaches":[],
@@ -40,9 +47,10 @@
     "wof:geomhash":"3ea41b8b25df87bafeff13dc187f2492",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404524417,
             "locality_id":101712597,
             "neighbourhood_id":85897117,
             "region_id":85688485,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":286541371,
-    "wof:lastmodified":1466746509,
+    "wof:lastmodified":1491932134,
     "wof:name":"Primerica Financial Svc",
     "wof:parent_id":85897117,
     "wof:placetype":"venue",

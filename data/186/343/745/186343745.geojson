@@ -2,9 +2,14 @@
   "id": 186343745,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Gest St Cincinnati OH 45203",
+    "addr:housenumber":"1200",
+    "addr:postcode":"45203",
+    "addr:street":"Gest St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.538511,39.107082,-84.538511,39.107082",
     "geom:latitude":39.107082,
     "geom:longitude":-84.538511,
@@ -29,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85873119,
+        102191575,
+        404523793,
         85633793,
         101712203,
-        102083687
+        102083687,
+        85688485,
+        85873117
     ],
     "wof:brand_id":420573863,
     "wof:breaches":[],
@@ -43,19 +52,30 @@
     "wof:geomhash":"2f507536691e036a1112e6d1d2422bb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083687,
+            "localadmin_id":404523793,
             "locality_id":101712203,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85873119,
+            "region_id":85688485,
+            "venue_id":186343745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083687,
+            "localadmin_id":404523793,
+            "locality_id":101712203,
+            "neighbourhood_id":85873117,
             "region_id":85688485,
             "venue_id":186343745
         }
     ],
     "wof:id":186343745,
-    "wof:lastmodified":1466744405,
+    "wof:lastmodified":1491929849,
     "wof:name":"NAPA Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

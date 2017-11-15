@@ -2,9 +2,14 @@
   "id": 253512107,
   "type": "Feature",
   "properties": {
+    "addr:full":"13210 Shaker Sq Cleveland OH 44120",
+    "addr:housenumber":"13210",
+    "addr:postcode":"44120",
+    "addr:street":"Shaker Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.589777,41.483918,-81.589777,41.483918",
     "geom:latitude":41.483918,
     "geom:longitude":-81.589777,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871793,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871793
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"4f568ee6aabfbd6128f74b158773c3c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871793,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":253512107,
-    "wof:lastmodified":1466748801,
+    "wof:lastmodified":1491927193,
     "wof:name":"Corcoran Fine Art Ltd Inc",
     "wof:parent_id":85871793,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 253424717,
   "type": "Feature",
   "properties": {
+    "addr:full":"5820 Sullivant Ave Galloway OH 43119",
+    "addr:housenumber":"5820",
+    "addr:postcode":"43119",
+    "addr:street":"Sullivant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.153633,39.941842,-83.153633,39.941842",
     "geom:latitude":39.941842,
     "geom:longitude":-83.153633,
@@ -25,10 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870245,
+        102191575,
+        404524625,
         85633793,
         101712381,
-        102080969
+        102080969,
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +46,20 @@
     "wof:geomhash":"34d1907d8eaed7a8bb1f2935f2feb2e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85870245,
             "region_id":85688485,
             "venue_id":253424717
         }
     ],
     "wof:id":253424717,
-    "wof:lastmodified":1466747485,
+    "wof:lastmodified":1491899824,
     "wof:name":"US Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

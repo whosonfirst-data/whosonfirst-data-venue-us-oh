@@ -2,9 +2,14 @@
   "id": 219382381,
   "type": "Feature",
   "properties": {
+    "addr:full":"1831 E Beaumont Rd Columbus OH 43224",
+    "addr:housenumber":"1831",
+    "addr:postcode":"43224",
+    "addr:street":"E Beaumont Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.965958,40.053237,-82.965958,40.053237",
     "geom:latitude":40.053237,
     "geom:longitude":-82.965958,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85870259,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85870259
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"b52075a3e98b0b270b7dbb165f32385d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85870259,
             "region_id":85688485,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":219382381,
-    "wof:lastmodified":1466743472,
+    "wof:lastmodified":1491903516,
     "wof:name":"Brubaker & Noble Heating Inc",
     "wof:parent_id":85870259,
     "wof:placetype":"venue",

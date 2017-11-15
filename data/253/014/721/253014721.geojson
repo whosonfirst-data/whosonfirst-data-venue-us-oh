@@ -2,9 +2,14 @@
   "id": 253014721,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Sherbourne Dr Columbus OH 43219",
+    "addr:housenumber":"188",
+    "addr:postcode":"43219",
+    "addr:street":"Sherbourne Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.950037,39.971804,-82.950037,39.971804",
     "geom:latitude":39.971804,
     "geom:longitude":-82.950037,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85868821,
+        102191575,
+        404523491,
         85633793,
-        101712381,
+        101712399,
         102080969,
-        85868821
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +49,18 @@
     "wof:geomhash":"25e43fe41edd899d91b413f41e0f2304",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
-            "locality_id":101712381,
+            "localadmin_id":404523491,
+            "locality_id":101712399,
             "neighbourhood_id":85868821,
             "region_id":85688485,
             "venue_id":253014721
         }
     ],
     "wof:id":253014721,
-    "wof:lastmodified":1466742035,
+    "wof:lastmodified":1491907444,
     "wof:name":"Glowebs Grdns By Dsigns Ldscpg",
     "wof:parent_id":85868821,
     "wof:placetype":"venue",

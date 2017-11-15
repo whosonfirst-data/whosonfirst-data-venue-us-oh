@@ -2,14 +2,20 @@
   "id": 236379337,
   "type": "Feature",
   "properties": {
+    "addr:full":"15222 Waterloo Rd Cleveland OH 44110",
+    "addr:housenumber":"15222",
+    "addr:postcode":"44110",
+    "addr:street":"Waterloo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.574247,41.569388,-81.574247,41.569388",
     "geom:latitude":41.569388,
     "geom:longitude":-81.574247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15222 Waterloo Rd",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -29,23 +35,27 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871861,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871861
+        85688485
     ],
+    "wof:brand_id":1125156061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DxtsV0DkfVJRlbrjSNCXK_41.569388_-81.574247@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8fca3a5b05db2f330454b39204491db",
+    "wof:geomhash":"2b9e983ffde4db5ab429f0e383fe6f27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871861,
             "region_id":85688485,
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":236379337,
-    "wof:lastmodified":1466746469,
+    "wof:lastmodified":1510696903,
     "wof:name":"Clark Retail Enterprises Inc",
     "wof:parent_id":85871861,
     "wof:placetype":"venue",

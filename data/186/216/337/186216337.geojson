@@ -2,9 +2,14 @@
   "id": 186216337,
   "type": "Feature",
   "properties": {
+    "addr:full":"1048 Literary Rd Cleveland OH 44113",
+    "addr:housenumber":"1048",
+    "addr:postcode":"44113",
+    "addr:street":"Literary Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.688727,41.480503,-81.688727,41.480503",
     "geom:latitude":41.480503,
     "geom:longitude":-81.688727,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871843,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871843
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"a3a2aaf2bf9b42f2e233881ad72bd52e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871843,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":186216337,
-    "wof:lastmodified":1466743108,
+    "wof:lastmodified":1491921267,
     "wof:name":"Lemko LLC",
     "wof:parent_id":85871843,
     "wof:placetype":"venue",

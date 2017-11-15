@@ -2,9 +2,14 @@
   "id": 202607593,
   "type": "Feature",
   "properties": {
+    "addr:full":"6229 Olentangy River Rd Columbus OH 43085",
+    "addr:housenumber":"6229",
+    "addr:postcode":"43085",
+    "addr:street":"Olentangy River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.038901,40.086155,-83.038901,40.086155",
     "geom:latitude":40.086155,
     "geom:longitude":-83.038901,
@@ -25,11 +30,13 @@
     "sg:province":"OH",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893119,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893119
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"e5508e24e89f2fd582f5a9470fc20488",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893119,
             "region_id":85688485,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":202607593,
-    "wof:lastmodified":1466743298,
+    "wof:lastmodified":1491900898,
     "wof:name":"Educational Computer Resources",
     "wof:parent_id":85893119,
     "wof:placetype":"venue",

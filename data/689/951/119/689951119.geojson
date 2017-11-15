@@ -2,9 +2,14 @@
   "id": 689951119,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 W Bridge St Dublin OH 43017",
+    "addr:housenumber":"299",
+    "addr:postcode":"43017",
+    "addr:street":"W Bridge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.119621,40.099197,-83.119621,40.099197",
     "geom:latitude":40.099197,
     "geom:longitude":-83.119621,
@@ -32,7 +37,10 @@
         85633793,
         101712391,
         102080969,
-        85688485
+        85688485,
+        85893119,
+        404524625,
+        101712381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +59,22 @@
             "neighbourhood_id":85847055,
             "region_id":85688485,
             "venue_id":689951119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080969,
+            "localadmin_id":404524625,
+            "locality_id":101712381,
+            "neighbourhood_id":85893119,
+            "region_id":85688485,
+            "venue_id":689951119
         }
     ],
     "wof:id":689951119,
-    "wof:lastmodified":1466761332,
+    "wof:lastmodified":1491900939,
     "wof:name":"Kroger",
-    "wof:parent_id":85847055,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-oh",
     "wof:superseded_by":[],

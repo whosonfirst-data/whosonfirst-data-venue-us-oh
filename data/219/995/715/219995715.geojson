@@ -2,9 +2,14 @@
   "id": 219995715,
   "type": "Feature",
   "properties": {
+    "addr:full":"276 Fairwood Ave Columbus OH 43205",
+    "addr:housenumber":"276",
+    "addr:postcode":"43205",
+    "addr:street":"Fairwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.952445,39.961876,-82.952445,39.961876",
     "geom:latitude":39.961876,
     "geom:longitude":-82.952445,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85893109,
+        102191575,
+        404524625,
         85633793,
         101712381,
         102080969,
-        85893109
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"efeebaff967141d505a37653978e0ddb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080969,
+            "localadmin_id":404524625,
             "locality_id":101712381,
             "neighbourhood_id":85893109,
             "region_id":85688485,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":219995715,
-    "wof:lastmodified":1466750347,
+    "wof:lastmodified":1491906888,
     "wof:name":"Candy Arts Co",
     "wof:parent_id":85893109,
     "wof:placetype":"venue",

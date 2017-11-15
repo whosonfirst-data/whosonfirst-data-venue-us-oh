@@ -2,9 +2,14 @@
   "id": 253510043,
   "type": "Feature",
   "properties": {
+    "addr:full":"5225 Northfield Rd Cleveland OH 44146",
+    "addr:housenumber":"5225",
+    "addr:postcode":"44146",
+    "addr:street":"Northfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.527291,41.419837,-81.527291,41.419837",
     "geom:latitude":41.419837,
     "geom:longitude":-81.527291,
@@ -32,8 +37,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688485,
+        102191575,
         85633793,
-        101712525,
         102084837
     ],
     "wof:breaches":[],
@@ -41,20 +46,20 @@
         "sg:id":"SG_7cqOqtmATpAh6WV4tAsPkO_41.419837_-81.527291@1294180530"
     },
     "wof:country":"US",
-    "wof:geomhash":"6199ffbdbb64327b830ad5a94bd5c241",
+    "wof:geomhash":"87d10f3e15628438be944a5f79e21ad3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
-            "locality_id":101712525,
+            "locality_id":-1,
             "neighbourhood_id":-1,
             "region_id":85688485,
             "venue_id":253510043
         }
     ],
     "wof:id":253510043,
-    "wof:lastmodified":1466748776,
+    "wof:lastmodified":1494529531,
     "wof:name":"Diamond Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

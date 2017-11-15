@@ -2,9 +2,14 @@
   "id": 286513147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1717 E 9th St Cleveland OH 44114",
+    "addr:housenumber":"1717",
+    "addr:postcode":"44114",
+    "addr:street":"E 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.688325,41.502211,-81.688325,41.502211",
     "geom:latitude":41.502211,
     "geom:longitude":-81.688325,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688485,
+        85871829,
+        102191575,
+        404523697,
         85633793,
         101712563,
         102084837,
-        85871829
+        85688485
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"b2b547fb20eee350d2eff6a50eb19991",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084837,
+            "localadmin_id":404523697,
             "locality_id":101712563,
             "neighbourhood_id":85871829,
             "region_id":85688485,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":286513147,
-    "wof:lastmodified":1466746069,
+    "wof:lastmodified":1491896567,
     "wof:name":"Ifi",
     "wof:parent_id":85871829,
     "wof:placetype":"venue",
