@@ -2,56 +2,60 @@
   "id": 689583739,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 Biscayne Blvd Montpelier OH 43543",
-    "addr:housenumber":"151",
-    "addr:postcode":"43543",
-    "addr:street":"Biscayne Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.731787,41.677591,-84.731787,41.677591",
-    "geom:latitude":41.677591,
-    "geom:longitude":-84.731787,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"151 Biscayne Blvd",
-    "sg:city":"Montpelier",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Campground",
-            "type":"Entertainment"
-        }
+    "addr:full": "151 Biscayne Blvd Montpelier OH 43543",
+    "addr:housenumber": "151",
+    "addr:postcode": "43543",
+    "addr:street": "Biscayne Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.731787,41.677591,-84.731787,41.677591",
+    "geom:latitude": 41.677591,
+    "geom:longitude": -84.731787,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "151 Biscayne Blvd",
+    "sg:city": "Montpelier",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Campground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 459 4502",
-    "sg:postcode":"43543",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0uqHo8sqGANKU3vl3C1m6x_41.677591_-84.731787@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 459 4502",
+    "sg:postcode": "43543",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0uqHo8sqGANKU3vl3C1m6x_41.677591_-84.731787@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775732,
-    "wof:geomhash":"c588feb06ed7de13f165b1975f8e852b",
-    "wof:hierarchy":[],
-    "wof:id":689583739,
-    "wof:lastmodified":1472639366,
-    "wof:name":"Shady Shores Campground",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461775732,
+    "wof:geomhash": "db5ac925ec066797f137230d81a7d269",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689583739
+      }
+    ],
+    "wof:id": 689583739,
+    "wof:lastmodified": 1638566992,
+    "wof:name": "Shady Shores Campground",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.731787,
     41.677591,
     -84.731787,
     41.677591
-],
+  ],
   "geometry": {"coordinates":[-84.731787,41.677591],"type":"Point"}
 }

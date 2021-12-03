@@ -2,66 +2,70 @@
   "id": 706581643,
   "type": "Feature",
   "properties": {
-    "addr:full":"920 High St Wadsworth OH 44281",
-    "addr:housenumber":"920",
-    "addr:postcode":"44281",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.729135,41.048114,-81.729135,41.048114",
-    "geom:latitude":41.048114,
-    "geom:longitude":-81.729135,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"920 High St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "920 High St Wadsworth OH 44281",
+    "addr:housenumber": "920",
+    "addr:postcode": "44281",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.729135,41.048114,-81.729135,41.048114",
+    "geom:latitude": 41.048114,
+    "geom:longitude": -81.729135,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "920 High St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/wadsworth/195513-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/wadsworth/195513-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6K3eQxQof82L73lSf7Q8jV_41.047481_-81.728892@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6K3eQxQof82L73lSf7Q8jV_41.047481_-81.728892@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806358,
-    "wof:geomhash":"af3642e833d00fa03e481b078c7de631",
-    "wof:hierarchy":[],
-    "wof:id":706581643,
-    "wof:lastmodified":1512142891,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806358,
+    "wof:geomhash": "af3642e833d00fa03e481b078c7de631",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706581643
+      }
+    ],
+    "wof:id": 706581643,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -81.729135,
     41.048114,
     -81.729135,
     41.048114
-],
+  ],
   "geometry": {"coordinates":[-81.729135,41.048114],"type":"Point"}
 }

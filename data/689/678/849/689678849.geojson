@@ -2,66 +2,70 @@
   "id": 689678849,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 Catherine St Green Springs OH 44836",
-    "addr:housenumber":"120",
-    "addr:postcode":"44836",
-    "addr:street":"Catherine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.046298,41.256362,-83.046298,41.256362",
-    "geom:latitude":41.256362,
-    "geom:longitude":-83.046298,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"120 Catherine St",
-    "sg:city":"Green Springs",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "120 Catherine St Green Springs OH 44836",
+    "addr:housenumber": "120",
+    "addr:postcode": "44836",
+    "addr:street": "Catherine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.046298,41.256362,-83.046298,41.256362",
+    "geom:latitude": 41.256362,
+    "geom:longitude": -83.046298,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "120 Catherine St",
+    "sg:city": "Green Springs",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 639 2222",
-    "sg:postcode":"44836",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 639 2222",
+    "sg:postcode": "44836",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3aTVNhd9uXinpMxFKn27Ve_41.256362_-83.046298@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3aTVNhd9uXinpMxFKn27Ve_41.256362_-83.046298@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778589,
-    "wof:geomhash":"8639ef3040be16ac7e026babf4079eea",
-    "wof:hierarchy":[],
-    "wof:id":689678849,
-    "wof:lastmodified":1472639635,
-    "wof:name":"Green Springs Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461778589,
+    "wof:geomhash": "b066df2c438310be4f2ad830214f5785",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689678849
+      }
+    ],
+    "wof:id": 689678849,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Green Springs Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.046298,
     41.256362,
     -83.046298,
     41.256362
-],
-  "geometry": {"coordinates":[-83.04629799999999,41.256362],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.046298,41.256362],"type":"Point"}
 }

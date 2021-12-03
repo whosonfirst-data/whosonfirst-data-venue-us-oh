@@ -2,61 +2,65 @@
   "id": 706355431,
   "type": "Feature",
   "properties": {
-    "addr:full":"750 Brower Rd Lima OH 45801",
-    "addr:housenumber":"750",
-    "addr:postcode":"45801",
-    "addr:street":"Brower Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.11765,40.769951,-84.11765,40.769951",
-    "geom:latitude":40.769951,
-    "geom:longitude":-84.11765,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"750 Brower Rd",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "750 Brower Rd Lima OH 45801",
+    "addr:housenumber": "750",
+    "addr:postcode": "45801",
+    "addr:street": "Brower Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.117650,40.769951,-84.117650,40.769951",
+    "geom:latitude": 40.769951,
+    "geom:longitude": -84.11765,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "750 Brower Rd",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 227 2611",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "skilled"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 227 2611",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "skilled"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7WbnDfDHeDwLVHOM4dxTU4_40.769951_-84.117650@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7WbnDfDHeDwLVHOM4dxTU4_40.769951_-84.117650@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801514,
-    "wof:geomhash":"80991f65de9c05113adeb7bcfad7f516",
-    "wof:hierarchy":[],
-    "wof:id":706355431,
-    "wof:lastmodified":1472639904,
-    "wof:name":"Lima Manor",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "skilled"
+    "wof:country": "US",
+    "wof:created": 1461801514,
+    "wof:geomhash": "97c6eec4ec7fd36bb22bb591dc6e829a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706355431
+      }
+    ],
+    "wof:id": 706355431,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Lima Manor",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "skilled"
     ]
-},
+  },
   "bbox": [
     -84.11765,
     40.769951,
     -84.11765,
     40.769951
-],
+  ],
   "geometry": {"coordinates":[-84.11765,40.769951],"type":"Point"}
 }

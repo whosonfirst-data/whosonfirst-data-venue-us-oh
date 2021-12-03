@@ -2,61 +2,65 @@
   "id": 689881355,
   "type": "Feature",
   "properties": {
-    "addr:full":"1013 Front Ave SW New Philadelphia OH 44663",
-    "addr:housenumber":"1013",
-    "addr:postcode":"44663",
-    "addr:street":"Front Ave Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.465695,40.4905,-81.465695,40.4905",
-    "geom:latitude":40.4905,
-    "geom:longitude":-81.465695,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1013 Front Ave SW",
-    "sg:city":"New Philadelphia",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1013 Front Ave SW New Philadelphia OH 44663",
+    "addr:housenumber": "1013",
+    "addr:postcode": "44663",
+    "addr:street": "Front Ave Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.465695,40.490500,-81.465695,40.490500",
+    "geom:latitude": 40.4905,
+    "geom:longitude": -81.465695,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1013 Front Ave SW",
+    "sg:city": "New Philadelphia",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 339 7154",
-    "sg:postcode":"44663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 339 7154",
+    "sg:postcode": "44663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6UoFHH6GpjBRzw3EaEY9eQ_40.490500_-81.465695@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6UoFHH6GpjBRzw3EaEY9eQ_40.490500_-81.465695@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784076,
-    "wof:geomhash":"6e8a33731f84e33eaa91f725fb759d4f",
-    "wof:hierarchy":[],
-    "wof:id":689881355,
-    "wof:lastmodified":1472639975,
-    "wof:name":"Silver Spoons Catering",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461784076,
+    "wof:geomhash": "540b441848d08d628ba9a08e8e4b24d9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689881355
+      }
+    ],
+    "wof:id": 689881355,
+    "wof:lastmodified": 1638567095,
+    "wof:name": "Silver Spoons Catering",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.465695,
     40.4905,
     -81.465695,
     40.4905
-],
+  ],
   "geometry": {"coordinates":[-81.465695,40.4905],"type":"Point"}
 }

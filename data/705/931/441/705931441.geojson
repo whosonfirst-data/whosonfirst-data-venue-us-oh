@@ -2,61 +2,65 @@
   "id": 705931441,
   "type": "Feature",
   "properties": {
-    "addr:full":"1425 E Main St Ottawa OH 45875",
-    "addr:housenumber":"1425",
-    "addr:postcode":"45875",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.03082,41.019469,-84.03082,41.019469",
-    "geom:latitude":41.019469,
-    "geom:longitude":-84.03082,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1425 E Main St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Auto Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1425 E Main St Ottawa OH 45875",
+    "addr:housenumber": "1425",
+    "addr:postcode": "45875",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.030820,41.019469,-84.030820,41.019469",
+    "geom:latitude": 41.019469,
+    "geom:longitude": -84.03082,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1425 E Main St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Auto Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 5694",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "used"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 5694",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "used"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5PRnqeBROhBD6MhtNrEt14_41.019469_-84.030820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5PRnqeBROhBD6MhtNrEt14_41.019469_-84.030820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792092,
-    "wof:geomhash":"5cbff22d175abbc37f35b07f2cac92da",
-    "wof:hierarchy":[],
-    "wof:id":705931441,
-    "wof:lastmodified":1472639673,
-    "wof:name":"Pittsenbarger Supply Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "used"
+    "wof:country": "US",
+    "wof:created": 1461792092,
+    "wof:geomhash": "19e095e1440ff972c831610bdaa7945c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705931441
+      }
+    ],
+    "wof:id": 705931441,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Pittsenbarger Supply Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "used"
     ]
-},
+  },
   "bbox": [
     -84.03082,
     41.019469,
     -84.03082,
     41.019469
-],
-  "geometry": {"coordinates":[-84.03082000000001,41.019469],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.03082,41.019469],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689839987,
   "type": "Feature",
   "properties": {
-    "addr:full":"13346 Ravenna Rd Chardon OH 44024",
-    "addr:housenumber":"13346",
-    "addr:postcode":"44024",
-    "addr:street":"Ravenna Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.193663,41.505928,-81.193663,41.505928",
-    "geom:latitude":41.505928,
-    "geom:longitude":-81.193663,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13346 Ravenna Rd",
-    "sg:city":"Chardon",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "13346 Ravenna Rd Chardon OH 44024",
+    "addr:housenumber": "13346",
+    "addr:postcode": "44024",
+    "addr:street": "Ravenna Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.193663,41.505928,-81.193663,41.505928",
+    "geom:latitude": 41.505928,
+    "geom:longitude": -81.193663,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13346 Ravenna Rd",
+    "sg:city": "Chardon",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 286 9433",
-    "sg:postcode":"44024",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 286 9433",
+    "sg:postcode": "44024",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3LucdhHEuhGF982MSR7vi6_41.505928_-81.193663@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3LucdhHEuhGF982MSR7vi6_41.505928_-81.193663@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783101,
-    "wof:geomhash":"961fcc4a9f20bc40e29e442844e57caa",
-    "wof:hierarchy":[],
-    "wof:id":689839987,
-    "wof:lastmodified":1472639930,
-    "wof:name":"David R Mandel MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461783101,
+    "wof:geomhash": "790e8a1a38d872ab536e03320bc22277",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689839987
+      }
+    ],
+    "wof:id": 689839987,
+    "wof:lastmodified": 1638567080,
+    "wof:name": "David R Mandel MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -81.193663,
     41.505928,
     -81.193663,
     41.505928
-],
+  ],
   "geometry": {"coordinates":[-81.193663,41.505928],"type":"Point"}
 }

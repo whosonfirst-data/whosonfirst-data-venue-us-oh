@@ -2,61 +2,65 @@
   "id": 706092209,
   "type": "Feature",
   "properties": {
-    "addr:full":"6100 Rockside Woods Blvd Cleveland OH 44131",
-    "addr:housenumber":"6100",
-    "addr:postcode":"44131",
-    "addr:street":"Rockside Woods Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.645622,41.399277,-81.645622,41.399277",
-    "geom:latitude":41.399277,
-    "geom:longitude":-81.645622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6100 Rockside Woods Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "6100 Rockside Woods Blvd Cleveland OH 44131",
+    "addr:housenumber": "6100",
+    "addr:postcode": "44131",
+    "addr:street": "Rockside Woods Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.645622,41.399277,-81.645622,41.399277",
+    "geom:latitude": 41.399277,
+    "geom:longitude": -81.645622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6100 Rockside Woods Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 706 4365",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "sg:tags":[
-        "secret"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 706 4365",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "sg:tags": [
+      "secret"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45FK6fgGyocjuaXpUwYyu6_41.399277_-81.645622@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_45FK6fgGyocjuaXpUwYyu6_41.399277_-81.645622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795616,
-    "wof:geomhash":"3d8b06c5a58738bb2be7692cc47aa947",
-    "wof:hierarchy":[],
-    "wof:id":706092209,
-    "wof:lastmodified":1472639219,
-    "wof:name":"Cleveland Field Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "secret"
+    "wof:country": "US",
+    "wof:created": 1461795616,
+    "wof:geomhash": "c83e9d2c9c7970301845cbb75556c491",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706092209
+      }
+    ],
+    "wof:id": 706092209,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "Cleveland Field Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "secret"
     ]
-},
+  },
   "bbox": [
     -81.645622,
     41.399277,
     -81.645622,
     41.399277
-],
+  ],
   "geometry": {"coordinates":[-81.645622,41.399277],"type":"Point"}
 }

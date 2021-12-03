@@ -2,65 +2,69 @@
   "id": 706182845,
   "type": "Feature",
   "properties": {
-    "addr:full":"2211 Mills St Sandusky OH 44870",
-    "addr:housenumber":"2211",
-    "addr:postcode":"44870",
-    "addr:street":"Mills St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.727255,41.434342,-82.727255,41.434342",
-    "geom:latitude":41.434342,
-    "geom:longitude":-82.727255,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2211 Mills St",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "2211 Mills St Sandusky OH 44870",
+    "addr:housenumber": "2211",
+    "addr:postcode": "44870",
+    "addr:street": "Mills St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.727255,41.434342,-82.727255,41.434342",
+    "geom:latitude": 41.434342,
+    "geom:longitude": -82.727255,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2211 Mills St",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 625 6800",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 625 6800",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"www.stpaulsandusky.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125149527,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3VwxJigbNwnKEptK05owdx_41.434342_-82.727255@1294180530"
+    "sg:website": "www.stpaulsandusky.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125149527,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3VwxJigbNwnKEptK05owdx_41.434342_-82.727255@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797694,
-    "wof:geomhash":"8488cd4c60bcffbe087d4bc89f0b1be1",
-    "wof:hierarchy":[],
-    "wof:id":706182845,
-    "wof:lastmodified":1510877575,
-    "wof:name":"St Paul Lutheran Church",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461797694,
+    "wof:geomhash": "8488cd4c60bcffbe087d4bc89f0b1be1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706182845
+      }
+    ],
+    "wof:id": 706182845,
+    "wof:lastmodified": 1638567033,
+    "wof:name": "St Paul Lutheran Church",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.727255,
     41.434342,
     -82.727255,
     41.434342
-],
+  ],
   "geometry": {"coordinates":[-82.727255,41.434342],"type":"Point"}
 }

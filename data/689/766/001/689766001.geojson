@@ -2,63 +2,67 @@
   "id": 689766001,
   "type": "Feature",
   "properties": {
-    "addr:full":"1908 Clark Ave Wellsville OH 43968",
-    "addr:housenumber":"1908",
-    "addr:postcode":"43968",
-    "addr:street":"Clark Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.664388,40.595869,-80.664388,40.595869",
-    "geom:latitude":40.595869,
-    "geom:longitude":-80.664388,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1908 Clark Ave",
-    "sg:city":"Wellsville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1908 Clark Ave Wellsville OH 43968",
+    "addr:housenumber": "1908",
+    "addr:postcode": "43968",
+    "addr:street": "Clark Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.664388,40.595869,-80.664388,40.595869",
+    "geom:latitude": 40.595869,
+    "geom:longitude": -80.664388,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1908 Clark Ave",
+    "sg:city": "Wellsville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 532 5545",
-    "sg:postcode":"43968",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 532 5545",
+    "sg:postcode": "43968",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WHKSc7P9KuLzJoydk6ZeB_40.595869_-80.664388@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0WHKSc7P9KuLzJoydk6ZeB_40.595869_-80.664388@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780926,
-    "wof:geomhash":"75c0291f7a2328fdd75d714e96ebf311",
-    "wof:hierarchy":[],
-    "wof:id":689766001,
-    "wof:lastmodified":1472639779,
-    "wof:name":"Bill's Service",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461780926,
+    "wof:geomhash": "e93c3b01f4272acc45158c939e492ffe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689766001
+      }
+    ],
+    "wof:id": 689766001,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Bill's Service",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -80.664388,
     40.595869,
     -80.664388,
     40.595869
-],
+  ],
   "geometry": {"coordinates":[-80.664388,40.595869],"type":"Point"}
 }

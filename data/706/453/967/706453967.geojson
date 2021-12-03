@@ -2,61 +2,65 @@
   "id": 706453967,
   "type": "Feature",
   "properties": {
-    "addr:full":"3738 Five Points Rd Jackson OH 45640",
-    "addr:housenumber":"3738",
-    "addr:postcode":"45640",
-    "addr:street":"Five Points Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.69063,39.000453,-82.69063,39.000453",
-    "geom:latitude":39.000453,
-    "geom:longitude":-82.69063,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3738 Five Points Rd",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3738 Five Points Rd Jackson OH 45640",
+    "addr:housenumber": "3738",
+    "addr:postcode": "45640",
+    "addr:street": "Five Points Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.690630,39.000453,-82.690630,39.000453",
+    "geom:latitude": 39.000453,
+    "geom:longitude": -82.69063,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3738 Five Points Rd",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 9954",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 9954",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0oRvwcnbFjl0MVSbiFdh6U_39.000453_-82.690630@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0oRvwcnbFjl0MVSbiFdh6U_39.000453_-82.690630@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803526,
-    "wof:geomhash":"f3e19b4542b953e487c7023e152a9c6d",
-    "wof:hierarchy":[],
-    "wof:id":706453967,
-    "wof:lastmodified":1472640058,
-    "wof:name":"Five Points PH Church",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461803526,
+    "wof:geomhash": "287e579f17f8a861fe56192226c3824b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706453967
+      }
+    ],
+    "wof:id": 706453967,
+    "wof:lastmodified": 1638567128,
+    "wof:name": "Five Points PH Church",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.69063,
     39.000453,
     -82.69063,
     39.000453
-],
+  ],
   "geometry": {"coordinates":[-82.69063,39.000453],"type":"Point"}
 }

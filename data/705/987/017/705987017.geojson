@@ -2,61 +2,65 @@
   "id": 705987017,
   "type": "Feature",
   "properties": {
-    "addr:full":"104 N Market St Troy OH 45373",
-    "addr:housenumber":"104",
-    "addr:postcode":"45373",
-    "addr:street":"N Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.20265,40.040691,-84.20265,40.040691",
-    "geom:latitude":40.040691,
-    "geom:longitude":-84.20265,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"104 N Market St",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "104 N Market St Troy OH 45373",
+    "addr:housenumber": "104",
+    "addr:postcode": "45373",
+    "addr:street": "N Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.202650,40.040691,-84.202650,40.040691",
+    "geom:latitude": 40.040691,
+    "geom:longitude": -84.20265,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "104 N Market St",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 339 7920",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 339 7920",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2lrQflrMd3OTxrlQ5ZnSap_40.040691_-84.202650@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2lrQflrMd3OTxrlQ5ZnSap_40.040691_-84.202650@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793314,
-    "wof:geomhash":"e72d5d02ee36a310ce34934122952e9b",
-    "wof:hierarchy":[],
-    "wof:id":705987017,
-    "wof:lastmodified":1472639773,
-    "wof:name":"Miami Valley Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461793314,
+    "wof:geomhash": "d084a10fcfc38cfdfb7f9b7a5d6d968a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705987017
+      }
+    ],
+    "wof:id": 705987017,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Miami Valley Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -84.20265,
     40.040691,
     -84.20265,
     40.040691
-],
-  "geometry": {"coordinates":[-84.20265000000001,40.040691],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.20265,40.040691],"type":"Point"}
 }

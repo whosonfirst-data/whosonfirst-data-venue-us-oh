@@ -2,70 +2,74 @@
   "id": 689676037,
   "type": "Feature",
   "properties": {
-    "addr:full":"13001 Abbey Rd Cleveland OH 44133",
-    "addr:housenumber":"13001",
-    "addr:postcode":"44133",
-    "addr:street":"Abbey Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.774952,41.32469,-81.774952,41.32469",
-    "geom:latitude":41.32469,
-    "geom:longitude":-81.774952,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13001 Abbey Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        },
-        {
-            "category":"Manufacturing",
-            "subcategory":"Motor Vehicles & Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "13001 Abbey Rd Cleveland OH 44133",
+    "addr:housenumber": "13001",
+    "addr:postcode": "44133",
+    "addr:street": "Abbey Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.774952,41.324690,-81.774952,41.324690",
+    "geom:latitude": 41.32469,
+    "geom:longitude": -81.774952,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13001 Abbey Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      },
+      {
+        "category": "Manufacturing",
+        "subcategory": "Motor Vehicles \u0026 Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 582 0240",
-    "sg:postcode":"44133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "body",
-        "mfg",
-        "welding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 582 0240",
+    "sg:postcode": "44133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "body",
+      "mfg",
+      "welding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3AoNfXJ8wF7fozS7r2Z5cV_41.324690_-81.774952@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3AoNfXJ8wF7fozS7r2Z5cV_41.324690_-81.774952@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778534,
-    "wof:geomhash":"87ab40a715e871d7f22b0f4bb8613c43",
-    "wof:hierarchy":[],
-    "wof:id":689676037,
-    "wof:lastmodified":1472639599,
-    "wof:name":"Frame Oddities",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "mfg",
-        "welding"
+    "wof:country": "US",
+    "wof:created": 1461778534,
+    "wof:geomhash": "6eee83b71b96472ea67f9da1c8bd0a5c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689676037
+      }
+    ],
+    "wof:id": 689676037,
+    "wof:lastmodified": 1638567014,
+    "wof:name": "Frame Oddities",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "mfg",
+      "welding"
     ]
-},
+  },
   "bbox": [
     -81.774952,
     41.32469,
     -81.774952,
     41.32469
-],
+  ],
   "geometry": {"coordinates":[-81.774952,41.32469],"type":"Point"}
 }

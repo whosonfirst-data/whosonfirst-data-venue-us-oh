@@ -2,63 +2,67 @@
   "id": 706342935,
   "type": "Feature",
   "properties": {
-    "addr:full":"4860 E Main St Berlin OH 44654",
-    "addr:housenumber":"4860",
-    "addr:postcode":"44654",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.796785,40.561591,-81.796785,40.561591",
-    "geom:latitude":40.561591,
-    "geom:longitude":-81.796785,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4860 E Main St",
-    "sg:city":"Berlin",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4860 E Main St Berlin OH 44654",
+    "addr:housenumber": "4860",
+    "addr:postcode": "44654",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.796785,40.561591,-81.796785,40.561591",
+    "geom:latitude": 40.561591,
+    "geom:longitude": -81.796785,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4860 E Main St",
+    "sg:city": "Berlin",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 893 9211",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 893 9211",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Pd3rnwDlmz9cmJXfU782q_40.561591_-81.796785@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Pd3rnwDlmz9cmJXfU782q_40.561591_-81.796785@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801263,
-    "wof:geomhash":"25c6dc8d115efdaaf398e0441ed26a29",
-    "wof:hierarchy":[],
-    "wof:id":706342935,
-    "wof:lastmodified":1472639864,
-    "wof:name":"Java Jo Coffee Bar",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:country": "US",
+    "wof:created": 1461801263,
+    "wof:geomhash": "b6baec87e5ad319e57d2f442308f65cf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706342935
+      }
+    ],
+    "wof:id": 706342935,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Java Jo Coffee Bar",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -81.796785,
     40.561591,
     -81.796785,
     40.561591
-],
+  ],
   "geometry": {"coordinates":[-81.796785,40.561591],"type":"Point"}
 }

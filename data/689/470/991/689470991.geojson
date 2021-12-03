@@ -2,61 +2,65 @@
   "id": 689470991,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 S Jefferson St Pandora OH 45875",
-    "addr:housenumber":"102",
-    "addr:postcode":"45875",
-    "addr:street":"S Jefferson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.962083,40.94815,-83.962083,40.94815",
-    "geom:latitude":40.94815,
-    "geom:longitude":-83.962083,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 S Jefferson St",
-    "sg:city":"Pandora",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "102 S Jefferson St Pandora OH 45875",
+    "addr:housenumber": "102",
+    "addr:postcode": "45875",
+    "addr:street": "S Jefferson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.962083,40.948150,-83.962083,40.948150",
+    "geom:latitude": 40.94815,
+    "geom:longitude": -83.962083,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 S Jefferson St",
+    "sg:city": "Pandora",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 384 3750",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 384 3750",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ThgX0uaH37rm9nQuc84ck_40.948150_-83.962083@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ThgX0uaH37rm9nQuc84ck_40.948150_-83.962083@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772244,
-    "wof:geomhash":"f0f1d652ee6f2f84fbc9fa4bd84ee638",
-    "wof:hierarchy":[],
-    "wof:id":689470991,
-    "wof:lastmodified":1472638357,
-    "wof:name":"Pandora Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461772244,
+    "wof:geomhash": "2dd78896e7369e58af0e6b87bd10714b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689470991
+      }
+    ],
+    "wof:id": 689470991,
+    "wof:lastmodified": 1638566917,
+    "wof:name": "Pandora Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.962083,
     40.94815,
     -83.962083,
     40.94815
-],
-  "geometry": {"coordinates":[-83.96208300000001,40.94815],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.962083,40.94815],"type":"Point"}
 }

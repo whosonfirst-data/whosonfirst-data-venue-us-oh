@@ -2,63 +2,67 @@
   "id": 706029517,
   "type": "Feature",
   "properties": {
-    "addr:full":"223 Main St Zanesville OH 43701",
-    "addr:housenumber":"223",
-    "addr:postcode":"43701",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.010041,39.940315,-82.010041,39.940315",
-    "geom:latitude":39.940315,
-    "geom:longitude":-82.010041,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"223 Main St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "223 Main St Zanesville OH 43701",
+    "addr:housenumber": "223",
+    "addr:postcode": "43701",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.010041,39.940315,-82.010041,39.940315",
+    "geom:latitude": 39.940315,
+    "geom:longitude": -82.010041,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "223 Main St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 6554",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 6554",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_69OpW6Jf7i0zrNfIqhB2yF_39.940315_-82.010041@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_69OpW6Jf7i0zrNfIqhB2yF_39.940315_-82.010041@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794199,
-    "wof:geomhash":"1356b3e420ecf5b43a707ecca3d60db9",
-    "wof:hierarchy":[],
-    "wof:id":706029517,
-    "wof:lastmodified":1472638773,
-    "wof:name":"Rheumatology Consultants",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461794199,
+    "wof:geomhash": "4c83965d34bd2d62858f7aa26279b9c0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706029517
+      }
+    ],
+    "wof:id": 706029517,
+    "wof:lastmodified": 1638566952,
+    "wof:name": "Rheumatology Consultants",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.010041,
     39.940315,
     -82.010041,
     39.940315
-],
+  ],
   "geometry": {"coordinates":[-82.010041,39.940315],"type":"Point"}
 }

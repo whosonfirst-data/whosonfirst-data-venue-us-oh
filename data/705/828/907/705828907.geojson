@@ -2,61 +2,65 @@
   "id": 705828907,
   "type": "Feature",
   "properties": {
-    "addr:full":"317 W Boesel Ave New Bremen OH 45869",
-    "addr:housenumber":"317",
-    "addr:postcode":"45869",
-    "addr:street":"W Boesel Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.383511,40.444175,-84.383511,40.444175",
-    "geom:latitude":40.444175,
-    "geom:longitude":-84.383511,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"317 W Boesel Ave",
-    "sg:city":"New Bremen",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "317 W Boesel Ave New Bremen OH 45869",
+    "addr:housenumber": "317",
+    "addr:postcode": "45869",
+    "addr:street": "W Boesel Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.383511,40.444175,-84.383511,40.444175",
+    "geom:latitude": 40.444175,
+    "geom:longitude": -84.383511,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "317 W Boesel Ave",
+    "sg:city": "New Bremen",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 629 0211",
-    "sg:postcode":"45869",
-    "sg:province":"OH",
-    "sg:tags":[
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 629 0211",
+    "sg:postcode": "45869",
+    "sg:province": "OH",
+    "sg:tags": [
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1sBQNZxHyXap20Fb9lZuF4_40.444175_-84.383511@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1sBQNZxHyXap20Fb9lZuF4_40.444175_-84.383511@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789702,
-    "wof:geomhash":"abd75a831634e8b49f0788c92ed54a10",
-    "wof:hierarchy":[],
-    "wof:id":705828907,
-    "wof:lastmodified":1472639378,
-    "wof:name":"Petermann Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "line"
+    "wof:country": "US",
+    "wof:created": 1461789702,
+    "wof:geomhash": "7a012ef01c22d365ad5cf8f140d59ce4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705828907
+      }
+    ],
+    "wof:id": 705828907,
+    "wof:lastmodified": 1638567005,
+    "wof:name": "Petermann Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "line"
     ]
-},
+  },
   "bbox": [
     -84.383511,
     40.444175,
     -84.383511,
     40.444175
-],
+  ],
   "geometry": {"coordinates":[-84.383511,40.444175],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705978979,
   "type": "Feature",
   "properties": {
-    "addr:full":"7058 Corporate Way Dayton OH 45459",
-    "addr:housenumber":"7058",
-    "addr:postcode":"45459",
-    "addr:street":"Corporate Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.159819,39.643695,-84.159819,39.643695",
-    "geom:latitude":39.643695,
-    "geom:longitude":-84.159819,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7058 Corporate Way",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "7058 Corporate Way Dayton OH 45459",
+    "addr:housenumber": "7058",
+    "addr:postcode": "45459",
+    "addr:street": "Corporate Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.159819,39.643695,-84.159819,39.643695",
+    "geom:latitude": 39.643695,
+    "geom:longitude": -84.159819,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7058 Corporate Way",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 433 8303",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 433 8303",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1pnWwQaLhzyX3vtMtfPAtb_39.643695_-84.159819@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1pnWwQaLhzyX3vtMtfPAtb_39.643695_-84.159819@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793145,
-    "wof:geomhash":"5074852f947c10c3410b37a885959fd8",
-    "wof:hierarchy":[],
-    "wof:id":705978979,
-    "wof:lastmodified":1472639792,
-    "wof:name":"Centerville Dental Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461793145,
+    "wof:geomhash": "63c19b6892827ca47abacc079d7f6775",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705978979
+      }
+    ],
+    "wof:id": 705978979,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Centerville Dental Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.159819,
     39.643695,
     -84.159819,
     39.643695
-],
+  ],
   "geometry": {"coordinates":[-84.159819,39.643695],"type":"Point"}
 }

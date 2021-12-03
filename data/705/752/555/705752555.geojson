@@ -2,61 +2,65 @@
   "id": 705752555,
   "type": "Feature",
   "properties": {
-    "addr:full":"1315 Blue Ave Zanesville OH 43701",
-    "addr:housenumber":"1315",
-    "addr:postcode":"43701",
-    "addr:street":"Blue Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.016702,39.961902,-82.016702,39.961902",
-    "geom:latitude":39.961902,
-    "geom:longitude":-82.016702,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1315 Blue Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "1315 Blue Ave Zanesville OH 43701",
+    "addr:housenumber": "1315",
+    "addr:postcode": "43701",
+    "addr:street": "Blue Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.016702,39.961902,-82.016702,39.961902",
+    "geom:latitude": 39.961902,
+    "geom:longitude": -82.016702,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1315 Blue Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 588 6299",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "handyman"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 588 6299",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "handyman"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ugm6RfiWFPoG0U60V4L9W_39.961902_-82.016702@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ugm6RfiWFPoG0U60V4L9W_39.961902_-82.016702@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787916,
-    "wof:geomhash":"12137877c08926b7978d9e75d39032ad",
-    "wof:hierarchy":[],
-    "wof:id":705752555,
-    "wof:lastmodified":1472639178,
-    "wof:name":"Max Winland",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "handyman"
+    "wof:country": "US",
+    "wof:created": 1461787916,
+    "wof:geomhash": "f405372788f8c2ad3790e05715f2ac3b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705752555
+      }
+    ],
+    "wof:id": 705752555,
+    "wof:lastmodified": 1638566966,
+    "wof:name": "Max Winland",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "handyman"
     ]
-},
+  },
   "bbox": [
     -82.016702,
     39.961902,
     -82.016702,
     39.961902
-],
+  ],
   "geometry": {"coordinates":[-82.016702,39.961902],"type":"Point"}
 }

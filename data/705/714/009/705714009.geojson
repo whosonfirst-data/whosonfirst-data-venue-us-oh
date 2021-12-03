@@ -2,61 +2,65 @@
   "id": 705714009,
   "type": "Feature",
   "properties": {
-    "addr:full":"563 Blaine Ave Marion OH 43302",
-    "addr:housenumber":"563",
-    "addr:postcode":"43302",
-    "addr:street":"Blaine Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.136622,40.579161,-83.136622,40.579161",
-    "geom:latitude":40.579161,
-    "geom:longitude":-83.136622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"563 Blaine Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "563 Blaine Ave Marion OH 43302",
+    "addr:housenumber": "563",
+    "addr:postcode": "43302",
+    "addr:street": "Blaine Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.136622,40.579161,-83.136622,40.579161",
+    "geom:latitude": 40.579161,
+    "geom:longitude": -83.136622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "563 Blaine Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 382 9561",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 382 9561",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7VhNBjCDJEdtJlGQxAoXd9_40.579161_-83.136622@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7VhNBjCDJEdtJlGQxAoXd9_40.579161_-83.136622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787012,
-    "wof:geomhash":"63a8fc24290c718510ec85622ad90f18",
-    "wof:hierarchy":[],
-    "wof:id":705714009,
-    "wof:lastmodified":1472638408,
-    "wof:name":"A C Home Improvement",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461787012,
+    "wof:geomhash": "851993c41870a7d7544f946c49f65587",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705714009
+      }
+    ],
+    "wof:id": 705714009,
+    "wof:lastmodified": 1638566930,
+    "wof:name": "A C Home Improvement",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.136622,
     40.579161,
     -83.136622,
     40.579161
-],
+  ],
   "geometry": {"coordinates":[-83.136622,40.579161],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706065427,
   "type": "Feature",
   "properties": {
-    "addr:full":"921 E Franklin St Kenton OH 43326",
-    "addr:housenumber":"921",
-    "addr:postcode":"43326",
-    "addr:street":"E Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.595859,40.645638,-83.595859,40.645638",
-    "geom:latitude":40.645638,
-    "geom:longitude":-83.595859,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"921 E Franklin St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "921 E Franklin St Kenton OH 43326",
+    "addr:housenumber": "921",
+    "addr:postcode": "43326",
+    "addr:street": "E Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.595859,40.645638,-83.595859,40.645638",
+    "geom:latitude": 40.645638,
+    "geom:longitude": -83.595859,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "921 E Franklin St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 675 8101",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 675 8101",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3zbDJ9qHYmGVLfSIChPu8g_40.645638_-83.595859@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3zbDJ9qHYmGVLfSIChPu8g_40.645638_-83.595859@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794927,
-    "wof:geomhash":"62efdb37053749d9d8298004e7cb530b",
-    "wof:hierarchy":[],
-    "wof:id":706065427,
-    "wof:lastmodified":1472639153,
-    "wof:name":"Ralph G Rohner Jr MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461794927,
+    "wof:geomhash": "694083864c7080440065f40fe0110dee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706065427
+      }
+    ],
+    "wof:id": 706065427,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Ralph G Rohner Jr MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.595859,
     40.645638,
     -83.595859,
     40.645638
-],
+  ],
   "geometry": {"coordinates":[-83.595859,40.645638],"type":"Point"}
 }

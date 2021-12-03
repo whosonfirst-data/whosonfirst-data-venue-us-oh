@@ -2,61 +2,65 @@
   "id": 705800319,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 S Miami St West Milton OH 45383",
-    "addr:housenumber":"12",
-    "addr:postcode":"45383",
-    "addr:street":"S Miami St West",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.327709,39.962409,-84.327709,39.962409",
-    "geom:latitude":39.962409,
-    "geom:longitude":-84.327709,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12 S Miami St",
-    "sg:city":"West Milton",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "12 S Miami St West Milton OH 45383",
+    "addr:housenumber": "12",
+    "addr:postcode": "45383",
+    "addr:street": "S Miami St West",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.327709,39.962409,-84.327709,39.962409",
+    "geom:latitude": 39.962409,
+    "geom:longitude": -84.327709,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12 S Miami St",
+    "sg:city": "West Milton",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 698 4823",
-    "sg:postcode":"45383",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 698 4823",
+    "sg:postcode": "45383",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6SI6I3uzPGMS09MjbgpJpV_39.962409_-84.327709@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6SI6I3uzPGMS09MjbgpJpV_39.962409_-84.327709@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789024,
-    "wof:geomhash":"9b76f2dc96bbe6af370208c4de3aa05f",
-    "wof:hierarchy":[],
-    "wof:id":705800319,
-    "wof:lastmodified":1472639275,
-    "wof:name":"P V P Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461789024,
+    "wof:geomhash": "221264e12a2ec9b9d8559d36351e6386",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705800319
+      }
+    ],
+    "wof:id": 705800319,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "P V P Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general"
     ]
-},
+  },
   "bbox": [
     -84.327709,
     39.962409,
     -84.327709,
     39.962409
-],
+  ],
   "geometry": {"coordinates":[-84.327709,39.962409],"type":"Point"}
 }

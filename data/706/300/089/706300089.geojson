@@ -2,61 +2,65 @@
   "id": 706300089,
   "type": "Feature",
   "properties": {
-    "addr:full":"10316 Brosius Rd Garrettsville OH 44231",
-    "addr:housenumber":"10316",
-    "addr:postcode":"44231",
-    "addr:street":"Brosius Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.079528,41.272948,-81.079528,41.272948",
-    "geom:latitude":41.272948,
-    "geom:longitude":-81.079528,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10316 Brosius Rd",
-    "sg:city":"Garrettsville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "10316 Brosius Rd Garrettsville OH 44231",
+    "addr:housenumber": "10316",
+    "addr:postcode": "44231",
+    "addr:street": "Brosius Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.079528,41.272948,-81.079528,41.272948",
+    "geom:latitude": 41.272948,
+    "geom:longitude": -81.079528,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10316 Brosius Rd",
+    "sg:city": "Garrettsville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 527 4402",
-    "sg:postcode":"44231",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 527 4402",
+    "sg:postcode": "44231",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IznEAsw2tSinqa0k7Xqey_41.272948_-81.079528@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5IznEAsw2tSinqa0k7Xqey_41.272948_-81.079528@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800297,
-    "wof:geomhash":"365c4e9f71f2874500d9e010a03dd1fc",
-    "wof:hierarchy":[],
-    "wof:id":706300089,
-    "wof:lastmodified":1472639719,
-    "wof:name":"Village Motors",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1461800297,
+    "wof:geomhash": "e65c613d51c55ef289c9f32298d0284d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706300089
+      }
+    ],
+    "wof:id": 706300089,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Village Motors",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -81.079528,
     41.272948,
     -81.079528,
     41.272948
-],
+  ],
   "geometry": {"coordinates":[-81.079528,41.272948],"type":"Point"}
 }

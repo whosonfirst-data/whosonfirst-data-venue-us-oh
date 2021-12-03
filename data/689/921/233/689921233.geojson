@@ -2,61 +2,65 @@
   "id": 689921233,
   "type": "Feature",
   "properties": {
-    "addr:full":"8602 Bancroft Ave Cleveland OH 44105",
-    "addr:housenumber":"8602",
-    "addr:postcode":"44105",
-    "addr:street":"Bancroft Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.619486,41.43512,-81.619486,41.43512",
-    "geom:latitude":41.43512,
-    "geom:longitude":-81.619486,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8602 Bancroft Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8602 Bancroft Ave Cleveland OH 44105",
+    "addr:housenumber": "8602",
+    "addr:postcode": "44105",
+    "addr:street": "Bancroft Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.619486,41.435120,-81.619486,41.435120",
+    "geom:latitude": 41.43512,
+    "geom:longitude": -81.619486,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8602 Bancroft Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 429 0440",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 429 0440",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0uxMLaYrN67K388W5HkA2O_41.435120_-81.619486@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0uxMLaYrN67K388W5HkA2O_41.435120_-81.619486@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785149,
-    "wof:geomhash":"28135627231dac8c9a36469eb3f0c920",
-    "wof:hierarchy":[],
-    "wof:id":689921233,
-    "wof:lastmodified":1472640070,
-    "wof:name":"Big Dipper",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461785149,
+    "wof:geomhash": "b3981dbb7f2d31f7d9453f1b38f668c2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689921233
+      }
+    ],
+    "wof:id": 689921233,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Big Dipper",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.619486,
     41.43512,
     -81.619486,
     41.43512
-],
-  "geometry": {"coordinates":[-81.61948599999999,41.43512],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.619486,41.43512],"type":"Point"}
 }

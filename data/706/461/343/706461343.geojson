@@ -2,61 +2,65 @@
   "id": 706461343,
   "type": "Feature",
   "properties": {
-    "addr:full":"950 Bethesda Dr Zanesville OH 43701",
-    "addr:housenumber":"950",
-    "addr:postcode":"43701",
-    "addr:street":"Bethesda Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.01699,39.973254,-82.01699,39.973254",
-    "geom:latitude":39.973254,
-    "geom:longitude":-82.01699,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"950 Bethesda Dr",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "950 Bethesda Dr Zanesville OH 43701",
+    "addr:housenumber": "950",
+    "addr:postcode": "43701",
+    "addr:street": "Bethesda Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.016990,39.973254,-82.016990,39.973254",
+    "geom:latitude": 39.973254,
+    "geom:longitude": -82.01699,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "950 Bethesda Dr",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 9178",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 9178",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5rP2GTwXb16LTlaz9h5XqU_39.973254_-82.016990@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5rP2GTwXb16LTlaz9h5XqU_39.973254_-82.016990@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803668,
-    "wof:geomhash":"055965e2da7a046d8660085f9e11b79e",
-    "wof:hierarchy":[],
-    "wof:id":706461343,
-    "wof:lastmodified":1472640043,
-    "wof:name":"David Grosshandler Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461803668,
+    "wof:geomhash": "6271a0f29544e35d4698f8fb6d73ba7b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706461343
+      }
+    ],
+    "wof:id": 706461343,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "David Grosshandler Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.01699,
     39.973254,
     -82.01699,
     39.973254
-],
-  "geometry": {"coordinates":[-82.01699000000001,39.973254],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.01699,39.973254],"type":"Point"}
 }

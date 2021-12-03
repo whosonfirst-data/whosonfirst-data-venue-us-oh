@@ -2,65 +2,69 @@
   "id": 705844709,
   "type": "Feature",
   "properties": {
-    "addr:full":"271 Valleyview Dr Wadsworth OH 44281",
-    "addr:housenumber":"271",
-    "addr:postcode":"44281",
-    "addr:street":"Valleyview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.736113,41.041251,-81.736113,41.041251",
-    "geom:latitude":41.041251,
-    "geom:longitude":-81.736113,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"271 Valleyview Dr",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "271 Valleyview Dr Wadsworth OH 44281",
+    "addr:housenumber": "271",
+    "addr:postcode": "44281",
+    "addr:street": "Valleyview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.736113,41.041251,-81.736113,41.041251",
+    "geom:latitude": 41.041251,
+    "geom:longitude": -81.736113,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "271 Valleyview Dr",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 334 7980",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 334 7980",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4PjfFZdwmOiO4e8liHIQ8T_41.041251_-81.736113@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4PjfFZdwmOiO4e8liHIQ8T_41.041251_-81.736113@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790063,
-    "wof:geomhash":"f9109d0bd930265fa7100f7b6612fd31",
-    "wof:hierarchy":[],
-    "wof:id":705844709,
-    "wof:lastmodified":1472639405,
-    "wof:name":"A M Moves",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461790063,
+    "wof:geomhash": "d800ec5a7a1d91dc0f00174a1dac0260",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705844709
+      }
+    ],
+    "wof:id": 705844709,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "A M Moves",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.736113,
     41.041251,
     -81.736113,
     41.041251
-],
+  ],
   "geometry": {"coordinates":[-81.736113,41.041251],"type":"Point"}
 }

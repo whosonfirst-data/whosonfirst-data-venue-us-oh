@@ -2,61 +2,65 @@
   "id": 706642395,
   "type": "Feature",
   "properties": {
-    "addr:full":"8240 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"8240",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.32626,39.073178,-84.32626,39.073178",
-    "geom:latitude":39.073178,
-    "geom:longitude":-84.32626,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8240 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "8240 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "8240",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.326260,39.073178,-84.326260,39.073178",
+    "geom:latitude": 39.073178,
+    "geom:longitude": -84.32626,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8240 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 8381",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 8381",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0d4CUppk5gZWx4Pbda8yxi_39.073178_-84.326260@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0d4CUppk5gZWx4Pbda8yxi_39.073178_-84.326260@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807626,
-    "wof:geomhash":"94663a015e39ef9342e2ba38905076e8",
-    "wof:hierarchy":[],
-    "wof:id":706642395,
-    "wof:lastmodified":1472640254,
-    "wof:name":"House Vets For House Pets",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461807626,
+    "wof:geomhash": "216ebfe716caabb1943f79928e0297ef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642395
+      }
+    ],
+    "wof:id": 706642395,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "House Vets For House Pets",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.32626,
     39.073178,
     -84.32626,
     39.073178
-],
+  ],
   "geometry": {"coordinates":[-84.32626,39.073178],"type":"Point"}
 }

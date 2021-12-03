@@ -2,61 +2,65 @@
   "id": 706612727,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 S Main St Creston OH 44217",
-    "addr:housenumber":"105",
-    "addr:postcode":"44217",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.894203,40.985298,-81.894203,40.985298",
-    "geom:latitude":40.985298,
-    "geom:longitude":-81.894203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 S Main St",
-    "sg:city":"Creston",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Storage",
-            "type":"Services"
-        }
+    "addr:full": "105 S Main St Creston OH 44217",
+    "addr:housenumber": "105",
+    "addr:postcode": "44217",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.894203,40.985298,-81.894203,40.985298",
+    "geom:latitude": 40.985298,
+    "geom:longitude": -81.894203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 S Main St",
+    "sg:city": "Creston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Storage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 435 5500",
-    "sg:postcode":"44217",
-    "sg:province":"OH",
-    "sg:tags":[
-        "self"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 435 5500",
+    "sg:postcode": "44217",
+    "sg:province": "OH",
+    "sg:tags": [
+      "self"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4BXNOPa9tWqdj5q3Ijkp1T_40.985298_-81.894203@1303262755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4BXNOPa9tWqdj5q3Ijkp1T_40.985298_-81.894203@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806980,
-    "wof:geomhash":"b53f7e39e85e5f4244768d825ab967b6",
-    "wof:hierarchy":[],
-    "wof:id":706612727,
-    "wof:lastmodified":1472640235,
-    "wof:name":"North Central Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "self"
+    "wof:country": "US",
+    "wof:created": 1461806980,
+    "wof:geomhash": "a504035df8276964c863144398905166",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706612727
+      }
+    ],
+    "wof:id": 706612727,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "North Central Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "self"
     ]
-},
+  },
   "bbox": [
     -81.894203,
     40.985298,
     -81.894203,
     40.985298
-],
+  ],
   "geometry": {"coordinates":[-81.894203,40.985298],"type":"Point"}
 }

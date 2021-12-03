@@ -2,63 +2,67 @@
   "id": 705764327,
   "type": "Feature",
   "properties": {
-    "addr:full":"234 York St Bellevue OH 44811",
-    "addr:housenumber":"234",
-    "addr:postcode":"44811",
-    "addr:street":"York St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.842979,41.271247,-82.842979,41.271247",
-    "geom:latitude":41.271247,
-    "geom:longitude":-82.842979,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"234 York St",
-    "sg:city":"Bellevue",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "234 York St Bellevue OH 44811",
+    "addr:housenumber": "234",
+    "addr:postcode": "44811",
+    "addr:street": "York St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.842979,41.271247,-82.842979,41.271247",
+    "geom:latitude": 41.271247,
+    "geom:longitude": -82.842979,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "234 York St",
+    "sg:city": "Bellevue",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 483 3495",
-    "sg:postcode":"44811",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 483 3495",
+    "sg:postcode": "44811",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0gyIzGL48MPwCfogGw5Aoi_41.271247_-82.842979@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0gyIzGL48MPwCfogGw5Aoi_41.271247_-82.842979@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788186,
-    "wof:geomhash":"70f92b6f39d5062b57e933f20d704e97",
-    "wof:hierarchy":[],
-    "wof:id":705764327,
-    "wof:lastmodified":1472639214,
-    "wof:name":"Country Spring Farmers Co-Op",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461788186,
+    "wof:geomhash": "c21d9c525fb7a62299681cfbf677d12b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705764327
+      }
+    ],
+    "wof:id": 705764327,
+    "wof:lastmodified": 1638566974,
+    "wof:name": "Country Spring Farmers Co-Op",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -82.842979,
     41.271247,
     -82.842979,
     41.271247
-],
+  ],
   "geometry": {"coordinates":[-82.842979,41.271247],"type":"Point"}
 }

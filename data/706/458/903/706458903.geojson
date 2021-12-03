@@ -2,61 +2,65 @@
   "id": 706458903,
   "type": "Feature",
   "properties": {
-    "addr:full":"1371 N Defiance St Ottawa OH 45875",
-    "addr:housenumber":"1371",
-    "addr:postcode":"45875",
-    "addr:street":"N Defiance St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.05096,41.030695,-84.05096,41.030695",
-    "geom:latitude":41.030695,
-    "geom:longitude":-84.05096,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1371 N Defiance St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1371 N Defiance St Ottawa OH 45875",
+    "addr:housenumber": "1371",
+    "addr:postcode": "45875",
+    "addr:street": "N Defiance St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.050960,41.030695,-84.050960,41.030695",
+    "geom:latitude": 41.030695,
+    "geom:longitude": -84.05096,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1371 N Defiance St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 0020",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 0020",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6eXF3ge5QzutPjxr2hXh2J_41.030695_-84.050960@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6eXF3ge5QzutPjxr2hXh2J_41.030695_-84.050960@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803622,
-    "wof:geomhash":"dd9607308fb3905268f0a8d3ad495817",
-    "wof:hierarchy":[],
-    "wof:id":706458903,
-    "wof:lastmodified":1472640056,
-    "wof:name":"Ottawa Sewage Disposal",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461803622,
+    "wof:geomhash": "53099ca7d82bc92b4f5c97fa2a766555",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706458903
+      }
+    ],
+    "wof:id": 706458903,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Ottawa Sewage Disposal",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.05096,
     41.030695,
     -84.05096,
     41.030695
-],
+  ],
   "geometry": {"coordinates":[-84.05096,41.030695],"type":"Point"}
 }

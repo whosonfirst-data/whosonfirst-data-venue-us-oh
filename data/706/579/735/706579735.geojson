@@ -2,66 +2,70 @@
   "id": 706579735,
   "type": "Feature",
   "properties": {
-    "addr:full":"1638 Maysville Ave Zanesville OH 43701",
-    "addr:housenumber":"1638",
-    "addr:postcode":"43701",
-    "addr:street":"Maysville Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.013678,39.915259,-82.013678,39.915259",
-    "geom:latitude":39.915259,
-    "geom:longitude":-82.013678,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1638 Maysville Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1638 Maysville Ave Zanesville OH 43701",
+    "addr:housenumber": "1638",
+    "addr:postcode": "43701",
+    "addr:street": "Maysville Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.013678,39.915259,-82.013678,39.915259",
+    "geom:latitude": 39.915259,
+    "geom:longitude": -82.013678,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1638 Maysville Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/zanesville/194986-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/zanesville/194986-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6EIsaUgc0UfFPxMIrMHJnC_39.915405_-82.013431@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6EIsaUgc0UfFPxMIrMHJnC_39.915405_-82.013431@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806311,
-    "wof:geomhash":"7fd6e316d4402b40ada99868bd50aefb",
-    "wof:hierarchy":[],
-    "wof:id":706579735,
-    "wof:lastmodified":1512142993,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806311,
+    "wof:geomhash": "7fd6e316d4402b40ada99868bd50aefb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706579735
+      }
+    ],
+    "wof:id": 706579735,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.013678,
     39.915259,
     -82.013678,
     39.915259
-],
+  ],
   "geometry": {"coordinates":[-82.013678,39.915259],"type":"Point"}
 }

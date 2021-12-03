@@ -2,61 +2,65 @@
   "id": 706433269,
   "type": "Feature",
   "properties": {
-    "addr:full":"1909 W Main St Louisville OH 44641",
-    "addr:housenumber":"1909",
-    "addr:postcode":"44641",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.278903,40.835121,-81.278903,40.835121",
-    "geom:latitude":40.835121,
-    "geom:longitude":-81.278903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1909 W Main St",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1909 W Main St Louisville OH 44641",
+    "addr:housenumber": "1909",
+    "addr:postcode": "44641",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.278903,40.835121,-81.278903,40.835121",
+    "geom:latitude": 40.835121,
+    "geom:longitude": -81.278903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1909 W Main St",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 875 8020",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 875 8020",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Diptv5LOo4PF3i6piQ7S7_40.835121_-81.278903@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Diptv5LOo4PF3i6piQ7S7_40.835121_-81.278903@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803041,
-    "wof:geomhash":"19f8badee2ce74fb38695bf8bac06ca7",
-    "wof:hierarchy":[],
-    "wof:id":706433269,
-    "wof:lastmodified":1472640011,
-    "wof:name":"Mikes Place",
-    "wof:parent_id":420535239,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461803041,
+    "wof:geomhash": "c3192937d943229d4eb77cf76255fd51",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706433269
+      }
+    ],
+    "wof:id": 706433269,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Mikes Place",
+    "wof:parent_id": 420535239,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.278903,
     40.835121,
     -81.278903,
     40.835121
-],
+  ],
   "geometry": {"coordinates":[-81.278903,40.835121],"type":"Point"}
 }

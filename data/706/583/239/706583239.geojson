@@ -2,66 +2,70 @@
   "id": 706583239,
   "type": "Feature",
   "properties": {
-    "addr:full":"670 Stewart Rd N Mansfield OH 44905",
-    "addr:housenumber":"670",
-    "addr:postcode":"44905",
-    "addr:street":"Stewart Rd N",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.474783,40.776776,-82.474783,40.776776",
-    "geom:latitude":40.776776,
-    "geom:longitude":-82.474783,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"670 Stewart Rd N",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "670 Stewart Rd N Mansfield OH 44905",
+    "addr:housenumber": "670",
+    "addr:postcode": "44905",
+    "addr:street": "Stewart Rd N",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.474783,40.776776,-82.474783,40.776776",
+    "geom:latitude": 40.776776,
+    "geom:longitude": -82.474783,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "670 Stewart Rd N",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/madison/195411-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44905",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/madison/195411-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44905",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_19eBSxzghYqw3FcgmpjwPt_40.776320_-82.474632@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_19eBSxzghYqw3FcgmpjwPt_40.776320_-82.474632@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806386,
-    "wof:geomhash":"1628bf1b3c708a131abe11655dc5d0c3",
-    "wof:hierarchy":[],
-    "wof:id":706583239,
-    "wof:lastmodified":1512142942,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806386,
+    "wof:geomhash": "1628bf1b3c708a131abe11655dc5d0c3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706583239
+      }
+    ],
+    "wof:id": 706583239,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.474783,
     40.776776,
     -82.474783,
     40.776776
-],
+  ],
   "geometry": {"coordinates":[-82.474783,40.776776],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706332067,
   "type": "Feature",
   "properties": {
-    "addr:full":"122 E Charles St Bucyrus OH 44820",
-    "addr:housenumber":"122",
-    "addr:postcode":"44820",
-    "addr:street":"E Charles St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.975297,40.805482,-82.975297,40.805482",
-    "geom:latitude":40.805482,
-    "geom:longitude":-82.975297,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"122 E Charles St",
-    "sg:city":"Bucyrus",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "122 E Charles St Bucyrus OH 44820",
+    "addr:housenumber": "122",
+    "addr:postcode": "44820",
+    "addr:street": "E Charles St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.975297,40.805482,-82.975297,40.805482",
+    "geom:latitude": 40.805482,
+    "geom:longitude": -82.975297,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "122 E Charles St",
+    "sg:city": "Bucyrus",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 562 7303",
-    "sg:postcode":"44820",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 562 7303",
+    "sg:postcode": "44820",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3SMK5bIkHiPLxlQ9WDFmei_40.805482_-82.975297@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3SMK5bIkHiPLxlQ9WDFmei_40.805482_-82.975297@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801026,
-    "wof:geomhash":"7943bffc94f5711de38a27acb841953c",
-    "wof:hierarchy":[],
-    "wof:id":706332067,
-    "wof:lastmodified":1472639828,
-    "wof:name":"Creative Options Hair Design",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461801026,
+    "wof:geomhash": "1865e39c6440aa6e89fa6cc5b797807b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706332067
+      }
+    ],
+    "wof:id": 706332067,
+    "wof:lastmodified": 1638567080,
+    "wof:name": "Creative Options Hair Design",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -82.975297,
     40.805482,
     -82.975297,
     40.805482
-],
+  ],
   "geometry": {"coordinates":[-82.975297,40.805482],"type":"Point"}
 }

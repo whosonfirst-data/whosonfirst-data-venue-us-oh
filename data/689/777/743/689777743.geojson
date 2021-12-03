@@ -2,61 +2,65 @@
   "id": 689777743,
   "type": "Feature",
   "properties": {
-    "addr:full":"118 Harvard St Piqua OH 45356",
-    "addr:housenumber":"118",
-    "addr:postcode":"45356",
-    "addr:street":"Harvard St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.229681,40.145565,-84.229681,40.145565",
-    "geom:latitude":40.145565,
-    "geom:longitude":-84.229681,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"118 Harvard St",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "118 Harvard St Piqua OH 45356",
+    "addr:housenumber": "118",
+    "addr:postcode": "45356",
+    "addr:street": "Harvard St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.229681,40.145565,-84.229681,40.145565",
+    "geom:latitude": 40.145565,
+    "geom:longitude": -84.229681,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "118 Harvard St",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 773 1281",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 773 1281",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4j1kTuXD4Wfntun1TKUn4g_40.145565_-84.229681@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4j1kTuXD4Wfntun1TKUn4g_40.145565_-84.229681@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781192,
-    "wof:geomhash":"1f5b37709b9f2b021ddf16cfd646321e",
-    "wof:hierarchy":[],
-    "wof:id":689777743,
-    "wof:lastmodified":1472639847,
-    "wof:name":"Floss Fence",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461781192,
+    "wof:geomhash": "24937f6da6fbb09b50561091b0ca3988",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689777743
+      }
+    ],
+    "wof:id": 689777743,
+    "wof:lastmodified": 1638567050,
+    "wof:name": "Floss Fence",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -84.229681,
     40.145565,
     -84.229681,
     40.145565
-],
+  ],
   "geometry": {"coordinates":[-84.229681,40.145565],"type":"Point"}
 }

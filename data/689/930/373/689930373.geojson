@@ -2,61 +2,65 @@
   "id": 689930373,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 S Franklin St Richwood OH 43344",
-    "addr:housenumber":"101",
-    "addr:postcode":"43344",
-    "addr:street":"S Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.296269,40.425543,-83.296269,40.425543",
-    "geom:latitude":40.425543,
-    "geom:longitude":-83.296269,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 S Franklin St",
-    "sg:city":"Richwood",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "101 S Franklin St Richwood OH 43344",
+    "addr:housenumber": "101",
+    "addr:postcode": "43344",
+    "addr:street": "S Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.296269,40.425543,-83.296269,40.425543",
+    "geom:latitude": 40.425543,
+    "geom:longitude": -83.296269,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 S Franklin St",
+    "sg:city": "Richwood",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 943 5212",
-    "sg:postcode":"43344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 943 5212",
+    "sg:postcode": "43344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6J8f23d5DSIeitTHc96F5b_40.425543_-83.296269@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6J8f23d5DSIeitTHc96F5b_40.425543_-83.296269@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785378,
-    "wof:geomhash":"d4d882352a9565a325596263094b4451",
-    "wof:hierarchy":[],
-    "wof:id":689930373,
-    "wof:lastmodified":1472640087,
-    "wof:name":"Village Of Richwood Police",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461785378,
+    "wof:geomhash": "ba66397e8540cfc029ae111dab65c274",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689930373
+      }
+    ],
+    "wof:id": 689930373,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Village Of Richwood Police",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.296269,
     40.425543,
     -83.296269,
     40.425543
-],
+  ],
   "geometry": {"coordinates":[-83.296269,40.425543],"type":"Point"}
 }

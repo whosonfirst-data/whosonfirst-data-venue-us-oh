@@ -2,61 +2,65 @@
   "id": 705853187,
   "type": "Feature",
   "properties": {
-    "addr:full":"12934 Cochran Rd Rossburg OH 45362",
-    "addr:housenumber":"12934",
-    "addr:postcode":"45362",
-    "addr:street":"Cochran Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.694185,40.292963,-84.694185,40.292963",
-    "geom:latitude":40.292963,
-    "geom:longitude":-84.694185,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12934 Cochran Rd",
-    "sg:city":"Rossburg",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "12934 Cochran Rd Rossburg OH 45362",
+    "addr:housenumber": "12934",
+    "addr:postcode": "45362",
+    "addr:street": "Cochran Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.694185,40.292963,-84.694185,40.292963",
+    "geom:latitude": 40.292963,
+    "geom:longitude": -84.694185,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12934 Cochran Rd",
+    "sg:city": "Rossburg",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 338 5123",
-    "sg:postcode":"45362",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 338 5123",
+    "sg:postcode": "45362",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3eTnwNclfnxzA9vFtgS3iu_40.292963_-84.694185@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3eTnwNclfnxzA9vFtgS3iu_40.292963_-84.694185@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790257,
-    "wof:geomhash":"a2110b190186b53e5debf563f0e3dbd2",
-    "wof:hierarchy":[],
-    "wof:id":705853187,
-    "wof:lastmodified":1472639404,
-    "wof:name":"SRT Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461790257,
+    "wof:geomhash": "d2c47fd2f2a0104512386d5a6645d023",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705853187
+      }
+    ],
+    "wof:id": 705853187,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "SRT Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.694185,
     40.292963,
     -84.694185,
     40.292963
-],
+  ],
   "geometry": {"coordinates":[-84.694185,40.292963],"type":"Point"}
 }

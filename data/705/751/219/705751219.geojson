@@ -2,63 +2,67 @@
   "id": 705751219,
   "type": "Feature",
   "properties": {
-    "addr:full":"162 N Park Ave Warren OH 44481",
-    "addr:housenumber":"162",
-    "addr:postcode":"44481",
-    "addr:street":"N Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.817939,41.236595,-80.817939,41.236595",
-    "geom:latitude":41.236595,
-    "geom:longitude":-80.817939,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"162 N Park Ave",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Catalog Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "162 N Park Ave Warren OH 44481",
+    "addr:housenumber": "162",
+    "addr:postcode": "44481",
+    "addr:street": "N Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.817939,41.236595,-80.817939,41.236595",
+    "geom:latitude": 41.236595,
+    "geom:longitude": -80.817939,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "162 N Park Ave",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Catalog Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 392 8822",
-    "sg:postcode":"44481",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house",
-        "mail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 392 8822",
+    "sg:postcode": "44481",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house",
+      "mail"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55z8w4o5uH4iar2Gj2UScQ_41.236595_-80.817939@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55z8w4o5uH4iar2Gj2UScQ_41.236595_-80.817939@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787873,
-    "wof:geomhash":"10beb922e62b13a23bb3e4e5f843cd38",
-    "wof:hierarchy":[],
-    "wof:id":705751219,
-    "wof:lastmodified":1472639170,
-    "wof:name":"Norton Shoe Co Inc",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house",
-        "mail"
+    "wof:country": "US",
+    "wof:created": 1461787873,
+    "wof:geomhash": "9699b5f737a06f1f96ed64b4af52448b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705751219
+      }
+    ],
+    "wof:id": 705751219,
+    "wof:lastmodified": 1638566965,
+    "wof:name": "Norton Shoe Co Inc",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house",
+      "mail"
     ]
-},
+  },
   "bbox": [
     -80.817939,
     41.236595,
     -80.817939,
     41.236595
-],
+  ],
   "geometry": {"coordinates":[-80.817939,41.236595],"type":"Point"}
 }

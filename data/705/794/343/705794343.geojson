@@ -2,61 +2,65 @@
   "id": 705794343,
   "type": "Feature",
   "properties": {
-    "addr:full":"570 N College St Newcomerstown OH 43832",
-    "addr:housenumber":"570",
-    "addr:postcode":"43832",
-    "addr:street":"N College",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.602574,40.282414,-81.602574,40.282414",
-    "geom:latitude":40.282414,
-    "geom:longitude":-81.602574,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"570 N College St",
-    "sg:city":"Newcomerstown",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "570 N College St Newcomerstown OH 43832",
+    "addr:housenumber": "570",
+    "addr:postcode": "43832",
+    "addr:street": "N College",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.602574,40.282414,-81.602574,40.282414",
+    "geom:latitude": 40.282414,
+    "geom:longitude": -81.602574,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "570 N College St",
+    "sg:city": "Newcomerstown",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 498 8430",
-    "sg:postcode":"43832",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 498 8430",
+    "sg:postcode": "43832",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VGkS2gjYiQFWIa1UhjaH0_40.282414_-81.602574@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5VGkS2gjYiQFWIa1UhjaH0_40.282414_-81.602574@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788885,
-    "wof:geomhash":"8321fa279ff01e66a636436f1bbba3ca",
-    "wof:hierarchy":[],
-    "wof:id":705794343,
-    "wof:lastmodified":1472639248,
-    "wof:name":"Endless Summer",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461788885,
+    "wof:geomhash": "a47a2bee3b05c68f443e71331ad1ab0e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705794343
+      }
+    ],
+    "wof:id": 705794343,
+    "wof:lastmodified": 1638566984,
+    "wof:name": "Endless Summer",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.602574,
     40.282414,
     -81.602574,
     40.282414
-],
+  ],
   "geometry": {"coordinates":[-81.602574,40.282414],"type":"Point"}
 }

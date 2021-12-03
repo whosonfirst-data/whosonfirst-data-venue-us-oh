@@ -2,66 +2,70 @@
   "id": 706570179,
   "type": "Feature",
   "properties": {
-    "addr:full":"2001 Hospital Dr Batavia OH 45103",
-    "addr:housenumber":"2001",
-    "addr:postcode":"45103",
-    "addr:street":"Hospital Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.150118,39.082663,-84.150118,39.082663",
-    "geom:latitude":39.082663,
-    "geom:longitude":-84.150118,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2001 Hospital Dr",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2001 Hospital Dr Batavia OH 45103",
+    "addr:housenumber": "2001",
+    "addr:postcode": "45103",
+    "addr:street": "Hospital Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.150118,39.082663,-84.150118,39.082663",
+    "geom:latitude": 39.082663,
+    "geom:longitude": -84.150118,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2001 Hospital Dr",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/batavia/195041-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/batavia/195041-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_51UHDKGEwRqvqK9c75WEOw_39.082663_-84.150118@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_51UHDKGEwRqvqK9c75WEOw_39.082663_-84.150118@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806062,
-    "wof:geomhash":"c23fc7b010234611f37dfdc828e593c4",
-    "wof:hierarchy":[],
-    "wof:id":706570179,
-    "wof:lastmodified":1512142845,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806062,
+    "wof:geomhash": "c23fc7b010234611f37dfdc828e593c4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706570179
+      }
+    ],
+    "wof:id": 706570179,
+    "wof:lastmodified": 1638567138,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.150118,
     39.082663,
     -84.150118,
     39.082663
-],
-  "geometry": {"coordinates":[-84.15011800000001,39.082663],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.150118,39.082663],"type":"Point"}
 }

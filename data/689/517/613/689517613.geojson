@@ -2,65 +2,69 @@
   "id": 689517613,
   "type": "Feature",
   "properties": {
-    "addr:full":"570 US Rte 224 Sullivan OH 44880",
-    "addr:housenumber":"570",
-    "addr:postcode":"44880",
-    "addr:street":"Us Rte 224",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.238504,41.02846,-82.238504,41.02846",
-    "geom:latitude":41.02846,
-    "geom:longitude":-82.238504,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"570 US Rte 224",
-    "sg:city":"Sullivan",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "570 US Rte 224 Sullivan OH 44880",
+    "addr:housenumber": "570",
+    "addr:postcode": "44880",
+    "addr:street": "Us Rte 224",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.238504,41.028460,-82.238504,41.028460",
+    "geom:latitude": 41.02846,
+    "geom:longitude": -82.238504,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "570 US Rte 224",
+    "sg:city": "Sullivan",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 736 2592",
-    "sg:postcode":"44880",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 736 2592",
+    "sg:postcode": "44880",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0HRSjEHlwf0tBROhlqdq7w_41.028460_-82.238504@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0HRSjEHlwf0tBROhlqdq7w_41.028460_-82.238504@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773619,
-    "wof:geomhash":"6f5072b3773cefac31fcda816f782903",
-    "wof:hierarchy":[],
-    "wof:id":689517613,
-    "wof:lastmodified":1472639138,
-    "wof:name":"Dearborn Steel Express Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461773619,
+    "wof:geomhash": "bef086464045b043f2bcedd769b13487",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689517613
+      }
+    ],
+    "wof:id": 689517613,
+    "wof:lastmodified": 1638566960,
+    "wof:name": "Dearborn Steel Express Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.238504,
     41.02846,
     -82.238504,
     41.02846
-],
-  "geometry": {"coordinates":[-82.23850400000001,41.02846],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.238504,41.02846],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705769563,
   "type": "Feature",
   "properties": {
-    "addr:full":"30811 Lake Logan Rd Logan OH 43138",
-    "addr:housenumber":"30811",
-    "addr:postcode":"43138",
-    "addr:street":"Lake Logan Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.447547,39.540096,-82.447547,39.540096",
-    "geom:latitude":39.540096,
-    "geom:longitude":-82.447547,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30811 Lake Logan Rd",
-    "sg:city":"Logan",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "30811 Lake Logan Rd Logan OH 43138",
+    "addr:housenumber": "30811",
+    "addr:postcode": "43138",
+    "addr:street": "Lake Logan Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.447547,39.540096,-82.447547,39.540096",
+    "geom:latitude": 39.540096,
+    "geom:longitude": -82.447547,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "30811 Lake Logan Rd",
+    "sg:city": "Logan",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 385 3368",
-    "sg:postcode":"43138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 385 3368",
+    "sg:postcode": "43138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13c78m3Q9yUYqtb78aQ2Vr_39.540096_-82.447547@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13c78m3Q9yUYqtb78aQ2Vr_39.540096_-82.447547@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788290,
-    "wof:geomhash":"5a2b7b34e0b17f87b2eb732ee2d15210",
-    "wof:hierarchy":[],
-    "wof:id":705769563,
-    "wof:lastmodified":1472639226,
-    "wof:name":"People's Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461788290,
+    "wof:geomhash": "279ac7a50124d74ee55ae1c07da3a539",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705769563
+      }
+    ],
+    "wof:id": 705769563,
+    "wof:lastmodified": 1638566974,
+    "wof:name": "People's Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.447547,
     39.540096,
     -82.447547,
     39.540096
-],
+  ],
   "geometry": {"coordinates":[-82.447547,39.540096],"type":"Point"}
 }

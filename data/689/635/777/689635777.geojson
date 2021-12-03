@@ -2,61 +2,65 @@
   "id": 689635777,
   "type": "Feature",
   "properties": {
-    "addr:full":"1830 Snow Rd Cleveland OH 44134",
-    "addr:housenumber":"1830",
-    "addr:postcode":"44134",
-    "addr:street":"Snow Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.697611,41.405157,-81.697611,41.405157",
-    "geom:latitude":41.405157,
-    "geom:longitude":-81.697611,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1830 Snow Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1830 Snow Rd Cleveland OH 44134",
+    "addr:housenumber": "1830",
+    "addr:postcode": "44134",
+    "addr:street": "Snow Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.697611,41.405157,-81.697611,41.405157",
+    "geom:latitude": 41.405157,
+    "geom:longitude": -81.697611,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1830 Snow Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 741 3399",
-    "sg:postcode":"44134",
-    "sg:province":"OH",
-    "sg:tags":[
-        "lounge"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 741 3399",
+    "sg:postcode": "44134",
+    "sg:province": "OH",
+    "sg:tags": [
+      "lounge"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6RVXN4TtfG8QApunsrFO3G_41.405157_-81.697611@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6RVXN4TtfG8QApunsrFO3G_41.405157_-81.697611@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777311,
-    "wof:geomhash":"9b6b9bf992dc2b0250c2a3a216042b86",
-    "wof:hierarchy":[],
-    "wof:id":689635777,
-    "wof:lastmodified":1472639517,
-    "wof:name":"Dimitri's Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lounge"
+    "wof:country": "US",
+    "wof:created": 1461777311,
+    "wof:geomhash": "d16782f4db714e76d1002d6c35dfee00",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689635777
+      }
+    ],
+    "wof:id": 689635777,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Dimitri's Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lounge"
     ]
-},
+  },
   "bbox": [
     -81.697611,
     41.405157,
     -81.697611,
     41.405157
-],
-  "geometry": {"coordinates":[-81.69761099999999,41.405157],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.697611,41.405157],"type":"Point"}
 }

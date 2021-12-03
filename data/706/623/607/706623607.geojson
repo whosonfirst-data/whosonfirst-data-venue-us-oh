@@ -2,61 +2,65 @@
   "id": 706623607,
   "type": "Feature",
   "properties": {
-    "addr:full":"8817 Harrison Pike Cleves OH 45002",
-    "addr:housenumber":"8817",
-    "addr:postcode":"45002",
-    "addr:street":"Harrison Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.732201,39.222969,-84.732201,39.222969",
-    "geom:latitude":39.222969,
-    "geom:longitude":-84.732201,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8817 Harrison Pike",
-    "sg:city":"Cleves",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "8817 Harrison Pike Cleves OH 45002",
+    "addr:housenumber": "8817",
+    "addr:postcode": "45002",
+    "addr:street": "Harrison Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.732201,39.222969,-84.732201,39.222969",
+    "geom:latitude": 39.222969,
+    "geom:longitude": -84.732201,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8817 Harrison Pike",
+    "sg:city": "Cleves",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 353 9119",
-    "sg:postcode":"45002",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 353 9119",
+    "sg:postcode": "45002",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3jwml4kWQvautCEsPWDSUS_39.222969_-84.732201@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3jwml4kWQvautCEsPWDSUS_39.222969_-84.732201@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807225,
-    "wof:geomhash":"af74cb6c774662155352bea2be44ebc6",
-    "wof:hierarchy":[],
-    "wof:id":706623607,
-    "wof:lastmodified":1472640239,
-    "wof:name":"Enterprise Auction Inc.",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461807225,
+    "wof:geomhash": "8023afe7818b6f4f9075e94eb32a5d29",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706623607
+      }
+    ],
+    "wof:id": 706623607,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Enterprise Auction Inc.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.732201,
     39.222969,
     -84.732201,
     39.222969
-],
+  ],
   "geometry": {"coordinates":[-84.732201,39.222969],"type":"Point"}
 }

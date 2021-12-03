@@ -2,67 +2,71 @@
   "id": 706585373,
   "type": "Feature",
   "properties": {
-    "addr:full":"777 N Perry St Ottawa OH 45875",
-    "addr:housenumber":"777",
-    "addr:postcode":"45875",
-    "addr:street":"N Perry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.047916,41.025195,-84.047916,41.025195",
-    "geom:latitude":41.025195,
-    "geom:longitude":-84.047916,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"777 N Perry St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "777 N Perry St Ottawa OH 45875",
+    "addr:housenumber": "777",
+    "addr:postcode": "45875",
+    "addr:street": "N Perry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.047916,41.025195,-84.047916,41.025195",
+    "geom:latitude": 41.025195,
+    "geom:longitude": -84.047916,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "777 N Perry St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/ottawa/195459-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/ottawa/195459-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":266133923,
-        "sg:id":"SG_5iwshrARn4rMnkoqBLzZV3_41.025756_-84.047345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 266133923,
+      "sg:id": "SG_5iwshrARn4rMnkoqBLzZV3_41.025756_-84.047345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806427,
-    "wof:geomhash":"25dfa00a04ff8e8b01d594b422350255",
-    "wof:hierarchy":[],
-    "wof:id":706585373,
-    "wof:lastmodified":1512142907,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806427,
+    "wof:geomhash": "25dfa00a04ff8e8b01d594b422350255",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706585373
+      }
+    ],
+    "wof:id": 706585373,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.047916,
     41.025195,
     -84.047916,
     41.025195
-],
+  ],
   "geometry": {"coordinates":[-84.047916,41.025195],"type":"Point"}
 }

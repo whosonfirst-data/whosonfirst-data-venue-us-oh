@@ -2,61 +2,65 @@
   "id": 689542037,
   "type": "Feature",
   "properties": {
-    "addr:full":"12298 Co Hwy 330 Big Prairie OH 44611",
-    "addr:housenumber":"12298",
-    "addr:postcode":"44611",
-    "addr:street":"Co Hwy 330",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.06234,40.651134,-82.06234,40.651134",
-    "geom:latitude":40.651134,
-    "geom:longitude":-82.06234,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12298 Co Hwy 330",
-    "sg:city":"Big Prairie",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "12298 Co Hwy 330 Big Prairie OH 44611",
+    "addr:housenumber": "12298",
+    "addr:postcode": "44611",
+    "addr:street": "Co Hwy 330",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.062340,40.651134,-82.062340,40.651134",
+    "geom:latitude": 40.651134,
+    "geom:longitude": -82.06234,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12298 Co Hwy 330",
+    "sg:city": "Big Prairie",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 567 2320",
-    "sg:postcode":"44611",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 567 2320",
+    "sg:postcode": "44611",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ge7egKMi3pvarWLcq2sNM_40.651134_-82.062340@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ge7egKMi3pvarWLcq2sNM_40.651134_-82.062340@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774406,
-    "wof:geomhash":"0c4ed46fd2e9e54d2543b3df90f839c7",
-    "wof:hierarchy":[],
-    "wof:id":689542037,
-    "wof:lastmodified":1472639216,
-    "wof:name":"Ripley Church Of Christ",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461774406,
+    "wof:geomhash": "caf7d5bb8fc52d45316ce74314388460",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689542037
+      }
+    ],
+    "wof:id": 689542037,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Ripley Church Of Christ",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.06234,
     40.651134,
     -82.06234,
     40.651134
-],
-  "geometry": {"coordinates":[-82.06234000000001,40.651134],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.06234,40.651134],"type":"Point"}
 }

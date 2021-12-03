@@ -2,61 +2,65 @@
   "id": 706421945,
   "type": "Feature",
   "properties": {
-    "addr:full":"973 W Main St East Palestine OH 44413",
-    "addr:housenumber":"973",
-    "addr:postcode":"44413",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.556432,40.834865,-80.556432,40.834865",
-    "geom:latitude":40.834865,
-    "geom:longitude":-80.556432,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"973 W Main St",
-    "sg:city":"East Palestine",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Adult Care",
-            "type":"Services"
-        }
+    "addr:full": "973 W Main St East Palestine OH 44413",
+    "addr:housenumber": "973",
+    "addr:postcode": "44413",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.556432,40.834865,-80.556432,40.834865",
+    "geom:latitude": 40.834865,
+    "geom:longitude": -80.556432,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "973 W Main St",
+    "sg:city": "East Palestine",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 3244",
-    "sg:postcode":"44413",
-    "sg:province":"OH",
-    "sg:tags":[
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 3244",
+    "sg:postcode": "44413",
+    "sg:province": "OH",
+    "sg:tags": [
+      "residential"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0QgB2Zqr2iJdLXt5i7Azfj_40.834865_-80.556432@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0QgB2Zqr2iJdLXt5i7Azfj_40.834865_-80.556432@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802830,
-    "wof:geomhash":"e19dbcfe9bbdf4f61de21b26604e36e1",
-    "wof:hierarchy":[],
-    "wof:id":706421945,
-    "wof:lastmodified":1472640008,
-    "wof:name":"American Health Care",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461802830,
+    "wof:geomhash": "a453de4c9834b850788fcea1933b8f98",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706421945
+      }
+    ],
+    "wof:id": 706421945,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "American Health Care",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential"
     ]
-},
+  },
   "bbox": [
     -80.556432,
     40.834865,
     -80.556432,
     40.834865
-],
+  ],
   "geometry": {"coordinates":[-80.556432,40.834865],"type":"Point"}
 }

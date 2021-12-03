@@ -2,61 +2,65 @@
   "id": 689742929,
   "type": "Feature",
   "properties": {
-    "addr:full":"5051 Foxridge Canton OH 44720",
-    "addr:housenumber":"5051",
-    "addr:postcode":"44720",
-    "addr:street":"Foxridge",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.480935,40.925463,-81.480935,40.925463",
-    "geom:latitude":40.925463,
-    "geom:longitude":-81.480935,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5051 Foxridge",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "5051 Foxridge Canton OH 44720",
+    "addr:housenumber": "5051",
+    "addr:postcode": "44720",
+    "addr:street": "Foxridge",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.480935,40.925463,-81.480935,40.925463",
+    "geom:latitude": 40.925463,
+    "geom:longitude": -81.480935,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5051 Foxridge",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 896 1947",
-    "sg:postcode":"44720",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 896 1947",
+    "sg:postcode": "44720",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_17Js2kNlM3XNnE2InI9WhK_40.925463_-81.480935@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_17Js2kNlM3XNnE2InI9WhK_40.925463_-81.480935@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780269,
-    "wof:geomhash":"c9de612537bbebfe28de1fce1ce21eab",
-    "wof:hierarchy":[],
-    "wof:id":689742929,
-    "wof:lastmodified":1472639803,
-    "wof:name":"Lauper Stone Masonry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461780269,
+    "wof:geomhash": "99c11cf106bd23de3fbed893675f0b88",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689742929
+      }
+    ],
+    "wof:id": 689742929,
+    "wof:lastmodified": 1638567038,
+    "wof:name": "Lauper Stone Masonry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.480935,
     40.925463,
     -81.480935,
     40.925463
-],
+  ],
   "geometry": {"coordinates":[-81.480935,40.925463],"type":"Point"}
 }

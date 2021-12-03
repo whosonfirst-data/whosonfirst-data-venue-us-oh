@@ -2,63 +2,67 @@
   "id": 706261489,
   "type": "Feature",
   "properties": {
-    "addr:full":"10384 Jerome Rd Plain City OH 43064",
-    "addr:housenumber":"10384",
-    "addr:postcode":"43064",
-    "addr:street":"Jerome Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.175471,40.165124,-83.175471,40.165124",
-    "geom:latitude":40.165124,
-    "geom:longitude":-83.175471,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10384 Jerome Rd",
-    "sg:city":"Plain City",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10384 Jerome Rd Plain City OH 43064",
+    "addr:housenumber": "10384",
+    "addr:postcode": "43064",
+    "addr:street": "Jerome Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.175471,40.165124,-83.175471,40.165124",
+    "geom:latitude": 40.165124,
+    "geom:longitude": -83.175471,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10384 Jerome Rd",
+    "sg:city": "Plain City",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 873 3790",
-    "sg:postcode":"43064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "carrier",
-        "interstate"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 873 3790",
+    "sg:postcode": "43064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "carrier",
+      "interstate"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_18LrrH35X3STZNqKiddgXp_40.165124_-83.175471@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_18LrrH35X3STZNqKiddgXp_40.165124_-83.175471@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799436,
-    "wof:geomhash":"5e7202dc0dce4720e38a7fac2bc0fea1",
-    "wof:hierarchy":[],
-    "wof:id":706261489,
-    "wof:lastmodified":1472639606,
-    "wof:name":"Roseberrys Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "carrier",
-        "interstate"
+    "wof:country": "US",
+    "wof:created": 1461799436,
+    "wof:geomhash": "83fa59f67884e1a4afa4ef47c909588e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706261489
+      }
+    ],
+    "wof:id": 706261489,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Roseberrys Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "carrier",
+      "interstate"
     ]
-},
+  },
   "bbox": [
     -83.175471,
     40.165124,
     -83.175471,
     40.165124
-],
+  ],
   "geometry": {"coordinates":[-83.175471,40.165124],"type":"Point"}
 }

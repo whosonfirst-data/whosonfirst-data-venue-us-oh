@@ -2,61 +2,65 @@
   "id": 705817043,
   "type": "Feature",
   "properties": {
-    "addr:full":"4447 State Rte 128 Cleves OH 45002",
-    "addr:housenumber":"4447",
-    "addr:postcode":"45002",
-    "addr:street":"State Rte 128",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.756508,39.199705,-84.756508,39.199705",
-    "geom:latitude":39.199705,
-    "geom:longitude":-84.756508,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4447 State Rte 128",
-    "sg:city":"Cleves",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "4447 State Rte 128 Cleves OH 45002",
+    "addr:housenumber": "4447",
+    "addr:postcode": "45002",
+    "addr:street": "State Rte 128",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.756508,39.199705,-84.756508,39.199705",
+    "geom:latitude": 39.199705,
+    "geom:longitude": -84.756508,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4447 State Rte 128",
+    "sg:city": "Cleves",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 353 5500",
-    "sg:postcode":"45002",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mover"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 353 5500",
+    "sg:postcode": "45002",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mover"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5JWzCyhsLbyqZF0LPPLHsP_39.199705_-84.756508@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5JWzCyhsLbyqZF0LPPLHsP_39.199705_-84.756508@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789409,
-    "wof:geomhash":"2171c94e0825dc9e9275d4635884992a",
-    "wof:hierarchy":[],
-    "wof:id":705817043,
-    "wof:lastmodified":1472639293,
-    "wof:name":"Big Brother Movers",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mover"
+    "wof:country": "US",
+    "wof:created": 1461789409,
+    "wof:geomhash": "f40be8b9cd48fc934a06c02ffd2b0d6d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705817043
+      }
+    ],
+    "wof:id": 705817043,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "Big Brother Movers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mover"
     ]
-},
+  },
   "bbox": [
     -84.756508,
     39.199705,
     -84.756508,
     39.199705
-],
+  ],
   "geometry": {"coordinates":[-84.756508,39.199705],"type":"Point"}
 }

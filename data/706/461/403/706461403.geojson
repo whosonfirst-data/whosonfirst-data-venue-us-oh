@@ -2,63 +2,67 @@
   "id": 706461403,
   "type": "Feature",
   "properties": {
-    "addr:full":"316 Harrison Ave Lima OH 45804",
-    "addr:housenumber":"316",
-    "addr:postcode":"45804",
-    "addr:street":"Harrison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.094131,40.735203,-84.094131,40.735203",
-    "geom:latitude":40.735203,
-    "geom:longitude":-84.094131,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"316 Harrison Ave",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Management & Consulting",
-            "type":"Services"
-        }
+    "addr:full": "316 Harrison Ave Lima OH 45804",
+    "addr:housenumber": "316",
+    "addr:postcode": "45804",
+    "addr:street": "Harrison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.094131,40.735203,-84.094131,40.735203",
+    "geom:latitude": 40.735203,
+    "geom:longitude": -84.094131,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "316 Harrison Ave",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Management \u0026 Consulting",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 227 1073",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "personnel",
-        "consultant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 227 1073",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "personnel",
+      "consultant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_39ngCOjPNikUKB9c4u41Vm_40.735203_-84.094131@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_39ngCOjPNikUKB9c4u41Vm_40.735203_-84.094131@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803669,
-    "wof:geomhash":"3cc20a02583ed7174a2d0995251407ab",
-    "wof:hierarchy":[],
-    "wof:id":706461403,
-    "wof:lastmodified":1472640050,
-    "wof:name":"Interim Personnel",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "personnel",
-        "consultant"
+    "wof:country": "US",
+    "wof:created": 1461803669,
+    "wof:geomhash": "8d3e988ff20f464838de0c29c35c517e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706461403
+      }
+    ],
+    "wof:id": 706461403,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Interim Personnel",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "personnel",
+      "consultant"
     ]
-},
+  },
   "bbox": [
     -84.094131,
     40.735203,
     -84.094131,
     40.735203
-],
+  ],
   "geometry": {"coordinates":[-84.094131,40.735203],"type":"Point"}
 }

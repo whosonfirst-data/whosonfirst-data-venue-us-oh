@@ -2,61 +2,65 @@
   "id": 689720389,
   "type": "Feature",
   "properties": {
-    "addr:full":"9262 Mount Orab Pike Georgetown OH 45121",
-    "addr:housenumber":"9262",
-    "addr:postcode":"45121",
-    "addr:street":"Mount Orab Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.901345,38.895108,-83.901345,38.895108",
-    "geom:latitude":38.895108,
-    "geom:longitude":-83.901345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9262 Mount Orab Pike",
-    "sg:city":"Georgetown",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "9262 Mount Orab Pike Georgetown OH 45121",
+    "addr:housenumber": "9262",
+    "addr:postcode": "45121",
+    "addr:street": "Mount Orab Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.901345,38.895108,-83.901345,38.895108",
+    "geom:latitude": 38.895108,
+    "geom:longitude": -83.901345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9262 Mount Orab Pike",
+    "sg:city": "Georgetown",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 378 3431",
-    "sg:postcode":"45121",
-    "sg:province":"OH",
-    "sg:tags":[
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 378 3431",
+    "sg:postcode": "45121",
+    "sg:province": "OH",
+    "sg:tags": [
+      "system"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0EHE1VMvVKEE84r3mo5cY5_38.895108_-83.901345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0EHE1VMvVKEE84r3mo5cY5_38.895108_-83.901345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779683,
-    "wof:geomhash":"56aa749d8ba176dc645622d9058c1bc2",
-    "wof:hierarchy":[],
-    "wof:id":689720389,
-    "wof:lastmodified":1472639729,
-    "wof:name":"Adams & Brown Recycling",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "system"
+    "wof:country": "US",
+    "wof:created": 1461779683,
+    "wof:geomhash": "febd15a29e8f16dade9d009c9a1ee51f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689720389
+      }
+    ],
+    "wof:id": 689720389,
+    "wof:lastmodified": 1638567031,
+    "wof:name": "Adams \u0026 Brown Recycling",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "system"
     ]
-},
+  },
   "bbox": [
     -83.901345,
     38.895108,
     -83.901345,
     38.895108
-],
-  "geometry": {"coordinates":[-83.90134500000001,38.895108],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.901345,38.895108],"type":"Point"}
 }

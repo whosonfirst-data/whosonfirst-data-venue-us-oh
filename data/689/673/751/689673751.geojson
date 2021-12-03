@@ -2,63 +2,67 @@
   "id": 689673751,
   "type": "Feature",
   "properties": {
-    "addr:full":"10179 Tallmadge Rd Diamond OH 44412",
-    "addr:housenumber":"",
-    "addr:postcode":"10179;44412",
-    "addr:street":"Tallmadge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.022492,41.098815,-81.022492,41.098815",
-    "geom:latitude":41.098815,
-    "geom:longitude":-81.022492,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10179 Tallmadge Rd",
-    "sg:city":"Diamond",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "10179 Tallmadge Rd Diamond OH 44412",
+    "addr:housenumber": "",
+    "addr:postcode": "10179;44412",
+    "addr:street": "Tallmadge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.022492,41.098815,-81.022492,41.098815",
+    "geom:latitude": 41.098815,
+    "geom:longitude": -81.022492,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10179 Tallmadge Rd",
+    "sg:city": "Diamond",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 654 3211",
-    "sg:postcode":"44412",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 654 3211",
+    "sg:postcode": "44412",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6MENc1cZm45eMOsNxuGZPa_41.098815_-81.022492@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6MENc1cZm45eMOsNxuGZPa_41.098815_-81.022492@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778481,
-    "wof:geomhash":"868bc8fb93d37b44a60f9dd0e70ec8c5",
-    "wof:hierarchy":[],
-    "wof:id":689673751,
-    "wof:lastmodified":1472639623,
-    "wof:name":"Diamond Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461778481,
+    "wof:geomhash": "6b817099475e86f74859a8ab3e538f94",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689673751
+      }
+    ],
+    "wof:id": 689673751,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Diamond Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -81.022492,
     41.098815,
     -81.022492,
     41.098815
-],
+  ],
   "geometry": {"coordinates":[-81.022492,41.098815],"type":"Point"}
 }

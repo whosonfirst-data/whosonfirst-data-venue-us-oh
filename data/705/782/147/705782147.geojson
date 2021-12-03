@@ -2,63 +2,67 @@
   "id": 705782147,
   "type": "Feature",
   "properties": {
-    "addr:full":"20325 Walnut St Weston OH 43569",
-    "addr:housenumber":"20325",
-    "addr:postcode":"43569",
-    "addr:street":"Walnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.793909,41.345212,-83.793909,41.345212",
-    "geom:latitude":41.345212,
-    "geom:longitude":-83.793909,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20325 Walnut St",
-    "sg:city":"Weston",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "20325 Walnut St Weston OH 43569",
+    "addr:housenumber": "20325",
+    "addr:postcode": "43569",
+    "addr:street": "Walnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.793909,41.345212,-83.793909,41.345212",
+    "geom:latitude": 41.345212,
+    "geom:longitude": -83.793909,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20325 Walnut St",
+    "sg:city": "Weston",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 669 3138",
-    "sg:postcode":"43569",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 669 3138",
+    "sg:postcode": "43569",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2F8xl6IAOuOCqXzK2vckre_41.345212_-83.793909@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2F8xl6IAOuOCqXzK2vckre_41.345212_-83.793909@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788603,
-    "wof:geomhash":"dc33cb29c2a88fa4b740ade6d3b4f2d3",
-    "wof:hierarchy":[],
-    "wof:id":705782147,
-    "wof:lastmodified":1472639221,
-    "wof:name":"Paul's Refuse Pick Up",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461788603,
+    "wof:geomhash": "715a21332b66a60018006b74d8c83bf1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705782147
+      }
+    ],
+    "wof:id": 705782147,
+    "wof:lastmodified": 1638566979,
+    "wof:name": "Paul's Refuse Pick Up",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -83.793909,
     41.345212,
     -83.793909,
     41.345212
-],
+  ],
   "geometry": {"coordinates":[-83.793909,41.345212],"type":"Point"}
 }

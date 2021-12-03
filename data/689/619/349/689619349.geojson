@@ -2,61 +2,65 @@
   "id": 689619349,
   "type": "Feature",
   "properties": {
-    "addr:full":"219 W Main St Woodville OH 43469",
-    "addr:housenumber":"219",
-    "addr:postcode":"43469",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.365217,41.451241,-83.365217,41.451241",
-    "geom:latitude":41.451241,
-    "geom:longitude":-83.365217,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"219 W Main St",
-    "sg:city":"Woodville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "219 W Main St Woodville OH 43469",
+    "addr:housenumber": "219",
+    "addr:postcode": "43469",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.365217,41.451241,-83.365217,41.451241",
+    "geom:latitude": 41.451241,
+    "geom:longitude": -83.365217,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "219 W Main St",
+    "sg:city": "Woodville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 849 2211",
-    "sg:postcode":"43469",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 849 2211",
+    "sg:postcode": "43469",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3M1GyF0K3JAktZI2Axg72i_41.451241_-83.365217@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3M1GyF0K3JAktZI2Axg72i_41.451241_-83.365217@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776877,
-    "wof:geomhash":"d19b49ca5f8e4aa5b8d0997424cd61ab",
-    "wof:hierarchy":[],
-    "wof:id":689619349,
-    "wof:lastmodified":1472639453,
-    "wof:name":"Woodville Village Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461776877,
+    "wof:geomhash": "6fc23972a2f9fbde7bab0c909c794069",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689619349
+      }
+    ],
+    "wof:id": 689619349,
+    "wof:lastmodified": 1638566999,
+    "wof:name": "Woodville Village Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.365217,
     41.451241,
     -83.365217,
     41.451241
-],
+  ],
   "geometry": {"coordinates":[-83.365217,41.451241],"type":"Point"}
 }

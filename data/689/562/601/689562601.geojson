@@ -2,61 +2,65 @@
   "id": 689562601,
   "type": "Feature",
   "properties": {
-    "addr:full":"33 Cherry St Richwood OH 43344",
-    "addr:housenumber":"33",
-    "addr:postcode":"43344",
-    "addr:street":"Cherry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.303985,40.430852,-83.303985,40.430852",
-    "geom:latitude":40.430852,
-    "geom:longitude":-83.303985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33 Cherry St",
-    "sg:city":"Richwood",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Auto Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "33 Cherry St Richwood OH 43344",
+    "addr:housenumber": "33",
+    "addr:postcode": "43344",
+    "addr:street": "Cherry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.303985,40.430852,-83.303985,40.430852",
+    "geom:latitude": 40.430852,
+    "geom:longitude": -83.303985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "33 Cherry St",
+    "sg:city": "Richwood",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Auto Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 943 3861",
-    "sg:postcode":"43344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "used"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 943 3861",
+    "sg:postcode": "43344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "used"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1RDN818M7W2fI2vAxiTgnY_40.430852_-83.303985@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1RDN818M7W2fI2vAxiTgnY_40.430852_-83.303985@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775089,
-    "wof:geomhash":"d3ad10ee023c4714124360850b9945b0",
-    "wof:hierarchy":[],
-    "wof:id":689562601,
-    "wof:lastmodified":1472639292,
-    "wof:name":"Salvage One Enterprises",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "used"
+    "wof:country": "US",
+    "wof:created": 1461775089,
+    "wof:geomhash": "21928d0d0cb0bc4fabcead9d5f5966d2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689562601
+      }
+    ],
+    "wof:id": 689562601,
+    "wof:lastmodified": 1638566986,
+    "wof:name": "Salvage One Enterprises",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "used"
     ]
-},
+  },
   "bbox": [
     -83.303985,
     40.430852,
     -83.303985,
     40.430852
-],
+  ],
   "geometry": {"coordinates":[-83.303985,40.430852],"type":"Point"}
 }

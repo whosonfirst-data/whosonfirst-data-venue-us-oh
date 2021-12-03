@@ -2,56 +2,60 @@
   "id": 706396825,
   "type": "Feature",
   "properties": {
-    "addr:full":"445 N Ohio Ave Fremont OH 43420",
-    "addr:housenumber":"445",
-    "addr:postcode":"43420",
-    "addr:street":"N Ohio Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.10389,41.34984,-83.10389,41.34984",
-    "geom:latitude":41.34984,
-    "geom:longitude":-83.10389,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"445 N Ohio Ave",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "445 N Ohio Ave Fremont OH 43420",
+    "addr:housenumber": "445",
+    "addr:postcode": "43420",
+    "addr:street": "N Ohio Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.103890,41.349840,-83.103890,41.349840",
+    "geom:latitude": 41.34984,
+    "geom:longitude": -83.10389,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "445 N Ohio Ave",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 9112",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1fopzuRKO5ZB6Q6NyhJp8l_41.349840_-83.103890@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 9112",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1fopzuRKO5ZB6Q6NyhJp8l_41.349840_-83.103890@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802339,
-    "wof:geomhash":"cb8c54e98281a67a6a5d2b92170893c5",
-    "wof:hierarchy":[],
-    "wof:id":706396825,
-    "wof:lastmodified":1472639985,
-    "wof:name":"Howie's Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461802339,
+    "wof:geomhash": "3a18df2837899fcb87bacc2f21956de7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706396825
+      }
+    ],
+    "wof:id": 706396825,
+    "wof:lastmodified": 1638567107,
+    "wof:name": "Howie's Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.10389,
     41.34984,
     -83.10389,
     41.34984
-],
-  "geometry": {"coordinates":[-83.10389000000001,41.34984],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.10389,41.34984],"type":"Point"}
 }

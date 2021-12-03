@@ -2,61 +2,65 @@
   "id": 706405517,
   "type": "Feature",
   "properties": {
-    "addr:full":"1904 Clay St Sandusky OH 44870",
-    "addr:housenumber":"1904",
-    "addr:postcode":"44870",
-    "addr:street":"Clay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.723353,41.437672,-82.723353,41.437672",
-    "geom:latitude":41.437672,
-    "geom:longitude":-82.723353,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1904 Clay St",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1904 Clay St Sandusky OH 44870",
+    "addr:housenumber": "1904",
+    "addr:postcode": "44870",
+    "addr:street": "Clay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.723353,41.437672,-82.723353,41.437672",
+    "geom:latitude": 41.437672,
+    "geom:longitude": -82.723353,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1904 Clay St",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 626 2896",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 626 2896",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2u93MYCIXybbqOjcAZ2kDM_41.437672_-82.723353@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2u93MYCIXybbqOjcAZ2kDM_41.437672_-82.723353@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802510,
-    "wof:geomhash":"7ac7fa72a8ff3603d14d6499bb22d781",
-    "wof:hierarchy":[],
-    "wof:id":706405517,
-    "wof:lastmodified":1472639993,
-    "wof:name":"John M Stovall",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461802510,
+    "wof:geomhash": "53b9048e1994d5f6988c10340231f258",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706405517
+      }
+    ],
+    "wof:id": 706405517,
+    "wof:lastmodified": 1638567111,
+    "wof:name": "John M Stovall",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -82.723353,
     41.437672,
     -82.723353,
     41.437672
-],
+  ],
   "geometry": {"coordinates":[-82.723353,41.437672],"type":"Point"}
 }

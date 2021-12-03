@@ -2,61 +2,65 @@
   "id": 706149677,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 Garrison St Fremont OH 43420",
-    "addr:housenumber":"315",
-    "addr:postcode":"43420",
-    "addr:street":"Garrison St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.113682,41.345334,-83.113682,41.345334",
-    "geom:latitude":41.345334,
-    "geom:longitude":-83.113682,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"315 Garrison St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "315 Garrison St Fremont OH 43420",
+    "addr:housenumber": "315",
+    "addr:postcode": "43420",
+    "addr:street": "Garrison St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.113682,41.345334,-83.113682,41.345334",
+    "geom:latitude": 41.345334,
+    "geom:longitude": -83.113682,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "315 Garrison St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 8300",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "electrolysis"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 8300",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "electrolysis"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6bLYg9f0mdmqJJNv1IqoHw_41.345334_-83.113682@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6bLYg9f0mdmqJJNv1IqoHw_41.345334_-83.113682@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796977,
-    "wof:geomhash":"3abbd10067bc6437f92276f593780cd4",
-    "wof:hierarchy":[],
-    "wof:id":706149677,
-    "wof:lastmodified":1472639376,
-    "wof:name":"Electrolysis By Cyndi",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "electrolysis"
+    "wof:country": "US",
+    "wof:created": 1461796977,
+    "wof:geomhash": "fe744da156a7884d51ef62cb5688b4c3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706149677
+      }
+    ],
+    "wof:id": 706149677,
+    "wof:lastmodified": 1638567015,
+    "wof:name": "Electrolysis By Cyndi",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "electrolysis"
     ]
-},
+  },
   "bbox": [
     -83.113682,
     41.345334,
     -83.113682,
     41.345334
-],
+  ],
   "geometry": {"coordinates":[-83.113682,41.345334],"type":"Point"}
 }

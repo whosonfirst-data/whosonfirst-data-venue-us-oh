@@ -2,63 +2,67 @@
   "id": 705939405,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 E High St Hicksville OH 43526",
-    "addr:housenumber":"116",
-    "addr:postcode":"43526",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.76226,41.29317,-84.76226,41.29317",
-    "geom:latitude":41.29317,
-    "geom:longitude":-84.76226,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"116 E High St",
-    "sg:city":"Hicksville",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "116 E High St Hicksville OH 43526",
+    "addr:housenumber": "116",
+    "addr:postcode": "43526",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.762260,41.293170,-84.762260,41.293170",
+    "geom:latitude": 41.29317,
+    "geom:longitude": -84.76226,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "116 E High St",
+    "sg:city": "Hicksville",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 542 6218",
-    "sg:postcode":"43526",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drug",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 542 6218",
+    "sg:postcode": "43526",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drug",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4cmt1kIm8nsNnLRHHrqeH8_41.293170_-84.762260@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4cmt1kIm8nsNnLRHHrqeH8_41.293170_-84.762260@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792293,
-    "wof:geomhash":"c465f2d7a527521e8dddd46e792ca457",
-    "wof:hierarchy":[],
-    "wof:id":705939405,
-    "wof:lastmodified":1472639669,
-    "wof:name":"Hicksville Pharmacare L",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drug",
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461792293,
+    "wof:geomhash": "bef39ca682d64ed724f88aa842b0e39c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705939405
+      }
+    ],
+    "wof:id": 705939405,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Hicksville Pharmacare L",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drug",
+      "store"
     ]
-},
+  },
   "bbox": [
     -84.76226,
     41.29317,
     -84.76226,
     41.29317
-],
+  ],
   "geometry": {"coordinates":[-84.76226,41.29317],"type":"Point"}
 }

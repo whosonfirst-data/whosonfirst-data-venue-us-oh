@@ -2,61 +2,65 @@
   "id": 689859445,
   "type": "Feature",
   "properties": {
-    "addr:full":"18 S Main St Fort Loramie OH 45845",
-    "addr:housenumber":"18",
-    "addr:postcode":"45845",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.37549,40.349465,-84.37549,40.349465",
-    "geom:latitude":40.349465,
-    "geom:longitude":-84.37549,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"18 S Main St",
-    "sg:city":"Fort Loramie",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "18 S Main St Fort Loramie OH 45845",
+    "addr:housenumber": "18",
+    "addr:postcode": "45845",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.375490,40.349465,-84.375490,40.349465",
+    "geom:latitude": 40.349465,
+    "geom:longitude": -84.37549,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "18 S Main St",
+    "sg:city": "Fort Loramie",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 295 2040",
-    "sg:postcode":"45845",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 295 2040",
+    "sg:postcode": "45845",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1waCyWjKkvizOmCD1JQjBa_40.349465_-84.375490@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1waCyWjKkvizOmCD1JQjBa_40.349465_-84.375490@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783522,
-    "wof:geomhash":"c3b5ef19d7a8c8b6a604567c5f760ca6",
-    "wof:hierarchy":[],
-    "wof:id":689859445,
-    "wof:lastmodified":1472639947,
-    "wof:name":"Silver Cross Catholic Books",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461783522,
+    "wof:geomhash": "e8172d20afb3f67e2556827e03404266",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689859445
+      }
+    ],
+    "wof:id": 689859445,
+    "wof:lastmodified": 1638567085,
+    "wof:name": "Silver Cross Catholic Books",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.37549,
     40.349465,
     -84.37549,
     40.349465
-],
+  ],
   "geometry": {"coordinates":[-84.37549,40.349465],"type":"Point"}
 }

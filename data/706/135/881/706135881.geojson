@@ -2,61 +2,65 @@
   "id": 706135881,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 S Leighton St Kenton OH 43326",
-    "addr:housenumber":"123",
-    "addr:postcode":"43326",
-    "addr:street":"S Leighton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.613313,40.647101,-83.613313,40.647101",
-    "geom:latitude":40.647101,
-    "geom:longitude":-83.613313,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 S Leighton St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 S Leighton St Kenton OH 43326",
+    "addr:housenumber": "123",
+    "addr:postcode": "43326",
+    "addr:street": "S Leighton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.613313,40.647101,-83.613313,40.647101",
+    "geom:latitude": 40.647101,
+    "geom:longitude": -83.613313,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 S Leighton St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 673 3138",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "monument"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 673 3138",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "monument"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1WAhTVDeBedJeoB1tvx7Fs_40.647101_-83.613313@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1WAhTVDeBedJeoB1tvx7Fs_40.647101_-83.613313@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796660,
-    "wof:geomhash":"b3b7f476befc32cef4c022a95e4f5273",
-    "wof:hierarchy":[],
-    "wof:id":706135881,
-    "wof:lastmodified":1472639366,
-    "wof:name":"Kenton Marble & Granite Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "monument"
+    "wof:country": "US",
+    "wof:created": 1461796660,
+    "wof:geomhash": "e550a25bb0be78410faced4ec1dd6fbd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706135881
+      }
+    ],
+    "wof:id": 706135881,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Kenton Marble \u0026 Granite Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "monument"
     ]
-},
+  },
   "bbox": [
     -83.613313,
     40.647101,
     -83.613313,
     40.647101
-],
-  "geometry": {"coordinates":[-83.61331300000001,40.647101],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.613313,40.647101],"type":"Point"}
 }

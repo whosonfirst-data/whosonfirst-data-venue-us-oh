@@ -2,63 +2,67 @@
   "id": 689897929,
   "type": "Feature",
   "properties": {
-    "addr:full":"802 N Main St Killbuck OH 44637",
-    "addr:housenumber":"802",
-    "addr:postcode":"44637",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.983422,40.501487,-81.983422,40.501487",
-    "geom:latitude":40.501487,
-    "geom:longitude":-81.983422,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"802 N Main St",
-    "sg:city":"Killbuck",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "802 N Main St Killbuck OH 44637",
+    "addr:housenumber": "802",
+    "addr:postcode": "44637",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.983422,40.501487,-81.983422,40.501487",
+    "geom:latitude": 40.501487,
+    "geom:longitude": -81.983422,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "802 N Main St",
+    "sg:city": "Killbuck",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 276 2571",
-    "sg:postcode":"44637",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 276 2571",
+    "sg:postcode": "44637",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7aSucIEZSh4wIJDFW8WqhL_40.501487_-81.983422@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7aSucIEZSh4wIJDFW8WqhL_40.501487_-81.983422@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784504,
-    "wof:geomhash":"1903be254c8d3222b607d0d16a10c4e8",
-    "wof:hierarchy":[],
-    "wof:id":689897929,
-    "wof:lastmodified":1472640052,
-    "wof:name":"Millersburg Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461784504,
+    "wof:geomhash": "ee5a962c3e175f85fa8ab7892784a9a1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689897929
+      }
+    ],
+    "wof:id": 689897929,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Millersburg Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.983422,
     40.501487,
     -81.983422,
     40.501487
-],
+  ],
   "geometry": {"coordinates":[-81.983422,40.501487],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706180387,
   "type": "Feature",
   "properties": {
-    "addr:full":"7706 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7706",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.375203,39.319242,-84.375203,39.319242",
-    "geom:latitude":39.319242,
-    "geom:longitude":-84.375203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7706 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7706 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7706",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.375203,39.319242,-84.375203,39.319242",
+    "geom:latitude": 39.319242,
+    "geom:longitude": -84.375203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7706 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 755 2011",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "barbecue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 755 2011",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "barbecue"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7DSOjXWQKRjxcWqdEB7Rfw_39.319242_-84.375203@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7DSOjXWQKRjxcWqdEB7Rfw_39.319242_-84.375203@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797637,
-    "wof:geomhash":"ade956281c1e29d69950e714c82bc63a",
-    "wof:hierarchy":[],
-    "wof:id":706180387,
-    "wof:lastmodified":1472639445,
-    "wof:name":"City Bar B Que",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "barbecue"
+    "wof:country": "US",
+    "wof:created": 1461797637,
+    "wof:geomhash": "50fd3342c07194293c8b363370b81ddc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706180387
+      }
+    ],
+    "wof:id": 706180387,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "City Bar B Que",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "barbecue"
     ]
-},
+  },
   "bbox": [
     -84.375203,
     39.319242,
     -84.375203,
     39.319242
-],
+  ],
   "geometry": {"coordinates":[-84.375203,39.319242],"type":"Point"}
 }

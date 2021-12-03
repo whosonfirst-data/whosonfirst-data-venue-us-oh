@@ -2,61 +2,65 @@
   "id": 706121657,
   "type": "Feature",
   "properties": {
-    "addr:full":"5455 Roeth Rd Houston OH 45333",
-    "addr:housenumber":"",
-    "addr:postcode":"5455;45333",
-    "addr:street":"Roeth Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.329109,40.2541,-84.329109,40.2541",
-    "geom:latitude":40.2541,
-    "geom:longitude":-84.329109,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5455 Roeth Rd",
-    "sg:city":"Houston",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Campground",
-            "type":"Entertainment"
-        }
+    "addr:full": "5455 Roeth Rd Houston OH 45333",
+    "addr:housenumber": "",
+    "addr:postcode": "5455;45333",
+    "addr:street": "Roeth Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.329109,40.254100,-84.329109,40.254100",
+    "geom:latitude": 40.2541,
+    "geom:longitude": -84.329109,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5455 Roeth Rd",
+    "sg:city": "Houston",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Campground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 295 3542",
-    "sg:postcode":"45333",
-    "sg:province":"OH",
-    "sg:tags":[
-        "camp"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 295 3542",
+    "sg:postcode": "45333",
+    "sg:province": "OH",
+    "sg:tags": [
+      "camp"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6xdZMp5drNze7NYfnoCuzB_40.254100_-84.329109@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6xdZMp5drNze7NYfnoCuzB_40.254100_-84.329109@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796303,
-    "wof:geomhash":"585489a3f7b60ce4ba2253dff4ea36c1",
-    "wof:hierarchy":[],
-    "wof:id":706121657,
-    "wof:lastmodified":1472639306,
-    "wof:name":"Camp Christian",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "camp"
+    "wof:country": "US",
+    "wof:created": 1461796303,
+    "wof:geomhash": "34a5cd9accfef0edbc062d749da7ec0a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706121657
+      }
+    ],
+    "wof:id": 706121657,
+    "wof:lastmodified": 1638567004,
+    "wof:name": "Camp Christian",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "camp"
     ]
-},
+  },
   "bbox": [
     -84.329109,
     40.2541,
     -84.329109,
     40.2541
-],
+  ],
   "geometry": {"coordinates":[-84.329109,40.2541],"type":"Point"}
 }

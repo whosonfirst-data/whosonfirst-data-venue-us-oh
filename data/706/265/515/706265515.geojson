@@ -2,63 +2,67 @@
   "id": 706265515,
   "type": "Feature",
   "properties": {
-    "addr:full":"2218 Berrywood Dr Cincinnati OH 45244",
-    "addr:housenumber":"2218",
-    "addr:postcode":"45244",
-    "addr:street":"Berrywood Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.346493,39.095493,-84.346493,39.095493",
-    "geom:latitude":39.095493,
-    "geom:longitude":-84.346493,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2218 Berrywood Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Cleaning & Sanitation",
-            "type":"Services"
-        }
+    "addr:full": "2218 Berrywood Dr Cincinnati OH 45244",
+    "addr:housenumber": "2218",
+    "addr:postcode": "45244",
+    "addr:street": "Berrywood Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.346493,39.095493,-84.346493,39.095493",
+    "geom:latitude": 39.095493,
+    "geom:longitude": -84.346493,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2218 Berrywood Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Cleaning \u0026 Sanitation",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 232 8453",
-    "sg:postcode":"45244",
-    "sg:province":"OH",
-    "sg:tags":[
-        "ceiling",
-        "maintenance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 232 8453",
+    "sg:postcode": "45244",
+    "sg:province": "OH",
+    "sg:tags": [
+      "ceiling",
+      "maintenance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Qm5d71tObDBvyajvz1YXO_39.095493_-84.346493@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Qm5d71tObDBvyajvz1YXO_39.095493_-84.346493@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799512,
-    "wof:geomhash":"41da16c5f4a6fd92a48f86c43a712dae",
-    "wof:hierarchy":[],
-    "wof:id":706265515,
-    "wof:lastmodified":1472639610,
-    "wof:name":"Cincinnati Ceilings",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ceiling",
-        "maintenance"
+    "wof:country": "US",
+    "wof:created": 1461799512,
+    "wof:geomhash": "c9b646b36ccf592fb6d7bebce6c36022",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706265515
+      }
+    ],
+    "wof:id": 706265515,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Cincinnati Ceilings",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ceiling",
+      "maintenance"
     ]
-},
+  },
   "bbox": [
     -84.346493,
     39.095493,
     -84.346493,
     39.095493
-],
+  ],
   "geometry": {"coordinates":[-84.346493,39.095493],"type":"Point"}
 }

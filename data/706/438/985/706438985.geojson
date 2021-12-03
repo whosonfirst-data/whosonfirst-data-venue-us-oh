@@ -2,63 +2,67 @@
   "id": 706438985,
   "type": "Feature",
   "properties": {
-    "addr:full":"9673 State Rte 65 Ottawa OH 45875",
-    "addr:housenumber":"9673",
-    "addr:postcode":"45875",
-    "addr:street":"State Rte 65",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.02924,41.041743,-84.02924,41.041743",
-    "geom:latitude":41.041743,
-    "geom:longitude":-84.02924,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9673 State Rte 65",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "9673 State Rte 65 Ottawa OH 45875",
+    "addr:housenumber": "9673",
+    "addr:postcode": "45875",
+    "addr:street": "State Rte 65",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.029240,41.041743,-84.029240,41.041743",
+    "geom:latitude": 41.041743,
+    "geom:longitude": -84.02924,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9673 State Rte 65",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 435 1233",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "lock",
-        "locksmith"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 435 1233",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "lock",
+      "locksmith"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5KggJK9Mc5aJM2KIUNKb2l_41.041743_-84.029240@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5KggJK9Mc5aJM2KIUNKb2l_41.041743_-84.029240@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803181,
-    "wof:geomhash":"03bf844611ac6b2a2da8820e2a89e95d",
-    "wof:hierarchy":[],
-    "wof:id":706438985,
-    "wof:lastmodified":1472640035,
-    "wof:name":"MIS Locksmith Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lock",
-        "locksmith"
+    "wof:country": "US",
+    "wof:created": 1461803181,
+    "wof:geomhash": "ee93f23c6bf92bc623f76a7ebef14218",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706438985
+      }
+    ],
+    "wof:id": 706438985,
+    "wof:lastmodified": 1638567116,
+    "wof:name": "MIS Locksmith Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lock",
+      "locksmith"
     ]
-},
+  },
   "bbox": [
     -84.02924,
     41.041743,
     -84.02924,
     41.041743
-],
+  ],
   "geometry": {"coordinates":[-84.02924,41.041743],"type":"Point"}
 }

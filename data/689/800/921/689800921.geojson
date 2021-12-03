@@ -2,63 +2,67 @@
   "id": 689800921,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 W Main St Logan OH 43138",
-    "addr:housenumber":"123",
-    "addr:postcode":"43138",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.411841,39.540245,-82.411841,39.540245",
-    "geom:latitude":39.540245,
-    "geom:longitude":-82.411841,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 W Main St",
-    "sg:city":"Logan",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Equipment Rental",
-            "type":"Services"
-        }
+    "addr:full": "123 W Main St Logan OH 43138",
+    "addr:housenumber": "123",
+    "addr:postcode": "43138",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.411841,39.540245,-82.411841,39.540245",
+    "geom:latitude": 39.540245,
+    "geom:longitude": -82.411841,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 W Main St",
+    "sg:city": "Logan",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Equipment Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 385 6664",
-    "sg:postcode":"43138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "furnishing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 385 6664",
+    "sg:postcode": "43138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "furnishing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5USTxedqY6TfKC5Wswd0qn_39.540245_-82.411841@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5USTxedqY6TfKC5Wswd0qn_39.540245_-82.411841@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781899,
-    "wof:geomhash":"83851e787f3978d11fd63ca6522fcb2c",
-    "wof:hierarchy":[],
-    "wof:id":689800921,
-    "wof:lastmodified":1472639869,
-    "wof:name":"Rent To Own",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "furnishing"
+    "wof:country": "US",
+    "wof:created": 1461781899,
+    "wof:geomhash": "77072f0a03a9c2347a95eaec48ed8e02",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689800921
+      }
+    ],
+    "wof:id": 689800921,
+    "wof:lastmodified": 1638567060,
+    "wof:name": "Rent To Own",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "furnishing"
     ]
-},
+  },
   "bbox": [
     -82.411841,
     39.540245,
     -82.411841,
     39.540245
-],
+  ],
   "geometry": {"coordinates":[-82.411841,39.540245],"type":"Point"}
 }

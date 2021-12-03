@@ -2,61 +2,65 @@
   "id": 706018555,
   "type": "Feature",
   "properties": {
-    "addr:full":"2385 Co Rd 9 Delta OH 43515",
-    "addr:housenumber":"2385;9",
-    "addr:postcode":"43515",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.037813,41.504263,-84.037813,41.504263",
-    "geom:latitude":41.504263,
-    "geom:longitude":-84.037813,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2385 Co Rd 9",
-    "sg:city":"Delta",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "2385 Co Rd 9 Delta OH 43515",
+    "addr:housenumber": "2385;9",
+    "addr:postcode": "43515",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.037813,41.504263,-84.037813,41.504263",
+    "geom:latitude": 41.504263,
+    "geom:longitude": -84.037813,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2385 Co Rd 9",
+    "sg:city": "Delta",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 822 5607",
-    "sg:postcode":"43515",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 822 5607",
+    "sg:postcode": "43515",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4WoUnC94GwmRrdfJbiHVRm_41.504263_-84.037813@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4WoUnC94GwmRrdfJbiHVRm_41.504263_-84.037813@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793973,
-    "wof:geomhash":"883849ec10dbeb6807c9a97eddc8d740",
-    "wof:hierarchy":[],
-    "wof:id":706018555,
-    "wof:lastmodified":1472638618,
-    "wof:name":"Fulton Union Christian Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793973,
+    "wof:geomhash": "2be9d654c8745801526964a65f84a0ca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706018555
+      }
+    ],
+    "wof:id": 706018555,
+    "wof:lastmodified": 1638566942,
+    "wof:name": "Fulton Union Christian Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.037813,
     41.504263,
     -84.037813,
     41.504263
-],
+  ],
   "geometry": {"coordinates":[-84.037813,41.504263],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705933041,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 S Market St Somerset OH 43783",
-    "addr:housenumber":"206",
-    "addr:postcode":"43783",
-    "addr:street":"S Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.30096,39.804765,-82.30096,39.804765",
-    "geom:latitude":39.804765,
-    "geom:longitude":-82.30096,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"206 S Market St",
-    "sg:city":"Somerset",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "206 S Market St Somerset OH 43783",
+    "addr:housenumber": "206",
+    "addr:postcode": "43783",
+    "addr:street": "S Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.300960,39.804765,-82.300960,39.804765",
+    "geom:latitude": 39.804765,
+    "geom:longitude": -82.30096,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "206 S Market St",
+    "sg:city": "Somerset",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 743 1307",
-    "sg:postcode":"43783",
-    "sg:province":"OH",
-    "sg:tags":[
-        "printer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 743 1307",
+    "sg:postcode": "43783",
+    "sg:province": "OH",
+    "sg:tags": [
+      "printer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Zlp1RIW0ZTcQv6aiv0iR2_39.804765_-82.300960@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Zlp1RIW0ZTcQv6aiv0iR2_39.804765_-82.300960@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792131,
-    "wof:geomhash":"0ecb26510bb63e508fa840c86da0d3c1",
-    "wof:hierarchy":[],
-    "wof:id":705933041,
-    "wof:lastmodified":1472639648,
-    "wof:name":"Somerset Commercial Printing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "printer"
+    "wof:country": "US",
+    "wof:created": 1461792131,
+    "wof:geomhash": "66d9561bf47ca9c44e2f70bbd7fe19de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705933041
+      }
+    ],
+    "wof:id": 705933041,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Somerset Commercial Printing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "printer"
     ]
-},
+  },
   "bbox": [
     -82.30096,
     39.804765,
     -82.30096,
     39.804765
-],
+  ],
   "geometry": {"coordinates":[-82.30096,39.804765],"type":"Point"}
 }

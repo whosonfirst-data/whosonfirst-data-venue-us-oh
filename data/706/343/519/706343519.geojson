@@ -2,61 +2,65 @@
   "id": 706343519,
   "type": "Feature",
   "properties": {
-    "addr:full":"34 W Broad St Newton Falls OH 44444",
-    "addr:housenumber":"34",
-    "addr:postcode":"44444",
-    "addr:street":"W Broad St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.976547,41.187905,-80.976547,41.187905",
-    "geom:latitude":41.187905,
-    "geom:longitude":-80.976547,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"34 W Broad St",
-    "sg:city":"Newton Falls",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "34 W Broad St Newton Falls OH 44444",
+    "addr:housenumber": "34",
+    "addr:postcode": "44444",
+    "addr:street": "W Broad St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.976547,41.187905,-80.976547,41.187905",
+    "geom:latitude": 41.187905,
+    "geom:longitude": -80.976547,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "34 W Broad St",
+    "sg:city": "Newton Falls",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 872 5020",
-    "sg:postcode":"44444",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 872 5020",
+    "sg:postcode": "44444",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ZJnffTYPWb7qZvnRDHg05_41.187905_-80.976547@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ZJnffTYPWb7qZvnRDHg05_41.187905_-80.976547@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801274,
-    "wof:geomhash":"cb4c174af2fbb3167a969c83e5fcc3b3",
-    "wof:hierarchy":[],
-    "wof:id":706343519,
-    "wof:lastmodified":1472639853,
-    "wof:name":"Legends Photography",
-    "wof:parent_id":420535289,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461801274,
+    "wof:geomhash": "ba297326d087a46dab5bdfc980281e58",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706343519
+      }
+    ],
+    "wof:id": 706343519,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Legends Photography",
+    "wof:parent_id": 420535289,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -80.976547,
     41.187905,
     -80.976547,
     41.187905
-],
+  ],
   "geometry": {"coordinates":[-80.976547,41.187905],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706119985,
   "type": "Feature",
   "properties": {
-    "addr:full":"533 W Main St Eaton OH 45320",
-    "addr:housenumber":"533",
-    "addr:postcode":"45320",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.64319,39.74368,-84.64319,39.74368",
-    "geom:latitude":39.74368,
-    "geom:longitude":-84.64319,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"533 W Main St",
-    "sg:city":"Eaton",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "533 W Main St Eaton OH 45320",
+    "addr:housenumber": "533",
+    "addr:postcode": "45320",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.643190,39.743680,-84.643190,39.743680",
+    "geom:latitude": 39.74368,
+    "geom:longitude": -84.64319,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "533 W Main St",
+    "sg:city": "Eaton",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 456 5672",
-    "sg:postcode":"45320",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 456 5672",
+    "sg:postcode": "45320",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6BTqIDUOzy1MZR2IQRsEQm_39.743680_-84.643190@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6BTqIDUOzy1MZR2IQRsEQm_39.743680_-84.643190@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796265,
-    "wof:geomhash":"1851074dc1711b12c019c8a68704e5d1",
-    "wof:hierarchy":[],
-    "wof:id":706119985,
-    "wof:lastmodified":1472639307,
-    "wof:name":"Mound Hill Union Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461796265,
+    "wof:geomhash": "fc736b379d49c24f0a82567f41396d9a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706119985
+      }
+    ],
+    "wof:id": 706119985,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Mound Hill Union Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -84.64319,
     39.74368,
     -84.64319,
     39.74368
-],
+  ],
   "geometry": {"coordinates":[-84.64319,39.74368],"type":"Point"}
 }

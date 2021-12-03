@@ -2,61 +2,65 @@
   "id": 705834785,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 N Main St Hubbard OH 44425",
-    "addr:housenumber":"20",
-    "addr:postcode":"44425",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.568971,41.157353,-80.568971,41.157353",
-    "geom:latitude":41.157353,
-    "geom:longitude":-80.568971,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 N Main St",
-    "sg:city":"Hubbard",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20 N Main St Hubbard OH 44425",
+    "addr:housenumber": "20",
+    "addr:postcode": "44425",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.568971,41.157353,-80.568971,41.157353",
+    "geom:latitude": 41.157353,
+    "geom:longitude": -80.568971,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20 N Main St",
+    "sg:city": "Hubbard",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 534 0700",
-    "sg:postcode":"44425",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 534 0700",
+    "sg:postcode": "44425",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_33gJ8yiSDTevdZ1GFIjx9N_41.157353_-80.568971@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_33gJ8yiSDTevdZ1GFIjx9N_41.157353_-80.568971@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789839,
-    "wof:geomhash":"3f110e9b45be1b740b2c810df62be11a",
-    "wof:hierarchy":[],
-    "wof:id":705834785,
-    "wof:lastmodified":1472639375,
-    "wof:name":"Belleria Pizzeria",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461789839,
+    "wof:geomhash": "b05ca707c5f088b05497b9b0d222f759",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705834785
+      }
+    ],
+    "wof:id": 705834785,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Belleria Pizzeria",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.568971,
     41.157353,
     -80.568971,
     41.157353
-],
+  ],
   "geometry": {"coordinates":[-80.568971,41.157353],"type":"Point"}
 }

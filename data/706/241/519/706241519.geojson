@@ -2,61 +2,65 @@
   "id": 706241519,
   "type": "Feature",
   "properties": {
-    "addr:full":"4 Main St E Sparta OH 43011",
-    "addr:housenumber":"4",
-    "addr:postcode":"43011",
-    "addr:street":"Main St E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.699355,40.395551,-82.699355,40.395551",
-    "geom:latitude":40.395551,
-    "geom:longitude":-82.699355,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4 Main St E",
-    "sg:city":"Sparta",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "4 Main St E Sparta OH 43011",
+    "addr:housenumber": "4",
+    "addr:postcode": "43011",
+    "addr:street": "Main St E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.699355,40.395551,-82.699355,40.395551",
+    "geom:latitude": 40.395551,
+    "geom:longitude": -82.699355,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4 Main St E",
+    "sg:city": "Sparta",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 768 3783",
-    "sg:postcode":"43011",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 768 3783",
+    "sg:postcode": "43011",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5kwafwdj2ef0XVYqBKqxsG_40.395551_-82.699355@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5kwafwdj2ef0XVYqBKqxsG_40.395551_-82.699355@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798985,
-    "wof:geomhash":"93ae77e7a1bdf666bd472647e9117e4a",
-    "wof:hierarchy":[],
-    "wof:id":706241519,
-    "wof:lastmodified":1472639585,
-    "wof:name":"C & C Refuse Hauling",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461798985,
+    "wof:geomhash": "923a3c42fe78436a984bd4798e6b0e03",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706241519
+      }
+    ],
+    "wof:id": 706241519,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "C \u0026 C Refuse Hauling",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.699355,
     40.395551,
     -82.699355,
     40.395551
-],
+  ],
   "geometry": {"coordinates":[-82.699355,40.395551],"type":"Point"}
 }

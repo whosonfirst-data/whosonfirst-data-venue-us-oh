@@ -2,59 +2,63 @@
   "id": 689686933,
   "type": "Feature",
   "properties": {
-    "addr:full":"535 Vine St Cincinnati OH 45202",
-    "addr:housenumber":"535",
-    "addr:postcode":"45202",
-    "addr:street":"Vine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.51314,39.101825,-84.51314,39.101825",
-    "geom:latitude":39.101825,
-    "geom:longitude":-84.51314,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"535 Vine St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Airport",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "535 Vine St Cincinnati OH 45202",
+    "addr:housenumber": "535",
+    "addr:postcode": "45202",
+    "addr:street": "Vine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.513140,39.101825,-84.513140,39.101825",
+    "geom:latitude": 39.101825,
+    "geom:longitude": -84.51314,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "535 Vine St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Airport",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 421 3600",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125154817,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4k0Re5J271tiJFtxhNh8ee_39.101825_-84.513140@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 421 3600",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125154817,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4k0Re5J271tiJFtxhNh8ee_39.101825_-84.513140@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778795,
-    "wof:geomhash":"0cf1d7fa006c67c2a8ceeedbb63a53af",
-    "wof:hierarchy":[],
-    "wof:id":689686933,
-    "wof:lastmodified":1511318603,
-    "wof:name":"US Airways",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461778795,
+    "wof:geomhash": "0cf1d7fa006c67c2a8ceeedbb63a53af",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689686933
+      }
+    ],
+    "wof:id": 689686933,
+    "wof:lastmodified": 1638567018,
+    "wof:name": "US Airways",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.51314,
     39.101825,
     -84.51314,
     39.101825
-],
-  "geometry": {"coordinates":[-84.51314000000001,39.101825],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.51314,39.101825],"type":"Point"}
 }

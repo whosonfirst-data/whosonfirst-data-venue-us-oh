@@ -2,61 +2,65 @@
   "id": 706240397,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 W Main St Pomeroy OH 45769",
-    "addr:housenumber":"700",
-    "addr:postcode":"45769",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.044674,39.011967,-82.044674,39.011967",
-    "geom:latitude":39.011967,
-    "geom:longitude":-82.044674,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"700 W Main St",
-    "sg:city":"Pomeroy",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "700 W Main St Pomeroy OH 45769",
+    "addr:housenumber": "700",
+    "addr:postcode": "45769",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.044674,39.011967,-82.044674,39.011967",
+    "geom:latitude": 39.011967,
+    "geom:longitude": -82.044674,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "700 W Main St",
+    "sg:city": "Pomeroy",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 992 2891",
-    "sg:postcode":"45769",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 992 2891",
+    "sg:postcode": "45769",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1qnMetZ3L6mb84fnVUwXJ0_39.011967_-82.044674@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1qnMetZ3L6mb84fnVUwXJ0_39.011967_-82.044674@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798954,
-    "wof:geomhash":"36cb1881dfb7959da5f9a44889cb0a6b",
-    "wof:hierarchy":[],
-    "wof:id":706240397,
-    "wof:lastmodified":1472639581,
-    "wof:name":"Big Bend Save-A-Lot",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461798954,
+    "wof:geomhash": "1853ad8bd73983e4e08c335ffd563ec0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706240397
+      }
+    ],
+    "wof:id": 706240397,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Big Bend Save-A-Lot",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -82.044674,
     39.011967,
     -82.044674,
     39.011967
-],
+  ],
   "geometry": {"coordinates":[-82.044674,39.011967],"type":"Point"}
 }

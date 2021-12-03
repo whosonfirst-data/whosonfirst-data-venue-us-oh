@@ -2,63 +2,67 @@
   "id": 705815047,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 State Rte 56 NW London OH 43140",
-    "addr:housenumber":"1800",
-    "addr:postcode":"43140",
-    "addr:street":"State Rte 56 Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.514609,39.968176,-83.514609,39.968176",
-    "geom:latitude":39.968176,
-    "geom:longitude":-83.514609,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1800 State Rte 56 NW",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1800 State Rte 56 NW London OH 43140",
+    "addr:housenumber": "1800",
+    "addr:postcode": "43140",
+    "addr:street": "State Rte 56 Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.514609,39.968176,-83.514609,39.968176",
+    "geom:latitude": 39.968176,
+    "geom:longitude": -83.514609,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1800 State Rte 56 NW",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 6869",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 6869",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6cCrj6cfRNxoNYlbVSYzlO_39.968176_-83.514609@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6cCrj6cfRNxoNYlbVSYzlO_39.968176_-83.514609@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789364,
-    "wof:geomhash":"f267b9ebee08f90890454f400db52ebc",
-    "wof:hierarchy":[],
-    "wof:id":705815047,
-    "wof:lastmodified":1472639291,
-    "wof:name":"Wall To Wall Storage Facility",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461789364,
+    "wof:geomhash": "1009ab6f4952772b33e532f081250098",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705815047
+      }
+    ],
+    "wof:id": 705815047,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Wall To Wall Storage Facility",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -83.514609,
     39.968176,
     -83.514609,
     39.968176
-],
-  "geometry": {"coordinates":[-83.51460899999999,39.968176],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.514609,39.968176],"type":"Point"}
 }

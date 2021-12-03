@@ -2,61 +2,65 @@
   "id": 689824061,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 E Pete Rose Way Cincinnati OH 45202",
-    "addr:housenumber":"201",
-    "addr:postcode":"45202",
-    "addr:street":"E Pete Rose Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.50875,39.097636,-84.50875,39.097636",
-    "geom:latitude":39.097636,
-    "geom:longitude":-84.50875,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"201 E Pete Rose Way",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "201 E Pete Rose Way Cincinnati OH 45202",
+    "addr:housenumber": "201",
+    "addr:postcode": "45202",
+    "addr:street": "E Pete Rose Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.508750,39.097636,-84.508750,39.097636",
+    "geom:latitude": 39.097636,
+    "geom:longitude": -84.50875,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "201 E Pete Rose Way",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 241 4874",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "newspaper"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 241 4874",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "newspaper"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1AtphI7nUUYmeiivcp8Bd1_39.097636_-84.508750@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1AtphI7nUUYmeiivcp8Bd1_39.097636_-84.508750@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782626,
-    "wof:geomhash":"b887194b4d3cfd48b915558cec1a8d0b",
-    "wof:hierarchy":[],
-    "wof:id":689824061,
-    "wof:lastmodified":1472639885,
-    "wof:name":"Dayton Newspapers Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "newspaper"
+    "wof:country": "US",
+    "wof:created": 1461782626,
+    "wof:geomhash": "73818bfc14dc3867d00050aefd5254e1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689824061
+      }
+    ],
+    "wof:id": 689824061,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Dayton Newspapers Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "newspaper"
     ]
-},
+  },
   "bbox": [
     -84.50875,
     39.097636,
     -84.50875,
     39.097636
-],
-  "geometry": {"coordinates":[-84.50875000000001,39.097636],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.50875,39.097636],"type":"Point"}
 }

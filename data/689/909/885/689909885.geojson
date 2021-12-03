@@ -2,61 +2,65 @@
   "id": 689909885,
   "type": "Feature",
   "properties": {
-    "addr:full":"3301 23rd St NW Canton OH 44708",
-    "addr:housenumber":"3301",
-    "addr:postcode":"44708",
-    "addr:street":"23Rd St Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.41106,40.823925,-81.41106,40.823925",
-    "geom:latitude":40.823925,
-    "geom:longitude":-81.41106,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3301 23rd St NW",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3301 23rd St NW Canton OH 44708",
+    "addr:housenumber": "3301",
+    "addr:postcode": "44708",
+    "addr:street": "23Rd St Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.411060,40.823925,-81.411060,40.823925",
+    "geom:latitude": 40.823925,
+    "geom:longitude": -81.41106,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3301 23rd St NW",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 477 2324",
-    "sg:postcode":"44708",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 477 2324",
+    "sg:postcode": "44708",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3L0XrcrdjDCc0iTSGpyAh3_40.823925_-81.411060@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3L0XrcrdjDCc0iTSGpyAh3_40.823925_-81.411060@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784851,
-    "wof:geomhash":"bda35860693dcdd61ba7ccf933607dda",
-    "wof:hierarchy":[],
-    "wof:id":689909885,
-    "wof:lastmodified":1472640073,
-    "wof:name":"Model Composites",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461784851,
+    "wof:geomhash": "70f4fec8287473b692d17ae99b21e458",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689909885
+      }
+    ],
+    "wof:id": 689909885,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Model Composites",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.41106,
     40.823925,
     -81.41106,
     40.823925
-],
-  "geometry": {"coordinates":[-81.41106000000001,40.823925],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.41106,40.823925],"type":"Point"}
 }

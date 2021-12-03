@@ -2,61 +2,65 @@
   "id": 689742665,
   "type": "Feature",
   "properties": {
-    "addr:full":"1301 3rd St Portsmouth OH 45662",
-    "addr:housenumber":"1301",
-    "addr:postcode":"45662",
-    "addr:street":"3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.987912,38.73208,-82.987912,38.73208",
-    "geom:latitude":38.73208,
-    "geom:longitude":-82.987912,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1301 3rd St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1301 3rd St Portsmouth OH 45662",
+    "addr:housenumber": "1301",
+    "addr:postcode": "45662",
+    "addr:street": "3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.987912,38.732080,-82.987912,38.732080",
+    "geom:latitude": 38.73208,
+    "geom:longitude": -82.987912,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1301 3rd St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 355 3186",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 355 3186",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6pzrsBhnUoHifzQWg8bHCm_38.732080_-82.987912@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6pzrsBhnUoHifzQWg8bHCm_38.732080_-82.987912@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780264,
-    "wof:geomhash":"b71e3da4179c1e6ea4e441cece7f1545",
-    "wof:hierarchy":[],
-    "wof:id":689742665,
-    "wof:lastmodified":1472639791,
-    "wof:name":"Intermission Campus Ministry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461780264,
+    "wof:geomhash": "1376aff2e280ce6e9970a0b636e980fb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689742665
+      }
+    ],
+    "wof:id": 689742665,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Intermission Campus Ministry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.987912,
     38.73208,
     -82.987912,
     38.73208
-],
-  "geometry": {"coordinates":[-82.98791199999999,38.73208],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.987912,38.73208],"type":"Point"}
 }

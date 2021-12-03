@@ -2,61 +2,65 @@
   "id": 689870395,
   "type": "Feature",
   "properties": {
-    "addr:full":"41 Front St Milan OH 44846",
-    "addr:housenumber":"41",
-    "addr:postcode":"44846",
-    "addr:street":"Front St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.603105,41.299961,-82.603105,41.299961",
-    "geom:latitude":41.299961,
-    "geom:longitude":-82.603105,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"41 Front St",
-    "sg:city":"Milan",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Home Furnishings",
-            "type":"Retail Goods"
-        }
+    "addr:full": "41 Front St Milan OH 44846",
+    "addr:housenumber": "41",
+    "addr:postcode": "44846",
+    "addr:street": "Front St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.603105,41.299961,-82.603105,41.299961",
+    "geom:latitude": 41.299961,
+    "geom:longitude": -82.603105,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "41 Front St",
+    "sg:city": "Milan",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Home Furnishings",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 499 3505",
-    "sg:postcode":"44846",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pottery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 499 3505",
+    "sg:postcode": "44846",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pottery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Ys1M7P8HYOL39MSazOgWC_41.299961_-82.603105@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Ys1M7P8HYOL39MSazOgWC_41.299961_-82.603105@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783796,
-    "wof:geomhash":"777fcb941637ef335dc32d9ae15bf11e",
-    "wof:hierarchy":[],
-    "wof:id":689870395,
-    "wof:lastmodified":1472639959,
-    "wof:name":"Hidden Creek Pottery",
-    "wof:parent_id":420534733,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pottery"
+    "wof:country": "US",
+    "wof:created": 1461783796,
+    "wof:geomhash": "a97f53e85aba52cb8df2e5e7ff4e9481",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689870395
+      }
+    ],
+    "wof:id": 689870395,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Hidden Creek Pottery",
+    "wof:parent_id": 420534733,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pottery"
     ]
-},
+  },
   "bbox": [
     -82.603105,
     41.299961,
     -82.603105,
     41.299961
-],
+  ],
   "geometry": {"coordinates":[-82.603105,41.299961],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706447007,
   "type": "Feature",
   "properties": {
-    "addr:full":"12125 Green St East Liberty OH 43319",
-    "addr:housenumber":"12125",
-    "addr:postcode":"43319",
-    "addr:street":"Green St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.576965,40.294748,-83.576965,40.294748",
-    "geom:latitude":40.294748,
-    "geom:longitude":-83.576965,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12125 Green St",
-    "sg:city":"East Liberty",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Surveying",
-            "type":"Services"
-        }
+    "addr:full": "12125 Green St East Liberty OH 43319",
+    "addr:housenumber": "12125",
+    "addr:postcode": "43319",
+    "addr:street": "Green St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.576965,40.294748,-83.576965,40.294748",
+    "geom:latitude": 40.294748,
+    "geom:longitude": -83.576965,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12125 Green St",
+    "sg:city": "East Liberty",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Surveying",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 666 5605",
-    "sg:postcode":"43319",
-    "sg:province":"OH",
-    "sg:tags":[
-        "surveyor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 666 5605",
+    "sg:postcode": "43319",
+    "sg:province": "OH",
+    "sg:tags": [
+      "surveyor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5T73q2JkqVaa3SJ7PGGGzC_40.294748_-83.576965@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5T73q2JkqVaa3SJ7PGGGzC_40.294748_-83.576965@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803372,
-    "wof:geomhash":"6edd0da0d8a3324764e2b042192244e3",
-    "wof:hierarchy":[],
-    "wof:id":706447007,
-    "wof:lastmodified":1472640016,
-    "wof:name":"Blackburn Surveying",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "surveyor"
+    "wof:country": "US",
+    "wof:created": 1461803372,
+    "wof:geomhash": "fd6a784b575bbe2dd42a2238ea0753ac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706447007
+      }
+    ],
+    "wof:id": 706447007,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Blackburn Surveying",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "surveyor"
     ]
-},
+  },
   "bbox": [
     -83.576965,
     40.294748,
     -83.576965,
     40.294748
-],
+  ],
   "geometry": {"coordinates":[-83.576965,40.294748],"type":"Point"}
 }

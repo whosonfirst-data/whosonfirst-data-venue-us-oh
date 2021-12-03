@@ -2,61 +2,65 @@
   "id": 689884517,
   "type": "Feature",
   "properties": {
-    "addr:full":"332 Center St Chardon OH 44024",
-    "addr:housenumber":"332",
-    "addr:postcode":"44024",
-    "addr:street":"Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.214653,41.58474,-81.214653,41.58474",
-    "geom:latitude":41.58474,
-    "geom:longitude":-81.214653,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"332 Center St",
-    "sg:city":"Chardon",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        }
+    "addr:full": "332 Center St Chardon OH 44024",
+    "addr:housenumber": "332",
+    "addr:postcode": "44024",
+    "addr:street": "Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.214653,41.584740,-81.214653,41.584740",
+    "geom:latitude": 41.58474,
+    "geom:longitude": -81.214653,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "332 Center St",
+    "sg:city": "Chardon",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 285 2251",
-    "sg:postcode":"44024",
-    "sg:province":"OH",
-    "sg:tags":[
-        "lumber"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 285 2251",
+    "sg:postcode": "44024",
+    "sg:province": "OH",
+    "sg:tags": [
+      "lumber"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1O566CSX0lEfzBaTXPvKVR_41.584740_-81.214653@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1O566CSX0lEfzBaTXPvKVR_41.584740_-81.214653@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784155,
-    "wof:geomhash":"4e43be71ab4f85bb4494a80124ef52c5",
-    "wof:hierarchy":[],
-    "wof:id":689884517,
-    "wof:lastmodified":1472640103,
-    "wof:name":"Chardon Lumber Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lumber"
+    "wof:country": "US",
+    "wof:created": 1461784155,
+    "wof:geomhash": "9ae8a95ade4f591c3afd9685cf382592",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689884517
+      }
+    ],
+    "wof:id": 689884517,
+    "wof:lastmodified": 1638567096,
+    "wof:name": "Chardon Lumber Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lumber"
     ]
-},
+  },
   "bbox": [
     -81.214653,
     41.58474,
     -81.214653,
     41.58474
-],
+  ],
   "geometry": {"coordinates":[-81.214653,41.58474],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706310723,
   "type": "Feature",
   "properties": {
-    "addr:full":"989 N Wooster Ave Strasburg OH 44680",
-    "addr:housenumber":"989",
-    "addr:postcode":"44680",
-    "addr:street":"N Wooster Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.533282,40.60866,-81.533282,40.60866",
-    "geom:latitude":40.60866,
-    "geom:longitude":-81.533282,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"989 N Wooster Ave",
-    "sg:city":"Strasburg",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "989 N Wooster Ave Strasburg OH 44680",
+    "addr:housenumber": "989",
+    "addr:postcode": "44680",
+    "addr:street": "N Wooster Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.533282,40.608660,-81.533282,40.608660",
+    "geom:latitude": 40.60866,
+    "geom:longitude": -81.533282,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "989 N Wooster Ave",
+    "sg:city": "Strasburg",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 878 5896",
-    "sg:postcode":"44680",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 878 5896",
+    "sg:postcode": "44680",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6QIBVoSnM75Rkdks78vio9_40.608660_-81.533282@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6QIBVoSnM75Rkdks78vio9_40.608660_-81.533282@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800531,
-    "wof:geomhash":"7e276dc9f70445ab2bb38f9ba5797325",
-    "wof:hierarchy":[],
-    "wof:id":706310723,
-    "wof:lastmodified":1472639760,
-    "wof:name":"Rosalie's Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461800531,
+    "wof:geomhash": "caa6e3ad13e2cb0f833d855780658b0d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706310723
+      }
+    ],
+    "wof:id": 706310723,
+    "wof:lastmodified": 1638567082,
+    "wof:name": "Rosalie's Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.533282,
     40.60866,
     -81.533282,
     40.60866
-],
+  ],
   "geometry": {"coordinates":[-81.533282,40.60866],"type":"Point"}
 }

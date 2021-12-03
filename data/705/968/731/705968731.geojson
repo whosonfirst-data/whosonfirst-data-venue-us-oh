@@ -2,63 +2,67 @@
   "id": 705968731,
   "type": "Feature",
   "properties": {
-    "addr:full":"6900 Granger Rd Cleveland OH 44131",
-    "addr:housenumber":"6900",
-    "addr:postcode":"44131",
-    "addr:street":"Granger Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.641527,41.413932,-81.641527,41.413932",
-    "geom:latitude":41.413932,
-    "geom:longitude":-81.641527,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6900 Granger Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "6900 Granger Rd Cleveland OH 44131",
+    "addr:housenumber": "6900",
+    "addr:postcode": "44131",
+    "addr:street": "Granger Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.641527,41.413932,-81.641527,41.413932",
+    "geom:latitude": 41.413932,
+    "geom:longitude": -81.641527,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6900 Granger Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 573 0500",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "sg:tags":[
-        "state",
-        "taxation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 573 0500",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "sg:tags": [
+      "state",
+      "taxation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5vpbsmN78JmvgI18damey7_41.413932_-81.641527@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5vpbsmN78JmvgI18damey7_41.413932_-81.641527@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792941,
-    "wof:geomhash":"b40ef44259b630314610a5b43506065e",
-    "wof:hierarchy":[],
-    "wof:id":705968731,
-    "wof:lastmodified":1472639760,
-    "wof:name":"Michigan Dept Of Treasury",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "state",
-        "taxation"
+    "wof:country": "US",
+    "wof:created": 1461792941,
+    "wof:geomhash": "cba9a1e24fdf1ac0dd4d8806af1646db",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705968731
+      }
+    ],
+    "wof:id": 705968731,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Michigan Dept Of Treasury",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "state",
+      "taxation"
     ]
-},
+  },
   "bbox": [
     -81.641527,
     41.413932,
     -81.641527,
     41.413932
-],
+  ],
   "geometry": {"coordinates":[-81.641527,41.413932],"type":"Point"}
 }

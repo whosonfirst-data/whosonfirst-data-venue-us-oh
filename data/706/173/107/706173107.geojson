@@ -2,63 +2,67 @@
   "id": 706173107,
   "type": "Feature",
   "properties": {
-    "addr:full":"1236 Allen Ave East Liverpool OH 43920",
-    "addr:housenumber":"1236",
-    "addr:postcode":"43920",
-    "addr:street":"Allen Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.607612,40.652889,-80.607612,40.652889",
-    "geom:latitude":40.652889,
-    "geom:longitude":-80.607612,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1236 Allen Ave",
-    "sg:city":"East Liverpool",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1236 Allen Ave East Liverpool OH 43920",
+    "addr:housenumber": "1236",
+    "addr:postcode": "43920",
+    "addr:street": "Allen Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.607612,40.652889,-80.607612,40.652889",
+    "geom:latitude": 40.652889,
+    "geom:longitude": -80.607612,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1236 Allen Ave",
+    "sg:city": "East Liverpool",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 386 7300",
-    "sg:postcode":"43920",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 386 7300",
+    "sg:postcode": "43920",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0EIdCJ6NSi7jiB9kveV8Ge_40.652889_-80.607612@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0EIdCJ6NSi7jiB9kveV8Ge_40.652889_-80.607612@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797497,
-    "wof:geomhash":"22d897ed3f1b95a383e6b50b9b560c35",
-    "wof:hierarchy":[],
-    "wof:id":706173107,
-    "wof:lastmodified":1472639394,
-    "wof:name":"5 Star Storage LLC",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461797497,
+    "wof:geomhash": "620243784a962d3b45657a4cd244557a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706173107
+      }
+    ],
+    "wof:id": 706173107,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "5 Star Storage LLC",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -80.607612,
     40.652889,
     -80.607612,
     40.652889
-],
+  ],
   "geometry": {"coordinates":[-80.607612,40.652889],"type":"Point"}
 }

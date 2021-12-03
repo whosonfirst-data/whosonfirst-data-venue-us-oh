@@ -2,61 +2,65 @@
   "id": 706008729,
   "type": "Feature",
   "properties": {
-    "addr:full":"1235 S Court St Circleville OH 43113",
-    "addr:housenumber":"1235",
-    "addr:postcode":"43113",
-    "addr:street":"S Court St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.951981,39.588022,-82.951981,39.588022",
-    "geom:latitude":39.588022,
-    "geom:longitude":-82.951981,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1235 S Court St",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1235 S Court St Circleville OH 43113",
+    "addr:housenumber": "1235",
+    "addr:postcode": "43113",
+    "addr:street": "S Court St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.951981,39.588022,-82.951981,39.588022",
+    "geom:latitude": 39.588022,
+    "geom:longitude": -82.951981,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1235 S Court St",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 420 9440",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 420 9440",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nrnSyU09q2x1wfxT0f9bZ_39.588022_-82.951981@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0nrnSyU09q2x1wfxT0f9bZ_39.588022_-82.951981@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793766,
-    "wof:geomhash":"2fb336dd6495a39e87cb93ca035fb120",
-    "wof:hierarchy":[],
-    "wof:id":706008729,
-    "wof:lastmodified":1472638425,
-    "wof:name":"Physicians Ambulatory Surgical",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461793766,
+    "wof:geomhash": "798d0336167984c5e24bddd632abb9df",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706008729
+      }
+    ],
+    "wof:id": 706008729,
+    "wof:lastmodified": 1638566932,
+    "wof:name": "Physicians Ambulatory Surgical",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -82.951981,
     39.588022,
     -82.951981,
     39.588022
-],
+  ],
   "geometry": {"coordinates":[-82.951981,39.588022],"type":"Point"}
 }

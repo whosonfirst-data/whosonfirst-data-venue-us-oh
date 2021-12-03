@@ -2,61 +2,65 @@
   "id": 705981057,
   "type": "Feature",
   "properties": {
-    "addr:full":"161 Mulberry Ave Pomeroy OH 45769",
-    "addr:housenumber":"161",
-    "addr:postcode":"45769",
-    "addr:street":"Mulberry Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.037339,39.029524,-82.037339,39.029524",
-    "geom:latitude":39.029524,
-    "geom:longitude":-82.037339,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"161 Mulberry Ave",
-    "sg:city":"Pomeroy",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "161 Mulberry Ave Pomeroy OH 45769",
+    "addr:housenumber": "161",
+    "addr:postcode": "45769",
+    "addr:street": "Mulberry Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.037339,39.029524,-82.037339,39.029524",
+    "geom:latitude": 39.029524,
+    "geom:longitude": -82.037339,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "161 Mulberry Ave",
+    "sg:city": "Pomeroy",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 992 5898",
-    "sg:postcode":"45769",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 992 5898",
+    "sg:postcode": "45769",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4qkyLJ3A5AJK1VYeYMbV4U_39.029524_-82.037339@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4qkyLJ3A5AJK1VYeYMbV4U_39.029524_-82.037339@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793187,
-    "wof:geomhash":"fa1e54d5689d275e0904ef789171c638",
-    "wof:hierarchy":[],
-    "wof:id":705981057,
-    "wof:lastmodified":1472639767,
-    "wof:name":"Sacred Heart Rectory",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461793187,
+    "wof:geomhash": "6136760a062a62ff553690f3406554de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705981057
+      }
+    ],
+    "wof:id": 705981057,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Sacred Heart Rectory",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -82.037339,
     39.029524,
     -82.037339,
     39.029524
-],
+  ],
   "geometry": {"coordinates":[-82.037339,39.029524],"type":"Point"}
 }

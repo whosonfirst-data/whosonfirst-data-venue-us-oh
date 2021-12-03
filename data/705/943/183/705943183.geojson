@@ -2,63 +2,67 @@
   "id": 705943183,
   "type": "Feature",
   "properties": {
-    "addr:full":"1003 Bellefontaine Ave Lima OH 45804",
-    "addr:housenumber":"1003",
-    "addr:postcode":"45804",
-    "addr:street":"Bellefontaine Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.088409,40.736052,-84.088409,40.736052",
-    "geom:latitude":40.736052,
-    "geom:longitude":-84.088409,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1003 Bellefontaine Ave",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1003 Bellefontaine Ave Lima OH 45804",
+    "addr:housenumber": "1003",
+    "addr:postcode": "45804",
+    "addr:street": "Bellefontaine Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.088409,40.736052,-84.088409,40.736052",
+    "geom:latitude": 40.736052,
+    "geom:longitude": -84.088409,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1003 Bellefontaine Ave",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 227 0824",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 227 0824",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1CLPQaObENfkUQZpklmEwu_40.736052_-84.088409@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1CLPQaObENfkUQZpklmEwu_40.736052_-84.088409@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792375,
-    "wof:geomhash":"03b4f566d41dda618a32bdb79e939cb3",
-    "wof:hierarchy":[],
-    "wof:id":705943183,
-    "wof:lastmodified":1472639668,
-    "wof:name":"Lima Group Family Physicians",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461792375,
+    "wof:geomhash": "ec780de03f173915930623a9b9615204",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705943183
+      }
+    ],
+    "wof:id": 705943183,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "Lima Group Family Physicians",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.088409,
     40.736052,
     -84.088409,
     40.736052
-],
+  ],
   "geometry": {"coordinates":[-84.088409,40.736052],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706346815,
   "type": "Feature",
   "properties": {
-    "addr:full":"7345 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7345",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.382256,39.320237,-84.382256,39.320237",
-    "geom:latitude":39.320237,
-    "geom:longitude":-84.382256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7345 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "7345 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7345",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.382256,39.320237,-84.382256,39.320237",
+    "geom:latitude": 39.320237,
+    "geom:longitude": -84.382256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7345 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 777 1333",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 777 1333",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1zlwfFNJhYtvPh6yuEIOe8_39.320237_-84.382256@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1zlwfFNJhYtvPh6yuEIOe8_39.320237_-84.382256@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801348,
-    "wof:geomhash":"589ab83a22a806b61a654dbc7a4d0381",
-    "wof:hierarchy":[],
-    "wof:id":706346815,
-    "wof:lastmodified":1472639869,
-    "wof:name":"Tristate West Chester Urgent",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461801348,
+    "wof:geomhash": "1cf8b3b085fa2eafbce5a45f4ec4370a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706346815
+      }
+    ],
+    "wof:id": 706346815,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Tristate West Chester Urgent",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.382256,
     39.320237,
     -84.382256,
     39.320237
-],
+  ],
   "geometry": {"coordinates":[-84.382256,39.320237],"type":"Point"}
 }

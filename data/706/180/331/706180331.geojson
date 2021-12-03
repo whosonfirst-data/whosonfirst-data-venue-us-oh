@@ -2,61 +2,65 @@
   "id": 706180331,
   "type": "Feature",
   "properties": {
-    "addr:full":"810 N Tuscarawas Ave Dover OH 44622",
-    "addr:housenumber":"810",
-    "addr:postcode":"44622",
-    "addr:street":"N Tuscarawas Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.485449,40.524729,-81.485449,40.524729",
-    "geom:latitude":40.524729,
-    "geom:longitude":-81.485449,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"810 N Tuscarawas Ave",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "810 N Tuscarawas Ave Dover OH 44622",
+    "addr:housenumber": "810",
+    "addr:postcode": "44622",
+    "addr:street": "N Tuscarawas Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.485449,40.524729,-81.485449,40.524729",
+    "geom:latitude": 40.524729,
+    "geom:longitude": -81.485449,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "810 N Tuscarawas Ave",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 343 6254",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 343 6254",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7XXpuviXa2dyxdmHGiOsvV_40.524729_-81.485449@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7XXpuviXa2dyxdmHGiOsvV_40.524729_-81.485449@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797635,
-    "wof:geomhash":"d9e23048c7be37fc024ae5a13f2b1773",
-    "wof:hierarchy":[],
-    "wof:id":706180331,
-    "wof:lastmodified":1472639444,
-    "wof:name":"Andy's Market",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461797635,
+    "wof:geomhash": "ebcea51ab27435d9868ca1eb12de1b9c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706180331
+      }
+    ],
+    "wof:id": 706180331,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Andy's Market",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -81.485449,
     40.524729,
     -81.485449,
     40.524729
-],
+  ],
   "geometry": {"coordinates":[-81.485449,40.524729],"type":"Point"}
 }

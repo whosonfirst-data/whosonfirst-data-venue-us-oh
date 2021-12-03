@@ -2,63 +2,67 @@
   "id": 706441429,
   "type": "Feature",
   "properties": {
-    "addr:full":"509 Fairview Ave Versailles OH 45380",
-    "addr:housenumber":"509",
-    "addr:postcode":"45380",
-    "addr:street":"Fairview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.47716,40.219642,-84.47716,40.219642",
-    "geom:latitude":40.219642,
-    "geom:longitude":-84.47716,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"509 Fairview Ave",
-    "sg:city":"Versailles",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "509 Fairview Ave Versailles OH 45380",
+    "addr:housenumber": "509",
+    "addr:postcode": "45380",
+    "addr:street": "Fairview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.477160,40.219642,-84.477160,40.219642",
+    "geom:latitude": 40.219642,
+    "geom:longitude": -84.47716,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "509 Fairview Ave",
+    "sg:city": "Versailles",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 526 4071",
-    "sg:postcode":"45380",
-    "sg:province":"OH",
-    "sg:tags":[
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 526 4071",
+    "sg:postcode": "45380",
+    "sg:province": "OH",
+    "sg:tags": [
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_08HuvIhNBVHB8FTgmZHv68_40.219642_-84.477160@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_08HuvIhNBVHB8FTgmZHv68_40.219642_-84.477160@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803250,
-    "wof:geomhash":"a96c811971e075e11cc4fd4c9dd39b5b",
-    "wof:hierarchy":[],
-    "wof:id":706441429,
-    "wof:lastmodified":1472640022,
-    "wof:name":"Meyer Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461803250,
+    "wof:geomhash": "7d8ec02733095a25bf35ee743c3e87c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706441429
+      }
+    ],
+    "wof:id": 706441429,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Meyer Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.47716,
     40.219642,
     -84.47716,
     40.219642
-],
+  ],
   "geometry": {"coordinates":[-84.47716,40.219642],"type":"Point"}
 }

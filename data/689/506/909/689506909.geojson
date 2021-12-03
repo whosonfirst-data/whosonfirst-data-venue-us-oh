@@ -2,61 +2,65 @@
   "id": 689506909,
   "type": "Feature",
   "properties": {
-    "addr:full":"523 E Water St Troy OH 45373",
-    "addr:housenumber":"523",
-    "addr:postcode":"45373",
-    "addr:street":"E Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.195948,40.037761,-84.195948,40.037761",
-    "geom:latitude":40.037761,
-    "geom:longitude":-84.195948,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"523 E Water St",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "523 E Water St Troy OH 45373",
+    "addr:housenumber": "523",
+    "addr:postcode": "45373",
+    "addr:street": "E Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.195948,40.037761,-84.195948,40.037761",
+    "geom:latitude": 40.037761,
+    "geom:longitude": -84.195948,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "523 E Water St",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 332 6791",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "industrial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 332 6791",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "industrial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1GbY7QFBDw81Kl5WlEAlRj_40.037761_-84.195948@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1GbY7QFBDw81Kl5WlEAlRj_40.037761_-84.195948@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773316,
-    "wof:geomhash":"7c7933b090eef1d4a79bc241713e7e2d",
-    "wof:hierarchy":[],
-    "wof:id":689506909,
-    "wof:lastmodified":1472639140,
-    "wof:name":"Warehouse/Maintenance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "industrial"
+    "wof:country": "US",
+    "wof:created": 1461773316,
+    "wof:geomhash": "3d82af7356a627de4a9892504aadeb33",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689506909
+      }
+    ],
+    "wof:id": 689506909,
+    "wof:lastmodified": 1638566951,
+    "wof:name": "Warehouse/Maintenance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "industrial"
     ]
-},
+  },
   "bbox": [
     -84.195948,
     40.037761,
     -84.195948,
     40.037761
-],
+  ],
   "geometry": {"coordinates":[-84.195948,40.037761],"type":"Point"}
 }

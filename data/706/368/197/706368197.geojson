@@ -2,61 +2,65 @@
   "id": 706368197,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 Fowler Ave Scio OH 43988",
-    "addr:housenumber":"115",
-    "addr:postcode":"43988",
-    "addr:street":"Fowler Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.083115,40.391114,-81.083115,40.391114",
-    "geom:latitude":40.391114,
-    "geom:longitude":-81.083115,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 Fowler Ave",
-    "sg:city":"Scio",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "115 Fowler Ave Scio OH 43988",
+    "addr:housenumber": "115",
+    "addr:postcode": "43988",
+    "addr:street": "Fowler Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.083115,40.391114,-81.083115,40.391114",
+    "geom:latitude": 40.391114,
+    "geom:longitude": -81.083115,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "115 Fowler Ave",
+    "sg:city": "Scio",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 945 5200",
-    "sg:postcode":"43988",
-    "sg:province":"OH",
-    "sg:tags":[
-        "transmission"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 945 5200",
+    "sg:postcode": "43988",
+    "sg:province": "OH",
+    "sg:tags": [
+      "transmission"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_07rl436TrQZFg5TdBZO5h9_40.391114_-81.083115@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_07rl436TrQZFg5TdBZO5h9_40.391114_-81.083115@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801773,
-    "wof:geomhash":"3a01ecdcec726c754e56092e17e89e4e",
-    "wof:hierarchy":[],
-    "wof:id":706368197,
-    "wof:lastmodified":1472639909,
-    "wof:name":"Scio Rebuilders",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transmission"
+    "wof:country": "US",
+    "wof:created": 1461801773,
+    "wof:geomhash": "c922e2be0e770a87ae2faf7873048d59",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706368197
+      }
+    ],
+    "wof:id": 706368197,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Scio Rebuilders",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transmission"
     ]
-},
+  },
   "bbox": [
     -81.083115,
     40.391114,
     -81.083115,
     40.391114
-],
-  "geometry": {"coordinates":[-81.08311500000001,40.391114],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.083115,40.391114],"type":"Point"}
 }

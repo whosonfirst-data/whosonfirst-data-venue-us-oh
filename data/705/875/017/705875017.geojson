@@ -2,61 +2,65 @@
   "id": 705875017,
   "type": "Feature",
   "properties": {
-    "addr:full":"428 E Kibby St Lima OH 45804",
-    "addr:housenumber":"428",
-    "addr:postcode":"45804",
-    "addr:street":"E Kibby St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.099485,40.730263,-84.099485,40.730263",
-    "geom:latitude":40.730263,
-    "geom:longitude":-84.099485,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"428 E Kibby St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "428 E Kibby St Lima OH 45804",
+    "addr:housenumber": "428",
+    "addr:postcode": "45804",
+    "addr:street": "E Kibby St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.099485,40.730263,-84.099485,40.730263",
+    "geom:latitude": 40.730263,
+    "geom:longitude": -84.099485,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "428 E Kibby St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 224 1251",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 224 1251",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1i45yIJU02Fa5V0tDQRUtQ_40.730263_-84.099485@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1i45yIJU02Fa5V0tDQRUtQ_40.730263_-84.099485@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790817,
-    "wof:geomhash":"0667f45d63c04472fb5274f616e1a6d7",
-    "wof:hierarchy":[],
-    "wof:id":705875017,
-    "wof:lastmodified":1472639488,
-    "wof:name":"Kibby Street Church Of Christ",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461790817,
+    "wof:geomhash": "ef64c04c5b250d9181ad41bc82a2700c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705875017
+      }
+    ],
+    "wof:id": 705875017,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Kibby Street Church Of Christ",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.099485,
     40.730263,
     -84.099485,
     40.730263
-],
+  ],
   "geometry": {"coordinates":[-84.099485,40.730263],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706061329,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 S Main St Columbus Grove OH 45830",
-    "addr:housenumber":"105",
-    "addr:postcode":"45830",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.058517,40.919957,-84.058517,40.919957",
-    "geom:latitude":40.919957,
-    "geom:longitude":-84.058517,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 S Main St",
-    "sg:city":"Columbus Grove",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "105 S Main St Columbus Grove OH 45830",
+    "addr:housenumber": "105",
+    "addr:postcode": "45830",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.058517,40.919957,-84.058517,40.919957",
+    "geom:latitude": 40.919957,
+    "geom:longitude": -84.058517,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 S Main St",
+    "sg:city": "Columbus Grove",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 659 2999",
-    "sg:postcode":"45830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 659 2999",
+    "sg:postcode": "45830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Kk9mAOxNjD3BLG5Js4GLa_40.919957_-84.058517@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Kk9mAOxNjD3BLG5Js4GLa_40.919957_-84.058517@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794839,
-    "wof:geomhash":"0f879400050c3c3eaaff8d615133d3d0",
-    "wof:hierarchy":[],
-    "wof:id":706061329,
-    "wof:lastmodified":1472639155,
-    "wof:name":"Fire Dept-Columbus Grove",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461794839,
+    "wof:geomhash": "489d010e24c9b522d98e7fef42fdc09a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706061329
+      }
+    ],
+    "wof:id": 706061329,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Fire Dept-Columbus Grove",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.058517,
     40.919957,
     -84.058517,
     40.919957
-],
-  "geometry": {"coordinates":[-84.05851699999999,40.919957],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.058517,40.919957],"type":"Point"}
 }

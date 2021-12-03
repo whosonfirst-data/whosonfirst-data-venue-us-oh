@@ -2,63 +2,67 @@
   "id": 706642035,
   "type": "Feature",
   "properties": {
-    "addr:full":"463 Ohio Pike Cincinnati OH 45255",
-    "addr:housenumber":"463",
-    "addr:postcode":"45255",
-    "addr:street":"Ohio Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.309676,39.071599,-84.309676,39.071599",
-    "geom:latitude":39.071599,
-    "geom:longitude":-84.309676,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"463 Ohio Pike",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "463 Ohio Pike Cincinnati OH 45255",
+    "addr:housenumber": "463",
+    "addr:postcode": "45255",
+    "addr:street": "Ohio Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.309676,39.071599,-84.309676,39.071599",
+    "geom:latitude": 39.071599,
+    "geom:longitude": -84.309676,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "463 Ohio Pike",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 7778",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medicine",
-        "internal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 7778",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medicine",
+      "internal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1klrgop89SFMriS6qhVJoO_39.071599_-84.309676@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1klrgop89SFMriS6qhVJoO_39.071599_-84.309676@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807616,
-    "wof:geomhash":"d03bbb21b8b573aa9c6fcf6a5a3d5162",
-    "wof:hierarchy":[],
-    "wof:id":706642035,
-    "wof:lastmodified":1472640247,
-    "wof:name":"Peters Marianne MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medicine",
-        "internal"
+    "wof:country": "US",
+    "wof:created": 1461807616,
+    "wof:geomhash": "d14a64d30ae1ab1cc0630458c0888206",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642035
+      }
+    ],
+    "wof:id": 706642035,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Peters Marianne MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medicine",
+      "internal"
     ]
-},
+  },
   "bbox": [
     -84.309676,
     39.071599,
     -84.309676,
     39.071599
-],
+  ],
   "geometry": {"coordinates":[-84.309676,39.071599],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705859151,
   "type": "Feature",
   "properties": {
-    "addr:full":"90 S Main St Johnstown OH 43031",
-    "addr:housenumber":"90",
-    "addr:postcode":"43031",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.683359,40.152402,-82.683359,40.152402",
-    "geom:latitude":40.152402,
-    "geom:longitude":-82.683359,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"90 S Main St",
-    "sg:city":"Johnstown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "90 S Main St Johnstown OH 43031",
+    "addr:housenumber": "90",
+    "addr:postcode": "43031",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.683359,40.152402,-82.683359,40.152402",
+    "geom:latitude": 40.152402,
+    "geom:longitude": -82.683359,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "90 S Main St",
+    "sg:city": "Johnstown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 965 4833",
-    "sg:postcode":"43031",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 965 4833",
+    "sg:postcode": "43031",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1kxghhi0U8GDNORSpeoR2l_40.152402_-82.683359@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1kxghhi0U8GDNORSpeoR2l_40.152402_-82.683359@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790405,
-    "wof:geomhash":"32b46ed65eb2a5ca3c37ab8f1b967009",
-    "wof:hierarchy":[],
-    "wof:id":705859151,
-    "wof:lastmodified":1472639408,
-    "wof:name":"Longbranch Pizza Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461790405,
+    "wof:geomhash": "e5c8d2581a50cf33ffeee019cb817867",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705859151
+      }
+    ],
+    "wof:id": 705859151,
+    "wof:lastmodified": 1638567016,
+    "wof:name": "Longbranch Pizza Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.683359,
     40.152402,
     -82.683359,
     40.152402
-],
+  ],
   "geometry": {"coordinates":[-82.683359,40.152402],"type":"Point"}
 }

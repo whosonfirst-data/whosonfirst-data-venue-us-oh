@@ -2,61 +2,65 @@
   "id": 706047301,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 N Cherry St Celina OH 45822",
-    "addr:housenumber":"110",
-    "addr:postcode":"45822",
-    "addr:street":"N Cherry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.567703,40.5499,-84.567703,40.5499",
-    "geom:latitude":40.5499,
-    "geom:longitude":-84.567703,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 N Cherry St",
-    "sg:city":"Celina",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "110 N Cherry St Celina OH 45822",
+    "addr:housenumber": "110",
+    "addr:postcode": "45822",
+    "addr:street": "N Cherry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.567703,40.549900,-84.567703,40.549900",
+    "geom:latitude": 40.5499,
+    "geom:longitude": -84.567703,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "110 N Cherry St",
+    "sg:city": "Celina",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 586 9556",
-    "sg:postcode":"45822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 586 9556",
+    "sg:postcode": "45822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4w0fXHSCPDfIbUgvpOcosZ_40.549900_-84.567703@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4w0fXHSCPDfIbUgvpOcosZ_40.549900_-84.567703@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794546,
-    "wof:geomhash":"1c70deda1c737a1ba87be4aa866ee339",
-    "wof:hierarchy":[],
-    "wof:id":706047301,
-    "wof:lastmodified":1472638968,
-    "wof:name":"Hair To Please",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461794546,
+    "wof:geomhash": "e6d739eae8f3dc3856cab7b77e9d53d2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706047301
+      }
+    ],
+    "wof:id": 706047301,
+    "wof:lastmodified": 1638566967,
+    "wof:name": "Hair To Please",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.567703,
     40.5499,
     -84.567703,
     40.5499
-],
-  "geometry": {"coordinates":[-84.56770299999999,40.5499],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.567703,40.5499],"type":"Point"}
 }

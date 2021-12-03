@@ -2,61 +2,65 @@
   "id": 705693999,
   "type": "Feature",
   "properties": {
-    "addr:full":"1201 Neubrecht Rd Lima OH 45801",
-    "addr:housenumber":"1201",
-    "addr:postcode":"45801",
-    "addr:street":"Neubrecht Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.079945,40.755635,-84.079945,40.755635",
-    "geom:latitude":40.755635,
-    "geom:longitude":-84.079945,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1201 Neubrecht Rd",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1201 Neubrecht Rd Lima OH 45801",
+    "addr:housenumber": "1201",
+    "addr:postcode": "45801",
+    "addr:street": "Neubrecht Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.079945,40.755635,-84.079945,40.755635",
+    "geom:latitude": 40.755635,
+    "geom:longitude": -84.079945,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1201 Neubrecht Rd",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 222 3515",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 222 3515",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2prZoShqCYwtPyk7xCMo45_40.755635_-84.079945@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2prZoShqCYwtPyk7xCMo45_40.755635_-84.079945@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786266,
-    "wof:geomhash":"ff0c046761d86a6d9d519f788b2e0ba7",
-    "wof:hierarchy":[],
-    "wof:id":705693999,
-    "wof:lastmodified":1472638241,
-    "wof:name":"Murinos Italian Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461786266,
+    "wof:geomhash": "fd5acbec2b36f68cfba8df231d53e876",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705693999
+      }
+    ],
+    "wof:id": 705693999,
+    "wof:lastmodified": 1638566913,
+    "wof:name": "Murinos Italian Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.079945,
     40.755635,
     -84.079945,
     40.755635
-],
+  ],
   "geometry": {"coordinates":[-84.079945,40.755635],"type":"Point"}
 }

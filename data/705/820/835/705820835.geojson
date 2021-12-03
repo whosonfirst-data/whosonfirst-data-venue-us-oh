@@ -2,61 +2,65 @@
   "id": 705820835,
   "type": "Feature",
   "properties": {
-    "addr:full":"10849 Main St Clarksburg OH 43115",
-    "addr:housenumber":"10849",
-    "addr:postcode":"43115",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.153722,39.505948,-83.153722,39.505948",
-    "geom:latitude":39.505948,
-    "geom:longitude":-83.153722,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10849 Main St",
-    "sg:city":"Clarksburg",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "10849 Main St Clarksburg OH 43115",
+    "addr:housenumber": "10849",
+    "addr:postcode": "43115",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.153722,39.505948,-83.153722,39.505948",
+    "geom:latitude": 39.505948,
+    "geom:longitude": -83.153722,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10849 Main St",
+    "sg:city": "Clarksburg",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 993 4300",
-    "sg:postcode":"43115",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 993 4300",
+    "sg:postcode": "43115",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Z53uPqKuTheZBwLo8mczb_39.505948_-83.153722@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Z53uPqKuTheZBwLo8mczb_39.505948_-83.153722@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789500,
-    "wof:geomhash":"5e1eaa7535c9cc02e20980f5084a1b50",
-    "wof:hierarchy":[],
-    "wof:id":705820835,
-    "wof:lastmodified":1472639356,
-    "wof:name":"Clarksburg Village Office",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461789500,
+    "wof:geomhash": "4ec96c7ce3e976b3255df820ce3ecf82",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705820835
+      }
+    ],
+    "wof:id": 705820835,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Clarksburg Village Office",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -83.153722,
     39.505948,
     -83.153722,
     39.505948
-],
+  ],
   "geometry": {"coordinates":[-83.153722,39.505948],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706079621,
   "type": "Feature",
   "properties": {
-    "addr:full":"774 Larri Ct West Jefferson OH 43162",
-    "addr:housenumber":"774",
-    "addr:postcode":"43162",
-    "addr:street":"Larri Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.280896,39.93595,-83.280896,39.93595",
-    "geom:latitude":39.93595,
-    "geom:longitude":-83.280896,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"774 Larri Ct",
-    "sg:city":"West Jefferson",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "774 Larri Ct West Jefferson OH 43162",
+    "addr:housenumber": "774",
+    "addr:postcode": "43162",
+    "addr:street": "Larri Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.280896,39.935950,-83.280896,39.935950",
+    "geom:latitude": 39.93595,
+    "geom:longitude": -83.280896,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "774 Larri Ct",
+    "sg:city": "West Jefferson",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 879 5470",
-    "sg:postcode":"43162",
-    "sg:province":"OH",
-    "sg:tags":[
-        "arrangement"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 879 5470",
+    "sg:postcode": "43162",
+    "sg:province": "OH",
+    "sg:tags": [
+      "arrangement"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7T7EGepNEJ9JzBXHAHfUxG_39.935950_-83.280896@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7T7EGepNEJ9JzBXHAHfUxG_39.935950_-83.280896@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795246,
-    "wof:geomhash":"99bd6ffc5ad55968d0ead8623b00eac6",
-    "wof:hierarchy":[],
-    "wof:id":706079621,
-    "wof:lastmodified":1472639198,
-    "wof:name":"Stover Transport",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "arrangement"
+    "wof:country": "US",
+    "wof:created": 1461795246,
+    "wof:geomhash": "1fabeb7818ec8026ab3a0cfab603db65",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706079621
+      }
+    ],
+    "wof:id": 706079621,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Stover Transport",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "arrangement"
     ]
-},
+  },
   "bbox": [
     -83.280896,
     39.93595,
     -83.280896,
     39.93595
-],
+  ],
   "geometry": {"coordinates":[-83.280896,39.93595],"type":"Point"}
 }

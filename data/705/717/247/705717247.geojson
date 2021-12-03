@@ -2,61 +2,65 @@
   "id": 705717247,
   "type": "Feature",
   "properties": {
-    "addr:full":"616 S Collett St Lima OH 45805",
-    "addr:housenumber":"616",
-    "addr:postcode":"45805",
-    "addr:street":"S Collett St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.119213,40.733067,-84.119213,40.733067",
-    "geom:latitude":40.733067,
-    "geom:longitude":-84.119213,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"616 S Collett St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "616 S Collett St Lima OH 45805",
+    "addr:housenumber": "616",
+    "addr:postcode": "45805",
+    "addr:street": "S Collett St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.119213,40.733067,-84.119213,40.733067",
+    "geom:latitude": 40.733067,
+    "geom:longitude": -84.119213,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "616 S Collett St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 227 6341",
-    "sg:postcode":"45805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "social"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 227 6341",
+    "sg:postcode": "45805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "social"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4lGbTwC49zU8gUUAnN8TEF_40.733067_-84.119213@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4lGbTwC49zU8gUUAnN8TEF_40.733067_-84.119213@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787091,
-    "wof:geomhash":"e8a371cd70982c15309c01481f35298e",
-    "wof:hierarchy":[],
-    "wof:id":705717247,
-    "wof:lastmodified":1472638431,
-    "wof:name":"United Way of Greater Lima",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "social"
+    "wof:country": "US",
+    "wof:created": 1461787091,
+    "wof:geomhash": "549bad019d3fc07abe39d9d9ea929460",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705717247
+      }
+    ],
+    "wof:id": 705717247,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "United Way of Greater Lima",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "social"
     ]
-},
+  },
   "bbox": [
     -84.119213,
     40.733067,
     -84.119213,
     40.733067
-],
+  ],
   "geometry": {"coordinates":[-84.119213,40.733067],"type":"Point"}
 }

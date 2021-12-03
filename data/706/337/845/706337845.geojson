@@ -2,67 +2,71 @@
   "id": 706337845,
   "type": "Feature",
   "properties": {
-    "addr:full":"27000 Chagrin Blvd Cleveland OH 44122",
-    "addr:housenumber":"27000",
-    "addr:postcode":"44122",
-    "addr:street":"Chagrin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.48941,41.462808,-81.48941,41.462808",
-    "geom:latitude":41.462808,
-    "geom:longitude":-81.48941,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"27000 Chagrin Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "27000 Chagrin Blvd Cleveland OH 44122",
+    "addr:housenumber": "27000",
+    "addr:postcode": "44122",
+    "addr:street": "Chagrin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.489410,41.462808,-81.489410,41.462808",
+    "geom:latitude": 41.462808,
+    "geom:longitude": -81.48941,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "27000 Chagrin Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 831 1469",
-    "sg:postcode":"44122",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repair",
-        "station",
-        "gasoline",
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 831 1469",
+    "sg:postcode": "44122",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repair",
+      "station",
+      "gasoline",
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55jYBoSB3zWEr1TZbmHTHT_41.462808_-81.489410@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55jYBoSB3zWEr1TZbmHTHT_41.462808_-81.489410@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801154,
-    "wof:geomhash":"f79543eacec5e95fd6be2c91fa89b5f5",
-    "wof:hierarchy":[],
-    "wof:id":706337845,
-    "wof:lastmodified":1472639859,
-    "wof:name":"Mooneys Gulf",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repair",
-        "station",
-        "gasoline",
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461801154,
+    "wof:geomhash": "4afe9be4126693ae38e95d4d74cc4f2a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706337845
+      }
+    ],
+    "wof:id": 706337845,
+    "wof:lastmodified": 1638567089,
+    "wof:name": "Mooneys Gulf",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repair",
+      "station",
+      "gasoline",
+      "general"
     ]
-},
+  },
   "bbox": [
     -81.48941,
     41.462808,
     -81.48941,
     41.462808
-],
-  "geometry": {"coordinates":[-81.48941000000001,41.462808],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.48941,41.462808],"type":"Point"}
 }

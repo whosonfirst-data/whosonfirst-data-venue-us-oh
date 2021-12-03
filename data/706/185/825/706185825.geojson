@@ -2,61 +2,65 @@
   "id": 706185825,
   "type": "Feature",
   "properties": {
-    "addr:full":"12123 Walnut Creek Pike Ashville OH 43103",
-    "addr:housenumber":"12123",
-    "addr:postcode":"43103",
-    "addr:street":"Walnut Creek Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.911906,39.766384,-82.911906,39.766384",
-    "geom:latitude":39.766384,
-    "geom:longitude":-82.911906,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12123 Walnut Creek Pike",
-    "sg:city":"Ashville",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "12123 Walnut Creek Pike Ashville OH 43103",
+    "addr:housenumber": "12123",
+    "addr:postcode": "43103",
+    "addr:street": "Walnut Creek Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.911906,39.766384,-82.911906,39.766384",
+    "geom:latitude": 39.766384,
+    "geom:longitude": -82.911906,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12123 Walnut Creek Pike",
+    "sg:city": "Ashville",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 983 2753",
-    "sg:postcode":"43103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 983 2753",
+    "sg:postcode": "43103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0dAp4EZCNmptmJ0VsxyoyJ_39.766384_-82.911906@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0dAp4EZCNmptmJ0VsxyoyJ_39.766384_-82.911906@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797767,
-    "wof:geomhash":"3758ee4513fdf1d2f8e34e2a38c422e5",
-    "wof:hierarchy":[],
-    "wof:id":706185825,
-    "wof:lastmodified":1472639467,
-    "wof:name":"Mark Perrill Auction Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461797767,
+    "wof:geomhash": "5f8f6f630fe56bdb33c34347ba18f9b7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706185825
+      }
+    ],
+    "wof:id": 706185825,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Mark Perrill Auction Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -82.911906,
     39.766384,
     -82.911906,
     39.766384
-],
+  ],
   "geometry": {"coordinates":[-82.911906,39.766384],"type":"Point"}
 }

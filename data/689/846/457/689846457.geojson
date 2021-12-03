@@ -2,61 +2,65 @@
   "id": 689846457,
   "type": "Feature",
   "properties": {
-    "addr:full":"4430 Main Ave Ashtabula OH 44004",
-    "addr:housenumber":"4430",
-    "addr:postcode":"44004",
-    "addr:street":"Main Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.781677,41.866565,-80.781677,41.866565",
-    "geom:latitude":41.866565,
-    "geom:longitude":-80.781677,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4430 Main Ave",
-    "sg:city":"Ashtabula",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4430 Main Ave Ashtabula OH 44004",
+    "addr:housenumber": "4430",
+    "addr:postcode": "44004",
+    "addr:street": "Main Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.781677,41.866565,-80.781677,41.866565",
+    "geom:latitude": 41.866565,
+    "geom:longitude": -80.781677,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4430 Main Ave",
+    "sg:city": "Ashtabula",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 992 8800",
-    "sg:postcode":"44004",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 992 8800",
+    "sg:postcode": "44004",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2prWNQC4bz1oYZ8uo3fxMe_41.866565_-80.781677@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2prWNQC4bz1oYZ8uo3fxMe_41.866565_-80.781677@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783238,
-    "wof:geomhash":"568788c7059219265ceb8991e5e14128",
-    "wof:hierarchy":[],
-    "wof:id":689846457,
-    "wof:lastmodified":1472639925,
-    "wof:name":"Dental Specialists-Ashtabula",
-    "wof:parent_id":420534553,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461783238,
+    "wof:geomhash": "58f8b70ac80c18a877897bd948a698d6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689846457
+      }
+    ],
+    "wof:id": 689846457,
+    "wof:lastmodified": 1638567078,
+    "wof:name": "Dental Specialists-Ashtabula",
+    "wof:parent_id": 420534553,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -80.781677,
     41.866565,
     -80.781677,
     41.866565
-],
+  ],
   "geometry": {"coordinates":[-80.781677,41.866565],"type":"Point"}
 }

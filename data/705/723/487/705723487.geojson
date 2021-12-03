@@ -2,60 +2,64 @@
   "id": 705723487,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 S Heincke Rd Miamisburg OH 45342",
-    "addr:housenumber":"220",
-    "addr:postcode":"45342",
-    "addr:street":"S Heincke Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.264949,39.637558,-84.264949,39.637558",
-    "geom:latitude":39.637558,
-    "geom:longitude":-84.264949,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"220 S Heincke Rd",
-    "sg:city":"Miamisburg",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "220 S Heincke Rd Miamisburg OH 45342",
+    "addr:housenumber": "220",
+    "addr:postcode": "45342",
+    "addr:street": "S Heincke Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.264949,39.637558,-84.264949,39.637558",
+    "geom:latitude": 39.637558,
+    "geom:longitude": -84.264949,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "220 S Heincke Rd",
+    "sg:city": "Miamisburg",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 866 3529",
-    "sg:postcode":"45342",
-    "sg:province":"OH",
-    "sg:website":"www.wendys.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573903,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3hHyKtQzti6rRM0R3LUldr_39.637558_-84.264949@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 866 3529",
+    "sg:postcode": "45342",
+    "sg:province": "OH",
+    "sg:website": "www.wendys.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573903,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3hHyKtQzti6rRM0R3LUldr_39.637558_-84.264949@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787243,
-    "wof:geomhash":"7b1a2576b1627b28d154c0b89f29946a",
-    "wof:hierarchy":[],
-    "wof:id":705723487,
-    "wof:lastmodified":1511322588,
-    "wof:name":"Wendy's",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461787243,
+    "wof:geomhash": "7b1a2576b1627b28d154c0b89f29946a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705723487
+      }
+    ],
+    "wof:id": 705723487,
+    "wof:lastmodified": 1638566939,
+    "wof:name": "Wendy's",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.264949,
     39.637558,
     -84.264949,
     39.637558
-],
+  ],
   "geometry": {"coordinates":[-84.264949,39.637558],"type":"Point"}
 }

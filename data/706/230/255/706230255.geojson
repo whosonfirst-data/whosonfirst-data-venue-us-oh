@@ -2,61 +2,65 @@
   "id": 706230255,
   "type": "Feature",
   "properties": {
-    "addr:full":"666 W Market St Tiffin OH 44883",
-    "addr:housenumber":"666",
-    "addr:postcode":"44883",
-    "addr:street":"W Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.203642,41.111833,-83.203642,41.111833",
-    "geom:latitude":41.111833,
-    "geom:longitude":-83.203642,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"666 W Market St",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "666 W Market St Tiffin OH 44883",
+    "addr:housenumber": "666",
+    "addr:postcode": "44883",
+    "addr:street": "W Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.203642,41.111833,-83.203642,41.111833",
+    "geom:latitude": 41.111833,
+    "geom:longitude": -83.203642,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "666 W Market St",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 443 0284",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 443 0284",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7QCsch9N2s8lhl6ZldliSs_41.111833_-83.203642@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7QCsch9N2s8lhl6ZldliSs_41.111833_-83.203642@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798707,
-    "wof:geomhash":"4428fb525dc5c172fddaa3ac86e8d2ba",
-    "wof:hierarchy":[],
-    "wof:id":706230255,
-    "wof:lastmodified":1472639525,
-    "wof:name":"Tiffin Bake Shop Westgate",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:country": "US",
+    "wof:created": 1461798707,
+    "wof:geomhash": "9a0db142552658742aa5207ebc981ede",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706230255
+      }
+    ],
+    "wof:id": 706230255,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Tiffin Bake Shop Westgate",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -83.203642,
     41.111833,
     -83.203642,
     41.111833
-],
+  ],
   "geometry": {"coordinates":[-83.203642,41.111833],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689513659,
   "type": "Feature",
   "properties": {
-    "addr:full":"840 Ohio St Delphos OH 45833",
-    "addr:housenumber":"840",
-    "addr:postcode":"45833",
-    "addr:street":"Ohio St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.350611,40.841657,-84.350611,40.841657",
-    "geom:latitude":40.841657,
-    "geom:longitude":-84.350611,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"840 Ohio St",
-    "sg:city":"Delphos",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "840 Ohio St Delphos OH 45833",
+    "addr:housenumber": "840",
+    "addr:postcode": "45833",
+    "addr:street": "Ohio St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.350611,40.841657,-84.350611,40.841657",
+    "geom:latitude": 40.841657,
+    "geom:longitude": -84.350611,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "840 Ohio St",
+    "sg:city": "Delphos",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 692 5946",
-    "sg:postcode":"45833",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 692 5946",
+    "sg:postcode": "45833",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5czRLe0H0wPHwiG7eY8klt_40.841657_-84.350611@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5czRLe0H0wPHwiG7eY8klt_40.841657_-84.350611@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773517,
-    "wof:geomhash":"1fedc323814e785ce720a8367cb1ea17",
-    "wof:hierarchy":[],
-    "wof:id":689513659,
-    "wof:lastmodified":1472639141,
-    "wof:name":"Kessen Veterinary Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461773517,
+    "wof:geomhash": "c88940017e7a2549392985d53e2f8ff1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689513659
+      }
+    ],
+    "wof:id": 689513659,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Kessen Veterinary Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.350611,
     40.841657,
     -84.350611,
     40.841657
-],
+  ],
   "geometry": {"coordinates":[-84.350611,40.841657],"type":"Point"}
 }

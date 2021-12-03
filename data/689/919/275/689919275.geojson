@@ -2,61 +2,65 @@
   "id": 689919275,
   "type": "Feature",
   "properties": {
-    "addr:full":"450 Willow Rd Springfield OH 45502",
-    "addr:housenumber":"450",
-    "addr:postcode":"45502",
-    "addr:street":"Willow Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.77586,40.010687,-83.77586,40.010687",
-    "geom:latitude":40.010687,
-    "geom:longitude":-83.77586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"450 Willow Rd",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "450 Willow Rd Springfield OH 45502",
+    "addr:housenumber": "450",
+    "addr:postcode": "45502",
+    "addr:street": "Willow Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.775860,40.010687,-83.775860,40.010687",
+    "geom:latitude": 40.010687,
+    "geom:longitude": -83.77586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "450 Willow Rd",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 325 4625",
-    "sg:postcode":"45502",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 325 4625",
+    "sg:postcode": "45502",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ZX14A6oR7bHdrko4ae7Jc_40.010687_-83.775860@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5ZX14A6oR7bHdrko4ae7Jc_40.010687_-83.775860@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785100,
-    "wof:geomhash":"b9d986cd28ca2523ff9eefc9ca7b0a95",
-    "wof:hierarchy":[],
-    "wof:id":689919275,
-    "wof:lastmodified":1472640072,
-    "wof:name":"Unity Center Of Truth",
-    "wof:parent_id":420534599,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461785100,
+    "wof:geomhash": "0cb1788eb0d27973b4a870ec84f65b02",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689919275
+      }
+    ],
+    "wof:id": 689919275,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Unity Center Of Truth",
+    "wof:parent_id": 420534599,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.77586,
     40.010687,
     -83.77586,
     40.010687
-],
-  "geometry": {"coordinates":[-83.77585999999999,40.010687],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.77586,40.010687],"type":"Point"}
 }

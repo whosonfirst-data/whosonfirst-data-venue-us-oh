@@ -2,65 +2,69 @@
   "id": 706365073,
   "type": "Feature",
   "properties": {
-    "addr:full":"10546 Florida St Aurora OH 44202",
-    "addr:housenumber":"10546",
-    "addr:postcode":"44202",
-    "addr:street":"Florida St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.393038,41.347514,-81.393038,41.347514",
-    "geom:latitude":41.347514,
-    "geom:longitude":-81.393038,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10546 Florida St",
-    "sg:city":"Aurora",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10546 Florida St Aurora OH 44202",
+    "addr:housenumber": "10546",
+    "addr:postcode": "44202",
+    "addr:street": "Florida St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.393038,41.347514,-81.393038,41.347514",
+    "geom:latitude": 41.347514,
+    "geom:longitude": -81.393038,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10546 Florida St",
+    "sg:city": "Aurora",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 562 1991",
-    "sg:postcode":"44202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "distance",
-        "long",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 562 1991",
+    "sg:postcode": "44202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "distance",
+      "long",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Pb3fsCHr5xtQbtWclxdoo_41.347514_-81.393038@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Pb3fsCHr5xtQbtWclxdoo_41.347514_-81.393038@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801715,
-    "wof:geomhash":"1ae8e6a71de38cf29fa9d993b84cfa85",
-    "wof:hierarchy":[],
-    "wof:id":706365073,
-    "wof:lastmodified":1472639905,
-    "wof:name":"Vantrax Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "distance",
-        "long",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461801715,
+    "wof:geomhash": "6bc4fd53c5b05e7abc8912c06cdc9577",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706365073
+      }
+    ],
+    "wof:id": 706365073,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Vantrax Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "distance",
+      "long",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.393038,
     41.347514,
     -81.393038,
     41.347514
-],
+  ],
   "geometry": {"coordinates":[-81.393038,41.347514],"type":"Point"}
 }

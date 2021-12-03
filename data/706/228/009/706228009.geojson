@@ -2,61 +2,65 @@
   "id": 706228009,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Fuhr St Dennison OH 44621",
-    "addr:housenumber":"400",
-    "addr:postcode":"44621",
-    "addr:street":"Fuhr St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.33219,40.40197,-81.33219,40.40197",
-    "geom:latitude":40.40197,
-    "geom:longitude":-81.33219,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"400 Fuhr St",
-    "sg:city":"Dennison",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "400 Fuhr St Dennison OH 44621",
+    "addr:housenumber": "400",
+    "addr:postcode": "44621",
+    "addr:street": "Fuhr St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.332190,40.401970,-81.332190,40.401970",
+    "geom:latitude": 40.40197,
+    "geom:longitude": -81.33219,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "400 Fuhr St",
+    "sg:city": "Dennison",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 922 5926",
-    "sg:postcode":"44621",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 922 5926",
+    "sg:postcode": "44621",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_07MCEU7oJKXR3barvmtSPF_40.401970_-81.332190@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_07MCEU7oJKXR3barvmtSPF_40.401970_-81.332190@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798661,
-    "wof:geomhash":"daf5d0f18f25beb26140d2a7a6bf7191",
-    "wof:hierarchy":[],
-    "wof:id":706228009,
-    "wof:lastmodified":1472639511,
-    "wof:name":"Harry Milligan",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461798661,
+    "wof:geomhash": "aa874fc094633d8c657c91ead6bc4c10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706228009
+      }
+    ],
+    "wof:id": 706228009,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "Harry Milligan",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -81.33219,
     40.40197,
     -81.33219,
     40.40197
-],
+  ],
   "geometry": {"coordinates":[-81.33219,40.40197],"type":"Point"}
 }

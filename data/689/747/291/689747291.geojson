@@ -2,61 +2,65 @@
   "id": 689747291,
   "type": "Feature",
   "properties": {
-    "addr:full":"5802 Cemetery Rd Kingsville OH 44048",
-    "addr:housenumber":"5802",
-    "addr:postcode":"44048",
-    "addr:street":"Cemetery Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.667625,41.885694,-80.667625,41.885694",
-    "geom:latitude":41.885694,
-    "geom:longitude":-80.667625,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5802 Cemetery Rd",
-    "sg:city":"Kingsville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "5802 Cemetery Rd Kingsville OH 44048",
+    "addr:housenumber": "5802",
+    "addr:postcode": "44048",
+    "addr:street": "Cemetery Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.667625,41.885694,-80.667625,41.885694",
+    "geom:latitude": 41.885694,
+    "geom:longitude": -80.667625,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5802 Cemetery Rd",
+    "sg:city": "Kingsville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 224 2675",
-    "sg:postcode":"44048",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 224 2675",
+    "sg:postcode": "44048",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6b2bAGK8fg6eqkkxeQYhvk_41.885694_-80.667625@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6b2bAGK8fg6eqkkxeQYhvk_41.885694_-80.667625@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780374,
-    "wof:geomhash":"59dd1ea77301e94f70f30163497e45ea",
-    "wof:hierarchy":[],
-    "wof:id":689747291,
-    "wof:lastmodified":1472639770,
-    "wof:name":"Open Door Community Church",
-    "wof:parent_id":420534555,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461780374,
+    "wof:geomhash": "40b84cdf0404d19906ea8b4b32c0a164",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689747291
+      }
+    ],
+    "wof:id": 689747291,
+    "wof:lastmodified": 1638567038,
+    "wof:name": "Open Door Community Church",
+    "wof:parent_id": 420534555,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -80.667625,
     41.885694,
     -80.667625,
     41.885694
-],
+  ],
   "geometry": {"coordinates":[-80.667625,41.885694],"type":"Point"}
 }

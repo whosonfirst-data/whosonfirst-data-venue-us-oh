@@ -2,63 +2,67 @@
   "id": 705846659,
   "type": "Feature",
   "properties": {
-    "addr:full":"1206 E High St Bryan OH 43506",
-    "addr:housenumber":"1206",
-    "addr:postcode":"43506",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.534991,41.4746,-84.534991,41.4746",
-    "geom:latitude":41.4746,
-    "geom:longitude":-84.534991,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1206 E High St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "1206 E High St Bryan OH 43506",
+    "addr:housenumber": "1206",
+    "addr:postcode": "43506",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.534991,41.474600,-84.534991,41.474600",
+    "geom:latitude": 41.4746,
+    "geom:longitude": -84.534991,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1206 E High St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 0585",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "music"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 0585",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "music"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5cRQNyuLBXV1vUNtlvMSQM_41.474600_-84.534991@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5cRQNyuLBXV1vUNtlvMSQM_41.474600_-84.534991@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790101,
-    "wof:geomhash":"76271cd8022917dbc0a8a7c5832598fa",
-    "wof:hierarchy":[],
-    "wof:id":705846659,
-    "wof:lastmodified":1472639416,
-    "wof:name":"Lewis Music Studio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "music"
+    "wof:country": "US",
+    "wof:created": 1461790101,
+    "wof:geomhash": "f78ecd3d7b8972a40571cc62d65720e9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705846659
+      }
+    ],
+    "wof:id": 705846659,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Lewis Music Studio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "music"
     ]
-},
+  },
   "bbox": [
     -84.534991,
     41.4746,
     -84.534991,
     41.4746
-],
-  "geometry": {"coordinates":[-84.53499100000001,41.4746],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.534991,41.4746],"type":"Point"}
 }

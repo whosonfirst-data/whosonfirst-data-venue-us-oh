@@ -2,61 +2,65 @@
   "id": 705811633,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 N Broadway St Medina OH 44256",
-    "addr:housenumber":"200",
-    "addr:postcode":"44256",
-    "addr:street":"N Broadway St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.862611,41.140609,-81.862611,41.140609",
-    "geom:latitude":41.140609,
-    "geom:longitude":-81.862611,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 N Broadway St",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "200 N Broadway St Medina OH 44256",
+    "addr:housenumber": "200",
+    "addr:postcode": "44256",
+    "addr:street": "N Broadway St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.862611,41.140609,-81.862611,41.140609",
+    "geom:latitude": 41.140609,
+    "geom:longitude": -81.862611,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 N Broadway St",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 722 3541",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 722 3541",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0UVGTUbiKmb0I9zTAlH34d_41.140609_-81.862611@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0UVGTUbiKmb0I9zTAlH34d_41.140609_-81.862611@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789270,
-    "wof:geomhash":"d4739fc04cad32da2b18a5b3a90d7a44",
-    "wof:hierarchy":[],
-    "wof:id":705811633,
-    "wof:lastmodified":1472639313,
-    "wof:name":"Joseph Obermeier DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461789270,
+    "wof:geomhash": "1426b644c64486d477cafb60fb2c6599",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705811633
+      }
+    ],
+    "wof:id": 705811633,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Joseph Obermeier DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.862611,
     41.140609,
     -81.862611,
     41.140609
-],
+  ],
   "geometry": {"coordinates":[-81.862611,41.140609],"type":"Point"}
 }

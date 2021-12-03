@@ -2,63 +2,67 @@
   "id": 706367981,
   "type": "Feature",
   "properties": {
-    "addr:full":"531 Robbins Ave Niles OH 44446",
-    "addr:housenumber":"531",
-    "addr:postcode":"44446",
-    "addr:street":"Robbins Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.752123,41.182518,-80.752123,41.182518",
-    "geom:latitude":41.182518,
-    "geom:longitude":-80.752123,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"531 Robbins Ave",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "531 Robbins Ave Niles OH 44446",
+    "addr:housenumber": "531",
+    "addr:postcode": "44446",
+    "addr:street": "Robbins Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.752123,41.182518,-80.752123,41.182518",
+    "geom:latitude": 41.182518,
+    "geom:longitude": -80.752123,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "531 Robbins Ave",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 544 3431",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 544 3431",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_63jle5hBiAY21HPb4V5kwG_41.182518_-80.752123@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_63jle5hBiAY21HPb4V5kwG_41.182518_-80.752123@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801769,
-    "wof:geomhash":"aa9f1b2c9480fff5deeb6546467b647d",
-    "wof:hierarchy":[],
-    "wof:id":706367981,
-    "wof:lastmodified":1472639936,
-    "wof:name":"Joseph A Potocki Inc",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461801769,
+    "wof:geomhash": "de8a0cfc6e6b5a06dd7eddf427f9af91",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706367981
+      }
+    ],
+    "wof:id": 706367981,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Joseph A Potocki Inc",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.752123,
     41.182518,
     -80.752123,
     41.182518
-],
+  ],
   "geometry": {"coordinates":[-80.752123,41.182518],"type":"Point"}
 }

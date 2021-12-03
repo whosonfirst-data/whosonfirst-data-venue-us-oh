@@ -2,61 +2,65 @@
   "id": 689818069,
   "type": "Feature",
   "properties": {
-    "addr:full":"203 N Main St Findlay OH 45840",
-    "addr:housenumber":"203",
-    "addr:postcode":"45840",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650109,41.043262,-83.650109,41.043262",
-    "geom:latitude":41.043262,
-    "geom:longitude":-83.650109,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"203 N Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "203 N Main St Findlay OH 45840",
+    "addr:housenumber": "203",
+    "addr:postcode": "45840",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650109,41.043262,-83.650109,41.043262",
+    "geom:latitude": 41.043262,
+    "geom:longitude": -83.650109,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "203 N Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 422 3081",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 422 3081",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5RKc032nN8xb5brdXCWABi_41.043262_-83.650109@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5RKc032nN8xb5brdXCWABi_41.043262_-83.650109@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782409,
-    "wof:geomhash":"884cdfc86188ceb8373e5868e5b07caa",
-    "wof:hierarchy":[],
-    "wof:id":689818069,
-    "wof:lastmodified":1472639883,
-    "wof:name":"Miller's Luncheonette",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461782409,
+    "wof:geomhash": "324f400b2dd215d79825f9e528acb63e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689818069
+      }
+    ],
+    "wof:id": 689818069,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Miller's Luncheonette",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.650109,
     41.043262,
     -83.650109,
     41.043262
-],
+  ],
   "geometry": {"coordinates":[-83.650109,41.043262],"type":"Point"}
 }

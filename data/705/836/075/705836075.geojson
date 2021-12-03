@@ -2,61 +2,65 @@
   "id": 705836075,
   "type": "Feature",
   "properties": {
-    "addr:full":"1210 W High St Bryan OH 43506",
-    "addr:housenumber":"1210",
-    "addr:postcode":"43506",
-    "addr:street":"W High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.569296,41.474615,-84.569296,41.474615",
-    "geom:latitude":41.474615,
-    "geom:longitude":-84.569296,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1210 W High St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "1210 W High St Bryan OH 43506",
+    "addr:housenumber": "1210",
+    "addr:postcode": "43506",
+    "addr:street": "W High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.569296,41.474615,-84.569296,41.474615",
+    "geom:latitude": 41.474615,
+    "geom:longitude": -84.569296,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1210 W High St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 630 0211",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "psychologist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 630 0211",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "psychologist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3pFkSNlsok3UIU1OhJlJ8X_41.474615_-84.569296@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3pFkSNlsok3UIU1OhJlJ8X_41.474615_-84.569296@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789866,
-    "wof:geomhash":"c68ff7e676a904fcee185eb49a1ed797",
-    "wof:hierarchy":[],
-    "wof:id":705836075,
-    "wof:lastmodified":1472639351,
-    "wof:name":"Bryan Psychological Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "psychologist"
+    "wof:country": "US",
+    "wof:created": 1461789866,
+    "wof:geomhash": "b4ca9c5949bc3505d836605b139bc9d1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705836075
+      }
+    ],
+    "wof:id": 705836075,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Bryan Psychological Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "psychologist"
     ]
-},
+  },
   "bbox": [
     -84.569296,
     41.474615,
     -84.569296,
     41.474615
-],
-  "geometry": {"coordinates":[-84.56929599999999,41.474615],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.569296,41.474615],"type":"Point"}
 }

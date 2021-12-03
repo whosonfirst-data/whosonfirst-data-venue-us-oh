@@ -2,63 +2,67 @@
   "id": 689905801,
   "type": "Feature",
   "properties": {
-    "addr:full":"1086 Jackson Pike Gallipolis OH 45631",
-    "addr:housenumber":"1086",
-    "addr:postcode":"45631",
-    "addr:street":"Jackson Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.2552,38.842661,-82.2552,38.842661",
-    "geom:latitude":38.842661,
-    "geom:longitude":-82.2552,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1086 Jackson Pike",
-    "sg:city":"Gallipolis",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1086 Jackson Pike Gallipolis OH 45631",
+    "addr:housenumber": "1086",
+    "addr:postcode": "45631",
+    "addr:street": "Jackson Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.255200,38.842661,-82.255200,38.842661",
+    "geom:latitude": 38.842661,
+    "geom:longitude": -82.2552,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1086 Jackson Pike",
+    "sg:city": "Gallipolis",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 441 9800",
-    "sg:postcode":"45631",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 441 9800",
+    "sg:postcode": "45631",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5HUqzuSBYOD5b0phJn4owG_38.842661_-82.255200@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5HUqzuSBYOD5b0phJn4owG_38.842661_-82.255200@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784730,
-    "wof:geomhash":"b7c031605677fd958ff9e6fac94f3294",
-    "wof:hierarchy":[],
-    "wof:id":689905801,
-    "wof:lastmodified":1472640063,
-    "wof:name":"Gallia Family Practice",
-    "wof:parent_id":420534827,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461784730,
+    "wof:geomhash": "4b70429e28d7395b395be8555f96ce00",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689905801
+      }
+    ],
+    "wof:id": 689905801,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Gallia Family Practice",
+    "wof:parent_id": 420534827,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.2552,
     38.842661,
     -82.2552,
     38.842661
-],
+  ],
   "geometry": {"coordinates":[-82.2552,38.842661],"type":"Point"}
 }

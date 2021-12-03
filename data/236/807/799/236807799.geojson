@@ -2,80 +2,81 @@
   "id": 236807799,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Industrial Dr Franklin OH 45005",
-    "addr:housenumber":"201",
-    "addr:postcode":"45005",
-    "addr:street":"Industrial Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.292162,39.53583,-84.292162,39.53583",
-    "geom:latitude":39.53583,
-    "geom:longitude":-84.292162,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"201 Industrial Dr",
-    "sg:city":"Franklin",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "201 Industrial Dr Franklin OH 45005",
+    "addr:housenumber": "201",
+    "addr:postcode": "45005",
+    "addr:street": "Industrial Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.292162,39.535830,-84.292162,39.535830",
+    "geom:latitude": 39.53583,
+    "geom:longitude": -84.292162,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "201 Industrial Dr",
+    "sg:city": "Franklin",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 743 9615",
-    "sg:postcode":"45005",
-    "sg:province":"OH",
-    "sg:tags":[
-        "local",
-        "except",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 743 9615",
+    "sg:postcode": "45005",
+    "sg:province": "OH",
+    "sg:tags": [
+      "local",
+      "except",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101713159,
-        102082423,
-        85804015
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101713159,
+      102082423,
+      85804015
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7OVB3HcrpUJ4hJkyJkVLBt_39.535830_-84.292162@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7OVB3HcrpUJ4hJkyJkVLBt_39.535830_-84.292162@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fd7a2aac605660370c19f006ef3c026e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082423,
-            "locality_id":101713159,
-            "neighbourhood_id":85804015,
-            "region_id":85688485,
-            "venue_id":236807799
-        }
+    "wof:country": "US",
+    "wof:created": 1638566933,
+    "wof:geomhash": "a23c4648b2dfedafbfc06323d8ebd30c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082423,
+        "locality_id": 101713159,
+        "neighbourhood_id": 85804015,
+        "region_id": 85688485,
+        "venue_id": 236807799
+      }
     ],
-    "wof:id":236807799,
-    "wof:lastmodified":1472639005,
-    "wof:name":"L & S Dispatch",
-    "wof:parent_id":85804015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "local",
-        "except",
-        "trucking"
+    "wof:id": 236807799,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "L \u0026 S Dispatch",
+    "wof:parent_id": 85804015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "except",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.292162,
     39.53583,
     -84.292162,
     39.53583
-],
+  ],
   "geometry": {"coordinates":[-84.292162,39.53583],"type":"Point"}
 }

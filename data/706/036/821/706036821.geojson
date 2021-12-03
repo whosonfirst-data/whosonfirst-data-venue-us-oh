@@ -2,63 +2,67 @@
   "id": 706036821,
   "type": "Feature",
   "properties": {
-    "addr:full":"1134 Clay St Zanesville OH 43701",
-    "addr:housenumber":"1134",
-    "addr:postcode":"43701",
-    "addr:street":"Clay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.022103,39.90998,-82.022103,39.90998",
-    "geom:latitude":39.90998,
-    "geom:longitude":-82.022103,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1134 Clay St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1134 Clay St Zanesville OH 43701",
+    "addr:housenumber": "1134",
+    "addr:postcode": "43701",
+    "addr:street": "Clay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.022103,39.909980,-82.022103,39.909980",
+    "geom:latitude": 39.90998,
+    "geom:longitude": -82.022103,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1134 Clay St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 455 2627",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "alternator",
-        "generator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 455 2627",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "alternator",
+      "generator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2uZn06K2e3przvumd7EobW_39.909980_-82.022103@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2uZn06K2e3przvumd7EobW_39.909980_-82.022103@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794342,
-    "wof:geomhash":"4e2c7a24648495b7ab629cd93f64596d",
-    "wof:hierarchy":[],
-    "wof:id":706036821,
-    "wof:lastmodified":1472638896,
-    "wof:name":"Auto Electric Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "alternator",
-        "generator"
+    "wof:country": "US",
+    "wof:created": 1461794342,
+    "wof:geomhash": "3269b8547839cd691c52188b278a419a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706036821
+      }
+    ],
+    "wof:id": 706036821,
+    "wof:lastmodified": 1638566958,
+    "wof:name": "Auto Electric Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "alternator",
+      "generator"
     ]
-},
+  },
   "bbox": [
     -82.022103,
     39.90998,
     -82.022103,
     39.90998
-],
+  ],
   "geometry": {"coordinates":[-82.022103,39.90998],"type":"Point"}
 }

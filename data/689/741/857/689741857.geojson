@@ -2,61 +2,65 @@
   "id": 689741857,
   "type": "Feature",
   "properties": {
-    "addr:full":"522 Cincinnati-Batavia Pike Cincinnati OH 45244",
-    "addr:housenumber":"522",
-    "addr:postcode":"45244",
-    "addr:street":"Cincinnati-Batavia Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.301616,39.105736,-84.301616,39.105736",
-    "geom:latitude":39.105736,
-    "geom:longitude":-84.301616,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"522 Cincinnati-Batavia Pike",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "522 Cincinnati-Batavia Pike Cincinnati OH 45244",
+    "addr:housenumber": "522",
+    "addr:postcode": "45244",
+    "addr:street": "Cincinnati-Batavia Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.301616,39.105736,-84.301616,39.105736",
+    "geom:latitude": 39.105736,
+    "geom:longitude": -84.301616,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "522 Cincinnati-Batavia Pike",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 528 2363",
-    "sg:postcode":"45244",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 528 2363",
+    "sg:postcode": "45244",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_17bYdoaMreDmdOgKnKKGvZ_39.105736_-84.301616@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_17bYdoaMreDmdOgKnKKGvZ_39.105736_-84.301616@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780243,
-    "wof:geomhash":"762ddcc7fb734aa28bd256607ed74bca",
-    "wof:hierarchy":[],
-    "wof:id":689741857,
-    "wof:lastmodified":1472639794,
-    "wof:name":"Michael T Schaeffer Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461780243,
+    "wof:geomhash": "cec5515a5f0454e7fa61613a0f488d37",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689741857
+      }
+    ],
+    "wof:id": 689741857,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Michael T Schaeffer Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.301616,
     39.105736,
     -84.301616,
     39.105736
-],
+  ],
   "geometry": {"coordinates":[-84.301616,39.105736],"type":"Point"}
 }

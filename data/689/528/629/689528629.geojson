@@ -2,63 +2,67 @@
   "id": 689528629,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 N Main St London OH 43140",
-    "addr:housenumber":"210",
-    "addr:postcode":"43140",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.456095,39.892783,-83.456095,39.892783",
-    "geom:latitude":39.892783,
-    "geom:longitude":-83.456095,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"210 N Main St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "210 N Main St London OH 43140",
+    "addr:housenumber": "210",
+    "addr:postcode": "43140",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.456095,39.892783,-83.456095,39.892783",
+    "geom:latitude": 39.892783,
+    "geom:longitude": -83.456095,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "210 N Main St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 845 7700",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 845 7700",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3B7KvaaqEGHddIIN86EMyN_39.892783_-83.456095@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3B7KvaaqEGHddIIN86EMyN_39.892783_-83.456095@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774041,
-    "wof:geomhash":"e4f361f3695e66ba0ad888d65a64d9a6",
-    "wof:hierarchy":[],
-    "wof:id":689528629,
-    "wof:lastmodified":1472639169,
-    "wof:name":"Jaswand Madhavan MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461774041,
+    "wof:geomhash": "12581b6f4d0923da58ee9010fe1ca94d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689528629
+      }
+    ],
+    "wof:id": 689528629,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Jaswand Madhavan MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.456095,
     39.892783,
     -83.456095,
     39.892783
-],
+  ],
   "geometry": {"coordinates":[-83.456095,39.892783],"type":"Point"}
 }

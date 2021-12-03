@@ -2,61 +2,65 @@
   "id": 706393915,
   "type": "Feature",
   "properties": {
-    "addr:full":"6535 Lake Ave Elyria OH 44035",
-    "addr:housenumber":"6535",
-    "addr:postcode":"44035",
-    "addr:street":"Lake Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.1386,41.408715,-82.1386,41.408715",
-    "geom:latitude":41.408715,
-    "geom:longitude":-82.1386,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6535 Lake Ave",
-    "sg:city":"Elyria",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "6535 Lake Ave Elyria OH 44035",
+    "addr:housenumber": "6535",
+    "addr:postcode": "44035",
+    "addr:street": "Lake Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.138600,41.408715,-82.138600,41.408715",
+    "geom:latitude": 41.408715,
+    "geom:longitude": -82.1386,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6535 Lake Ave",
+    "sg:city": "Elyria",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 324 2210",
-    "sg:postcode":"44035",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 324 2210",
+    "sg:postcode": "44035",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dL4908ImtfsAZgE1r4B2e_41.408715_-82.138600@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3dL4908ImtfsAZgE1r4B2e_41.408715_-82.138600@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802279,
-    "wof:geomhash":"63a15ad87d85705a9262bff5f39ea47e",
-    "wof:hierarchy":[],
-    "wof:id":706393915,
-    "wof:lastmodified":1472639982,
-    "wof:name":"A Daniel Messaros Photography",
-    "wof:parent_id":420535013,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461802279,
+    "wof:geomhash": "7922fc960529dada4f86bcd9a4df446b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706393915
+      }
+    ],
+    "wof:id": 706393915,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "A Daniel Messaros Photography",
+    "wof:parent_id": 420535013,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -82.1386,
     41.408715,
     -82.1386,
     41.408715
-],
+  ],
   "geometry": {"coordinates":[-82.1386,41.408715],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705736447,
   "type": "Feature",
   "properties": {
-    "addr:full":"3792 Hillbrook Dr Stow OH 44224",
-    "addr:housenumber":"3792",
-    "addr:postcode":"44224",
-    "addr:street":"Hillbrook Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.396456,41.159774,-81.396456,41.159774",
-    "geom:latitude":41.159774,
-    "geom:longitude":-81.396456,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3792 Hillbrook Dr",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"Radio Station",
-            "type":"Services"
-        }
+    "addr:full": "3792 Hillbrook Dr Stow OH 44224",
+    "addr:housenumber": "3792",
+    "addr:postcode": "44224",
+    "addr:street": "Hillbrook Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.396456,41.159774,-81.396456,41.159774",
+    "geom:latitude": 41.159774,
+    "geom:longitude": -81.396456,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3792 Hillbrook Dr",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Radio Station",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 524 6463",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "broadcast"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 524 6463",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "broadcast"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5FB34OvzTpqewTfxbMsXdW_41.159774_-81.396456@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5FB34OvzTpqewTfxbMsXdW_41.159774_-81.396456@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787559,
-    "wof:geomhash":"63393faf332be26c572463904f61a446",
-    "wof:hierarchy":[],
-    "wof:id":705736447,
-    "wof:lastmodified":1472638983,
-    "wof:name":"Bill Spiker",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "broadcast"
+    "wof:country": "US",
+    "wof:created": 1461787559,
+    "wof:geomhash": "ad157972d4d4737a8463450944c243a1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705736447
+      }
+    ],
+    "wof:id": 705736447,
+    "wof:lastmodified": 1638566952,
+    "wof:name": "Bill Spiker",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "broadcast"
     ]
-},
+  },
   "bbox": [
     -81.396456,
     41.159774,
     -81.396456,
     41.159774
-],
+  ],
   "geometry": {"coordinates":[-81.396456,41.159774],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706372231,
   "type": "Feature",
   "properties": {
-    "addr:full":"2220 Pennsylvania Ave Sandusky OH 44870",
-    "addr:housenumber":"2220",
-    "addr:postcode":"44870",
-    "addr:street":"Pennsylvania Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.739781,41.434806,-82.739781,41.434806",
-    "geom:latitude":41.434806,
-    "geom:longitude":-82.739781,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2220 Pennsylvania Ave",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "2220 Pennsylvania Ave Sandusky OH 44870",
+    "addr:housenumber": "2220",
+    "addr:postcode": "44870",
+    "addr:street": "Pennsylvania Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.739781,41.434806,-82.739781,41.434806",
+    "geom:latitude": 41.434806,
+    "geom:longitude": -82.739781,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2220 Pennsylvania Ave",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 502 6572",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "welding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 502 6572",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "welding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7V31vhHtVySJ3EhAVHW1F1_41.434806_-82.739781@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7V31vhHtVySJ3EhAVHW1F1_41.434806_-82.739781@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801855,
-    "wof:geomhash":"4bacd482a971dd3f2c02799c1538795b",
-    "wof:hierarchy":[],
-    "wof:id":706372231,
-    "wof:lastmodified":1472639940,
-    "wof:name":"Precision Welding",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "welding"
+    "wof:country": "US",
+    "wof:created": 1461801855,
+    "wof:geomhash": "369ebebb0169a03a0171344fe8332a48",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706372231
+      }
+    ],
+    "wof:id": 706372231,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "Precision Welding",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "welding"
     ]
-},
+  },
   "bbox": [
     -82.739781,
     41.434806,
     -82.739781,
     41.434806
-],
-  "geometry": {"coordinates":[-82.73978099999999,41.434806],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.739781,41.434806],"type":"Point"}
 }

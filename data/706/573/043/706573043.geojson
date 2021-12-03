@@ -2,67 +2,71 @@
   "id": 706573043,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 E Main St Greenville OH 45331",
-    "addr:housenumber":"1111",
-    "addr:postcode":"45331",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.62032,40.111109,-84.62032,40.111109",
-    "geom:latitude":40.111109,
-    "geom:longitude":-84.62032,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1111 E Main St",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1111 E Main St Greenville OH 45331",
+    "addr:housenumber": "1111",
+    "addr:postcode": "45331",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.620320,40.111109,-84.620320,40.111109",
+    "geom:latitude": 40.111109,
+    "geom:longitude": -84.62032,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1111 E Main St",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/greenville/83288-papa-johns-pizza/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 548 7766",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "pizza"
+    "sg:menulink": "http://www.allmenus.com/oh/greenville/83288-papa-johns-pizza/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 548 7766",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574201,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7gWhshu4gjwYGmwF4kidEu_40.111109_-84.620320@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574201,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7gWhshu4gjwYGmwF4kidEu_40.111109_-84.620320@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806128,
-    "wof:geomhash":"949168c1ede6771a89d5f4892b5d5f15",
-    "wof:hierarchy":[],
-    "wof:id":706573043,
-    "wof:lastmodified":1511323931,
-    "wof:name":"Papa John's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461806128,
+    "wof:geomhash": "949168c1ede6771a89d5f4892b5d5f15",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706573043
+      }
+    ],
+    "wof:id": 706573043,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Papa John's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -84.62032,
     40.111109,
     -84.62032,
     40.111109
-],
-  "geometry": {"coordinates":[-84.62032000000001,40.111109],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.62032,40.111109],"type":"Point"}
 }

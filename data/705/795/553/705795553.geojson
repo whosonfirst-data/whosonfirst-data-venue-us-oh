@@ -2,64 +2,68 @@
   "id": 705795553,
   "type": "Feature",
   "properties": {
-    "addr:full":"798 State Rte 28 Milford OH 45150",
-    "addr:housenumber":"798",
-    "addr:postcode":"45150",
-    "addr:street":"State Rte 28",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.265084,39.185796,-84.265084,39.185796",
-    "geom:latitude":39.185796,
-    "geom:longitude":-84.265084,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"798 State Rte 28",
-    "sg:city":"Milford",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "798 State Rte 28 Milford OH 45150",
+    "addr:housenumber": "798",
+    "addr:postcode": "45150",
+    "addr:street": "State Rte 28",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.265084,39.185796,-84.265084,39.185796",
+    "geom:latitude": 39.185796,
+    "geom:longitude": -84.265084,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "798 State Rte 28",
+    "sg:city": "Milford",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 576 9750",
-    "sg:postcode":"45150",
-    "sg:province":"OH",
-    "sg:tags":[
-        "oil"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 576 9750",
+    "sg:postcode": "45150",
+    "sg:province": "OH",
+    "sg:tags": [
+      "oil"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125150197,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4nhoBVwGuwUKMExqi95mMV_39.185796_-84.265084@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125150197,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4nhoBVwGuwUKMExqi95mMV_39.185796_-84.265084@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788915,
-    "wof:geomhash":"cc2f48d7f96cd8d59ad512bd5f1ed031",
-    "wof:hierarchy":[],
-    "wof:id":705795553,
-    "wof:lastmodified":1510694267,
-    "wof:name":"Bp Oil",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "oil"
+    "wof:country": "US",
+    "wof:created": 1461788915,
+    "wof:geomhash": "cc2f48d7f96cd8d59ad512bd5f1ed031",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705795553
+      }
+    ],
+    "wof:id": 705795553,
+    "wof:lastmodified": 1638566983,
+    "wof:name": "Bp Oil",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "oil"
     ]
-},
+  },
   "bbox": [
     -84.265084,
     39.185796,
     -84.265084,
     39.185796
-],
+  ],
   "geometry": {"coordinates":[-84.265084,39.185796],"type":"Point"}
 }

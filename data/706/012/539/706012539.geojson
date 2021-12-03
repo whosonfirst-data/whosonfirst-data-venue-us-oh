@@ -2,61 +2,65 @@
   "id": 706012539,
   "type": "Feature",
   "properties": {
-    "addr:full":"333 W Main St Batavia OH 45103",
-    "addr:housenumber":"333",
-    "addr:postcode":"45103",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.182713,39.080755,-84.182713,39.080755",
-    "geom:latitude":39.080755,
-    "geom:longitude":-84.182713,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"333 W Main St",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "333 W Main St Batavia OH 45103",
+    "addr:housenumber": "333",
+    "addr:postcode": "45103",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.182713,39.080755,-84.182713,39.080755",
+    "geom:latitude": 39.080755,
+    "geom:longitude": -84.182713,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "333 W Main St",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 732 1116",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 732 1116",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4dHJ33m0NZf02gd4WAFqpP_39.080755_-84.182713@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4dHJ33m0NZf02gd4WAFqpP_39.080755_-84.182713@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793846,
-    "wof:geomhash":"d894b514f43a61a8179ef75ee230b377",
-    "wof:hierarchy":[],
-    "wof:id":706012539,
-    "wof:lastmodified":1472638408,
-    "wof:name":"Family Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461793846,
+    "wof:geomhash": "58fac11becf8592e4f933118c7f51cd4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706012539
+      }
+    ],
+    "wof:id": 706012539,
+    "wof:lastmodified": 1638566935,
+    "wof:name": "Family Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.182713,
     39.080755,
     -84.182713,
     39.080755
-],
-  "geometry": {"coordinates":[-84.18271300000001,39.080755],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.182713,39.080755],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689962171,
   "type": "Feature",
   "properties": {
-    "addr:full":"192 Country View Dr Harrison OH 45030",
-    "addr:housenumber":"192",
-    "addr:postcode":"45030",
-    "addr:street":"Country View Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.791736,39.25578,-84.791736,39.25578",
-    "geom:latitude":39.25578,
-    "geom:longitude":-84.791736,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"192 Country View Dr",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "192 Country View Dr Harrison OH 45030",
+    "addr:housenumber": "192",
+    "addr:postcode": "45030",
+    "addr:street": "Country View Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.791736,39.255780,-84.791736,39.255780",
+    "geom:latitude": 39.25578,
+    "geom:longitude": -84.791736,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "192 Country View Dr",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 367 6805",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 367 6805",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6DJYJgYErEe9XRQy5Kzhh5_39.255780_-84.791736@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6DJYJgYErEe9XRQy5Kzhh5_39.255780_-84.791736@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786190,
-    "wof:geomhash":"1bb6a4b1ebdf6ae3a27bdc3e90db55ca",
-    "wof:hierarchy":[],
-    "wof:id":689962171,
-    "wof:lastmodified":1472640120,
-    "wof:name":"Hundley Tom Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial"
+    "wof:country": "US",
+    "wof:created": 1461786190,
+    "wof:geomhash": "223c4b7518b5a25c57a403fe848a81fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689962171
+      }
+    ],
+    "wof:id": 689962171,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Hundley Tom Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -84.791736,
     39.25578,
     -84.791736,
     39.25578
-],
+  ],
   "geometry": {"coordinates":[-84.791736,39.25578],"type":"Point"}
 }

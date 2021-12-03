@@ -2,64 +2,68 @@
   "id": 706315427,
   "type": "Feature",
   "properties": {
-    "addr:full":"6293 Co Hwy 30 Upper Sandusky OH 43338",
-    "addr:housenumber":"6293",
-    "addr:postcode":"43338",
-    "addr:street":"Co Hwy 30 Upper",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.842975,40.584234,-82.842975,40.584234",
-    "geom:latitude":40.584234,
-    "geom:longitude":-82.842975,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"6293 Co Hwy 30",
-    "sg:city":"Upper Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6293 Co Hwy 30 Upper Sandusky OH 43338",
+    "addr:housenumber": "6293",
+    "addr:postcode": "43338",
+    "addr:street": "Co Hwy 30 Upper",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.842975,40.584234,-82.842975,40.584234",
+    "geom:latitude": 40.584234,
+    "geom:longitude": -82.842975,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "6293 Co Hwy 30",
+    "sg:city": "Upper Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 294 5728",
-    "sg:postcode":"43338",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 294 5728",
+    "sg:postcode": "43338",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125154291,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_52aJu1kHr4An9SIcBEdz1N_40.584234_-82.842975@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125154291,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_52aJu1kHr4An9SIcBEdz1N_40.584234_-82.842975@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800628,
-    "wof:geomhash":"0db1aaae63a576713fbd1362f0ccfcd5",
-    "wof:hierarchy":[],
-    "wof:id":706315427,
-    "wof:lastmodified":1510875155,
-    "wof:name":"Con-Way Central Express",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461800628,
+    "wof:geomhash": "0db1aaae63a576713fbd1362f0ccfcd5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706315427
+      }
+    ],
+    "wof:id": 706315427,
+    "wof:lastmodified": 1638567083,
+    "wof:name": "Con-Way Central Express",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.842975,
     40.584234,
     -82.842975,
     40.584234
-],
+  ],
   "geometry": {"coordinates":[-82.842975,40.584234],"type":"Point"}
 }

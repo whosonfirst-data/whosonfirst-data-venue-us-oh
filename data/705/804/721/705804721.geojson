@@ -2,63 +2,67 @@
   "id": 705804721,
   "type": "Feature",
   "properties": {
-    "addr:full":"1563 Jones Rd Peebles OH 45660",
-    "addr:housenumber":"1563",
-    "addr:postcode":"45660",
-    "addr:street":"Jones Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.368714,38.870009,-83.368714,38.870009",
-    "geom:latitude":38.870009,
-    "geom:longitude":-83.368714,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1563 Jones Rd",
-    "sg:city":"Peebles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1563 Jones Rd Peebles OH 45660",
+    "addr:housenumber": "1563",
+    "addr:postcode": "45660",
+    "addr:street": "Jones Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.368714,38.870009,-83.368714,38.870009",
+    "geom:latitude": 38.870009,
+    "geom:longitude": -83.368714,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1563 Jones Rd",
+    "sg:city": "Peebles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 587 2883",
-    "sg:postcode":"45660",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 587 2883",
+    "sg:postcode": "45660",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2zC4eDT6LbxZdLo43lOVtN_38.870009_-83.368714@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2zC4eDT6LbxZdLo43lOVtN_38.870009_-83.368714@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789124,
-    "wof:geomhash":"b54a39cf00313a002c3b30f52ed4351e",
-    "wof:hierarchy":[],
-    "wof:id":705804721,
-    "wof:lastmodified":1472639303,
-    "wof:name":"Case's Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461789124,
+    "wof:geomhash": "448c3c1e26893fce9269f341f0f1e403",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705804721
+      }
+    ],
+    "wof:id": 705804721,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Case's Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.368714,
     38.870009,
     -83.368714,
     38.870009
-],
+  ],
   "geometry": {"coordinates":[-83.368714,38.870009],"type":"Point"}
 }

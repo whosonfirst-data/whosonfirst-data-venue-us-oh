@@ -2,63 +2,67 @@
   "id": 706014329,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 Morris Rd Circleville OH 43113",
-    "addr:housenumber":"140",
-    "addr:postcode":"43113",
-    "addr:street":"Morris Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.938869,39.620803,-82.938869,39.620803",
-    "geom:latitude":39.620803,
-    "geom:longitude":-82.938869,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"140 Morris Rd",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "140 Morris Rd Circleville OH 43113",
+    "addr:housenumber": "140",
+    "addr:postcode": "43113",
+    "addr:street": "Morris Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.938869,39.620803,-82.938869,39.620803",
+    "geom:latitude": 39.620803,
+    "geom:longitude": -82.938869,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "140 Morris Rd",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 474 8818",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 474 8818",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_58kBEpxoSL52QO9m2CnBTY_39.620803_-82.938869@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_58kBEpxoSL52QO9m2CnBTY_39.620803_-82.938869@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793883,
-    "wof:geomhash":"10760656f49b75e3d2cc4e17a127647d",
-    "wof:hierarchy":[],
-    "wof:id":706014329,
-    "wof:lastmodified":1472638533,
-    "wof:name":"Circleville Family Health",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461793883,
+    "wof:geomhash": "eed9b5f711ab04ff1816b292a49b177e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706014329
+      }
+    ],
+    "wof:id": 706014329,
+    "wof:lastmodified": 1638566937,
+    "wof:name": "Circleville Family Health",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.938869,
     39.620803,
     -82.938869,
     39.620803
-],
+  ],
   "geometry": {"coordinates":[-82.938869,39.620803],"type":"Point"}
 }

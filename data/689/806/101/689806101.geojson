@@ -2,65 +2,69 @@
   "id": 689806101,
   "type": "Feature",
   "properties": {
-    "addr:full":"1534 Ashland Rd Mansfield OH 44905",
-    "addr:housenumber":"1534",
-    "addr:postcode":"44905",
-    "addr:street":"Ashland Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.459744,40.785017,-82.459744,40.785017",
-    "geom:latitude":40.785017,
-    "geom:longitude":-82.459744,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1534 Ashland Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1534 Ashland Rd Mansfield OH 44905",
+    "addr:housenumber": "1534",
+    "addr:postcode": "44905",
+    "addr:street": "Ashland Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.459744,40.785017,-82.459744,40.785017",
+    "geom:latitude": 40.785017,
+    "geom:longitude": -82.459744,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1534 Ashland Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 8611",
-    "sg:postcode":"44905",
-    "sg:province":"OH",
-    "sg:tags":[
-        "warehouse",
-        "self",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 8611",
+    "sg:postcode": "44905",
+    "sg:province": "OH",
+    "sg:tags": [
+      "warehouse",
+      "self",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_28HgtzweEn28seXOAmsRk9_40.785017_-82.459744@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_28HgtzweEn28seXOAmsRk9_40.785017_-82.459744@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782076,
-    "wof:geomhash":"02965c369261dafafffccba68a14f8fc",
-    "wof:hierarchy":[],
-    "wof:id":689806101,
-    "wof:lastmodified":1472639875,
-    "wof:name":"Richland Warehousing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "warehouse",
-        "self",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461782076,
+    "wof:geomhash": "c8ed99fc30b0320b8817c573e84f4865",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689806101
+      }
+    ],
+    "wof:id": 689806101,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Richland Warehousing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "warehouse",
+      "self",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -82.459744,
     40.785017,
     -82.459744,
     40.785017
-],
+  ],
   "geometry": {"coordinates":[-82.459744,40.785017],"type":"Point"}
 }

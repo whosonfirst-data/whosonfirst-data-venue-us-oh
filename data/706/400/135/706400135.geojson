@@ -2,61 +2,65 @@
   "id": 706400135,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 S Springfield St St Paris OH 43072",
-    "addr:housenumber":"123",
-    "addr:postcode":"43072",
-    "addr:street":"S Springfield St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.95913,40.128239,-83.95913,40.128239",
-    "geom:latitude":40.128239,
-    "geom:longitude":-83.95913,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 S Springfield St",
-    "sg:city":"St Paris",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "123 S Springfield St St Paris OH 43072",
+    "addr:housenumber": "123",
+    "addr:postcode": "43072",
+    "addr:street": "S Springfield St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.959130,40.128239,-83.959130,40.128239",
+    "geom:latitude": 40.128239,
+    "geom:longitude": -83.95913,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 S Springfield St",
+    "sg:city": "St Paris",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 663 4001",
-    "sg:postcode":"43072",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 663 4001",
+    "sg:postcode": "43072",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_70Jh5tqwi7u6ABSZtzHF3N_40.128239_-83.959130@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_70Jh5tqwi7u6ABSZtzHF3N_40.128239_-83.959130@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802401,
-    "wof:geomhash":"de578f38b771705e53ab5ccb39544b9c",
-    "wof:hierarchy":[],
-    "wof:id":706400135,
-    "wof:lastmodified":1472639987,
-    "wof:name":"Captured Moments Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461802401,
+    "wof:geomhash": "c4f325ef4431513bb04ffe12c8265376",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706400135
+      }
+    ],
+    "wof:id": 706400135,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Captured Moments Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.95913,
     40.128239,
     -83.95913,
     40.128239
-],
+  ],
   "geometry": {"coordinates":[-83.95913,40.128239],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705793769,
   "type": "Feature",
   "properties": {
-    "addr:full":"1120 W Main Cross St Findlay OH 45840",
-    "addr:housenumber":"1120",
-    "addr:postcode":"45840",
-    "addr:street":"W Main Cross St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.669032,41.041348,-83.669032,41.041348",
-    "geom:latitude":41.041348,
-    "geom:longitude":-83.669032,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1120 W Main Cross St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "1120 W Main Cross St Findlay OH 45840",
+    "addr:housenumber": "1120",
+    "addr:postcode": "45840",
+    "addr:street": "W Main Cross St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.669032,41.041348,-83.669032,41.041348",
+    "geom:latitude": 41.041348,
+    "geom:longitude": -83.669032,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1120 W Main Cross St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 424 7148",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 424 7148",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Qo4HDE6atPTcxdbv61iNr_41.041348_-83.669032@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Qo4HDE6atPTcxdbv61iNr_41.041348_-83.669032@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788871,
-    "wof:geomhash":"df5606a136d59b74ef490a957124e236",
-    "wof:hierarchy":[],
-    "wof:id":705793769,
-    "wof:lastmodified":1472639267,
-    "wof:name":"Findlay Parks Maintenance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461788871,
+    "wof:geomhash": "430d468ad1ed8f31b37f2e292c6211dc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705793769
+      }
+    ],
+    "wof:id": 705793769,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Findlay Parks Maintenance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -83.669032,
     41.041348,
     -83.669032,
     41.041348
-],
+  ],
   "geometry": {"coordinates":[-83.669032,41.041348],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 689831257,
   "type": "Feature",
   "properties": {
-    "addr:full":"19 Woodland Ave Willard OH 44890",
-    "addr:housenumber":"19",
-    "addr:postcode":"44890",
-    "addr:street":"Woodland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.726328,41.058151,-82.726328,41.058151",
-    "geom:latitude":41.058151,
-    "geom:longitude":-82.726328,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"19 Woodland Ave",
-    "sg:city":"Willard",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "19 Woodland Ave Willard OH 44890",
+    "addr:housenumber": "19",
+    "addr:postcode": "44890",
+    "addr:street": "Woodland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.726328,41.058151,-82.726328,41.058151",
+    "geom:latitude": 41.058151,
+    "geom:longitude": -82.726328,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "19 Woodland Ave",
+    "sg:city": "Willard",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 935 8532",
-    "sg:postcode":"44890",
-    "sg:province":"OH",
-    "sg:tags":[
-        "military"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 935 8532",
+    "sg:postcode": "44890",
+    "sg:province": "OH",
+    "sg:tags": [
+      "military"
     ],
-    "sg:website":"www.vfw.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125149581,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0RdmSHE4EJqpEiZzWZZkXO_41.058151_-82.726328@1294180530"
+    "sg:website": "www.vfw.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125149581,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0RdmSHE4EJqpEiZzWZZkXO_41.058151_-82.726328@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782871,
-    "wof:geomhash":"1f8542ae6a980f60bc6bcb2990d5da3f",
-    "wof:hierarchy":[],
-    "wof:id":689831257,
-    "wof:lastmodified":1512143861,
-    "wof:name":"Veterans Of Foreign Wars",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "military"
+    "wof:country": "US",
+    "wof:created": 1461782871,
+    "wof:geomhash": "1f8542ae6a980f60bc6bcb2990d5da3f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689831257
+      }
+    ],
+    "wof:id": 689831257,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Veterans Of Foreign Wars",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "military"
     ]
-},
+  },
   "bbox": [
     -82.726328,
     41.058151,
     -82.726328,
     41.058151
-],
+  ],
   "geometry": {"coordinates":[-82.726328,41.058151],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705959699,
   "type": "Feature",
   "properties": {
-    "addr:full":"4805 Suder Ave Toledo OH 43611",
-    "addr:housenumber":"4805",
-    "addr:postcode":"43611",
-    "addr:street":"Suder Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.498947,41.705753,-83.498947,41.705753",
-    "geom:latitude":41.705753,
-    "geom:longitude":-83.498947,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4805 Suder Ave",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Research",
-            "type":"Services"
-        }
+    "addr:full": "4805 Suder Ave Toledo OH 43611",
+    "addr:housenumber": "4805",
+    "addr:postcode": "43611",
+    "addr:street": "Suder Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.498947,41.705753,-83.498947,41.705753",
+    "geom:latitude": 41.705753,
+    "geom:longitude": -83.498947,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4805 Suder Ave",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Research",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 727 1229",
-    "sg:postcode":"43611",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 727 1229",
+    "sg:postcode": "43611",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5YymMcEu8njVM10m3i7FEH_41.705753_-83.498947@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5YymMcEu8njVM10m3i7FEH_41.705753_-83.498947@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792737,
-    "wof:geomhash":"b90aed9b6bd2e7047cf7ea5eb6724ca8",
-    "wof:hierarchy":[],
-    "wof:id":705959699,
-    "wof:lastmodified":1472639723,
-    "wof:name":"Promedica Lab Suder Ave",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461792737,
+    "wof:geomhash": "0915eeb3f282ab8231f29a14de67c84b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705959699
+      }
+    ],
+    "wof:id": 705959699,
+    "wof:lastmodified": 1638567061,
+    "wof:name": "Promedica Lab Suder Ave",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -83.498947,
     41.705753,
     -83.498947,
     41.705753
-],
+  ],
   "geometry": {"coordinates":[-83.498947,41.705753],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706423721,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 Lester Ave Findlay OH 45840",
-    "addr:housenumber":"340",
-    "addr:postcode":"45840",
-    "addr:street":"Lester Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.654185,41.064295,-83.654185,41.064295",
-    "geom:latitude":41.064295,
-    "geom:longitude":-83.654185,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"340 Lester Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "340 Lester Ave Findlay OH 45840",
+    "addr:housenumber": "340",
+    "addr:postcode": "45840",
+    "addr:street": "Lester Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.654185,41.064295,-83.654185,41.064295",
+    "geom:latitude": 41.064295,
+    "geom:longitude": -83.654185,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "340 Lester Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 423 7712",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 423 7712",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2p8oikFoFo6Q3ilRZwCCgd_41.064295_-83.654185@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2p8oikFoFo6Q3ilRZwCCgd_41.064295_-83.654185@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802861,
-    "wof:geomhash":"63362793596cab279ec151c5472a9da4",
-    "wof:hierarchy":[],
-    "wof:id":706423721,
-    "wof:lastmodified":1472640011,
-    "wof:name":"Church Of Christ In Christian",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461802861,
+    "wof:geomhash": "d31b646d6c42a8ea2579ef6e454abb82",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706423721
+      }
+    ],
+    "wof:id": 706423721,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Church Of Christ In Christian",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.654185,
     41.064295,
     -83.654185,
     41.064295
-],
+  ],
   "geometry": {"coordinates":[-83.654185,41.064295],"type":"Point"}
 }

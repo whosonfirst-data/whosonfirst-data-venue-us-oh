@@ -2,57 +2,61 @@
   "id": 706431587,
   "type": "Feature",
   "properties": {
-    "addr:full":"12333 Atwater Ave NE Alliance OH 44601",
-    "addr:housenumber":"12333",
-    "addr:postcode":"44601",
-    "addr:street":"Atwater Ave Ne",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.144184,40.950334,-81.144184,40.950334",
-    "geom:latitude":40.950334,
-    "geom:longitude":-81.144184,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12333 Atwater Ave NE",
-    "sg:city":"Alliance",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "12333 Atwater Ave NE Alliance OH 44601",
+    "addr:housenumber": "12333",
+    "addr:postcode": "44601",
+    "addr:street": "Atwater Ave Ne",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.144184,40.950334,-81.144184,40.950334",
+    "geom:latitude": 40.950334,
+    "geom:longitude": -81.144184,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12333 Atwater Ave NE",
+    "sg:city": "Alliance",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 823 7570",
-    "sg:postcode":"44601",
-    "sg:province":"OH",
-    "sg:website":"www.dukes.stark.k12.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4I0vJ11jyjnFdok9WeVZ86_40.950334_-81.144184@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 823 7570",
+    "sg:postcode": "44601",
+    "sg:province": "OH",
+    "sg:website": "www.dukes.stark.k12.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4I0vJ11jyjnFdok9WeVZ86_40.950334_-81.144184@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803011,
-    "wof:geomhash":"7e2fd4709d1198f60020bceab6ed5ac6",
-    "wof:hierarchy":[],
-    "wof:id":706431587,
-    "wof:lastmodified":1472640017,
-    "wof:name":"Lexington Elementary School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461803011,
+    "wof:geomhash": "bd5e2635d112e18e59677d174131398e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706431587
+      }
+    ],
+    "wof:id": 706431587,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Lexington Elementary School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.144184,
     40.950334,
     -81.144184,
     40.950334
-],
+  ],
   "geometry": {"coordinates":[-81.144184,40.950334],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689873291,
   "type": "Feature",
   "properties": {
-    "addr:full":"7647 Kings Run Rd Sylvania OH 43560",
-    "addr:housenumber":"7647",
-    "addr:postcode":"43560",
-    "addr:street":"Kings Run Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.727583,41.707816,-83.727583,41.707816",
-    "geom:latitude":41.707816,
-    "geom:longitude":-83.727583,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7647 Kings Run Rd",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "7647 Kings Run Rd Sylvania OH 43560",
+    "addr:housenumber": "7647",
+    "addr:postcode": "43560",
+    "addr:street": "Kings Run Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.727583,41.707816,-83.727583,41.707816",
+    "geom:latitude": 41.707816,
+    "geom:longitude": -83.727583,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7647 Kings Run Rd",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 9944",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 9944",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1OmVn4zYT1owmz0xVond57_41.707816_-83.727583@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1OmVn4zYT1owmz0xVond57_41.707816_-83.727583@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783872,
-    "wof:geomhash":"53e2aa9e675c1f72074ff11ffe83def6",
-    "wof:hierarchy":[],
-    "wof:id":689873291,
-    "wof:lastmodified":1472639960,
-    "wof:name":"Invu Portraits",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461783872,
+    "wof:geomhash": "5712f30df5cb706120521014b0b456ec",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689873291
+      }
+    ],
+    "wof:id": 689873291,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Invu Portraits",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.727583,
     41.707816,
     -83.727583,
     41.707816
-],
+  ],
   "geometry": {"coordinates":[-83.727583,41.707816],"type":"Point"}
 }

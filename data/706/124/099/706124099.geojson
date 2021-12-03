@@ -2,62 +2,66 @@
   "id": 706124099,
   "type": "Feature",
   "properties": {
-    "addr:full":"199 Portsmouth St Jackson OH 45640",
-    "addr:housenumber":"199",
-    "addr:postcode":"45640",
-    "addr:street":"Portsmouth St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.640534,39.050894,-82.640534,39.050894",
-    "geom:latitude":39.050894,
-    "geom:longitude":-82.640534,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"199 Portsmouth St",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "199 Portsmouth St Jackson OH 45640",
+    "addr:housenumber": "199",
+    "addr:postcode": "45640",
+    "addr:street": "Portsmouth St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.640534,39.050894,-82.640534,39.050894",
+    "geom:latitude": 39.050894,
+    "geom:longitude": -82.640534,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "199 Portsmouth St",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 4131",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 4131",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.jacksonpolice.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7cObmfz51cOPL0IAxxei6b_39.050894_-82.640534@1294180530"
+    "sg:website": "www.jacksonpolice.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7cObmfz51cOPL0IAxxei6b_39.050894_-82.640534@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796360,
-    "wof:geomhash":"782697d7b4015587c588e513927fbbc7",
-    "wof:hierarchy":[],
-    "wof:id":706124099,
-    "wof:lastmodified":1472639280,
-    "wof:name":"Jackson Police Station",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461796360,
+    "wof:geomhash": "1e4534976c7c31a943235290e3bd37b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706124099
+      }
+    ],
+    "wof:id": 706124099,
+    "wof:lastmodified": 1638567008,
+    "wof:name": "Jackson Police Station",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.640534,
     39.050894,
     -82.640534,
     39.050894
-],
+  ],
   "geometry": {"coordinates":[-82.640534,39.050894],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705702331,
   "type": "Feature",
   "properties": {
-    "addr:full":"1105 Gilman Ave Marietta OH 45750",
-    "addr:housenumber":"1105",
-    "addr:postcode":"45750",
-    "addr:street":"Gilman Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.474206,39.425467,-81.474206,39.425467",
-    "geom:latitude":39.425467,
-    "geom:longitude":-81.474206,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1105 Gilman Ave",
-    "sg:city":"Marietta",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1105 Gilman Ave Marietta OH 45750",
+    "addr:housenumber": "1105",
+    "addr:postcode": "45750",
+    "addr:street": "Gilman Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.474206,39.425467,-81.474206,39.425467",
+    "geom:latitude": 39.425467,
+    "geom:longitude": -81.474206,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1105 Gilman Ave",
+    "sg:city": "Marietta",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 374 3633",
-    "sg:postcode":"45750",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 374 3633",
+    "sg:postcode": "45750",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3qml2prTXpsIh2srcFFqFb_39.425467_-81.474206@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3qml2prTXpsIh2srcFFqFb_39.425467_-81.474206@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786636,
-    "wof:geomhash":"6755a8666f6812e16699992821c793c8",
-    "wof:hierarchy":[],
-    "wof:id":705702331,
-    "wof:lastmodified":1472638280,
-    "wof:name":"Timron Storage",
-    "wof:parent_id":420535327,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461786636,
+    "wof:geomhash": "fb88de8136f2e3716592b06de3cbb298",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702331
+      }
+    ],
+    "wof:id": 705702331,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "Timron Storage",
+    "wof:parent_id": 420535327,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -81.474206,
     39.425467,
     -81.474206,
     39.425467
-],
+  ],
   "geometry": {"coordinates":[-81.474206,39.425467],"type":"Point"}
 }

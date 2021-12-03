@@ -2,61 +2,65 @@
   "id": 706407325,
   "type": "Feature",
   "properties": {
-    "addr:full":"15710 Broadway Ave Cleveland OH 44137",
-    "addr:housenumber":"15710",
-    "addr:postcode":"44137",
-    "addr:street":"Broadway Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.57031,41.415618,-81.57031,41.415618",
-    "geom:latitude":41.415618,
-    "geom:longitude":-81.57031,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15710 Broadway Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "15710 Broadway Ave Cleveland OH 44137",
+    "addr:housenumber": "15710",
+    "addr:postcode": "44137",
+    "addr:street": "Broadway Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.570310,41.415618,-81.570310,41.415618",
+    "geom:latitude": 41.415618,
+    "geom:longitude": -81.57031,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15710 Broadway Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 662 4028",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 662 4028",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7eB8PnYNkL2BssQGxYGtKJ_41.415618_-81.570310@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7eB8PnYNkL2BssQGxYGtKJ_41.415618_-81.570310@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802544,
-    "wof:geomhash":"9f633a60ebda3d654cb8239d39681a19",
-    "wof:hierarchy":[],
-    "wof:id":706407325,
-    "wof:lastmodified":1472639991,
-    "wof:name":"Stolarsky & Truxton",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461802544,
+    "wof:geomhash": "cfccafadfdade802d0a19b218e4ad8b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706407325
+      }
+    ],
+    "wof:id": 706407325,
+    "wof:lastmodified": 1638567111,
+    "wof:name": "Stolarsky \u0026 Truxton",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.57031,
     41.415618,
     -81.57031,
     41.415618
-],
-  "geometry": {"coordinates":[-81.57031000000001,41.415618],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.57031,41.415618],"type":"Point"}
 }

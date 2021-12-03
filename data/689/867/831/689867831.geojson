@@ -2,61 +2,65 @@
   "id": 689867831,
   "type": "Feature",
   "properties": {
-    "addr:full":"545 W Market St Tiffin OH 44883",
-    "addr:housenumber":"545",
-    "addr:postcode":"44883",
-    "addr:street":"W Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.19927,41.112323,-83.19927,41.112323",
-    "geom:latitude":41.112323,
-    "geom:longitude":-83.19927,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"545 W Market St",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "545 W Market St Tiffin OH 44883",
+    "addr:housenumber": "545",
+    "addr:postcode": "44883",
+    "addr:street": "W Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.199270,41.112323,-83.199270,41.112323",
+    "geom:latitude": 41.112323,
+    "geom:longitude": -83.19927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "545 W Market St",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 448 6838",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 448 6838",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_31vdi8TxoYhUneV6sPbYwE_41.112323_-83.199270@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_31vdi8TxoYhUneV6sPbYwE_41.112323_-83.199270@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783735,
-    "wof:geomhash":"ee5b859510951c9d8e82a803a8af70f3",
-    "wof:hierarchy":[],
-    "wof:id":689867831,
-    "wof:lastmodified":1472639966,
-    "wof:name":"Charles Meadows",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461783735,
+    "wof:geomhash": "ca4c00a7c54469b5522cefded718d7b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689867831
+      }
+    ],
+    "wof:id": 689867831,
+    "wof:lastmodified": 1638567091,
+    "wof:name": "Charles Meadows",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -83.19927,
     41.112323,
     -83.19927,
     41.112323
-],
+  ],
   "geometry": {"coordinates":[-83.19927,41.112323],"type":"Point"}
 }

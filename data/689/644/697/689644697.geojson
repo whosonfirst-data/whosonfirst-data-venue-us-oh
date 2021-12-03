@@ -2,61 +2,65 @@
   "id": 689644697,
   "type": "Feature",
   "properties": {
-    "addr:full":"6275 US Rte 40 West Jefferson OH 43162",
-    "addr:housenumber":"6275",
-    "addr:postcode":"43162",
-    "addr:street":"Us Rte 40 West",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.308705,39.942481,-83.308705,39.942481",
-    "geom:latitude":39.942481,
-    "geom:longitude":-83.308705,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6275 US Rte 40",
-    "sg:city":"West Jefferson",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6275 US Rte 40 West Jefferson OH 43162",
+    "addr:housenumber": "6275",
+    "addr:postcode": "43162",
+    "addr:street": "Us Rte 40 West",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.308705,39.942481,-83.308705,39.942481",
+    "geom:latitude": 39.942481,
+    "geom:longitude": -83.308705,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6275 US Rte 40",
+    "sg:city": "West Jefferson",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 879 9321",
-    "sg:postcode":"43162",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 879 9321",
+    "sg:postcode": "43162",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6VrBCWc941xH17Gy3g05Xp_39.942481_-83.308705@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6VrBCWc941xH17Gy3g05Xp_39.942481_-83.308705@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777686,
-    "wof:geomhash":"57abf46d411085852c19f0e3ae4b41fc",
-    "wof:hierarchy":[],
-    "wof:id":689644697,
-    "wof:lastmodified":1472639515,
-    "wof:name":"Henry's Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461777686,
+    "wof:geomhash": "bf12445c3d55b78bef6c13861a059dea",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689644697
+      }
+    ],
+    "wof:id": 689644697,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "Henry's Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.308705,
     39.942481,
     -83.308705,
     39.942481
-],
+  ],
   "geometry": {"coordinates":[-83.308705,39.942481],"type":"Point"}
 }

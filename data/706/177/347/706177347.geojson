@@ -2,61 +2,65 @@
   "id": 706177347,
   "type": "Feature",
   "properties": {
-    "addr:full":"545 S Main St Lima OH 45804",
-    "addr:housenumber":"545",
-    "addr:postcode":"45804",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.104938,40.733211,-84.104938,40.733211",
-    "geom:latitude":40.733211,
-    "geom:longitude":-84.104938,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"545 S Main St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "545 S Main St Lima OH 45804",
+    "addr:housenumber": "545",
+    "addr:postcode": "45804",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.104938,40.733211,-84.104938,40.733211",
+    "geom:latitude": 40.733211,
+    "geom:longitude": -84.104938,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "545 S Main St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 222 4951",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 222 4951",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5mZD0RpTm7cc5aE4hINmcP_40.733211_-84.104938@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5mZD0RpTm7cc5aE4hINmcP_40.733211_-84.104938@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797578,
-    "wof:geomhash":"388d920a2d583e2781e3955911d471f8",
-    "wof:hierarchy":[],
-    "wof:id":706177347,
-    "wof:lastmodified":1472639412,
-    "wof:name":"Reipenhoff Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461797578,
+    "wof:geomhash": "bdd591365c7533fb6d6b9115b2a8b4f9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706177347
+      }
+    ],
+    "wof:id": 706177347,
+    "wof:lastmodified": 1638567031,
+    "wof:name": "Reipenhoff Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -84.104938,
     40.733211,
     -84.104938,
     40.733211
-],
+  ],
   "geometry": {"coordinates":[-84.104938,40.733211],"type":"Point"}
 }

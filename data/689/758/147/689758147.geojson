@@ -2,61 +2,65 @@
   "id": 689758147,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 N Main St Woodsfield OH 43793",
-    "addr:housenumber":"101",
-    "addr:postcode":"43793",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.114845,39.764768,-81.114845,39.764768",
-    "geom:latitude":39.764768,
-    "geom:longitude":-81.114845,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 N Main St",
-    "sg:city":"Woodsfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Court House",
-            "type":"Public Place"
-        }
+    "addr:full": "101 N Main St Woodsfield OH 43793",
+    "addr:housenumber": "101",
+    "addr:postcode": "43793",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.114845,39.764768,-81.114845,39.764768",
+    "geom:latitude": 39.764768,
+    "geom:longitude": -81.114845,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 N Main St",
+    "sg:city": "Woodsfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Court House",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 472 1654",
-    "sg:postcode":"43793",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 472 1654",
+    "sg:postcode": "43793",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1qogRGvOZMwH4rA7on0ZnP_39.764768_-81.114845@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1qogRGvOZMwH4rA7on0ZnP_39.764768_-81.114845@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780684,
-    "wof:geomhash":"b1f47857f341c95954ac029478de5f67",
-    "wof:hierarchy":[],
-    "wof:id":689758147,
-    "wof:lastmodified":1472639785,
-    "wof:name":"Monroe County Probate Judge",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county"
+    "wof:country": "US",
+    "wof:created": 1461780684,
+    "wof:geomhash": "02333589a8566b9632dc766062a5af81",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689758147
+      }
+    ],
+    "wof:id": 689758147,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "Monroe County Probate Judge",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county"
     ]
-},
+  },
   "bbox": [
     -81.114845,
     39.764768,
     -81.114845,
     39.764768
-],
+  ],
   "geometry": {"coordinates":[-81.114845,39.764768],"type":"Point"}
 }

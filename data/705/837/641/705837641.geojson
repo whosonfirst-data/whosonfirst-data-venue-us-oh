@@ -2,56 +2,60 @@
   "id": 705837641,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 N Michigan Ave Edgerton OH 43517",
-    "addr:housenumber":"123",
-    "addr:postcode":"43517",
-    "addr:street":"N Michigan Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.748151,41.44957,-84.748151,41.44957",
-    "geom:latitude":41.44957,
-    "geom:longitude":-84.748151,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 N Michigan Ave",
-    "sg:city":"Edgerton",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 N Michigan Ave Edgerton OH 43517",
+    "addr:housenumber": "123",
+    "addr:postcode": "43517",
+    "addr:street": "N Michigan Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.748151,41.449570,-84.748151,41.449570",
+    "geom:latitude": 41.44957,
+    "geom:longitude": -84.748151,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 N Michigan Ave",
+    "sg:city": "Edgerton",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 298 3111",
-    "sg:postcode":"43517",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0bxAfxFpzECYKq7lJfEjuO_41.449570_-84.748151@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 298 3111",
+    "sg:postcode": "43517",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0bxAfxFpzECYKq7lJfEjuO_41.449570_-84.748151@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789901,
-    "wof:geomhash":"338696155524b4a484215aba4be79bb8",
-    "wof:hierarchy":[],
-    "wof:id":705837641,
-    "wof:lastmodified":1472639383,
-    "wof:name":"Edgerton Pharmacy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461789901,
+    "wof:geomhash": "11b98a98f11a1e2b591e8c1a39281204",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705837641
+      }
+    ],
+    "wof:id": 705837641,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Edgerton Pharmacy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.748151,
     41.44957,
     -84.748151,
     41.44957
-],
-  "geometry": {"coordinates":[-84.74815099999999,41.44957],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.748151,41.44957],"type":"Point"}
 }

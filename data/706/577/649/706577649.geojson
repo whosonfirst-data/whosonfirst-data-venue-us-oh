@@ -2,67 +2,71 @@
   "id": 706577649,
   "type": "Feature",
   "properties": {
-    "addr:full":"1300 S Court St Circleville OH 43113",
-    "addr:housenumber":"1300",
-    "addr:postcode":"43113",
-    "addr:street":"S Court St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.952521,39.586332,-82.952521,39.586332",
-    "geom:latitude":39.586332,
-    "geom:longitude":-82.952521,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"1300 S Court St",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1300 S Court St Circleville OH 43113",
+    "addr:housenumber": "1300",
+    "addr:postcode": "43113",
+    "addr:street": "S Court St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.952521,39.586332,-82.952521,39.586332",
+    "geom:latitude": 39.586332,
+    "geom:longitude": -82.952521,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "1300 S Court St",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/circleville/194919-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/circleville/194919-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":1804092246,
-        "sg:id":"SG_6ls0QIC530NvQzg2GMtZn5_39.586335_-82.952530@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 1804092246,
+      "sg:id": "SG_6ls0QIC530NvQzg2GMtZn5_39.586335_-82.952530@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806257,
-    "wof:geomhash":"2890ba649fc9ba8e633545fe041a22f5",
-    "wof:hierarchy":[],
-    "wof:id":706577649,
-    "wof:lastmodified":1512142844,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806257,
+    "wof:geomhash": "2890ba649fc9ba8e633545fe041a22f5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706577649
+      }
+    ],
+    "wof:id": 706577649,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.952521,
     39.586332,
     -82.952521,
     39.586332
-],
+  ],
   "geometry": {"coordinates":[-82.952521,39.586332],"type":"Point"}
 }

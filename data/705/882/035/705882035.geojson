@@ -2,61 +2,65 @@
   "id": 705882035,
   "type": "Feature",
   "properties": {
-    "addr:full":"4178 Conference Rd Bellbrook OH 45305",
-    "addr:housenumber":"4178",
-    "addr:postcode":"45305",
-    "addr:street":"Conference Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.090392,39.615755,-84.090392,39.615755",
-    "geom:latitude":39.615755,
-    "geom:longitude":-84.090392,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4178 Conference Rd",
-    "sg:city":"Bellbrook",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "4178 Conference Rd Bellbrook OH 45305",
+    "addr:housenumber": "4178",
+    "addr:postcode": "45305",
+    "addr:street": "Conference Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.090392,39.615755,-84.090392,39.615755",
+    "geom:latitude": 39.615755,
+    "geom:longitude": -84.090392,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4178 Conference Rd",
+    "sg:city": "Bellbrook",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 275 7275",
-    "sg:postcode":"45305",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 275 7275",
+    "sg:postcode": "45305",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6uPQpQDN45fgV6fyNn6mSQ_39.615755_-84.090392@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6uPQpQDN45fgV6fyNn6mSQ_39.615755_-84.090392@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790972,
-    "wof:geomhash":"24e5999c5d5ab209ed117eb883e224c6",
-    "wof:hierarchy":[],
-    "wof:id":705882035,
-    "wof:lastmodified":1472639497,
-    "wof:name":"Sugarcreek Metropark",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461790972,
+    "wof:geomhash": "529866edd5decf65c23390099f0c68d1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705882035
+      }
+    ],
+    "wof:id": 705882035,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Sugarcreek Metropark",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -84.090392,
     39.615755,
     -84.090392,
     39.615755
-],
-  "geometry": {"coordinates":[-84.09039199999999,39.615755],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.090392,39.615755],"type":"Point"}
 }

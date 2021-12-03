@@ -2,61 +2,65 @@
   "id": 705841463,
   "type": "Feature",
   "properties": {
-    "addr:full":"1355 Jefferson St Greenfield OH 45123",
-    "addr:housenumber":"1355",
-    "addr:postcode":"45123",
-    "addr:street":"Jefferson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.39826,39.348386,-83.39826,39.348386",
-    "geom:latitude":39.348386,
-    "geom:longitude":-83.39826,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1355 Jefferson St",
-    "sg:city":"Greenfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1355 Jefferson St Greenfield OH 45123",
+    "addr:housenumber": "1355",
+    "addr:postcode": "45123",
+    "addr:street": "Jefferson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.398260,39.348386,-83.398260,39.348386",
+    "geom:latitude": 39.348386,
+    "geom:longitude": -83.39826,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1355 Jefferson St",
+    "sg:city": "Greenfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 981 9462",
-    "sg:postcode":"45123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 981 9462",
+    "sg:postcode": "45123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4BuPzH5fbXHiDnsaraWecD_39.348386_-83.398260@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4BuPzH5fbXHiDnsaraWecD_39.348386_-83.398260@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789987,
-    "wof:geomhash":"febe34dd98bfa6d2c435bffb0d9f07b1",
-    "wof:hierarchy":[],
-    "wof:id":705841463,
-    "wof:lastmodified":1472639374,
-    "wof:name":"Adena Health System",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461789987,
+    "wof:geomhash": "00f4d18b9279af037cbf48f3689afdf4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705841463
+      }
+    ],
+    "wof:id": 705841463,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Adena Health System",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -83.39826,
     39.348386,
     -83.39826,
     39.348386
-],
-  "geometry": {"coordinates":[-83.39825999999999,39.348386],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.39826,39.348386],"type":"Point"}
 }

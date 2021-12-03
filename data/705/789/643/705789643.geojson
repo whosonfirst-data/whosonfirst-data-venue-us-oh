@@ -2,61 +2,65 @@
   "id": 705789643,
   "type": "Feature",
   "properties": {
-    "addr:full":"14590 State Rte 93 Jackson OH 45640",
-    "addr:housenumber":"14590",
-    "addr:postcode":"45640",
-    "addr:street":"State Rte 93",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.624849,39.031876,-82.624849,39.031876",
-    "geom:latitude":39.031876,
-    "geom:longitude":-82.624849,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14590 State Rte 93",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "14590 State Rte 93 Jackson OH 45640",
+    "addr:housenumber": "14590",
+    "addr:postcode": "45640",
+    "addr:street": "State Rte 93",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.624849,39.031876,-82.624849,39.031876",
+    "geom:latitude": 39.031876,
+    "geom:longitude": -82.624849,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14590 State Rte 93",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 2826",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 2826",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0MX3MXGaknMALrLs26CPLa_39.031876_-82.624849@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0MX3MXGaknMALrLs26CPLa_39.031876_-82.624849@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788793,
-    "wof:geomhash":"3688662e7660760fb01cfc8507886606",
-    "wof:hierarchy":[],
-    "wof:id":705789643,
-    "wof:lastmodified":1472639261,
-    "wof:name":"Jackson Family Health Ctr",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461788793,
+    "wof:geomhash": "de64ff56457ba8990e07d322ee7e438a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705789643
+      }
+    ],
+    "wof:id": 705789643,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Jackson Family Health Ctr",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -82.624849,
     39.031876,
     -82.624849,
     39.031876
-],
+  ],
   "geometry": {"coordinates":[-82.624849,39.031876],"type":"Point"}
 }

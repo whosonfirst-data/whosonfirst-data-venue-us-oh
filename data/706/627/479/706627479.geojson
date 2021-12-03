@@ -2,69 +2,73 @@
   "id": 706627479,
   "type": "Feature",
   "properties": {
-    "addr:full":"525 Vine St Ste 1 Cincinnati OH 45202",
-    "addr:housenumber":"525",
-    "addr:postcode":"45202",
-    "addr:street":"Vine St Ste 1",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.513046,39.101486,-84.513046,39.101486",
-    "geom:latitude":39.101486,
-    "geom:longitude":-84.513046,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"525 Vine St Ste 1",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "525 Vine St Ste 1 Cincinnati OH 45202",
+    "addr:housenumber": "525",
+    "addr:postcode": "45202",
+    "addr:street": "Vine St Ste 1",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.513046,39.101486,-84.513046,39.101486",
+    "geom:latitude": 39.101486,
+    "geom:longitude": -84.513046,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "525 Vine St Ste 1",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 275 8777",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mail",
-        "shipping"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 275 8777",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mail",
+      "shipping"
     ],
-    "sg:website":"http://www.usps.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5wq7uoYxeLOfW4W6mZfP68_39.101486_-84.513046@1303262757"
+    "sg:website": "http://www.usps.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5wq7uoYxeLOfW4W6mZfP68_39.101486_-84.513046@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807297,
-    "wof:geomhash":"fd428d543e476e8b9b18b1af96221e3f",
-    "wof:hierarchy":[],
-    "wof:id":706627479,
-    "wof:lastmodified":1472640247,
-    "wof:name":"USPS - United States Post Office - Queen City Station",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mail",
-        "shipping"
+    "wof:country": "US",
+    "wof:created": 1461807297,
+    "wof:geomhash": "d3cce51b01e087613f02c4e0de0a6721",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706627479
+      }
+    ],
+    "wof:id": 706627479,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "USPS - United States Post Office - Queen City Station",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mail",
+      "shipping"
     ]
-},
+  },
   "bbox": [
     -84.513046,
     39.101486,
     -84.513046,
     39.101486
-],
+  ],
   "geometry": {"coordinates":[-84.513046,39.101486],"type":"Point"}
 }

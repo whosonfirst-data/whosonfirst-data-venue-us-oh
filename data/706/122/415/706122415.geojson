@@ -2,61 +2,65 @@
   "id": 706122415,
   "type": "Feature",
   "properties": {
-    "addr:full":"11680 Spencer Mills Rd Spencer OH 44275",
-    "addr:housenumber":"11680",
-    "addr:postcode":"44275",
-    "addr:street":"Spencer Mills Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.11056,41.114763,-82.11056,41.114763",
-    "geom:latitude":41.114763,
-    "geom:longitude":-82.11056,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11680 Spencer Mills Rd",
-    "sg:city":"Spencer",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "11680 Spencer Mills Rd Spencer OH 44275",
+    "addr:housenumber": "11680",
+    "addr:postcode": "44275",
+    "addr:street": "Spencer Mills Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.110560,41.114763,-82.110560,41.114763",
+    "geom:latitude": 41.114763,
+    "geom:longitude": -82.11056,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11680 Spencer Mills Rd",
+    "sg:city": "Spencer",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 648 2223",
-    "sg:postcode":"44275",
-    "sg:province":"OH",
-    "sg:tags":[
-        "administrator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 648 2223",
+    "sg:postcode": "44275",
+    "sg:province": "OH",
+    "sg:tags": [
+      "administrator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0feOQwXKesQ5aYMTaUMPdx_41.114763_-82.110560@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0feOQwXKesQ5aYMTaUMPdx_41.114763_-82.110560@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796317,
-    "wof:geomhash":"76664710be2aa1d26c9830418f469daf",
-    "wof:hierarchy":[],
-    "wof:id":706122415,
-    "wof:lastmodified":1472639300,
-    "wof:name":"Spencer Board Of Public Affrs",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "administrator"
+    "wof:country": "US",
+    "wof:created": 1461796317,
+    "wof:geomhash": "3c8de83f4ce2b8381fa1102c46fb169f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706122415
+      }
+    ],
+    "wof:id": 706122415,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Spencer Board Of Public Affrs",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "administrator"
     ]
-},
+  },
   "bbox": [
     -82.11056,
     41.114763,
     -82.11056,
     41.114763
-],
-  "geometry": {"coordinates":[-82.11056000000001,41.114763],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.11056,41.114763],"type":"Point"}
 }

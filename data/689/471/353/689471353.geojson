@@ -2,66 +2,70 @@
   "id": 689471353,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 E Main St Jackson OH 45640",
-    "addr:housenumber":"555",
-    "addr:postcode":"45640",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.630412,39.045106,-82.630412,39.045106",
-    "geom:latitude":39.045106,
-    "geom:longitude":-82.630412,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"555 E Main St",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "555 E Main St Jackson OH 45640",
+    "addr:housenumber": "555",
+    "addr:postcode": "45640",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.630412,39.045106,-82.630412,39.045106",
+    "geom:latitude": 39.045106,
+    "geom:longitude": -82.630412,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "555 E Main St",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 6401",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drug",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 6401",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drug",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4cPixEOaytoAN1eW6yWqDe_39.045106_-82.630412@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4cPixEOaytoAN1eW6yWqDe_39.045106_-82.630412@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772254,
-    "wof:geomhash":"143508a61282c48d18e81af79e6478b3",
-    "wof:hierarchy":[],
-    "wof:id":689471353,
-    "wof:lastmodified":1512142634,
-    "wof:name":"Cvs",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drug",
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461772254,
+    "wof:geomhash": "143508a61282c48d18e81af79e6478b3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689471353
+      }
+    ],
+    "wof:id": 689471353,
+    "wof:lastmodified": 1638566918,
+    "wof:name": "Cvs",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drug",
+      "store"
     ]
-},
+  },
   "bbox": [
     -82.630412,
     39.045106,
     -82.630412,
     39.045106
-],
-  "geometry": {"coordinates":[-82.63041200000001,39.045106],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.630412,39.045106],"type":"Point"}
 }

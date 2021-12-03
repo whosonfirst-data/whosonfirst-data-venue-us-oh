@@ -2,61 +2,65 @@
   "id": 705980291,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 N Washington St New Paris OH 45347",
-    "addr:housenumber":"111",
-    "addr:postcode":"45347",
-    "addr:street":"N Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.792664,39.857877,-84.792664,39.857877",
-    "geom:latitude":39.857877,
-    "geom:longitude":-84.792664,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 N Washington St",
-    "sg:city":"New Paris",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "111 N Washington St New Paris OH 45347",
+    "addr:housenumber": "111",
+    "addr:postcode": "45347",
+    "addr:street": "N Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.792664,39.857877,-84.792664,39.857877",
+    "geom:latitude": 39.857877,
+    "geom:longitude": -84.792664,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 N Washington St",
+    "sg:city": "New Paris",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 437 7071",
-    "sg:postcode":"45347",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 437 7071",
+    "sg:postcode": "45347",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3uSnI19RceraZ29uNLtiKb_39.857877_-84.792664@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3uSnI19RceraZ29uNLtiKb_39.857877_-84.792664@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793174,
-    "wof:geomhash":"2d2d48e5403833ca82386fed4c9fbdd0",
-    "wof:hierarchy":[],
-    "wof:id":705980291,
-    "wof:lastmodified":1472639788,
-    "wof:name":"Dave Kessler Auctioneers Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461793174,
+    "wof:geomhash": "2b3b82a9258b0312898155cf07b708b9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705980291
+      }
+    ],
+    "wof:id": 705980291,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Dave Kessler Auctioneers Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.792664,
     39.857877,
     -84.792664,
     39.857877
-],
+  ],
   "geometry": {"coordinates":[-84.792664,39.857877],"type":"Point"}
 }

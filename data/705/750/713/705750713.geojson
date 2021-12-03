@@ -2,61 +2,65 @@
   "id": 705750713,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 Pearl Rd Brunswick OH 44212",
-    "addr:housenumber":"1600",
-    "addr:postcode":"44212",
-    "addr:street":"Pearl Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.84148,41.231114,-81.84148,41.231114",
-    "geom:latitude":41.231114,
-    "geom:longitude":-81.84148,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1600 Pearl Rd",
-    "sg:city":"Brunswick",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Retail Goods",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1600 Pearl Rd Brunswick OH 44212",
+    "addr:housenumber": "1600",
+    "addr:postcode": "44212",
+    "addr:street": "Pearl Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.841480,41.231114,-81.841480,41.231114",
+    "geom:latitude": 41.231114,
+    "geom:longitude": -81.84148,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1600 Pearl Rd",
+    "sg:city": "Brunswick",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Retail Goods",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 220 0610",
-    "sg:postcode":"44212",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manufacturer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 220 0610",
+    "sg:postcode": "44212",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manufacturer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7bmRc08oIrsZMIG6yWj0XM_41.231114_-81.841480@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7bmRc08oIrsZMIG6yWj0XM_41.231114_-81.841480@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787860,
-    "wof:geomhash":"0f4a31dd6443070543f34b8b66b51933",
-    "wof:hierarchy":[],
-    "wof:id":705750713,
-    "wof:lastmodified":1472639195,
-    "wof:name":"Cogun Industries",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manufacturer"
+    "wof:country": "US",
+    "wof:created": 1461787860,
+    "wof:geomhash": "4fe3b9a1bb429599c923299790455a25",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705750713
+      }
+    ],
+    "wof:id": 705750713,
+    "wof:lastmodified": 1638566964,
+    "wof:name": "Cogun Industries",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manufacturer"
     ]
-},
+  },
   "bbox": [
     -81.84148,
     41.231114,
     -81.84148,
     41.231114
-],
+  ],
   "geometry": {"coordinates":[-81.84148,41.231114],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705946001,
   "type": "Feature",
   "properties": {
-    "addr:full":"321 N Butler St Baltic OH 43804",
-    "addr:housenumber":"321",
-    "addr:postcode":"43804",
-    "addr:street":"N Butler St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.70413,40.44208,-81.70413,40.44208",
-    "geom:latitude":40.44208,
-    "geom:longitude":-81.70413,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"321 N Butler St",
-    "sg:city":"Baltic",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "321 N Butler St Baltic OH 43804",
+    "addr:housenumber": "321",
+    "addr:postcode": "43804",
+    "addr:street": "N Butler St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.704130,40.442080,-81.704130,40.442080",
+    "geom:latitude": 40.44208,
+    "geom:longitude": -81.70413,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "321 N Butler St",
+    "sg:city": "Baltic",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 852 2141",
-    "sg:postcode":"43804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 852 2141",
+    "sg:postcode": "43804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2V86EHcYGm0RoBTPceFdwK_40.442080_-81.704130@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2V86EHcYGm0RoBTPceFdwK_40.442080_-81.704130@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792446,
-    "wof:geomhash":"91dc2d87e6a8ac028ba6fa4232dda2ee",
-    "wof:hierarchy":[],
-    "wof:id":705946001,
-    "wof:lastmodified":1472639660,
-    "wof:name":"Smith Geib Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461792446,
+    "wof:geomhash": "d18e722d842b4bf24d27a7c5a227cd2e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705946001
+      }
+    ],
+    "wof:id": 705946001,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Smith Geib Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -81.70413,
     40.44208,
     -81.70413,
     40.44208
-],
-  "geometry": {"coordinates":[-81.70413000000001,40.44208],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.70413,40.44208],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689601477,
   "type": "Feature",
   "properties": {
-    "addr:full":"144 Maple St Ashland OH 44805",
-    "addr:housenumber":"144",
-    "addr:postcode":"44805",
-    "addr:street":"Maple St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.31182,40.867766,-82.31182,40.867766",
-    "geom:latitude":40.867766,
-    "geom:longitude":-82.31182,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"144 Maple St",
-    "sg:city":"Ashland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "144 Maple St Ashland OH 44805",
+    "addr:housenumber": "144",
+    "addr:postcode": "44805",
+    "addr:street": "Maple St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.311820,40.867766,-82.311820,40.867766",
+    "geom:latitude": 40.867766,
+    "geom:longitude": -82.31182,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "144 Maple St",
+    "sg:city": "Ashland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 281 3395",
-    "sg:postcode":"44805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 281 3395",
+    "sg:postcode": "44805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0JoAZlNEXnhoyS7kJUfdKQ_40.867766_-82.311820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0JoAZlNEXnhoyS7kJUfdKQ_40.867766_-82.311820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776293,
-    "wof:geomhash":"9758a2784aa6a2cc876a154ce4aa2330",
-    "wof:hierarchy":[],
-    "wof:id":689601477,
-    "wof:lastmodified":1472639415,
-    "wof:name":"Stephen E Frank DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461776293,
+    "wof:geomhash": "918f2dfa518835eeca434cee133d5565",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689601477
+      }
+    ],
+    "wof:id": 689601477,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Stephen E Frank DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.31182,
     40.867766,
     -82.31182,
     40.867766
-],
+  ],
   "geometry": {"coordinates":[-82.31182,40.867766],"type":"Point"}
 }

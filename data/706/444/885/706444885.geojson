@@ -2,61 +2,65 @@
   "id": 706444885,
   "type": "Feature",
   "properties": {
-    "addr:full":"8995 W Salem Rd West Salem OH 44287",
-    "addr:housenumber":"8995",
-    "addr:postcode":"44287",
-    "addr:street":"W Salem Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.088625,40.98165,-82.088625,40.98165",
-    "geom:latitude":40.98165,
-    "geom:longitude":-82.088625,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8995 W Salem Rd",
-    "sg:city":"West Salem",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "8995 W Salem Rd West Salem OH 44287",
+    "addr:housenumber": "8995",
+    "addr:postcode": "44287",
+    "addr:street": "W Salem Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.088625,40.981650,-82.088625,40.981650",
+    "geom:latitude": 40.98165,
+    "geom:longitude": -82.088625,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8995 W Salem Rd",
+    "sg:city": "West Salem",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 853 4555",
-    "sg:postcode":"44287",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 853 4555",
+    "sg:postcode": "44287",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_77fpyNAoJ6HwYLDzhKMzCc_40.981650_-82.088625@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_77fpyNAoJ6HwYLDzhKMzCc_40.981650_-82.088625@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803326,
-    "wof:geomhash":"b7ae893c035f2195eeb1177d5f750790",
-    "wof:hierarchy":[],
-    "wof:id":706444885,
-    "wof:lastmodified":1472640049,
-    "wof:name":"Devore Trucking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461803326,
+    "wof:geomhash": "3971a4232e97d76823f5d232554c6b90",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706444885
+      }
+    ],
+    "wof:id": 706444885,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Devore Trucking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.088625,
     40.98165,
     -82.088625,
     40.98165
-],
-  "geometry": {"coordinates":[-82.08862499999999,40.98165],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.088625,40.98165],"type":"Point"}
 }

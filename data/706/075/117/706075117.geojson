@@ -2,63 +2,67 @@
   "id": 706075117,
   "type": "Feature",
   "properties": {
-    "addr:full":"1120 E Wilson St Bryan OH 43506",
-    "addr:housenumber":"1120",
-    "addr:postcode":"43506",
-    "addr:street":"E Wilson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.536515,41.47097,-84.536515,41.47097",
-    "geom:latitude":41.47097,
-    "geom:longitude":-84.536515,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1120 E Wilson St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1120 E Wilson St Bryan OH 43506",
+    "addr:housenumber": "1120",
+    "addr:postcode": "43506",
+    "addr:street": "E Wilson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.536515,41.470970,-84.536515,41.470970",
+    "geom:latitude": 41.47097,
+    "geom:longitude": -84.536515,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1120 E Wilson St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 6320",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "special",
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 6320",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "special",
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6URRNl6lYVjuq8RlDP0Xsh_41.470970_-84.536515@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6URRNl6lYVjuq8RlDP0Xsh_41.470970_-84.536515@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795150,
-    "wof:geomhash":"dbac5829970207e7569c2a42a74e7b21",
-    "wof:hierarchy":[],
-    "wof:id":706075117,
-    "wof:lastmodified":1472639151,
-    "wof:name":"Bryan Mini Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "special",
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461795150,
+    "wof:geomhash": "88e49343f80d1a892f4c205692d69304",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706075117
+      }
+    ],
+    "wof:id": 706075117,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Bryan Mini Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "special",
+      "general"
     ]
-},
+  },
   "bbox": [
     -84.536515,
     41.47097,
     -84.536515,
     41.47097
-],
-  "geometry": {"coordinates":[-84.53651499999999,41.47097],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.536515,41.47097],"type":"Point"}
 }

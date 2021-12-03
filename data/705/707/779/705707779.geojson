@@ -2,61 +2,65 @@
   "id": 705707779,
   "type": "Feature",
   "properties": {
-    "addr:full":"209 W Main St Plain City OH 43064",
-    "addr:housenumber":"209",
-    "addr:postcode":"43064",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.268889,40.107995,-83.268889,40.107995",
-    "geom:latitude":40.107995,
-    "geom:longitude":-83.268889,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"209 W Main St",
-    "sg:city":"Plain City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "209 W Main St Plain City OH 43064",
+    "addr:housenumber": "209",
+    "addr:postcode": "43064",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.268889,40.107995,-83.268889,40.107995",
+    "geom:latitude": 40.107995,
+    "geom:longitude": -83.268889,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "209 W Main St",
+    "sg:city": "Plain City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 873 5659",
-    "sg:postcode":"43064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 873 5659",
+    "sg:postcode": "43064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6sd6EbAbloCJylZk1qdaE9_40.107995_-83.268889@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6sd6EbAbloCJylZk1qdaE9_40.107995_-83.268889@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786813,
-    "wof:geomhash":"f068058cfdfee3b78c9362beca44dcab",
-    "wof:hierarchy":[],
-    "wof:id":705707779,
-    "wof:lastmodified":1472638392,
-    "wof:name":"Plain City Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "animal"
+    "wof:country": "US",
+    "wof:created": 1461786813,
+    "wof:geomhash": "fa8ed8b2c967b3c8beaae74810420bdc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705707779
+      }
+    ],
+    "wof:id": 705707779,
+    "wof:lastmodified": 1638566924,
+    "wof:name": "Plain City Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "animal"
     ]
-},
+  },
   "bbox": [
     -83.268889,
     40.107995,
     -83.268889,
     40.107995
-],
+  ],
   "geometry": {"coordinates":[-83.268889,40.107995],"type":"Point"}
 }

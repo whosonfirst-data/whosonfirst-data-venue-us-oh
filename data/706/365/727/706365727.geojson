@@ -2,61 +2,65 @@
   "id": 706365727,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 N Sugar St Lima OH 45801",
-    "addr:housenumber":"1800",
-    "addr:postcode":"45801",
-    "addr:street":"N Sugar St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.089432,40.764464,-84.089432,40.764464",
-    "geom:latitude":40.764464,
-    "geom:longitude":-84.089432,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1800 N Sugar St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1800 N Sugar St Lima OH 45801",
+    "addr:housenumber": "1800",
+    "addr:postcode": "45801",
+    "addr:street": "N Sugar St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.089432,40.764464,-84.089432,40.764464",
+    "geom:latitude": 40.764464,
+    "geom:longitude": -84.089432,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1800 N Sugar St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 229 7355",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "warehouse"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 229 7355",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "warehouse"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hQkPHY689RJ7GgTLtfwGl_40.764464_-84.089432@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7hQkPHY689RJ7GgTLtfwGl_40.764464_-84.089432@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801726,
-    "wof:geomhash":"2a0ed03e94a1fb74e5b2c293fda9fff2",
-    "wof:hierarchy":[],
-    "wof:id":706365727,
-    "wof:lastmodified":1472639931,
-    "wof:name":"Qwest Communications Intl",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "warehouse"
+    "wof:country": "US",
+    "wof:created": 1461801726,
+    "wof:geomhash": "c843bb207f0a8262f86a42641aef2575",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706365727
+      }
+    ],
+    "wof:id": 706365727,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Qwest Communications Intl",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "warehouse"
     ]
-},
+  },
   "bbox": [
     -84.089432,
     40.764464,
     -84.089432,
     40.764464
-],
+  ],
   "geometry": {"coordinates":[-84.089432,40.764464],"type":"Point"}
 }

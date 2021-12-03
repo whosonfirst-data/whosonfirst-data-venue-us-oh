@@ -2,61 +2,65 @@
   "id": 689844067,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 N Park Dr Ada OH 45810",
-    "addr:housenumber":"115",
-    "addr:postcode":"45810",
-    "addr:street":"N Park Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.820029,40.764683,-83.820029,40.764683",
-    "geom:latitude":40.764683,
-    "geom:longitude":-83.820029,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 N Park Dr",
-    "sg:city":"Ada",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "115 N Park Dr Ada OH 45810",
+    "addr:housenumber": "115",
+    "addr:postcode": "45810",
+    "addr:street": "N Park Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.820029,40.764683,-83.820029,40.764683",
+    "geom:latitude": 40.764683,
+    "geom:longitude": -83.820029,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "115 N Park Dr",
+    "sg:city": "Ada",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 634 0074",
-    "sg:postcode":"45810",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 634 0074",
+    "sg:postcode": "45810",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6JsFixZ7AlaBkYF5vQQfNx_40.764683_-83.820029@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6JsFixZ7AlaBkYF5vQQfNx_40.764683_-83.820029@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783191,
-    "wof:geomhash":"bb18f785313db19f46c7421a97832149",
-    "wof:hierarchy":[],
-    "wof:id":689844067,
-    "wof:lastmodified":1472639907,
-    "wof:name":"Ada Park",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461783191,
+    "wof:geomhash": "143023f8e6f355f1d1d9a24520062734",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689844067
+      }
+    ],
+    "wof:id": 689844067,
+    "wof:lastmodified": 1638567077,
+    "wof:name": "Ada Park",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -83.820029,
     40.764683,
     -83.820029,
     40.764683
-],
-  "geometry": {"coordinates":[-83.82002900000001,40.764683],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.820029,40.764683],"type":"Point"}
 }

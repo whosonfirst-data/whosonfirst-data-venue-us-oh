@@ -2,61 +2,65 @@
   "id": 689522719,
   "type": "Feature",
   "properties": {
-    "addr:full":"415 S Main St Bellefontaine OH 43311",
-    "addr:housenumber":"415",
-    "addr:postcode":"43311",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.76018,40.356148,-83.76018,40.356148",
-    "geom:latitude":40.356148,
-    "geom:longitude":-83.76018,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"415 S Main St",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"News",
-            "type":"Retail Goods"
-        }
+    "addr:full": "415 S Main St Bellefontaine OH 43311",
+    "addr:housenumber": "415",
+    "addr:postcode": "43311",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.760180,40.356148,-83.760180,40.356148",
+    "geom:latitude": 40.356148,
+    "geom:longitude": -83.76018,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "415 S Main St",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "News",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 593 5692",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "sg:tags":[
-        "magazine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 593 5692",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "sg:tags": [
+      "magazine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3AiE5EfRufujk0b5LgRXnQ_40.356148_-83.760180@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3AiE5EfRufujk0b5LgRXnQ_40.356148_-83.760180@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773805,
-    "wof:geomhash":"96c92520fcaec74fa0874bda0fe61026",
-    "wof:hierarchy":[],
-    "wof:id":689522719,
-    "wof:lastmodified":1472639194,
-    "wof:name":"Mike's Lottery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "magazine"
+    "wof:country": "US",
+    "wof:created": 1461773805,
+    "wof:geomhash": "bf0c0949bcf27d8e5afb6b6e067cf903",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689522719
+      }
+    ],
+    "wof:id": 689522719,
+    "wof:lastmodified": 1638566964,
+    "wof:name": "Mike's Lottery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "magazine"
     ]
-},
+  },
   "bbox": [
     -83.76018,
     40.356148,
     -83.76018,
     40.356148
-],
-  "geometry": {"coordinates":[-83.76018000000001,40.356148],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.76018,40.356148],"type":"Point"}
 }

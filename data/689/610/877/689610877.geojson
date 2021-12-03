@@ -2,63 +2,67 @@
   "id": 689610877,
   "type": "Feature",
   "properties": {
-    "addr:full":"4463 State Rte 66 Minster OH 45865",
-    "addr:housenumber":"4463",
-    "addr:postcode":"45865",
-    "addr:street":"State Rte 66",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.377167,40.414556,-84.377167,40.414556",
-    "geom:latitude":40.414556,
-    "geom:longitude":-84.377167,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4463 State Rte 66",
-    "sg:city":"Minster",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4463 State Rte 66 Minster OH 45865",
+    "addr:housenumber": "4463",
+    "addr:postcode": "45865",
+    "addr:street": "State Rte 66",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.377167,40.414556,-84.377167,40.414556",
+    "geom:latitude": 40.414556,
+    "geom:longitude": -84.377167,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4463 State Rte 66",
+    "sg:city": "Minster",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 628 3821",
-    "sg:postcode":"45865",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 628 3821",
+    "sg:postcode": "45865",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5kFGY69zHohmWibsoUjI37_40.414556_-84.377167@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5kFGY69zHohmWibsoUjI37_40.414556_-84.377167@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776631,
-    "wof:geomhash":"39679b5dc691d0aad8f6e029364e2c6a",
-    "wof:hierarchy":[],
-    "wof:id":689610877,
-    "wof:lastmodified":1472639437,
-    "wof:name":"Community Family Health Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461776631,
+    "wof:geomhash": "871a545609b82305dec22425a532be60",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689610877
+      }
+    ],
+    "wof:id": 689610877,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "Community Family Health Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.377167,
     40.414556,
     -84.377167,
     40.414556
-],
+  ],
   "geometry": {"coordinates":[-84.377167,40.414556],"type":"Point"}
 }

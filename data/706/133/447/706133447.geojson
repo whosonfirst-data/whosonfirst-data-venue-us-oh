@@ -2,63 +2,67 @@
   "id": 706133447,
   "type": "Feature",
   "properties": {
-    "addr:full":"4151 Hoover Rd Grove City OH 43123",
-    "addr:housenumber":"4151",
-    "addr:postcode":"43123",
-    "addr:street":"Hoover Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.069817,39.878502,-83.069817,39.878502",
-    "geom:latitude":39.878502,
-    "geom:longitude":-83.069817,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4151 Hoover Rd",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4151 Hoover Rd Grove City OH 43123",
+    "addr:housenumber": "4151",
+    "addr:postcode": "43123",
+    "addr:street": "Hoover Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.069817,39.878502,-83.069817,39.878502",
+    "geom:latitude": 39.878502,
+    "geom:longitude": -83.069817,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4151 Hoover Rd",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 875 3152",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 875 3152",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Azbo0IpkXpvT2r3KeE92C_39.878502_-83.069817@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Azbo0IpkXpvT2r3KeE92C_39.878502_-83.069817@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796607,
-    "wof:geomhash":"e8e5b2cde9cf0691a2697d0bed6d76be",
-    "wof:hierarchy":[],
-    "wof:id":706133447,
-    "wof:lastmodified":1472639347,
-    "wof:name":"Hoover Road Family Practice",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461796607,
+    "wof:geomhash": "18b138b809bf508cff0abde364b0640f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706133447
+      }
+    ],
+    "wof:id": 706133447,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Hoover Road Family Practice",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.069817,
     39.878502,
     -83.069817,
     39.878502
-],
+  ],
   "geometry": {"coordinates":[-83.069817,39.878502],"type":"Point"}
 }

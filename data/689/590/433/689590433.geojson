@@ -2,61 +2,65 @@
   "id": 689590433,
   "type": "Feature",
   "properties": {
-    "addr:full":"511 N Market St Felicity OH 45120",
-    "addr:housenumber":"511",
-    "addr:postcode":"45120",
-    "addr:street":"N Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.09607,38.839791,-84.09607,38.839791",
-    "geom:latitude":38.839791,
-    "geom:longitude":-84.09607,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"511 N Market St",
-    "sg:city":"Felicity",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "511 N Market St Felicity OH 45120",
+    "addr:housenumber": "511",
+    "addr:postcode": "45120",
+    "addr:street": "N Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.096070,38.839791,-84.096070,38.839791",
+    "geom:latitude": 38.839791,
+    "geom:longitude": -84.09607,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "511 N Market St",
+    "sg:city": "Felicity",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 876 2592",
-    "sg:postcode":"45120",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 876 2592",
+    "sg:postcode": "45120",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5HQEX8Dihz92806bd3msCg_38.839791_-84.096070@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5HQEX8Dihz92806bd3msCg_38.839791_-84.096070@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775924,
-    "wof:geomhash":"bca2b1eb815445613c1af48ce1c1ffcc",
-    "wof:hierarchy":[],
-    "wof:id":689590433,
-    "wof:lastmodified":1472639365,
-    "wof:name":"Mid Town Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461775924,
+    "wof:geomhash": "986607968fc7125f7d4b4f29f303ba20",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689590433
+      }
+    ],
+    "wof:id": 689590433,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Mid Town Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -84.09607,
     38.839791,
     -84.09607,
     38.839791
-],
+  ],
   "geometry": {"coordinates":[-84.09607,38.839791],"type":"Point"}
 }

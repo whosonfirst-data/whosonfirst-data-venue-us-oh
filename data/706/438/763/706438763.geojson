@@ -2,61 +2,65 @@
   "id": 706438763,
   "type": "Feature",
   "properties": {
-    "addr:full":"19669 Echo Dr Strongsville OH 44149",
-    "addr:housenumber":"19669",
-    "addr:postcode":"44149",
-    "addr:street":"Echo Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.843521,41.297581,-81.843521,41.297581",
-    "geom:latitude":41.297581,
-    "geom:longitude":-81.843521,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"19669 Echo Dr",
-    "sg:city":"Strongsville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Telephone",
-            "type":"Services"
-        }
+    "addr:full": "19669 Echo Dr Strongsville OH 44149",
+    "addr:housenumber": "19669",
+    "addr:postcode": "44149",
+    "addr:street": "Echo Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.843521,41.297581,-81.843521,41.297581",
+    "geom:latitude": 41.297581,
+    "geom:longitude": -81.843521,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "19669 Echo Dr",
+    "sg:city": "Strongsville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Telephone",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 572 2882",
-    "sg:postcode":"44149",
-    "sg:province":"OH",
-    "sg:tags":[
-        "communications"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 572 2882",
+    "sg:postcode": "44149",
+    "sg:province": "OH",
+    "sg:tags": [
+      "communications"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2tFhHhWGdYM7q0nrmBo8vt_41.297581_-81.843521@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2tFhHhWGdYM7q0nrmBo8vt_41.297581_-81.843521@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803175,
-    "wof:geomhash":"d90171ae5f912c4766c28a057122c415",
-    "wof:hierarchy":[],
-    "wof:id":706438763,
-    "wof:lastmodified":1472640033,
-    "wof:name":"Halfpayments Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "communications"
+    "wof:country": "US",
+    "wof:created": 1461803175,
+    "wof:geomhash": "aed062f2c6f98c43760c14c87a4600ac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706438763
+      }
+    ],
+    "wof:id": 706438763,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "Halfpayments Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "communications"
     ]
-},
+  },
   "bbox": [
     -81.843521,
     41.297581,
     -81.843521,
     41.297581
-],
+  ],
   "geometry": {"coordinates":[-81.843521,41.297581],"type":"Point"}
 }

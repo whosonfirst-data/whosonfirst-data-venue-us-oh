@@ -2,67 +2,71 @@
   "id": 706125207,
   "type": "Feature",
   "properties": {
-    "addr:full":"10250 Harrison Ave Harrison OH 45030",
-    "addr:housenumber":"10250",
-    "addr:postcode":"45030",
-    "addr:street":"Harrison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.782768,39.245913,-84.782768,39.245913",
-    "geom:latitude":39.245913,
-    "geom:longitude":-84.782768,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10250 Harrison Ave",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "10250 Harrison Ave Harrison OH 45030",
+    "addr:housenumber": "10250",
+    "addr:postcode": "45030",
+    "addr:street": "Harrison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.782768,39.245913,-84.782768,39.245913",
+    "geom:latitude": 39.245913,
+    "geom:longitude": -84.782768,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10250 Harrison Ave",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 367 1122",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "body",
-        "collision",
-        "painting",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 367 1122",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "body",
+      "collision",
+      "painting",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6be9JRkqGBprU3Q8a4JlVz_39.245913_-84.782768@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6be9JRkqGBprU3Q8a4JlVz_39.245913_-84.782768@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796391,
-    "wof:geomhash":"519bbc3e841a93dd4f7a05897089a4e2",
-    "wof:hierarchy":[],
-    "wof:id":706125207,
-    "wof:lastmodified":1472639290,
-    "wof:name":"Randy Lane's Auto Body Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "collision",
-        "painting",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461796391,
+    "wof:geomhash": "1054eca544e12863edf16d9907046fe5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706125207
+      }
+    ],
+    "wof:id": 706125207,
+    "wof:lastmodified": 1638567008,
+    "wof:name": "Randy Lane's Auto Body Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "collision",
+      "painting",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -84.782768,
     39.245913,
     -84.782768,
     39.245913
-],
+  ],
   "geometry": {"coordinates":[-84.782768,39.245913],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705734571,
   "type": "Feature",
   "properties": {
-    "addr:full":"1210 N Main St Marion OH 43302",
-    "addr:housenumber":"1210",
-    "addr:postcode":"43302",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.130821,40.612121,-83.130821,40.612121",
-    "geom:latitude":40.612121,
-    "geom:longitude":-83.130821,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1210 N Main St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1210 N Main St Marion OH 43302",
+    "addr:housenumber": "1210",
+    "addr:postcode": "43302",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.130821,40.612121,-83.130821,40.612121",
+    "geom:latitude": 40.612121,
+    "geom:longitude": -83.130821,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1210 N Main St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 387 8464",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 387 8464",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5vNkbwkTh4x1MOtMl9NtZo_40.612121_-83.130821@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5vNkbwkTh4x1MOtMl9NtZo_40.612121_-83.130821@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787519,
-    "wof:geomhash":"f5637e6f65107f033c3496c1525a92a7",
-    "wof:hierarchy":[],
-    "wof:id":705734571,
-    "wof:lastmodified":1472638999,
-    "wof:name":"North Main Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461787519,
+    "wof:geomhash": "37ef8f4b55b313310d04e00000084c83",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705734571
+      }
+    ],
+    "wof:id": 705734571,
+    "wof:lastmodified": 1638566950,
+    "wof:name": "North Main Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -83.130821,
     40.612121,
     -83.130821,
     40.612121
-],
+  ],
   "geometry": {"coordinates":[-83.130821,40.612121],"type":"Point"}
 }

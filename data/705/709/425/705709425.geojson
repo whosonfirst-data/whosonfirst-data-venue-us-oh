@@ -2,61 +2,65 @@
   "id": 705709425,
   "type": "Feature",
   "properties": {
-    "addr:full":"112 E 2nd St Pomeroy OH 45769",
-    "addr:housenumber":"112",
-    "addr:postcode":"45769",
-    "addr:street":"E 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.032756,39.02805,-82.032756,39.02805",
-    "geom:latitude":39.02805,
-    "geom:longitude":-82.032756,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"112 E 2nd St",
-    "sg:city":"Pomeroy",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "112 E 2nd St Pomeroy OH 45769",
+    "addr:housenumber": "112",
+    "addr:postcode": "45769",
+    "addr:street": "E 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.032756,39.028050,-82.032756,39.028050",
+    "geom:latitude": 39.02805,
+    "geom:longitude": -82.032756,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "112 E 2nd St",
+    "sg:city": "Pomeroy",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 992 5788",
-    "sg:postcode":"45769",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 992 5788",
+    "sg:postcode": "45769",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3yT06OTZn8apm5wTPRAOfO_39.028050_-82.032756@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3yT06OTZn8apm5wTPRAOfO_39.028050_-82.032756@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786870,
-    "wof:geomhash":"5ac6e6a83a03a1ace9581c4e64f1f8c6",
-    "wof:hierarchy":[],
-    "wof:id":705709425,
-    "wof:lastmodified":1472638367,
-    "wof:name":"Pomeroy United Methodist Chr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461786870,
+    "wof:geomhash": "a7935c16c0397a1c9cdd57e357b88c6e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705709425
+      }
+    ],
+    "wof:id": 705709425,
+    "wof:lastmodified": 1638566926,
+    "wof:name": "Pomeroy United Methodist Chr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.032756,
     39.02805,
     -82.032756,
     39.02805
-],
-  "geometry": {"coordinates":[-82.03275600000001,39.02805],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.032756,39.02805],"type":"Point"}
 }

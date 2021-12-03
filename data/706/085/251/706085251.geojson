@@ -2,61 +2,65 @@
   "id": 706085251,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 High St Wadsworth OH 44281",
-    "addr:housenumber":"115",
-    "addr:postcode":"44281",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.729619,41.025853,-81.729619,41.025853",
-    "geom:latitude":41.025853,
-    "geom:longitude":-81.729619,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 High St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Jewelry",
-            "type":"Retail Goods"
-        }
+    "addr:full": "115 High St Wadsworth OH 44281",
+    "addr:housenumber": "115",
+    "addr:postcode": "44281",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.729619,41.025853,-81.729619,41.025853",
+    "geom:latitude": 41.025853,
+    "geom:longitude": -81.729619,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "115 High St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Jewelry",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 335 6055",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "jeweler"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 335 6055",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "jeweler"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_09QAD4HlYVyNsogiomG0sX_41.025853_-81.729619@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_09QAD4HlYVyNsogiomG0sX_41.025853_-81.729619@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795424,
-    "wof:geomhash":"56d331808b1bd6f3c38099bca2372a20",
-    "wof:hierarchy":[],
-    "wof:id":706085251,
-    "wof:lastmodified":1472639180,
-    "wof:name":"Thurber's Jewelers",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "jeweler"
+    "wof:country": "US",
+    "wof:created": 1461795424,
+    "wof:geomhash": "ad1a1c2264b2dad1459c3e9f4fdceb08",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706085251
+      }
+    ],
+    "wof:id": 706085251,
+    "wof:lastmodified": 1638566979,
+    "wof:name": "Thurber's Jewelers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "jeweler"
     ]
-},
+  },
   "bbox": [
     -81.729619,
     41.025853,
     -81.729619,
     41.025853
-],
+  ],
   "geometry": {"coordinates":[-81.729619,41.025853],"type":"Point"}
 }

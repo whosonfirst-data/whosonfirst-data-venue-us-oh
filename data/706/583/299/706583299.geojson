@@ -2,65 +2,69 @@
   "id": 706583299,
   "type": "Feature",
   "properties": {
-    "addr:full":"1200 Park Ave W Mansfield OH 44906",
-    "addr:housenumber":"1200",
-    "addr:postcode":"44906",
-    "addr:street":"Park Ave W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.559224,40.759292,-82.559224,40.759292",
-    "geom:latitude":40.759292,
-    "geom:longitude":-82.559224,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1200 Park Ave W",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1200 Park Ave W Mansfield OH 44906",
+    "addr:housenumber": "1200",
+    "addr:postcode": "44906",
+    "addr:street": "Park Ave W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.559224,40.759292,-82.559224,40.759292",
+    "geom:latitude": 40.759292,
+    "geom:longitude": -82.559224,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1200 Park Ave W",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/mansfield/213871-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 8777",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/oh/mansfield/213871-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 8777",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3YiRj1LokalmUi7nOs9BAV_40.759408_-82.559870@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3YiRj1LokalmUi7nOs9BAV_40.759408_-82.559870@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806387,
-    "wof:geomhash":"02fab5888a348558694675fc5396a6b0",
-    "wof:hierarchy":[],
-    "wof:id":706583299,
-    "wof:lastmodified":1511321251,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461806387,
+    "wof:geomhash": "02fab5888a348558694675fc5396a6b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706583299
+      }
+    ],
+    "wof:id": 706583299,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -82.559224,
     40.759292,
     -82.559224,
     40.759292
-],
+  ],
   "geometry": {"coordinates":[-82.559224,40.759292],"type":"Point"}
 }

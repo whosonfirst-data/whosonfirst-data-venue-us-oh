@@ -2,63 +2,67 @@
   "id": 705939305,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 Colonial Dr Youngstown OH 44505",
-    "addr:housenumber":"11",
-    "addr:postcode":"44505",
-    "addr:street":"Colonial Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.66477,41.136936,-80.66477,41.136936",
-    "geom:latitude":41.136936,
-    "geom:longitude":-80.66477,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11 Colonial Dr",
-    "sg:city":"Youngstown",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "11 Colonial Dr Youngstown OH 44505",
+    "addr:housenumber": "11",
+    "addr:postcode": "44505",
+    "addr:street": "Colonial Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.664770,41.136936,-80.664770,41.136936",
+    "geom:latitude": 41.136936,
+    "geom:longitude": -80.66477,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11 Colonial Dr",
+    "sg:city": "Youngstown",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 759 6550",
-    "sg:postcode":"44505",
-    "sg:province":"OH",
-    "sg:tags":[
-        "therapist",
-        "physical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 759 6550",
+    "sg:postcode": "44505",
+    "sg:province": "OH",
+    "sg:tags": [
+      "therapist",
+      "physical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0E6YkVuDjwXeREZpgBUkPl_41.136936_-80.664770@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0E6YkVuDjwXeREZpgBUkPl_41.136936_-80.664770@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792290,
-    "wof:geomhash":"1bace01e997a068727413419c20427a8",
-    "wof:hierarchy":[],
-    "wof:id":705939305,
-    "wof:lastmodified":1472639665,
-    "wof:name":"Colonial Outpatient Therapy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "therapist",
-        "physical"
+    "wof:country": "US",
+    "wof:created": 1461792290,
+    "wof:geomhash": "b7a05c95805abbb595a93a1a7a9d4abe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705939305
+      }
+    ],
+    "wof:id": 705939305,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Colonial Outpatient Therapy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "therapist",
+      "physical"
     ]
-},
+  },
   "bbox": [
     -80.66477,
     41.136936,
     -80.66477,
     41.136936
-],
+  ],
   "geometry": {"coordinates":[-80.66477,41.136936],"type":"Point"}
 }

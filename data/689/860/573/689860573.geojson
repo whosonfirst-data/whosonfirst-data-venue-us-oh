@@ -2,63 +2,67 @@
   "id": 689860573,
   "type": "Feature",
   "properties": {
-    "addr:full":"325 Main St Wadsworth OH 44281",
-    "addr:housenumber":"325",
-    "addr:postcode":"44281",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.72962,41.01906,-81.72962,41.01906",
-    "geom:latitude":41.01906,
-    "geom:longitude":-81.72962,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"325 Main St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "325 Main St Wadsworth OH 44281",
+    "addr:housenumber": "325",
+    "addr:postcode": "44281",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.729620,41.019060,-81.729620,41.019060",
+    "geom:latitude": 41.01906,
+    "geom:longitude": -81.72962,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "325 Main St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 334 7027",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "care"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 334 7027",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "care"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3hUblZU1qdTauY8CsJkZUV_41.019060_-81.729620@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3hUblZU1qdTauY8CsJkZUV_41.019060_-81.729620@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783544,
-    "wof:geomhash":"6a1f1677a850c6b61a4f833cd20cc8e6",
-    "wof:hierarchy":[],
-    "wof:id":689860573,
-    "wof:lastmodified":1472639953,
-    "wof:name":"ASAP Homecare Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "care"
+    "wof:country": "US",
+    "wof:created": 1461783544,
+    "wof:geomhash": "d232be5a2b6404b9bc37b6ea8834b21a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689860573
+      }
+    ],
+    "wof:id": 689860573,
+    "wof:lastmodified": 1638567087,
+    "wof:name": "ASAP Homecare Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "care"
     ]
-},
+  },
   "bbox": [
     -81.72962,
     41.01906,
     -81.72962,
     41.01906
-],
+  ],
   "geometry": {"coordinates":[-81.72962,41.01906],"type":"Point"}
 }

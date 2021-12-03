@@ -2,62 +2,66 @@
   "id": 689764753,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Harding Way W Galion OH 44833",
-    "addr:housenumber":"200",
-    "addr:postcode":"44833",
-    "addr:street":"Harding Way W",
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-11-15",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.79139,40.733929,-82.79139,40.733929",
-    "geom:latitude":40.733929,
-    "geom:longitude":-82.79139,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "sg:address":"200 Harding Way W",
-    "sg:city":"Galion",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "200 Harding Way W Galion OH 44833",
+    "addr:housenumber": "200",
+    "addr:postcode": "44833",
+    "addr:street": "Harding Way W",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.791390,40.733929,-82.791390,40.733929",
+    "geom:latitude": 40.733929,
+    "geom:longitude": -82.79139,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "200 Harding Way W",
+    "sg:city": "Galion",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 462 5003",
-    "sg:postcode":"44833",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573903,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5wPsFZhUQMM1tcrkWawsqu_40.733929_-82.791390@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 462 5003",
+    "sg:postcode": "44833",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573903,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5wPsFZhUQMM1tcrkWawsqu_40.733929_-82.791390@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780894,
-    "wof:geomhash":"5a2116bfaf519a3a4f0cc34eeaa7446c",
-    "wof:hierarchy":[],
-    "wof:id":689764753,
-    "wof:lastmodified":1511322588,
-    "wof:name":"Wendy's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[
-        706360177
+    "wof:country": "US",
+    "wof:created": 1461780894,
+    "wof:geomhash": "5a2116bfaf519a3a4f0cc34eeaa7446c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689764753
+      }
     ],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 689764753,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "Wendy's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [
+      706360177
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.79139,
     40.733929,
     -82.79139,
     40.733929
-],
-  "geometry": {"coordinates":[-82.79139000000001,40.733929],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.79139,40.733929],"type":"Point"}
 }

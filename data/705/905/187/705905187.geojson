@@ -2,61 +2,65 @@
   "id": 705905187,
   "type": "Feature",
   "properties": {
-    "addr:full":"750 Mount Orab Pike Georgetown OH 45121",
-    "addr:housenumber":"750",
-    "addr:postcode":"45121",
-    "addr:street":"Mount Orab Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.901716,38.874605,-83.901716,38.874605",
-    "geom:latitude":38.874605,
-    "geom:longitude":-83.901716,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"750 Mount Orab Pike",
-    "sg:city":"Georgetown",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "750 Mount Orab Pike Georgetown OH 45121",
+    "addr:housenumber": "750",
+    "addr:postcode": "45121",
+    "addr:street": "Mount Orab Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.901716,38.874605,-83.901716,38.874605",
+    "geom:latitude": 38.874605,
+    "geom:longitude": -83.901716,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "750 Mount Orab Pike",
+    "sg:city": "Georgetown",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 378 3082",
-    "sg:postcode":"45121",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 378 3082",
+    "sg:postcode": "45121",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BWjaw5kuXfbcILb7X4WmF_38.874605_-83.901716@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3BWjaw5kuXfbcILb7X4WmF_38.874605_-83.901716@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791526,
-    "wof:geomhash":"035d9dea96ab45e96ac47760e96ddaab",
-    "wof:hierarchy":[],
-    "wof:id":705905187,
-    "wof:lastmodified":1472639553,
-    "wof:name":"Life Squad Building",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461791526,
+    "wof:geomhash": "628a3e2b68abb7409adaa5c5b040c8bd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705905187
+      }
+    ],
+    "wof:id": 705905187,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Life Squad Building",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.901716,
     38.874605,
     -83.901716,
     38.874605
-],
-  "geometry": {"coordinates":[-83.90171599999999,38.874605],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.901716,38.874605],"type":"Point"}
 }

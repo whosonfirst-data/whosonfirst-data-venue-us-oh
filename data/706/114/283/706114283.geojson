@@ -2,61 +2,65 @@
   "id": 706114283,
   "type": "Feature",
   "properties": {
-    "addr:full":"190 Beechmont Ave Cincinnati OH 45245",
-    "addr:housenumber":"190",
-    "addr:postcode":"45245",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.289709,39.065351,-84.289709,39.065351",
-    "geom:latitude":39.065351,
-    "geom:longitude":-84.289709,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"190 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "190 Beechmont Ave Cincinnati OH 45245",
+    "addr:housenumber": "190",
+    "addr:postcode": "45245",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.289709,39.065351,-84.289709,39.065351",
+    "geom:latitude": 39.065351,
+    "geom:longitude": -84.289709,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "190 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 753 3777",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 753 3777",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4SlREfAFxVJqGYRXh5joRm_39.065351_-84.289709@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4SlREfAFxVJqGYRXh5joRm_39.065351_-84.289709@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796114,
-    "wof:geomhash":"fc786ad5e691a46613f9477afef4afdb",
-    "wof:hierarchy":[],
-    "wof:id":706114283,
-    "wof:lastmodified":1472639278,
-    "wof:name":"A Blue Ribbon Pet Care Service",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461796114,
+    "wof:geomhash": "ae356c2c247a584aa0a2bca1fc4ba7bb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706114283
+      }
+    ],
+    "wof:id": 706114283,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "A Blue Ribbon Pet Care Service",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -84.289709,
     39.065351,
     -84.289709,
     39.065351
-],
+  ],
   "geometry": {"coordinates":[-84.289709,39.065351],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689548175,
   "type": "Feature",
   "properties": {
-    "addr:full":"1127 W Main St Zanesville OH 43701",
-    "addr:housenumber":"1127",
-    "addr:postcode":"43701",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.019243,39.93962,-82.019243,39.93962",
-    "geom:latitude":39.93962,
-    "geom:longitude":-82.019243,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1127 W Main St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "1127 W Main St Zanesville OH 43701",
+    "addr:housenumber": "1127",
+    "addr:postcode": "43701",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.019243,39.939620,-82.019243,39.939620",
+    "geom:latitude": 39.93962,
+    "geom:longitude": -82.019243,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1127 W Main St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 6298",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bingo",
-        "game"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 6298",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bingo",
+      "game"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4MtywVqB28gxSrPuwYdfXu_39.939620_-82.019243@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4MtywVqB28gxSrPuwYdfXu_39.939620_-82.019243@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774653,
-    "wof:geomhash":"6805a5b3e54d1dd0b545913666c93afb",
-    "wof:hierarchy":[],
-    "wof:id":689548175,
-    "wof:lastmodified":1472639221,
-    "wof:name":"MASS Bingo",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bingo",
-        "game"
+    "wof:country": "US",
+    "wof:created": 1461774653,
+    "wof:geomhash": "dd4cc3eaa43226c850abd85b9e81f306",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689548175
+      }
+    ],
+    "wof:id": 689548175,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "MASS Bingo",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bingo",
+      "game"
     ]
-},
+  },
   "bbox": [
     -82.019243,
     39.93962,
     -82.019243,
     39.93962
-],
+  ],
   "geometry": {"coordinates":[-82.019243,39.93962],"type":"Point"}
 }

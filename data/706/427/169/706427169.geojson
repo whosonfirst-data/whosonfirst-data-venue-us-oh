@@ -2,61 +2,65 @@
   "id": 706427169,
   "type": "Feature",
   "properties": {
-    "addr:full":"2730 Akron Rd Wooster OH 44691",
-    "addr:housenumber":"2730",
-    "addr:postcode":"44691",
-    "addr:street":"Akron Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.90855,40.830962,-81.90855,40.830962",
-    "geom:latitude":40.830962,
-    "geom:longitude":-81.90855,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2730 Akron Rd",
-    "sg:city":"Wooster",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2730 Akron Rd Wooster OH 44691",
+    "addr:housenumber": "2730",
+    "addr:postcode": "44691",
+    "addr:street": "Akron Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.908550,40.830962,-81.908550,40.830962",
+    "geom:latitude": 40.830962,
+    "geom:longitude": -81.90855,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2730 Akron Rd",
+    "sg:city": "Wooster",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 263 0515",
-    "sg:postcode":"44691",
-    "sg:province":"OH",
-    "sg:tags":[
-        "moving"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 263 0515",
+    "sg:postcode": "44691",
+    "sg:province": "OH",
+    "sg:tags": [
+      "moving"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55H9zJcSUXoz2uzd3absin_40.830962_-81.908550@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55H9zJcSUXoz2uzd3absin_40.830962_-81.908550@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802924,
-    "wof:geomhash":"c41f7b16891bfd070aba4bd463f5ac8e",
-    "wof:hierarchy":[],
-    "wof:id":706427169,
-    "wof:lastmodified":1472640009,
-    "wof:name":"Walkerly Moving & Storage Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "moving"
+    "wof:country": "US",
+    "wof:created": 1461802924,
+    "wof:geomhash": "0d2a9cd7b102e312770d1e28e0402f7d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706427169
+      }
+    ],
+    "wof:id": 706427169,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "Walkerly Moving \u0026 Storage Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "moving"
     ]
-},
+  },
   "bbox": [
     -81.90855,
     40.830962,
     -81.90855,
     40.830962
-],
-  "geometry": {"coordinates":[-81.90855000000001,40.830962],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.90855,40.830962],"type":"Point"}
 }

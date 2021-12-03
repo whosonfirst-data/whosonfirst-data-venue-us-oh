@@ -2,57 +2,61 @@
   "id": 705700275,
   "type": "Feature",
   "properties": {
-    "addr:full":"27390 Helen Dr Perrysburg OH 43551",
-    "addr:housenumber":"27390",
-    "addr:postcode":"43551",
-    "addr:street":"Helen Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.598868,41.550893,-83.598868,41.550893",
-    "geom:latitude":41.550893,
-    "geom:longitude":-83.598868,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"27390 Helen Dr",
-    "sg:city":"Perrysburg",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "27390 Helen Dr Perrysburg OH 43551",
+    "addr:housenumber": "27390",
+    "addr:postcode": "43551",
+    "addr:street": "Helen Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.598868,41.550893,-83.598868,41.550893",
+    "geom:latitude": 41.550893,
+    "geom:longitude": -83.598868,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "27390 Helen Dr",
+    "sg:city": "Perrysburg",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 874 3605",
-    "sg:postcode":"43551",
-    "sg:province":"OH",
-    "sg:website":"www.frickers.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1F5p3cySdGhmhG7az9tcI2_41.550893_-83.598868@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 874 3605",
+    "sg:postcode": "43551",
+    "sg:province": "OH",
+    "sg:website": "www.frickers.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1F5p3cySdGhmhG7az9tcI2_41.550893_-83.598868@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786538,
-    "wof:geomhash":"3a1e6a3762f26adea4a1d7b2d0f1005a",
-    "wof:hierarchy":[],
-    "wof:id":705700275,
-    "wof:lastmodified":1472638277,
-    "wof:name":"Fricker's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461786538,
+    "wof:geomhash": "acb267907c0888487bcd8fbfff4dd19d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705700275
+      }
+    ],
+    "wof:id": 705700275,
+    "wof:lastmodified": 1638566918,
+    "wof:name": "Fricker's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.598868,
     41.550893,
     -83.598868,
     41.550893
-],
+  ],
   "geometry": {"coordinates":[-83.598868,41.550893],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705978043,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 W Wayne St Lima OH 45801",
-    "addr:housenumber":"121",
-    "addr:postcode":"45801",
-    "addr:street":"W Wayne St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.105611,40.74396,-84.105611,40.74396",
-    "geom:latitude":40.74396,
-    "geom:longitude":-84.105611,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"121 W Wayne St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "121 W Wayne St Lima OH 45801",
+    "addr:housenumber": "121",
+    "addr:postcode": "45801",
+    "addr:street": "W Wayne St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.105611,40.743960,-84.105611,40.743960",
+    "geom:latitude": 40.74396,
+    "geom:longitude": -84.105611,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "121 W Wayne St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 221 3550",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "automobile",
-        "electric"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 221 3550",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "automobile",
+      "electric"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WsmqKEeWKerwN5yiHYjVQ_40.743960_-84.105611@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0WsmqKEeWKerwN5yiHYjVQ_40.743960_-84.105611@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793126,
-    "wof:geomhash":"08dc48cefc28e174934aa29c4fc59052",
-    "wof:hierarchy":[],
-    "wof:id":705978043,
-    "wof:lastmodified":1472639766,
-    "wof:name":"Blodgett's Auto & Electrical",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "electric"
+    "wof:country": "US",
+    "wof:created": 1461793126,
+    "wof:geomhash": "2b6f66ac5c147e8dd5b634a21b983b18",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705978043
+      }
+    ],
+    "wof:id": 705978043,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Blodgett's Auto \u0026 Electrical",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "electric"
     ]
-},
+  },
   "bbox": [
     -84.105611,
     40.74396,
     -84.105611,
     40.74396
-],
+  ],
   "geometry": {"coordinates":[-84.105611,40.74396],"type":"Point"}
 }

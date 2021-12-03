@@ -2,61 +2,65 @@
   "id": 706332315,
   "type": "Feature",
   "properties": {
-    "addr:full":"1635 Washington Ave Findlay OH 45840",
-    "addr:housenumber":"1635",
-    "addr:postcode":"45840",
-    "addr:street":"Washington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.645619,41.020748,-83.645619,41.020748",
-    "geom:latitude":41.020748,
-    "geom:longitude":-83.645619,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1635 Washington Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "1635 Washington Ave Findlay OH 45840",
+    "addr:housenumber": "1635",
+    "addr:postcode": "45840",
+    "addr:street": "Washington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.645619,41.020748,-83.645619,41.020748",
+    "geom:latitude": 41.020748,
+    "geom:longitude": -83.645619,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1635 Washington Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 424 0486",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 424 0486",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "residential"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6pCjuPBsTHqA79ryDQ6AgR_41.020748_-83.645619@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6pCjuPBsTHqA79ryDQ6AgR_41.020748_-83.645619@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801031,
-    "wof:geomhash":"310bf748b77e1695337f8762e1fca6b7",
-    "wof:hierarchy":[],
-    "wof:id":706332315,
-    "wof:lastmodified":1472639837,
-    "wof:name":"Fredrick J Curtis",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461801031,
+    "wof:geomhash": "dbc7e37314a293f9cc6084b85cecfe7e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706332315
+      }
+    ],
+    "wof:id": 706332315,
+    "wof:lastmodified": 1638567081,
+    "wof:name": "Fredrick J Curtis",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential"
     ]
-},
+  },
   "bbox": [
     -83.645619,
     41.020748,
     -83.645619,
     41.020748
-],
+  ],
   "geometry": {"coordinates":[-83.645619,41.020748],"type":"Point"}
 }

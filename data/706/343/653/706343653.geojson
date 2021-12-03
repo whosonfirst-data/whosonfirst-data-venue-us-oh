@@ -2,65 +2,69 @@
   "id": 706343653,
   "type": "Feature",
   "properties": {
-    "addr:full":"5403 Hudson Dr SW Navarre OH 44662",
-    "addr:housenumber":"5403",
-    "addr:postcode":"44662",
-    "addr:street":"Hudson Dr Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.458005,40.682447,-81.458005,40.682447",
-    "geom:latitude":40.682447,
-    "geom:longitude":-81.458005,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5403 Hudson Dr SW",
-    "sg:city":"Navarre",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5403 Hudson Dr SW Navarre OH 44662",
+    "addr:housenumber": "5403",
+    "addr:postcode": "44662",
+    "addr:street": "Hudson Dr Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.458005,40.682447,-81.458005,40.682447",
+    "geom:latitude": 40.682447,
+    "geom:longitude": -81.458005,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5403 Hudson Dr SW",
+    "sg:city": "Navarre",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 874 4012",
-    "sg:postcode":"44662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 874 4012",
+    "sg:postcode": "44662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6D0fDlqQp4qGIgRK79Cc7B_40.682447_-81.458005@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6D0fDlqQp4qGIgRK79Cc7B_40.682447_-81.458005@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801277,
-    "wof:geomhash":"109c064e12a948f2aef62f4e62009249",
-    "wof:hierarchy":[],
-    "wof:id":706343653,
-    "wof:lastmodified":1472639857,
-    "wof:name":"Stokes Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461801277,
+    "wof:geomhash": "5dc77a1e9973022a61d1a07d1ee571ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706343653
+      }
+    ],
+    "wof:id": 706343653,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Stokes Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.458005,
     40.682447,
     -81.458005,
     40.682447
-],
+  ],
   "geometry": {"coordinates":[-81.458005,40.682447],"type":"Point"}
 }

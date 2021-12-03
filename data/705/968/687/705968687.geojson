@@ -2,61 +2,65 @@
   "id": 705968687,
   "type": "Feature",
   "properties": {
-    "addr:full":"10915 Reading Rd Cincinnati OH 45241",
-    "addr:housenumber":"10915",
-    "addr:postcode":"45241",
-    "addr:street":"Reading Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.41358,39.266863,-84.41358,39.266863",
-    "geom:latitude":39.266863,
-    "geom:longitude":-84.41358,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10915 Reading Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "10915 Reading Rd Cincinnati OH 45241",
+    "addr:housenumber": "10915",
+    "addr:postcode": "45241",
+    "addr:street": "Reading Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.413580,39.266863,-84.413580,39.266863",
+    "geom:latitude": 39.266863,
+    "geom:longitude": -84.41358,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10915 Reading Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 891 7171",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "counseling"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 891 7171",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "counseling"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0oK6rL0pR8jPAzxpFmZ0mV_39.266863_-84.413580@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0oK6rL0pR8jPAzxpFmZ0mV_39.266863_-84.413580@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792940,
-    "wof:geomhash":"2702ee04a0fded011000a3bdaba99e6e",
-    "wof:hierarchy":[],
-    "wof:id":705968687,
-    "wof:lastmodified":1472639759,
-    "wof:name":"Crossroads Employee Assistance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counseling"
+    "wof:country": "US",
+    "wof:created": 1461792940,
+    "wof:geomhash": "e53f3fcbcfd76af5f36cefe72a2e076f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705968687
+      }
+    ],
+    "wof:id": 705968687,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Crossroads Employee Assistance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counseling"
     ]
-},
+  },
   "bbox": [
     -84.41358,
     39.266863,
     -84.41358,
     39.266863
-],
+  ],
   "geometry": {"coordinates":[-84.41358,39.266863],"type":"Point"}
 }

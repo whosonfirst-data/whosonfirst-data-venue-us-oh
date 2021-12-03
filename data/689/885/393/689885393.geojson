@@ -2,61 +2,65 @@
   "id": 689885393,
   "type": "Feature",
   "properties": {
-    "addr:full":"265 W Riverview Ave Napoleon OH 43545",
-    "addr:housenumber":"265",
-    "addr:postcode":"43545",
-    "addr:street":"W Riverview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.127412,41.386897,-84.127412,41.386897",
-    "geom:latitude":41.386897,
-    "geom:longitude":-84.127412,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"265 W Riverview Ave",
-    "sg:city":"Napoleon",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "265 W Riverview Ave Napoleon OH 43545",
+    "addr:housenumber": "265",
+    "addr:postcode": "43545",
+    "addr:street": "W Riverview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.127412,41.386897,-84.127412,41.386897",
+    "geom:latitude": 41.386897,
+    "geom:longitude": -84.127412,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "265 W Riverview Ave",
+    "sg:city": "Napoleon",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 592 0441",
-    "sg:postcode":"43545",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 592 0441",
+    "sg:postcode": "43545",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3MH7XQeXGDvYbgMQPtDKWm_41.386897_-84.127412@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3MH7XQeXGDvYbgMQPtDKWm_41.386897_-84.127412@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784183,
-    "wof:geomhash":"6b5c441f58feba82d3db3b2eedb66341",
-    "wof:hierarchy":[],
-    "wof:id":689885393,
-    "wof:lastmodified":1472640071,
-    "wof:name":"Napoleon City Rescue Squad",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461784183,
+    "wof:geomhash": "6abebeffd53c8ec7342c38f30c91c817",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689885393
+      }
+    ],
+    "wof:id": 689885393,
+    "wof:lastmodified": 1638567096,
+    "wof:name": "Napoleon City Rescue Squad",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.127412,
     41.386897,
     -84.127412,
     41.386897
-],
-  "geometry": {"coordinates":[-84.12741200000001,41.386897],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.127412,41.386897],"type":"Point"}
 }

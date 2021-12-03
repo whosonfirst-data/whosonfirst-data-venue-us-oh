@@ -2,61 +2,65 @@
   "id": 706413415,
   "type": "Feature",
   "properties": {
-    "addr:full":"303 Howland St Fremont OH 43420",
-    "addr:housenumber":"303",
-    "addr:postcode":"43420",
-    "addr:street":"Howland St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.108407,41.347238,-83.108407,41.347238",
-    "geom:latitude":41.347238,
-    "geom:longitude":-83.108407,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"303 Howland St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "303 Howland St Fremont OH 43420",
+    "addr:housenumber": "303",
+    "addr:postcode": "43420",
+    "addr:street": "Howland St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.108407,41.347238,-83.108407,41.347238",
+    "geom:latitude": 41.347238,
+    "geom:longitude": -83.108407,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "303 Howland St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 7974",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 7974",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2QMNZOb99tTcRJGSMvAyRQ_41.347238_-83.108407@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2QMNZOb99tTcRJGSMvAyRQ_41.347238_-83.108407@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802663,
-    "wof:geomhash":"974c48e9cb1be43ffc187073c23fca48",
-    "wof:hierarchy":[],
-    "wof:id":706413415,
-    "wof:lastmodified":1472639995,
-    "wof:name":"Faith Temple Born Again",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461802663,
+    "wof:geomhash": "50c0e6d795d9d088dd75ab745c7de44f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706413415
+      }
+    ],
+    "wof:id": 706413415,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Faith Temple Born Again",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.108407,
     41.347238,
     -83.108407,
     41.347238
-],
+  ],
   "geometry": {"coordinates":[-83.108407,41.347238],"type":"Point"}
 }

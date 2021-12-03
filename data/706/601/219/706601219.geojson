@@ -2,75 +2,79 @@
   "id": 706601219,
   "type": "Feature",
   "properties": {
-    "addr:full":"1831 E 36th St Cleveland OH 44114",
-    "addr:housenumber":"1831",
-    "addr:postcode":"44114",
-    "addr:street":"E 36Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.663228,41.506189,-81.663228,41.506189",
-    "geom:latitude":41.506189,
-    "geom:longitude":-81.663228,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1831 E 36th St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "1831 E 36th St Cleveland OH 44114",
+    "addr:housenumber": "1831",
+    "addr:postcode": "44114",
+    "addr:street": "E 36Th St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2021-12-03",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.663228,41.506189,-81.663228,41.506189",
+    "geom:latitude": 41.506189,
+    "geom:longitude": -81.663228,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1831 E 36th St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 361 9216",
-    "sg:postcode":"44114",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85871787,
-        102191575,
-        404523697,
-        85633793,
-        101712563,
-        102084837,
-        85688485
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 361 9216",
+    "sg:postcode": "44114",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85871787,
+      102191575,
+      404523697,
+      85633793,
+      101712563,
+      102084837,
+      85688485
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46MgMiPQybRDCEw6HaMNqt_41.506189_-81.663228@1303262754"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_46MgMiPQybRDCEw6HaMNqt_41.506189_-81.663228@1303262754"
     },
-    "wof:country":"US",
-    "wof:created":1461806754,
-    "wof:geomhash":"ab447f7ba8169b922b3bde2784fc5203",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084837,
-            "localadmin_id":404523697,
-            "locality_id":101712563,
-            "neighbourhood_id":85871787,
-            "region_id":85688485,
-            "venue_id":706601219
-        }
+    "wof:country": "US",
+    "wof:created": 1461806754,
+    "wof:geomhash": "27ccf16a168048a39d4f0a60bbee5de6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084837,
+        "localadmin_id": 404523697,
+        "locality_id": 101712563,
+        "neighbourhood_id": 85871787,
+        "region_id": 85688485,
+        "venue_id": 706601219
+      }
     ],
-    "wof:id":706601219,
-    "wof:lastmodified":1472640210,
-    "wof:name":"The Cleveland Museum of Art",
-    "wof:parent_id":85871787,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 706601219,
+    "wof:lastmodified": 1638567337,
+    "wof:name": "The Cleveland Museum of Art",
+    "wof:parent_id": 85871787,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [
+      706599119
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.663228,
     41.506189,
     -81.663228,
     41.506189
-],
+  ],
   "geometry": {"coordinates":[-81.663228,41.506189],"type":"Point"}
 }

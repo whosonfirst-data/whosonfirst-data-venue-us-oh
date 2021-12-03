@@ -2,61 +2,65 @@
   "id": 706228349,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 Wall Port Jefferson OH 45360",
-    "addr:housenumber":"105",
-    "addr:postcode":"45360",
-    "addr:street":"Wall",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.092988,40.330219,-84.092988,40.330219",
-    "geom:latitude":40.330219,
-    "geom:longitude":-84.092988,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 Wall",
-    "sg:city":"Port Jefferson",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "105 Wall Port Jefferson OH 45360",
+    "addr:housenumber": "105",
+    "addr:postcode": "45360",
+    "addr:street": "Wall",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.092988,40.330219,-84.092988,40.330219",
+    "geom:latitude": 40.330219,
+    "geom:longitude": -84.092988,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 Wall",
+    "sg:city": "Port Jefferson",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 498 1960",
-    "sg:postcode":"45360",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 498 1960",
+    "sg:postcode": "45360",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7WizwwriQydK3noFldKKXN_40.330219_-84.092988@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7WizwwriQydK3noFldKKXN_40.330219_-84.092988@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798667,
-    "wof:geomhash":"c53a73d9ef9bcdeae16b0a8b9e2866df",
-    "wof:hierarchy":[],
-    "wof:id":706228349,
-    "wof:lastmodified":1472639530,
-    "wof:name":"Port Jefferson Community Fire",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461798667,
+    "wof:geomhash": "67bae97106a8b9aa59b3629130cdaf27",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706228349
+      }
+    ],
+    "wof:id": 706228349,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "Port Jefferson Community Fire",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.092988,
     40.330219,
     -84.092988,
     40.330219
-],
-  "geometry": {"coordinates":[-84.09298800000001,40.330219],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.092988,40.330219],"type":"Point"}
 }

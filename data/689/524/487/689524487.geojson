@@ -2,61 +2,65 @@
   "id": 689524487,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 N Market St Minerva OH 44657",
-    "addr:housenumber":"119",
-    "addr:postcode":"44657",
-    "addr:street":"N Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.103502,40.72875,-81.103502,40.72875",
-    "geom:latitude":40.72875,
-    "geom:longitude":-81.103502,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"119 N Market St",
-    "sg:city":"Minerva",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Musical Instruments",
-            "type":"Retail Goods"
-        }
+    "addr:full": "119 N Market St Minerva OH 44657",
+    "addr:housenumber": "119",
+    "addr:postcode": "44657",
+    "addr:street": "N Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.103502,40.728750,-81.103502,40.728750",
+    "geom:latitude": 40.72875,
+    "geom:longitude": -81.103502,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "119 N Market St",
+    "sg:city": "Minerva",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Musical Instruments",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 868 5708",
-    "sg:postcode":"44657",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2RX94O6lobvzKMEHbG6fqS_40.728750_-81.103502@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 868 5708",
+    "sg:postcode": "44657",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2RX94O6lobvzKMEHbG6fqS_40.728750_-81.103502@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773891,
-    "wof:geomhash":"cf9de6e892d0b502c77eea17fe261a06",
-    "wof:hierarchy":[],
-    "wof:id":689524487,
-    "wof:lastmodified":1472639175,
-    "wof:name":"Minerva Music Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461773891,
+    "wof:geomhash": "f054623d59b63fe4f7cd0b4473d2e77a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689524487
+      }
+    ],
+    "wof:id": 689524487,
+    "wof:lastmodified": 1638566966,
+    "wof:name": "Minerva Music Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.103502,
     40.72875,
     -81.103502,
     40.72875
-],
-  "geometry": {"coordinates":[-81.10350200000001,40.72875],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.103502,40.72875],"type":"Point"}
 }

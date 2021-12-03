@@ -2,61 +2,65 @@
   "id": 706433963,
   "type": "Feature",
   "properties": {
-    "addr:full":"5249 Secor Rd Toledo OH 43623",
-    "addr:housenumber":"5249",
-    "addr:postcode":"43623",
-    "addr:street":"Secor Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.623902,41.709048,-83.623902,41.709048",
-    "geom:latitude":41.709048,
-    "geom:longitude":-83.623902,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5249 Secor Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "5249 Secor Rd Toledo OH 43623",
+    "addr:housenumber": "5249",
+    "addr:postcode": "43623",
+    "addr:street": "Secor Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.623902,41.709048,-83.623902,41.709048",
+    "geom:latitude": 41.709048,
+    "geom:longitude": -83.623902,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5249 Secor Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 283 6463",
-    "sg:postcode":"43623",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 283 6463",
+    "sg:postcode": "43623",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1VtSUFcAzfivpRrYaFlDfR_41.709048_-83.623902@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1VtSUFcAzfivpRrYaFlDfR_41.709048_-83.623902@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803058,
-    "wof:geomhash":"365de39b15c050331992bcc94a13e388",
-    "wof:hierarchy":[],
-    "wof:id":706433963,
-    "wof:lastmodified":1472640027,
-    "wof:name":"A Minds Eye",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461803058,
+    "wof:geomhash": "00c66d2fabd77caa335e0d8913d73645",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706433963
+      }
+    ],
+    "wof:id": 706433963,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "A Minds Eye",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.623902,
     41.709048,
     -83.623902,
     41.709048
-],
+  ],
   "geometry": {"coordinates":[-83.623902,41.709048],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706220503,
   "type": "Feature",
   "properties": {
-    "addr:full":"308 W Main St Owensville OH 45160",
-    "addr:housenumber":"308",
-    "addr:postcode":"45160",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.141034,39.12198,-84.141034,39.12198",
-    "geom:latitude":39.12198,
-    "geom:longitude":-84.141034,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"308 W Main St",
-    "sg:city":"Owensville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "308 W Main St Owensville OH 45160",
+    "addr:housenumber": "308",
+    "addr:postcode": "45160",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.141034,39.121980,-84.141034,39.121980",
+    "geom:latitude": 39.12198,
+    "geom:longitude": -84.141034,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "308 W Main St",
+    "sg:city": "Owensville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 732 1191",
-    "sg:postcode":"45160",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 732 1191",
+    "sg:postcode": "45160",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5CAPSAc8YbtNqZzgLYqNZu_39.121980_-84.141034@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5CAPSAc8YbtNqZzgLYqNZu_39.121980_-84.141034@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798513,
-    "wof:geomhash":"da0dbdf4d20359e71e000bbf34d9ed34",
-    "wof:hierarchy":[],
-    "wof:id":706220503,
-    "wof:lastmodified":1472639530,
-    "wof:name":"Angilo's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461798513,
+    "wof:geomhash": "03a99f15591a66c6bc68204b7072fd85",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706220503
+      }
+    ],
+    "wof:id": 706220503,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Angilo's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -84.141034,
     39.12198,
     -84.141034,
     39.12198
-],
+  ],
   "geometry": {"coordinates":[-84.141034,39.12198],"type":"Point"}
 }

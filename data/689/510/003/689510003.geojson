@@ -2,61 +2,65 @@
   "id": 689510003,
   "type": "Feature",
   "properties": {
-    "addr:full":"2011 Gallia St Portsmouth OH 45662",
-    "addr:housenumber":"2011",
-    "addr:postcode":"45662",
-    "addr:street":"Gallia St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.97438,38.738105,-82.97438,38.738105",
-    "geom:latitude":38.738105,
-    "geom:longitude":-82.97438,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2011 Gallia St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "2011 Gallia St Portsmouth OH 45662",
+    "addr:housenumber": "2011",
+    "addr:postcode": "45662",
+    "addr:street": "Gallia St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.974380,38.738105,-82.974380,38.738105",
+    "geom:latitude": 38.738105,
+    "geom:longitude": -82.97438,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2011 Gallia St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 354 2108",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 354 2108",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3PkZmNFCVovuM8BUbh2V5U_38.738105_-82.974380@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3PkZmNFCVovuM8BUbh2V5U_38.738105_-82.974380@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773411,
-    "wof:geomhash":"15a2dd393015f8a61737fac2e0cd549d",
-    "wof:hierarchy":[],
-    "wof:id":689510003,
-    "wof:lastmodified":1472639095,
-    "wof:name":"Valley Painting",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461773411,
+    "wof:geomhash": "b0d2b9f0b0f8163bed582ecdc3456d19",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689510003
+      }
+    ],
+    "wof:id": 689510003,
+    "wof:lastmodified": 1638566954,
+    "wof:name": "Valley Painting",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -82.97438,
     38.738105,
     -82.97438,
     38.738105
-],
+  ],
   "geometry": {"coordinates":[-82.97438,38.738105],"type":"Point"}
 }

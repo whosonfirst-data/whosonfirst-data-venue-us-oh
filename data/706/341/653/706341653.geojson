@@ -2,56 +2,60 @@
   "id": 706341653,
   "type": "Feature",
   "properties": {
-    "addr:full":"10448 State Rte 28 Blanchester OH 45107",
-    "addr:housenumber":"10448",
-    "addr:postcode":"45107",
-    "addr:street":"State Rte 28",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.011958,39.28561,-84.011958,39.28561",
-    "geom:latitude":39.28561,
-    "geom:longitude":-84.011958,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10448 State Rte 28",
-    "sg:city":"Blanchester",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "10448 State Rte 28 Blanchester OH 45107",
+    "addr:housenumber": "10448",
+    "addr:postcode": "45107",
+    "addr:street": "State Rte 28",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.011958,39.285610,-84.011958,39.285610",
+    "geom:latitude": 39.28561,
+    "geom:longitude": -84.011958,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10448 State Rte 28",
+    "sg:city": "Blanchester",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 783 2383",
-    "sg:postcode":"45107",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ryM8CkSk68bf6JZKCAV7I_39.285610_-84.011958@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 783 2383",
+    "sg:postcode": "45107",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ryM8CkSk68bf6JZKCAV7I_39.285610_-84.011958@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801237,
-    "wof:geomhash":"d99f70d54df089bfc686273d566fc20a",
-    "wof:hierarchy":[],
-    "wof:id":706341653,
-    "wof:lastmodified":1472639859,
-    "wof:name":"Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461801237,
+    "wof:geomhash": "7572c25c53f64783cc90a0c14a8f95e2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706341653
+      }
+    ],
+    "wof:id": 706341653,
+    "wof:lastmodified": 1638567091,
+    "wof:name": "Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.011958,
     39.28561,
     -84.011958,
     39.28561
-],
-  "geometry": {"coordinates":[-84.01195800000001,39.28561],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.011958,39.28561],"type":"Point"}
 }

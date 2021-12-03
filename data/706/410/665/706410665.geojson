@@ -2,63 +2,67 @@
   "id": 706410665,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 S Main St Columbiana OH 44408",
-    "addr:housenumber":"1",
-    "addr:postcode":"44408",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.693632,40.888656,-80.693632,40.888656",
-    "geom:latitude":40.888656,
-    "geom:longitude":-80.693632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 S Main St",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "1 S Main St Columbiana OH 44408",
+    "addr:housenumber": "1",
+    "addr:postcode": "44408",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.693632,40.888656,-80.693632,40.888656",
+    "geom:latitude": 40.888656,
+    "geom:longitude": -80.693632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1 S Main St",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 482 3100",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "care"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 482 3100",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "care"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0D9qolKNgZkL3bKyDUfTxN_40.888656_-80.693632@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0D9qolKNgZkL3bKyDUfTxN_40.888656_-80.693632@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802612,
-    "wof:geomhash":"3499bc9a2e5b0c5f729de76200145dc6",
-    "wof:hierarchy":[],
-    "wof:id":706410665,
-    "wof:lastmodified":1472640002,
-    "wof:name":"Sacred Arms Inc",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "care"
+    "wof:country": "US",
+    "wof:created": 1461802612,
+    "wof:geomhash": "c3f234fd5e154814a31f98ae2a3bc753",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706410665
+      }
+    ],
+    "wof:id": 706410665,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Sacred Arms Inc",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "care"
     ]
-},
+  },
   "bbox": [
     -80.693632,
     40.888656,
     -80.693632,
     40.888656
-],
-  "geometry": {"coordinates":[-80.69363199999999,40.888656],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.693632,40.888656],"type":"Point"}
 }

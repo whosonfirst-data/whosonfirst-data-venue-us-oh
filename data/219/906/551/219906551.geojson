@@ -2,78 +2,79 @@
   "id": 219906551,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 E Western Reserve Rd Youngstown OH 44514",
-    "addr:housenumber":"800",
-    "addr:postcode":"44514",
-    "addr:street":"E Western Reserve Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.641544,40.987978,-80.641544,40.987978",
-    "geom:latitude":40.987978,
-    "geom:longitude":-80.641544,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"800 E Western Reserve Rd",
-    "sg:city":"Youngstown",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "800 E Western Reserve Rd Youngstown OH 44514",
+    "addr:housenumber": "800",
+    "addr:postcode": "44514",
+    "addr:street": "E Western Reserve Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.641544,40.987978,-80.641544,40.987978",
+    "geom:latitude": 40.987978,
+    "geom:longitude": -80.641544,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "800 E Western Reserve Rd",
+    "sg:city": "Youngstown",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 726 4833",
-    "sg:postcode":"44514",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 726 4833",
+    "sg:postcode": "44514",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712497,
-        102084799,
-        85850095
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712497,
+      102084799,
+      85850095
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_63V1jkH0f0zccXwzk5yHVz_40.987978_-80.641544@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_63V1jkH0f0zccXwzk5yHVz_40.987978_-80.641544@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8c1886e86701e616f01c7c2ff0408e62",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084799,
-            "locality_id":101712497,
-            "neighbourhood_id":85850095,
-            "region_id":85688485,
-            "venue_id":219906551
-        }
+    "wof:country": "US",
+    "wof:created": 1638566914,
+    "wof:geomhash": "c4425610099e2071b4aad59603bf8c7c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084799,
+        "locality_id": 101712497,
+        "neighbourhood_id": 85850095,
+        "region_id": 85688485,
+        "venue_id": 219906551
+      }
     ],
-    "wof:id":219906551,
-    "wof:lastmodified":1472639066,
-    "wof:name":"Molloy & Smith",
-    "wof:parent_id":85850095,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 219906551,
+    "wof:lastmodified": 1638566914,
+    "wof:name": "Molloy \u0026 Smith",
+    "wof:parent_id": 85850095,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.641544,
     40.987978,
     -80.641544,
     40.987978
-],
+  ],
   "geometry": {"coordinates":[-80.641544,40.987978],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689509445,
   "type": "Feature",
   "properties": {
-    "addr:full":"133 N 8th St Williamsburg OH 45176",
-    "addr:housenumber":"133",
-    "addr:postcode":"45176",
-    "addr:street":"N 8Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.061788,39.059328,-84.061788,39.059328",
-    "geom:latitude":39.059328,
-    "geom:longitude":-84.061788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"133 N 8th St",
-    "sg:city":"Williamsburg",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "133 N 8th St Williamsburg OH 45176",
+    "addr:housenumber": "133",
+    "addr:postcode": "45176",
+    "addr:street": "N 8Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.061788,39.059328,-84.061788,39.059328",
+    "geom:latitude": 39.059328,
+    "geom:longitude": -84.061788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "133 N 8th St",
+    "sg:city": "Williamsburg",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 724 0676",
-    "sg:postcode":"45176",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 724 0676",
+    "sg:postcode": "45176",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3AM3ZrFhQGjqiySelJDTPE_39.059328_-84.061788@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3AM3ZrFhQGjqiySelJDTPE_39.059328_-84.061788@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773390,
-    "wof:geomhash":"749ae2e783ffd3f8d0f659ae1ad2bbb0",
-    "wof:hierarchy":[],
-    "wof:id":689509445,
-    "wof:lastmodified":1472639137,
-    "wof:name":"Faith Chapel",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461773390,
+    "wof:geomhash": "dbb0dbcfd0dca4ae12f3e58ef32dbb4a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689509445
+      }
+    ],
+    "wof:id": 689509445,
+    "wof:lastmodified": 1638566953,
+    "wof:name": "Faith Chapel",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.061788,
     39.059328,
     -84.061788,
     39.059328
-],
-  "geometry": {"coordinates":[-84.06178800000001,39.059328],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.061788,39.059328],"type":"Point"}
 }

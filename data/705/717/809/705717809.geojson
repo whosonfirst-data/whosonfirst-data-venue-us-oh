@@ -2,65 +2,69 @@
   "id": 705717809,
   "type": "Feature",
   "properties": {
-    "addr:full":"17865 Miller Rd Richwood OH 43344",
-    "addr:housenumber":"17865",
-    "addr:postcode":"43344",
-    "addr:street":"Miller Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.402277,40.435671,-83.402277,40.435671",
-    "geom:latitude":40.435671,
-    "geom:longitude":-83.402277,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17865 Miller Rd",
-    "sg:city":"Richwood",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "17865 Miller Rd Richwood OH 43344",
+    "addr:housenumber": "17865",
+    "addr:postcode": "43344",
+    "addr:street": "Miller Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.402277,40.435671,-83.402277,40.435671",
+    "geom:latitude": 40.435671,
+    "geom:longitude": -83.402277,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17865 Miller Rd",
+    "sg:city": "Richwood",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 943 5208",
-    "sg:postcode":"43344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 943 5208",
+    "sg:postcode": "43344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1jUJtOIheY8YaAi1iJqU4c_40.435671_-83.402277@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1jUJtOIheY8YaAi1iJqU4c_40.435671_-83.402277@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787108,
-    "wof:geomhash":"17621661c10b4fd75d6f64c661b1a17f",
-    "wof:hierarchy":[],
-    "wof:id":705717809,
-    "wof:lastmodified":1472638467,
-    "wof:name":"Doug Dump Truck",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461787108,
+    "wof:geomhash": "7f2e5ec94ba09329a2e153de283d65b5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705717809
+      }
+    ],
+    "wof:id": 705717809,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "Doug Dump Truck",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.402277,
     40.435671,
     -83.402277,
     40.435671
-],
+  ],
   "geometry": {"coordinates":[-83.402277,40.435671],"type":"Point"}
 }

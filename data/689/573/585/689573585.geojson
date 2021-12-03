@@ -2,61 +2,65 @@
   "id": 689573585,
   "type": "Feature",
   "properties": {
-    "addr:full":"905 N Main St Findlay OH 45840",
-    "addr:housenumber":"905",
-    "addr:postcode":"45840",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650091,41.051322,-83.650091,41.051322",
-    "geom:latitude":41.051322,
-    "geom:longitude":-83.650091,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"905 N Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "905 N Main St Findlay OH 45840",
+    "addr:housenumber": "905",
+    "addr:postcode": "45840",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650091,41.051322,-83.650091,41.051322",
+    "geom:latitude": 41.051322,
+    "geom:longitude": -83.650091,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "905 N Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 423 9262",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 423 9262",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2j2DV96H214wqsEwzhOhmk_41.051322_-83.650091@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2j2DV96H214wqsEwzhOhmk_41.051322_-83.650091@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775399,
-    "wof:geomhash":"e249926d2f3dbcb6cd6b0dafcddb75bc",
-    "wof:hierarchy":[],
-    "wof:id":689573585,
-    "wof:lastmodified":1472639345,
-    "wof:name":"James F Goodman DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461775399,
+    "wof:geomhash": "22961819de80546f802374068f4f1ad0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689573585
+      }
+    ],
+    "wof:id": 689573585,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "James F Goodman DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.650091,
     41.051322,
     -83.650091,
     41.051322
-],
+  ],
   "geometry": {"coordinates":[-83.650091,41.051322],"type":"Point"}
 }

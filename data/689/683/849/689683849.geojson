@@ -2,61 +2,65 @@
   "id": 689683849,
   "type": "Feature",
   "properties": {
-    "addr:full":"902 Main St Cincinnati OH 45202",
-    "addr:housenumber":"902",
-    "addr:postcode":"45202",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.510955,39.10674,-84.510955,39.10674",
-    "geom:latitude":39.10674,
-    "geom:longitude":-84.510955,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"902 Main St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Clothing, Apparel, & Fashions",
-            "type":"Retail Goods"
-        }
+    "addr:full": "902 Main St Cincinnati OH 45202",
+    "addr:housenumber": "902",
+    "addr:postcode": "45202",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.510955,39.106740,-84.510955,39.106740",
+    "geom:latitude": 39.10674,
+    "geom:longitude": -84.510955,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "902 Main St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 381 4738",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "furniture"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 381 4738",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "furniture"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_32TXQS7HcLB93sROrPJOR3_39.106740_-84.510955@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_32TXQS7HcLB93sROrPJOR3_39.106740_-84.510955@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778721,
-    "wof:geomhash":"9145230c5571ae39707c2b96bd42aeca",
-    "wof:hierarchy":[],
-    "wof:id":689683849,
-    "wof:lastmodified":1472639646,
-    "wof:name":"House Of Shirts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "furniture"
+    "wof:country": "US",
+    "wof:created": 1461778721,
+    "wof:geomhash": "e4b6b7ee723085cf454ac7db7c1375be",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689683849
+      }
+    ],
+    "wof:id": 689683849,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "House Of Shirts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "furniture"
     ]
-},
+  },
   "bbox": [
     -84.510955,
     39.10674,
     -84.510955,
     39.10674
-],
+  ],
   "geometry": {"coordinates":[-84.510955,39.10674],"type":"Point"}
 }

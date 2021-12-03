@@ -2,59 +2,63 @@
   "id": 706166123,
   "type": "Feature",
   "properties": {
-    "addr:full":"14588 W Park St Burton OH 44021",
-    "addr:housenumber":"14588",
-    "addr:postcode":"44021",
-    "addr:street":"W Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.145959,41.471339,-81.145959,41.471339",
-    "geom:latitude":41.471339,
-    "geom:longitude":-81.145959,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"14588 W Park St",
-    "sg:city":"Burton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "14588 W Park St Burton OH 44021",
+    "addr:housenumber": "14588",
+    "addr:postcode": "44021",
+    "addr:street": "W Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.145959,41.471339,-81.145959,41.471339",
+    "geom:latitude": 41.471339,
+    "geom:longitude": -81.145959,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "14588 W Park St",
+    "sg:city": "Burton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 834 0707",
-    "sg:postcode":"44021",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":318515050,
-        "sg:id":"SG_7YDfgfmxMY8jgbMBylXyqI_41.471339_-81.145959@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 834 0707",
+    "sg:postcode": "44021",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 318515050,
+      "sg:id": "SG_7YDfgfmxMY8jgbMBylXyqI_41.471339_-81.145959@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797348,
-    "wof:geomhash":"3958f5db19d3435feb0dda517d05ba46",
-    "wof:hierarchy":[],
-    "wof:id":706166123,
-    "wof:lastmodified":1510944163,
-    "wof:name":"Burton Public Library",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461797348,
+    "wof:geomhash": "3958f5db19d3435feb0dda517d05ba46",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706166123
+      }
+    ],
+    "wof:id": 706166123,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Burton Public Library",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.145959,
     41.471339,
     -81.145959,
     41.471339
-],
+  ],
   "geometry": {"coordinates":[-81.145959,41.471339],"type":"Point"}
 }

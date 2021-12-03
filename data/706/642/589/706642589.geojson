@@ -2,57 +2,61 @@
   "id": 706642589,
   "type": "Feature",
   "properties": {
-    "addr:full":"8000 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"8000",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.3339,39.072899,-84.3339,39.072899",
-    "geom:latitude":39.072899,
-    "geom:longitude":-84.3339,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8000 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8000 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "8000",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.333900,39.072899,-84.333900,39.072899",
+    "geom:latitude": 39.072899,
+    "geom:longitude": -84.3339,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8000 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 8400",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:website":"www.dunkindonuts.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0JkngjBWyWQyCn0hiDPAEs_39.072899_-84.333900@1303262759"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 8400",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:website": "www.dunkindonuts.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0JkngjBWyWQyCn0hiDPAEs_39.072899_-84.333900@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807633,
-    "wof:geomhash":"1ac19698a45d81685eeb39ff90b19377",
-    "wof:hierarchy":[],
-    "wof:id":706642589,
-    "wof:lastmodified":1472640257,
-    "wof:name":"Dunkin'donuts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461807633,
+    "wof:geomhash": "528c29557982cf015d86f7e3d208ae34",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642589
+      }
+    ],
+    "wof:id": 706642589,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Dunkin'donuts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.3339,
     39.072899,
     -84.3339,
     39.072899
-],
+  ],
   "geometry": {"coordinates":[-84.3339,39.072899],"type":"Point"}
 }

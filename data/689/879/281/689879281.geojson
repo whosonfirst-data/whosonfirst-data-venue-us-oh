@@ -2,57 +2,61 @@
   "id": 689879281,
   "type": "Feature",
   "properties": {
-    "addr:full":"5500 Wallings Rd Cleveland OH 44133",
-    "addr:housenumber":"5500",
-    "addr:postcode":"44133",
-    "addr:street":"Wallings Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.727661,41.329602,-81.727661,41.329602",
-    "geom:latitude":41.329602,
-    "geom:longitude":-81.727661,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5500 Wallings Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5500 Wallings Rd Cleveland OH 44133",
+    "addr:housenumber": "5500",
+    "addr:postcode": "44133",
+    "addr:street": "Wallings Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.727661,41.329602,-81.727661,41.329602",
+    "geom:latitude": 41.329602,
+    "geom:longitude": -81.727661,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5500 Wallings Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 230 9100",
-    "sg:postcode":"44133",
-    "sg:province":"OH",
-    "sg:website":"www.discount-drugmart.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1dhc8mddT0wK0Qiuyi9Dwk_41.329602_-81.727661@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 230 9100",
+    "sg:postcode": "44133",
+    "sg:province": "OH",
+    "sg:website": "www.discount-drugmart.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1dhc8mddT0wK0Qiuyi9Dwk_41.329602_-81.727661@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784031,
-    "wof:geomhash":"659f9eef7af4662b81e6186db56e9d2c",
-    "wof:hierarchy":[],
-    "wof:id":689879281,
-    "wof:lastmodified":1472639961,
-    "wof:name":"Discount Drug Mart Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461784031,
+    "wof:geomhash": "1f7e5d16172e404753f39da1ab1e4404",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689879281
+      }
+    ],
+    "wof:id": 689879281,
+    "wof:lastmodified": 1638567095,
+    "wof:name": "Discount Drug Mart Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.727661,
     41.329602,
     -81.727661,
     41.329602
-],
+  ],
   "geometry": {"coordinates":[-81.727661,41.329602],"type":"Point"}
 }

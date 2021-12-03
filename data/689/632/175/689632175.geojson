@@ -2,61 +2,65 @@
   "id": 689632175,
   "type": "Feature",
   "properties": {
-    "addr:full":"126 W High St Lima OH 45801",
-    "addr:housenumber":"126",
-    "addr:postcode":"45801",
-    "addr:street":"W High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.105555,40.741429,-84.105555,40.741429",
-    "geom:latitude":40.741429,
-    "geom:longitude":-84.105555,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"126 W High St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Used Merchandise",
-            "type":"Retail Goods"
-        }
+    "addr:full": "126 W High St Lima OH 45801",
+    "addr:housenumber": "126",
+    "addr:postcode": "45801",
+    "addr:street": "W High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.105555,40.741429,-84.105555,40.741429",
+    "geom:latitude": 40.741429,
+    "geom:longitude": -84.105555,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "126 W High St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Used Merchandise",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 224 1796",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pawnbroker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 224 1796",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pawnbroker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5hmCJwZhyaNqNAlVgXR5rh_40.741429_-84.105555@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5hmCJwZhyaNqNAlVgXR5rh_40.741429_-84.105555@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777206,
-    "wof:geomhash":"f10c12cb1f43c9bcf1e840be928ca04d",
-    "wof:hierarchy":[],
-    "wof:id":689632175,
-    "wof:lastmodified":1472639466,
-    "wof:name":"Kohn's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pawnbroker"
+    "wof:country": "US",
+    "wof:created": 1461777206,
+    "wof:geomhash": "481e00b80836bc61db815c981e41ee41",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689632175
+      }
+    ],
+    "wof:id": 689632175,
+    "wof:lastmodified": 1638567002,
+    "wof:name": "Kohn's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pawnbroker"
     ]
-},
+  },
   "bbox": [
     -84.105555,
     40.741429,
     -84.105555,
     40.741429
-],
+  ],
   "geometry": {"coordinates":[-84.105555,40.741429],"type":"Point"}
 }

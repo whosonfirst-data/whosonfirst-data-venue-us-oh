@@ -2,61 +2,65 @@
   "id": 705810671,
   "type": "Feature",
   "properties": {
-    "addr:full":"37077 Shady Ln North Ridgeville OH 44039",
-    "addr:housenumber":"37077",
-    "addr:postcode":"44039",
-    "addr:street":"Shady Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.03682,41.371691,-82.03682,41.371691",
-    "geom:latitude":41.371691,
-    "geom:longitude":-82.03682,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"37077 Shady Ln",
-    "sg:city":"North Ridgeville",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "37077 Shady Ln North Ridgeville OH 44039",
+    "addr:housenumber": "37077",
+    "addr:postcode": "44039",
+    "addr:street": "Shady Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.036820,41.371691,-82.036820,41.371691",
+    "geom:latitude": 41.371691,
+    "geom:longitude": -82.03682,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "37077 Shady Ln",
+    "sg:city": "North Ridgeville",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 327 8316",
-    "sg:postcode":"44039",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 327 8316",
+    "sg:postcode": "44039",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0e2dlHWct43yJIB0ZOhegA_41.371691_-82.036820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0e2dlHWct43yJIB0ZOhegA_41.371691_-82.036820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789244,
-    "wof:geomhash":"593262a643040ee0ab85484d2bef9c3d",
-    "wof:hierarchy":[],
-    "wof:id":705810671,
-    "wof:lastmodified":1472639319,
-    "wof:name":"North Ridgeville Parks Shady",
-    "wof:parent_id":420535001,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461789244,
+    "wof:geomhash": "163f2a7c7f1962eef63156034b550675",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705810671
+      }
+    ],
+    "wof:id": 705810671,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "North Ridgeville Parks Shady",
+    "wof:parent_id": 420535001,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -82.03682,
     41.371691,
     -82.03682,
     41.371691
-],
-  "geometry": {"coordinates":[-82.03682000000001,41.371691],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.03682,41.371691],"type":"Point"}
 }

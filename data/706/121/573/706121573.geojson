@@ -2,61 +2,65 @@
   "id": 706121573,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 S Main St Creston OH 44217",
-    "addr:housenumber":"210",
-    "addr:postcode":"44217",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.899632,40.977143,-81.899632,40.977143",
-    "geom:latitude":40.977143,
-    "geom:longitude":-81.899632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"210 S Main St",
-    "sg:city":"Creston",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "210 S Main St Creston OH 44217",
+    "addr:housenumber": "210",
+    "addr:postcode": "44217",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.899632,40.977143,-81.899632,40.977143",
+    "geom:latitude": 40.977143,
+    "geom:longitude": -81.899632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "210 S Main St",
+    "sg:city": "Creston",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 435 6137",
-    "sg:postcode":"44217",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 435 6137",
+    "sg:postcode": "44217",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Rl3H9t3UYQWBbeJ2HYMi6_40.977143_-81.899632@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Rl3H9t3UYQWBbeJ2HYMi6_40.977143_-81.899632@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796299,
-    "wof:geomhash":"b24d63c12da42089bd67dcdab1ab7630",
-    "wof:hierarchy":[],
-    "wof:id":706121573,
-    "wof:lastmodified":1472639299,
-    "wof:name":"Builders Choice",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461796299,
+    "wof:geomhash": "793358aebc34d22d9d96cbe5abbc35c2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706121573
+      }
+    ],
+    "wof:id": 706121573,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Builders Choice",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.899632,
     40.977143,
     -81.899632,
     40.977143
-],
+  ],
   "geometry": {"coordinates":[-81.899632,40.977143],"type":"Point"}
 }

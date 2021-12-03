@@ -2,61 +2,65 @@
   "id": 706060823,
   "type": "Feature",
   "properties": {
-    "addr:full":"5311 Bradley Brownlee Rd Fowler OH 44418",
-    "addr:housenumber":"5311",
-    "addr:postcode":"44418",
-    "addr:street":"Bradley Brownlee Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.625697,41.350313,-80.625697,41.350313",
-    "geom:latitude":41.350313,
-    "geom:longitude":-80.625697,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5311 Bradley Brownlee Rd",
-    "sg:city":"Fowler",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "5311 Bradley Brownlee Rd Fowler OH 44418",
+    "addr:housenumber": "5311",
+    "addr:postcode": "44418",
+    "addr:street": "Bradley Brownlee Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.625697,41.350313,-80.625697,41.350313",
+    "geom:latitude": 41.350313,
+    "geom:longitude": -80.625697,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5311 Bradley Brownlee Rd",
+    "sg:city": "Fowler",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 637 7152",
-    "sg:postcode":"44418",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 637 7152",
+    "sg:postcode": "44418",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5xHbmWtTVitD5VedEDkmak_41.350313_-80.625697@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5xHbmWtTVitD5VedEDkmak_41.350313_-80.625697@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794829,
-    "wof:geomhash":"049a45875f8b591b82f7cc0d25b52cc2",
-    "wof:hierarchy":[],
-    "wof:id":706060823,
-    "wof:lastmodified":1472639177,
-    "wof:name":"Airport Auction Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461794829,
+    "wof:geomhash": "8c7f4161f4cdff300dd2597d1552d936",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706060823
+      }
+    ],
+    "wof:id": 706060823,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Airport Auction Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -80.625697,
     41.350313,
     -80.625697,
     41.350313
-],
+  ],
   "geometry": {"coordinates":[-80.625697,41.350313],"type":"Point"}
 }

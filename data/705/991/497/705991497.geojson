@@ -2,63 +2,67 @@
   "id": 705991497,
   "type": "Feature",
   "properties": {
-    "addr:full":"5171 State Rte 303 Wakeman OH 44889",
-    "addr:housenumber":"5171",
-    "addr:postcode":"44889",
-    "addr:street":"State Rte 303",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.402019,41.247487,-82.402019,41.247487",
-    "geom:latitude":41.247487,
-    "geom:longitude":-82.402019,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5171 State Rte 303",
-    "sg:city":"Wakeman",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "5171 State Rte 303 Wakeman OH 44889",
+    "addr:housenumber": "5171",
+    "addr:postcode": "44889",
+    "addr:street": "State Rte 303",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.402019,41.247487,-82.402019,41.247487",
+    "geom:latitude": 41.247487,
+    "geom:longitude": -82.402019,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5171 State Rte 303",
+    "sg:city": "Wakeman",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 499 4663",
-    "sg:postcode":"44889",
-    "sg:province":"OH",
-    "sg:tags":[
-        "vol",
-        "dept"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 499 4663",
+    "sg:postcode": "44889",
+    "sg:province": "OH",
+    "sg:tags": [
+      "vol",
+      "dept"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0fnwyJebfi8ga215bGYDR6_41.247487_-82.402019@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0fnwyJebfi8ga215bGYDR6_41.247487_-82.402019@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793399,
-    "wof:geomhash":"9a4f64c5fe8120a2397b7a861e74d161",
-    "wof:hierarchy":[],
-    "wof:id":705991497,
-    "wof:lastmodified":1472639804,
-    "wof:name":"Wakeman Fire Distric",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "vol",
-        "dept"
+    "wof:country": "US",
+    "wof:created": 1461793399,
+    "wof:geomhash": "5f96d41c8d88778010eb066b6c764d1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705991497
+      }
+    ],
+    "wof:id": 705991497,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Wakeman Fire Distric",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "vol",
+      "dept"
     ]
-},
+  },
   "bbox": [
     -82.402019,
     41.247487,
     -82.402019,
     41.247487
-],
+  ],
   "geometry": {"coordinates":[-82.402019,41.247487],"type":"Point"}
 }

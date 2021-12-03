@@ -2,61 +2,65 @@
   "id": 689807783,
   "type": "Feature",
   "properties": {
-    "addr:full":"232 Liberty St West Liberty OH 43357",
-    "addr:housenumber":"232",
-    "addr:postcode":"43357",
-    "addr:street":"Liberty St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.752026,40.253975,-83.752026,40.253975",
-    "geom:latitude":40.253975,
-    "geom:longitude":-83.752026,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"232 Liberty St",
-    "sg:city":"West Liberty",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Plumbing",
-            "type":"Services"
-        }
+    "addr:full": "232 Liberty St West Liberty OH 43357",
+    "addr:housenumber": "232",
+    "addr:postcode": "43357",
+    "addr:street": "Liberty St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.752026,40.253975,-83.752026,40.253975",
+    "geom:latitude": 40.253975,
+    "geom:longitude": -83.752026,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "232 Liberty St",
+    "sg:city": "West Liberty",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 465 5941",
-    "sg:postcode":"43357",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 465 5941",
+    "sg:postcode": "43357",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3mZJXGERpIQtJgRwnyieQK_40.253975_-83.752026@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3mZJXGERpIQtJgRwnyieQK_40.253975_-83.752026@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782119,
-    "wof:geomhash":"5e4d0a643191ceefa6055e7ed53f0b42",
-    "wof:hierarchy":[],
-    "wof:id":689807783,
-    "wof:lastmodified":1472639885,
-    "wof:name":"Herbs General Home Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461782119,
+    "wof:geomhash": "3460b20b1931d98b9f22acbe8e9d43ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689807783
+      }
+    ],
+    "wof:id": 689807783,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Herbs General Home Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.752026,
     40.253975,
     -83.752026,
     40.253975
-],
+  ],
   "geometry": {"coordinates":[-83.752026,40.253975],"type":"Point"}
 }

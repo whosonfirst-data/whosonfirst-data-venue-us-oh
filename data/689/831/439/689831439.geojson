@@ -2,63 +2,67 @@
   "id": 689831439,
   "type": "Feature",
   "properties": {
-    "addr:full":"4897 W Main St Berlin OH 44654",
-    "addr:housenumber":"4897",
-    "addr:postcode":"44654",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.798202,40.561781,-81.798202,40.561781",
-    "geom:latitude":40.561781,
-    "geom:longitude":-81.798202,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4897 W Main St",
-    "sg:city":"Berlin",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4897 W Main St Berlin OH 44654",
+    "addr:housenumber": "4897",
+    "addr:postcode": "44654",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.798202,40.561781,-81.798202,40.561781",
+    "geom:latitude": 40.561781,
+    "geom:longitude": -81.798202,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4897 W Main St",
+    "sg:city": "Berlin",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 893 2341",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 893 2341",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6cZfzHzGXOTyxtszGnby7z_40.561781_-81.798202@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6cZfzHzGXOTyxtszGnby7z_40.561781_-81.798202@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782878,
-    "wof:geomhash":"06a9e97ca3b47eb8956b7705907bdf54",
-    "wof:hierarchy":[],
-    "wof:id":689831439,
-    "wof:lastmodified":1472639908,
-    "wof:name":"Berlin Medical Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461782878,
+    "wof:geomhash": "df0a50c8d00598497a29a12891a7fab3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689831439
+      }
+    ],
+    "wof:id": 689831439,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Berlin Medical Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.798202,
     40.561781,
     -81.798202,
     40.561781
-],
+  ],
   "geometry": {"coordinates":[-81.798202,40.561781],"type":"Point"}
 }

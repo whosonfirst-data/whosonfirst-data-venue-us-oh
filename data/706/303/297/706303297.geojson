@@ -2,61 +2,65 @@
   "id": 706303297,
   "type": "Feature",
   "properties": {
-    "addr:full":"3950 Beat Rd Litchfield OH 44253",
-    "addr:housenumber":"",
-    "addr:postcode":"3950;44253",
-    "addr:street":"Beat Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.994227,41.158508,-81.994227,41.158508",
-    "geom:latitude":41.158508,
-    "geom:longitude":-81.994227,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3950 Beat Rd",
-    "sg:city":"Litchfield",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "3950 Beat Rd Litchfield OH 44253",
+    "addr:housenumber": "",
+    "addr:postcode": "3950;44253",
+    "addr:street": "Beat Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.994227,41.158508,-81.994227,41.158508",
+    "geom:latitude": 41.158508,
+    "geom:longitude": -81.994227,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3950 Beat Rd",
+    "sg:city": "Litchfield",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 722 7966",
-    "sg:postcode":"44253",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 722 7966",
+    "sg:postcode": "44253",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_013SGIFmKza8eRUeCmQ5pz_41.158508_-81.994227@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_013SGIFmKza8eRUeCmQ5pz_41.158508_-81.994227@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800377,
-    "wof:geomhash":"ee52e582043bd62bc4ff77e81787b4d8",
-    "wof:hierarchy":[],
-    "wof:id":706303297,
-    "wof:lastmodified":1472639733,
-    "wof:name":"Litchfield Township Road",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461800377,
+    "wof:geomhash": "c3a2d2901d931b6f3247f9b516d49dd0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706303297
+      }
+    ],
+    "wof:id": 706303297,
+    "wof:lastmodified": 1638567080,
+    "wof:name": "Litchfield Township Road",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -81.994227,
     41.158508,
     -81.994227,
     41.158508
-],
+  ],
   "geometry": {"coordinates":[-81.994227,41.158508],"type":"Point"}
 }

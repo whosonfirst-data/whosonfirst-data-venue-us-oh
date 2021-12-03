@@ -2,61 +2,65 @@
   "id": 689870035,
   "type": "Feature",
   "properties": {
-    "addr:full":"104 W Main St Cardington OH 43315",
-    "addr:housenumber":"104",
-    "addr:postcode":"43315",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.894386,40.500404,-82.894386,40.500404",
-    "geom:latitude":40.500404,
-    "geom:longitude":-82.894386,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"104 W Main St",
-    "sg:city":"Cardington",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "104 W Main St Cardington OH 43315",
+    "addr:housenumber": "104",
+    "addr:postcode": "43315",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.894386,40.500404,-82.894386,40.500404",
+    "geom:latitude": 40.500404,
+    "geom:longitude": -82.894386,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "104 W Main St",
+    "sg:city": "Cardington",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 864 2951",
-    "sg:postcode":"43315",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 864 2951",
+    "sg:postcode": "43315",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_38YTiXdVCO3dlsn2YRlThd_40.500404_-82.894386@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_38YTiXdVCO3dlsn2YRlThd_40.500404_-82.894386@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783788,
-    "wof:geomhash":"4089177f5f681a7c7fac144f31b83876",
-    "wof:hierarchy":[],
-    "wof:id":689870035,
-    "wof:lastmodified":1472639945,
-    "wof:name":"Als Restaurant Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461783788,
+    "wof:geomhash": "fd85a1e11403a0b79e80381ab7c215b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689870035
+      }
+    ],
+    "wof:id": 689870035,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Als Restaurant Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.894386,
     40.500404,
     -82.894386,
     40.500404
-],
+  ],
   "geometry": {"coordinates":[-82.894386,40.500404],"type":"Point"}
 }

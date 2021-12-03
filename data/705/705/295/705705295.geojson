@@ -2,61 +2,65 @@
   "id": 705705295,
   "type": "Feature",
   "properties": {
-    "addr:full":"710 Elm St Cincinnati OH 45202",
-    "addr:housenumber":"710",
-    "addr:postcode":"45202",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.516808,39.10333,-84.516808,39.10333",
-    "geom:latitude":39.10333,
-    "geom:longitude":-84.516808,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"710 Elm St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Parking",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "710 Elm St Cincinnati OH 45202",
+    "addr:housenumber": "710",
+    "addr:postcode": "45202",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.516808,39.103330,-84.516808,39.103330",
+    "geom:latitude": 39.10333,
+    "geom:longitude": -84.516808,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "710 Elm St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Parking",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 651 0715",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 651 0715",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6fiBgYRxtSmN3jJ2ejBiOE_39.103330_-84.516808@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6fiBgYRxtSmN3jJ2ejBiOE_39.103330_-84.516808@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786740,
-    "wof:geomhash":"908b327353b7edc0d5f708c232a78824",
-    "wof:hierarchy":[],
-    "wof:id":705705295,
-    "wof:lastmodified":1472638278,
-    "wof:name":"Gramercy Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garage"
+    "wof:country": "US",
+    "wof:created": 1461786740,
+    "wof:geomhash": "828278aa3a422455846b8bc6727d4f24",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705705295
+      }
+    ],
+    "wof:id": 705705295,
+    "wof:lastmodified": 1638566922,
+    "wof:name": "Gramercy Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garage"
     ]
-},
+  },
   "bbox": [
     -84.516808,
     39.10333,
     -84.516808,
     39.10333
-],
+  ],
   "geometry": {"coordinates":[-84.516808,39.10333],"type":"Point"}
 }

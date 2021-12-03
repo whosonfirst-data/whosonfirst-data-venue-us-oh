@@ -2,61 +2,65 @@
   "id": 706207885,
   "type": "Feature",
   "properties": {
-    "addr:full":"13571 Spring St Burton OH 44021",
-    "addr:housenumber":"13571",
-    "addr:postcode":"44021",
-    "addr:street":"Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.149825,41.472581,-81.149825,41.472581",
-    "geom:latitude":41.472581,
-    "geom:longitude":-81.149825,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13571 Spring St",
-    "sg:city":"Burton",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "13571 Spring St Burton OH 44021",
+    "addr:housenumber": "13571",
+    "addr:postcode": "44021",
+    "addr:street": "Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.149825,41.472581,-81.149825,41.472581",
+    "geom:latitude": 41.472581,
+    "geom:longitude": -81.149825,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13571 Spring St",
+    "sg:city": "Burton",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 834 1020",
-    "sg:postcode":"44021",
-    "sg:province":"OH",
-    "sg:tags":[
-        "suburban"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 834 1020",
+    "sg:postcode": "44021",
+    "sg:province": "OH",
+    "sg:tags": [
+      "suburban"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_05jr6fijGbpu3DGDlhZh9E_41.472581_-81.149825@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_05jr6fijGbpu3DGDlhZh9E_41.472581_-81.149825@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798242,
-    "wof:geomhash":"2604d5ab9dd2125a9dd7d9d532f9ef6e",
-    "wof:hierarchy":[],
-    "wof:id":706207885,
-    "wof:lastmodified":1472639520,
-    "wof:name":"First Transit Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "suburban"
+    "wof:country": "US",
+    "wof:created": 1461798242,
+    "wof:geomhash": "bb44dba0eb0e3908bb8c356d2c05b701",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706207885
+      }
+    ],
+    "wof:id": 706207885,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "First Transit Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "suburban"
     ]
-},
+  },
   "bbox": [
     -81.149825,
     41.472581,
     -81.149825,
     41.472581
-],
-  "geometry": {"coordinates":[-81.14982500000001,41.472581],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.149825,41.472581],"type":"Point"}
 }

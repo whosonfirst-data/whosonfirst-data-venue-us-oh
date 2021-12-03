@@ -2,80 +2,81 @@
   "id": 203009997,
   "type": "Feature",
   "properties": {
-    "addr:full":"6040 Cargo Rd Cleveland OH 44135",
-    "addr:housenumber":"6040",
-    "addr:postcode":"44135",
-    "addr:street":"Cargo Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.831873,41.412853,-81.831873,41.412853",
-    "geom:latitude":41.412853,
-    "geom:longitude":-81.831873,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6040 Cargo Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Airline",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6040 Cargo Rd Cleveland OH 44135",
+    "addr:housenumber": "6040",
+    "addr:postcode": "44135",
+    "addr:street": "Cargo Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.831873,41.412853,-81.831873,41.412853",
+    "geom:latitude": 41.412853,
+    "geom:longitude": -81.831873,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6040 Cargo Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Airline",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 265 4676",
-    "sg:postcode":"44135",
-    "sg:province":"OH",
-    "sg:tags":[
-        "scheduled",
-        "cargo",
-        "air"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 265 4676",
+    "sg:postcode": "44135",
+    "sg:province": "OH",
+    "sg:tags": [
+      "scheduled",
+      "cargo",
+      "air"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712563,
-        102084837,
-        85871823
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712563,
+      102084837,
+      85871823
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4eLBRaNZsvh4ou2ZMVZpjv_41.412853_-81.831873@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4eLBRaNZsvh4ou2ZMVZpjv_41.412853_-81.831873@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c5e2c0c2cc311507c787c6f5003985c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084837,
-            "locality_id":101712563,
-            "neighbourhood_id":85871823,
-            "region_id":85688485,
-            "venue_id":203009997
-        }
+    "wof:country": "US",
+    "wof:created": 1638566938,
+    "wof:geomhash": "8e36da1ab89e8689ec61a18763128259",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084837,
+        "locality_id": 101712563,
+        "neighbourhood_id": 85871823,
+        "region_id": 85688485,
+        "venue_id": 203009997
+      }
     ],
-    "wof:id":203009997,
-    "wof:lastmodified":1472638138,
-    "wof:name":"Southwest Airlines Cargo",
-    "wof:parent_id":85871823,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "scheduled",
-        "cargo",
-        "air"
+    "wof:id": 203009997,
+    "wof:lastmodified": 1638566938,
+    "wof:name": "Southwest Airlines Cargo",
+    "wof:parent_id": 85871823,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "scheduled",
+      "cargo",
+      "air"
     ]
-},
+  },
   "bbox": [
     -81.831873,
     41.412853,
     -81.831873,
     41.412853
-],
+  ],
   "geometry": {"coordinates":[-81.831873,41.412853],"type":"Point"}
 }

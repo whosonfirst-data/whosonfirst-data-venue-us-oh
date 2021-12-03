@@ -2,63 +2,67 @@
   "id": 705833125,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 S Main St Walbridge OH 43465",
-    "addr:housenumber":"101",
-    "addr:postcode":"43465",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.493269,41.586748,-83.493269,41.586748",
-    "geom:latitude":41.586748,
-    "geom:longitude":-83.493269,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 S Main St",
-    "sg:city":"Walbridge",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "101 S Main St Walbridge OH 43465",
+    "addr:housenumber": "101",
+    "addr:postcode": "43465",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.493269,41.586748,-83.493269,41.586748",
+    "geom:latitude": 41.586748,
+    "geom:longitude": -83.493269,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 S Main St",
+    "sg:city": "Walbridge",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 666 0782",
-    "sg:postcode":"43465",
-    "sg:province":"OH",
-    "sg:tags":[
-        "delivery",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 666 0782",
+    "sg:postcode": "43465",
+    "sg:province": "OH",
+    "sg:tags": [
+      "delivery",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2UKKI3666FXqdxhkVrlq4v_41.586748_-83.493269@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2UKKI3666FXqdxhkVrlq4v_41.586748_-83.493269@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789806,
-    "wof:geomhash":"25fc8bb8f7695261a4b545aecb53894e",
-    "wof:hierarchy":[],
-    "wof:id":705833125,
-    "wof:lastmodified":1472639350,
-    "wof:name":"Skillet",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delivery",
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461789806,
+    "wof:geomhash": "87afbfd1c7ba190ce67623901b739445",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705833125
+      }
+    ],
+    "wof:id": 705833125,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Skillet",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delivery",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.493269,
     41.586748,
     -83.493269,
     41.586748
-],
+  ],
   "geometry": {"coordinates":[-83.493269,41.586748],"type":"Point"}
 }

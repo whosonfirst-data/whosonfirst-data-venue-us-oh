@@ -2,61 +2,65 @@
   "id": 706250021,
   "type": "Feature",
   "properties": {
-    "addr:full":"15333 E Miami Shelby Rd Piqua OH 45356",
-    "addr:housenumber":"15333",
-    "addr:postcode":"45356",
-    "addr:street":"E Miami Shelby Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.153174,40.19152,-84.153174,40.19152",
-    "geom:latitude":40.19152,
-    "geom:longitude":-84.153174,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15333 E Miami Shelby Rd",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "15333 E Miami Shelby Rd Piqua OH 45356",
+    "addr:housenumber": "15333",
+    "addr:postcode": "45356",
+    "addr:street": "E Miami Shelby Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.153174,40.191520,-84.153174,40.191520",
+    "geom:latitude": 40.19152,
+    "geom:longitude": -84.153174,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15333 E Miami Shelby Rd",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 773 4215",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 773 4215",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3k6pQ28oYqSs0QBON7UhUJ_40.191520_-84.153174@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3k6pQ28oYqSs0QBON7UhUJ_40.191520_-84.153174@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799195,
-    "wof:geomhash":"89cad8536755aca6281e0b9783f3e247",
-    "wof:hierarchy":[],
-    "wof:id":706250021,
-    "wof:lastmodified":1472639591,
-    "wof:name":"Spring Creek Baptist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461799195,
+    "wof:geomhash": "c6e055be648a2bfdff7229a44f761afa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706250021
+      }
+    ],
+    "wof:id": 706250021,
+    "wof:lastmodified": 1638567060,
+    "wof:name": "Spring Creek Baptist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.153174,
     40.19152,
     -84.153174,
     40.19152
-],
-  "geometry": {"coordinates":[-84.15317400000001,40.19152],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.153174,40.19152],"type":"Point"}
 }

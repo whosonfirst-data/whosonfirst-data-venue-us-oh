@@ -2,61 +2,65 @@
   "id": 706331209,
   "type": "Feature",
   "properties": {
-    "addr:full":"503 Garrison St Fremont OH 43420",
-    "addr:housenumber":"503",
-    "addr:postcode":"43420",
-    "addr:street":"Garrison St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.117255,41.345339,-83.117255,41.345339",
-    "geom:latitude":41.345339,
-    "geom:longitude":-83.117255,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"503 Garrison St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "503 Garrison St Fremont OH 43420",
+    "addr:housenumber": "503",
+    "addr:postcode": "43420",
+    "addr:street": "Garrison St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.117255,41.345339,-83.117255,41.345339",
+    "geom:latitude": 41.345339,
+    "geom:longitude": -83.117255,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "503 Garrison St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 2200",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "psychologist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 2200",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "psychologist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Nvzj1m3ducSV5kUkmoF1c_41.345339_-83.117255@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Nvzj1m3ducSV5kUkmoF1c_41.345339_-83.117255@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801010,
-    "wof:geomhash":"53f84249bd5406d64a9941f1942188a6",
-    "wof:hierarchy":[],
-    "wof:id":706331209,
-    "wof:lastmodified":1472639829,
-    "wof:name":"High Top Manor Psychological",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "psychologist"
+    "wof:country": "US",
+    "wof:created": 1461801010,
+    "wof:geomhash": "96f1634fced4f527f88823020eee0e14",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706331209
+      }
+    ],
+    "wof:id": 706331209,
+    "wof:lastmodified": 1638567089,
+    "wof:name": "High Top Manor Psychological",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "psychologist"
     ]
-},
+  },
   "bbox": [
     -83.117255,
     41.345339,
     -83.117255,
     41.345339
-],
+  ],
   "geometry": {"coordinates":[-83.117255,41.345339],"type":"Point"}
 }

@@ -2,64 +2,68 @@
   "id": 705754237,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 E 4th St Cincinnati OH 45202",
-    "addr:housenumber":"120",
-    "addr:postcode":"45202",
-    "addr:street":"E 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.510538,39.100327,-84.510538,39.100327",
-    "geom:latitude":39.100327,
-    "geom:longitude":-84.510538,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"120 E 4th St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "120 E 4th St Cincinnati OH 45202",
+    "addr:housenumber": "120",
+    "addr:postcode": "45202",
+    "addr:street": "E 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.510538,39.100327,-84.510538,39.100327",
+    "geom:latitude": 39.100327,
+    "geom:longitude": -84.510538,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "120 E 4th St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 665 9551",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bus",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 665 9551",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bus",
+      "line"
     ],
-    "sg:website":"www.tankbus.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3owyARif3ynUGW9jZpaFyR_39.100327_-84.510538@1294180530"
+    "sg:website": "www.tankbus.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3owyARif3ynUGW9jZpaFyR_39.100327_-84.510538@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787951,
-    "wof:geomhash":"c6a92563b8c9c1797df55c0c0f700ca2",
-    "wof:hierarchy":[],
-    "wof:id":705754237,
-    "wof:lastmodified":1472639176,
-    "wof:name":"Transit Authority-Northern Ky",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus",
-        "line"
+    "wof:country": "US",
+    "wof:created": 1461787951,
+    "wof:geomhash": "f397b1ee16ff1f2f00395030c8709933",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705754237
+      }
+    ],
+    "wof:id": 705754237,
+    "wof:lastmodified": 1638566968,
+    "wof:name": "Transit Authority-Northern Ky",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus",
+      "line"
     ]
-},
+  },
   "bbox": [
     -84.510538,
     39.100327,
     -84.510538,
     39.100327
-],
+  ],
   "geometry": {"coordinates":[-84.510538,39.100327],"type":"Point"}
 }

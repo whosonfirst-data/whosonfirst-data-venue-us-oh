@@ -2,61 +2,65 @@
   "id": 689579191,
   "type": "Feature",
   "properties": {
-    "addr:full":"117 Mansfield Ave Shelby OH 44875",
-    "addr:housenumber":"117",
-    "addr:postcode":"44875",
-    "addr:street":"Mansfield Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.650966,40.874652,-82.650966,40.874652",
-    "geom:latitude":40.874652,
-    "geom:longitude":-82.650966,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"117 Mansfield Ave",
-    "sg:city":"Shelby",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "117 Mansfield Ave Shelby OH 44875",
+    "addr:housenumber": "117",
+    "addr:postcode": "44875",
+    "addr:street": "Mansfield Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.650966,40.874652,-82.650966,40.874652",
+    "geom:latitude": 40.874652,
+    "geom:longitude": -82.650966,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "117 Mansfield Ave",
+    "sg:city": "Shelby",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 342 2603",
-    "sg:postcode":"44875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 342 2603",
+    "sg:postcode": "44875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1reFzQuOnIM5xjnNFLLXuZ_40.874652_-82.650966@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1reFzQuOnIM5xjnNFLLXuZ_40.874652_-82.650966@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775586,
-    "wof:geomhash":"e2d2b5f01bf4b238253e4c41cb241c49",
-    "wof:hierarchy":[],
-    "wof:id":689579191,
-    "wof:lastmodified":1472639336,
-    "wof:name":"John Stiefel DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461775586,
+    "wof:geomhash": "13c53a18c2c9a86d323a0c7ff47e381d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689579191
+      }
+    ],
+    "wof:id": 689579191,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "John Stiefel DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.650966,
     40.874652,
     -82.650966,
     40.874652
-],
+  ],
   "geometry": {"coordinates":[-82.650966,40.874652],"type":"Point"}
 }

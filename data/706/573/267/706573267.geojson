@@ -2,65 +2,69 @@
   "id": 706573267,
   "type": "Feature",
   "properties": {
-    "addr:full":"999 E Ash St Piqua OH 45356",
-    "addr:housenumber":"999",
-    "addr:postcode":"45356",
-    "addr:street":"E Ash St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.218391,40.151147,-84.218391,40.151147",
-    "geom:latitude":40.151147,
-    "geom:longitude":-84.218391,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"999 E Ash St",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "999 E Ash St Piqua OH 45356",
+    "addr:housenumber": "999",
+    "addr:postcode": "45356",
+    "addr:street": "E Ash St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.218391,40.151147,-84.218391,40.151147",
+    "geom:latitude": 40.151147,
+    "geom:longitude": -84.218391,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "999 E Ash St",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/piqua/41863-bob-evans/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 773 7466",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/piqua/41863-bob-evans/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 773 7466",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125148825,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xl9IFz41U12ZpyPaXa4Qc_40.151147_-84.218391@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125148825,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0xl9IFz41U12ZpyPaXa4Qc_40.151147_-84.218391@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806138,
-    "wof:geomhash":"1c6990f8d533099d2faef2fef6136b2d",
-    "wof:hierarchy":[],
-    "wof:id":706573267,
-    "wof:lastmodified":1510877539,
-    "wof:name":"Bob Evans",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806138,
+    "wof:geomhash": "1c6990f8d533099d2faef2fef6136b2d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706573267
+      }
+    ],
+    "wof:id": 706573267,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Bob Evans",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.218391,
     40.151147,
     -84.218391,
     40.151147
-],
+  ],
   "geometry": {"coordinates":[-84.218391,40.151147],"type":"Point"}
 }

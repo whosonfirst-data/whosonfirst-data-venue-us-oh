@@ -2,63 +2,67 @@
   "id": 706231877,
   "type": "Feature",
   "properties": {
-    "addr:full":"501 N Main St Marion OH 43302",
-    "addr:housenumber":"501",
-    "addr:postcode":"43302",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.129413,40.596185,-83.129413,40.596185",
-    "geom:latitude":40.596185,
-    "geom:longitude":-83.129413,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"501 N Main St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "501 N Main St Marion OH 43302",
+    "addr:housenumber": "501",
+    "addr:postcode": "43302",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.129413,40.596185,-83.129413,40.596185",
+    "geom:latitude": 40.596185,
+    "geom:longitude": -83.129413,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "501 N Main St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 375 5522",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 375 5522",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0B7TDJ7U6KqGL76KsAiusr_40.596185_-83.129413@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0B7TDJ7U6KqGL76KsAiusr_40.596185_-83.129413@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798739,
-    "wof:geomhash":"71222e742529fffacd6d65d97f33444e",
-    "wof:hierarchy":[],
-    "wof:id":706231877,
-    "wof:lastmodified":1472639575,
-    "wof:name":"Main Street Soft Cloth",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:country": "US",
+    "wof:created": 1461798739,
+    "wof:geomhash": "056b4fc951f8009196c1a28c89af5b3e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706231877
+      }
+    ],
+    "wof:id": 706231877,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Main Street Soft Cloth",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -83.129413,
     40.596185,
     -83.129413,
     40.596185
-],
+  ],
   "geometry": {"coordinates":[-83.129413,40.596185],"type":"Point"}
 }

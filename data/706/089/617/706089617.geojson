@@ -2,61 +2,65 @@
   "id": 706089617,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Bristol Dr Dayton OH 45458",
-    "addr:housenumber":"20",
-    "addr:postcode":"45458",
-    "addr:street":"Bristol Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.16146,39.619628,-84.16146,39.619628",
-    "geom:latitude":39.619628,
-    "geom:longitude":-84.16146,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 Bristol Dr",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "20 Bristol Dr Dayton OH 45458",
+    "addr:housenumber": "20",
+    "addr:postcode": "45458",
+    "addr:street": "Bristol Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.161460,39.619628,-84.161460,39.619628",
+    "geom:latitude": 39.619628,
+    "geom:longitude": -84.16146,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20 Bristol Dr",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 433 8005",
-    "sg:postcode":"45458",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 433 8005",
+    "sg:postcode": "45458",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7AY0TjHBZKexHKbPjaSnmm_39.619628_-84.161460@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7AY0TjHBZKexHKbPjaSnmm_39.619628_-84.161460@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795565,
-    "wof:geomhash":"2e4b08ab482bc2b06d7740923bf91505",
-    "wof:hierarchy":[],
-    "wof:id":706089617,
-    "wof:lastmodified":1472639198,
-    "wof:name":"Herman Gaines & Son",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461795565,
+    "wof:geomhash": "2c35e8ed505f6750f6c6044461704005",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706089617
+      }
+    ],
+    "wof:id": 706089617,
+    "wof:lastmodified": 1638566984,
+    "wof:name": "Herman Gaines \u0026 Son",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.16146,
     39.619628,
     -84.16146,
     39.619628
-],
-  "geometry": {"coordinates":[-84.16146000000001,39.619628],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.16146,39.619628],"type":"Point"}
 }

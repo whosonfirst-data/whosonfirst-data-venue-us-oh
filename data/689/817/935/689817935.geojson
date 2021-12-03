@@ -2,61 +2,65 @@
   "id": 689817935,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 N Main St Swanton OH 43558",
-    "addr:housenumber":"102",
-    "addr:postcode":"43558",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.891654,41.589995,-83.891654,41.589995",
-    "geom:latitude":41.589995,
-    "geom:longitude":-83.891654,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 N Main St",
-    "sg:city":"Swanton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "102 N Main St Swanton OH 43558",
+    "addr:housenumber": "102",
+    "addr:postcode": "43558",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.891654,41.589995,-83.891654,41.589995",
+    "geom:latitude": 41.589995,
+    "geom:longitude": -83.891654,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 N Main St",
+    "sg:city": "Swanton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 825 5082",
-    "sg:postcode":"43558",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 825 5082",
+    "sg:postcode": "43558",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ygGIBpVq3ag0jdk6hxmRS_41.589995_-83.891654@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ygGIBpVq3ag0jdk6hxmRS_41.589995_-83.891654@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782406,
-    "wof:geomhash":"43b729245b413718fa79a0997f327aca",
-    "wof:hierarchy":[],
-    "wof:id":689817935,
-    "wof:lastmodified":1472639893,
-    "wof:name":"Rose Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461782406,
+    "wof:geomhash": "8777d55ccb9b6bb0440f5d0708b32e1c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689817935
+      }
+    ],
+    "wof:id": 689817935,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Rose Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.891654,
     41.589995,
     -83.891654,
     41.589995
-],
+  ],
   "geometry": {"coordinates":[-83.891654,41.589995],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 705752547,
   "type": "Feature",
   "properties": {
-    "addr:full":"3911 S Main St Mineral Ridge OH 44440",
-    "addr:housenumber":"3911",
-    "addr:postcode":"44440",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.768804,41.137126,-80.768804,41.137126",
-    "geom:latitude":41.137126,
-    "geom:longitude":-80.768804,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3911 S Main St",
-    "sg:city":"Mineral Ridge",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3911 S Main St Mineral Ridge OH 44440",
+    "addr:housenumber": "3911",
+    "addr:postcode": "44440",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.768804,41.137126,-80.768804,41.137126",
+    "geom:latitude": 41.137126,
+    "geom:longitude": -80.768804,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3911 S Main St",
+    "sg:city": "Mineral Ridge",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 652 5403",
-    "sg:postcode":"44440",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 652 5403",
+    "sg:postcode": "44440",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"www.mrcc.jesusanswers.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573821,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6epBw9GeslKkatp1zfGD1H_41.137126_-80.768804@1294180530"
+    "sg:website": "www.mrcc.jesusanswers.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573821,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6epBw9GeslKkatp1zfGD1H_41.137126_-80.768804@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787916,
-    "wof:geomhash":"e4d9691c717322562b2e3e13b6135319",
-    "wof:hierarchy":[],
-    "wof:id":705752547,
-    "wof:lastmodified":1511322757,
-    "wof:name":"Church Of Christ",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461787916,
+    "wof:geomhash": "e4d9691c717322562b2e3e13b6135319",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705752547
+      }
+    ],
+    "wof:id": 705752547,
+    "wof:lastmodified": 1638566966,
+    "wof:name": "Church Of Christ",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -80.768804,
     41.137126,
     -80.768804,
     41.137126
-],
+  ],
   "geometry": {"coordinates":[-80.768804,41.137126],"type":"Point"}
 }

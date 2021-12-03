@@ -2,61 +2,65 @@
   "id": 705752243,
   "type": "Feature",
   "properties": {
-    "addr:full":"31 S Main St Mt Gilead OH 43338",
-    "addr:housenumber":"31",
-    "addr:postcode":"43338",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.828725,40.548494,-82.828725,40.548494",
-    "geom:latitude":40.548494,
-    "geom:longitude":-82.828725,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"31 S Main St",
-    "sg:city":"Mt Gilead",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "31 S Main St Mt Gilead OH 43338",
+    "addr:housenumber": "31",
+    "addr:postcode": "43338",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.828725,40.548494,-82.828725,40.548494",
+    "geom:latitude": 40.548494,
+    "geom:longitude": -82.828725,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "31 S Main St",
+    "sg:city": "Mt Gilead",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 947 2000",
-    "sg:postcode":"43338",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 947 2000",
+    "sg:postcode": "43338",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2IDWMhlkGzGohzvdXetdMt_40.548494_-82.828725@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2IDWMhlkGzGohzvdXetdMt_40.548494_-82.828725@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787906,
-    "wof:geomhash":"1044303280486ca0ba2dd19a5834b80a",
-    "wof:hierarchy":[],
-    "wof:id":705752243,
-    "wof:lastmodified":1472639159,
-    "wof:name":"Gerties Main Street Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461787906,
+    "wof:geomhash": "e43e1287a8baa99e6c455a7c96f07450",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705752243
+      }
+    ],
+    "wof:id": 705752243,
+    "wof:lastmodified": 1638566966,
+    "wof:name": "Gerties Main Street Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -82.828725,
     40.548494,
     -82.828725,
     40.548494
-],
-  "geometry": {"coordinates":[-82.82872500000001,40.548494],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.828725,40.548494],"type":"Point"}
 }

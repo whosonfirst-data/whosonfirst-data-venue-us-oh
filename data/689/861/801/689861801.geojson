@@ -2,63 +2,67 @@
   "id": 689861801,
   "type": "Feature",
   "properties": {
-    "addr:full":"320 Larry Ave Covington OH 45318",
-    "addr:housenumber":"320",
-    "addr:postcode":"45318",
-    "addr:street":"Larry Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.344963,40.122137,-84.344963,40.122137",
-    "geom:latitude":40.122137,
-    "geom:longitude":-84.344963,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"320 Larry Ave",
-    "sg:city":"Covington",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "320 Larry Ave Covington OH 45318",
+    "addr:housenumber": "320",
+    "addr:postcode": "45318",
+    "addr:street": "Larry Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.344963,40.122137,-84.344963,40.122137",
+    "geom:latitude": 40.122137,
+    "geom:longitude": -84.344963,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "320 Larry Ave",
+    "sg:city": "Covington",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 473 2533",
-    "sg:postcode":"45318",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 473 2533",
+    "sg:postcode": "45318",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5bWV8XSvKrwJkHMsKE9FOW_40.122137_-84.344963@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5bWV8XSvKrwJkHMsKE9FOW_40.122137_-84.344963@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783567,
-    "wof:geomhash":"30a1af9198d5b2be81462c80cea435f3",
-    "wof:hierarchy":[],
-    "wof:id":689861801,
-    "wof:lastmodified":1472639975,
-    "wof:name":"Donald Rice MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461783567,
+    "wof:geomhash": "dcc4cb45ad21afc8d25c05f61d907f75",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689861801
+      }
+    ],
+    "wof:id": 689861801,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Donald Rice MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.344963,
     40.122137,
     -84.344963,
     40.122137
-],
-  "geometry": {"coordinates":[-84.34496300000001,40.122137],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.344963,40.122137],"type":"Point"}
 }

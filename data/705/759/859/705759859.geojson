@@ -2,61 +2,65 @@
   "id": 705759859,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 W Front St Pemberville OH 43450",
-    "addr:housenumber":"216",
-    "addr:postcode":"43450",
-    "addr:street":"W Front St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.462345,41.408881,-83.462345,41.408881",
-    "geom:latitude":41.408881,
-    "geom:longitude":-83.462345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"216 W Front St",
-    "sg:city":"Pemberville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "216 W Front St Pemberville OH 43450",
+    "addr:housenumber": "216",
+    "addr:postcode": "43450",
+    "addr:street": "W Front St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.462345,41.408881,-83.462345,41.408881",
+    "geom:latitude": 41.408881,
+    "geom:longitude": -83.462345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "216 W Front St",
+    "sg:city": "Pemberville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 287 3239",
-    "sg:postcode":"43450",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 287 3239",
+    "sg:postcode": "43450",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_24CMFRNyvCGJNCGNUvixI2_41.408881_-83.462345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_24CMFRNyvCGJNCGNUvixI2_41.408881_-83.462345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788086,
-    "wof:geomhash":"894fd7335c7f9e4505c1f0082a6267d2",
-    "wof:hierarchy":[],
-    "wof:id":705759859,
-    "wof:lastmodified":1472639208,
-    "wof:name":"Forks Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461788086,
+    "wof:geomhash": "03cd082c73468c965d0dba9bfe6a86c6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705759859
+      }
+    ],
+    "wof:id": 705759859,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Forks Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.462345,
     41.408881,
     -83.462345,
     41.408881
-],
+  ],
   "geometry": {"coordinates":[-83.462345,41.408881],"type":"Point"}
 }

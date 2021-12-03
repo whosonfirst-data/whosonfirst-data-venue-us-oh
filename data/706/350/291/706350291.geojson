@@ -2,61 +2,65 @@
   "id": 706350291,
   "type": "Feature",
   "properties": {
-    "addr:full":"11690 Sherman Rd Chardon OH 44024",
-    "addr:housenumber":"11690",
-    "addr:postcode":"44024",
-    "addr:street":"Sherman Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.223754,41.536979,-81.223754,41.536979",
-    "geom:latitude":41.536979,
-    "geom:longitude":-81.223754,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11690 Sherman Rd",
-    "sg:city":"Chardon",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Engineering",
-            "type":"Services"
-        }
+    "addr:full": "11690 Sherman Rd Chardon OH 44024",
+    "addr:housenumber": "11690",
+    "addr:postcode": "44024",
+    "addr:street": "Sherman Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.223754,41.536979,-81.223754,41.536979",
+    "geom:latitude": 41.536979,
+    "geom:longitude": -81.223754,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11690 Sherman Rd",
+    "sg:city": "Chardon",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Engineering",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 729 8866",
-    "sg:postcode":"44024",
-    "sg:province":"OH",
-    "sg:tags":[
-        "engineer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 729 8866",
+    "sg:postcode": "44024",
+    "sg:province": "OH",
+    "sg:tags": [
+      "engineer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2TntIk0SRqNGuIy2B9wIw9_41.536979_-81.223754@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2TntIk0SRqNGuIy2B9wIw9_41.536979_-81.223754@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801412,
-    "wof:geomhash":"b344f84a43be7fa0fa076b13dcc56bd7",
-    "wof:hierarchy":[],
-    "wof:id":706350291,
-    "wof:lastmodified":1472639872,
-    "wof:name":"Thielsch Engineering Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "engineer"
+    "wof:country": "US",
+    "wof:created": 1461801412,
+    "wof:geomhash": "c4343e51b1348bb0f8bfe73426d081d7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706350291
+      }
+    ],
+    "wof:id": 706350291,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Thielsch Engineering Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "engineer"
     ]
-},
+  },
   "bbox": [
     -81.223754,
     41.536979,
     -81.223754,
     41.536979
-],
+  ],
   "geometry": {"coordinates":[-81.223754,41.536979],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706447279,
   "type": "Feature",
   "properties": {
-    "addr:full":"501 N Miami Ave Cleves OH 45002",
-    "addr:housenumber":"501",
-    "addr:postcode":"45002",
-    "addr:street":"N Miami Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.749119,39.168759,-84.749119,39.168759",
-    "geom:latitude":39.168759,
-    "geom:longitude":-84.749119,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"501 N Miami Ave",
-    "sg:city":"Cleves",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "501 N Miami Ave Cleves OH 45002",
+    "addr:housenumber": "501",
+    "addr:postcode": "45002",
+    "addr:street": "N Miami Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.749119,39.168759,-84.749119,39.168759",
+    "geom:latitude": 39.168759,
+    "geom:longitude": -84.749119,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "501 N Miami Ave",
+    "sg:city": "Cleves",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 941 9939",
-    "sg:postcode":"45002",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 941 9939",
+    "sg:postcode": "45002",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1UsAVVjX3ePsByxJZ6FScZ_39.168759_-84.749119@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1UsAVVjX3ePsByxJZ6FScZ_39.168759_-84.749119@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803377,
-    "wof:geomhash":"8bd2fa2cc2acd5c4ed53a6ebdfc672f3",
-    "wof:hierarchy":[],
-    "wof:id":706447279,
-    "wof:lastmodified":1472640023,
-    "wof:name":"Casa Loma Cafe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461803377,
+    "wof:geomhash": "6d526e64ea561729d31faa3aa76d5694",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706447279
+      }
+    ],
+    "wof:id": 706447279,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Casa Loma Cafe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -84.749119,
     39.168759,
     -84.749119,
     39.168759
-],
-  "geometry": {"coordinates":[-84.74911899999999,39.168759],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.749119,39.168759],"type":"Point"}
 }

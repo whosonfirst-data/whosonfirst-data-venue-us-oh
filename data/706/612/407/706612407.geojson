@@ -2,56 +2,60 @@
   "id": 706612407,
   "type": "Feature",
   "properties": {
-    "addr:full":"5577 W West Salem Rd Burbank OH 44214",
-    "addr:housenumber":"5577",
-    "addr:postcode":"44214",
-    "addr:street":"W West Salem Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.987,40.988499,-81.987,40.988499",
-    "geom:latitude":40.988499,
-    "geom:longitude":-81.987,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5577 W West Salem Rd",
-    "sg:city":"Burbank",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "5577 W West Salem Rd Burbank OH 44214",
+    "addr:housenumber": "5577",
+    "addr:postcode": "44214",
+    "addr:street": "W West Salem Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.987000,40.988499,-81.987000,40.988499",
+    "geom:latitude": 40.988499,
+    "geom:longitude": -81.987,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5577 W West Salem Rd",
+    "sg:city": "Burbank",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 624 6017",
-    "sg:postcode":"44214",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1qGBfrnGviSRG6bi1VBreO_40.988499_-81.987000@1303262755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 624 6017",
+    "sg:postcode": "44214",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1qGBfrnGviSRG6bi1VBreO_40.988499_-81.987000@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806974,
-    "wof:geomhash":"b7a1f7ba4ec8bd5512ce29dca9c450e6",
-    "wof:hierarchy":[],
-    "wof:id":706612407,
-    "wof:lastmodified":1472640226,
-    "wof:name":"Mike's Auto Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806974,
+    "wof:geomhash": "c977f8fcf9fb1390d3343543036d1f99",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706612407
+      }
+    ],
+    "wof:id": 706612407,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Mike's Auto Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.987,
     40.988499,
     -81.987,
     40.988499
-],
-  "geometry": {"coordinates":[-81.98699999999999,40.988499],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.987,40.988499],"type":"Point"}
 }

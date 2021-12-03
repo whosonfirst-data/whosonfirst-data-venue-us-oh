@@ -2,61 +2,65 @@
   "id": 706252087,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 W Main St Anna OH 45302",
-    "addr:housenumber":"315",
-    "addr:postcode":"45302",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.17806,40.39501,-84.17806,40.39501",
-    "geom:latitude":40.39501,
-    "geom:longitude":-84.17806,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"315 W Main St",
-    "sg:city":"Anna",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "315 W Main St Anna OH 45302",
+    "addr:housenumber": "315",
+    "addr:postcode": "45302",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.178060,40.395010,-84.178060,40.395010",
+    "geom:latitude": 40.39501,
+    "geom:longitude": -84.17806,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "315 W Main St",
+    "sg:city": "Anna",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 394 3011",
-    "sg:postcode":"45302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 394 3011",
+    "sg:postcode": "45302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0szymRmggXjtZGC3Nlrtqx_40.395010_-84.178060@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0szymRmggXjtZGC3Nlrtqx_40.395010_-84.178060@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799240,
-    "wof:geomhash":"e40132c8f94053cc6cd3583089d966ed",
-    "wof:hierarchy":[],
-    "wof:id":706252087,
-    "wof:lastmodified":1472639592,
-    "wof:name":"Anna Foods",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461799240,
+    "wof:geomhash": "c76a52ca262620bcb2f6114a85c87c52",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706252087
+      }
+    ],
+    "wof:id": 706252087,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Anna Foods",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -84.17806,
     40.39501,
     -84.17806,
     40.39501
-],
+  ],
   "geometry": {"coordinates":[-84.17806,40.39501],"type":"Point"}
 }

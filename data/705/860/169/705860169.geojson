@@ -2,63 +2,67 @@
   "id": 705860169,
   "type": "Feature",
   "properties": {
-    "addr:full":"375 W Main St Lexington OH 44904",
-    "addr:housenumber":"375",
-    "addr:postcode":"44904",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.596718,40.684032,-82.596718,40.684032",
-    "geom:latitude":40.684032,
-    "geom:longitude":-82.596718,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"375 W Main St",
-    "sg:city":"Lexington",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "375 W Main St Lexington OH 44904",
+    "addr:housenumber": "375",
+    "addr:postcode": "44904",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.596718,40.684032,-82.596718,40.684032",
+    "geom:latitude": 40.684032,
+    "geom:longitude": -82.596718,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "375 W Main St",
+    "sg:city": "Lexington",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 884 1165",
-    "sg:postcode":"44904",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 884 1165",
+    "sg:postcode": "44904",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5hQb0KX29mYhB0kIsNBI8W_40.684032_-82.596718@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5hQb0KX29mYhB0kIsNBI8W_40.684032_-82.596718@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790428,
-    "wof:geomhash":"f49b639e6520f26da95514c74adb4f4f",
-    "wof:hierarchy":[],
-    "wof:id":705860169,
-    "wof:lastmodified":1472639419,
-    "wof:name":"Lexington Family Practice",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461790428,
+    "wof:geomhash": "b883087d3d7efddb984fcb4a82d859b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705860169
+      }
+    ],
+    "wof:id": 705860169,
+    "wof:lastmodified": 1638567016,
+    "wof:name": "Lexington Family Practice",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.596718,
     40.684032,
     -82.596718,
     40.684032
-],
+  ],
   "geometry": {"coordinates":[-82.596718,40.684032],"type":"Point"}
 }

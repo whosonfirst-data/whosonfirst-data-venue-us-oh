@@ -2,59 +2,63 @@
   "id": 705857125,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 N Main St Mt Blanchard OH 45867",
-    "addr:housenumber":"121",
-    "addr:postcode":"45867",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.556768,40.900187,-83.556768,40.900187",
-    "geom:latitude":40.900187,
-    "geom:longitude":-83.556768,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"121 N Main St",
-    "sg:city":"Mt Blanchard",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "121 N Main St Mt Blanchard OH 45867",
+    "addr:housenumber": "121",
+    "addr:postcode": "45867",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.556768,40.900187,-83.556768,40.900187",
+    "geom:latitude": 40.900187,
+    "geom:longitude": -83.556768,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "121 N Main St",
+    "sg:city": "Mt Blanchard",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 694 3505",
-    "sg:postcode":"45867",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5TFS4MOevk1646GE29Vael_40.900187_-83.556768@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 694 3505",
+    "sg:postcode": "45867",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5TFS4MOevk1646GE29Vael_40.900187_-83.556768@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790352,
-    "wof:geomhash":"22ef3bc2d432e04110042d2a8ddd656a",
-    "wof:hierarchy":[],
-    "wof:id":705857125,
-    "wof:lastmodified":1511320794,
-    "wof:name":"US Post Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461790352,
+    "wof:geomhash": "22ef3bc2d432e04110042d2a8ddd656a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705857125
+      }
+    ],
+    "wof:id": 705857125,
+    "wof:lastmodified": 1638567016,
+    "wof:name": "US Post Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.556768,
     40.900187,
     -83.556768,
     40.900187
-],
-  "geometry": {"coordinates":[-83.55676800000001,40.900187],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.556768,40.900187],"type":"Point"}
 }

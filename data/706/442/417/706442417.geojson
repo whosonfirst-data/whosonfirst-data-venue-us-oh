@@ -2,61 +2,65 @@
   "id": 706442417,
   "type": "Feature",
   "properties": {
-    "addr:full":"5502 Tyronda Dr Dayton OH 45429",
-    "addr:housenumber":"5502",
-    "addr:postcode":"45429",
-    "addr:street":"Tyronda Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.13833,39.666216,-84.13833,39.666216",
-    "geom:latitude":39.666216,
-    "geom:longitude":-84.13833,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5502 Tyronda Dr",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "5502 Tyronda Dr Dayton OH 45429",
+    "addr:housenumber": "5502",
+    "addr:postcode": "45429",
+    "addr:street": "Tyronda Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.138330,39.666216,-84.138330,39.666216",
+    "geom:latitude": 39.666216,
+    "geom:longitude": -84.13833,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5502 Tyronda Dr",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 433 4673",
-    "sg:postcode":"45429",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 433 4673",
+    "sg:postcode": "45429",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0qTTqfXdEiy079fEKkNDWY_39.666216_-84.138330@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0qTTqfXdEiy079fEKkNDWY_39.666216_-84.138330@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803274,
-    "wof:geomhash":"8e9ca4278de52d3d99f055557636d26d",
-    "wof:hierarchy":[],
-    "wof:id":706442417,
-    "wof:lastmodified":1472640027,
-    "wof:name":"Hope Chapel",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461803274,
+    "wof:geomhash": "aeeabe71f16e410a0f183330cd2fa2e5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706442417
+      }
+    ],
+    "wof:id": 706442417,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Hope Chapel",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.13833,
     39.666216,
     -84.13833,
     39.666216
-],
+  ],
   "geometry": {"coordinates":[-84.13833,39.666216],"type":"Point"}
 }

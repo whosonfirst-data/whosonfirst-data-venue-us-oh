@@ -2,61 +2,65 @@
   "id": 705802373,
   "type": "Feature",
   "properties": {
-    "addr:full":"153 E Main St Hopedale OH 43976",
-    "addr:housenumber":"153",
-    "addr:postcode":"43976",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.894598,40.325957,-80.894598,40.325957",
-    "geom:latitude":40.325957,
-    "geom:longitude":-80.894598,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"153 E Main St",
-    "sg:city":"Hopedale",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "153 E Main St Hopedale OH 43976",
+    "addr:housenumber": "153",
+    "addr:postcode": "43976",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.894598,40.325957,-80.894598,40.325957",
+    "geom:latitude": 40.325957,
+    "geom:longitude": -80.894598,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "153 E Main St",
+    "sg:city": "Hopedale",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 937 2122",
-    "sg:postcode":"43976",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 937 2122",
+    "sg:postcode": "43976",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2OQBAnAHcQezfNWebIPkwE_40.325957_-80.894598@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2OQBAnAHcQezfNWebIPkwE_40.325957_-80.894598@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789070,
-    "wof:geomhash":"9702bb85ce94ce9e705c50528341e2d9",
-    "wof:hierarchy":[],
-    "wof:id":705802373,
-    "wof:lastmodified":1472639276,
-    "wof:name":"Alameda Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461789070,
+    "wof:geomhash": "eaddd1cbf95a209dd9b035e3d232ca10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705802373
+      }
+    ],
+    "wof:id": 705802373,
+    "wof:lastmodified": 1638566987,
+    "wof:name": "Alameda Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.894598,
     40.325957,
     -80.894598,
     40.325957
-],
+  ],
   "geometry": {"coordinates":[-80.894598,40.325957],"type":"Point"}
 }

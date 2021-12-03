@@ -2,61 +2,65 @@
   "id": 706181277,
   "type": "Feature",
   "properties": {
-    "addr:full":"2020 Superior St Sandusky OH 44870",
-    "addr:housenumber":"2020",
-    "addr:postcode":"44870",
-    "addr:street":"Superior St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.743245,41.43663,-82.743245,41.43663",
-    "geom:latitude":41.43663,
-    "geom:longitude":-82.743245,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2020 Superior St",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "2020 Superior St Sandusky OH 44870",
+    "addr:housenumber": "2020",
+    "addr:postcode": "44870",
+    "addr:street": "Superior St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.743245,41.436630,-82.743245,41.436630",
+    "geom:latitude": 41.43663,
+    "geom:longitude": -82.743245,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2020 Superior St",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 621 8275",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 621 8275",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IFcGu5IUF1Wi7D6AGswDp_41.436630_-82.743245@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5IFcGu5IUF1Wi7D6AGswDp_41.436630_-82.743245@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797659,
-    "wof:geomhash":"9788d0ad7c2208f0b7f3633a6e01fc09",
-    "wof:hierarchy":[],
-    "wof:id":706181277,
-    "wof:lastmodified":1472639444,
-    "wof:name":"Sandusky Limited",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461797659,
+    "wof:geomhash": "df65aab50eaecab7b065eb5de36e3a4d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706181277
+      }
+    ],
+    "wof:id": 706181277,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Sandusky Limited",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -82.743245,
     41.43663,
     -82.743245,
     41.43663
-],
+  ],
   "geometry": {"coordinates":[-82.743245,41.43663],"type":"Point"}
 }

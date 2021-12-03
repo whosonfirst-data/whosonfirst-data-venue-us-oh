@@ -2,63 +2,67 @@
   "id": 705779031,
   "type": "Feature",
   "properties": {
-    "addr:full":"1010 24th St Portsmouth OH 45662",
-    "addr:housenumber":"1010",
-    "addr:postcode":"45662",
-    "addr:street":"24Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.99126,38.751672,-82.99126,38.751672",
-    "geom:latitude":38.751672,
-    "geom:longitude":-82.99126,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1010 24th St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1010 24th St Portsmouth OH 45662",
+    "addr:housenumber": "1010",
+    "addr:postcode": "45662",
+    "addr:street": "24Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.991260,38.751672,-82.991260,38.751672",
+    "geom:latitude": 38.751672,
+    "geom:longitude": -82.99126,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1010 24th St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 354 6631",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 354 6631",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6OZjRab7perQeXHe54xJPb_38.751672_-82.991260@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6OZjRab7perQeXHe54xJPb_38.751672_-82.991260@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788526,
-    "wof:geomhash":"db76d1a8117ccc532b809c309a5d9d88",
-    "wof:hierarchy":[],
-    "wof:id":705779031,
-    "wof:lastmodified":1472639219,
-    "wof:name":"Hector V Soto Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461788526,
+    "wof:geomhash": "8528b63488cfad55918679363df66307",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705779031
+      }
+    ],
+    "wof:id": 705779031,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Hector V Soto Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.99126,
     38.751672,
     -82.99126,
     38.751672
-],
+  ],
   "geometry": {"coordinates":[-82.99126,38.751672],"type":"Point"}
 }

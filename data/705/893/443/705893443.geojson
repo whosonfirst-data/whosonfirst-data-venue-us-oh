@@ -2,61 +2,65 @@
   "id": 705893443,
   "type": "Feature",
   "properties": {
-    "addr:full":"8501 Kinsman Rd Novelty OH 44072",
-    "addr:housenumber":"8501",
-    "addr:postcode":"44072",
-    "addr:street":"Kinsman Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.333535,41.462602,-81.333535,41.462602",
-    "geom:latitude":41.462602,
-    "geom:longitude":-81.333535,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8501 Kinsman Rd",
-    "sg:city":"Novelty",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "8501 Kinsman Rd Novelty OH 44072",
+    "addr:housenumber": "8501",
+    "addr:postcode": "44072",
+    "addr:street": "Kinsman Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.333535,41.462602,-81.333535,41.462602",
+    "geom:latitude": 41.462602,
+    "geom:longitude": -81.333535,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8501 Kinsman Rd",
+    "sg:city": "Novelty",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 338 8289",
-    "sg:postcode":"44072",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 338 8289",
+    "sg:postcode": "44072",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_096oli67upp3yuAGdKR5bN_41.462602_-81.333535@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_096oli67upp3yuAGdKR5bN_41.462602_-81.333535@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791256,
-    "wof:geomhash":"4dc81b157b159e914d07840ad05dfc21",
-    "wof:hierarchy":[],
-    "wof:id":705893443,
-    "wof:lastmodified":1472639525,
-    "wof:name":"Russell Twp Maintenance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461791256,
+    "wof:geomhash": "20603e27d1d5a95a897889fd957913d3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705893443
+      }
+    ],
+    "wof:id": 705893443,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Russell Twp Maintenance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -81.333535,
     41.462602,
     -81.333535,
     41.462602
-],
+  ],
   "geometry": {"coordinates":[-81.333535,41.462602],"type":"Point"}
 }

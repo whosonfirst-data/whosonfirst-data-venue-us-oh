@@ -2,66 +2,70 @@
   "id": 689903843,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 N Werley Rd Canton OH 44730",
-    "addr:housenumber":"301",
-    "addr:postcode":"44730",
-    "addr:street":"N Werley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.291422,40.789468,-81.291422,40.789468",
-    "geom:latitude":40.789468,
-    "geom:longitude":-81.291422,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"301 N Werley Rd",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Sewage",
-            "type":"Services"
-        }
+    "addr:full": "301 N Werley Rd Canton OH 44730",
+    "addr:housenumber": "301",
+    "addr:postcode": "44730",
+    "addr:street": "N Werley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.291422,40.789468,-81.291422,40.789468",
+    "geom:latitude": 40.789468,
+    "geom:longitude": -81.291422,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "301 N Werley Rd",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Sewage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 488 1343",
-    "sg:postcode":"44730",
-    "sg:province":"OH",
-    "sg:tags":[
-        "system",
-        "sewerage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 488 1343",
+    "sg:postcode": "44730",
+    "sg:province": "OH",
+    "sg:tags": [
+      "system",
+      "sewerage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125159685,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Ph0BD72N0mH4J5VGAIoTs_40.789468_-81.291422@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125159685,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Ph0BD72N0mH4J5VGAIoTs_40.789468_-81.291422@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784686,
-    "wof:geomhash":"6196f157cd4cbc50e38e80cb6f70e393",
-    "wof:hierarchy":[],
-    "wof:id":689903843,
-    "wof:lastmodified":1510876223,
-    "wof:name":"Sewage Treatment Plant",
-    "wof:parent_id":420535247,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "system",
-        "sewerage"
+    "wof:country": "US",
+    "wof:created": 1461784686,
+    "wof:geomhash": "6196f157cd4cbc50e38e80cb6f70e393",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689903843
+      }
+    ],
+    "wof:id": 689903843,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Sewage Treatment Plant",
+    "wof:parent_id": 420535247,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "system",
+      "sewerage"
     ]
-},
+  },
   "bbox": [
     -81.291422,
     40.789468,
     -81.291422,
     40.789468
-],
+  ],
   "geometry": {"coordinates":[-81.291422,40.789468],"type":"Point"}
 }

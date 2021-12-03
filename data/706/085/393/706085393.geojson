@@ -2,61 +2,65 @@
   "id": 706085393,
   "type": "Feature",
   "properties": {
-    "addr:full":"695 S Leonard Ave Lima OH 45804",
-    "addr:housenumber":"695",
-    "addr:postcode":"45804",
-    "addr:street":"S Leonard Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.07841,40.733413,-84.07841,40.733413",
-    "geom:latitude":40.733413,
-    "geom:longitude":-84.07841,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"695 S Leonard Ave",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "695 S Leonard Ave Lima OH 45804",
+    "addr:housenumber": "695",
+    "addr:postcode": "45804",
+    "addr:street": "S Leonard Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.078410,40.733413,-84.078410,40.733413",
+    "geom:latitude": 40.733413,
+    "geom:longitude": -84.07841,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "695 S Leonard Ave",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 222 3149",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 222 3149",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2x8H0FzYWcZIiSvX6AJcul_40.733413_-84.078410@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2x8H0FzYWcZIiSvX6AJcul_40.733413_-84.078410@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795426,
-    "wof:geomhash":"33cedebe9a9f9f5251e4e0741d7ac986",
-    "wof:hierarchy":[],
-    "wof:id":706085393,
-    "wof:lastmodified":1472639194,
-    "wof:name":"Victory Temple Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461795426,
+    "wof:geomhash": "7418daf80ee25cc84ce2cc5a1d54ba10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706085393
+      }
+    ],
+    "wof:id": 706085393,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Victory Temple Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.07841,
     40.733413,
     -84.07841,
     40.733413
-],
-  "geometry": {"coordinates":[-84.07841000000001,40.733413],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.07841,40.733413],"type":"Point"}
 }

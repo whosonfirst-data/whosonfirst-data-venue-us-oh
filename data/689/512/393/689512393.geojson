@@ -2,63 +2,67 @@
   "id": 689512393,
   "type": "Feature",
   "properties": {
-    "addr:full":"4401 Broadway Grove City OH 43123",
-    "addr:housenumber":"4401",
-    "addr:postcode":"43123",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.100209,39.874487,-83.100209,39.874487",
-    "geom:latitude":39.874487,
-    "geom:longitude":-83.100209,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4401 Broadway",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "4401 Broadway Grove City OH 43123",
+    "addr:housenumber": "4401",
+    "addr:postcode": "43123",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.100209,39.874487,-83.100209,39.874487",
+    "geom:latitude": 39.874487,
+    "geom:longitude": -83.100209,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4401 Broadway",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 539 1440",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "automobile",
-        "leasing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 539 1440",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "automobile",
+      "leasing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_503PLq7GobwZCxgCfyCDWG_39.874487_-83.100209@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_503PLq7GobwZCxgCfyCDWG_39.874487_-83.100209@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773493,
-    "wof:geomhash":"d56275e54266997eb772024817d51ea0",
-    "wof:hierarchy":[],
-    "wof:id":689512393,
-    "wof:lastmodified":1472639136,
-    "wof:name":"NAL Group",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "leasing"
+    "wof:country": "US",
+    "wof:created": 1461773493,
+    "wof:geomhash": "fbeea3c0147abf81426cefcd4527544b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689512393
+      }
+    ],
+    "wof:id": 689512393,
+    "wof:lastmodified": 1638566956,
+    "wof:name": "NAL Group",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "leasing"
     ]
-},
+  },
   "bbox": [
     -83.100209,
     39.874487,
     -83.100209,
     39.874487
-],
-  "geometry": {"coordinates":[-83.10020900000001,39.874487],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.100209,39.874487],"type":"Point"}
 }

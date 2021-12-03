@@ -2,61 +2,65 @@
   "id": 705923961,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 W 4th St Manchester OH 45144",
-    "addr:housenumber":"204",
-    "addr:postcode":"45144",
-    "addr:street":"W 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.6104,38.68826,-83.6104,38.68826",
-    "geom:latitude":38.68826,
-    "geom:longitude":-83.6104,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"204 W 4th St",
-    "sg:city":"Manchester",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "204 W 4th St Manchester OH 45144",
+    "addr:housenumber": "204",
+    "addr:postcode": "45144",
+    "addr:street": "W 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.610400,38.688260,-83.610400,38.688260",
+    "geom:latitude": 38.68826,
+    "geom:longitude": -83.6104,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "204 W 4th St",
+    "sg:city": "Manchester",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 549 3131",
-    "sg:postcode":"45144",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 549 3131",
+    "sg:postcode": "45144",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0oX0pD7k8RXPx2nlHptVGh_38.688260_-83.610400@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0oX0pD7k8RXPx2nlHptVGh_38.688260_-83.610400@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791933,
-    "wof:geomhash":"e0302682a5519752ae1749670f24af4f",
-    "wof:hierarchy":[],
-    "wof:id":705923961,
-    "wof:lastmodified":1472639641,
-    "wof:name":"Manchester Village Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461791933,
+    "wof:geomhash": "6421b49f98ae92c7e476832c7fd0efd6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705923961
+      }
+    ],
+    "wof:id": 705923961,
+    "wof:lastmodified": 1638567040,
+    "wof:name": "Manchester Village Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.6104,
     38.68826,
     -83.6104,
     38.68826
-],
+  ],
   "geometry": {"coordinates":[-83.6104,38.68826],"type":"Point"}
 }

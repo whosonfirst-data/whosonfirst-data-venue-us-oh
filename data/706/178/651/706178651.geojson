@@ -2,64 +2,68 @@
   "id": 706178651,
   "type": "Feature",
   "properties": {
-    "addr:full":"3000 Linden Ave Dayton OH 45410",
-    "addr:housenumber":"3000",
-    "addr:postcode":"45410",
-    "addr:street":"Linden Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.137085,39.74789,-84.137085,39.74789",
-    "geom:latitude":39.74789,
-    "geom:longitude":-84.137085,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3000 Linden Ave",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3000 Linden Ave Dayton OH 45410",
+    "addr:housenumber": "3000",
+    "addr:postcode": "45410",
+    "addr:street": "Linden Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.137085,39.747890,-84.137085,39.747890",
+    "geom:latitude": 39.74789,
+    "geom:longitude": -84.137085,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3000 Linden Ave",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 256 0401",
-    "sg:postcode":"45410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "oil"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 256 0401",
+    "sg:postcode": "45410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "oil"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125152765,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3FAHLBYb4ITwSt80YubT1j_39.747890_-84.137085@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125152765,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3FAHLBYb4ITwSt80YubT1j_39.747890_-84.137085@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797605,
-    "wof:geomhash":"86949cfe74c82e2bbaf4a52d7394a7e3",
-    "wof:hierarchy":[],
-    "wof:id":706178651,
-    "wof:lastmodified":1510697158,
-    "wof:name":"BP Oil Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "oil"
+    "wof:country": "US",
+    "wof:created": 1461797605,
+    "wof:geomhash": "86949cfe74c82e2bbaf4a52d7394a7e3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706178651
+      }
+    ],
+    "wof:id": 706178651,
+    "wof:lastmodified": 1638567033,
+    "wof:name": "BP Oil Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "oil"
     ]
-},
+  },
   "bbox": [
     -84.137085,
     39.74789,
     -84.137085,
     39.74789
-],
+  ],
   "geometry": {"coordinates":[-84.137085,39.74789],"type":"Point"}
 }

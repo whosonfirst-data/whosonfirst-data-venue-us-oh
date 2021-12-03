@@ -2,61 +2,65 @@
   "id": 705764833,
   "type": "Feature",
   "properties": {
-    "addr:full":"4326 Main Ave Ashtabula OH 44004",
-    "addr:housenumber":"4326",
-    "addr:postcode":"44004",
-    "addr:street":"Main Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.781138,41.868155,-80.781138,41.868155",
-    "geom:latitude":41.868155,
-    "geom:longitude":-80.781138,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4326 Main Ave",
-    "sg:city":"Ashtabula",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "4326 Main Ave Ashtabula OH 44004",
+    "addr:housenumber": "4326",
+    "addr:postcode": "44004",
+    "addr:street": "Main Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.781138,41.868155,-80.781138,41.868155",
+    "geom:latitude": 41.868155,
+    "geom:longitude": -80.781138,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4326 Main Ave",
+    "sg:city": "Ashtabula",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 992 7190",
-    "sg:postcode":"44004",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 992 7190",
+    "sg:postcode": "44004",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Ew2QD8z9P9WLUdp4AsG0C_41.868155_-80.781138@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Ew2QD8z9P9WLUdp4AsG0C_41.868155_-80.781138@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788196,
-    "wof:geomhash":"d9f77bd0b4b940e5b21de96c40984790",
-    "wof:hierarchy":[],
-    "wof:id":705764833,
-    "wof:lastmodified":1472639249,
-    "wof:name":"Ashtabula Fire Chief",
-    "wof:parent_id":420534553,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461788196,
+    "wof:geomhash": "6287e943e7577020a35eb99263a114ba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705764833
+      }
+    ],
+    "wof:id": 705764833,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Ashtabula Fire Chief",
+    "wof:parent_id": 420534553,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.781138,
     41.868155,
     -80.781138,
     41.868155
-],
+  ],
   "geometry": {"coordinates":[-80.781138,41.868155],"type":"Point"}
 }

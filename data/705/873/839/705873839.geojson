@@ -2,61 +2,65 @@
   "id": 705873839,
   "type": "Feature",
   "properties": {
-    "addr:full":"231 Parkview Dr Millersburg OH 44654",
-    "addr:housenumber":"231",
-    "addr:postcode":"44654",
-    "addr:street":"Parkview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.909674,40.543681,-81.909674,40.543681",
-    "geom:latitude":40.543681,
-    "geom:longitude":-81.909674,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"231 Parkview Dr",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "231 Parkview Dr Millersburg OH 44654",
+    "addr:housenumber": "231",
+    "addr:postcode": "44654",
+    "addr:street": "Parkview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.909674,40.543681,-81.909674,40.543681",
+    "geom:latitude": 40.543681,
+    "geom:longitude": -81.909674,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "231 Parkview Dr",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 674 4876",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 674 4876",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Uhks8rZ8otPoaDqAgoRt7_40.543681_-81.909674@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Uhks8rZ8otPoaDqAgoRt7_40.543681_-81.909674@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790785,
-    "wof:geomhash":"e3d45a2fb91f275861850b23916e996b",
-    "wof:hierarchy":[],
-    "wof:id":705873839,
-    "wof:lastmodified":1472639482,
-    "wof:name":"Holmes Family Dental Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461790785,
+    "wof:geomhash": "a5915fda735e34ecfbb30dfa47841b03",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705873839
+      }
+    ],
+    "wof:id": 705873839,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Holmes Family Dental Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.909674,
     40.543681,
     -81.909674,
     40.543681
-],
+  ],
   "geometry": {"coordinates":[-81.909674,40.543681],"type":"Point"}
 }

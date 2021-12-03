@@ -2,65 +2,69 @@
   "id": 706413745,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 S Elizabeth St Lima OH 45801",
-    "addr:housenumber":"212",
-    "addr:postcode":"45801",
-    "addr:street":"S Elizabeth St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.106907,40.73823,-84.106907,40.73823",
-    "geom:latitude":40.73823,
-    "geom:longitude":-84.106907,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"212 S Elizabeth St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "212 S Elizabeth St Lima OH 45801",
+    "addr:housenumber": "212",
+    "addr:postcode": "45801",
+    "addr:street": "S Elizabeth St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.106907,40.738230,-84.106907,40.738230",
+    "geom:latitude": 40.73823,
+    "geom:longitude": -84.106907,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "212 S Elizabeth St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 229 1945",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "military"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 229 1945",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "military"
     ],
-    "sg:website":"www.dav.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420575137,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0XfDH2zSZluseIL3xZHrnm_40.738230_-84.106907@1294180530"
+    "sg:website": "www.dav.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420575137,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0XfDH2zSZluseIL3xZHrnm_40.738230_-84.106907@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802668,
-    "wof:geomhash":"19ceb3fff226fa92dfef27ba80a7815c",
-    "wof:hierarchy":[],
-    "wof:id":706413745,
-    "wof:lastmodified":1510602463,
-    "wof:name":"Disabled American Veterans",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "military"
+    "wof:country": "US",
+    "wof:created": 1461802668,
+    "wof:geomhash": "19ceb3fff226fa92dfef27ba80a7815c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706413745
+      }
+    ],
+    "wof:id": 706413745,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Disabled American Veterans",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "military"
     ]
-},
+  },
   "bbox": [
     -84.106907,
     40.73823,
     -84.106907,
     40.73823
-],
-  "geometry": {"coordinates":[-84.10690700000001,40.73823],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.106907,40.73823],"type":"Point"}
 }

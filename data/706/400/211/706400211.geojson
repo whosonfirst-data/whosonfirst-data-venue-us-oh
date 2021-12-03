@@ -2,63 +2,67 @@
   "id": 706400211,
   "type": "Feature",
   "properties": {
-    "addr:full":"645 Indiana Ave Marion OH 43302",
-    "addr:housenumber":"645",
-    "addr:postcode":"43302",
-    "addr:street":"Indiana Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.114143,40.585689,-83.114143,40.585689",
-    "geom:latitude":40.585689,
-    "geom:longitude":-83.114143,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"645 Indiana Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "645 Indiana Ave Marion OH 43302",
+    "addr:housenumber": "645",
+    "addr:postcode": "43302",
+    "addr:street": "Indiana Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.114143,40.585689,-83.114143,40.585689",
+    "geom:latitude": 40.585689,
+    "geom:longitude": -83.114143,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "645 Indiana Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 387 1992",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 387 1992",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5itz1AkvrElcCDsV3IIjQR_40.585689_-83.114143@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5itz1AkvrElcCDsV3IIjQR_40.585689_-83.114143@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802402,
-    "wof:geomhash":"b58d9bb5567f8ff7a9f4e130dfddd4a0",
-    "wof:hierarchy":[],
-    "wof:id":706400211,
-    "wof:lastmodified":1472639988,
-    "wof:name":"Jo Anne's School Of Dance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:country": "US",
+    "wof:created": 1461802402,
+    "wof:geomhash": "f79538191af809a96925921ceaf78f52",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706400211
+      }
+    ],
+    "wof:id": 706400211,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Jo Anne's School Of Dance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -83.114143,
     40.585689,
     -83.114143,
     40.585689
-],
+  ],
   "geometry": {"coordinates":[-83.114143,40.585689],"type":"Point"}
 }

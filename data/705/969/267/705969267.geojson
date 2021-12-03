@@ -2,61 +2,65 @@
   "id": 705969267,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 N Williams St Paulding OH 45879",
-    "addr:housenumber":"200",
-    "addr:postcode":"45879",
-    "addr:street":"N Williams St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.580765,41.139241,-84.580765,41.139241",
-    "geom:latitude":41.139241,
-    "geom:longitude":-84.580765,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 N Williams St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "200 N Williams St Paulding OH 45879",
+    "addr:housenumber": "200",
+    "addr:postcode": "45879",
+    "addr:street": "N Williams St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.580765,41.139241,-84.580765,41.139241",
+    "geom:latitude": 41.139241,
+    "geom:longitude": -84.580765,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 N Williams St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 2217",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 2217",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5SXz021x7W0koLzQnTB43Y_41.139241_-84.580765@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5SXz021x7W0koLzQnTB43Y_41.139241_-84.580765@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792954,
-    "wof:geomhash":"21fec5162abbc81c9bbbae8985a9a3e0",
-    "wof:hierarchy":[],
-    "wof:id":705969267,
-    "wof:lastmodified":1472639731,
-    "wof:name":"James M Sponseller",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461792954,
+    "wof:geomhash": "81b76558790b1e8e36dd9737565b181b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705969267
+      }
+    ],
+    "wof:id": 705969267,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "James M Sponseller",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -84.580765,
     41.139241,
     -84.580765,
     41.139241
-],
+  ],
   "geometry": {"coordinates":[-84.580765,41.139241],"type":"Point"}
 }

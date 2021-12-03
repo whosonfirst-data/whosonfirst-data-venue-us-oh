@@ -2,61 +2,65 @@
   "id": 705805379,
   "type": "Feature",
   "properties": {
-    "addr:full":"1607 State Rte 60 Vermilion OH 44089",
-    "addr:housenumber":"1607",
-    "addr:postcode":"44089",
-    "addr:street":"State Rte 60",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.36499,41.401951,-82.36499,41.401951",
-    "geom:latitude":41.401951,
-    "geom:longitude":-82.36499,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1607 State Rte 60",
-    "sg:city":"Vermilion",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1607 State Rte 60 Vermilion OH 44089",
+    "addr:housenumber": "1607",
+    "addr:postcode": "44089",
+    "addr:street": "State Rte 60",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.364990,41.401951,-82.364990,41.401951",
+    "geom:latitude": 41.401951,
+    "geom:longitude": -82.36499,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1607 State Rte 60",
+    "sg:city": "Vermilion",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 967 8314",
-    "sg:postcode":"44089",
-    "sg:province":"OH",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 967 8314",
+    "sg:postcode": "44089",
+    "sg:province": "OH",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4PBe5AGSutfqoeVrj1vazO_41.401951_-82.364990@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4PBe5AGSutfqoeVrj1vazO_41.401951_-82.364990@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789138,
-    "wof:geomhash":"6bc760261ae1a5f01771468ca8da12a5",
-    "wof:hierarchy":[],
-    "wof:id":705805379,
-    "wof:lastmodified":1472639293,
-    "wof:name":"Hamman's Bakery",
-    "wof:parent_id":420534725,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:country": "US",
+    "wof:created": 1461789138,
+    "wof:geomhash": "47d5d00e712942fcb15ef3871f3f384e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705805379
+      }
+    ],
+    "wof:id": 705805379,
+    "wof:lastmodified": 1638566986,
+    "wof:name": "Hamman's Bakery",
+    "wof:parent_id": 420534725,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -82.36499,
     41.401951,
     -82.36499,
     41.401951
-],
-  "geometry": {"coordinates":[-82.36499000000001,41.401951],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.36499,41.401951],"type":"Point"}
 }

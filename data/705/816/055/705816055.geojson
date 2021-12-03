@@ -2,63 +2,67 @@
   "id": 705816055,
   "type": "Feature",
   "properties": {
-    "addr:full":"6450 Plum St NE Louisville OH 44641",
-    "addr:housenumber":"6450",
-    "addr:postcode":"44641",
-    "addr:street":"Plum St Ne",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.281048,40.842162,-81.281048,40.842162",
-    "geom:latitude":40.842162,
-    "geom:longitude":-81.281048,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6450 Plum St NE",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "6450 Plum St NE Louisville OH 44641",
+    "addr:housenumber": "6450",
+    "addr:postcode": "44641",
+    "addr:street": "Plum St Ne",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.281048,40.842162,-81.281048,40.842162",
+    "geom:latitude": 40.842162,
+    "geom:longitude": -81.281048,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6450 Plum St NE",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 875 6700",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 875 6700",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FfGsecTuMvjZaSPzZA8IM_40.842162_-81.281048@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4FfGsecTuMvjZaSPzZA8IM_40.842162_-81.281048@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789386,
-    "wof:geomhash":"415433aba967ab43b274d6e2d45ebb55",
-    "wof:hierarchy":[],
-    "wof:id":705816055,
-    "wof:lastmodified":1472639289,
-    "wof:name":"Lark's Refuse",
-    "wof:parent_id":420535239,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461789386,
+    "wof:geomhash": "155774f165310166b604ad09e3f9d79e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705816055
+      }
+    ],
+    "wof:id": 705816055,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Lark's Refuse",
+    "wof:parent_id": 420535239,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -81.281048,
     40.842162,
     -81.281048,
     40.842162
-],
+  ],
   "geometry": {"coordinates":[-81.281048,40.842162],"type":"Point"}
 }

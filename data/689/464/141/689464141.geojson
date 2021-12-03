@@ -2,61 +2,65 @@
   "id": 689464141,
   "type": "Feature",
   "properties": {
-    "addr:full":"8800 Vineyard Ave Cleveland OH 44105",
-    "addr:housenumber":"8800",
-    "addr:postcode":"44105",
-    "addr:street":"Vineyard Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.621446,41.436905,-81.621446,41.436905",
-    "geom:latitude":41.436905,
-    "geom:longitude":-81.621446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8800 Vineyard Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8800 Vineyard Ave Cleveland OH 44105",
+    "addr:housenumber": "8800",
+    "addr:postcode": "44105",
+    "addr:street": "Vineyard Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.621446,41.436905,-81.621446,41.436905",
+    "geom:latitude": 41.436905,
+    "geom:longitude": -81.621446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8800 Vineyard Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 269 3663",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 269 3663",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3vbalXmdtjWTFLCiV2o1i1_41.436905_-81.621446@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3vbalXmdtjWTFLCiV2o1i1_41.436905_-81.621446@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772017,
-    "wof:geomhash":"10bec29825dcbd6ae56a0819e20a4935",
-    "wof:hierarchy":[],
-    "wof:id":689464141,
-    "wof:lastmodified":1472638244,
-    "wof:name":"Cleveland's Choice Catering",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461772017,
+    "wof:geomhash": "4ac3c16e09e0effeddef89253b135dbb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689464141
+      }
+    ],
+    "wof:id": 689464141,
+    "wof:lastmodified": 1638566911,
+    "wof:name": "Cleveland's Choice Catering",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -81.621446,
     41.436905,
     -81.621446,
     41.436905
-],
-  "geometry": {"coordinates":[-81.62144600000001,41.436905],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.621446,41.436905],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689472239,
   "type": "Feature",
   "properties": {
-    "addr:full":"338 E 3rd St Ottawa OH 45875",
-    "addr:housenumber":"338",
-    "addr:postcode":"45875",
-    "addr:street":"E 3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.045362,41.020309,-84.045362,41.020309",
-    "geom:latitude":41.020309,
-    "geom:longitude":-84.045362,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"338 E 3rd St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "338 E 3rd St Ottawa OH 45875",
+    "addr:housenumber": "338",
+    "addr:postcode": "45875",
+    "addr:street": "E 3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.045362,41.020309,-84.045362,41.020309",
+    "geom:latitude": 41.020309,
+    "geom:longitude": -84.045362,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "338 E 3rd St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 1111",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "social"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 1111",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "social"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_30hQo4cwRi8a5CxKAK2GQL_41.020309_-84.045362@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_30hQo4cwRi8a5CxKAK2GQL_41.020309_-84.045362@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772292,
-    "wof:geomhash":"400ca1561ebaee78fa6d820a62d4b338",
-    "wof:hierarchy":[],
-    "wof:id":689472239,
-    "wof:lastmodified":1472638319,
-    "wof:name":"Crime Victim Services Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "social"
+    "wof:country": "US",
+    "wof:created": 1461772292,
+    "wof:geomhash": "b5d956accb5892ffb8d018d393f96b92",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689472239
+      }
+    ],
+    "wof:id": 689472239,
+    "wof:lastmodified": 1638566919,
+    "wof:name": "Crime Victim Services Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "social"
     ]
-},
+  },
   "bbox": [
     -84.045362,
     41.020309,
     -84.045362,
     41.020309
-],
+  ],
   "geometry": {"coordinates":[-84.045362,41.020309],"type":"Point"}
 }

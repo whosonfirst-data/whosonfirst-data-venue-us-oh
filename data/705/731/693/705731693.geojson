@@ -2,61 +2,65 @@
   "id": 705731693,
   "type": "Feature",
   "properties": {
-    "addr:full":"1656 Likens Rd Marion OH 43302",
-    "addr:housenumber":"1656",
-    "addr:postcode":"43302",
-    "addr:street":"Likens Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.080853,40.630123,-83.080853,40.630123",
-    "geom:latitude":40.630123,
-    "geom:longitude":-83.080853,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1656 Likens Rd",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1656 Likens Rd Marion OH 43302",
+    "addr:housenumber": "1656",
+    "addr:postcode": "43302",
+    "addr:street": "Likens Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.080853,40.630123,-83.080853,40.630123",
+    "geom:latitude": 40.630123,
+    "geom:longitude": -83.080853,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1656 Likens Rd",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 462 7046",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "warehouse"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 462 7046",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "warehouse"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_08plUQmnb1PFwYI6AwXoCh_40.630123_-83.080853@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_08plUQmnb1PFwYI6AwXoCh_40.630123_-83.080853@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787451,
-    "wof:geomhash":"6c1d965808d664489e7237e18cb58839",
-    "wof:hierarchy":[],
-    "wof:id":705731693,
-    "wof:lastmodified":1472638989,
-    "wof:name":"Wyandot Associates Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "warehouse"
+    "wof:country": "US",
+    "wof:created": 1461787451,
+    "wof:geomhash": "940bad81cb5ea0757c7432ddd31f9503",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705731693
+      }
+    ],
+    "wof:id": 705731693,
+    "wof:lastmodified": 1638566947,
+    "wof:name": "Wyandot Associates Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "warehouse"
     ]
-},
+  },
   "bbox": [
     -83.080853,
     40.630123,
     -83.080853,
     40.630123
-],
+  ],
   "geometry": {"coordinates":[-83.080853,40.630123],"type":"Point"}
 }

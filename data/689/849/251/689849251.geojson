@@ -2,63 +2,67 @@
   "id": 689849251,
   "type": "Feature",
   "properties": {
-    "addr:full":"1343 Woodman Dr Dayton OH 45432",
-    "addr:housenumber":"1343",
-    "addr:postcode":"45432",
-    "addr:street":"Woodman Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.121301,39.740603,-84.121301,39.740603",
-    "geom:latitude":39.740603,
-    "geom:longitude":-84.121301,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1343 Woodman Dr",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1343 Woodman Dr Dayton OH 45432",
+    "addr:housenumber": "1343",
+    "addr:postcode": "45432",
+    "addr:street": "Woodman Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.121301,39.740603,-84.121301,39.740603",
+    "geom:latitude": 39.740603,
+    "geom:longitude": -84.121301,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1343 Woodman Dr",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 254 6114",
-    "sg:postcode":"45432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 254 6114",
+    "sg:postcode": "45432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6zQZDNEwfdwYg9qEXNVp1x_39.740603_-84.121301@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6zQZDNEwfdwYg9qEXNVp1x_39.740603_-84.121301@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783297,
-    "wof:geomhash":"9a1c37e95293a259d90dd3cc5e2e54bb",
-    "wof:hierarchy":[],
-    "wof:id":689849251,
-    "wof:lastmodified":1472639916,
-    "wof:name":"Primed Physicians",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461783297,
+    "wof:geomhash": "00de8d0c3066faaee5e082a28aee19d5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689849251
+      }
+    ],
+    "wof:id": 689849251,
+    "wof:lastmodified": 1638567090,
+    "wof:name": "Primed Physicians",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.121301,
     39.740603,
     -84.121301,
     39.740603
-],
+  ],
   "geometry": {"coordinates":[-84.121301,39.740603],"type":"Point"}
 }

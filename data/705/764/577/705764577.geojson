@@ -2,65 +2,69 @@
   "id": 705764577,
   "type": "Feature",
   "properties": {
-    "addr:full":"6600 State Rte 170 East Palestine OH 44413",
-    "addr:housenumber":"6600",
-    "addr:postcode":"44413",
-    "addr:street":"State Rte 170 East",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.549527,40.799017,-80.549527,40.799017",
-    "geom:latitude":40.799017,
-    "geom:longitude":-80.549527,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6600 State Rte 170",
-    "sg:city":"East Palestine",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6600 State Rte 170 East Palestine OH 44413",
+    "addr:housenumber": "6600",
+    "addr:postcode": "44413",
+    "addr:street": "State Rte 170 East",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.549527,40.799017,-80.549527,40.799017",
+    "geom:latitude": 40.799017,
+    "geom:longitude": -80.549527,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6600 State Rte 170",
+    "sg:city": "East Palestine",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 6916",
-    "sg:postcode":"44413",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 6916",
+    "sg:postcode": "44413",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4YNhWsBbgSkzhCSXFGesjH_40.799017_-80.549527@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4YNhWsBbgSkzhCSXFGesjH_40.799017_-80.549527@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788191,
-    "wof:geomhash":"4aaca1dbdac6ee671f446212db42e86b",
-    "wof:hierarchy":[],
-    "wof:id":705764577,
-    "wof:lastmodified":1472639229,
-    "wof:name":"Frank Little",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461788191,
+    "wof:geomhash": "e4ffa05a91f51a619d7d5161e505f6fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705764577
+      }
+    ],
+    "wof:id": 705764577,
+    "wof:lastmodified": 1638566974,
+    "wof:name": "Frank Little",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.549527,
     40.799017,
     -80.549527,
     40.799017
-],
+  ],
   "geometry": {"coordinates":[-80.549527,40.799017],"type":"Point"}
 }

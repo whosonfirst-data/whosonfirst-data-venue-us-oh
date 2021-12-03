@@ -2,61 +2,65 @@
   "id": 706352475,
   "type": "Feature",
   "properties": {
-    "addr:full":"3960 W Harbor Rd Port Clinton OH 43452",
-    "addr:housenumber":"3960",
-    "addr:postcode":"43452",
-    "addr:street":"W Harbor Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.009691,41.517711,-83.009691,41.517711",
-    "geom:latitude":41.517711,
-    "geom:longitude":-83.009691,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3960 W Harbor Rd",
-    "sg:city":"Port Clinton",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "3960 W Harbor Rd Port Clinton OH 43452",
+    "addr:housenumber": "3960",
+    "addr:postcode": "43452",
+    "addr:street": "W Harbor Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.009691,41.517711,-83.009691,41.517711",
+    "geom:latitude": 41.517711,
+    "geom:longitude": -83.009691,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3960 W Harbor Rd",
+    "sg:city": "Port Clinton",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 734 4800",
-    "sg:postcode":"43452",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 734 4800",
+    "sg:postcode": "43452",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Xz8haw0BnrZIcdLK69SFk_41.517711_-83.009691@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Xz8haw0BnrZIcdLK69SFk_41.517711_-83.009691@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801456,
-    "wof:geomhash":"962f5ad12d0dcfefef5e12a55bfb18e8",
-    "wof:hierarchy":[],
-    "wof:id":706352475,
-    "wof:lastmodified":1472639902,
-    "wof:name":"Covenant Corner Christian",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461801456,
+    "wof:geomhash": "1e84d8ff19456c6ce87d551a74e25556",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706352475
+      }
+    ],
+    "wof:id": 706352475,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Covenant Corner Christian",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -83.009691,
     41.517711,
     -83.009691,
     41.517711
-],
+  ],
   "geometry": {"coordinates":[-83.009691,41.517711],"type":"Point"}
 }

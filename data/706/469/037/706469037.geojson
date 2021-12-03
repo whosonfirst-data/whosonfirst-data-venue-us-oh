@@ -2,63 +2,67 @@
   "id": 706469037,
   "type": "Feature",
   "properties": {
-    "addr:full":"1114 E Market St Warren OH 44483",
-    "addr:housenumber":"1114",
-    "addr:postcode":"44483",
-    "addr:street":"E Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.803719,41.236289,-80.803719,41.236289",
-    "geom:latitude":41.236289,
-    "geom:longitude":-80.803719,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1114 E Market St",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1114 E Market St Warren OH 44483",
+    "addr:housenumber": "1114",
+    "addr:postcode": "44483",
+    "addr:street": "E Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.803719,41.236289,-80.803719,41.236289",
+    "geom:latitude": 41.236289,
+    "geom:longitude": -80.803719,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1114 E Market St",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 395 5335",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 395 5335",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0PJUDQfZIyxYiPzQqfVZrl_41.236289_-80.803719@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0PJUDQfZIyxYiPzQqfVZrl_41.236289_-80.803719@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803830,
-    "wof:geomhash":"2e93a3246f0af9e596312ee1f73e77ea",
-    "wof:hierarchy":[],
-    "wof:id":706469037,
-    "wof:lastmodified":1472640076,
-    "wof:name":"Bustamante & Bustamante",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461803830,
+    "wof:geomhash": "cd3684faad26385def761cca23812453",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706469037
+      }
+    ],
+    "wof:id": 706469037,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Bustamante \u0026 Bustamante",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.803719,
     41.236289,
     -80.803719,
     41.236289
-],
+  ],
   "geometry": {"coordinates":[-80.803719,41.236289],"type":"Point"}
 }

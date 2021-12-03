@@ -2,61 +2,65 @@
   "id": 706132795,
   "type": "Feature",
   "properties": {
-    "addr:full":"21 W 9th St Dresden OH 43821",
-    "addr:housenumber":"21",
-    "addr:postcode":"43821",
-    "addr:street":"W 9Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.01287,40.119666,-82.01287,40.119666",
-    "geom:latitude":40.119666,
-    "geom:longitude":-82.01287,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21 W 9th St",
-    "sg:city":"Dresden",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "21 W 9th St Dresden OH 43821",
+    "addr:housenumber": "21",
+    "addr:postcode": "43821",
+    "addr:street": "W 9Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.012870,40.119666,-82.012870,40.119666",
+    "geom:latitude": 40.119666,
+    "geom:longitude": -82.01287,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21 W 9th St",
+    "sg:city": "Dresden",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 754 1332",
-    "sg:postcode":"43821",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 754 1332",
+    "sg:postcode": "43821",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ZmLkhjPfZYnjy7876i8DR_40.119666_-82.012870@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ZmLkhjPfZYnjy7876i8DR_40.119666_-82.012870@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796589,
-    "wof:geomhash":"02d4137f7892f8bf862cae7e7a09e2a4",
-    "wof:hierarchy":[],
-    "wof:id":706132795,
-    "wof:lastmodified":1472639324,
-    "wof:name":"Dresden Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461796589,
+    "wof:geomhash": "44838add17208903d2f27bfc9f4a1641",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706132795
+      }
+    ],
+    "wof:id": 706132795,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Dresden Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.01287,
     40.119666,
     -82.01287,
     40.119666
-],
-  "geometry": {"coordinates":[-82.01287000000001,40.119666],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.01287,40.119666],"type":"Point"}
 }

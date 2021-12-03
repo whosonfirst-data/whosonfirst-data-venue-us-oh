@@ -2,61 +2,65 @@
   "id": 705934649,
   "type": "Feature",
   "properties": {
-    "addr:full":"3838 Columbus Rd Granville OH 43023",
-    "addr:housenumber":"3838",
-    "addr:postcode":"43023",
-    "addr:street":"Columbus Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.569311,40.04369,-82.569311,40.04369",
-    "geom:latitude":40.04369,
-    "geom:longitude":-82.569311,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3838 Columbus Rd",
-    "sg:city":"Granville",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Detective & Security Services",
-            "type":"Services"
-        }
+    "addr:full": "3838 Columbus Rd Granville OH 43023",
+    "addr:housenumber": "3838",
+    "addr:postcode": "43023",
+    "addr:street": "Columbus Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.569311,40.043690,-82.569311,40.043690",
+    "geom:latitude": 40.04369,
+    "geom:longitude": -82.569311,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3838 Columbus Rd",
+    "sg:city": "Granville",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Detective \u0026 Security Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 587 2715",
-    "sg:postcode":"43023",
-    "sg:province":"OH",
-    "sg:tags":[
-        "agency"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 587 2715",
+    "sg:postcode": "43023",
+    "sg:province": "OH",
+    "sg:tags": [
+      "agency"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6pUM04In9nVde49EbI3QAR_40.043690_-82.569311@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6pUM04In9nVde49EbI3QAR_40.043690_-82.569311@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792172,
-    "wof:geomhash":"454f3ad572eeaef796f893b0e32f6fe8",
-    "wof:hierarchy":[],
-    "wof:id":705934649,
-    "wof:lastmodified":1472639667,
-    "wof:name":"Legend Investigations",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "agency"
+    "wof:country": "US",
+    "wof:created": 1461792172,
+    "wof:geomhash": "a5deca3931df284edcc6fb36ff36c139",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705934649
+      }
+    ],
+    "wof:id": 705934649,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Legend Investigations",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "agency"
     ]
-},
+  },
   "bbox": [
     -82.569311,
     40.04369,
     -82.569311,
     40.04369
-],
+  ],
   "geometry": {"coordinates":[-82.569311,40.04369],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689499677,
   "type": "Feature",
   "properties": {
-    "addr:full":"157 S Pine St Lima OH 45801",
-    "addr:housenumber":"157",
-    "addr:postcode":"45801",
-    "addr:street":"S Pine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.098909,40.738897,-84.098909,40.738897",
-    "geom:latitude":40.738897,
-    "geom:longitude":-84.098909,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"157 S Pine St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "157 S Pine St Lima OH 45801",
+    "addr:housenumber": "157",
+    "addr:postcode": "45801",
+    "addr:street": "S Pine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.098909,40.738897,-84.098909,40.738897",
+    "geom:latitude": 40.738897,
+    "geom:longitude": -84.098909,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "157 S Pine St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 991 0555",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 991 0555",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_00F1lPlO8SJidT78gUHghH_40.738897_-84.098909@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_00F1lPlO8SJidT78gUHghH_40.738897_-84.098909@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773086,
-    "wof:geomhash":"44e5a3644b749ea7f35ac66153288c14",
-    "wof:hierarchy":[],
-    "wof:id":689499677,
-    "wof:lastmodified":1472638993,
-    "wof:name":"Watson Motor Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:country": "US",
+    "wof:created": 1461773086,
+    "wof:geomhash": "5718546d1f9d4f4637fb83dd20e4424b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689499677
+      }
+    ],
+    "wof:id": 689499677,
+    "wof:lastmodified": 1638566944,
+    "wof:name": "Watson Motor Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -84.098909,
     40.738897,
     -84.098909,
     40.738897
-],
-  "geometry": {"coordinates":[-84.09890900000001,40.738897],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.098909,40.738897],"type":"Point"}
 }

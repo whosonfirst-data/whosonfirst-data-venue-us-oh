@@ -2,61 +2,65 @@
   "id": 706159977,
   "type": "Feature",
   "properties": {
-    "addr:full":"416 S Jackson St New Lexington OH 43764",
-    "addr:housenumber":"416",
-    "addr:postcode":"43764",
-    "addr:street":"S Jackson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.204832,39.712292,-82.204832,39.712292",
-    "geom:latitude":39.712292,
-    "geom:longitude":-82.204832,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"416 S Jackson St",
-    "sg:city":"New Lexington",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "416 S Jackson St New Lexington OH 43764",
+    "addr:housenumber": "416",
+    "addr:postcode": "43764",
+    "addr:street": "S Jackson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.204832,39.712292,-82.204832,39.712292",
+    "geom:latitude": 39.712292,
+    "geom:longitude": -82.204832,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "416 S Jackson St",
+    "sg:city": "New Lexington",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 342 5215",
-    "sg:postcode":"43764",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 342 5215",
+    "sg:postcode": "43764",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5YqNcUFE41Afj0vM0KNcer_39.712292_-82.204832@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5YqNcUFE41Afj0vM0KNcer_39.712292_-82.204832@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797208,
-    "wof:geomhash":"cb6b3bd711c723d7a8ff05b3ce153cc4",
-    "wof:hierarchy":[],
-    "wof:id":706159977,
-    "wof:lastmodified":1472639423,
-    "wof:name":"Assembly Of God New Lexington",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461797208,
+    "wof:geomhash": "d3459352aa35a244cec0938c851d361d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706159977
+      }
+    ],
+    "wof:id": 706159977,
+    "wof:lastmodified": 1638567021,
+    "wof:name": "Assembly Of God New Lexington",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.204832,
     39.712292,
     -82.204832,
     39.712292
-],
+  ],
   "geometry": {"coordinates":[-82.204832,39.712292],"type":"Point"}
 }

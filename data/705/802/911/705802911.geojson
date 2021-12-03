@@ -2,61 +2,65 @@
   "id": 705802911,
   "type": "Feature",
   "properties": {
-    "addr:full":"3509 Linden Ave Dayton OH 45410",
-    "addr:housenumber":"3509",
-    "addr:postcode":"45410",
-    "addr:street":"Linden Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.132688,39.747765,-84.132688,39.747765",
-    "geom:latitude":39.747765,
-    "geom:longitude":-84.132688,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3509 Linden Ave",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3509 Linden Ave Dayton OH 45410",
+    "addr:housenumber": "3509",
+    "addr:postcode": "45410",
+    "addr:street": "Linden Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.132688,39.747765,-84.132688,39.747765",
+    "geom:latitude": 39.747765,
+    "geom:longitude": -84.132688,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3509 Linden Ave",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 254 8431",
-    "sg:postcode":"45410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 254 8431",
+    "sg:postcode": "45410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0P0cPznLtbwP9PmLo7kuGJ_39.747765_-84.132688@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0P0cPznLtbwP9PmLo7kuGJ_39.747765_-84.132688@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789081,
-    "wof:geomhash":"3665a058955d5e8bae5b6fcb949cf17f",
-    "wof:hierarchy":[],
-    "wof:id":705802911,
-    "wof:lastmodified":1472639301,
-    "wof:name":"Hasty Tasty Pancake House",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461789081,
+    "wof:geomhash": "ec2851b6d2b3eaeadd61ebc75551fb83",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705802911
+      }
+    ],
+    "wof:id": 705802911,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "Hasty Tasty Pancake House",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.132688,
     39.747765,
     -84.132688,
     39.747765
-],
+  ],
   "geometry": {"coordinates":[-84.132688,39.747765],"type":"Point"}
 }

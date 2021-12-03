@@ -2,61 +2,65 @@
   "id": 705877795,
   "type": "Feature",
   "properties": {
-    "addr:full":"7979 S Suburban Rd Dayton OH 45458",
-    "addr:housenumber":"7979",
-    "addr:postcode":"45458",
-    "addr:street":"S Suburban Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.141379,39.624851,-84.141379,39.624851",
-    "geom:latitude":39.624851,
-    "geom:longitude":-84.141379,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7979 S Suburban Rd",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "7979 S Suburban Rd Dayton OH 45458",
+    "addr:housenumber": "7979",
+    "addr:postcode": "45458",
+    "addr:street": "S Suburban Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.141379,39.624851,-84.141379,39.624851",
+    "geom:latitude": 39.624851,
+    "geom:longitude": -84.141379,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7979 S Suburban Rd",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 438 9700",
-    "sg:postcode":"45458",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 438 9700",
+    "sg:postcode": "45458",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_35H7SeL3rAQBgnWlCbInwq_39.624851_-84.141379@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_35H7SeL3rAQBgnWlCbInwq_39.624851_-84.141379@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790879,
-    "wof:geomhash":"da5640deb829744593a2a3377a52df54",
-    "wof:hierarchy":[],
-    "wof:id":705877795,
-    "wof:lastmodified":1472639511,
-    "wof:name":"Suburban Auto Recovery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1461790879,
+    "wof:geomhash": "c224d794be23c246a414bb5da0951bd7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705877795
+      }
+    ],
+    "wof:id": 705877795,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Suburban Auto Recovery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -84.141379,
     39.624851,
     -84.141379,
     39.624851
-],
+  ],
   "geometry": {"coordinates":[-84.141379,39.624851],"type":"Point"}
 }

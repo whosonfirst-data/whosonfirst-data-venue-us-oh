@@ -2,65 +2,69 @@
   "id": 689525501,
   "type": "Feature",
   "properties": {
-    "addr:full":"3195 Killington Ln Cincinnati OH 45244",
-    "addr:housenumber":"3195",
-    "addr:postcode":"45244",
-    "addr:street":"Killington Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.325,39.11522,-84.325,39.11522",
-    "geom:latitude":39.11522,
-    "geom:longitude":-84.325,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3195 Killington Ln",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "3195 Killington Ln Cincinnati OH 45244",
+    "addr:housenumber": "3195",
+    "addr:postcode": "45244",
+    "addr:street": "Killington Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.325000,39.115220,-84.325000,39.115220",
+    "geom:latitude": 39.11522,
+    "geom:longitude": -84.325,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3195 Killington Ln",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 233 9300",
-    "sg:postcode":"45244",
-    "sg:province":"OH",
-    "sg:tags":[
-        "organization",
-        "medical",
-        "surgical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 233 9300",
+    "sg:postcode": "45244",
+    "sg:province": "OH",
+    "sg:tags": [
+      "organization",
+      "medical",
+      "surgical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4nm6T5foKlfYI89RThLgkh_39.115220_-84.325000@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4nm6T5foKlfYI89RThLgkh_39.115220_-84.325000@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773940,
-    "wof:geomhash":"5ca56fb2a61a616345bdc3965a10bbb4",
-    "wof:hierarchy":[],
-    "wof:id":689525501,
-    "wof:lastmodified":1472639163,
-    "wof:name":"Medresources",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "organization",
-        "medical",
-        "surgical"
+    "wof:country": "US",
+    "wof:created": 1461773940,
+    "wof:geomhash": "8e28db86959b6d82636f96efe597a07a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689525501
+      }
+    ],
+    "wof:id": 689525501,
+    "wof:lastmodified": 1638566966,
+    "wof:name": "Medresources",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organization",
+      "medical",
+      "surgical"
     ]
-},
+  },
   "bbox": [
     -84.325,
     39.11522,
     -84.325,
     39.11522
-],
+  ],
   "geometry": {"coordinates":[-84.325,39.11522],"type":"Point"}
 }

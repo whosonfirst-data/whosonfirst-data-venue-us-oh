@@ -2,69 +2,73 @@
   "id": 706606113,
   "type": "Feature",
   "properties": {
-    "addr:full":"8602 Garfield Blvd Cleveland OH 44125",
-    "addr:housenumber":"8602",
-    "addr:postcode":"44125",
-    "addr:street":"Garfield Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.624616,41.429235,-81.624616,41.429235",
-    "geom:latitude":41.429235,
-    "geom:longitude":-81.624616,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8602 Garfield Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "8602 Garfield Blvd Cleveland OH 44125",
+    "addr:housenumber": "8602",
+    "addr:postcode": "44125",
+    "addr:street": "Garfield Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.624616,41.429235,-81.624616,41.429235",
+    "geom:latitude": 41.429235,
+    "geom:longitude": -81.624616,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8602 Garfield Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 441 2042",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "tavern",
-        "inn"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 441 2042",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "tavern",
+      "inn"
     ],
-    "sg:website":"http://www.ventureinngarfield.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3nNkCatabSSrz7CYSkmoKG_41.429235_-81.624616@1303262755"
+    "sg:website": "http://www.ventureinngarfield.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3nNkCatabSSrz7CYSkmoKG_41.429235_-81.624616@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806854,
-    "wof:geomhash":"8f060964b82e36c4e62daa4494f97c2b",
-    "wof:hierarchy":[],
-    "wof:id":706606113,
-    "wof:lastmodified":1472640215,
-    "wof:name":"Venture Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tavern",
-        "inn"
+    "wof:country": "US",
+    "wof:created": 1461806854,
+    "wof:geomhash": "218bac6efd33150ade756e0794c5e3f4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706606113
+      }
+    ],
+    "wof:id": 706606113,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Venture Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tavern",
+      "inn"
     ]
-},
+  },
   "bbox": [
     -81.624616,
     41.429235,
     -81.624616,
     41.429235
-],
+  ],
   "geometry": {"coordinates":[-81.624616,41.429235],"type":"Point"}
 }

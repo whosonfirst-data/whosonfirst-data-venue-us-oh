@@ -2,63 +2,67 @@
   "id": 689550549,
   "type": "Feature",
   "properties": {
-    "addr:full":"1545 Galena Pike West Portsmouth OH 45663",
-    "addr:housenumber":"1545",
-    "addr:postcode":"45663",
-    "addr:street":"Galena Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.025249,38.754134,-83.025249,38.754134",
-    "geom:latitude":38.754134,
-    "geom:longitude":-83.025249,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1545 Galena Pike",
-    "sg:city":"West Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1545 Galena Pike West Portsmouth OH 45663",
+    "addr:housenumber": "1545",
+    "addr:postcode": "45663",
+    "addr:street": "Galena Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.025249,38.754134,-83.025249,38.754134",
+    "geom:latitude": 38.754134,
+    "geom:longitude": -83.025249,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1545 Galena Pike",
+    "sg:city": "West Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 858 4289",
-    "sg:postcode":"45663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 858 4289",
+    "sg:postcode": "45663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6eAs1oksQ2o1cRAPGeU6Pn_38.754134_-83.025249@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6eAs1oksQ2o1cRAPGeU6Pn_38.754134_-83.025249@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774728,
-    "wof:geomhash":"c5b27505b50747d084b2b295ad7b131a",
-    "wof:hierarchy":[],
-    "wof:id":689550549,
-    "wof:lastmodified":1472639248,
-    "wof:name":"Thomas K Swope DO",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461774728,
+    "wof:geomhash": "9f4ba65f8cbfbf223f7c73b42402a833",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689550549
+      }
+    ],
+    "wof:id": 689550549,
+    "wof:lastmodified": 1638566981,
+    "wof:name": "Thomas K Swope DO",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.025249,
     38.754134,
     -83.025249,
     38.754134
-],
+  ],
   "geometry": {"coordinates":[-83.025249,38.754134],"type":"Point"}
 }

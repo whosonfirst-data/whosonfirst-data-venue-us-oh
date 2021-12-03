@@ -2,68 +2,72 @@
   "id": 706555793,
   "type": "Feature",
   "properties": {
-    "addr:full":"2351 E Wheeling Ave Cambridge OH 43725",
-    "addr:housenumber":"2351",
-    "addr:postcode":"43725",
-    "addr:street":"E Wheeling Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.565123,40.028083,-81.565123,40.028083",
-    "geom:latitude":40.028083,
-    "geom:longitude":-81.565123,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2351 E Wheeling Ave",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2351 E Wheeling Ave Cambridge OH 43725",
+    "addr:housenumber": "2351",
+    "addr:postcode": "43725",
+    "addr:street": "E Wheeling Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.565123,40.028083,-81.565123,40.028083",
+    "geom:latitude": 40.028083,
+    "geom:longitude": -81.565123,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2351 E Wheeling Ave",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/cambridge/195092-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43725",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/cambridge/195092-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43725",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3v4iyG5nGRI9IfyupYr3Kt_40.028083_-81.565123@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3v4iyG5nGRI9IfyupYr3Kt_40.028083_-81.565123@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805767,
-    "wof:geomhash":"e24a3fcd7166246664ec610d429864b6",
-    "wof:hierarchy":[],
-    "wof:id":706555793,
-    "wof:lastmodified":1512142843,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420534843,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        169818065
+    "wof:country": "US",
+    "wof:created": 1461805767,
+    "wof:geomhash": "e24a3fcd7166246664ec610d429864b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706555793
+      }
     ],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 706555793,
+    "wof:lastmodified": 1638567137,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420534843,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      169818065
+    ],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -81.565123,
     40.028083,
     -81.565123,
     40.028083
-],
+  ],
   "geometry": {"coordinates":[-81.565123,40.028083],"type":"Point"}
 }

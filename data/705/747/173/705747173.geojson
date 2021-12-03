@@ -2,61 +2,65 @@
   "id": 705747173,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 E Main St Richmond OH 43944",
-    "addr:housenumber":"311",
-    "addr:postcode":"43944",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.767319,40.431431,-80.767319,40.431431",
-    "geom:latitude":40.431431,
-    "geom:longitude":-80.767319,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"311 E Main St",
-    "sg:city":"Richmond",
-    "sg:classifiers":[
-        {
-            "category":"Mining & Drilling",
-            "subcategory":"",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "311 E Main St Richmond OH 43944",
+    "addr:housenumber": "311",
+    "addr:postcode": "43944",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.767319,40.431431,-80.767319,40.431431",
+    "geom:latitude": 40.431431,
+    "geom:longitude": -80.767319,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "311 E Main St",
+    "sg:city": "Richmond",
+    "sg:classifiers": [
+      {
+        "category": "Mining \u0026 Drilling",
+        "subcategory": "",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 765 4185",
-    "sg:postcode":"43944",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 765 4185",
+    "sg:postcode": "43944",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0npVCY8TfrmBb4jSlLx404_40.431431_-80.767319@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0npVCY8TfrmBb4jSlLx404_40.431431_-80.767319@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787794,
-    "wof:geomhash":"7e8531d55fa9e12b75872ef0463cf8a1",
-    "wof:hierarchy":[],
-    "wof:id":705747173,
-    "wof:lastmodified":1472639161,
-    "wof:name":"Anthony Mining Inc",
-    "wof:parent_id":420534923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company"
+    "wof:country": "US",
+    "wof:created": 1461787794,
+    "wof:geomhash": "6e8b19ea409d003f82e55fb5ecb62a52",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705747173
+      }
+    ],
+    "wof:id": 705747173,
+    "wof:lastmodified": 1638566961,
+    "wof:name": "Anthony Mining Inc",
+    "wof:parent_id": 420534923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company"
     ]
-},
+  },
   "bbox": [
     -80.767319,
     40.431431,
     -80.767319,
     40.431431
-],
+  ],
   "geometry": {"coordinates":[-80.767319,40.431431],"type":"Point"}
 }

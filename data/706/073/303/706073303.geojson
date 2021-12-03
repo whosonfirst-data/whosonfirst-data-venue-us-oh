@@ -2,61 +2,65 @@
   "id": 706073303,
   "type": "Feature",
   "properties": {
-    "addr:full":"581 S Main St Mansfield OH 44907",
-    "addr:housenumber":"581",
-    "addr:postcode":"44907",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.5158,40.742792,-82.5158,40.742792",
-    "geom:latitude":40.742792,
-    "geom:longitude":-82.5158,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"581 S Main St",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "581 S Main St Mansfield OH 44907",
+    "addr:housenumber": "581",
+    "addr:postcode": "44907",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.515800,40.742792,-82.515800,40.742792",
+    "geom:latitude": 40.742792,
+    "geom:longitude": -82.5158,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "581 S Main St",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 526 4212",
-    "sg:postcode":"44907",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 526 4212",
+    "sg:postcode": "44907",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_30d9AUxySJVHoMTfucuLkG_40.742792_-82.515800@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_30d9AUxySJVHoMTfucuLkG_40.742792_-82.515800@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795101,
-    "wof:geomhash":"d80ff72c40317799c632012cbeaecbd7",
-    "wof:hierarchy":[],
-    "wof:id":706073303,
-    "wof:lastmodified":1472639152,
-    "wof:name":"South Main Street Animal Hosp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461795101,
+    "wof:geomhash": "d2296b8ab5123fa7511f60be899136f9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706073303
+      }
+    ],
+    "wof:id": 706073303,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "South Main Street Animal Hosp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -82.5158,
     40.742792,
     -82.5158,
     40.742792
-],
+  ],
   "geometry": {"coordinates":[-82.5158,40.742792],"type":"Point"}
 }

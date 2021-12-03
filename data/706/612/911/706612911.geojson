@@ -2,61 +2,65 @@
   "id": 706612911,
   "type": "Feature",
   "properties": {
-    "addr:full":"7774 Darrow Rd Hudson OH 44236",
-    "addr:housenumber":"7774",
-    "addr:postcode":"44236",
-    "addr:street":"Darrow Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.440512,41.277515,-81.440512,41.277515",
-    "geom:latitude":41.277515,
-    "geom:longitude":-81.440512,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7774 Darrow Rd",
-    "sg:city":"Hudson",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7774 Darrow Rd Hudson OH 44236",
+    "addr:housenumber": "7774",
+    "addr:postcode": "44236",
+    "addr:street": "Darrow Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.440512,41.277515,-81.440512,41.277515",
+    "geom:latitude": 41.277515,
+    "geom:longitude": -81.440512,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7774 Darrow Rd",
+    "sg:city": "Hudson",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 650 1121",
-    "sg:postcode":"44236",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mexican"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 650 1121",
+    "sg:postcode": "44236",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ZeXN8ACTWdcbJci1toJA0_41.277515_-81.440512@1303262755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ZeXN8ACTWdcbJci1toJA0_41.277515_-81.440512@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806983,
-    "wof:geomhash":"4893a8b9df26d56ddfa0375e38c5ebd8",
-    "wof:hierarchy":[],
-    "wof:id":706612911,
-    "wof:lastmodified":1472640237,
-    "wof:name":"Marcelita's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461806983,
+    "wof:geomhash": "4de2d737a71a85e3df8884c915840fe9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706612911
+      }
+    ],
+    "wof:id": 706612911,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Marcelita's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -81.440512,
     41.277515,
     -81.440512,
     41.277515
-],
+  ],
   "geometry": {"coordinates":[-81.440512,41.277515],"type":"Point"}
 }

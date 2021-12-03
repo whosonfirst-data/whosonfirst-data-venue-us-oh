@@ -2,65 +2,69 @@
   "id": 705803117,
   "type": "Feature",
   "properties": {
-    "addr:full":"2454 E High Ave New Philadelphia OH 44663",
-    "addr:housenumber":"2454",
-    "addr:postcode":"44663",
-    "addr:street":"E High Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.405771,40.460604,-81.405771,40.460604",
-    "geom:latitude":40.460604,
-    "geom:longitude":-81.405771,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2454 E High Ave",
-    "sg:city":"New Philadelphia",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "2454 E High Ave New Philadelphia OH 44663",
+    "addr:housenumber": "2454",
+    "addr:postcode": "44663",
+    "addr:street": "E High Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.405771,40.460604,-81.405771,40.460604",
+    "geom:latitude": 40.460604,
+    "geom:longitude": -81.405771,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2454 E High Ave",
+    "sg:city": "New Philadelphia",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 339 1103",
-    "sg:postcode":"44663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "state",
-        "patrol",
-        "highway"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 339 1103",
+    "sg:postcode": "44663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "state",
+      "patrol",
+      "highway"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76vgWHXkU0lldK4Kz5IvhP_40.460604_-81.405771@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_76vgWHXkU0lldK4Kz5IvhP_40.460604_-81.405771@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789089,
-    "wof:geomhash":"1e960b18001eac38bdd8699742c2cfde",
-    "wof:hierarchy":[],
-    "wof:id":705803117,
-    "wof:lastmodified":1472639272,
-    "wof:name":"New Philadelphia Patrol Post",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "state",
-        "patrol",
-        "highway"
+    "wof:country": "US",
+    "wof:created": 1461789089,
+    "wof:geomhash": "e2440fd3170d02a0363353e0cac614de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705803117
+      }
+    ],
+    "wof:id": 705803117,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "New Philadelphia Patrol Post",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "state",
+      "patrol",
+      "highway"
     ]
-},
+  },
   "bbox": [
     -81.405771,
     40.460604,
     -81.405771,
     40.460604
-],
+  ],
   "geometry": {"coordinates":[-81.405771,40.460604],"type":"Point"}
 }

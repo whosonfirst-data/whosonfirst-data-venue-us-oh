@@ -2,68 +2,72 @@
   "id": 706614709,
   "type": "Feature",
   "properties": {
-    "addr:full":"3500 Parkway Dr Brookfield OH 44403",
-    "addr:housenumber":"3500",
-    "addr:postcode":"44403",
-    "addr:street":"Parkway Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.586036,41.220989,-80.586036,41.220989",
-    "geom:latitude":41.220989,
-    "geom:longitude":-80.586036,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3500 Parkway Dr",
-    "sg:city":"Brookfield",
-    "sg:classifiers":[
-        {
-            "category":"Transit Center",
-            "subcategory":"Freight",
-            "type":"Transportation"
-        },
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3500 Parkway Dr Brookfield OH 44403",
+    "addr:housenumber": "3500",
+    "addr:postcode": "44403",
+    "addr:street": "Parkway Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.586036,41.220989,-80.586036,41.220989",
+    "geom:latitude": 41.220989,
+    "geom:longitude": -80.586036,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3500 Parkway Dr",
+    "sg:city": "Brookfield",
+    "sg:classifiers": [
+      {
+        "category": "Transit Center",
+        "subcategory": "Freight",
+        "type": "Transportation"
+      },
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 448 4046",
-    "sg:postcode":"44403",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking-motor",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 448 4046",
+    "sg:postcode": "44403",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking-motor",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6VR0H1ZpHUdxIvZTyZFOIm_41.220989_-80.586036@1303262756"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6VR0H1ZpHUdxIvZTyZFOIm_41.220989_-80.586036@1303262756"
     },
-    "wof:country":"US",
-    "wof:created":1461807039,
-    "wof:geomhash":"8988f842d039de3ffe9e67f12a68bd7d",
-    "wof:hierarchy":[],
-    "wof:id":706614709,
-    "wof:lastmodified":1472640236,
-    "wof:name":"Strimbu Trucking",
-    "wof:parent_id":420535301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking-motor",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461807039,
+    "wof:geomhash": "489a00509d6b794e7b96bb9072bd4ef2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706614709
+      }
+    ],
+    "wof:id": 706614709,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Strimbu Trucking",
+    "wof:parent_id": 420535301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking-motor",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.586036,
     41.220989,
     -80.586036,
     41.220989
-],
-  "geometry": {"coordinates":[-80.58603599999999,41.220989],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.586036,41.220989],"type":"Point"}
 }

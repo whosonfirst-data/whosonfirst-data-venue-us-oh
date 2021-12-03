@@ -2,61 +2,65 @@
   "id": 706066613,
   "type": "Feature",
   "properties": {
-    "addr:full":"324 High St Hopedale OH 43976",
-    "addr:housenumber":"324",
-    "addr:postcode":"43976",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.898579,40.323747,-80.898579,40.323747",
-    "geom:latitude":40.323747,
-    "geom:longitude":-80.898579,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"324 High St",
-    "sg:city":"Hopedale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "324 High St Hopedale OH 43976",
+    "addr:housenumber": "324",
+    "addr:postcode": "43976",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.898579,40.323747,-80.898579,40.323747",
+    "geom:latitude": 40.323747,
+    "geom:longitude": -80.898579,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "324 High St",
+    "sg:city": "Hopedale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 937 2461",
-    "sg:postcode":"43976",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 937 2461",
+    "sg:postcode": "43976",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4wjULPMzGIkTJhk1hmWDFy_40.323747_-80.898579@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4wjULPMzGIkTJhk1hmWDFy_40.323747_-80.898579@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794957,
-    "wof:geomhash":"beff6d9db85f13171eeb1b5e92da8884",
-    "wof:hierarchy":[],
-    "wof:id":706066613,
-    "wof:lastmodified":1472639189,
-    "wof:name":"Blackburn Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461794957,
+    "wof:geomhash": "8301b1274f0eb1bbffd07753111caab7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706066613
+      }
+    ],
+    "wof:id": 706066613,
+    "wof:lastmodified": 1638566976,
+    "wof:name": "Blackburn Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -80.898579,
     40.323747,
     -80.898579,
     40.323747
-],
+  ],
   "geometry": {"coordinates":[-80.898579,40.323747],"type":"Point"}
 }

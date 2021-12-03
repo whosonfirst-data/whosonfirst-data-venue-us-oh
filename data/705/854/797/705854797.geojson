@@ -2,61 +2,65 @@
   "id": 705854797,
   "type": "Feature",
   "properties": {
-    "addr:full":"7150 Cincinnati Dayton Rd Liberty Twp OH 45069",
-    "addr:housenumber":"7150",
-    "addr:postcode":"45069",
-    "addr:street":"Cincinnati Dayton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.383731,39.37175,-84.383731,39.37175",
-    "geom:latitude":39.37175,
-    "geom:longitude":-84.383731,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7150 Cincinnati Dayton Rd",
-    "sg:city":"Liberty Twp",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "7150 Cincinnati Dayton Rd Liberty Twp OH 45069",
+    "addr:housenumber": "7150",
+    "addr:postcode": "45069",
+    "addr:street": "Cincinnati Dayton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.383731,39.371750,-84.383731,39.371750",
+    "geom:latitude": 39.37175,
+    "geom:longitude": -84.383731,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7150 Cincinnati Dayton Rd",
+    "sg:city": "Liberty Twp",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 755 7000",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 755 7000",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ueDauQlTGKoJ3oZvettFJ_39.371750_-84.383731@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ueDauQlTGKoJ3oZvettFJ_39.371750_-84.383731@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790298,
-    "wof:geomhash":"c6bc108c9afc56d94197a4301532bdbf",
-    "wof:hierarchy":[],
-    "wof:id":705854797,
-    "wof:lastmodified":1472639437,
-    "wof:name":"American Store N Lock",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461790298,
+    "wof:geomhash": "39427f12899d0bf449cfb50e08455977",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705854797
+      }
+    ],
+    "wof:id": 705854797,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "American Store N Lock",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "storage"
     ]
-},
+  },
   "bbox": [
     -84.383731,
     39.37175,
     -84.383731,
     39.37175
-],
+  ],
   "geometry": {"coordinates":[-84.383731,39.37175],"type":"Point"}
 }

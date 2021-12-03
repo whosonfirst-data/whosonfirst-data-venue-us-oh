@@ -2,63 +2,67 @@
   "id": 706277919,
   "type": "Feature",
   "properties": {
-    "addr:full":"1245 Glen Dr Millersburg OH 44654",
-    "addr:housenumber":"1245",
-    "addr:postcode":"44654",
-    "addr:street":"Glen Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.916186,40.541271,-81.916186,40.541271",
-    "geom:latitude":40.541271,
-    "geom:longitude":-81.916186,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1245 Glen Dr",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1245 Glen Dr Millersburg OH 44654",
+    "addr:housenumber": "1245",
+    "addr:postcode": "44654",
+    "addr:street": "Glen Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.916186,40.541271,-81.916186,40.541271",
+    "geom:latitude": 40.541271,
+    "geom:longitude": -81.916186,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1245 Glen Dr",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 264 9699",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 264 9699",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3cuLuWN9RO5ewwpLbCtRYq_40.541271_-81.916186@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3cuLuWN9RO5ewwpLbCtRYq_40.541271_-81.916186@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799804,
-    "wof:geomhash":"3a874c1032000972115570e0d1fff92d",
-    "wof:hierarchy":[],
-    "wof:id":706277919,
-    "wof:lastmodified":1472639641,
-    "wof:name":"Wooster Ear Nose & Throat Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461799804,
+    "wof:geomhash": "f59fa7ebcff59957e86ff66fa72ca392",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706277919
+      }
+    ],
+    "wof:id": 706277919,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Wooster Ear Nose \u0026 Throat Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.916186,
     40.541271,
     -81.916186,
     40.541271
-],
+  ],
   "geometry": {"coordinates":[-81.916186,40.541271],"type":"Point"}
 }

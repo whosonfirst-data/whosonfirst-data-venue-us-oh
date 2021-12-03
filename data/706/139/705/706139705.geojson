@@ -2,62 +2,66 @@
   "id": 706139705,
   "type": "Feature",
   "properties": {
-    "addr:full":"1637 Hansen Ave Columbus OH 43224",
-    "addr:housenumber":"1637",
-    "addr:postcode":"43224",
-    "addr:street":"Hansen Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.971287,40.044088,-82.971287,40.044088",
-    "geom:latitude":40.044088,
-    "geom:longitude":-82.971287,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1637 Hansen Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1637 Hansen Ave Columbus OH 43224",
+    "addr:housenumber": "1637",
+    "addr:postcode": "43224",
+    "addr:street": "Hansen Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.971287,40.044088,-82.971287,40.044088",
+    "geom:latitude": 40.044088,
+    "geom:longitude": -82.971287,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1637 Hansen Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 261 9902",
-    "sg:postcode":"43224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 261 9902",
+    "sg:postcode": "43224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_07zzOfyd8pWY58y8B1L4If_40.044088_-82.971287@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_07zzOfyd8pWY58y8B1L4If_40.044088_-82.971287@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796754,
-    "wof:geomhash":"3970ad9774bbc5feba10de66bad05e12",
-    "wof:hierarchy":[],
-    "wof:id":706139705,
-    "wof:lastmodified":1491926696,
-    "wof:name":"B and B",
-    "wof:parent_id":85811437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461796754,
+    "wof:geomhash": "811310960e3427821b1e61cd49c8ae25",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706139705
+      }
+    ],
+    "wof:id": 706139705,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "B and B",
+    "wof:parent_id": 85811437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.971287,
     40.044088,
     -82.971287,
     40.044088
-],
+  ],
   "geometry": {"coordinates":[-82.971287,40.044088],"type":"Point"}
 }

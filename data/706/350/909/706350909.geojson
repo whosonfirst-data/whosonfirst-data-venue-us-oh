@@ -2,65 +2,69 @@
   "id": 706350909,
   "type": "Feature",
   "properties": {
-    "addr:full":"14900 Co Rd H Wauseon OH 43567",
-    "addr:housenumber":"14900",
-    "addr:postcode":"43567",
-    "addr:street":"Co Rd H",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.153831,41.587576,-84.153831,41.587576",
-    "geom:latitude":41.587576,
-    "geom:longitude":-84.153831,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14900 Co Rd H",
-    "sg:city":"Wauseon",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "14900 Co Rd H Wauseon OH 43567",
+    "addr:housenumber": "14900",
+    "addr:postcode": "43567",
+    "addr:street": "Co Rd H",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.153831,41.587576,-84.153831,41.587576",
+    "geom:latitude": 41.587576,
+    "geom:longitude": -84.153831,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14900 Co Rd H",
+    "sg:city": "Wauseon",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 335 2458",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:tags":[
-        "terminal",
-        "truck",
-        "facility"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 335 2458",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:tags": [
+      "terminal",
+      "truck",
+      "facility"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5iuZYuxtaLUNoBQXN3ADyQ_41.587576_-84.153831@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5iuZYuxtaLUNoBQXN3ADyQ_41.587576_-84.153831@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801424,
-    "wof:geomhash":"c4e48803b4e71aaaf6924070934a5f45",
-    "wof:hierarchy":[],
-    "wof:id":706350909,
-    "wof:lastmodified":1472639878,
-    "wof:name":"Stone Pony Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "terminal",
-        "truck",
-        "facility"
+    "wof:country": "US",
+    "wof:created": 1461801424,
+    "wof:geomhash": "f51db5f9066b1cc5d42bf871798df549",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706350909
+      }
+    ],
+    "wof:id": 706350909,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Stone Pony Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "terminal",
+      "truck",
+      "facility"
     ]
-},
+  },
   "bbox": [
     -84.153831,
     41.587576,
     -84.153831,
     41.587576
-],
+  ],
   "geometry": {"coordinates":[-84.153831,41.587576],"type":"Point"}
 }

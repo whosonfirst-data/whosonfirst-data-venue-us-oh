@@ -2,61 +2,65 @@
   "id": 705744239,
   "type": "Feature",
   "properties": {
-    "addr:full":"5618 Dover Zoar Rd Dover OH 44622",
-    "addr:housenumber":"5618",
-    "addr:postcode":"44622",
-    "addr:street":"Dover Zoar Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.43325,40.563559,-81.43325,40.563559",
-    "geom:latitude":40.563559,
-    "geom:longitude":-81.43325,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5618 Dover Zoar Rd",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "5618 Dover Zoar Rd Dover OH 44622",
+    "addr:housenumber": "5618",
+    "addr:postcode": "44622",
+    "addr:street": "Dover Zoar Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.433250,40.563559,-81.433250,40.563559",
+    "geom:latitude": 40.563559,
+    "geom:longitude": -81.43325,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5618 Dover Zoar Rd",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 343 6665",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 343 6665",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5YY82KHM5QcaJ6LrsPE5Y4_40.563559_-81.433250@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5YY82KHM5QcaJ6LrsPE5Y4_40.563559_-81.433250@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787733,
-    "wof:geomhash":"3b3b0dcd6a1ecd8164d404f0a510e3c5",
-    "wof:hierarchy":[],
-    "wof:id":705744239,
-    "wof:lastmodified":1472639137,
-    "wof:name":"Baio's Studio",
-    "wof:parent_id":420535315,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461787733,
+    "wof:geomhash": "c4995e072aee2b1a08255bdf26572c06",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705744239
+      }
+    ],
+    "wof:id": 705744239,
+    "wof:lastmodified": 1638566959,
+    "wof:name": "Baio's Studio",
+    "wof:parent_id": 420535315,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -81.43325,
     40.563559,
     -81.43325,
     40.563559
-],
+  ],
   "geometry": {"coordinates":[-81.43325,40.563559],"type":"Point"}
 }

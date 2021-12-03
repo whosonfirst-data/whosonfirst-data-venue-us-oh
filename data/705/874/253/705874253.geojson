@@ -2,61 +2,65 @@
   "id": 705874253,
   "type": "Feature",
   "properties": {
-    "addr:full":"7 East Ave Monroe OH 45050",
-    "addr:housenumber":"7",
-    "addr:postcode":"45050",
-    "addr:street":"East Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.359908,39.444154,-84.359908,39.444154",
-    "geom:latitude":39.444154,
-    "geom:longitude":-84.359908,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7 East Ave",
-    "sg:city":"Monroe",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "7 East Ave Monroe OH 45050",
+    "addr:housenumber": "7",
+    "addr:postcode": "45050",
+    "addr:street": "East Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.359908,39.444154,-84.359908,39.444154",
+    "geom:latitude": 39.444154,
+    "geom:longitude": -84.359908,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7 East Ave",
+    "sg:city": "Monroe",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 539 9997",
-    "sg:postcode":"45050",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 539 9997",
+    "sg:postcode": "45050",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0LQPgI8qdL9XxqvIHclACd_39.444154_-84.359908@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0LQPgI8qdL9XxqvIHclACd_39.444154_-84.359908@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790793,
-    "wof:geomhash":"a462bcc69e925c68f4346d00379c2b8c",
-    "wof:hierarchy":[],
-    "wof:id":705874253,
-    "wof:lastmodified":1472639466,
-    "wof:name":"Monroe Dentistry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461790793,
+    "wof:geomhash": "8ce57407b2f09732912f9722ca50146f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705874253
+      }
+    ],
+    "wof:id": 705874253,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Monroe Dentistry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.359908,
     39.444154,
     -84.359908,
     39.444154
-],
+  ],
   "geometry": {"coordinates":[-84.359908,39.444154],"type":"Point"}
 }

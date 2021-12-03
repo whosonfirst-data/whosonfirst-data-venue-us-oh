@@ -2,61 +2,65 @@
   "id": 705711515,
   "type": "Feature",
   "properties": {
-    "addr:full":"6340 Rapid Run Rd Cincinnati OH 45233",
-    "addr:housenumber":"6340",
-    "addr:postcode":"45233",
-    "addr:street":"Rapid Run Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.661078,39.113336,-84.661078,39.113336",
-    "geom:latitude":39.113336,
-    "geom:longitude":-84.661078,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6340 Rapid Run Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "6340 Rapid Run Rd Cincinnati OH 45233",
+    "addr:housenumber": "6340",
+    "addr:postcode": "45233",
+    "addr:street": "Rapid Run Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.661078,39.113336,-84.661078,39.113336",
+    "geom:latitude": 39.113336,
+    "geom:longitude": -84.661078,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6340 Rapid Run Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 941 1463",
-    "sg:postcode":"45233",
-    "sg:province":"OH",
-    "sg:tags":[
-        "management"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 941 1463",
+    "sg:postcode": "45233",
+    "sg:province": "OH",
+    "sg:tags": [
+      "management"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4o5x4RPyf1oEv5lJhGOeah_39.113336_-84.661078@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4o5x4RPyf1oEv5lJhGOeah_39.113336_-84.661078@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786930,
-    "wof:geomhash":"97d0179064fc4858ba4556c69a5c5343",
-    "wof:hierarchy":[],
-    "wof:id":705711515,
-    "wof:lastmodified":1472638367,
-    "wof:name":"Granite Group",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "management"
+    "wof:country": "US",
+    "wof:created": 1461786930,
+    "wof:geomhash": "e606db3847593671009ead2a79253ec6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705711515
+      }
+    ],
+    "wof:id": 705711515,
+    "wof:lastmodified": 1638566928,
+    "wof:name": "Granite Group",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "management"
     ]
-},
+  },
   "bbox": [
     -84.661078,
     39.113336,
     -84.661078,
     39.113336
-],
+  ],
   "geometry": {"coordinates":[-84.661078,39.113336],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706343075,
   "type": "Feature",
   "properties": {
-    "addr:full":"112 N Main St Bluffton OH 45817",
-    "addr:housenumber":"112",
-    "addr:postcode":"45817",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.891507,40.89352,-83.891507,40.89352",
-    "geom:latitude":40.89352,
-    "geom:longitude":-83.891507,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"112 N Main St",
-    "sg:city":"Bluffton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "112 N Main St Bluffton OH 45817",
+    "addr:housenumber": "112",
+    "addr:postcode": "45817",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.891507,40.893520,-83.891507,40.893520",
+    "geom:latitude": 40.89352,
+    "geom:longitude": -83.891507,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "112 N Main St",
+    "sg:city": "Bluffton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 358 5806",
-    "sg:postcode":"45817",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 358 5806",
+    "sg:postcode": "45817",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7aaY5u1jV3pvNMinaj0SOF_40.893520_-83.891507@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7aaY5u1jV3pvNMinaj0SOF_40.893520_-83.891507@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801266,
-    "wof:geomhash":"d6f830dbe2275f0df7ecd8001e54d201",
-    "wof:hierarchy":[],
-    "wof:id":706343075,
-    "wof:lastmodified":1472639835,
-    "wof:name":"Bluffton Presbyterian Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461801266,
+    "wof:geomhash": "bc981c8d9f228a5439e9893afab4e56c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706343075
+      }
+    ],
+    "wof:id": 706343075,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Bluffton Presbyterian Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.891507,
     40.89352,
     -83.891507,
     40.89352
-],
+  ],
   "geometry": {"coordinates":[-83.891507,40.89352],"type":"Point"}
 }

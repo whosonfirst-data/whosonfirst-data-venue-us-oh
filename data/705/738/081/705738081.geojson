@@ -2,61 +2,65 @@
   "id": 705738081,
   "type": "Feature",
   "properties": {
-    "addr:full":"4080 State Rte 56 SE London OH 43140",
-    "addr:housenumber":"4080",
-    "addr:postcode":"43140",
-    "addr:street":"State Rte 56 Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.43482,39.877158,-83.43482,39.877158",
-    "geom:latitude":39.877158,
-    "geom:longitude":-83.43482,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4080 State Rte 56 SE",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "4080 State Rte 56 SE London OH 43140",
+    "addr:housenumber": "4080",
+    "addr:postcode": "43140",
+    "addr:street": "State Rte 56 Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.434820,39.877158,-83.434820,39.877158",
+    "geom:latitude": 39.877158,
+    "geom:longitude": -83.43482,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4080 State Rte 56 SE",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 0279",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 0279",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hsJBFZ686QdSnZJEoAz5h_39.877158_-83.434820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7hsJBFZ686QdSnZJEoAz5h_39.877158_-83.434820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787600,
-    "wof:geomhash":"7fe948b239d1967346aa40c5cb5ce5df",
-    "wof:hierarchy":[],
-    "wof:id":705738081,
-    "wof:lastmodified":1472638966,
-    "wof:name":"London Sewage Treatment Plant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461787600,
+    "wof:geomhash": "50ba1090a2ee41d766d3020dceb64fe5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705738081
+      }
+    ],
+    "wof:id": 705738081,
+    "wof:lastmodified": 1638566953,
+    "wof:name": "London Sewage Treatment Plant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -83.43482,
     39.877158,
     -83.43482,
     39.877158
-],
+  ],
   "geometry": {"coordinates":[-83.43482,39.877158],"type":"Point"}
 }

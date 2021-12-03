@@ -2,67 +2,71 @@
   "id": 706570293,
   "type": "Feature",
   "properties": {
-    "addr:full":"11111 N Shore Dr Hillsboro OH 45133",
-    "addr:housenumber":"11111",
-    "addr:postcode":"45133",
-    "addr:street":"N Shore Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.488738,39.196647,-83.488738,39.196647",
-    "geom:latitude":39.196647,
-    "geom:longitude":-83.488738,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"11111 N Shore Dr",
-    "sg:city":"Hillsboro",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11111 N Shore Dr Hillsboro OH 45133",
+    "addr:housenumber": "11111",
+    "addr:postcode": "45133",
+    "addr:street": "N Shore Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.488738,39.196647,-83.488738,39.196647",
+    "geom:latitude": 39.196647,
+    "geom:longitude": -83.488738,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "11111 N Shore Dr",
+    "sg:city": "Hillsboro",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/paint/134058-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 393 4803",
-    "sg:postcode":"45133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/paint/134058-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 393 4803",
+    "sg:postcode": "45133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Uld6E89B1y7fxTCIOF4TV_39.196647_-83.488738@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Uld6E89B1y7fxTCIOF4TV_39.196647_-83.488738@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806064,
-    "wof:geomhash":"20f74eff877ee66b33d96e8dd03e57c7",
-    "wof:hierarchy":[],
-    "wof:id":706570293,
-    "wof:lastmodified":1511322311,
-    "wof:name":"Subway",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806064,
+    "wof:geomhash": "20f74eff877ee66b33d96e8dd03e57c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706570293
+      }
+    ],
+    "wof:id": 706570293,
+    "wof:lastmodified": 1638567138,
+    "wof:name": "Subway",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -83.488738,
     39.196647,
     -83.488738,
     39.196647
-],
+  ],
   "geometry": {"coordinates":[-83.488738,39.196647],"type":"Point"}
 }

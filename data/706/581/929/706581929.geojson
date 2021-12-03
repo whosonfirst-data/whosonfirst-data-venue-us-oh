@@ -2,67 +2,71 @@
   "id": 706581929,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 N Main St Columbiana OH 44408",
-    "addr:housenumber":"15",
-    "addr:postcode":"44408",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.693546,40.888848,-80.693546,40.888848",
-    "geom:latitude":40.888848,
-    "geom:longitude":-80.693546,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"15 N Main St",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "15 N Main St Columbiana OH 44408",
+    "addr:housenumber": "15",
+    "addr:postcode": "44408",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.693546,40.888848,-80.693546,40.888848",
+    "geom:latitude": 40.888848,
+    "geom:longitude": -80.693546,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "15 N Main St",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/fairfield/134165-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 482 5083",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/fairfield/134165-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 482 5083",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3OSkfHQfhc8Y5Ler29A9A8_40.888941_-80.693698@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3OSkfHQfhc8Y5Ler29A9A8_40.888941_-80.693698@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806363,
-    "wof:geomhash":"7892d0b65e46f4835e55d227aa1d20b0",
-    "wof:hierarchy":[],
-    "wof:id":706581929,
-    "wof:lastmodified":1511322266,
-    "wof:name":"Subway",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806363,
+    "wof:geomhash": "7892d0b65e46f4835e55d227aa1d20b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706581929
+      }
+    ],
+    "wof:id": 706581929,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Subway",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -80.693546,
     40.888848,
     -80.693546,
     40.888848
-],
+  ],
   "geometry": {"coordinates":[-80.693546,40.888848],"type":"Point"}
 }

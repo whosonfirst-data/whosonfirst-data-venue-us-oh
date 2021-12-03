@@ -2,71 +2,75 @@
   "id": 706642093,
   "type": "Feature",
   "properties": {
-    "addr:full":"8451 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"8451",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.320092,39.072122,-84.320092,39.072122",
-    "geom:latitude":39.072122,
-    "geom:longitude":-84.320092,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8451 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "8451 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "8451",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.320092,39.072122,-84.320092,39.072122",
+    "geom:latitude": 39.072122,
+    "geom:longitude": -84.320092,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8451 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 5700",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian",
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 5700",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian",
+      "boarding/pet",
+      "sitting"
     ],
-    "sg:website":"www.all-creatures.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6rJgiGWAyXxtbuyFXsE5Wo_39.072122_-84.320092@1303262759"
+    "sg:website": "www.all-creatures.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6rJgiGWAyXxtbuyFXsE5Wo_39.072122_-84.320092@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807618,
-    "wof:geomhash":"630db08e6ea9432b34445102c11b5dda",
-    "wof:hierarchy":[],
-    "wof:id":706642093,
-    "wof:lastmodified":1472640248,
-    "wof:name":"All Creatures Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian",
-        "boarding/pet",
-        "sitting"
+    "wof:country": "US",
+    "wof:created": 1461807618,
+    "wof:geomhash": "0e861d6b1a8f4c1f005c1c95e5dcfc1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642093
+      }
+    ],
+    "wof:id": 706642093,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "All Creatures Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian",
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -84.320092,
     39.072122,
     -84.320092,
     39.072122
-],
+  ],
   "geometry": {"coordinates":[-84.320092,39.072122],"type":"Point"}
 }

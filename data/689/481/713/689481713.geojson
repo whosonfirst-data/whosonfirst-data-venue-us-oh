@@ -2,61 +2,65 @@
   "id": 689481713,
   "type": "Feature",
   "properties": {
-    "addr:full":"1504 Jackson Pike Gallipolis OH 45631",
-    "addr:housenumber":"1504",
-    "addr:postcode":"45631",
-    "addr:street":"Jackson Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.260496,38.842175,-82.260496,38.842175",
-    "geom:latitude":38.842175,
-    "geom:longitude":-82.260496,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1504 Jackson Pike",
-    "sg:city":"Gallipolis",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "1504 Jackson Pike Gallipolis OH 45631",
+    "addr:housenumber": "1504",
+    "addr:postcode": "45631",
+    "addr:street": "Jackson Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.260496,38.842175,-82.260496,38.842175",
+    "geom:latitude": 38.842175,
+    "geom:longitude": -82.260496,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1504 Jackson Pike",
+    "sg:city": "Gallipolis",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 446 0353",
-    "sg:postcode":"45631",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 446 0353",
+    "sg:postcode": "45631",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4vNgJ8yzgcvdn1rRTMjtgx_38.842175_-82.260496@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4vNgJ8yzgcvdn1rRTMjtgx_38.842175_-82.260496@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772567,
-    "wof:geomhash":"5a6df194112ffedd906067f66b415e73",
-    "wof:hierarchy":[],
-    "wof:id":689481713,
-    "wof:lastmodified":1472638531,
-    "wof:name":"Valley Diagnostic Labs",
-    "wof:parent_id":420534827,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461772567,
+    "wof:geomhash": "70b8d26f09855d5957ec282f0c2a6e45",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689481713
+      }
+    ],
+    "wof:id": 689481713,
+    "wof:lastmodified": 1638566927,
+    "wof:name": "Valley Diagnostic Labs",
+    "wof:parent_id": 420534827,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -82.260496,
     38.842175,
     -82.260496,
     38.842175
-],
+  ],
   "geometry": {"coordinates":[-82.260496,38.842175],"type":"Point"}
 }

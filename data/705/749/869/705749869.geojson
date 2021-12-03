@@ -2,61 +2,65 @@
   "id": 705749869,
   "type": "Feature",
   "properties": {
-    "addr:full":"3265 Lynn Rd Canfield OH 44406",
-    "addr:housenumber":"3265",
-    "addr:postcode":"44406",
-    "addr:street":"Lynn Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.713044,40.966077,-80.713044,40.966077",
-    "geom:latitude":40.966077,
-    "geom:longitude":-80.713044,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3265 Lynn Rd",
-    "sg:city":"Canfield",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3265 Lynn Rd Canfield OH 44406",
+    "addr:housenumber": "3265",
+    "addr:postcode": "44406",
+    "addr:street": "Lynn Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.713044,40.966077,-80.713044,40.966077",
+    "geom:latitude": 40.966077,
+    "geom:longitude": -80.713044,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3265 Lynn Rd",
+    "sg:city": "Canfield",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 549 9178",
-    "sg:postcode":"44406",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 549 9178",
+    "sg:postcode": "44406",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_42XvaT5wr5kgiyhIWcifDp_40.966077_-80.713044@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_42XvaT5wr5kgiyhIWcifDp_40.966077_-80.713044@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787844,
-    "wof:geomhash":"edfe1b6a9f1b19c542b6460c1fd566ef",
-    "wof:hierarchy":[],
-    "wof:id":705749869,
-    "wof:lastmodified":1472639192,
-    "wof:name":"Hassay Builders",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461787844,
+    "wof:geomhash": "c64b562383e40fea77ee13b795da8013",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705749869
+      }
+    ],
+    "wof:id": 705749869,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Hassay Builders",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -80.713044,
     40.966077,
     -80.713044,
     40.966077
-],
+  ],
   "geometry": {"coordinates":[-80.713044,40.966077],"type":"Point"}
 }

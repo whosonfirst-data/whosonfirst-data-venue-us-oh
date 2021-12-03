@@ -2,61 +2,65 @@
   "id": 706034991,
   "type": "Feature",
   "properties": {
-    "addr:full":"2796 Gallia St Piketon OH 45662",
-    "addr:housenumber":"2796",
-    "addr:postcode":"45662",
-    "addr:street":"Gallia St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.966784,38.739608,-82.966784,38.739608",
-    "geom:latitude":38.739608,
-    "geom:longitude":-82.966784,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2796 Gallia St",
-    "sg:city":"Piketon",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2796 Gallia St Piketon OH 45662",
+    "addr:housenumber": "2796",
+    "addr:postcode": "45662",
+    "addr:street": "Gallia St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.966784,38.739608,-82.966784,38.739608",
+    "geom:latitude": 38.739608,
+    "geom:longitude": -82.966784,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2796 Gallia St",
+    "sg:city": "Piketon",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 289 3100",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "passenger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 289 3100",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "passenger"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6vGSGjh03LaMoecSofahLY_38.739608_-82.966784@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6vGSGjh03LaMoecSofahLY_38.739608_-82.966784@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794307,
-    "wof:geomhash":"07d9906ab114573571950f7736ed2e0a",
-    "wof:hierarchy":[],
-    "wof:id":706034991,
-    "wof:lastmodified":1472638825,
-    "wof:name":"Urgent Care Transport",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "passenger"
+    "wof:country": "US",
+    "wof:created": 1461794307,
+    "wof:geomhash": "0b5b71455dcf8bbcb063a80212a9609b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706034991
+      }
+    ],
+    "wof:id": 706034991,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Urgent Care Transport",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "passenger"
     ]
-},
+  },
   "bbox": [
     -82.966784,
     38.739608,
     -82.966784,
     38.739608
-],
+  ],
   "geometry": {"coordinates":[-82.966784,38.739608],"type":"Point"}
 }

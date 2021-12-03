@@ -2,63 +2,67 @@
   "id": 706258259,
   "type": "Feature",
   "properties": {
-    "addr:full":"4358 Ferguson Dr Cincinnati OH 45245",
-    "addr:housenumber":"4358",
-    "addr:postcode":"45245",
-    "addr:street":"Ferguson Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.288199,39.085126,-84.288199,39.085126",
-    "geom:latitude":39.085126,
-    "geom:longitude":-84.288199,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4358 Ferguson Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4358 Ferguson Dr Cincinnati OH 45245",
+    "addr:housenumber": "4358",
+    "addr:postcode": "45245",
+    "addr:street": "Ferguson Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.288199,39.085126,-84.288199,39.085126",
+    "geom:latitude": 39.085126,
+    "geom:longitude": -84.288199,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4358 Ferguson Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 522 1992",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 522 1992",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6kF13EJ96koCmM2g8zmcJ3_39.085126_-84.288199@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6kF13EJ96koCmM2g8zmcJ3_39.085126_-84.288199@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799370,
-    "wof:geomhash":"12de7fea17f896a03993a12109578844",
-    "wof:hierarchy":[],
-    "wof:id":706258259,
-    "wof:lastmodified":1472639597,
-    "wof:name":"Thomas E Fortet DO",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461799370,
+    "wof:geomhash": "613ef42f729575c59da17123f3580c71",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706258259
+      }
+    ],
+    "wof:id": 706258259,
+    "wof:lastmodified": 1638567064,
+    "wof:name": "Thomas E Fortet DO",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.288199,
     39.085126,
     -84.288199,
     39.085126
-],
-  "geometry": {"coordinates":[-84.28819900000001,39.085126],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.288199,39.085126],"type":"Point"}
 }

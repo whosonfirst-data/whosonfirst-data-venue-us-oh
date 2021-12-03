@@ -2,61 +2,65 @@
   "id": 705913951,
   "type": "Feature",
   "properties": {
-    "addr:full":"4790 Beach Rd Medina OH 44256",
-    "addr:housenumber":"4790",
-    "addr:postcode":"44256",
-    "addr:street":"Beach Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.756361,41.149926,-81.756361,41.149926",
-    "geom:latitude":41.149926,
-    "geom:longitude":-81.756361,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4790 Beach Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "4790 Beach Rd Medina OH 44256",
+    "addr:housenumber": "4790",
+    "addr:postcode": "44256",
+    "addr:street": "Beach Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.756361,41.149926,-81.756361,41.149926",
+    "geom:latitude": 41.149926,
+    "geom:longitude": -81.756361,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4790 Beach Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 239 4161",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 239 4161",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3iWatcXxLirjYLqW1LvA2u_41.149926_-81.756361@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3iWatcXxLirjYLqW1LvA2u_41.149926_-81.756361@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791722,
-    "wof:geomhash":"07651490b78dc36d84ab793a29a991f1",
-    "wof:hierarchy":[],
-    "wof:id":705913951,
-    "wof:lastmodified":1472639635,
-    "wof:name":"Carson Aluminum",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461791722,
+    "wof:geomhash": "f29b874f8321a0832796bffe2d14d2db",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705913951
+      }
+    ],
+    "wof:id": 705913951,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Carson Aluminum",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.756361,
     41.149926,
     -81.756361,
     41.149926
-],
+  ],
   "geometry": {"coordinates":[-81.756361,41.149926],"type":"Point"}
 }

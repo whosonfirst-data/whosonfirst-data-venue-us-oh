@@ -2,61 +2,65 @@
   "id": 689671961,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 N Scioto St Circleville OH 43113",
-    "addr:housenumber":"216",
-    "addr:postcode":"43113",
-    "addr:street":"N Scioto St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.946687,39.604659,-82.946687,39.604659",
-    "geom:latitude":39.604659,
-    "geom:longitude":-82.946687,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"216 N Scioto St",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "216 N Scioto St Circleville OH 43113",
+    "addr:housenumber": "216",
+    "addr:postcode": "43113",
+    "addr:street": "N Scioto St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.946687,39.604659,-82.946687,39.604659",
+    "geom:latitude": 39.604659,
+    "geom:longitude": -82.946687,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "216 N Scioto St",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 420 6283",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 420 6283",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_669TKvgi4h7KdWpSeJS0vt_39.604659_-82.946687@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_669TKvgi4h7KdWpSeJS0vt_39.604659_-82.946687@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778436,
-    "wof:geomhash":"553823c777a3193b9bf69ca888ac5e38",
-    "wof:hierarchy":[],
-    "wof:id":689671961,
-    "wof:lastmodified":1472639612,
-    "wof:name":"Shears",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461778436,
+    "wof:geomhash": "3c28f822dc48f46d9fc52a5cfc5c9801",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689671961
+      }
+    ],
+    "wof:id": 689671961,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Shears",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -82.946687,
     39.604659,
     -82.946687,
     39.604659
-],
+  ],
   "geometry": {"coordinates":[-82.946687,39.604659],"type":"Point"}
 }

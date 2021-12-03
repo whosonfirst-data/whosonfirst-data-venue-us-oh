@@ -2,63 +2,67 @@
   "id": 689483107,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 W Plane St Bethel OH 45106",
-    "addr:housenumber":"600",
-    "addr:postcode":"45106",
-    "addr:street":"W Plane St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.085802,38.963908,-84.085802,38.963908",
-    "geom:latitude":38.963908,
-    "geom:longitude":-84.085802,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"600 W Plane St",
-    "sg:city":"Bethel",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "600 W Plane St Bethel OH 45106",
+    "addr:housenumber": "600",
+    "addr:postcode": "45106",
+    "addr:street": "W Plane St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.085802,38.963908,-84.085802,38.963908",
+    "geom:latitude": 38.963908,
+    "geom:longitude": -84.085802,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "600 W Plane St",
+    "sg:city": "Bethel",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 734 9200",
-    "sg:postcode":"45106",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 734 9200",
+    "sg:postcode": "45106",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0oN759S3Ku2hLCDcUBlAOC_38.963908_-84.085802@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0oN759S3Ku2hLCDcUBlAOC_38.963908_-84.085802@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772612,
-    "wof:geomhash":"49995ec259ed89c5ce49d43879511860",
-    "wof:hierarchy":[],
-    "wof:id":689483107,
-    "wof:lastmodified":1472638499,
-    "wof:name":"Bethel Internal Medicine",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461772612,
+    "wof:geomhash": "ce3a0037cc284596fa9b2e8e9b23a2ff",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689483107
+      }
+    ],
+    "wof:id": 689483107,
+    "wof:lastmodified": 1638566929,
+    "wof:name": "Bethel Internal Medicine",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.085802,
     38.963908,
     -84.085802,
     38.963908
-],
+  ],
   "geometry": {"coordinates":[-84.085802,38.963908],"type":"Point"}
 }

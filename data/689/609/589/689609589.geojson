@@ -2,61 +2,65 @@
   "id": 689609589,
   "type": "Feature",
   "properties": {
-    "addr:full":"33 W Wilson Ave Girard OH 44420",
-    "addr:housenumber":"33",
-    "addr:postcode":"44420",
-    "addr:street":"W Wilson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.702186,41.15303,-80.702186,41.15303",
-    "geom:latitude":41.15303,
-    "geom:longitude":-80.702186,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33 W Wilson Ave",
-    "sg:city":"Girard",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "33 W Wilson Ave Girard OH 44420",
+    "addr:housenumber": "33",
+    "addr:postcode": "44420",
+    "addr:street": "W Wilson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.702186,41.153030,-80.702186,41.153030",
+    "geom:latitude": 41.15303,
+    "geom:longitude": -80.702186,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "33 W Wilson Ave",
+    "sg:city": "Girard",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 545 8972",
-    "sg:postcode":"44420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "fraternal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 545 8972",
+    "sg:postcode": "44420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "fraternal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4S5MAj6IZo2fAV3BspimZ5_41.153030_-80.702186@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4S5MAj6IZo2fAV3BspimZ5_41.153030_-80.702186@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776589,
-    "wof:geomhash":"f89e0ed22a70b937359a79e9ccfff9ba",
-    "wof:hierarchy":[],
-    "wof:id":689609589,
-    "wof:lastmodified":1472639435,
-    "wof:name":"Italian Fraternal Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fraternal"
+    "wof:country": "US",
+    "wof:created": 1461776589,
+    "wof:geomhash": "2bf88f0192dde3ddb60ec9df9253b0f8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689609589
+      }
+    ],
+    "wof:id": 689609589,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Italian Fraternal Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fraternal"
     ]
-},
+  },
   "bbox": [
     -80.702186,
     41.15303,
     -80.702186,
     41.15303
-],
+  ],
   "geometry": {"coordinates":[-80.702186,41.15303],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 706573151,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Lawrence Ave Miamisburg OH 45342",
-    "addr:housenumber":"10",
-    "addr:postcode":"45342",
-    "addr:street":"Lawrence Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.269908,39.640735,-84.269908,39.640735",
-    "geom:latitude":39.640735,
-    "geom:longitude":-84.269908,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"10 Lawrence Ave",
-    "sg:city":"Miamisburg",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10 Lawrence Ave Miamisburg OH 45342",
+    "addr:housenumber": "10",
+    "addr:postcode": "45342",
+    "addr:street": "Lawrence Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.269908,39.640735,-84.269908,39.640735",
+    "geom:latitude": 39.640735,
+    "geom:longitude": -84.269908,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "10 Lawrence Ave",
+    "sg:city": "Miamisburg",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/miami/213887-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 859 8001",
-    "sg:postcode":"45342",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/oh/miami/213887-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 859 8001",
+    "sg:postcode": "45342",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6W9izUeVzAeGdHDjBJmICJ_39.640735_-84.269908@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6W9izUeVzAeGdHDjBJmICJ_39.640735_-84.269908@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806132,
-    "wof:geomhash":"f3405974aa5717bde4af77249b4ad180",
-    "wof:hierarchy":[],
-    "wof:id":706573151,
-    "wof:lastmodified":1511321265,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461806132,
+    "wof:geomhash": "f3405974aa5717bde4af77249b4ad180",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706573151
+      }
+    ],
+    "wof:id": 706573151,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -84.269908,
     39.640735,
     -84.269908,
     39.640735
-],
+  ],
   "geometry": {"coordinates":[-84.269908,39.640735],"type":"Point"}
 }

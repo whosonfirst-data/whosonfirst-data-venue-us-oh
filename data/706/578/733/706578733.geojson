@@ -2,66 +2,70 @@
   "id": 706578733,
   "type": "Feature",
   "properties": {
-    "addr:full":"483 N Main St Marion OH 43302",
-    "addr:housenumber":"483",
-    "addr:postcode":"43302",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.129363,40.596585,-83.129363,40.596585",
-    "geom:latitude":40.596585,
-    "geom:longitude":-83.129363,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"483 N Main St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "483 N Main St Marion OH 43302",
+    "addr:housenumber": "483",
+    "addr:postcode": "43302",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.129363,40.596585,-83.129363,40.596585",
+    "geom:latitude": 40.596585,
+    "geom:longitude": -83.129363,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "483 N Main St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/marion/195291-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/marion/195291-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ERud62rNC1CJpOW97pAlQ_40.596552_-83.129455@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ERud62rNC1CJpOW97pAlQ_40.596552_-83.129455@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806282,
-    "wof:geomhash":"380645c1ac08604806154179bca891aa",
-    "wof:hierarchy":[],
-    "wof:id":706578733,
-    "wof:lastmodified":1511321594,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806282,
+    "wof:geomhash": "380645c1ac08604806154179bca891aa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706578733
+      }
+    ],
+    "wof:id": 706578733,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -83.129363,
     40.596585,
     -83.129363,
     40.596585
-],
+  ],
   "geometry": {"coordinates":[-83.129363,40.596585],"type":"Point"}
 }

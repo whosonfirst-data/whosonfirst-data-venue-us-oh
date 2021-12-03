@@ -2,61 +2,65 @@
   "id": 689561909,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 Parkview Dr Millersburg OH 44654",
-    "addr:housenumber":"151",
-    "addr:postcode":"44654",
-    "addr:street":"Parkview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.911152,40.544093,-81.911152,40.544093",
-    "geom:latitude":40.544093,
-    "geom:longitude":-81.911152,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"151 Parkview Dr",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "151 Parkview Dr Millersburg OH 44654",
+    "addr:housenumber": "151",
+    "addr:postcode": "44654",
+    "addr:street": "Parkview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.911152,40.544093,-81.911152,40.544093",
+    "geom:latitude": 40.544093,
+    "geom:longitude": -81.911152,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "151 Parkview Dr",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 674 1200",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 674 1200",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7MuBm2xEzsurhonJ18c5Kv_40.544093_-81.911152@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7MuBm2xEzsurhonJ18c5Kv_40.544093_-81.911152@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775074,
-    "wof:geomhash":"aa9b444703e7cb42cfa3f9639c17b766",
-    "wof:hierarchy":[],
-    "wof:id":689561909,
-    "wof:lastmodified":1472639309,
-    "wof:name":"Family Practice Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461775074,
+    "wof:geomhash": "755237f745839b990a0082b8b4303223",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689561909
+      }
+    ],
+    "wof:id": 689561909,
+    "wof:lastmodified": 1638566986,
+    "wof:name": "Family Practice Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -81.911152,
     40.544093,
     -81.911152,
     40.544093
-],
+  ],
   "geometry": {"coordinates":[-81.911152,40.544093],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689587183,
   "type": "Feature",
   "properties": {
-    "addr:full":"12000 Rd R Columbus Grove OH 45830",
-    "addr:housenumber":"12000",
-    "addr:postcode":"45830",
-    "addr:street":"Rd;Columbus Grove",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.092075,40.919279,-84.092075,40.919279",
-    "geom:latitude":40.919279,
-    "geom:longitude":-84.092075,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12000 Rd R",
-    "sg:city":"Columbus Grove",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "12000 Rd R Columbus Grove OH 45830",
+    "addr:housenumber": "12000",
+    "addr:postcode": "45830",
+    "addr:street": "Rd;Columbus Grove",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.092075,40.919279,-84.092075,40.919279",
+    "geom:latitude": 40.919279,
+    "geom:longitude": -84.092075,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12000 Rd R",
+    "sg:city": "Columbus Grove",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 659 2500",
-    "sg:postcode":"45830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 659 2500",
+    "sg:postcode": "45830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2bNkoMCekjMlORnxoKSwtL_40.919279_-84.092075@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2bNkoMCekjMlORnxoKSwtL_40.919279_-84.092075@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775845,
-    "wof:geomhash":"4395f1b82580f13bc457265004d281c2",
-    "wof:hierarchy":[],
-    "wof:id":689587183,
-    "wof:lastmodified":1472639339,
-    "wof:name":"Mc Bee Trucking LLC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461775845,
+    "wof:geomhash": "4331916a853082190ed0915aad441bc6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689587183
+      }
+    ],
+    "wof:id": 689587183,
+    "wof:lastmodified": 1638566992,
+    "wof:name": "Mc Bee Trucking LLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -84.092075,
     40.919279,
     -84.092075,
     40.919279
-],
-  "geometry": {"coordinates":[-84.09207499999999,40.919279],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.092075,40.919279],"type":"Point"}
 }

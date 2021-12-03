@@ -2,61 +2,65 @@
   "id": 689752451,
   "type": "Feature",
   "properties": {
-    "addr:full":"501 N Cole St Lima OH 45805",
-    "addr:housenumber":"501",
-    "addr:postcode":"45805",
-    "addr:street":"N Cole St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.127685,40.745656,-84.127685,40.745656",
-    "geom:latitude":40.745656,
-    "geom:longitude":-84.127685,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"501 N Cole St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "501 N Cole St Lima OH 45805",
+    "addr:housenumber": "501",
+    "addr:postcode": "45805",
+    "addr:street": "N Cole St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.127685,40.745656,-84.127685,40.745656",
+    "geom:latitude": 40.745656,
+    "geom:longitude": -84.127685,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "501 N Cole St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 227 5299",
-    "sg:postcode":"45805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 227 5299",
+    "sg:postcode": "45805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_19cbKxm7FFtc0dOJqG7l7q_40.745656_-84.127685@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_19cbKxm7FFtc0dOJqG7l7q_40.745656_-84.127685@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780518,
-    "wof:geomhash":"9585420effe1ee799b67cfaecbb3ae01",
-    "wof:hierarchy":[],
-    "wof:id":689752451,
-    "wof:lastmodified":1472639770,
-    "wof:name":"Robert E Anderson Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461780518,
+    "wof:geomhash": "a880af96bb236d26b69286cb2cd53dd4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689752451
+      }
+    ],
+    "wof:id": 689752451,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Robert E Anderson Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -84.127685,
     40.745656,
     -84.127685,
     40.745656
-],
+  ],
   "geometry": {"coordinates":[-84.127685,40.745656],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706360377,
   "type": "Feature",
   "properties": {
-    "addr:full":"1125 Rush Ave Bellefontaine OH 43311",
-    "addr:housenumber":"1125",
-    "addr:postcode":"43311",
-    "addr:street":"Rush Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.752357,40.375662,-83.752357,40.375662",
-    "geom:latitude":40.375662,
-    "geom:longitude":-83.752357,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1125 Rush Ave",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "1125 Rush Ave Bellefontaine OH 43311",
+    "addr:housenumber": "1125",
+    "addr:postcode": "43311",
+    "addr:street": "Rush Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.752357,40.375662,-83.752357,40.375662",
+    "geom:latitude": 40.375662,
+    "geom:longitude": -83.752357,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1125 Rush Ave",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 592 3651",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 592 3651",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WUThUykFQ68GCw2OwRTXb_40.375662_-83.752357@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0WUThUykFQ68GCw2OwRTXb_40.375662_-83.752357@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801617,
-    "wof:geomhash":"9ca9e4e8180ca95c583d9b2e496fdae5",
-    "wof:hierarchy":[],
-    "wof:id":706360377,
-    "wof:lastmodified":1472639911,
-    "wof:name":"Roche Biomedical Labs",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461801617,
+    "wof:geomhash": "503cb7e178a3a33031d338bcdc983f2c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706360377
+      }
+    ],
+    "wof:id": 706360377,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "Roche Biomedical Labs",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -83.752357,
     40.375662,
     -83.752357,
     40.375662
-],
+  ],
   "geometry": {"coordinates":[-83.752357,40.375662],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706401017,
   "type": "Feature",
   "properties": {
-    "addr:full":"2550 W Alexis Rd Toledo OH 43613",
-    "addr:housenumber":"2550",
-    "addr:postcode":"43613",
-    "addr:street":"W Alexis Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.608124,41.7212,-83.608124,41.7212",
-    "geom:latitude":41.7212,
-    "geom:longitude":-83.608124,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2550 W Alexis Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2550 W Alexis Rd Toledo OH 43613",
+    "addr:housenumber": "2550",
+    "addr:postcode": "43613",
+    "addr:street": "W Alexis Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.608124,41.721200,-83.608124,41.721200",
+    "geom:latitude": 41.7212,
+    "geom:longitude": -83.608124,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2550 W Alexis Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 474 1018",
-    "sg:postcode":"43613",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 474 1018",
+    "sg:postcode": "43613",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6a1JA2LUO6TojC4nlxBfNr_41.721200_-83.608124@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6a1JA2LUO6TojC4nlxBfNr_41.721200_-83.608124@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802416,
-    "wof:geomhash":"59c0ced1e654863f0f72e8875a760641",
-    "wof:hierarchy":[],
-    "wof:id":706401017,
-    "wof:lastmodified":1472639986,
-    "wof:name":"Sobieniak Trucking Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461802416,
+    "wof:geomhash": "6ab8ced6e4929786a1b12c3b58d74a82",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706401017
+      }
+    ],
+    "wof:id": 706401017,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Sobieniak Trucking Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.608124,
     41.7212,
     -83.608124,
     41.7212
-],
+  ],
   "geometry": {"coordinates":[-83.608124,41.7212],"type":"Point"}
 }

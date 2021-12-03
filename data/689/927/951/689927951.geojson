@@ -2,61 +2,65 @@
   "id": 689927951,
   "type": "Feature",
   "properties": {
-    "addr:full":"2244 Blake Rd Coolville OH 45723",
-    "addr:housenumber":"2244",
-    "addr:postcode":"45723",
-    "addr:street":"Blake Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.897535,39.224211,-81.897535,39.224211",
-    "geom:latitude":39.224211,
-    "geom:longitude":-81.897535,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2244 Blake Rd",
-    "sg:city":"Coolville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "2244 Blake Rd Coolville OH 45723",
+    "addr:housenumber": "2244",
+    "addr:postcode": "45723",
+    "addr:street": "Blake Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.897535,39.224211,-81.897535,39.224211",
+    "geom:latitude": 39.224211,
+    "geom:longitude": -81.897535,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2244 Blake Rd",
+    "sg:city": "Coolville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 667 0446",
-    "sg:postcode":"45723",
-    "sg:province":"OH",
-    "sg:tags":[
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 667 0446",
+    "sg:postcode": "45723",
+    "sg:province": "OH",
+    "sg:tags": [
+      "residential"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5JcvXXaKBDmL7WgesKeHf0_39.224211_-81.897535@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5JcvXXaKBDmL7WgesKeHf0_39.224211_-81.897535@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785311,
-    "wof:geomhash":"7e746e365e613786eaacffb405786c73",
-    "wof:hierarchy":[],
-    "wof:id":689927951,
-    "wof:lastmodified":1472640099,
-    "wof:name":"Cooper Construction",
-    "wof:parent_id":420534561,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461785311,
+    "wof:geomhash": "e1e8e774d937080d6183bfa1320dad78",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689927951
+      }
+    ],
+    "wof:id": 689927951,
+    "wof:lastmodified": 1638567108,
+    "wof:name": "Cooper Construction",
+    "wof:parent_id": 420534561,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential"
     ]
-},
+  },
   "bbox": [
     -81.897535,
     39.224211,
     -81.897535,
     39.224211
-],
+  ],
   "geometry": {"coordinates":[-81.897535,39.224211],"type":"Point"}
 }

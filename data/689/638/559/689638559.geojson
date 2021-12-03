@@ -2,63 +2,67 @@
   "id": 689638559,
   "type": "Feature",
   "properties": {
-    "addr:full":"635 W Spring St Lima OH 45801",
-    "addr:housenumber":"635",
-    "addr:postcode":"45801",
-    "addr:street":"W Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.113998,40.738625,-84.113998,40.738625",
-    "geom:latitude":40.738625,
-    "geom:longitude":-84.113998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"635 W Spring St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "635 W Spring St Lima OH 45801",
+    "addr:housenumber": "635",
+    "addr:postcode": "45801",
+    "addr:street": "W Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.113998,40.738625,-84.113998,40.738625",
+    "geom:latitude": 40.738625,
+    "geom:longitude": -84.113998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "635 W Spring St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 222 7350",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 222 7350",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4kfuGowzzvyLkPf7N11Hdo_40.738625_-84.113998@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4kfuGowzzvyLkPf7N11Hdo_40.738625_-84.113998@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777407,
-    "wof:geomhash":"c05386c3eebb2a0e95fe2c50ddb0c000",
-    "wof:hierarchy":[],
-    "wof:id":689638559,
-    "wof:lastmodified":1472639502,
-    "wof:name":"Allen County Cardiology",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461777407,
+    "wof:geomhash": "b8e0aa86d8a81378ed58780f704fa459",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689638559
+      }
+    ],
+    "wof:id": 689638559,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Allen County Cardiology",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.113998,
     40.738625,
     -84.113998,
     40.738625
-],
+  ],
   "geometry": {"coordinates":[-84.113998,40.738625],"type":"Point"}
 }

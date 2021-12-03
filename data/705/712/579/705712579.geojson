@@ -2,66 +2,70 @@
   "id": 705712579,
   "type": "Feature",
   "properties": {
-    "addr:full":"5300 Rockside Rd Cleveland OH 44131",
-    "addr:housenumber":"5300",
-    "addr:postcode":"44131",
-    "addr:street":"Rockside Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.653733,41.396849,-81.653733,41.396849",
-    "geom:latitude":41.396849,
-    "geom:longitude":-81.653733,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"5300 Rockside Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "5300 Rockside Rd Cleveland OH 44131",
+    "addr:housenumber": "5300",
+    "addr:postcode": "44131",
+    "addr:street": "Rockside Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.653733,41.396849,-81.653733,41.396849",
+    "geom:latitude": 41.396849,
+    "geom:longitude": -81.653733,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "5300 Rockside Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 524 0700",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operation",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 524 0700",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operation",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125161427,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5TlRMeLJjB0UJoQNfZmHhn_41.396849_-81.653733@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125161427,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5TlRMeLJjB0UJoQNfZmHhn_41.396849_-81.653733@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786961,
-    "wof:geomhash":"9d7798941cf87f46ed6b7fd568bbc61d",
-    "wof:hierarchy":[],
-    "wof:id":705712579,
-    "wof:lastmodified":1510877308,
-    "wof:name":"Clarion Hotel",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operation",
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461786961,
+    "wof:geomhash": "9d7798941cf87f46ed6b7fd568bbc61d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705712579
+      }
+    ],
+    "wof:id": 705712579,
+    "wof:lastmodified": 1638566929,
+    "wof:name": "Clarion Hotel",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operation",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.653733,
     41.396849,
     -81.653733,
     41.396849
-],
+  ],
   "geometry": {"coordinates":[-81.653733,41.396849],"type":"Point"}
 }

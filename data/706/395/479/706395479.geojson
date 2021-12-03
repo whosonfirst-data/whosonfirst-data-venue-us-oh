@@ -2,61 +2,65 @@
   "id": 706395479,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 S Main St Potsdam OH 45361",
-    "addr:housenumber":"12",
-    "addr:postcode":"45361",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.417235,39.958648,-84.417235,39.958648",
-    "geom:latitude":39.958648,
-    "geom:longitude":-84.417235,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12 S Main St",
-    "sg:city":"Potsdam",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "12 S Main St Potsdam OH 45361",
+    "addr:housenumber": "12",
+    "addr:postcode": "45361",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.417235,39.958648,-84.417235,39.958648",
+    "geom:latitude": 39.958648,
+    "geom:longitude": -84.417235,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12 S Main St",
+    "sg:city": "Potsdam",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 947 1438",
-    "sg:postcode":"45361",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 947 1438",
+    "sg:postcode": "45361",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FYk7yuNAKNtKoLg1PysTu_39.958648_-84.417235@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4FYk7yuNAKNtKoLg1PysTu_39.958648_-84.417235@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802306,
-    "wof:geomhash":"f608e11b2f19c34a58475227640baa22",
-    "wof:hierarchy":[],
-    "wof:id":706395479,
-    "wof:lastmodified":1472639979,
-    "wof:name":"Potsdam United Methodist",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461802306,
+    "wof:geomhash": "18ab0bcadd816a9c530b7574d64538ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706395479
+      }
+    ],
+    "wof:id": 706395479,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Potsdam United Methodist",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.417235,
     39.958648,
     -84.417235,
     39.958648
-],
-  "geometry": {"coordinates":[-84.41723500000001,39.958648],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.417235,39.958648],"type":"Point"}
 }

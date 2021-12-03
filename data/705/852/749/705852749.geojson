@@ -2,61 +2,65 @@
   "id": 705852749,
   "type": "Feature",
   "properties": {
-    "addr:full":"440 Fair Rd Sidney OH 45365",
-    "addr:housenumber":"440",
-    "addr:postcode":"45365",
-    "addr:street":"Fair Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.160962,40.281238,-84.160962,40.281238",
-    "geom:latitude":40.281238,
-    "geom:longitude":-84.160962,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"440 Fair Rd",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Metals",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "440 Fair Rd Sidney OH 45365",
+    "addr:housenumber": "440",
+    "addr:postcode": "45365",
+    "addr:street": "Fair Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.160962,40.281238,-84.160962,40.281238",
+    "geom:latitude": 40.281238,
+    "geom:longitude": -84.160962,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "440 Fair Rd",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Metals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 497 9077",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "finisher"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 497 9077",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "finisher"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6pMJIwieDNLzvq1pBERy4r_40.281238_-84.160962@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6pMJIwieDNLzvq1pBERy4r_40.281238_-84.160962@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790249,
-    "wof:geomhash":"2578c0af4f198c0d69a03b658b5d824b",
-    "wof:hierarchy":[],
-    "wof:id":705852749,
-    "wof:lastmodified":1472639426,
-    "wof:name":"Master Vision Polishing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "finisher"
+    "wof:country": "US",
+    "wof:created": 1461790249,
+    "wof:geomhash": "96614f6ed8fb3e6262fe509de77c7d04",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705852749
+      }
+    ],
+    "wof:id": 705852749,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Master Vision Polishing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "finisher"
     ]
-},
+  },
   "bbox": [
     -84.160962,
     40.281238,
     -84.160962,
     40.281238
-],
+  ],
   "geometry": {"coordinates":[-84.160962,40.281238],"type":"Point"}
 }

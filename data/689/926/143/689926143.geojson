@@ -2,61 +2,65 @@
   "id": 689926143,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 Virginia Ave Dayton OH 45458",
-    "addr:housenumber":"111",
-    "addr:postcode":"45458",
-    "addr:street":"Virginia Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.163869,39.623814,-84.163869,39.623814",
-    "geom:latitude":39.623814,
-    "geom:longitude":-84.163869,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 Virginia Ave",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "111 Virginia Ave Dayton OH 45458",
+    "addr:housenumber": "111",
+    "addr:postcode": "45458",
+    "addr:street": "Virginia Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.163869,39.623814,-84.163869,39.623814",
+    "geom:latitude": 39.623814,
+    "geom:longitude": -84.163869,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 Virginia Ave",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 433 8841",
-    "sg:postcode":"45458",
-    "sg:province":"OH",
-    "sg:tags":[
-        "district"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 433 8841",
+    "sg:postcode": "45458",
+    "sg:province": "OH",
+    "sg:tags": [
+      "district"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13lv6z4TrdqzkYmbZBFu3T_39.623814_-84.163869@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13lv6z4TrdqzkYmbZBFu3T_39.623814_-84.163869@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785265,
-    "wof:geomhash":"f0015ba78cbf4b2132e214cdb516029b",
-    "wof:hierarchy":[],
-    "wof:id":689926143,
-    "wof:lastmodified":1472640077,
-    "wof:name":"Centerville Board of Education",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "district"
+    "wof:country": "US",
+    "wof:created": 1461785265,
+    "wof:geomhash": "9ca78281051c5b4389085d80b7e03652",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689926143
+      }
+    ],
+    "wof:id": 689926143,
+    "wof:lastmodified": 1638567108,
+    "wof:name": "Centerville Board of Education",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "district"
     ]
-},
+  },
   "bbox": [
     -84.163869,
     39.623814,
     -84.163869,
     39.623814
-],
-  "geometry": {"coordinates":[-84.16386900000001,39.623814],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.163869,39.623814],"type":"Point"}
 }

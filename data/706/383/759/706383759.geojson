@@ -2,61 +2,65 @@
   "id": 706383759,
   "type": "Feature",
   "properties": {
-    "addr:full":"5333 Northfield Rd Cleveland OH 44146",
-    "addr:housenumber":"5333",
-    "addr:postcode":"44146",
-    "addr:street":"Northfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.527366,41.416928,-81.527366,41.416928",
-    "geom:latitude":41.416928,
-    "geom:longitude":-81.527366,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5333 Northfield Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5333 Northfield Rd Cleveland OH 44146",
+    "addr:housenumber": "5333",
+    "addr:postcode": "44146",
+    "addr:street": "Northfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.527366,41.416928,-81.527366,41.416928",
+    "geom:latitude": 41.416928,
+    "geom:longitude": -81.527366,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5333 Northfield Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 662 7822",
-    "sg:postcode":"44146",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 662 7822",
+    "sg:postcode": "44146",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2OKF5yw9S6do1sU6H7wj29_41.416928_-81.527366@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2OKF5yw9S6do1sU6H7wj29_41.416928_-81.527366@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802086,
-    "wof:geomhash":"375411a824263f58493efd6634b8d530",
-    "wof:hierarchy":[],
-    "wof:id":706383759,
-    "wof:lastmodified":1472639968,
-    "wof:name":"Andrea J Bell DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461802086,
+    "wof:geomhash": "ebb8feedcbd2fabdaafb708a4fda170e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706383759
+      }
+    ],
+    "wof:id": 706383759,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Andrea J Bell DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.527366,
     41.416928,
     -81.527366,
     41.416928
-],
+  ],
   "geometry": {"coordinates":[-81.527366,41.416928],"type":"Point"}
 }

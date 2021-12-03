@@ -2,63 +2,67 @@
   "id": 705798317,
   "type": "Feature",
   "properties": {
-    "addr:full":"7522 Clark St Cleveland OH 44138",
-    "addr:housenumber":"7522",
-    "addr:postcode":"44138",
-    "addr:street":"Clark St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.91096,41.378977,-81.91096,41.378977",
-    "geom:latitude":41.378977,
-    "geom:longitude":-81.91096,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7522 Clark St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "7522 Clark St Cleveland OH 44138",
+    "addr:housenumber": "7522",
+    "addr:postcode": "44138",
+    "addr:street": "Clark St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.910960,41.378977,-81.910960,41.378977",
+    "geom:latitude": 41.378977,
+    "geom:longitude": -81.91096,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7522 Clark St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 235 8491",
-    "sg:postcode":"44138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pathologist",
-        "speech"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 235 8491",
+    "sg:postcode": "44138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pathologist",
+      "speech"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1l49Dy6tOI5ia92NaViOLa_41.378977_-81.910960@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1l49Dy6tOI5ia92NaViOLa_41.378977_-81.910960@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788968,
-    "wof:geomhash":"723f9ae34f7a651561ed8df175c2f732",
-    "wof:hierarchy":[],
-    "wof:id":705798317,
-    "wof:lastmodified":1472639277,
-    "wof:name":"Falls Speech Language Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pathologist",
-        "speech"
+    "wof:country": "US",
+    "wof:created": 1461788968,
+    "wof:geomhash": "c17db6b8502cb66abe6c3357f418c8b4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705798317
+      }
+    ],
+    "wof:id": 705798317,
+    "wof:lastmodified": 1638566983,
+    "wof:name": "Falls Speech Language Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pathologist",
+      "speech"
     ]
-},
+  },
   "bbox": [
     -81.91096,
     41.378977,
     -81.91096,
     41.378977
-],
+  ],
   "geometry": {"coordinates":[-81.91096,41.378977],"type":"Point"}
 }

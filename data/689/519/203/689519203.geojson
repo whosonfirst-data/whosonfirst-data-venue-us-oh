@@ -2,63 +2,67 @@
   "id": 689519203,
   "type": "Feature",
   "properties": {
-    "addr:full":"107 Millersburg St Nashville OH 44661",
-    "addr:housenumber":"107",
-    "addr:postcode":"44661",
-    "addr:street":"Millersburg St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.112458,40.59639,-82.112458,40.59639",
-    "geom:latitude":40.59639,
-    "geom:longitude":-82.112458,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"107 Millersburg St",
-    "sg:city":"Nashville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "107 Millersburg St Nashville OH 44661",
+    "addr:housenumber": "107",
+    "addr:postcode": "44661",
+    "addr:street": "Millersburg St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.112458,40.596390,-82.112458,40.596390",
+    "geom:latitude": 40.59639,
+    "geom:longitude": -82.112458,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "107 Millersburg St",
+    "sg:city": "Nashville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 378 4951",
-    "sg:postcode":"44661",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 378 4951",
+    "sg:postcode": "44661",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_09FmL5nVlbdp5EOEIBr51E_40.596390_-82.112458@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_09FmL5nVlbdp5EOEIBr51E_40.596390_-82.112458@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773661,
-    "wof:geomhash":"830551ecaedad4090e57731ece82888b",
-    "wof:hierarchy":[],
-    "wof:id":689519203,
-    "wof:lastmodified":1472639150,
-    "wof:name":"Nashville Medical Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461773661,
+    "wof:geomhash": "9646af5e05453d3f9239e1df02d17e31",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689519203
+      }
+    ],
+    "wof:id": 689519203,
+    "wof:lastmodified": 1638566961,
+    "wof:name": "Nashville Medical Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.112458,
     40.59639,
     -82.112458,
     40.59639
-],
+  ],
   "geometry": {"coordinates":[-82.112458,40.59639],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706029323,
   "type": "Feature",
   "properties": {
-    "addr:full":"1784 Summerset Dr Marion OH 43302",
-    "addr:housenumber":"1784",
-    "addr:postcode":"43302",
-    "addr:street":"Summerset Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.081298,40.578063,-83.081298,40.578063",
-    "geom:latitude":40.578063,
-    "geom:longitude":-83.081298,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1784 Summerset Dr",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "1784 Summerset Dr Marion OH 43302",
+    "addr:housenumber": "1784",
+    "addr:postcode": "43302",
+    "addr:street": "Summerset Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.081298,40.578063,-83.081298,40.578063",
+    "geom:latitude": 40.578063,
+    "geom:longitude": -83.081298,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1784 Summerset Dr",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 389 4575",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 389 4575",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6O6vydjfAkMWqLeRXaexOj_40.578063_-83.081298@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6O6vydjfAkMWqLeRXaexOj_40.578063_-83.081298@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794196,
-    "wof:geomhash":"529dfa29f1132c0254a9da4c693eb6d2",
-    "wof:hierarchy":[],
-    "wof:id":706029323,
-    "wof:lastmodified":1472638772,
-    "wof:name":"Tomlin Waste Management",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461794196,
+    "wof:geomhash": "5e0f7d6e7dd1ae3100f80032543efb13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706029323
+      }
+    ],
+    "wof:id": 706029323,
+    "wof:lastmodified": 1638566951,
+    "wof:name": "Tomlin Waste Management",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -83.081298,
     40.578063,
     -83.081298,
     40.578063
-],
+  ],
   "geometry": {"coordinates":[-83.081298,40.578063],"type":"Point"}
 }

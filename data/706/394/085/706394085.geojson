@@ -2,61 +2,65 @@
   "id": 706394085,
   "type": "Feature",
   "properties": {
-    "addr:full":"30191 Detroit Rd Cleveland OH 44145",
-    "addr:housenumber":"30191",
-    "addr:postcode":"44145",
-    "addr:street":"Detroit Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.952027,41.46365,-81.952027,41.46365",
-    "geom:latitude":41.46365,
-    "geom:longitude":-81.952027,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30191 Detroit Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Jewelry",
-            "type":"Retail Goods"
-        }
+    "addr:full": "30191 Detroit Rd Cleveland OH 44145",
+    "addr:housenumber": "30191",
+    "addr:postcode": "44145",
+    "addr:street": "Detroit Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.952027,41.463650,-81.952027,41.463650",
+    "geom:latitude": 41.46365,
+    "geom:longitude": -81.952027,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "30191 Detroit Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Jewelry",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 892 0656",
-    "sg:postcode":"44145",
-    "sg:province":"OH",
-    "sg:tags":[
-        "jeweler"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 892 0656",
+    "sg:postcode": "44145",
+    "sg:province": "OH",
+    "sg:tags": [
+      "jeweler"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IAS8YKNRtnrSzb9dnXQ4J_41.463650_-81.952027@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5IAS8YKNRtnrSzb9dnXQ4J_41.463650_-81.952027@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802282,
-    "wof:geomhash":"acdb51238a6ab4059e704d61e87e828f",
-    "wof:hierarchy":[],
-    "wof:id":706394085,
-    "wof:lastmodified":1472639965,
-    "wof:name":"Thomas NJ Fine Jewelry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "jeweler"
+    "wof:country": "US",
+    "wof:created": 1461802282,
+    "wof:geomhash": "8df01fe8d48a7e3abe384eed26362c98",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706394085
+      }
+    ],
+    "wof:id": 706394085,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Thomas NJ Fine Jewelry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "jeweler"
     ]
-},
+  },
   "bbox": [
     -81.952027,
     41.46365,
     -81.952027,
     41.46365
-],
+  ],
   "geometry": {"coordinates":[-81.952027,41.46365],"type":"Point"}
 }

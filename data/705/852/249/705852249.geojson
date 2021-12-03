@@ -2,61 +2,65 @@
   "id": 705852249,
   "type": "Feature",
   "properties": {
-    "addr:full":"14123 Robinson Rd Plain City OH 43064",
-    "addr:housenumber":"14123",
-    "addr:postcode":"43064",
-    "addr:street":"Robinson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.30951,40.132651,-83.30951,40.132651",
-    "geom:latitude":40.132651,
-    "geom:longitude":-83.30951,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14123 Robinson Rd",
-    "sg:city":"Plain City",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "14123 Robinson Rd Plain City OH 43064",
+    "addr:housenumber": "14123",
+    "addr:postcode": "43064",
+    "addr:street": "Robinson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.309510,40.132651,-83.309510,40.132651",
+    "geom:latitude": 40.132651,
+    "geom:longitude": -83.30951,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14123 Robinson Rd",
+    "sg:city": "Plain City",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 873 8818",
-    "sg:postcode":"43064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 873 8818",
+    "sg:postcode": "43064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_69DRBRLzWJNG0hrOYVGhAt_40.132651_-83.309510@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_69DRBRLzWJNG0hrOYVGhAt_40.132651_-83.309510@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790238,
-    "wof:geomhash":"be766ddbd7461e7101b86e021baa0086",
-    "wof:hierarchy":[],
-    "wof:id":705852249,
-    "wof:lastmodified":1472639399,
-    "wof:name":"William Nolan Gibson",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461790238,
+    "wof:geomhash": "d538f5902aaac0b422e61a7f9687185e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705852249
+      }
+    ],
+    "wof:id": 705852249,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "William Nolan Gibson",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -83.30951,
     40.132651,
     -83.30951,
     40.132651
-],
+  ],
   "geometry": {"coordinates":[-83.30951,40.132651],"type":"Point"}
 }

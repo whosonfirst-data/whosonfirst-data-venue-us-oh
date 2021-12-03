@@ -2,61 +2,65 @@
   "id": 706000843,
   "type": "Feature",
   "properties": {
-    "addr:full":"13 Liberty St Bloomville OH 44818",
-    "addr:housenumber":"13",
-    "addr:postcode":"44818",
-    "addr:street":"Liberty St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.015688,41.051081,-83.015688,41.051081",
-    "geom:latitude":41.051081,
-    "geom:longitude":-83.015688,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13 Liberty St",
-    "sg:city":"Bloomville",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "13 Liberty St Bloomville OH 44818",
+    "addr:housenumber": "13",
+    "addr:postcode": "44818",
+    "addr:street": "Liberty St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.015688,41.051081,-83.015688,41.051081",
+    "geom:latitude": 41.051081,
+    "geom:longitude": -83.015688,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13 Liberty St",
+    "sg:city": "Bloomville",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 983 2411",
-    "sg:postcode":"44818",
-    "sg:province":"OH",
-    "sg:tags":[
-        "printer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 983 2411",
+    "sg:postcode": "44818",
+    "sg:province": "OH",
+    "sg:tags": [
+      "printer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6zj8ToJTVYyLay6XQjEafn_41.051081_-83.015688@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6zj8ToJTVYyLay6XQjEafn_41.051081_-83.015688@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793594,
-    "wof:geomhash":"910fc9e1f58885ca1bf79104ab3acc70",
-    "wof:hierarchy":[],
-    "wof:id":706000843,
-    "wof:lastmodified":1472638218,
-    "wof:name":"Bloomville Gazette Printing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "printer"
+    "wof:country": "US",
+    "wof:created": 1461793594,
+    "wof:geomhash": "fd5e2fb098651530ae8fdacb4875c3ad",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706000843
+      }
+    ],
+    "wof:id": 706000843,
+    "wof:lastmodified": 1638566924,
+    "wof:name": "Bloomville Gazette Printing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "printer"
     ]
-},
+  },
   "bbox": [
     -83.015688,
     41.051081,
     -83.015688,
     41.051081
-],
+  ],
   "geometry": {"coordinates":[-83.015688,41.051081],"type":"Point"}
 }

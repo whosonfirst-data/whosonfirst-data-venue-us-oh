@@ -2,61 +2,65 @@
   "id": 689770577,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 Orchard Ave Germantown OH 45327",
-    "addr:housenumber":"50",
-    "addr:postcode":"45327",
-    "addr:street":"Orchard Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.377346,39.622225,-84.377346,39.622225",
-    "geom:latitude":39.622225,
-    "geom:longitude":-84.377346,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50 Orchard Ave",
-    "sg:city":"Germantown",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "50 Orchard Ave Germantown OH 45327",
+    "addr:housenumber": "50",
+    "addr:postcode": "45327",
+    "addr:street": "Orchard Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.377346,39.622225,-84.377346,39.622225",
+    "geom:latitude": 39.622225,
+    "geom:longitude": -84.377346,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "50 Orchard Ave",
+    "sg:city": "Germantown",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 855 2859",
-    "sg:postcode":"45327",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 855 2859",
+    "sg:postcode": "45327",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7SEsMTe6DbePrH5GHWdF0M_39.622225_-84.377346@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7SEsMTe6DbePrH5GHWdF0M_39.622225_-84.377346@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781027,
-    "wof:geomhash":"65a6774d994a6e6bb9964deaf0fe5091",
-    "wof:hierarchy":[],
-    "wof:id":689770577,
-    "wof:lastmodified":1472639829,
-    "wof:name":"Smith Auction Svc",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461781027,
+    "wof:geomhash": "a5ec822aeb62839c82bc7b0d36163cae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689770577
+      }
+    ],
+    "wof:id": 689770577,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Smith Auction Svc",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.377346,
     39.622225,
     -84.377346,
     39.622225
-],
+  ],
   "geometry": {"coordinates":[-84.377346,39.622225],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689910631,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 E Locust St Wilmington OH 45177",
-    "addr:housenumber":"111",
-    "addr:postcode":"45177",
-    "addr:street":"E Locust St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.826632,39.446533,-83.826632,39.446533",
-    "geom:latitude":39.446533,
-    "geom:longitude":-83.826632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 E Locust St",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "111 E Locust St Wilmington OH 45177",
+    "addr:housenumber": "111",
+    "addr:postcode": "45177",
+    "addr:street": "E Locust St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.826632,39.446533,-83.826632,39.446533",
+    "geom:latitude": 39.446533,
+    "geom:longitude": -83.826632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 E Locust St",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 382 2018",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 382 2018",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_33VomE0WMoht01n5paF6dR_39.446533_-83.826632@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_33VomE0WMoht01n5paF6dR_39.446533_-83.826632@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784878,
-    "wof:geomhash":"44fe6a14dace766f66efe9d69dd3a200",
-    "wof:hierarchy":[],
-    "wof:id":689910631,
-    "wof:lastmodified":1472640070,
-    "wof:name":"Allen Studio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461784878,
+    "wof:geomhash": "330d8853deb7e632ae7f55cd359a3183",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689910631
+      }
+    ],
+    "wof:id": 689910631,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Allen Studio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.826632,
     39.446533,
     -83.826632,
     39.446533
-],
+  ],
   "geometry": {"coordinates":[-83.826632,39.446533],"type":"Point"}
 }

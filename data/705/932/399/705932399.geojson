@@ -2,61 +2,65 @@
   "id": 705932399,
   "type": "Feature",
   "properties": {
-    "addr:full":"131 S Bridge St Perrysville OH 44864",
-    "addr:housenumber":"131",
-    "addr:postcode":"44864",
-    "addr:street":"S Bridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.313653,40.655723,-82.313653,40.655723",
-    "geom:latitude":40.655723,
-    "geom:longitude":-82.313653,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"131 S Bridge St",
-    "sg:city":"Perrysville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "131 S Bridge St Perrysville OH 44864",
+    "addr:housenumber": "131",
+    "addr:postcode": "44864",
+    "addr:street": "S Bridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.313653,40.655723,-82.313653,40.655723",
+    "geom:latitude": 40.655723,
+    "geom:longitude": -82.313653,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "131 S Bridge St",
+    "sg:city": "Perrysville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 938 5345",
-    "sg:postcode":"44864",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 938 5345",
+    "sg:postcode": "44864",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1w3dWxMshZd2gX5pym0zmf_40.655723_-82.313653@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1w3dWxMshZd2gX5pym0zmf_40.655723_-82.313653@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792115,
-    "wof:geomhash":"278625b343cfa0b2d28e8d6469bd1fd7",
-    "wof:hierarchy":[],
-    "wof:id":705932399,
-    "wof:lastmodified":1472639653,
-    "wof:name":"Perrysville Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461792115,
+    "wof:geomhash": "abac95b6a6b34a8b808ea9e2072adbb2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705932399
+      }
+    ],
+    "wof:id": 705932399,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Perrysville Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.313653,
     40.655723,
     -82.313653,
     40.655723
-],
+  ],
   "geometry": {"coordinates":[-82.313653,40.655723],"type":"Point"}
 }

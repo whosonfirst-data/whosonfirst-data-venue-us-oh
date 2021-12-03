@@ -2,63 +2,67 @@
   "id": 689852621,
   "type": "Feature",
   "properties": {
-    "addr:full":"838 Market St Zanesville OH 43701",
-    "addr:housenumber":"838",
-    "addr:postcode":"43701",
-    "addr:street":"Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.002115,39.941527,-82.002115,39.941527",
-    "geom:latitude":39.941527,
-    "geom:longitude":-82.002115,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"838 Market St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "838 Market St Zanesville OH 43701",
+    "addr:housenumber": "838",
+    "addr:postcode": "43701",
+    "addr:street": "Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.002115,39.941527,-82.002115,39.941527",
+    "geom:latitude": 39.941527,
+    "geom:longitude": -82.002115,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "838 Market St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 439 5334",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 439 5334",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2q8l8rXClZtjVqvHxyYdxU_39.941527_-82.002115@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2q8l8rXClZtjVqvHxyYdxU_39.941527_-82.002115@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783369,
-    "wof:geomhash":"eb392955f14474c409f744808eb341c9",
-    "wof:hierarchy":[],
-    "wof:id":689852621,
-    "wof:lastmodified":1472639934,
-    "wof:name":"Guernsey Radiology Assoc Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461783369,
+    "wof:geomhash": "f0443e9b3009a634fef02e817b317888",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689852621
+      }
+    ],
+    "wof:id": 689852621,
+    "wof:lastmodified": 1638567082,
+    "wof:name": "Guernsey Radiology Assoc Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.002115,
     39.941527,
     -82.002115,
     39.941527
-],
+  ],
   "geometry": {"coordinates":[-82.002115,39.941527],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706161163,
   "type": "Feature",
   "properties": {
-    "addr:full":"2 S Main St Arcanum OH 45304",
-    "addr:housenumber":"2",
-    "addr:postcode":"45304",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.553225,39.990286,-84.553225,39.990286",
-    "geom:latitude":39.990286,
-    "geom:longitude":-84.553225,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2 S Main St",
-    "sg:city":"Arcanum",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2 S Main St Arcanum OH 45304",
+    "addr:housenumber": "2",
+    "addr:postcode": "45304",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.553225,39.990286,-84.553225,39.990286",
+    "geom:latitude": 39.990286,
+    "geom:longitude": -84.553225,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2 S Main St",
+    "sg:city": "Arcanum",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 692 6113",
-    "sg:postcode":"45304",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 692 6113",
+    "sg:postcode": "45304",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Iqb6FugFzauOrj5lZEcHf_39.990286_-84.553225@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Iqb6FugFzauOrj5lZEcHf_39.990286_-84.553225@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797233,
-    "wof:geomhash":"ccd58f96cf7bc6905bda00656ba25ff3",
-    "wof:hierarchy":[],
-    "wof:id":706161163,
-    "wof:lastmodified":1472639392,
-    "wof:name":"Ryan C Cherry DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461797233,
+    "wof:geomhash": "6fac2a957c46b0ebc4ef7ed52531b27e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706161163
+      }
+    ],
+    "wof:id": 706161163,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "Ryan C Cherry DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.553225,
     39.990286,
     -84.553225,
     39.990286
-],
+  ],
   "geometry": {"coordinates":[-84.553225,39.990286],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706205201,
   "type": "Feature",
   "properties": {
-    "addr:full":"10820 Ravenna Rd Twinsburg OH 44087",
-    "addr:housenumber":"10820",
-    "addr:postcode":"44087",
-    "addr:street":"Ravenna Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.468228,41.332931,-81.468228,41.332931",
-    "geom:latitude":41.332931,
-    "geom:longitude":-81.468228,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10820 Ravenna Rd",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "10820 Ravenna Rd Twinsburg OH 44087",
+    "addr:housenumber": "10820",
+    "addr:postcode": "44087",
+    "addr:street": "Ravenna Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.468228,41.332931,-81.468228,41.332931",
+    "geom:latitude": 41.332931,
+    "geom:longitude": -81.468228,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10820 Ravenna Rd",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 425 8070",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 425 8070",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4QSTivygfJo30s2qhSDaQy_41.332931_-81.468228@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4QSTivygfJo30s2qhSDaQy_41.332931_-81.468228@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798186,
-    "wof:geomhash":"adfd545e70a03987bf6bde91719760c8",
-    "wof:hierarchy":[],
-    "wof:id":706205201,
-    "wof:lastmodified":1472639489,
-    "wof:name":"Azzam N Ahmed MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461798186,
+    "wof:geomhash": "fc1eae34890a707e0a643962a16cdca1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706205201
+      }
+    ],
+    "wof:id": 706205201,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Azzam N Ahmed MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.468228,
     41.332931,
     -81.468228,
     41.332931
-],
+  ],
   "geometry": {"coordinates":[-81.468228,41.332931],"type":"Point"}
 }

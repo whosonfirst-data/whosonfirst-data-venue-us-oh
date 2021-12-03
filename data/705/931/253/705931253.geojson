@@ -2,63 +2,67 @@
   "id": 705931253,
   "type": "Feature",
   "properties": {
-    "addr:full":"919 E Main St Van Wert OH 45891",
-    "addr:housenumber":"919",
-    "addr:postcode":"45891",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.57183,40.869757,-84.57183,40.869757",
-    "geom:latitude":40.869757,
-    "geom:longitude":-84.57183,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"919 E Main St",
-    "sg:city":"Van Wert",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Scrap",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "919 E Main St Van Wert OH 45891",
+    "addr:housenumber": "919",
+    "addr:postcode": "45891",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.571830,40.869757,-84.571830,40.869757",
+    "geom:latitude": 40.869757,
+    "geom:longitude": -84.57183,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "919 E Main St",
+    "sg:city": "Van Wert",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Scrap",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 238 5476",
-    "sg:postcode":"45891",
-    "sg:province":"OH",
-    "sg:tags":[
-        "recycling",
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 238 5476",
+    "sg:postcode": "45891",
+    "sg:province": "OH",
+    "sg:tags": [
+      "recycling",
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ceAkNckemRBE8TmKqdJcJ_40.869757_-84.571830@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5ceAkNckemRBE8TmKqdJcJ_40.869757_-84.571830@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792087,
-    "wof:geomhash":"42f988125cdd65561deba4feb2855666",
-    "wof:hierarchy":[],
-    "wof:id":705931253,
-    "wof:lastmodified":1472639661,
-    "wof:name":"City Waste Paper",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "recycling",
-        "center"
+    "wof:country": "US",
+    "wof:created": 1461792087,
+    "wof:geomhash": "0558a6cf20f67e38f7b1b6775b7095b3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705931253
+      }
+    ],
+    "wof:id": 705931253,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "City Waste Paper",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "recycling",
+      "center"
     ]
-},
+  },
   "bbox": [
     -84.57183,
     40.869757,
     -84.57183,
     40.869757
-],
-  "geometry": {"coordinates":[-84.57183000000001,40.869757],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.57183,40.869757],"type":"Point"}
 }

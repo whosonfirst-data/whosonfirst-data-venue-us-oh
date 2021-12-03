@@ -2,61 +2,65 @@
   "id": 706119301,
   "type": "Feature",
   "properties": {
-    "addr:full":"5501 Dunham Rd Maple Heights OH 44137",
-    "addr:housenumber":"5501",
-    "addr:postcode":"44137",
-    "addr:street":"Dunham Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.575313,41.409158,-81.575313,41.409158",
-    "geom:latitude":41.409158,
-    "geom:longitude":-81.575313,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5501 Dunham Rd",
-    "sg:city":"Maple Heights",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5501 Dunham Rd Maple Heights OH 44137",
+    "addr:housenumber": "5501",
+    "addr:postcode": "44137",
+    "addr:street": "Dunham Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.575313,41.409158,-81.575313,41.409158",
+    "geom:latitude": 41.409158,
+    "geom:longitude": -81.575313,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5501 Dunham Rd",
+    "sg:city": "Maple Heights",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 662 6075",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bus"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 662 6075",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bus"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7A7PadEXeSztbwibE3FvxS_41.409158_-81.575313@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7A7PadEXeSztbwibE3FvxS_41.409158_-81.575313@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796250,
-    "wof:geomhash":"50ed7d06af51a5c22ffb58e1d8cc9507",
-    "wof:hierarchy":[],
-    "wof:id":706119301,
-    "wof:lastmodified":1472639287,
-    "wof:name":"Maple Heights Transit Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus"
+    "wof:country": "US",
+    "wof:created": 1461796250,
+    "wof:geomhash": "796d197e79d2825e524751cb63d4fe1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706119301
+      }
+    ],
+    "wof:id": 706119301,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Maple Heights Transit Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus"
     ]
-},
+  },
   "bbox": [
     -81.575313,
     41.409158,
     -81.575313,
     41.409158
-],
-  "geometry": {"coordinates":[-81.57531299999999,41.409158],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.575313,41.409158],"type":"Point"}
 }

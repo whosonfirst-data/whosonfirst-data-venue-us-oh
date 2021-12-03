@@ -2,61 +2,65 @@
   "id": 706188075,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 E Main St West Lafayette OH 43845",
-    "addr:housenumber":"106",
-    "addr:postcode":"43845",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.751035,40.275524,-81.751035,40.275524",
-    "geom:latitude":40.275524,
-    "geom:longitude":-81.751035,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"106 E Main St",
-    "sg:city":"West Lafayette",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "106 E Main St West Lafayette OH 43845",
+    "addr:housenumber": "106",
+    "addr:postcode": "43845",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.751035,40.275524,-81.751035,40.275524",
+    "geom:latitude": 40.275524,
+    "geom:longitude": -81.751035,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "106 E Main St",
+    "sg:city": "West Lafayette",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 545 9999",
-    "sg:postcode":"43845",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 545 9999",
+    "sg:postcode": "43845",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ASuk9VdB0F0x1yC9Pf6NP_40.275524_-81.751035@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ASuk9VdB0F0x1yC9Pf6NP_40.275524_-81.751035@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797813,
-    "wof:geomhash":"974c5951b2cf7e6c3053a2c7206ce715",
-    "wof:hierarchy":[],
-    "wof:id":706188075,
-    "wof:lastmodified":1472639443,
-    "wof:name":"Nick's Pizza Deli",
-    "wof:parent_id":420534607,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461797813,
+    "wof:geomhash": "7cd6adb592bf9642791a42b8b16ed8b7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706188075
+      }
+    ],
+    "wof:id": 706188075,
+    "wof:lastmodified": 1638567040,
+    "wof:name": "Nick's Pizza Deli",
+    "wof:parent_id": 420534607,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.751035,
     40.275524,
     -81.751035,
     40.275524
-],
+  ],
   "geometry": {"coordinates":[-81.751035,40.275524],"type":"Point"}
 }

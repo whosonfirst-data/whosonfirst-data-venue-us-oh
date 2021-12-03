@@ -2,61 +2,65 @@
   "id": 706046903,
   "type": "Feature",
   "properties": {
-    "addr:full":"207 W High St Melmore OH 44830",
-    "addr:housenumber":"207",
-    "addr:postcode":"44830",
-    "addr:street":"W High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.416622,41.16174,-83.416622,41.16174",
-    "geom:latitude":41.16174,
-    "geom:longitude":-83.416622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"207 W High St",
-    "sg:city":"Melmore",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Natural Gas",
-            "type":"Services"
-        }
+    "addr:full": "207 W High St Melmore OH 44830",
+    "addr:housenumber": "207",
+    "addr:postcode": "44830",
+    "addr:street": "W High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.416622,41.161740,-83.416622,41.161740",
+    "geom:latitude": 41.16174,
+    "geom:longitude": -83.416622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "207 W High St",
+    "sg:city": "Melmore",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Natural Gas",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 397 6251",
-    "sg:postcode":"44830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "transmission"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 397 6251",
+    "sg:postcode": "44830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "transmission"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3sgUIjEJ0vsD00zt0yXL8n_41.161740_-83.416622@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3sgUIjEJ0vsD00zt0yXL8n_41.161740_-83.416622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794539,
-    "wof:geomhash":"a4ba5ab6b9207fbacbcfc5c8d656fc0f",
-    "wof:hierarchy":[],
-    "wof:id":706046903,
-    "wof:lastmodified":1472638998,
-    "wof:name":"Columbia Gas Of Ohio Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transmission"
+    "wof:country": "US",
+    "wof:created": 1461794539,
+    "wof:geomhash": "9481e75b01fa68f395901a84de559259",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706046903
+      }
+    ],
+    "wof:id": 706046903,
+    "wof:lastmodified": 1638566967,
+    "wof:name": "Columbia Gas Of Ohio Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transmission"
     ]
-},
+  },
   "bbox": [
     -83.416622,
     41.16174,
     -83.416622,
     41.16174
-],
+  ],
   "geometry": {"coordinates":[-83.416622,41.16174],"type":"Point"}
 }

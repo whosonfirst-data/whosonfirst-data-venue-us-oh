@@ -2,61 +2,65 @@
   "id": 689533711,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 Prospect Ave S Hartville OH 44632",
-    "addr:housenumber":"129",
-    "addr:postcode":"44632",
-    "addr:street":"Prospect Ave S",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.332335,40.963218,-81.332335,40.963218",
-    "geom:latitude":40.963218,
-    "geom:longitude":-81.332335,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"129 Prospect Ave S",
-    "sg:city":"Hartville",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "129 Prospect Ave S Hartville OH 44632",
+    "addr:housenumber": "129",
+    "addr:postcode": "44632",
+    "addr:street": "Prospect Ave S",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.332335,40.963218,-81.332335,40.963218",
+    "geom:latitude": 40.963218,
+    "geom:longitude": -81.332335,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "129 Prospect Ave S",
+    "sg:city": "Hartville",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 877 4400",
-    "sg:postcode":"44632",
-    "sg:province":"OH",
-    "sg:tags":[
-        "florist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 877 4400",
+    "sg:postcode": "44632",
+    "sg:province": "OH",
+    "sg:tags": [
+      "florist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7kDa7hOA0rYHorI1R1sUyj_40.963218_-81.332335@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7kDa7hOA0rYHorI1R1sUyj_40.963218_-81.332335@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774196,
-    "wof:geomhash":"8c42d5b6471c4154b16db126c9c2c307",
-    "wof:hierarchy":[],
-    "wof:id":689533711,
-    "wof:lastmodified":1472639195,
-    "wof:name":"Just Not Normal",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "florist"
+    "wof:country": "US",
+    "wof:created": 1461774196,
+    "wof:geomhash": "31cf0f419966531a13054c1a416d1212",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689533711
+      }
+    ],
+    "wof:id": 689533711,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Just Not Normal",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "florist"
     ]
-},
+  },
   "bbox": [
     -81.332335,
     40.963218,
     -81.332335,
     40.963218
-],
+  ],
   "geometry": {"coordinates":[-81.332335,40.963218],"type":"Point"}
 }

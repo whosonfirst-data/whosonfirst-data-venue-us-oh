@@ -2,61 +2,65 @@
   "id": 689711479,
   "type": "Feature",
   "properties": {
-    "addr:full":"645 W Lincoln Hwy Lima OH 45807",
-    "addr:housenumber":"645",
-    "addr:postcode":"45807",
-    "addr:street":"W Lincoln Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.118206,40.831613,-84.118206,40.831613",
-    "geom:latitude":40.831613,
-    "geom:longitude":-84.118206,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"645 W Lincoln Hwy",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "645 W Lincoln Hwy Lima OH 45807",
+    "addr:housenumber": "645",
+    "addr:postcode": "45807",
+    "addr:street": "W Lincoln Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.118206,40.831613,-84.118206,40.831613",
+    "geom:latitude": 40.831613,
+    "geom:longitude": -84.118206,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "645 W Lincoln Hwy",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 641 3125",
-    "sg:postcode":"45807",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 641 3125",
+    "sg:postcode": "45807",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1b3Zh81870rEDZikkB9E6t_40.831613_-84.118206@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1b3Zh81870rEDZikkB9E6t_40.831613_-84.118206@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779438,
-    "wof:geomhash":"c1d48a6cc7ad6f65a767d3b94cc3b43b",
-    "wof:hierarchy":[],
-    "wof:id":689711479,
-    "wof:lastmodified":1472639720,
-    "wof:name":"Meeks Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461779438,
+    "wof:geomhash": "96473d59fdce081bfcbb4a49dd3ce62f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689711479
+      }
+    ],
+    "wof:id": 689711479,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Meeks Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -84.118206,
     40.831613,
     -84.118206,
     40.831613
-],
+  ],
   "geometry": {"coordinates":[-84.118206,40.831613],"type":"Point"}
 }

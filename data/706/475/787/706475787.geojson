@@ -2,61 +2,65 @@
   "id": 706475787,
   "type": "Feature",
   "properties": {
-    "addr:full":"179 Zanesville Rd Roseville OH 43777",
-    "addr:housenumber":"179",
-    "addr:postcode":"43777",
-    "addr:street":"Zanesville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.072801,39.80754,-82.072801,39.80754",
-    "geom:latitude":39.80754,
-    "geom:longitude":-82.072801,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"179 Zanesville Rd",
-    "sg:city":"Roseville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "179 Zanesville Rd Roseville OH 43777",
+    "addr:housenumber": "179",
+    "addr:postcode": "43777",
+    "addr:street": "Zanesville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.072801,39.807540,-82.072801,39.807540",
+    "geom:latitude": 39.80754,
+    "geom:longitude": -82.072801,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "179 Zanesville Rd",
+    "sg:city": "Roseville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 697 7264",
-    "sg:postcode":"43777",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 697 7264",
+    "sg:postcode": "43777",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6bfuRe1MLcloDUbz1Uk9p1_39.807540_-82.072801@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6bfuRe1MLcloDUbz1Uk9p1_39.807540_-82.072801@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803963,
-    "wof:geomhash":"9af5bbd8c2852fc0f5691ff22f194349",
-    "wof:hierarchy":[],
-    "wof:id":706475787,
-    "wof:lastmodified":1472640109,
-    "wof:name":"Jeff Perr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461803963,
+    "wof:geomhash": "99a7ff00e6467cc84c7ab47a600928f6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706475787
+      }
+    ],
+    "wof:id": 706475787,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "Jeff Perr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -82.072801,
     39.80754,
     -82.072801,
     39.80754
-],
+  ],
   "geometry": {"coordinates":[-82.072801,39.80754],"type":"Point"}
 }

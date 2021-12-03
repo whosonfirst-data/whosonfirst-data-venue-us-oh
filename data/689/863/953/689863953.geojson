@@ -2,63 +2,67 @@
   "id": 689863953,
   "type": "Feature",
   "properties": {
-    "addr:full":"275 Hedges St Mansfield OH 44902",
-    "addr:housenumber":"275",
-    "addr:postcode":"44902",
-    "addr:street":"Hedges St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.509855,40.750158,-82.509855,40.750158",
-    "geom:latitude":40.750158,
-    "geom:longitude":-82.509855,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"275 Hedges St",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Jail",
-            "type":"Public Place"
-        }
+    "addr:full": "275 Hedges St Mansfield OH 44902",
+    "addr:housenumber": "275",
+    "addr:postcode": "44902",
+    "addr:street": "Hedges St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.509855,40.750158,-82.509855,40.750158",
+    "geom:latitude": 40.750158,
+    "geom:longitude": -82.509855,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "275 Hedges St",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Jail",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 774 5663",
-    "sg:postcode":"44902",
-    "sg:province":"OH",
-    "sg:tags":[
-        "correctional",
-        "institution"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 774 5663",
+    "sg:postcode": "44902",
+    "sg:province": "OH",
+    "sg:tags": [
+      "correctional",
+      "institution"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3nunRkdaKumrk9KRubAaDM_40.750158_-82.509855@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3nunRkdaKumrk9KRubAaDM_40.750158_-82.509855@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783613,
-    "wof:geomhash":"2381352f05a8f9b0f208278a050bbf31",
-    "wof:hierarchy":[],
-    "wof:id":689863953,
-    "wof:lastmodified":1472639959,
-    "wof:name":"Hudges Juv Detention Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "correctional",
-        "institution"
+    "wof:country": "US",
+    "wof:created": 1461783613,
+    "wof:geomhash": "b97b1715c9f40b59f7fdc21af333ab87",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689863953
+      }
+    ],
+    "wof:id": 689863953,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Hudges Juv Detention Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "correctional",
+      "institution"
     ]
-},
+  },
   "bbox": [
     -82.509855,
     40.750158,
     -82.509855,
     40.750158
-],
+  ],
   "geometry": {"coordinates":[-82.509855,40.750158],"type":"Point"}
 }

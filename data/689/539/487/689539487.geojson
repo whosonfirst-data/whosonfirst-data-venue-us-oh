@@ -2,61 +2,65 @@
   "id": 689539487,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 E 1st St London OH 43140",
-    "addr:housenumber":"10",
-    "addr:postcode":"43140",
-    "addr:street":"E 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.446261,39.885143,-83.446261,39.885143",
-    "geom:latitude":39.885143,
-    "geom:longitude":-83.446261,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 E 1st St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "10 E 1st St London OH 43140",
+    "addr:housenumber": "10",
+    "addr:postcode": "43140",
+    "addr:street": "E 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.446261,39.885143,-83.446261,39.885143",
+    "geom:latitude": 39.885143,
+    "geom:longitude": -83.446261,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10 E 1st St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 1414",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 1414",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_58k5bazgtWALQ4gOx8GgEM_39.885143_-83.446261@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_58k5bazgtWALQ4gOx8GgEM_39.885143_-83.446261@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774340,
-    "wof:geomhash":"967e8374457fecfdf8c36f1685019cd7",
-    "wof:hierarchy":[],
-    "wof:id":689539487,
-    "wof:lastmodified":1472639202,
-    "wof:name":"London Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461774340,
+    "wof:geomhash": "65bd1271662483565ac14bb993d13924",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689539487
+      }
+    ],
+    "wof:id": 689539487,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "London Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.446261,
     39.885143,
     -83.446261,
     39.885143
-],
-  "geometry": {"coordinates":[-83.44626100000001,39.885143],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.446261,39.885143],"type":"Point"}
 }

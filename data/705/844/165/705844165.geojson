@@ -2,63 +2,67 @@
   "id": 705844165,
   "type": "Feature",
   "properties": {
-    "addr:full":"410 Birchard Ave Fremont OH 43420",
-    "addr:housenumber":"410",
-    "addr:postcode":"43420",
-    "addr:street":"Birchard Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.114954,41.344441,-83.114954,41.344441",
-    "geom:latitude":41.344441,
-    "geom:longitude":-83.114954,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"410 Birchard Ave",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "410 Birchard Ave Fremont OH 43420",
+    "addr:housenumber": "410",
+    "addr:postcode": "43420",
+    "addr:street": "Birchard Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.114954,41.344441,-83.114954,41.344441",
+    "geom:latitude": 41.344441,
+    "geom:longitude": -83.114954,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "410 Birchard Ave",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 4428",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 4428",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06NvjVesLWg1ACq5tIfPWB_41.344441_-83.114954@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_06NvjVesLWg1ACq5tIfPWB_41.344441_-83.114954@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790049,
-    "wof:geomhash":"10fc4de5ce42ce5ad2143639e1cca8e9",
-    "wof:hierarchy":[],
-    "wof:id":705844165,
-    "wof:lastmodified":1472639391,
-    "wof:name":"Birchard Medical Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461790049,
+    "wof:geomhash": "255ed9747de4e112c81d4f18ab25496d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705844165
+      }
+    ],
+    "wof:id": 705844165,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Birchard Medical Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.114954,
     41.344441,
     -83.114954,
     41.344441
-],
+  ],
   "geometry": {"coordinates":[-83.114954,41.344441],"type":"Point"}
 }

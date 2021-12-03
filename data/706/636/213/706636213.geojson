@@ -2,61 +2,65 @@
   "id": 706636213,
   "type": "Feature",
   "properties": {
-    "addr:full":"10693 Reading Rd Cincinnati OH 45241",
-    "addr:housenumber":"10693",
-    "addr:postcode":"45241",
-    "addr:street":"Reading Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.417821,39.260848,-84.417821,39.260848",
-    "geom:latitude":39.260848,
-    "geom:longitude":-84.417821,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10693 Reading Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "10693 Reading Rd Cincinnati OH 45241",
+    "addr:housenumber": "10693",
+    "addr:postcode": "45241",
+    "addr:street": "Reading Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.417821,39.260848,-84.417821,39.260848",
+    "geom:latitude": 39.260848,
+    "geom:longitude": -84.417821,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10693 Reading Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 769 0421",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 769 0421",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6jphVAPDN53t3bn9rT2qwN_39.260848_-84.417821@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6jphVAPDN53t3bn9rT2qwN_39.260848_-84.417821@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807500,
-    "wof:geomhash":"e73c21b168dde33b6c20afb6dc89fb08",
-    "wof:hierarchy":[],
-    "wof:id":706636213,
-    "wof:lastmodified":1472640247,
-    "wof:name":"Roger's Auctions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461807500,
+    "wof:geomhash": "23564e6122f73523fcd463ee22e8d1a8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706636213
+      }
+    ],
+    "wof:id": 706636213,
+    "wof:lastmodified": 1638567150,
+    "wof:name": "Roger's Auctions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.417821,
     39.260848,
     -84.417821,
     39.260848
-],
+  ],
   "geometry": {"coordinates":[-84.417821,39.260848],"type":"Point"}
 }

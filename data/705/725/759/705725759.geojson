@@ -2,65 +2,69 @@
   "id": 705725759,
   "type": "Feature",
   "properties": {
-    "addr:full":"126 Oak St Marion OH 43302",
-    "addr:housenumber":"126",
-    "addr:postcode":"43302",
-    "addr:street":"Oak St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.131825,40.589303,-83.131825,40.589303",
-    "geom:latitude":40.589303,
-    "geom:longitude":-83.131825,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"126 Oak St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "126 Oak St Marion OH 43302",
+    "addr:housenumber": "126",
+    "addr:postcode": "43302",
+    "addr:street": "Oak St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.131825,40.589303,-83.131825,40.589303",
+    "geom:latitude": 40.589303,
+    "geom:longitude": -83.131825,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "126 Oak St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 383 3077",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 383 3077",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Fla1kLQEn8WxxiGeaVQ3M_40.589303_-83.131825@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Fla1kLQEn8WxxiGeaVQ3M_40.589303_-83.131825@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787300,
-    "wof:geomhash":"a8cb83f03683afb9ed1d58f3e901c4de",
-    "wof:hierarchy":[],
-    "wof:id":705725759,
-    "wof:lastmodified":1472638770,
-    "wof:name":"Modern Delivery & Moving",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461787300,
+    "wof:geomhash": "f9c644e61137f01a9e120348b3be9338",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705725759
+      }
+    ],
+    "wof:id": 705725759,
+    "wof:lastmodified": 1638566941,
+    "wof:name": "Modern Delivery \u0026 Moving",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.131825,
     40.589303,
     -83.131825,
     40.589303
-],
-  "geometry": {"coordinates":[-83.13182500000001,40.589303],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.131825,40.589303],"type":"Point"}
 }

@@ -2,64 +2,68 @@
   "id": 705775009,
   "type": "Feature",
   "properties": {
-    "addr:full":"518 2nd Ave Gallipolis OH 45631",
-    "addr:housenumber":"518",
-    "addr:postcode":"45631",
-    "addr:street":"2Nd Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.20153,38.810404,-82.20153,38.810404",
-    "geom:latitude":38.810404,
-    "geom:longitude":-82.20153,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"518 2nd Ave",
-    "sg:city":"Gallipolis",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "518 2nd Ave Gallipolis OH 45631",
+    "addr:housenumber": "518",
+    "addr:postcode": "45631",
+    "addr:street": "2Nd Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.201530,38.810404,-82.201530,38.810404",
+    "geom:latitude": 38.810404,
+    "geom:longitude": -82.20153,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "518 2nd Ave",
+    "sg:city": "Gallipolis",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 446 1313",
-    "sg:postcode":"45631",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 446 1313",
+    "sg:postcode": "45631",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574855,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6O4ZJkNd6WvhrZlOY1S33T_38.810404_-82.201530@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574855,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6O4ZJkNd6WvhrZlOY1S33T_38.810404_-82.201530@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788428,
-    "wof:geomhash":"8e2f471bcdc2cd79a4a2b33b52f2b9dd",
-    "wof:hierarchy":[],
-    "wof:id":705775009,
-    "wof:lastmodified":1511323635,
-    "wof:name":"Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461788428,
+    "wof:geomhash": "8e2f471bcdc2cd79a4a2b33b52f2b9dd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705775009
+      }
+    ],
+    "wof:id": 705775009,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.20153,
     38.810404,
     -82.20153,
     38.810404
-],
-  "geometry": {"coordinates":[-82.20153000000001,38.810404],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.20153,38.810404],"type":"Point"}
 }

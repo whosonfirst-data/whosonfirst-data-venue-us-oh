@@ -2,61 +2,65 @@
   "id": 689499555,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 Bayview Ave Put In Bay OH 43456",
-    "addr:housenumber":"150",
-    "addr:postcode":"43456",
-    "addr:street":"Bayview Ave Put In Bay",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.811491,41.654612,-82.811491,41.654612",
-    "geom:latitude":41.654612,
-    "geom:longitude":-82.811491,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"150 Bayview Ave",
-    "sg:city":"Put In Bay",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "150 Bayview Ave Put In Bay OH 43456",
+    "addr:housenumber": "150",
+    "addr:postcode": "43456",
+    "addr:street": "Bayview Ave Put In Bay",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.811491,41.654612,-82.811491,41.654612",
+    "geom:latitude": 41.654612,
+    "geom:longitude": -82.811491,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "150 Bayview Ave",
+    "sg:city": "Put In Bay",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 285 1011",
-    "sg:postcode":"43456",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 285 1011",
+    "sg:postcode": "43456",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hWmoW02iXZGzeGJ2YLcan_41.654612_-82.811491@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7hWmoW02iXZGzeGJ2YLcan_41.654612_-82.811491@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773079,
-    "wof:geomhash":"2014a48b37e96aef6d39e28fc1ff12da",
-    "wof:hierarchy":[],
-    "wof:id":689499555,
-    "wof:lastmodified":1472638990,
-    "wof:name":"Clubhouse",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:country": "US",
+    "wof:created": 1461773079,
+    "wof:geomhash": "92e71d251b0ecbda5d8484b6d45bdf3d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689499555
+      }
+    ],
+    "wof:id": 689499555,
+    "wof:lastmodified": 1638566944,
+    "wof:name": "Clubhouse",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -82.811491,
     41.654612,
     -82.811491,
     41.654612
-],
+  ],
   "geometry": {"coordinates":[-82.811491,41.654612],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705713587,
   "type": "Feature",
   "properties": {
-    "addr:full":"13124 Main Market Rd Mantua OH 44021",
-    "addr:housenumber":"13124",
-    "addr:postcode":"44021",
-    "addr:street":"Main Market Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.158953,41.386915,-81.158953,41.386915",
-    "geom:latitude":41.386915,
-    "geom:longitude":-81.158953,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13124 Main Market Rd",
-    "sg:city":"Mantua",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Testing Lab",
-            "type":"Services"
-        }
+    "addr:full": "13124 Main Market Rd Mantua OH 44021",
+    "addr:housenumber": "13124",
+    "addr:postcode": "44021",
+    "addr:street": "Main Market Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.158953,41.386915,-81.158953,41.386915",
+    "geom:latitude": 41.386915,
+    "geom:longitude": -81.158953,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13124 Main Market Rd",
+    "sg:city": "Mantua",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Testing Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 834 4531",
-    "sg:postcode":"44021",
-    "sg:province":"OH",
-    "sg:tags":[
-        "x"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 834 4531",
+    "sg:postcode": "44021",
+    "sg:province": "OH",
+    "sg:tags": [
+      "x"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4soHz30DYgJlAN6oPNWBNl_41.386915_-81.158953@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4soHz30DYgJlAN6oPNWBNl_41.386915_-81.158953@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786996,
-    "wof:geomhash":"9c661bc5ab1e48a01a5a897134ac22b7",
-    "wof:hierarchy":[],
-    "wof:id":705713587,
-    "wof:lastmodified":1472638372,
-    "wof:name":"Dick Portman",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "x"
+    "wof:country": "US",
+    "wof:created": 1461786996,
+    "wof:geomhash": "6b33109c6e32d519fed3dbc4749eff9f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705713587
+      }
+    ],
+    "wof:id": 705713587,
+    "wof:lastmodified": 1638566930,
+    "wof:name": "Dick Portman",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "x"
     ]
-},
+  },
   "bbox": [
     -81.158953,
     41.386915,
     -81.158953,
     41.386915
-],
+  ],
   "geometry": {"coordinates":[-81.158953,41.386915],"type":"Point"}
 }

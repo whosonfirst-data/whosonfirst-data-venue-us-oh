@@ -2,61 +2,65 @@
   "id": 705950749,
   "type": "Feature",
   "properties": {
-    "addr:full":"25911 Euclid Ave Cleveland OH 44132",
-    "addr:housenumber":"25911",
-    "addr:postcode":"44132",
-    "addr:street":"Euclid Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.504151,41.586181,-81.504151,41.586181",
-    "geom:latitude":41.586181,
-    "geom:longitude":-81.504151,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"25911 Euclid Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "25911 Euclid Ave Cleveland OH 44132",
+    "addr:housenumber": "25911",
+    "addr:postcode": "44132",
+    "addr:street": "Euclid Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.504151,41.586181,-81.504151,41.586181",
+    "geom:latitude": 41.586181,
+    "geom:longitude": -81.504151,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "25911 Euclid Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 261 5430",
-    "sg:postcode":"44132",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 261 5430",
+    "sg:postcode": "44132",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06zuGK0awdUlhoDc52NgIv_41.586181_-81.504151@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_06zuGK0awdUlhoDc52NgIv_41.586181_-81.504151@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792545,
-    "wof:geomhash":"c1940da321e4ab0cc5ea39f15ad0305d",
-    "wof:hierarchy":[],
-    "wof:id":705950749,
-    "wof:lastmodified":1472639702,
-    "wof:name":"Richmond Restaurant Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461792545,
+    "wof:geomhash": "99cb931e2577085062acbc147fbb93f2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705950749
+      }
+    ],
+    "wof:id": 705950749,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Richmond Restaurant Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.504151,
     41.586181,
     -81.504151,
     41.586181
-],
-  "geometry": {"coordinates":[-81.50415099999999,41.586181],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.504151,41.586181],"type":"Point"}
 }

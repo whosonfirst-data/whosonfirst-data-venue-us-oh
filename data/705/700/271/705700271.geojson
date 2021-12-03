@@ -2,64 +2,68 @@
   "id": 705700271,
   "type": "Feature",
   "properties": {
-    "addr:full":"4870 Frazeysburg Rd Zanesville OH 43701",
-    "addr:housenumber":"4870",
-    "addr:postcode":"43701",
-    "addr:street":"Frazeysburg Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.040788,40.0142,-82.040788,40.0142",
-    "geom:latitude":40.0142,
-    "geom:longitude":-82.040788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"4870 Frazeysburg Rd",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "4870 Frazeysburg Rd Zanesville OH 43701",
+    "addr:housenumber": "4870",
+    "addr:postcode": "43701",
+    "addr:street": "Frazeysburg Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.040788,40.014200,-82.040788,40.014200",
+    "geom:latitude": 40.0142,
+    "geom:longitude": -82.040788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "4870 Frazeysburg Rd",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 6074",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 6074",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125156701,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1hiURcge1PYZriP4MZOldm_40.014200_-82.040788@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125156701,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1hiURcge1PYZriP4MZOldm_40.014200_-82.040788@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786538,
-    "wof:geomhash":"b5d5b8d1e29c8bc3f7a98ca15cec52a8",
-    "wof:hierarchy":[],
-    "wof:id":705700271,
-    "wof:lastmodified":1511316905,
-    "wof:name":"Animal Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461786538,
+    "wof:geomhash": "b5d5b8d1e29c8bc3f7a98ca15cec52a8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705700271
+      }
+    ],
+    "wof:id": 705700271,
+    "wof:lastmodified": 1638566918,
+    "wof:name": "Animal Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -82.040788,
     40.0142,
     -82.040788,
     40.0142
-],
-  "geometry": {"coordinates":[-82.04078800000001,40.0142],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.040788,40.0142],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706344307,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 S State St Pioneer OH 43554",
-    "addr:housenumber":"120",
-    "addr:postcode":"43554",
-    "addr:street":"S State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.55361,41.679672,-84.55361,41.679672",
-    "geom:latitude":41.679672,
-    "geom:longitude":-84.55361,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"120 S State St",
-    "sg:city":"Pioneer",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "120 S State St Pioneer OH 43554",
+    "addr:housenumber": "120",
+    "addr:postcode": "43554",
+    "addr:street": "S State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.553610,41.679672,-84.553610,41.679672",
+    "geom:latitude": 41.679672,
+    "geom:longitude": -84.55361,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "120 S State St",
+    "sg:city": "Pioneer",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 737 2603",
-    "sg:postcode":"43554",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 737 2603",
+    "sg:postcode": "43554",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_48DanrBJasvSay1GL06tpq_41.679672_-84.553610@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_48DanrBJasvSay1GL06tpq_41.679672_-84.553610@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801289,
-    "wof:geomhash":"374c184382a9c6f228ce8f951d3f812b",
-    "wof:hierarchy":[],
-    "wof:id":706344307,
-    "wof:lastmodified":1472639855,
-    "wof:name":"David S Brown DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461801289,
+    "wof:geomhash": "59fe88bbf2ed758f7d4be8a1798446d5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706344307
+      }
+    ],
+    "wof:id": 706344307,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "David S Brown DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.55361,
     41.679672,
     -84.55361,
     41.679672
-],
-  "geometry": {"coordinates":[-84.55361000000001,41.679672],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.55361,41.679672],"type":"Point"}
 }

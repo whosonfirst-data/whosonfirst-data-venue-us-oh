@@ -2,61 +2,65 @@
   "id": 689840319,
   "type": "Feature",
   "properties": {
-    "addr:full":"25028 Heather Ln Cleveland OH 44143",
-    "addr:housenumber":"25028",
-    "addr:postcode":"44143",
-    "addr:street":"Heather Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.507915,41.563995,-81.507915,41.563995",
-    "geom:latitude":41.563995,
-    "geom:longitude":-81.507915,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"25028 Heather Ln",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "25028 Heather Ln Cleveland OH 44143",
+    "addr:housenumber": "25028",
+    "addr:postcode": "44143",
+    "addr:street": "Heather Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.507915,41.563995,-81.507915,41.563995",
+    "geom:latitude": 41.563995,
+    "geom:longitude": -81.507915,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "25028 Heather Ln",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 531 0171",
-    "sg:postcode":"44143",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 531 0171",
+    "sg:postcode": "44143",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6hygsagV92ACdvr8yBdhAo_41.563995_-81.507915@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6hygsagV92ACdvr8yBdhAo_41.563995_-81.507915@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783107,
-    "wof:geomhash":"7c64660fcaa4ba6f5862243a9ac01d78",
-    "wof:hierarchy":[],
-    "wof:id":689840319,
-    "wof:lastmodified":1472639912,
-    "wof:name":"Glen E Schriefer",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461783107,
+    "wof:geomhash": "dbf2a72baa72d81cda54d55f106feca5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689840319
+      }
+    ],
+    "wof:id": 689840319,
+    "wof:lastmodified": 1638567075,
+    "wof:name": "Glen E Schriefer",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general"
     ]
-},
+  },
   "bbox": [
     -81.507915,
     41.563995,
     -81.507915,
     41.563995
-],
+  ],
   "geometry": {"coordinates":[-81.507915,41.563995],"type":"Point"}
 }

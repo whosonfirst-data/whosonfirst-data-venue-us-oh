@@ -2,61 +2,65 @@
   "id": 706042347,
   "type": "Feature",
   "properties": {
-    "addr:full":"1920 S Main St Findlay OH 45840",
-    "addr:housenumber":"1920",
-    "addr:postcode":"45840",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650417,41.016977,-83.650417,41.016977",
-    "geom:latitude":41.016977,
-    "geom:longitude":-83.650417,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1920 S Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1920 S Main St Findlay OH 45840",
+    "addr:housenumber": "1920",
+    "addr:postcode": "45840",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650417,41.016977,-83.650417,41.016977",
+    "geom:latitude": 41.016977,
+    "geom:longitude": -83.650417,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1920 S Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 422 6190",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 422 6190",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5UGmTWcYGgmeUqUFZvcJtG_41.016977_-83.650417@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5UGmTWcYGgmeUqUFZvcJtG_41.016977_-83.650417@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794449,
-    "wof:geomhash":"c5fd2d6c16fd039ca4cdaf3989c1277a",
-    "wof:hierarchy":[],
-    "wof:id":706042347,
-    "wof:lastmodified":1472638908,
-    "wof:name":"Ebersole Kurt L Od",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461794449,
+    "wof:geomhash": "7f4b05b4c76df39c38e1289cd94e8624",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706042347
+      }
+    ],
+    "wof:id": 706042347,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Ebersole Kurt L Od",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -83.650417,
     41.016977,
     -83.650417,
     41.016977
-],
+  ],
   "geometry": {"coordinates":[-83.650417,41.016977],"type":"Point"}
 }

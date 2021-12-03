@@ -2,65 +2,69 @@
   "id": 705712555,
   "type": "Feature",
   "properties": {
-    "addr:full":"1817 S Jefferson Rd Wooster OH 44691",
-    "addr:housenumber":"1817",
-    "addr:postcode":"44691",
-    "addr:street":"S Jefferson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.023111,40.782301,-82.023111,40.782301",
-    "geom:latitude":40.782301,
-    "geom:longitude":-82.023111,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1817 S Jefferson Rd",
-    "sg:city":"Wooster",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1817 S Jefferson Rd Wooster OH 44691",
+    "addr:housenumber": "1817",
+    "addr:postcode": "44691",
+    "addr:street": "S Jefferson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.023111,40.782301,-82.023111,40.782301",
+    "geom:latitude": 40.782301,
+    "geom:longitude": -82.023111,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1817 S Jefferson Rd",
+    "sg:city": "Wooster",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 264 4733",
-    "sg:postcode":"44691",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 264 4733",
+    "sg:postcode": "44691",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5DD0ohUTS2P95X5IDp794E_40.782301_-82.023111@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5DD0ohUTS2P95X5IDp794E_40.782301_-82.023111@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786960,
-    "wof:geomhash":"f436cf4606bc0157c79b97d6fdfca19c",
-    "wof:hierarchy":[],
-    "wof:id":705712555,
-    "wof:lastmodified":1472638373,
-    "wof:name":"Speicher Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461786960,
+    "wof:geomhash": "109a79b902fa4b411495dd79b1bb6e78",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705712555
+      }
+    ],
+    "wof:id": 705712555,
+    "wof:lastmodified": 1638566929,
+    "wof:name": "Speicher Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.023111,
     40.782301,
     -82.023111,
     40.782301
-],
+  ],
   "geometry": {"coordinates":[-82.023111,40.782301],"type":"Point"}
 }

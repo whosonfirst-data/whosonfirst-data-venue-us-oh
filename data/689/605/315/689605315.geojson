@@ -2,61 +2,65 @@
   "id": 689605315,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 S Detroit St Bellefontaine OH 43311",
-    "addr:housenumber":"1600",
-    "addr:postcode":"43311",
-    "addr:street":"S Detroit St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.763255,40.337516,-83.763255,40.337516",
-    "geom:latitude":40.337516,
-    "geom:longitude":-83.763255,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1600 S Detroit St",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1600 S Detroit St Bellefontaine OH 43311",
+    "addr:housenumber": "1600",
+    "addr:postcode": "43311",
+    "addr:street": "S Detroit St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.763255,40.337516,-83.763255,40.337516",
+    "geom:latitude": 40.337516,
+    "geom:longitude": -83.763255,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1600 S Detroit St",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 599 9930",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 599 9930",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Kfv8G5yIsE9ivsEtyIy22_40.337516_-83.763255@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Kfv8G5yIsE9ivsEtyIy22_40.337516_-83.763255@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776418,
-    "wof:geomhash":"5b6bbaecfd9cd67b253766a8a025949f",
-    "wof:hierarchy":[],
-    "wof:id":689605315,
-    "wof:lastmodified":1472639408,
-    "wof:name":"Strawn Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461776418,
+    "wof:geomhash": "ecfa677e923ba2e95f71d98657aa3e5e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689605315
+      }
+    ],
+    "wof:id": 689605315,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Strawn Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.763255,
     40.337516,
     -83.763255,
     40.337516
-],
+  ],
   "geometry": {"coordinates":[-83.763255,40.337516],"type":"Point"}
 }

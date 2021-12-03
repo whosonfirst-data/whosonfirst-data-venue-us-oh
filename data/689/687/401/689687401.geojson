@@ -2,61 +2,65 @@
   "id": 689687401,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 E Main St Apple Creek OH 44606",
-    "addr:housenumber":"123",
-    "addr:postcode":"44606",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.834709,40.748074,-81.834709,40.748074",
-    "geom:latitude":40.748074,
-    "geom:longitude":-81.834709,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 E Main St",
-    "sg:city":"Apple Creek",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "123 E Main St Apple Creek OH 44606",
+    "addr:housenumber": "123",
+    "addr:postcode": "44606",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.834709,40.748074,-81.834709,40.748074",
+    "geom:latitude": 40.748074,
+    "geom:longitude": -81.834709,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 E Main St",
+    "sg:city": "Apple Creek",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 698 5114",
-    "sg:postcode":"44606",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 698 5114",
+    "sg:postcode": "44606",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xKz3l2pbFst2o7JAimxVE_40.748074_-81.834709@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xKz3l2pbFst2o7JAimxVE_40.748074_-81.834709@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778807,
-    "wof:geomhash":"61371c0cc277c951b11e9304b1abadc9",
-    "wof:hierarchy":[],
-    "wof:id":689687401,
-    "wof:lastmodified":1472639649,
-    "wof:name":"Tantilizing Tanning Salon",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461778807,
+    "wof:geomhash": "8d4e8a3e0a45b5a22f67b08ae629b9ff",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689687401
+      }
+    ],
+    "wof:id": 689687401,
+    "wof:lastmodified": 1638567021,
+    "wof:name": "Tantilizing Tanning Salon",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.834709,
     40.748074,
     -81.834709,
     40.748074
-],
+  ],
   "geometry": {"coordinates":[-81.834709,40.748074],"type":"Point"}
 }

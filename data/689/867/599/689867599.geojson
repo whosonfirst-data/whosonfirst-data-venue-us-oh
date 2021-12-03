@@ -2,61 +2,65 @@
   "id": 689867599,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Center St Chardon OH 44024",
-    "addr:housenumber":"200",
-    "addr:postcode":"44024",
-    "addr:street":"Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.208925,41.583352,-81.208925,41.583352",
-    "geom:latitude":41.583352,
-    "geom:longitude":-81.208925,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 Center St",
-    "sg:city":"Chardon",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "200 Center St Chardon OH 44024",
+    "addr:housenumber": "200",
+    "addr:postcode": "44024",
+    "addr:street": "Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.208925,41.583352,-81.208925,41.583352",
+    "geom:latitude": 41.583352,
+    "geom:longitude": -81.208925,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 Center St",
+    "sg:city": "Chardon",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 285 2424",
-    "sg:postcode":"44024",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 285 2424",
+    "sg:postcode": "44024",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7AMYu2EXAIEai55mBJGBPG_41.583352_-81.208925@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7AMYu2EXAIEai55mBJGBPG_41.583352_-81.208925@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783730,
-    "wof:geomhash":"6e7a445fbc046b21a6b5e7d919e4f5c6",
-    "wof:hierarchy":[],
-    "wof:id":689867599,
-    "wof:lastmodified":1472639956,
-    "wof:name":"Chardon Family Dentistry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461783730,
+    "wof:geomhash": "7d351bc85c1e98dd8ae467483d9981da",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689867599
+      }
+    ],
+    "wof:id": 689867599,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Chardon Family Dentistry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.208925,
     41.583352,
     -81.208925,
     41.583352
-],
-  "geometry": {"coordinates":[-81.20892499999999,41.583352],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.208925,41.583352],"type":"Point"}
 }

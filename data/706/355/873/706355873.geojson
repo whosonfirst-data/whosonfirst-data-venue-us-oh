@@ -2,61 +2,65 @@
   "id": 706355873,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 E Walnut St Cardington OH 43315",
-    "addr:housenumber":"123",
-    "addr:postcode":"43315",
-    "addr:street":"E Walnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.893247,40.498657,-82.893247,40.498657",
-    "geom:latitude":40.498657,
-    "geom:longitude":-82.893247,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 E Walnut St",
-    "sg:city":"Cardington",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "123 E Walnut St Cardington OH 43315",
+    "addr:housenumber": "123",
+    "addr:postcode": "43315",
+    "addr:street": "E Walnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.893247,40.498657,-82.893247,40.498657",
+    "geom:latitude": 40.498657,
+    "geom:longitude": -82.893247,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 E Walnut St",
+    "sg:city": "Cardington",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 864 7736",
-    "sg:postcode":"43315",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 864 7736",
+    "sg:postcode": "43315",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4YfPrlR8qr0VjCXUHxcNwT_40.498657_-82.893247@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4YfPrlR8qr0VjCXUHxcNwT_40.498657_-82.893247@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801523,
-    "wof:geomhash":"8ffa139d4c3983c4b70420730cfd4be0",
-    "wof:hierarchy":[],
-    "wof:id":706355873,
-    "wof:lastmodified":1472639919,
-    "wof:name":"Jay Weaver",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461801523,
+    "wof:geomhash": "cb5d75938ba2ad65b470a546d90cf1e7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706355873
+      }
+    ],
+    "wof:id": 706355873,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Jay Weaver",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -82.893247,
     40.498657,
     -82.893247,
     40.498657
-],
+  ],
   "geometry": {"coordinates":[-82.893247,40.498657],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706325903,
   "type": "Feature",
   "properties": {
-    "addr:full":"5753 Bavaria Ave Cleveland OH 44129",
-    "addr:housenumber":"5753",
-    "addr:postcode":"44129",
-    "addr:street":"Bavaria Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.741821,41.405531,-81.741821,41.405531",
-    "geom:latitude":41.405531,
-    "geom:longitude":-81.741821,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5753 Bavaria Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Cleaning & Sanitation",
-            "type":"Services"
-        }
+    "addr:full": "5753 Bavaria Ave Cleveland OH 44129",
+    "addr:housenumber": "5753",
+    "addr:postcode": "44129",
+    "addr:street": "Bavaria Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.741821,41.405531,-81.741821,41.405531",
+    "geom:latitude": 41.405531,
+    "geom:longitude": -81.741821,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5753 Bavaria Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Cleaning \u0026 Sanitation",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 845 7110",
-    "sg:postcode":"44129",
-    "sg:province":"OH",
-    "sg:tags":[
-        "window"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 845 7110",
+    "sg:postcode": "44129",
+    "sg:province": "OH",
+    "sg:tags": [
+      "window"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7n3BNjG3ThdOvKVNjTuo6n_41.405531_-81.741821@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7n3BNjG3ThdOvKVNjTuo6n_41.405531_-81.741821@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800879,
-    "wof:geomhash":"e12e7a9b1752f76e304cbdfab3b68000",
-    "wof:hierarchy":[],
-    "wof:id":706325903,
-    "wof:lastmodified":1472639813,
-    "wof:name":"West Side Cleaning",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "window"
+    "wof:country": "US",
+    "wof:created": 1461800879,
+    "wof:geomhash": "9e9e5f828cef4a6f4783b5d66fb64e26",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706325903
+      }
+    ],
+    "wof:id": 706325903,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "West Side Cleaning",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "window"
     ]
-},
+  },
   "bbox": [
     -81.741821,
     41.405531,
     -81.741821,
     41.405531
-],
+  ],
   "geometry": {"coordinates":[-81.741821,41.405531],"type":"Point"}
 }

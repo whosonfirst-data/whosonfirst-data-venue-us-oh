@@ -2,57 +2,61 @@
   "id": 706594099,
   "type": "Feature",
   "properties": {
-    "addr:full":"130 Bell St Chagrin Falls OH 44022",
-    "addr:housenumber":"130",
-    "addr:postcode":"44022",
-    "addr:street":"Bell St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.387001,41.432098,-81.387001,41.432098",
-    "geom:latitude":41.432098,
-    "geom:longitude":-81.387001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"130 Bell St",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "130 Bell St Chagrin Falls OH 44022",
+    "addr:housenumber": "130",
+    "addr:postcode": "44022",
+    "addr:street": "Bell St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.387001,41.432098,-81.387001,41.432098",
+    "geom:latitude": 41.432098,
+    "geom:longitude": -81.387001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "130 Bell St",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 247 5955",
-    "sg:postcode":"44022",
-    "sg:province":"OH",
-    "sg:website":"www.marathon.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7G2ZwPqoit3ED35iheXEC9_41.432098_-81.387001@1303262753"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 247 5955",
+    "sg:postcode": "44022",
+    "sg:province": "OH",
+    "sg:website": "www.marathon.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7G2ZwPqoit3ED35iheXEC9_41.432098_-81.387001@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806602,
-    "wof:geomhash":"f0b0b4ec67d10bde25319805a18ee474",
-    "wof:hierarchy":[],
-    "wof:id":706594099,
-    "wof:lastmodified":1472640206,
-    "wof:name":"Bell Street Marathon",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806602,
+    "wof:geomhash": "c3de24fbf51b5b5b584853b6b0cf963f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706594099
+      }
+    ],
+    "wof:id": 706594099,
+    "wof:lastmodified": 1638567141,
+    "wof:name": "Bell Street Marathon",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.387001,
     41.432098,
     -81.387001,
     41.432098
-],
+  ],
   "geometry": {"coordinates":[-81.387001,41.432098],"type":"Point"}
 }

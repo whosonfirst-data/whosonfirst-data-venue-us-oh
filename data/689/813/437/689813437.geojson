@@ -2,61 +2,65 @@
   "id": 689813437,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 W Main St Pomeroy OH 45769",
-    "addr:housenumber":"212",
-    "addr:postcode":"45769",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.03622,39.025931,-82.03622,39.025931",
-    "geom:latitude":39.025931,
-    "geom:longitude":-82.03622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"212 W Main St",
-    "sg:city":"Pomeroy",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "212 W Main St Pomeroy OH 45769",
+    "addr:housenumber": "212",
+    "addr:postcode": "45769",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.036220,39.025931,-82.036220,39.025931",
+    "geom:latitude": 39.025931,
+    "geom:longitude": -82.03622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "212 W Main St",
+    "sg:city": "Pomeroy",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 992 2926",
-    "sg:postcode":"45769",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 992 2926",
+    "sg:postcode": "45769",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2tpZ0cPdI91bRMoA6s4oeb_39.025931_-82.036220@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2tpZ0cPdI91bRMoA6s4oeb_39.025931_-82.036220@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782300,
-    "wof:geomhash":"d45ae2358ffa1270bdaddb000c2e7c99",
-    "wof:hierarchy":[],
-    "wof:id":689813437,
-    "wof:lastmodified":1472639883,
-    "wof:name":"Pomeroy Church Of Christ",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461782300,
+    "wof:geomhash": "5987e4c85b5701e0d71ccc5f3b2ec6a5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689813437
+      }
+    ],
+    "wof:id": 689813437,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Pomeroy Church Of Christ",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.03622,
     39.025931,
     -82.03622,
     39.025931
-],
+  ],
   "geometry": {"coordinates":[-82.03622,39.025931],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705784603,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 N Maysville Ave Zanesville OH 43701",
-    "addr:housenumber":"200",
-    "addr:postcode":"43701",
-    "addr:street":"N Maysville Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.016938,39.909037,-82.016938,39.909037",
-    "geom:latitude":39.909037,
-    "geom:longitude":-82.016938,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 N Maysville Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "200 N Maysville Ave Zanesville OH 43701",
+    "addr:housenumber": "200",
+    "addr:postcode": "43701",
+    "addr:street": "N Maysville Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.016938,39.909037,-82.016938,39.909037",
+    "geom:latitude": 39.909037,
+    "geom:longitude": -82.016938,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 N Maysville Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 455 3304",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 455 3304",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16yEI4dTA9ft2Bpee9v4aE_39.909037_-82.016938@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_16yEI4dTA9ft2Bpee9v4aE_39.909037_-82.016938@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788684,
-    "wof:geomhash":"b45e83872b7c8a7678061f5034a16fd2",
-    "wof:hierarchy":[],
-    "wof:id":705784603,
-    "wof:lastmodified":1472639251,
-    "wof:name":"Physicians Group",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461788684,
+    "wof:geomhash": "d267d7e92f866df9671c8ef260183c8a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705784603
+      }
+    ],
+    "wof:id": 705784603,
+    "wof:lastmodified": 1638566981,
+    "wof:name": "Physicians Group",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.016938,
     39.909037,
     -82.016938,
     39.909037
-],
+  ],
   "geometry": {"coordinates":[-82.016938,39.909037],"type":"Point"}
 }

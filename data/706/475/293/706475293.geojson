@@ -2,63 +2,67 @@
   "id": 706475293,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 N Main St Urbana OH 43078",
-    "addr:housenumber":"200",
-    "addr:postcode":"43078",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.752245,40.110277,-83.752245,40.110277",
-    "geom:latitude":40.110277,
-    "geom:longitude":-83.752245,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 N Main St",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "200 N Main St Urbana OH 43078",
+    "addr:housenumber": "200",
+    "addr:postcode": "43078",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.752245,40.110277,-83.752245,40.110277",
+    "geom:latitude": 40.110277,
+    "geom:longitude": -83.752245,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 N Main St",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 652 1311",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "protection",
-        "sheriff"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 652 1311",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "protection",
+      "sheriff"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_38wwN5ItpTv5ANoOJlGe6l_40.110277_-83.752245@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_38wwN5ItpTv5ANoOJlGe6l_40.110277_-83.752245@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803954,
-    "wof:geomhash":"7bc135a1a47c502f4e49d227c867568a",
-    "wof:hierarchy":[],
-    "wof:id":706475293,
-    "wof:lastmodified":1472640092,
-    "wof:name":"Champaign County Sheriffs Off",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "protection",
-        "sheriff"
+    "wof:country": "US",
+    "wof:created": 1461803954,
+    "wof:geomhash": "cdf426ccc13ad22f1cd8163a2187cb5e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706475293
+      }
+    ],
+    "wof:id": 706475293,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "Champaign County Sheriffs Off",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "protection",
+      "sheriff"
     ]
-},
+  },
   "bbox": [
     -83.752245,
     40.110277,
     -83.752245,
     40.110277
-],
+  ],
   "geometry": {"coordinates":[-83.752245,40.110277],"type":"Point"}
 }

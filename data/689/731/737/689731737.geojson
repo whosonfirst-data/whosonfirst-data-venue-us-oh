@@ -2,61 +2,65 @@
   "id": 689731737,
   "type": "Feature",
   "properties": {
-    "addr:full":"622 Tod Ave NW Warren OH 44485",
-    "addr:housenumber":"622",
-    "addr:postcode":"44485",
-    "addr:street":"Tod Ave Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.830346,41.24,-80.830346,41.24",
-    "geom:latitude":41.24,
-    "geom:longitude":-80.830346,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"622 Tod Ave NW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "622 Tod Ave NW Warren OH 44485",
+    "addr:housenumber": "622",
+    "addr:postcode": "44485",
+    "addr:street": "Tod Ave Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.830346,41.240000,-80.830346,41.240000",
+    "geom:latitude": 41.24,
+    "geom:longitude": -80.830346,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "622 Tod Ave NW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 872 1406",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 872 1406",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4UsMr9mU9qAWhvu8KPNlMl_41.240000_-80.830346@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4UsMr9mU9qAWhvu8KPNlMl_41.240000_-80.830346@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779975,
-    "wof:geomhash":"38a5d73cc81414c30e9f9cb3fc1baad6",
-    "wof:hierarchy":[],
-    "wof:id":689731737,
-    "wof:lastmodified":1472639753,
-    "wof:name":"Mccollum Painting",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461779975,
+    "wof:geomhash": "6eb640af1385ba9d3cde554e758dfd28",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689731737
+      }
+    ],
+    "wof:id": 689731737,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Mccollum Painting",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -80.830346,
     41.24,
     -80.830346,
     41.24
-],
-  "geometry": {"coordinates":[-80.83034600000001,41.24],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.830346,41.24],"type":"Point"}
 }

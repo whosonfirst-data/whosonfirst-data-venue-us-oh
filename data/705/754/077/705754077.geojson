@@ -2,63 +2,67 @@
   "id": 705754077,
   "type": "Feature",
   "properties": {
-    "addr:full":"2380 Southeast Blvd Salem OH 44460",
-    "addr:housenumber":"2380",
-    "addr:postcode":"44460",
-    "addr:street":"Southeast Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.830423,40.898633,-80.830423,40.898633",
-    "geom:latitude":40.898633,
-    "geom:longitude":-80.830423,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2380 Southeast Blvd",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "2380 Southeast Blvd Salem OH 44460",
+    "addr:housenumber": "2380",
+    "addr:postcode": "44460",
+    "addr:street": "Southeast Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.830423,40.898633,-80.830423,40.898633",
+    "geom:latitude": 40.898633,
+    "geom:longitude": -80.830423,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2380 Southeast Blvd",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 332 0426",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "specialty",
-        "outpatient"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 332 0426",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "specialty",
+      "outpatient"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XvdpY7J4AOCfquUa9fL01_40.898633_-80.830423@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5XvdpY7J4AOCfquUa9fL01_40.898633_-80.830423@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787948,
-    "wof:geomhash":"4df920e315f6e0aa71f8fab685d26aff",
-    "wof:hierarchy":[],
-    "wof:id":705754077,
-    "wof:lastmodified":1472639155,
-    "wof:name":"Ohio Sports & Spine Institute",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "specialty",
-        "outpatient"
+    "wof:country": "US",
+    "wof:created": 1461787948,
+    "wof:geomhash": "21c2023d360f12b2ae5abfa3f010d2d5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705754077
+      }
+    ],
+    "wof:id": 705754077,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Ohio Sports \u0026 Spine Institute",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "specialty",
+      "outpatient"
     ]
-},
+  },
   "bbox": [
     -80.830423,
     40.898633,
     -80.830423,
     40.898633
-],
+  ],
   "geometry": {"coordinates":[-80.830423,40.898633],"type":"Point"}
 }

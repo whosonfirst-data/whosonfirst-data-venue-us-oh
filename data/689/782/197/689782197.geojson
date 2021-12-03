@@ -2,63 +2,67 @@
   "id": 689782197,
   "type": "Feature",
   "properties": {
-    "addr:full":"6040 Main St Kansas OH 44841",
-    "addr:housenumber":"6040",
-    "addr:postcode":"44841",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.284493,41.244941,-83.284493,41.244941",
-    "geom:latitude":41.244941,
-    "geom:longitude":-83.284493,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6040 Main St",
-    "sg:city":"Kansas",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6040 Main St Kansas OH 44841",
+    "addr:housenumber": "6040",
+    "addr:postcode": "44841",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.284493,41.244941,-83.284493,41.244941",
+    "geom:latitude": 41.244941,
+    "geom:longitude": -83.284493,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6040 Main St",
+    "sg:city": "Kansas",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 986 5117",
-    "sg:postcode":"44841",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 986 5117",
+    "sg:postcode": "44841",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2PF4CJCpAMDP4MMrpgIvsu_41.244941_-83.284493@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2PF4CJCpAMDP4MMrpgIvsu_41.244941_-83.284493@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781321,
-    "wof:geomhash":"e44ce1e261dd685d4eec9bccd1333a91",
-    "wof:hierarchy":[],
-    "wof:id":689782197,
-    "wof:lastmodified":1472639837,
-    "wof:name":"Kansas Grain",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461781321,
+    "wof:geomhash": "a0d55fa0c2f68d4d93ca90797a63ac37",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689782197
+      }
+    ],
+    "wof:id": 689782197,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "Kansas Grain",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -83.284493,
     41.244941,
     -83.284493,
     41.244941
-],
+  ],
   "geometry": {"coordinates":[-83.284493,41.244941],"type":"Point"}
 }

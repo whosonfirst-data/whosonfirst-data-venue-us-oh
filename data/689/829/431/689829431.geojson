@@ -2,61 +2,65 @@
   "id": 689829431,
   "type": "Feature",
   "properties": {
-    "addr:full":"1877 Ellis Rd New Weston OH 45348",
-    "addr:housenumber":"1877",
-    "addr:postcode":"45348",
-    "addr:street":"Ellis Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.736051,40.281434,-84.736051,40.281434",
-    "geom:latitude":40.281434,
-    "geom:longitude":-84.736051,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1877 Ellis Rd",
-    "sg:city":"New Weston",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "1877 Ellis Rd New Weston OH 45348",
+    "addr:housenumber": "1877",
+    "addr:postcode": "45348",
+    "addr:street": "Ellis Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.736051,40.281434,-84.736051,40.281434",
+    "geom:latitude": 40.281434,
+    "geom:longitude": -84.736051,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1877 Ellis Rd",
+    "sg:city": "New Weston",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 968 5529",
-    "sg:postcode":"45348",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 968 5529",
+    "sg:postcode": "45348",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7du7Dlk4ykrwXfzMIjHbid_40.281434_-84.736051@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7du7Dlk4ykrwXfzMIjHbid_40.281434_-84.736051@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782783,
-    "wof:geomhash":"388d01a0026e835e653e9fa31b271856",
-    "wof:hierarchy":[],
-    "wof:id":689829431,
-    "wof:lastmodified":1472639897,
-    "wof:name":"Tea Garden Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461782783,
+    "wof:geomhash": "cb215b8650c0d11438167da02cf29fdb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689829431
+      }
+    ],
+    "wof:id": 689829431,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Tea Garden Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -84.736051,
     40.281434,
     -84.736051,
     40.281434
-],
+  ],
   "geometry": {"coordinates":[-84.736051,40.281434],"type":"Point"}
 }

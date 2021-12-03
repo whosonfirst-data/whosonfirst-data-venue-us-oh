@@ -2,62 +2,66 @@
   "id": 706152761,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 N Aurora Rd Aurora OH 44202",
-    "addr:housenumber":"600",
-    "addr:postcode":"44202",
-    "addr:street":"N Aurora Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.361492,41.33038,-81.361492,41.33038",
-    "geom:latitude":41.33038,
-    "geom:longitude":-81.361492,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"600 N Aurora Rd",
-    "sg:city":"Aurora",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "600 N Aurora Rd Aurora OH 44202",
+    "addr:housenumber": "600",
+    "addr:postcode": "44202",
+    "addr:street": "N Aurora Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.361492,41.330380,-81.361492,41.330380",
+    "geom:latitude": 41.33038,
+    "geom:longitude": -81.361492,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "600 N Aurora Rd",
+    "sg:city": "Aurora",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 562 2111",
-    "sg:postcode":"44202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 562 2111",
+    "sg:postcode": "44202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "sg:website":"www.thebertraminn.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ccfF8UdoGUd0G8zqjhMWJ_41.330380_-81.361492@1294180530"
+    "sg:website": "www.thebertraminn.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ccfF8UdoGUd0G8zqjhMWJ_41.330380_-81.361492@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797036,
-    "wof:geomhash":"f7607c0550ccea1de3ccb3e29c741c0d",
-    "wof:hierarchy":[],
-    "wof:id":706152761,
-    "wof:lastmodified":1472639377,
-    "wof:name":"Leopard Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461797036,
+    "wof:geomhash": "490c6f296cbec0cb5c66254fc172644d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706152761
+      }
+    ],
+    "wof:id": 706152761,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Leopard Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.361492,
     41.33038,
     -81.361492,
     41.33038
-],
+  ],
   "geometry": {"coordinates":[-81.361492,41.33038],"type":"Point"}
 }

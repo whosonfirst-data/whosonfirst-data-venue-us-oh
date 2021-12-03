@@ -2,61 +2,65 @@
   "id": 705980811,
   "type": "Feature",
   "properties": {
-    "addr:full":"12745 Mark Path Doylestown OH 44230",
-    "addr:housenumber":"12745",
-    "addr:postcode":"44230",
-    "addr:street":"Mark Path",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.66858,40.953384,-81.66858,40.953384",
-    "geom:latitude":40.953384,
-    "geom:longitude":-81.66858,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12745 Mark Path",
-    "sg:city":"Doylestown",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "12745 Mark Path Doylestown OH 44230",
+    "addr:housenumber": "12745",
+    "addr:postcode": "44230",
+    "addr:street": "Mark Path",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.668580,40.953384,-81.668580,40.953384",
+    "geom:latitude": 40.953384,
+    "geom:longitude": -81.66858,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12745 Mark Path",
+    "sg:city": "Doylestown",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 658 5331",
-    "sg:postcode":"44230",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 658 5331",
+    "sg:postcode": "44230",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4P1Si65VwhmrRvsjCxTfWN_40.953384_-81.668580@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4P1Si65VwhmrRvsjCxTfWN_40.953384_-81.668580@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793182,
-    "wof:geomhash":"6e0c8947c3782ecf0a329bf51bbb970a",
-    "wof:hierarchy":[],
-    "wof:id":705980811,
-    "wof:lastmodified":1472639811,
-    "wof:name":"Vortex Contracting",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461793182,
+    "wof:geomhash": "ffcb3289c41db0dd3cb179b6c02ff77d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705980811
+      }
+    ],
+    "wof:id": 705980811,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Vortex Contracting",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.66858,
     40.953384,
     -81.66858,
     40.953384
-],
-  "geometry": {"coordinates":[-81.66858000000001,40.953384],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.66858,40.953384],"type":"Point"}
 }

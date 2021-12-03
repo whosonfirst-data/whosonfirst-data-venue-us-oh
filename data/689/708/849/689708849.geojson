@@ -2,61 +2,65 @@
   "id": 689708849,
   "type": "Feature",
   "properties": {
-    "addr:full":"2303 W Main St Troy OH 45373",
-    "addr:housenumber":"2303",
-    "addr:postcode":"45373",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.247739,40.059061,-84.247739,40.059061",
-    "geom:latitude":40.059061,
-    "geom:longitude":-84.247739,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2303 W Main St",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2303 W Main St Troy OH 45373",
+    "addr:housenumber": "2303",
+    "addr:postcode": "45373",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.247739,40.059061,-84.247739,40.059061",
+    "geom:latitude": 40.059061,
+    "geom:longitude": -84.247739,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2303 W Main St",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 332 7722",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 332 7722",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5RGITbW7cLhA0QuZB8mjio_40.059061_-84.247739@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5RGITbW7cLhA0QuZB8mjio_40.059061_-84.247739@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779375,
-    "wof:geomhash":"13208aea8cbd03999b1fe08070d4495a",
-    "wof:hierarchy":[],
-    "wof:id":689708849,
-    "wof:lastmodified":1472639705,
-    "wof:name":"Cold Beer & Cheeseburgers",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461779375,
+    "wof:geomhash": "9d09e5bea2a986326a69cfbc4fbb4d06",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689708849
+      }
+    ],
+    "wof:id": 689708849,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Cold Beer \u0026 Cheeseburgers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.247739,
     40.059061,
     -84.247739,
     40.059061
-],
+  ],
   "geometry": {"coordinates":[-84.247739,40.059061],"type":"Point"}
 }

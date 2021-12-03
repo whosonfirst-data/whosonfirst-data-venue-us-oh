@@ -2,61 +2,65 @@
   "id": 706455371,
   "type": "Feature",
   "properties": {
-    "addr:full":"3640 Main St Perry OH 44081",
-    "addr:housenumber":"3640",
-    "addr:postcode":"44081",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.153707,41.764427,-81.153707,41.764427",
-    "geom:latitude":41.764427,
-    "geom:longitude":-81.153707,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3640 Main St",
-    "sg:city":"Perry",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3640 Main St Perry OH 44081",
+    "addr:housenumber": "3640",
+    "addr:postcode": "44081",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.153707,41.764427,-81.153707,41.764427",
+    "geom:latitude": 41.764427,
+    "geom:longitude": -81.153707,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3640 Main St",
+    "sg:city": "Perry",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 259 2326",
-    "sg:postcode":"44081",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 259 2326",
+    "sg:postcode": "44081",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2AEtcFyL0DKWs4QEXZA4kr_41.764427_-81.153707@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2AEtcFyL0DKWs4QEXZA4kr_41.764427_-81.153707@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803549,
-    "wof:geomhash":"d78436c78a192fefd20210f096e08794",
-    "wof:hierarchy":[],
-    "wof:id":706455371,
-    "wof:lastmodified":1472640043,
-    "wof:name":"Gianfagna Waterproofing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461803549,
+    "wof:geomhash": "26c73d742ecbb96422a67e984d983f3b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706455371
+      }
+    ],
+    "wof:id": 706455371,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Gianfagna Waterproofing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -81.153707,
     41.764427,
     -81.153707,
     41.764427
-],
+  ],
   "geometry": {"coordinates":[-81.153707,41.764427],"type":"Point"}
 }

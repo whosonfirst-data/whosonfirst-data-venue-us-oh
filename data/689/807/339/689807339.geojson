@@ -2,56 +2,60 @@
   "id": 689807339,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 E Wyandot Ave Upper Sandusky OH 43351",
-    "addr:housenumber":"212 e",
-    "addr:postcode":"43351",
-    "addr:street":"Wyandot Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.279648,40.827581,-83.279648,40.827581",
-    "geom:latitude":40.827581,
-    "geom:longitude":-83.279648,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"212 E Wyandot Ave",
-    "sg:city":"Upper Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Optometrist",
-            "type":"Services"
-        }
+    "addr:full": "212 E Wyandot Ave Upper Sandusky OH 43351",
+    "addr:housenumber": "212 e",
+    "addr:postcode": "43351",
+    "addr:street": "Wyandot Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.279648,40.827581,-83.279648,40.827581",
+    "geom:latitude": 40.827581,
+    "geom:longitude": -83.279648,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "212 E Wyandot Ave",
+    "sg:city": "Upper Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Optometrist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 294 2421",
-    "sg:postcode":"43351",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76I8WjRsIBbz3pKtJaZQL7_40.827581_-83.279648@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 294 2421",
+    "sg:postcode": "43351",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_76I8WjRsIBbz3pKtJaZQL7_40.827581_-83.279648@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782104,
-    "wof:geomhash":"cf368b1ce82d0c45677b33db045637e6",
-    "wof:hierarchy":[],
-    "wof:id":689807339,
-    "wof:lastmodified":1472639879,
-    "wof:name":"Primary Eyecare Assn-Wyandot",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461782104,
+    "wof:geomhash": "f245027aba2fbe74377db9342921ff30",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689807339
+      }
+    ],
+    "wof:id": 689807339,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Primary Eyecare Assn-Wyandot",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.279648,
     40.827581,
     -83.279648,
     40.827581
-],
-  "geometry": {"coordinates":[-83.27964799999999,40.827581],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.279648,40.827581],"type":"Point"}
 }

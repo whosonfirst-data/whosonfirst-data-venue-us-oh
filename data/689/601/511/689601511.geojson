@@ -2,59 +2,63 @@
   "id": 689601511,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 S Main St Ada OH 45810",
-    "addr:housenumber":"101",
-    "addr:postcode":"45810",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.823216,40.770686,-83.823216,40.770686",
-    "geom:latitude":40.770686,
-    "geom:longitude":-83.823216,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"101 S Main St",
-    "sg:city":"Ada",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "101 S Main St Ada OH 45810",
+    "addr:housenumber": "101",
+    "addr:postcode": "45810",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.823216,40.770686,-83.823216,40.770686",
+    "geom:latitude": 40.770686,
+    "geom:longitude": -83.823216,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "101 S Main St",
+    "sg:city": "Ada",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 634 6898",
-    "sg:postcode":"45810",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":401311774,
-        "sg:id":"SG_1LKogxqfXFkzzZ4KyjVadd_40.770686_-83.823216@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 634 6898",
+    "sg:postcode": "45810",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 401311774,
+      "sg:id": "SG_1LKogxqfXFkzzZ4KyjVadd_40.770686_-83.823216@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776294,
-    "wof:geomhash":"688537309f1c2c3cc109602209c39141",
-    "wof:hierarchy":[],
-    "wof:id":689601511,
-    "wof:lastmodified":1510942383,
-    "wof:name":"Little Mexico",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461776294,
+    "wof:geomhash": "688537309f1c2c3cc109602209c39141",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689601511
+      }
+    ],
+    "wof:id": 689601511,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Little Mexico",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.823216,
     40.770686,
     -83.823216,
     40.770686
-],
+  ],
   "geometry": {"coordinates":[-83.823216,40.770686],"type":"Point"}
 }

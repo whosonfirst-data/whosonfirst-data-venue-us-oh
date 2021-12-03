@@ -2,61 +2,65 @@
   "id": 705719417,
   "type": "Feature",
   "properties": {
-    "addr:full":"211 US Hwy 250 Adena OH 43901",
-    "addr:housenumber":"211",
-    "addr:postcode":"43901",
-    "addr:street":"Us Hwy 250",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.879859,40.176656,-80.879859,40.176656",
-    "geom:latitude":40.176656,
-    "geom:longitude":-80.879859,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"211 US Hwy 250",
-    "sg:city":"Adena",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "211 US Hwy 250 Adena OH 43901",
+    "addr:housenumber": "211",
+    "addr:postcode": "43901",
+    "addr:street": "Us Hwy 250",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.879859,40.176656,-80.879859,40.176656",
+    "geom:latitude": 40.176656,
+    "geom:longitude": -80.879859,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "211 US Hwy 250",
+    "sg:city": "Adena",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 546 3338",
-    "sg:postcode":"43901",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 546 3338",
+    "sg:postcode": "43901",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Cl09vvLMmHFsBhPho0bfG_40.176656_-80.879859@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Cl09vvLMmHFsBhPho0bfG_40.176656_-80.879859@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787151,
-    "wof:geomhash":"5036f070e63759754c4c0849fd77fb19",
-    "wof:hierarchy":[],
-    "wof:id":705719417,
-    "wof:lastmodified":1472638441,
-    "wof:name":"Adena Clinic",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461787151,
+    "wof:geomhash": "f0ae19f1c8d4d2b303bb2caaabeaa6e8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705719417
+      }
+    ],
+    "wof:id": 705719417,
+    "wof:lastmodified": 1638566935,
+    "wof:name": "Adena Clinic",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -80.879859,
     40.176656,
     -80.879859,
     40.176656
-],
+  ],
   "geometry": {"coordinates":[-80.879859,40.176656],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706164025,
   "type": "Feature",
   "properties": {
-    "addr:full":"709 N Main St Kenton OH 43326",
-    "addr:housenumber":"709",
-    "addr:postcode":"43326",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.607594,40.656491,-83.607594,40.656491",
-    "geom:latitude":40.656491,
-    "geom:longitude":-83.607594,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"709 N Main St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "709 N Main St Kenton OH 43326",
+    "addr:housenumber": "709",
+    "addr:postcode": "43326",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.607594,40.656491,-83.607594,40.656491",
+    "geom:latitude": 40.656491,
+    "geom:longitude": -83.607594,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "709 N Main St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 673 8100",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appliance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 673 8100",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appliance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Qukg80gRIBCc3LUdeodI3_40.656491_-83.607594@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Qukg80gRIBCc3LUdeodI3_40.656491_-83.607594@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797302,
-    "wof:geomhash":"6c2d0030d7dcbf2ed858553e612d50d4",
-    "wof:hierarchy":[],
-    "wof:id":706164025,
-    "wof:lastmodified":1472639386,
-    "wof:name":"Ted's Service Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appliance"
+    "wof:country": "US",
+    "wof:created": 1461797302,
+    "wof:geomhash": "a16cd8cb7c43e0b97ec5cf85043c2a31",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706164025
+      }
+    ],
+    "wof:id": 706164025,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Ted's Service Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appliance"
     ]
-},
+  },
   "bbox": [
     -83.607594,
     40.656491,
     -83.607594,
     40.656491
-],
-  "geometry": {"coordinates":[-83.60759400000001,40.656491],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.607594,40.656491],"type":"Point"}
 }

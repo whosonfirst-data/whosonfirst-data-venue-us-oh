@@ -2,61 +2,65 @@
   "id": 705824141,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 N Detroit St Kenton OH 43326",
-    "addr:housenumber":"15",
-    "addr:postcode":"43326",
-    "addr:street":"N Detroit St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.609314,40.648045,-83.609314,40.648045",
-    "geom:latitude":40.648045,
-    "geom:longitude":-83.609314,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15 N Detroit St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "15 N Detroit St Kenton OH 43326",
+    "addr:housenumber": "15",
+    "addr:postcode": "43326",
+    "addr:street": "N Detroit St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.609314,40.648045,-83.609314,40.648045",
+    "geom:latitude": 40.648045,
+    "geom:longitude": -83.609314,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15 N Detroit St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 674 4502",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 674 4502",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_12eM9vhc8lx79fr80rRnXr_40.648045_-83.609314@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_12eM9vhc8lx79fr80rRnXr_40.648045_-83.609314@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789585,
-    "wof:geomhash":"b61b53865d1ad150a18a6903cc25cf78",
-    "wof:hierarchy":[],
-    "wof:id":705824141,
-    "wof:lastmodified":1472639328,
-    "wof:name":"Keith A Lange Law Offices",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461789585,
+    "wof:geomhash": "e03f7b019acd15c025a24521794fb983",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705824141
+      }
+    ],
+    "wof:id": 705824141,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Keith A Lange Law Offices",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.609314,
     40.648045,
     -83.609314,
     40.648045
-],
+  ],
   "geometry": {"coordinates":[-83.609314,40.648045],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689723599,
   "type": "Feature",
   "properties": {
-    "addr:full":"16167 E High St Middlefield OH 44062",
-    "addr:housenumber":"16167",
-    "addr:postcode":"44062",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.067403,41.461573,-81.067403,41.461573",
-    "geom:latitude":41.461573,
-    "geom:longitude":-81.067403,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16167 E High St",
-    "sg:city":"Middlefield",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "16167 E High St Middlefield OH 44062",
+    "addr:housenumber": "16167",
+    "addr:postcode": "44062",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.067403,41.461573,-81.067403,41.461573",
+    "geom:latitude": 41.461573,
+    "geom:longitude": -81.067403,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16167 E High St",
+    "sg:city": "Middlefield",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 632 3106",
-    "sg:postcode":"44062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 632 3106",
+    "sg:postcode": "44062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_157wIAkftsKsV1CFVZKjQz_41.461573_-81.067403@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_157wIAkftsKsV1CFVZKjQz_41.461573_-81.067403@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779762,
-    "wof:geomhash":"7874825d181751497a203fd4dccf6695",
-    "wof:hierarchy":[],
-    "wof:id":689723599,
-    "wof:lastmodified":1472639733,
-    "wof:name":"LMS Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461779762,
+    "wof:geomhash": "c033857eb67957e167f2e6099d9e5a55",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689723599
+      }
+    ],
+    "wof:id": 689723599,
+    "wof:lastmodified": 1638567025,
+    "wof:name": "LMS Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -81.067403,
     41.461573,
     -81.067403,
     41.461573
-],
+  ],
   "geometry": {"coordinates":[-81.067403,41.461573],"type":"Point"}
 }

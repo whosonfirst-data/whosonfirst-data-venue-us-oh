@@ -2,61 +2,65 @@
   "id": 706290551,
   "type": "Feature",
   "properties": {
-    "addr:full":"3182 Maple Ave Zanesville OH 43701",
-    "addr:housenumber":"3182",
-    "addr:postcode":"43701",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.017721,39.980448,-82.017721,39.980448",
-    "geom:latitude":39.980448,
-    "geom:longitude":-82.017721,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3182 Maple Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Electrical",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "3182 Maple Ave Zanesville OH 43701",
+    "addr:housenumber": "3182",
+    "addr:postcode": "43701",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.017721,39.980448,-82.017721,39.980448",
+    "geom:latitude": 39.980448,
+    "geom:longitude": -82.017721,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3182 Maple Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Electrical",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 588 0279",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "battery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 588 0279",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "battery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_27LnXcfcVFmfvmShdit5T5_39.980448_-82.017721@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_27LnXcfcVFmfvmShdit5T5_39.980448_-82.017721@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800105,
-    "wof:geomhash":"894e4b22100eeb481445b5ad0707bc67",
-    "wof:hierarchy":[],
-    "wof:id":706290551,
-    "wof:lastmodified":1472639684,
-    "wof:name":"Unlimited Batteries",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "battery"
+    "wof:country": "US",
+    "wof:created": 1461800105,
+    "wof:geomhash": "206a7626cbea52601bbe4299d7b57028",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706290551
+      }
+    ],
+    "wof:id": 706290551,
+    "wof:lastmodified": 1638567076,
+    "wof:name": "Unlimited Batteries",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "battery"
     ]
-},
+  },
   "bbox": [
     -82.017721,
     39.980448,
     -82.017721,
     39.980448
-],
-  "geometry": {"coordinates":[-82.01772099999999,39.980448],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.017721,39.980448],"type":"Point"}
 }

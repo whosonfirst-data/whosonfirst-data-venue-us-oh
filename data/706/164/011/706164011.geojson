@@ -2,63 +2,67 @@
   "id": 706164011,
   "type": "Feature",
   "properties": {
-    "addr:full":"258 State Rte 14 Columbiana OH 44408",
-    "addr:housenumber":"258",
-    "addr:postcode":"44408",
-    "addr:street":"State Rte 14",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.655333,40.899932,-80.655333,40.899932",
-    "geom:latitude":40.899932,
-    "geom:longitude":-80.655333,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"258 State Rte 14",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "258 State Rte 14 Columbiana OH 44408",
+    "addr:housenumber": "258",
+    "addr:postcode": "44408",
+    "addr:street": "State Rte 14",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.655333,40.899932,-80.655333,40.899932",
+    "geom:latitude": 40.899932,
+    "geom:longitude": -80.655333,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "258 State Rte 14",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 482 9350",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 482 9350",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4gZtgDMW54ANjCiRBmYbmD_40.899932_-80.655333@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4gZtgDMW54ANjCiRBmYbmD_40.899932_-80.655333@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797301,
-    "wof:geomhash":"d67d2d1654701f9527c8ecebd715afbc",
-    "wof:hierarchy":[],
-    "wof:id":706164011,
-    "wof:lastmodified":1472639387,
-    "wof:name":"Salem Internal Medicine Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461797301,
+    "wof:geomhash": "bb07dcc90cf6010edd88fcab2a709e16",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706164011
+      }
+    ],
+    "wof:id": 706164011,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Salem Internal Medicine Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.655333,
     40.899932,
     -80.655333,
     40.899932
-],
+  ],
   "geometry": {"coordinates":[-80.655333,40.899932],"type":"Point"}
 }

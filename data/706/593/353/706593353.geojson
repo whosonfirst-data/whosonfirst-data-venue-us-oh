@@ -2,67 +2,71 @@
   "id": 706593353,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Welday Ave Steubenville OH 43953",
-    "addr:housenumber":"100",
-    "addr:postcode":"43953",
-    "addr:street":"Welday Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.697227,40.374435,-80.697227,40.374435",
-    "geom:latitude":40.374435,
-    "geom:longitude":-80.697227,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 Welday Ave",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "100 Welday Ave Steubenville OH 43953",
+    "addr:housenumber": "100",
+    "addr:postcode": "43953",
+    "addr:street": "Welday Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.697227,40.374435,-80.697227,40.374435",
+    "geom:latitude": 40.374435,
+    "geom:longitude": -80.697227,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 Welday Ave",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 264 5770",
-    "sg:postcode":"43953",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medicine",
-        "physician",
-        "internal",
-        "surgeons"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 264 5770",
+    "sg:postcode": "43953",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medicine",
+      "physician",
+      "internal",
+      "surgeons"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1g2IAaSQf13guoqtudIo5M_40.374435_-80.697227@1303262753"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1g2IAaSQf13guoqtudIo5M_40.374435_-80.697227@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806589,
-    "wof:geomhash":"d95274ec586d4136d531444c4503c1e3",
-    "wof:hierarchy":[],
-    "wof:id":706593353,
-    "wof:lastmodified":1472640206,
-    "wof:name":"Tri-State Medical Center",
-    "wof:parent_id":420534923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medicine",
-        "physician",
-        "internal",
-        "surgeons"
+    "wof:country": "US",
+    "wof:created": 1461806589,
+    "wof:geomhash": "40a42ea370ab1825cb6738fa62509267",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706593353
+      }
+    ],
+    "wof:id": 706593353,
+    "wof:lastmodified": 1638567141,
+    "wof:name": "Tri-State Medical Center",
+    "wof:parent_id": 420534923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medicine",
+      "physician",
+      "internal",
+      "surgeons"
     ]
-},
+  },
   "bbox": [
     -80.697227,
     40.374435,
     -80.697227,
     40.374435
-],
+  ],
   "geometry": {"coordinates":[-80.697227,40.374435],"type":"Point"}
 }

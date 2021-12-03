@@ -2,61 +2,65 @@
   "id": 689718199,
   "type": "Feature",
   "properties": {
-    "addr:full":"552 N Park Ave Warren OH 44481",
-    "addr:housenumber":"552",
-    "addr:postcode":"44481",
-    "addr:street":"N Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.818124,41.241593,-80.818124,41.241593",
-    "geom:latitude":41.241593,
-    "geom:longitude":-80.818124,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"552 N Park Ave",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "552 N Park Ave Warren OH 44481",
+    "addr:housenumber": "552",
+    "addr:postcode": "44481",
+    "addr:street": "N Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.818124,41.241593,-80.818124,41.241593",
+    "geom:latitude": 41.241593,
+    "geom:longitude": -80.818124,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "552 N Park Ave",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 399 8964",
-    "sg:postcode":"44481",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 399 8964",
+    "sg:postcode": "44481",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_72Z72y8t0zDe8s4kmwCTcW_41.241593_-80.818124@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_72Z72y8t0zDe8s4kmwCTcW_41.241593_-80.818124@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779611,
-    "wof:geomhash":"6a6af908df4f9891acc1b3563dddc99b",
-    "wof:hierarchy":[],
-    "wof:id":689718199,
-    "wof:lastmodified":1472639710,
-    "wof:name":"Steven M Lichtig",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461779611,
+    "wof:geomhash": "253d3dd2e5d47e5cbd5292bac8974e4e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689718199
+      }
+    ],
+    "wof:id": 689718199,
+    "wof:lastmodified": 1638567030,
+    "wof:name": "Steven M Lichtig",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -80.818124,
     41.241593,
     -80.818124,
     41.241593
-],
+  ],
   "geometry": {"coordinates":[-80.818124,41.241593],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706477669,
   "type": "Feature",
   "properties": {
-    "addr:full":"985 Jamison Rd Frankfort OH 45628",
-    "addr:housenumber":"985",
-    "addr:postcode":"45628",
-    "addr:street":"Jamison Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.190938,39.38518,-83.190938,39.38518",
-    "geom:latitude":39.38518,
-    "geom:longitude":-83.190938,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"985 Jamison Rd",
-    "sg:city":"Frankfort",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "985 Jamison Rd Frankfort OH 45628",
+    "addr:housenumber": "985",
+    "addr:postcode": "45628",
+    "addr:street": "Jamison Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.190938,39.385180,-83.190938,39.385180",
+    "geom:latitude": 39.38518,
+    "geom:longitude": -83.190938,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "985 Jamison Rd",
+    "sg:city": "Frankfort",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 774 4444",
-    "sg:postcode":"45628",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 774 4444",
+    "sg:postcode": "45628",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Mo5BxpJsky6iQMdSYQRKf_39.385180_-83.190938@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Mo5BxpJsky6iQMdSYQRKf_39.385180_-83.190938@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803996,
-    "wof:geomhash":"4cc7c84162a037c55748a81f02fce80e",
-    "wof:hierarchy":[],
-    "wof:id":706477669,
-    "wof:lastmodified":1472640112,
-    "wof:name":"Concord Township Trustee",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461803996,
+    "wof:geomhash": "4d04b22a311526de734362a465273839",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706477669
+      }
+    ],
+    "wof:id": 706477669,
+    "wof:lastmodified": 1638567131,
+    "wof:name": "Concord Township Trustee",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.190938,
     39.38518,
     -83.190938,
     39.38518
-],
+  ],
   "geometry": {"coordinates":[-83.190938,39.38518],"type":"Point"}
 }

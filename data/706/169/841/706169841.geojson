@@ -2,61 +2,65 @@
   "id": 706169841,
   "type": "Feature",
   "properties": {
-    "addr:full":"8124 Pritchard Ave Lisbon OH 44432",
-    "addr:housenumber":"8124",
-    "addr:postcode":"44432",
-    "addr:street":"Pritchard Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.763002,40.780776,-80.763002,40.780776",
-    "geom:latitude":40.780776,
-    "geom:longitude":-80.763002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8124 Pritchard Ave",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "8124 Pritchard Ave Lisbon OH 44432",
+    "addr:housenumber": "8124",
+    "addr:postcode": "44432",
+    "addr:street": "Pritchard Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.763002,40.780776,-80.763002,40.780776",
+    "geom:latitude": 40.780776,
+    "geom:longitude": -80.763002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8124 Pritchard Ave",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 4437",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 4437",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2xewvRwctHlhHToeAsH7k6_40.780776_-80.763002@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2xewvRwctHlhHToeAsH7k6_40.780776_-80.763002@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797428,
-    "wof:geomhash":"120023a8a798781702d9b6e21b37e6f2",
-    "wof:hierarchy":[],
-    "wof:id":706169841,
-    "wof:lastmodified":1472639426,
-    "wof:name":"Eastern States Tower Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461797428,
+    "wof:geomhash": "36bfb0055a20ff0ba15b36f4b4081017",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706169841
+      }
+    ],
+    "wof:id": 706169841,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "Eastern States Tower Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -80.763002,
     40.780776,
     -80.763002,
     40.780776
-],
+  ],
   "geometry": {"coordinates":[-80.763002,40.780776],"type":"Point"}
 }

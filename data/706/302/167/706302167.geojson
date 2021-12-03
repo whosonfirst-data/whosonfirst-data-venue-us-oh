@@ -2,64 +2,68 @@
   "id": 706302167,
   "type": "Feature",
   "properties": {
-    "addr:full":"2033 Tiffin Ave Findlay OH 45840",
-    "addr:housenumber":"2033",
-    "addr:postcode":"45840",
-    "addr:street":"Tiffin Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.604826,41.054317,-83.604826,41.054317",
-    "geom:latitude":41.054317,
-    "geom:longitude":-83.604826,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2033 Tiffin Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Equipment Rental",
-            "type":"Services"
-        }
+    "addr:full": "2033 Tiffin Ave Findlay OH 45840",
+    "addr:housenumber": "2033",
+    "addr:postcode": "45840",
+    "addr:street": "Tiffin Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.604826,41.054317,-83.604826,41.054317",
+    "geom:latitude": 41.054317,
+    "geom:longitude": -83.604826,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2033 Tiffin Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Equipment Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 425 2608",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "yard"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 425 2608",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "yard"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573815,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4vSgeD2UNdy5i2V2eH5S6D_41.054317_-83.604826@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573815,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4vSgeD2UNdy5i2V2eH5S6D_41.054317_-83.604826@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800346,
-    "wof:geomhash":"7c9c61fe6d2a7e5f5aa40d1d3396280f",
-    "wof:hierarchy":[],
-    "wof:id":706302167,
-    "wof:lastmodified":1511322149,
-    "wof:name":"Rent-A-Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "yard"
+    "wof:country": "US",
+    "wof:created": 1461800346,
+    "wof:geomhash": "7c9c61fe6d2a7e5f5aa40d1d3396280f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706302167
+      }
+    ],
+    "wof:id": 706302167,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Rent-A-Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "yard"
     ]
-},
+  },
   "bbox": [
     -83.604826,
     41.054317,
     -83.604826,
     41.054317
-],
+  ],
   "geometry": {"coordinates":[-83.604826,41.054317],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706226489,
   "type": "Feature",
   "properties": {
-    "addr:full":"319 N Main St Columbiana OH 44408",
-    "addr:housenumber":"319",
-    "addr:postcode":"44408",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.693844,40.893021,-80.693844,40.893021",
-    "geom:latitude":40.893021,
-    "geom:longitude":-80.693844,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"319 N Main St",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "319 N Main St Columbiana OH 44408",
+    "addr:housenumber": "319",
+    "addr:postcode": "44408",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.693844,40.893021,-80.693844,40.893021",
+    "geom:latitude": 40.893021,
+    "geom:longitude": -80.693844,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "319 N Main St",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 482 3680",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "therapist",
-        "physical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 482 3680",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "therapist",
+      "physical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_62QjNxaONbXVJg2hgAPjK8_40.893021_-80.693844@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_62QjNxaONbXVJg2hgAPjK8_40.893021_-80.693844@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798633,
-    "wof:geomhash":"c1ee060b2aa5c65fb1b75a7efa18d7ec",
-    "wof:hierarchy":[],
-    "wof:id":706226489,
-    "wof:lastmodified":1472639533,
-    "wof:name":"TU-Dor Physical Therapy",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "therapist",
-        "physical"
+    "wof:country": "US",
+    "wof:created": 1461798633,
+    "wof:geomhash": "4a2def1eba0f609a23e4dbf9ed0cdf89",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706226489
+      }
+    ],
+    "wof:id": 706226489,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "TU-Dor Physical Therapy",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "therapist",
+      "physical"
     ]
-},
+  },
   "bbox": [
     -80.693844,
     40.893021,
     -80.693844,
     40.893021
-],
+  ],
   "geometry": {"coordinates":[-80.693844,40.893021],"type":"Point"}
 }

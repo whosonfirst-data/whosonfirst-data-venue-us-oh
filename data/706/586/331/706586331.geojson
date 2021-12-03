@@ -2,61 +2,65 @@
   "id": 706586331,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Commerce Park Dr Westerville OH 43082",
-    "addr:housenumber":"101",
-    "addr:postcode":"43082",
-    "addr:street":"Commerce Park Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.926242,40.139731,-82.926242,40.139731",
-    "geom:latitude":40.139731,
-    "geom:longitude":-82.926242,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 Commerce Park Dr",
-    "sg:city":"Westerville",
-    "sg:classifiers":[
-        {
-            "category":"Community Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "101 Commerce Park Dr Westerville OH 43082",
+    "addr:housenumber": "101",
+    "addr:postcode": "43082",
+    "addr:street": "Commerce Park Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.926242,40.139731,-82.926242,40.139731",
+    "geom:latitude": 40.139731,
+    "geom:longitude": -82.926242,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 Commerce Park Dr",
+    "sg:city": "Westerville",
+    "sg:classifiers": [
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 898 3006",
-    "sg:postcode":"43082",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 898 3006",
+    "sg:postcode": "43082",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1RjrG7OT5U8JxrlcQIStNj_40.139731_-82.926242@1303262752"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1RjrG7OT5U8JxrlcQIStNj_40.139731_-82.926242@1303262752"
     },
-    "wof:country":"US",
-    "wof:created":1461806454,
-    "wof:geomhash":"715fd4b337f8ed6253e3c99ccda68608",
-    "wof:hierarchy":[],
-    "wof:id":706586331,
-    "wof:lastmodified":1472640204,
-    "wof:name":"Buchanan Medical Arts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461806454,
+    "wof:geomhash": "a0b6510d4df74b92f7db1ca5e2e1d1b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706586331
+      }
+    ],
+    "wof:id": 706586331,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Buchanan Medical Arts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -82.926242,
     40.139731,
     -82.926242,
     40.139731
-],
+  ],
   "geometry": {"coordinates":[-82.926242,40.139731],"type":"Point"}
 }

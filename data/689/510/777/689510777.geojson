@@ -2,61 +2,65 @@
   "id": 689510777,
   "type": "Feature",
   "properties": {
-    "addr:full":"2101 N Cleveland Massillon Rd Akron OH 44333",
-    "addr:housenumber":"2101",
-    "addr:postcode":"44333",
-    "addr:street":"N Cleveland Massillon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.636198,41.193291,-81.636198,41.193291",
-    "geom:latitude":41.193291,
-    "geom:longitude":-81.636198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2101 N Cleveland Massillon Rd",
-    "sg:city":"Akron",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "2101 N Cleveland Massillon Rd Akron OH 44333",
+    "addr:housenumber": "2101",
+    "addr:postcode": "44333",
+    "addr:street": "N Cleveland Massillon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.636198,41.193291,-81.636198,41.193291",
+    "geom:latitude": 41.193291,
+    "geom:longitude": -81.636198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2101 N Cleveland Massillon Rd",
+    "sg:city": "Akron",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 665 5915",
-    "sg:postcode":"44333",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 665 5915",
+    "sg:postcode": "44333",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2xT6LhhTS3YC1YOSqzl2Fu_41.193291_-81.636198@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2xT6LhhTS3YC1YOSqzl2Fu_41.193291_-81.636198@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773434,
-    "wof:geomhash":"b5dc4909b0d498e2f7c130f056a3cfbb",
-    "wof:hierarchy":[],
-    "wof:id":689510777,
-    "wof:lastmodified":1472639141,
-    "wof:name":"Visiting Vet",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461773434,
+    "wof:geomhash": "ebca7607db67abb770b90130ef305021",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689510777
+      }
+    ],
+    "wof:id": 689510777,
+    "wof:lastmodified": 1638566955,
+    "wof:name": "Visiting Vet",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -81.636198,
     41.193291,
     -81.636198,
     41.193291
-],
-  "geometry": {"coordinates":[-81.63619799999999,41.193291],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.636198,41.193291],"type":"Point"}
 }

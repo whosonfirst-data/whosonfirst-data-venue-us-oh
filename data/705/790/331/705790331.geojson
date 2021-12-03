@@ -2,61 +2,65 @@
   "id": 705790331,
   "type": "Feature",
   "properties": {
-    "addr:full":"171 Cochran Rd Hamilton OH 45013",
-    "addr:housenumber":"171",
-    "addr:postcode":"45013",
-    "addr:street":"Cochran Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.698859,39.397687,-84.698859,39.397687",
-    "geom:latitude":39.397687,
-    "geom:longitude":-84.698859,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"171 Cochran Rd",
-    "sg:city":"Hamilton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "171 Cochran Rd Hamilton OH 45013",
+    "addr:housenumber": "171",
+    "addr:postcode": "45013",
+    "addr:street": "Cochran Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.698859,39.397687,-84.698859,39.397687",
+    "geom:latitude": 39.397687,
+    "geom:longitude": -84.698859,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "171 Cochran Rd",
+    "sg:city": "Hamilton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 756 1100",
-    "sg:postcode":"45013",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 756 1100",
+    "sg:postcode": "45013",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Ljq4R10vgqkSOR4pk3Sxb_39.397687_-84.698859@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Ljq4R10vgqkSOR4pk3Sxb_39.397687_-84.698859@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788805,
-    "wof:geomhash":"4fa1745902891a771210c0a460a720ae",
-    "wof:hierarchy":[],
-    "wof:id":705790331,
-    "wof:lastmodified":1472639245,
-    "wof:name":"All Things Catered",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461788805,
+    "wof:geomhash": "0d1ae92cf39e9ee6f790ebec24e923da",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705790331
+      }
+    ],
+    "wof:id": 705790331,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "All Things Catered",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -84.698859,
     39.397687,
     -84.698859,
     39.397687
-],
+  ],
   "geometry": {"coordinates":[-84.698859,39.397687],"type":"Point"}
 }

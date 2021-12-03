@@ -2,61 +2,65 @@
   "id": 705866349,
   "type": "Feature",
   "properties": {
-    "addr:full":"37 E Marion St Doylestown OH 44230",
-    "addr:housenumber":"37",
-    "addr:postcode":"44230",
-    "addr:street":"E Marion St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.695893,40.969723,-81.695893,40.969723",
-    "geom:latitude":40.969723,
-    "geom:longitude":-81.695893,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"37 E Marion St",
-    "sg:city":"Doylestown",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Telephone",
-            "type":"Services"
-        }
+    "addr:full": "37 E Marion St Doylestown OH 44230",
+    "addr:housenumber": "37",
+    "addr:postcode": "44230",
+    "addr:street": "E Marion St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.695893,40.969723,-81.695893,40.969723",
+    "geom:latitude": 40.969723,
+    "geom:longitude": -81.695893,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "37 E Marion St",
+    "sg:city": "Doylestown",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Telephone",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 658 4500",
-    "sg:postcode":"44230",
-    "sg:province":"OH",
-    "sg:tags":[
-        "communications"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 658 4500",
+    "sg:postcode": "44230",
+    "sg:province": "OH",
+    "sg:tags": [
+      "communications"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2RbOCsgjMX53Wt7iYgngDW_40.969723_-81.695893@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2RbOCsgjMX53Wt7iYgngDW_40.969723_-81.695893@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790590,
-    "wof:geomhash":"d2645729c014f89e854c8cf2d99a80cf",
-    "wof:hierarchy":[],
-    "wof:id":705866349,
-    "wof:lastmodified":1472639452,
-    "wof:name":"Brightnet",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "communications"
+    "wof:country": "US",
+    "wof:created": 1461790590,
+    "wof:geomhash": "e854695d5d6d7d5566ab7c3fbf272410",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705866349
+      }
+    ],
+    "wof:id": 705866349,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Brightnet",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "communications"
     ]
-},
+  },
   "bbox": [
     -81.695893,
     40.969723,
     -81.695893,
     40.969723
-],
+  ],
   "geometry": {"coordinates":[-81.695893,40.969723],"type":"Point"}
 }

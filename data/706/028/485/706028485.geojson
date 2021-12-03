@@ -2,61 +2,65 @@
   "id": 706028485,
   "type": "Feature",
   "properties": {
-    "addr:full":"3170 Eastview Ave Youngstown OH 44505",
-    "addr:housenumber":"3170",
-    "addr:postcode":"44505",
-    "addr:street":"Eastview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.584616,41.111302,-80.584616,41.111302",
-    "geom:latitude":41.111302,
-    "geom:longitude":-80.584616,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3170 Eastview Ave",
-    "sg:city":"Youngstown",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3170 Eastview Ave Youngstown OH 44505",
+    "addr:housenumber": "3170",
+    "addr:postcode": "44505",
+    "addr:street": "Eastview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.584616,41.111302,-80.584616,41.111302",
+    "geom:latitude": 41.111302,
+    "geom:longitude": -80.584616,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3170 Eastview Ave",
+    "sg:city": "Youngstown",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 746 3656",
-    "sg:postcode":"44505",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 746 3656",
+    "sg:postcode": "44505",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4gznFvDwtfbUbhkC7eiBDA_41.111302_-80.584616@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4gznFvDwtfbUbhkC7eiBDA_41.111302_-80.584616@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794178,
-    "wof:geomhash":"c2c4586085c0ed87cdaecc193e0a7eed",
-    "wof:hierarchy":[],
-    "wof:id":706028485,
-    "wof:lastmodified":1472638703,
-    "wof:name":"Job Site",
-    "wof:parent_id":420535059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461794178,
+    "wof:geomhash": "bdb972937d8fc42385494359f313b26b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706028485
+      }
+    ],
+    "wof:id": 706028485,
+    "wof:lastmodified": 1638566951,
+    "wof:name": "Job Site",
+    "wof:parent_id": 420535059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -80.584616,
     41.111302,
     -80.584616,
     41.111302
-],
+  ],
   "geometry": {"coordinates":[-80.584616,41.111302],"type":"Point"}
 }

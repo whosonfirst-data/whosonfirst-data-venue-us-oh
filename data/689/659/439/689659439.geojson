@@ -2,61 +2,65 @@
   "id": 689659439,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 W Main St Bellevue OH 44811",
-    "addr:housenumber":"212",
-    "addr:postcode":"44811",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.842562,41.2741,-82.842562,41.2741",
-    "geom:latitude":41.2741,
-    "geom:longitude":-82.842562,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"212 W Main St",
-    "sg:city":"Bellevue",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "212 W Main St Bellevue OH 44811",
+    "addr:housenumber": "212",
+    "addr:postcode": "44811",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.842562,41.274100,-82.842562,41.274100",
+    "geom:latitude": 41.2741,
+    "geom:longitude": -82.842562,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "212 W Main St",
+    "sg:city": "Bellevue",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 483 5744",
-    "sg:postcode":"44811",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 483 5744",
+    "sg:postcode": "44811",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3sgtMsk1gI4beRfASTIuSt_41.274100_-82.842562@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3sgtMsk1gI4beRfASTIuSt_41.274100_-82.842562@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778117,
-    "wof:geomhash":"0d4a84277014995d5b9e760441585feb",
-    "wof:hierarchy":[],
-    "wof:id":689659439,
-    "wof:lastmodified":1472639566,
-    "wof:name":"Ray Law Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461778117,
+    "wof:geomhash": "052e325f01fc5146db0b98f2ba830f12",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689659439
+      }
+    ],
+    "wof:id": 689659439,
+    "wof:lastmodified": 1638567005,
+    "wof:name": "Ray Law Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -82.842562,
     41.2741,
     -82.842562,
     41.2741
-],
+  ],
   "geometry": {"coordinates":[-82.842562,41.2741],"type":"Point"}
 }

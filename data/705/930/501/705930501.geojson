@@ -2,63 +2,67 @@
   "id": 705930501,
   "type": "Feature",
   "properties": {
-    "addr:full":"335 Dixon Mill Rd New Boston OH 45694",
-    "addr:housenumber":"335",
-    "addr:postcode":"45694",
-    "addr:street":"Dixon Mill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.847212,38.782296,-82.847212,38.782296",
-    "geom:latitude":38.782296,
-    "geom:longitude":-82.847212,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"335 Dixon Mill Rd",
-    "sg:city":"New Boston",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "335 Dixon Mill Rd New Boston OH 45694",
+    "addr:housenumber": "335",
+    "addr:postcode": "45694",
+    "addr:street": "Dixon Mill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.847212,38.782296,-82.847212,38.782296",
+    "geom:latitude": 38.782296,
+    "geom:longitude": -82.847212,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "335 Dixon Mill Rd",
+    "sg:city": "New Boston",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 776 6825",
-    "sg:postcode":"45694",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 776 6825",
+    "sg:postcode": "45694",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2gz02h2PJOWRKc94GJzdsJ_38.782296_-82.847212@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2gz02h2PJOWRKc94GJzdsJ_38.782296_-82.847212@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792070,
-    "wof:geomhash":"0eacac098f7a8b7bb24b244e6643145b",
-    "wof:hierarchy":[],
-    "wof:id":705930501,
-    "wof:lastmodified":1472639665,
-    "wof:name":"Dixon Mill Mini Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461792070,
+    "wof:geomhash": "0e9bcca42e4fca989fc26e37e6682295",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705930501
+      }
+    ],
+    "wof:id": 705930501,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "Dixon Mill Mini Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -82.847212,
     38.782296,
     -82.847212,
     38.782296
-],
+  ],
   "geometry": {"coordinates":[-82.847212,38.782296],"type":"Point"}
 }

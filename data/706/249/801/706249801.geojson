@@ -2,56 +2,60 @@
   "id": 706249801,
   "type": "Feature",
   "properties": {
-    "addr:full":"45210 Co Hwy 43 Summerfield OH 43788",
-    "addr:housenumber":"",
-    "addr:postcode":"45210;43788",
-    "addr:street":"Co Hwy 43",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.354499,39.757824,-81.354499,39.757824",
-    "geom:latitude":39.757824,
-    "geom:longitude":-81.354499,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45210 Co Hwy 43",
-    "sg:city":"Summerfield",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Dairy Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "45210 Co Hwy 43 Summerfield OH 43788",
+    "addr:housenumber": "",
+    "addr:postcode": "45210;43788",
+    "addr:street": "Co Hwy 43",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.354499,39.757824,-81.354499,39.757824",
+    "geom:latitude": 39.757824,
+    "geom:longitude": -81.354499,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "45210 Co Hwy 43",
+    "sg:city": "Summerfield",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Dairy Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 838 4411",
-    "sg:postcode":"43788",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wFI8CTNJfnt3b3T6Pzzfk_39.757824_-81.354499@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 838 4411",
+    "sg:postcode": "43788",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0wFI8CTNJfnt3b3T6Pzzfk_39.757824_-81.354499@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799190,
-    "wof:geomhash":"804dc518d6d1d96f8bb800d31bab1c72",
-    "wof:hierarchy":[],
-    "wof:id":706249801,
-    "wof:lastmodified":1472639586,
-    "wof:name":"Dimmerling Dairy Farm",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461799190,
+    "wof:geomhash": "4b0c65e9971df66a51364a1216314471",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706249801
+      }
+    ],
+    "wof:id": 706249801,
+    "wof:lastmodified": 1638567061,
+    "wof:name": "Dimmerling Dairy Farm",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.354499,
     39.757824,
     -81.354499,
     39.757824
-],
+  ],
   "geometry": {"coordinates":[-81.354499,39.757824],"type":"Point"}
 }

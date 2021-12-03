@@ -2,83 +2,84 @@
   "id": 186302967,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 S 18th St Columbus OH 43205",
-    "addr:housenumber":"555",
-    "addr:postcode":"43205",
-    "addr:street":"S 18Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.976524,39.953357,-82.976524,39.953357",
-    "geom:latitude":39.953357,
-    "geom:longitude":-82.976524,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"555 S 18th St",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "555 S 18th St Columbus OH 43205",
+    "addr:housenumber": "555",
+    "addr:postcode": "43205",
+    "addr:street": "S 18Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.976524,39.953357,-82.976524,39.953357",
+    "geom:latitude": 39.953357,
+    "geom:longitude": -82.976524,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "555 S 18th St",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 722 4554",
-    "sg:postcode":"43205",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 722 4554",
+    "sg:postcode": "43205",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85893105
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712381,
+      102080969,
+      85893105
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7D61bPAvHmhNmJt0tDJsXj_39.953357_-82.976524@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7D61bPAvHmhNmJt0tDJsXj_39.953357_-82.976524@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e503709852ab8dd8a388acb469bda58e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85893105,
-            "region_id":85688485,
-            "venue_id":186302967
-        }
+    "wof:country": "US",
+    "wof:created": 1638566861,
+    "wof:geomhash": "5dfb211038ee8fec412dc95481a81b4b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080969,
+        "locality_id": 101712381,
+        "neighbourhood_id": 85893105,
+        "region_id": 85688485,
+        "venue_id": 186302967
+      }
     ],
-    "wof:id":186302967,
-    "wof:lastmodified":1472638590,
-    "wof:name":"Pediatric Academic Assoc",
-    "wof:parent_id":85893105,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 186302967,
+    "wof:lastmodified": 1638566861,
+    "wof:name": "Pediatric Academic Assoc",
+    "wof:parent_id": 85893105,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.976524,
     39.953357,
     -82.976524,
     39.953357
-],
+  ],
   "geometry": {"coordinates":[-82.976524,39.953357],"type":"Point"}
 }

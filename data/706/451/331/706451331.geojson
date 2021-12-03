@@ -2,71 +2,75 @@
   "id": 706451331,
   "type": "Feature",
   "properties": {
-    "addr:full":"9001 W 130th St Cleveland OH 44133",
-    "addr:housenumber":"9001",
-    "addr:postcode":"44133",
-    "addr:street":"W 130Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.785128,41.34273,-81.785128,41.34273",
-    "geom:latitude":41.34273,
-    "geom:longitude":-81.785128,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9001 W 130th St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        },
-        {
-            "category":"Social Services",
-            "subcategory":"Adult Care",
-            "type":"Services"
-        }
+    "addr:full": "9001 W 130th St Cleveland OH 44133",
+    "addr:housenumber": "9001",
+    "addr:postcode": "44133",
+    "addr:street": "W 130Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.785128,41.342730,-81.785128,41.342730",
+    "geom:latitude": 41.34273,
+    "geom:longitude": -81.785128,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9001 W 130th St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      },
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 237 3104",
-    "sg:postcode":"44133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "skilled",
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 237 3104",
+    "sg:postcode": "44133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "skilled",
+      "residential"
     ],
-    "sg:website":"www.athenianvillage.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6NUxLBkYr5hWHELVyyyINu_41.342730_-81.785128@1294180530"
+    "sg:website": "www.athenianvillage.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6NUxLBkYr5hWHELVyyyINu_41.342730_-81.785128@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803472,
-    "wof:geomhash":"f6b9bd5c8ee60c9387fab45747c6c3da",
-    "wof:hierarchy":[],
-    "wof:id":706451331,
-    "wof:lastmodified":1472640031,
-    "wof:name":"Patrician Skilled Nursing Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "skilled",
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461803472,
+    "wof:geomhash": "e8aecca93062bf95bbaf31a2fa2ecd3e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706451331
+      }
+    ],
+    "wof:id": 706451331,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Patrician Skilled Nursing Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "skilled",
+      "residential"
     ]
-},
+  },
   "bbox": [
     -81.785128,
     41.34273,
     -81.785128,
     41.34273
-],
+  ],
   "geometry": {"coordinates":[-81.785128,41.34273],"type":"Point"}
 }

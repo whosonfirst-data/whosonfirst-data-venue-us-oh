@@ -2,57 +2,61 @@
   "id": 706593199,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Mall Dr Steubenville OH 43952",
-    "addr:housenumber":"100",
-    "addr:postcode":"43952",
-    "addr:street":"Mall Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.675526,40.367544,-80.675526,40.367544",
-    "geom:latitude":40.367544,
-    "geom:longitude":-80.675526,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 Mall Dr",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "100 Mall Dr Steubenville OH 43952",
+    "addr:housenumber": "100",
+    "addr:postcode": "43952",
+    "addr:street": "Mall Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.675526,40.367544,-80.675526,40.367544",
+    "geom:latitude": 40.367544,
+    "geom:longitude": -80.675526,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 Mall Dr",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 266 1275",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:website":"http://www.regiscorp.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_350ZIiQTnbWAxMPYrbo1nY_40.367544_-80.675526@1303262753"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 266 1275",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:website": "http://www.regiscorp.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_350ZIiQTnbWAxMPYrbo1nY_40.367544_-80.675526@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806586,
-    "wof:geomhash":"8dee166eb1b7184cd7e0e3afb8a6857a",
-    "wof:hierarchy":[],
-    "wof:id":706593199,
-    "wof:lastmodified":1472640208,
-    "wof:name":"Sears Salons",
-    "wof:parent_id":420534923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806586,
+    "wof:geomhash": "085f2905dbd0548c57f77fd6505a0453",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706593199
+      }
+    ],
+    "wof:id": 706593199,
+    "wof:lastmodified": 1638567141,
+    "wof:name": "Sears Salons",
+    "wof:parent_id": 420534923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.675526,
     40.367544,
     -80.675526,
     40.367544
-],
+  ],
   "geometry": {"coordinates":[-80.675526,40.367544],"type":"Point"}
 }

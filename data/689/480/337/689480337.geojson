@@ -2,63 +2,67 @@
   "id": 689480337,
   "type": "Feature",
   "properties": {
-    "addr:full":"2187 Georgia Dr Cleveland OH 44145",
-    "addr:housenumber":"2187",
-    "addr:postcode":"44145",
-    "addr:street":"Georgia Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.9554,41.455525,-81.9554,41.455525",
-    "geom:latitude":41.455525,
-    "geom:longitude":-81.9554,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2187 Georgia Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Art Services",
-            "type":"Services"
-        }
+    "addr:full": "2187 Georgia Dr Cleveland OH 44145",
+    "addr:housenumber": "2187",
+    "addr:postcode": "44145",
+    "addr:street": "Georgia Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.955400,41.455525,-81.955400,41.455525",
+    "geom:latitude": 41.455525,
+    "geom:longitude": -81.9554,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2187 Georgia Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Art Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 741 0888",
-    "sg:postcode":"44145",
-    "sg:province":"OH",
-    "sg:tags":[
-        "graphic",
-        "designer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 741 0888",
+    "sg:postcode": "44145",
+    "sg:province": "OH",
+    "sg:tags": [
+      "graphic",
+      "designer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2XnHdaeNJu00Txi95pZQub_41.455525_-81.955400@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2XnHdaeNJu00Txi95pZQub_41.455525_-81.955400@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772523,
-    "wof:geomhash":"7cd485ca09eaec0ac304aab6e314c709",
-    "wof:hierarchy":[],
-    "wof:id":689480337,
-    "wof:lastmodified":1472638506,
-    "wof:name":"Federal Graphics Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "graphic",
-        "designer"
+    "wof:country": "US",
+    "wof:created": 1461772523,
+    "wof:geomhash": "a3b8d80f04d373adf303339c245c522b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689480337
+      }
+    ],
+    "wof:id": 689480337,
+    "wof:lastmodified": 1638566926,
+    "wof:name": "Federal Graphics Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "graphic",
+      "designer"
     ]
-},
+  },
   "bbox": [
     -81.9554,
     41.455525,
     -81.9554,
     41.455525
-],
+  ],
   "geometry": {"coordinates":[-81.9554,41.455525],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705901819,
   "type": "Feature",
   "properties": {
-    "addr:full":"832 S Main St Urbana OH 43078",
-    "addr:housenumber":"832",
-    "addr:postcode":"43078",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.753738,40.097583,-83.753738,40.097583",
-    "geom:latitude":40.097583,
-    "geom:longitude":-83.753738,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"832 S Main St",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "832 S Main St Urbana OH 43078",
+    "addr:housenumber": "832",
+    "addr:postcode": "43078",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.753738,40.097583,-83.753738,40.097583",
+    "geom:latitude": 40.097583,
+    "geom:longitude": -83.753738,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "832 S Main St",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 653 3057",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 653 3057",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4j3fkEKKwl6H6EOqTV9spL_40.097583_-83.753738@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4j3fkEKKwl6H6EOqTV9spL_40.097583_-83.753738@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791454,
-    "wof:geomhash":"a484eb9f6227320d6a23c1129de5c378",
-    "wof:hierarchy":[],
-    "wof:id":705901819,
-    "wof:lastmodified":1472639555,
-    "wof:name":"Douglas Inn Catering",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461791454,
+    "wof:geomhash": "d6caad62e9fb96ef441ed796dfc01820",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705901819
+      }
+    ],
+    "wof:id": 705901819,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Douglas Inn Catering",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.753738,
     40.097583,
     -83.753738,
     40.097583
-],
+  ],
   "geometry": {"coordinates":[-83.753738,40.097583],"type":"Point"}
 }

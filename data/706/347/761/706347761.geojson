@@ -2,61 +2,65 @@
   "id": 706347761,
   "type": "Feature",
   "properties": {
-    "addr:full":"8030 Corporate Cir Cleveland OH 44133",
-    "addr:housenumber":"8030",
-    "addr:postcode":"44133",
-    "addr:street":"Corporate Cir",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.755897,41.349572,-81.755897,41.349572",
-    "geom:latitude":41.349572,
-    "geom:longitude":-81.755897,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8030 Corporate Cir",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "8030 Corporate Cir Cleveland OH 44133",
+    "addr:housenumber": "8030",
+    "addr:postcode": "44133",
+    "addr:street": "Corporate Cir",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.755897,41.349572,-81.755897,41.349572",
+    "geom:latitude": 41.349572,
+    "geom:longitude": -81.755897,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8030 Corporate Cir",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 845 7300",
-    "sg:postcode":"44133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 845 7300",
+    "sg:postcode": "44133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Y0dzvHvDIyv4ESrme3G9B_41.349572_-81.755897@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Y0dzvHvDIyv4ESrme3G9B_41.349572_-81.755897@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801365,
-    "wof:geomhash":"cf0b3be539bd13ef13c8cad528f44e92",
-    "wof:hierarchy":[],
-    "wof:id":706347761,
-    "wof:lastmodified":1472639862,
-    "wof:name":"Mark A Iacobelli Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461801365,
+    "wof:geomhash": "abbc1d6c32d1cdee34f95dd165c5e2bb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706347761
+      }
+    ],
+    "wof:id": 706347761,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Mark A Iacobelli Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.755897,
     41.349572,
     -81.755897,
     41.349572
-],
+  ],
   "geometry": {"coordinates":[-81.755897,41.349572],"type":"Point"}
 }

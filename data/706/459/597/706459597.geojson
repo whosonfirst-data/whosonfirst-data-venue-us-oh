@@ -2,61 +2,65 @@
   "id": 706459597,
   "type": "Feature",
   "properties": {
-    "addr:full":"2019 Harrisburg Rd NE Canton OH 44705",
-    "addr:housenumber":"2019",
-    "addr:postcode":"44705",
-    "addr:street":"Harrisburg Rd Ne",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.34874,40.819985,-81.34874,40.819985",
-    "geom:latitude":40.819985,
-    "geom:longitude":-81.34874,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2019 Harrisburg Rd NE",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2019 Harrisburg Rd NE Canton OH 44705",
+    "addr:housenumber": "2019",
+    "addr:postcode": "44705",
+    "addr:street": "Harrisburg Rd Ne",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.348740,40.819985,-81.348740,40.819985",
+    "geom:latitude": 40.819985,
+    "geom:longitude": -81.34874,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2019 Harrisburg Rd NE",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 471 9851",
-    "sg:postcode":"44705",
-    "sg:province":"OH",
-    "sg:tags":[
-        "product"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 471 9851",
+    "sg:postcode": "44705",
+    "sg:province": "OH",
+    "sg:tags": [
+      "product"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3CB7GNWBP1ERLdeiRkbRlL_40.819985_-81.348740@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3CB7GNWBP1ERLdeiRkbRlL_40.819985_-81.348740@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803634,
-    "wof:geomhash":"79e3dc5042642cea3e40d56de5f4c9c5",
-    "wof:hierarchy":[],
-    "wof:id":706459597,
-    "wof:lastmodified":1472640051,
-    "wof:name":"Speed Food Inc",
-    "wof:parent_id":420535237,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product"
+    "wof:country": "US",
+    "wof:created": 1461803634,
+    "wof:geomhash": "038dd827cc729a461e105e2f7b93a76b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706459597
+      }
+    ],
+    "wof:id": 706459597,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Speed Food Inc",
+    "wof:parent_id": 420535237,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product"
     ]
-},
+  },
   "bbox": [
     -81.34874,
     40.819985,
     -81.34874,
     40.819985
-],
-  "geometry": {"coordinates":[-81.34874000000001,40.819985],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.34874,40.819985],"type":"Point"}
 }

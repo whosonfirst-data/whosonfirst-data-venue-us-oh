@@ -2,61 +2,65 @@
   "id": 689672409,
   "type": "Feature",
   "properties": {
-    "addr:full":"429 N Main St New Carlisle OH 45344",
-    "addr:housenumber":"429",
-    "addr:postcode":"45344",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.024521,39.94347,-84.024521,39.94347",
-    "geom:latitude":39.94347,
-    "geom:longitude":-84.024521,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"429 N Main St",
-    "sg:city":"New Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "429 N Main St New Carlisle OH 45344",
+    "addr:housenumber": "429",
+    "addr:postcode": "45344",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.024521,39.943470,-84.024521,39.943470",
+    "geom:latitude": 39.94347,
+    "geom:longitude": -84.024521,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "429 N Main St",
+    "sg:city": "New Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 845 2335",
-    "sg:postcode":"45344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 845 2335",
+    "sg:postcode": "45344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5UgWB5cV2gBTZYspd4K1eN_39.943470_-84.024521@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5UgWB5cV2gBTZYspd4K1eN_39.943470_-84.024521@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778449,
-    "wof:geomhash":"be07981e9fb435e750ce41959d53c8e5",
-    "wof:hierarchy":[],
-    "wof:id":689672409,
-    "wof:lastmodified":1472639612,
-    "wof:name":"WIC Satellite Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461778449,
+    "wof:geomhash": "6a8fb089573691f0e86924195b8607f3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689672409
+      }
+    ],
+    "wof:id": 689672409,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "WIC Satellite Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -84.024521,
     39.94347,
     -84.024521,
     39.94347
-],
-  "geometry": {"coordinates":[-84.02452099999999,39.94347],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.024521,39.94347],"type":"Point"}
 }

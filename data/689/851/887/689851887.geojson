@@ -2,63 +2,67 @@
   "id": 689851887,
   "type": "Feature",
   "properties": {
-    "addr:full":"10700 Logan St Whitehouse OH 43571",
-    "addr:housenumber":"10700",
-    "addr:postcode":"43571",
-    "addr:street":"Logan St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.798097,41.520299,-83.798097,41.520299",
-    "geom:latitude":41.520299,
-    "geom:longitude":-83.798097,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10700 Logan St",
-    "sg:city":"Whitehouse",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10700 Logan St Whitehouse OH 43571",
+    "addr:housenumber": "10700",
+    "addr:postcode": "43571",
+    "addr:street": "Logan St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.798097,41.520299,-83.798097,41.520299",
+    "geom:latitude": 41.520299,
+    "geom:longitude": -83.798097,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10700 Logan St",
+    "sg:city": "Whitehouse",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 877 5427",
-    "sg:postcode":"43571",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 877 5427",
+    "sg:postcode": "43571",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_32RxuxUJDjOqLSsNJ8drBh_41.520299_-83.798097@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_32RxuxUJDjOqLSsNJ8drBh_41.520299_-83.798097@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783353,
-    "wof:geomhash":"83ce86044923857fc86090adf0eb469f",
-    "wof:hierarchy":[],
-    "wof:id":689851887,
-    "wof:lastmodified":1472639935,
-    "wof:name":"Whitehouse Self Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461783353,
+    "wof:geomhash": "7667a3a0a99a6e60b1ef11a10ec987f9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689851887
+      }
+    ],
+    "wof:id": 689851887,
+    "wof:lastmodified": 1638567077,
+    "wof:name": "Whitehouse Self Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -83.798097,
     41.520299,
     -83.798097,
     41.520299
-],
+  ],
   "geometry": {"coordinates":[-83.798097,41.520299],"type":"Point"}
 }

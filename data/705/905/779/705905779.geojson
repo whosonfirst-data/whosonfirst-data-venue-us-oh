@@ -2,61 +2,65 @@
   "id": 705905779,
   "type": "Feature",
   "properties": {
-    "addr:full":"34 S Nixon Ave Peebles OH 45660",
-    "addr:housenumber":"34",
-    "addr:postcode":"45660",
-    "addr:street":"S Nixon Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.400231,38.94625,-83.400231,38.94625",
-    "geom:latitude":38.94625,
-    "geom:longitude":-83.400231,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"34 S Nixon Ave",
-    "sg:city":"Peebles",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "34 S Nixon Ave Peebles OH 45660",
+    "addr:housenumber": "34",
+    "addr:postcode": "45660",
+    "addr:street": "S Nixon Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.400231,38.946250,-83.400231,38.946250",
+    "geom:latitude": 38.94625,
+    "geom:longitude": -83.400231,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "34 S Nixon Ave",
+    "sg:city": "Peebles",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 587 3191",
-    "sg:postcode":"45660",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 587 3191",
+    "sg:postcode": "45660",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5QtBK5XBitUYUfBEcs8IPA_38.946250_-83.400231@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5QtBK5XBitUYUfBEcs8IPA_38.946250_-83.400231@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791540,
-    "wof:geomhash":"29e9f97e75b4e9cd6a7be9cc69c3c58a",
-    "wof:hierarchy":[],
-    "wof:id":705905779,
-    "wof:lastmodified":1472639568,
-    "wof:name":"Peebles Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461791540,
+    "wof:geomhash": "fe11d29b2d29ade9eed86dfc506df447",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705905779
+      }
+    ],
+    "wof:id": 705905779,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Peebles Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.400231,
     38.94625,
     -83.400231,
     38.94625
-],
-  "geometry": {"coordinates":[-83.40023100000001,38.94625],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.400231,38.94625],"type":"Point"}
 }

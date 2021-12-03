@@ -2,63 +2,67 @@
   "id": 706100381,
   "type": "Feature",
   "properties": {
-    "addr:full":"1005 Lima Ave Findlay OH 45840",
-    "addr:housenumber":"1005",
-    "addr:postcode":"45840",
-    "addr:street":"Lima Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.664841,41.02444,-83.664841,41.02444",
-    "geom:latitude":41.02444,
-    "geom:longitude":-83.664841,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1005 Lima Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "1005 Lima Ave Findlay OH 45840",
+    "addr:housenumber": "1005",
+    "addr:postcode": "45840",
+    "addr:street": "Lima Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.664841,41.024440,-83.664841,41.024440",
+    "geom:latitude": 41.02444,
+    "geom:longitude": -83.664841,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1005 Lima Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 424 1100",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "equipment",
-        "welding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 424 1100",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "equipment",
+      "welding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5JHVxArF0ofHHfsc7z0xi7_41.024440_-83.664841@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5JHVxArF0ofHHfsc7z0xi7_41.024440_-83.664841@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795794,
-    "wof:geomhash":"db5a8aab8589b3fd9e0373801be08387",
-    "wof:hierarchy":[],
-    "wof:id":706100381,
-    "wof:lastmodified":1472639250,
-    "wof:name":"Garsite LLC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "equipment",
-        "welding"
+    "wof:country": "US",
+    "wof:created": 1461795794,
+    "wof:geomhash": "e34e7ca1d97bc80f010b6278227ee996",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706100381
+      }
+    ],
+    "wof:id": 706100381,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Garsite LLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "equipment",
+      "welding"
     ]
-},
+  },
   "bbox": [
     -83.664841,
     41.02444,
     -83.664841,
     41.02444
-],
+  ],
   "geometry": {"coordinates":[-83.664841,41.02444],"type":"Point"}
 }

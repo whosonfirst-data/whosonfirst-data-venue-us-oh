@@ -2,63 +2,67 @@
   "id": 705934851,
   "type": "Feature",
   "properties": {
-    "addr:full":"513 School St West Unity OH 43570",
-    "addr:housenumber":"513",
-    "addr:postcode":"43570",
-    "addr:street":"School St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.435936,41.590466,-84.435936,41.590466",
-    "geom:latitude":41.590466,
-    "geom:longitude":-84.435936,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"513 School St",
-    "sg:city":"West Unity",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "513 School St West Unity OH 43570",
+    "addr:housenumber": "513",
+    "addr:postcode": "43570",
+    "addr:street": "School St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.435936,41.590466,-84.435936,41.590466",
+    "geom:latitude": 41.590466,
+    "geom:longitude": -84.435936,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "513 School St",
+    "sg:city": "West Unity",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 924 5373",
-    "sg:postcode":"43570",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 924 5373",
+    "sg:postcode": "43570",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XqC3TAz8zeTc13vv9dzU9_41.590466_-84.435936@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5XqC3TAz8zeTc13vv9dzU9_41.590466_-84.435936@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792175,
-    "wof:geomhash":"946ace3fcbabb8a36d2578b197aff6df",
-    "wof:hierarchy":[],
-    "wof:id":705934851,
-    "wof:lastmodified":1472639681,
-    "wof:name":"Pike Refuse Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461792175,
+    "wof:geomhash": "ff0711c9faeb9ab598bf24ae168c0f83",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705934851
+      }
+    ],
+    "wof:id": 705934851,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Pike Refuse Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -84.435936,
     41.590466,
     -84.435936,
     41.590466
-],
+  ],
   "geometry": {"coordinates":[-84.435936,41.590466],"type":"Point"}
 }

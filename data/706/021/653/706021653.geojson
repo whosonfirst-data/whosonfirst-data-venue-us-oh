@@ -2,61 +2,65 @@
   "id": 706021653,
   "type": "Feature",
   "properties": {
-    "addr:full":"8 S Main St Croton OH 43013",
-    "addr:housenumber":"8",
-    "addr:postcode":"43013",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.686143,40.238834,-82.686143,40.238834",
-    "geom:latitude":40.238834,
-    "geom:longitude":-82.686143,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8 S Main St",
-    "sg:city":"Croton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8 S Main St Croton OH 43013",
+    "addr:housenumber": "8",
+    "addr:postcode": "43013",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.686143,40.238834,-82.686143,40.238834",
+    "geom:latitude": 40.238834,
+    "geom:longitude": -82.686143,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8 S Main St",
+    "sg:city": "Croton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 893 2102",
-    "sg:postcode":"43013",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 893 2102",
+    "sg:postcode": "43013",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_166PBsMqYml1jeUxRjnIN0_40.238834_-82.686143@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_166PBsMqYml1jeUxRjnIN0_40.238834_-82.686143@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794043,
-    "wof:geomhash":"dd9e2047228fb0f76b34959996a112ca",
-    "wof:hierarchy":[],
-    "wof:id":706021653,
-    "wof:lastmodified":1472638639,
-    "wof:name":"Croton Market",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461794043,
+    "wof:geomhash": "57b3856904bd7d3fb5da4bdcd524bcdb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706021653
+      }
+    ],
+    "wof:id": 706021653,
+    "wof:lastmodified": 1638566944,
+    "wof:name": "Croton Market",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -82.686143,
     40.238834,
     -82.686143,
     40.238834
-],
+  ],
   "geometry": {"coordinates":[-82.686143,40.238834],"type":"Point"}
 }

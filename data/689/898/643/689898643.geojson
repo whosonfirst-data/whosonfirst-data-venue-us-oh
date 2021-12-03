@@ -2,61 +2,65 @@
   "id": 689898643,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 N Main St Ada OH 45810",
-    "addr:housenumber":"225",
-    "addr:postcode":"45810",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.823299,40.77212,-83.823299,40.77212",
-    "geom:latitude":40.77212,
-    "geom:longitude":-83.823299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"225 N Main St",
-    "sg:city":"Ada",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tattoo Parlor",
-            "type":"Services"
-        }
+    "addr:full": "225 N Main St Ada OH 45810",
+    "addr:housenumber": "225",
+    "addr:postcode": "45810",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.823299,40.772120,-83.823299,40.772120",
+    "geom:latitude": 40.77212,
+    "geom:longitude": -83.823299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "225 N Main St",
+    "sg:city": "Ada",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tattoo Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 634 7546",
-    "sg:postcode":"45810",
-    "sg:province":"OH",
-    "sg:tags":[
-        "tattooing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 634 7546",
+    "sg:postcode": "45810",
+    "sg:province": "OH",
+    "sg:tags": [
+      "tattooing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xbSmljtoYUOy7iQePUMXk_40.772120_-83.823299@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xbSmljtoYUOy7iQePUMXk_40.772120_-83.823299@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784526,
-    "wof:geomhash":"6500e9430ec9678bbe574738ee67d927",
-    "wof:hierarchy":[],
-    "wof:id":689898643,
-    "wof:lastmodified":1472640043,
-    "wof:name":"Raw Ink",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tattooing"
+    "wof:country": "US",
+    "wof:created": 1461784526,
+    "wof:geomhash": "dad0719c100ec7dbb06092c23d596bac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689898643
+      }
+    ],
+    "wof:id": 689898643,
+    "wof:lastmodified": 1638567095,
+    "wof:name": "Raw Ink",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tattooing"
     ]
-},
+  },
   "bbox": [
     -83.823299,
     40.77212,
     -83.823299,
     40.77212
-],
-  "geometry": {"coordinates":[-83.82329900000001,40.77212],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.823299,40.77212],"type":"Point"}
 }

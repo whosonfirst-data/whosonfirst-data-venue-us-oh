@@ -2,66 +2,70 @@
   "id": 706576837,
   "type": "Feature",
   "properties": {
-    "addr:full":"14789 State Route 103 Arlington OH 45814",
-    "addr:housenumber":"14789",
-    "addr:postcode":"45814",
-    "addr:street":"State Route 103",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.599829,40.89165,-83.599829,40.89165",
-    "geom:latitude":40.89165,
-    "geom:longitude":-83.599829,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"14789 State Route 103",
-    "sg:city":"Arlington",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "14789 State Route 103 Arlington OH 45814",
+    "addr:housenumber": "14789",
+    "addr:postcode": "45814",
+    "addr:street": "State Route 103",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.599829,40.891650,-83.599829,40.891650",
+    "geom:latitude": 40.89165,
+    "geom:longitude": -83.599829,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "14789 State Route 103",
+    "sg:city": "Arlington",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/delaware/194953-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45814",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/delaware/194953-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45814",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6AEq7O9HlN1fS8OwqX9gdR_40.891650_-83.599829@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6AEq7O9HlN1fS8OwqX9gdR_40.891650_-83.599829@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806230,
-    "wof:geomhash":"abe49ae7f0f2b6c4ffcacd99c23fbdcd",
-    "wof:hierarchy":[],
-    "wof:id":706576837,
-    "wof:lastmodified":1512142891,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806230,
+    "wof:geomhash": "abe49ae7f0f2b6c4ffcacd99c23fbdcd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706576837
+      }
+    ],
+    "wof:id": 706576837,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -83.599829,
     40.89165,
     -83.599829,
     40.89165
-],
+  ],
   "geometry": {"coordinates":[-83.599829,40.89165],"type":"Point"}
 }

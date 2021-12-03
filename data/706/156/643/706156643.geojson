@@ -2,61 +2,65 @@
   "id": 706156643,
   "type": "Feature",
   "properties": {
-    "addr:full":"412 Providence St Delta OH 43515",
-    "addr:housenumber":"412",
-    "addr:postcode":"43515",
-    "addr:street":"Providence St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.005825,41.572065,-84.005825,41.572065",
-    "geom:latitude":41.572065,
-    "geom:longitude":-84.005825,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"412 Providence St",
-    "sg:city":"Delta",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Cleaning & Sanitation",
-            "type":"Services"
-        }
+    "addr:full": "412 Providence St Delta OH 43515",
+    "addr:housenumber": "412",
+    "addr:postcode": "43515",
+    "addr:street": "Providence St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.005825,41.572065,-84.005825,41.572065",
+    "geom:latitude": 41.572065,
+    "geom:longitude": -84.005825,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "412 Providence St",
+    "sg:city": "Delta",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Cleaning \u0026 Sanitation",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 822 3760",
-    "sg:postcode":"43515",
-    "sg:province":"OH",
-    "sg:tags":[
-        "janitor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 822 3760",
+    "sg:postcode": "43515",
+    "sg:province": "OH",
+    "sg:tags": [
+      "janitor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_44D3lFhbgoUoGMbbTNaSZo_41.572065_-84.005825@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_44D3lFhbgoUoGMbbTNaSZo_41.572065_-84.005825@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797123,
-    "wof:geomhash":"9814453d828c1730e542d392c7c688d4",
-    "wof:hierarchy":[],
-    "wof:id":706156643,
-    "wof:lastmodified":1472639414,
-    "wof:name":"IBS Of Ohio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "janitor"
+    "wof:country": "US",
+    "wof:created": 1461797123,
+    "wof:geomhash": "318c152d7f04e7f194289d6fdd7eb979",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706156643
+      }
+    ],
+    "wof:id": 706156643,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "IBS Of Ohio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "janitor"
     ]
-},
+  },
   "bbox": [
     -84.005825,
     41.572065,
     -84.005825,
     41.572065
-],
+  ],
   "geometry": {"coordinates":[-84.005825,41.572065],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 689868681,
   "type": "Feature",
   "properties": {
-    "addr:full":"3670 Park 42 Dr Cincinnati OH 45241",
-    "addr:housenumber":"3670;42",
-    "addr:postcode":"45241",
-    "addr:street":"Park;Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.405723,39.28126,-84.405723,39.28126",
-    "geom:latitude":39.28126,
-    "geom:longitude":-84.405723,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3670 Park 42 Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "3670 Park 42 Dr Cincinnati OH 45241",
+    "addr:housenumber": "3670;42",
+    "addr:postcode": "45241",
+    "addr:street": "Park;Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.405723,39.281260,-84.405723,39.281260",
+    "geom:latitude": 39.28126,
+    "geom:longitude": -84.405723,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3670 Park 42 Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 688 0359",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "renting",
-        "truck",
-        "leasing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 688 0359",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "renting",
+      "truck",
+      "leasing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1qsk26zOzK8lnslyRXXARx_39.281260_-84.405723@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1qsk26zOzK8lnslyRXXARx_39.281260_-84.405723@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783760,
-    "wof:geomhash":"9dd0083e871299ee9557f42d0c25d4db",
-    "wof:hierarchy":[],
-    "wof:id":689868681,
-    "wof:lastmodified":1472639961,
-    "wof:name":"Enterprise Rent-A-Truck",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "renting",
-        "truck",
-        "leasing"
+    "wof:country": "US",
+    "wof:created": 1461783760,
+    "wof:geomhash": "45234e9917b58800dc2c1826fe017eda",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689868681
+      }
+    ],
+    "wof:id": 689868681,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Enterprise Rent-A-Truck",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "renting",
+      "truck",
+      "leasing"
     ]
-},
+  },
   "bbox": [
     -84.405723,
     39.28126,
     -84.405723,
     39.28126
-],
-  "geometry": {"coordinates":[-84.40572299999999,39.28126],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.405723,39.28126],"type":"Point"}
 }

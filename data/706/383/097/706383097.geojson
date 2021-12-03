@@ -2,66 +2,70 @@
   "id": 706383097,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 N Main St Piqua OH 45356",
-    "addr:housenumber":"600",
-    "addr:postcode":"45356",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.239746,40.15284,-84.239746,40.15284",
-    "geom:latitude":40.15284,
-    "geom:longitude":-84.239746,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"600 N Main St",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "600 N Main St Piqua OH 45356",
+    "addr:housenumber": "600",
+    "addr:postcode": "45356",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.239746,40.152840,-84.239746,40.152840",
+    "geom:latitude": 40.15284,
+    "geom:longitude": -84.239746,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "600 N Main St",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 773 7688",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 773 7688",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574173,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_11XAdl3tfORJS7pLWxPSe4_40.152840_-84.239746@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574173,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_11XAdl3tfORJS7pLWxPSe4_40.152840_-84.239746@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802074,
-    "wof:geomhash":"78359dd53611a2eead61c6763520df84",
-    "wof:hierarchy":[],
-    "wof:id":706383097,
-    "wof:lastmodified":1511324212,
-    "wof:name":"BP",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461802074,
+    "wof:geomhash": "78359dd53611a2eead61c6763520df84",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706383097
+      }
+    ],
+    "wof:id": 706383097,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "BP",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -84.239746,
     40.15284,
     -84.239746,
     40.15284
-],
+  ],
   "geometry": {"coordinates":[-84.239746,40.15284],"type":"Point"}
 }

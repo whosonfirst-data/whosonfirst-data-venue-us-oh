@@ -2,63 +2,67 @@
   "id": 689568041,
   "type": "Feature",
   "properties": {
-    "addr:full":"131 Portsmouth St Jackson OH 45640",
-    "addr:housenumber":"131",
-    "addr:postcode":"45640",
-    "addr:street":"Portsmouth St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.64079,39.050739,-82.64079,39.050739",
-    "geom:latitude":39.050739,
-    "geom:longitude":-82.64079,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"131 Portsmouth St",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "131 Portsmouth St Jackson OH 45640",
+    "addr:housenumber": "131",
+    "addr:postcode": "45640",
+    "addr:street": "Portsmouth St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.640790,39.050739,-82.640790,39.050739",
+    "geom:latitude": 39.050739,
+    "geom:longitude": -82.64079,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "131 Portsmouth St",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 1889",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 1889",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_42g2RzFhPCuy0eqlz3EkxT_39.050739_-82.640790@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_42g2RzFhPCuy0eqlz3EkxT_39.050739_-82.640790@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775236,
-    "wof:geomhash":"4632388022d0cfb6e7201464fff425c9",
-    "wof:hierarchy":[],
-    "wof:id":689568041,
-    "wof:lastmodified":1472639277,
-    "wof:name":"Philip C Robbins Inc",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461775236,
+    "wof:geomhash": "a8a37a2481233e02caac8a9786591e28",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689568041
+      }
+    ],
+    "wof:id": 689568041,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Philip C Robbins Inc",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.64079,
     39.050739,
     -82.64079,
     39.050739
-],
+  ],
   "geometry": {"coordinates":[-82.64079,39.050739],"type":"Point"}
 }

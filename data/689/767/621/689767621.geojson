@@ -2,63 +2,67 @@
   "id": 689767621,
   "type": "Feature",
   "properties": {
-    "addr:full":"6678 Jackson Pike Lockbourne OH 43137",
-    "addr:housenumber":"6678",
-    "addr:postcode":"43137",
-    "addr:street":"Jackson Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.032575,39.82537,-83.032575,39.82537",
-    "geom:latitude":39.82537,
-    "geom:longitude":-83.032575,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6678 Jackson Pike",
-    "sg:city":"Lockbourne",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6678 Jackson Pike Lockbourne OH 43137",
+    "addr:housenumber": "6678",
+    "addr:postcode": "43137",
+    "addr:street": "Jackson Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.032575,39.825370,-83.032575,39.825370",
+    "geom:latitude": 39.82537,
+    "geom:longitude": -83.032575,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6678 Jackson Pike",
+    "sg:city": "Lockbourne",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 871 9970",
-    "sg:postcode":"43137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 871 9970",
+    "sg:postcode": "43137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3L07mIObEpWKCg8Ivumu3u_39.825370_-83.032575@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3L07mIObEpWKCg8Ivumu3u_39.825370_-83.032575@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780966,
-    "wof:geomhash":"c814fd8931dd0b5320b5295331071548",
-    "wof:hierarchy":[],
-    "wof:id":689767621,
-    "wof:lastmodified":1472639822,
-    "wof:name":"Reeves Trucking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461780966,
+    "wof:geomhash": "ac61120b458593caa807b2c3586df243",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689767621
+      }
+    ],
+    "wof:id": 689767621,
+    "wof:lastmodified": 1638567048,
+    "wof:name": "Reeves Trucking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.032575,
     39.82537,
     -83.032575,
     39.82537
-],
-  "geometry": {"coordinates":[-83.03257499999999,39.82537],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.032575,39.82537],"type":"Point"}
 }

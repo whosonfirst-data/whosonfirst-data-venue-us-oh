@@ -2,61 +2,65 @@
   "id": 706417645,
   "type": "Feature",
   "properties": {
-    "addr:full":"50683 Richardson Ave Negley OH 44441",
-    "addr:housenumber":"50683",
-    "addr:postcode":"44441",
-    "addr:street":"Richardson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.545108,40.789618,-80.545108,40.789618",
-    "geom:latitude":40.789618,
-    "geom:longitude":-80.545108,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50683 Richardson Ave",
-    "sg:city":"Negley",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "50683 Richardson Ave Negley OH 44441",
+    "addr:housenumber": "50683",
+    "addr:postcode": "44441",
+    "addr:street": "Richardson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.545108,40.789618,-80.545108,40.789618",
+    "geom:latitude": 40.789618,
+    "geom:longitude": -80.545108,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "50683 Richardson Ave",
+    "sg:city": "Negley",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 000 1111",
-    "sg:postcode":"44441",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 000 1111",
+    "sg:postcode": "44441",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2mU7g7gmlzhWUKK8qA5IpH_40.789618_-80.545108@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2mU7g7gmlzhWUKK8qA5IpH_40.789618_-80.545108@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802745,
-    "wof:geomhash":"7db46488334edd46f9b49abdec00b7e8",
-    "wof:hierarchy":[],
-    "wof:id":706417645,
-    "wof:lastmodified":1472640006,
-    "wof:name":"Negley Volunteer Fire Dept",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461802745,
+    "wof:geomhash": "d48a6649a0347fd1a4576e15f46708d6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706417645
+      }
+    ],
+    "wof:id": 706417645,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Negley Volunteer Fire Dept",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.545108,
     40.789618,
     -80.545108,
     40.789618
-],
+  ],
   "geometry": {"coordinates":[-80.545108,40.789618],"type":"Point"}
 }

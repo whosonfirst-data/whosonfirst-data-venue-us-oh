@@ -2,61 +2,65 @@
   "id": 706337149,
   "type": "Feature",
   "properties": {
-    "addr:full":"3798 Monroe Hollow Rd Oak Hill OH 45656",
-    "addr:housenumber":"3798",
-    "addr:postcode":"45656",
-    "addr:street":"Monroe Hollow Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.631416,38.863205,-82.631416,38.863205",
-    "geom:latitude":38.863205,
-    "geom:longitude":-82.631416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3798 Monroe Hollow Rd",
-    "sg:city":"Oak Hill",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3798 Monroe Hollow Rd Oak Hill OH 45656",
+    "addr:housenumber": "3798",
+    "addr:postcode": "45656",
+    "addr:street": "Monroe Hollow Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.631416,38.863205,-82.631416,38.863205",
+    "geom:latitude": 38.863205,
+    "geom:longitude": -82.631416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3798 Monroe Hollow Rd",
+    "sg:city": "Oak Hill",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 682 7820",
-    "sg:postcode":"45656",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 682 7820",
+    "sg:postcode": "45656",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4L6FasmsfaIUurcb4DAexu_38.863205_-82.631416@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4L6FasmsfaIUurcb4DAexu_38.863205_-82.631416@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801141,
-    "wof:geomhash":"af29dbb75ad9bf850219bed21e826f91",
-    "wof:hierarchy":[],
-    "wof:id":706337149,
-    "wof:lastmodified":1472639836,
-    "wof:name":"Monroe Chapel Church",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461801141,
+    "wof:geomhash": "9e5188dcf9b323bc745efa03e069c95d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706337149
+      }
+    ],
+    "wof:id": 706337149,
+    "wof:lastmodified": 1638567088,
+    "wof:name": "Monroe Chapel Church",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.631416,
     38.863205,
     -82.631416,
     38.863205
-],
+  ],
   "geometry": {"coordinates":[-82.631416,38.863205],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689663023,
   "type": "Feature",
   "properties": {
-    "addr:full":"349 E High Ave New Philadelphia OH 44663",
-    "addr:housenumber":"349",
-    "addr:postcode":"44663",
-    "addr:street":"E High Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.44006,40.4887,-81.44006,40.4887",
-    "geom:latitude":40.4887,
-    "geom:longitude":-81.44006,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"349 E High Ave",
-    "sg:city":"New Philadelphia",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "349 E High Ave New Philadelphia OH 44663",
+    "addr:housenumber": "349",
+    "addr:postcode": "44663",
+    "addr:street": "E High Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.440060,40.488700,-81.440060,40.488700",
+    "geom:latitude": 40.4887,
+    "geom:longitude": -81.44006,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "349 E High Ave",
+    "sg:city": "New Philadelphia",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 000 1111",
-    "sg:postcode":"44663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "organization",
-        "welfare"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 000 1111",
+    "sg:postcode": "44663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "organization",
+      "welfare"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1gWJwk2nCJ86JIuEMELV3t_40.488700_-81.440060@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1gWJwk2nCJ86JIuEMELV3t_40.488700_-81.440060@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778204,
-    "wof:geomhash":"52b46c60951eb5e9e24cd75c0008d2ce",
-    "wof:hierarchy":[],
-    "wof:id":689663023,
-    "wof:lastmodified":1472639559,
-    "wof:name":"Harbor House Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "organization",
-        "welfare"
+    "wof:country": "US",
+    "wof:created": 1461778204,
+    "wof:geomhash": "387d9182cbfa18f9b3c4e68979be1630",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689663023
+      }
+    ],
+    "wof:id": 689663023,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Harbor House Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organization",
+      "welfare"
     ]
-},
+  },
   "bbox": [
     -81.44006,
     40.4887,
     -81.44006,
     40.4887
-],
+  ],
   "geometry": {"coordinates":[-81.44006,40.4887],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706347705,
   "type": "Feature",
   "properties": {
-    "addr:full":"6054 Broadview Rd Cleveland OH 44134",
-    "addr:housenumber":"6054",
-    "addr:postcode":"44134",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.688619,41.399081,-81.688619,41.399081",
-    "geom:latitude":41.399081,
-    "geom:longitude":-81.688619,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6054 Broadview Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Title Insurance",
-            "type":"Services"
-        }
+    "addr:full": "6054 Broadview Rd Cleveland OH 44134",
+    "addr:housenumber": "6054",
+    "addr:postcode": "44134",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.688619,41.399081,-81.688619,41.399081",
+    "geom:latitude": 41.399081,
+    "geom:longitude": -81.688619,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6054 Broadview Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Title Insurance",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 398 7755",
-    "sg:postcode":"44134",
-    "sg:province":"OH",
-    "sg:tags":[
-        "carrier"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 398 7755",
+    "sg:postcode": "44134",
+    "sg:province": "OH",
+    "sg:tags": [
+      "carrier"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XfBLStG7HVrsNoKFK2k2e_41.399081_-81.688619@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5XfBLStG7HVrsNoKFK2k2e_41.399081_-81.688619@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801364,
-    "wof:geomhash":"8fda7ff8eb447435cae307b4838279eb",
-    "wof:hierarchy":[],
-    "wof:id":706347705,
-    "wof:lastmodified":1472639856,
-    "wof:name":"Netco-Cleveland Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "carrier"
+    "wof:country": "US",
+    "wof:created": 1461801364,
+    "wof:geomhash": "adb6cc08cb31d0dc54612e7396964b8b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706347705
+      }
+    ],
+    "wof:id": 706347705,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Netco-Cleveland Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "carrier"
     ]
-},
+  },
   "bbox": [
     -81.688619,
     41.399081,
     -81.688619,
     41.399081
-],
+  ],
   "geometry": {"coordinates":[-81.688619,41.399081],"type":"Point"}
 }

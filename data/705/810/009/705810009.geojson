@@ -2,65 +2,69 @@
   "id": 705810009,
   "type": "Feature",
   "properties": {
-    "addr:full":"10030 Bridges Rd Leesburg OH 45135",
-    "addr:housenumber":"",
-    "addr:postcode":"10030;45135",
-    "addr:street":"Bridges Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.525291,39.298799,-83.525291,39.298799",
-    "geom:latitude":39.298799,
-    "geom:longitude":-83.525291,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10030 Bridges Rd",
-    "sg:city":"Leesburg",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10030 Bridges Rd Leesburg OH 45135",
+    "addr:housenumber": "",
+    "addr:postcode": "10030;45135",
+    "addr:street": "Bridges Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.525291,39.298799,-83.525291,39.298799",
+    "geom:latitude": 39.298799,
+    "geom:longitude": -83.525291,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10030 Bridges Rd",
+    "sg:city": "Leesburg",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 780 4792",
-    "sg:postcode":"45135",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 780 4792",
+    "sg:postcode": "45135",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ZiPZNFSLBEXCMd5EzxDUL_39.298799_-83.525291@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0ZiPZNFSLBEXCMd5EzxDUL_39.298799_-83.525291@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789229,
-    "wof:geomhash":"e435692afdb67a43ee56bf68681062b3",
-    "wof:hierarchy":[],
-    "wof:id":705810009,
-    "wof:lastmodified":1472639276,
-    "wof:name":"Hamilton Farms Trucking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461789229,
+    "wof:geomhash": "d4013aff04f06d2259c42a011903ad43",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705810009
+      }
+    ],
+    "wof:id": 705810009,
+    "wof:lastmodified": 1638567004,
+    "wof:name": "Hamilton Farms Trucking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.525291,
     39.298799,
     -83.525291,
     39.298799
-],
+  ],
   "geometry": {"coordinates":[-83.525291,39.298799],"type":"Point"}
 }

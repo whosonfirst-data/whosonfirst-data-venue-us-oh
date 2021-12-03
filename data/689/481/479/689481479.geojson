@@ -2,61 +2,65 @@
   "id": 689481479,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 Poole St West Portsmouth OH 45663",
-    "addr:housenumber":"116",
-    "addr:postcode":"45663",
-    "addr:street":"Poole St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.020642,38.761343,-83.020642,38.761343",
-    "geom:latitude":38.761343,
-    "geom:longitude":-83.020642,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"116 Poole St",
-    "sg:city":"West Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "116 Poole St West Portsmouth OH 45663",
+    "addr:housenumber": "116",
+    "addr:postcode": "45663",
+    "addr:street": "Poole St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.020642,38.761343,-83.020642,38.761343",
+    "geom:latitude": 38.761343,
+    "geom:longitude": -83.020642,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "116 Poole St",
+    "sg:city": "West Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 858 6991",
-    "sg:postcode":"45663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 858 6991",
+    "sg:postcode": "45663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7FmFqJcU19HzNro8uMWM5D_38.761343_-83.020642@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7FmFqJcU19HzNro8uMWM5D_38.761343_-83.020642@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772557,
-    "wof:geomhash":"36fa515fd82034de172dea167642ce0d",
-    "wof:hierarchy":[],
-    "wof:id":689481479,
-    "wof:lastmodified":1472638522,
-    "wof:name":"Catherine Heid",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461772557,
+    "wof:geomhash": "eeccfd93327cee24e587e3c54bdc51a6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689481479
+      }
+    ],
+    "wof:id": 689481479,
+    "wof:lastmodified": 1638566927,
+    "wof:name": "Catherine Heid",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.020642,
     38.761343,
     -83.020642,
     38.761343
-],
+  ],
   "geometry": {"coordinates":[-83.020642,38.761343],"type":"Point"}
 }

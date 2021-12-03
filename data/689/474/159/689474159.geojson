@@ -2,63 +2,67 @@
   "id": 689474159,
   "type": "Feature",
   "properties": {
-    "addr:full":"1735 27th St Portsmouth OH 45662",
-    "addr:housenumber":"1735",
-    "addr:postcode":"45662",
-    "addr:street":"27Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.979301,38.75342,-82.979301,38.75342",
-    "geom:latitude":38.75342,
-    "geom:longitude":-82.979301,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1735 27th St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1735 27th St Portsmouth OH 45662",
+    "addr:housenumber": "1735",
+    "addr:postcode": "45662",
+    "addr:street": "27Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.979301,38.753420,-82.979301,38.753420",
+    "geom:latitude": 38.75342,
+    "geom:longitude": -82.979301,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1735 27th St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 351 0454",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 351 0454",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2QADtu8cWHX11u3DD3pyUI_38.753420_-82.979301@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2QADtu8cWHX11u3DD3pyUI_38.753420_-82.979301@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772355,
-    "wof:geomhash":"565ea53fe0df003b9e45e1fd38981da2",
-    "wof:hierarchy":[],
-    "wof:id":689474159,
-    "wof:lastmodified":1472638374,
-    "wof:name":"William Addington DO",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461772355,
+    "wof:geomhash": "c4be996a9b1e6bdf969e5d26a9bd4cfe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689474159
+      }
+    ],
+    "wof:id": 689474159,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "William Addington DO",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.979301,
     38.75342,
     -82.979301,
     38.75342
-],
-  "geometry": {"coordinates":[-82.97930100000001,38.75342],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.979301,38.75342],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705979169,
   "type": "Feature",
   "properties": {
-    "addr:full":"417 3rd Ave Chesapeake OH 45619",
-    "addr:housenumber":"417",
-    "addr:postcode":"45619",
-    "addr:street":"3Rd Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.45578,38.428105,-82.45578,38.428105",
-    "geom:latitude":38.428105,
-    "geom:longitude":-82.45578,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"417 3rd Ave",
-    "sg:city":"Chesapeake",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "417 3rd Ave Chesapeake OH 45619",
+    "addr:housenumber": "417",
+    "addr:postcode": "45619",
+    "addr:street": "3Rd Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.455780,38.428105,-82.455780,38.428105",
+    "geom:latitude": 38.428105,
+    "geom:longitude": -82.45578,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "417 3rd Ave",
+    "sg:city": "Chesapeake",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 867 6245",
-    "sg:postcode":"45619",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 867 6245",
+    "sg:postcode": "45619",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4zX8xtybIxpuYgul7sBbeY_38.428105_-82.455780@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4zX8xtybIxpuYgul7sBbeY_38.428105_-82.455780@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793148,
-    "wof:geomhash":"482163ef360df7ab7f68e1e147681b0c",
-    "wof:hierarchy":[],
-    "wof:id":705979169,
-    "wof:lastmodified":1472639774,
-    "wof:name":"Ranee's New Look",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461793148,
+    "wof:geomhash": "54ba0a5e15a525f3972c28f82f84e551",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705979169
+      }
+    ],
+    "wof:id": 705979169,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Ranee's New Look",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -82.45578,
     38.428105,
     -82.45578,
     38.428105
-],
+  ],
   "geometry": {"coordinates":[-82.45578,38.428105],"type":"Point"}
 }

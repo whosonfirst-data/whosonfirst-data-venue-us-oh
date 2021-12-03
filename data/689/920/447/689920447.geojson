@@ -2,61 +2,65 @@
   "id": 689920447,
   "type": "Feature",
   "properties": {
-    "addr:full":"1230 Brice Ave Lima OH 45805",
-    "addr:housenumber":"1230",
-    "addr:postcode":"45805",
-    "addr:street":"Brice Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.128156,40.745129,-84.128156,40.745129",
-    "geom:latitude":40.745129,
-    "geom:longitude":-84.128156,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1230 Brice Ave",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1230 Brice Ave Lima OH 45805",
+    "addr:housenumber": "1230",
+    "addr:postcode": "45805",
+    "addr:street": "Brice Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.128156,40.745129,-84.128156,40.745129",
+    "geom:latitude": 40.745129,
+    "geom:longitude": -84.128156,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1230 Brice Ave",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 228 5958",
-    "sg:postcode":"45805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 228 5958",
+    "sg:postcode": "45805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6x3GHN3tL1VKKDVnrs5WZW_40.745129_-84.128156@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6x3GHN3tL1VKKDVnrs5WZW_40.745129_-84.128156@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785131,
-    "wof:geomhash":"6807e7fdb7722386b8cadc062a0c5920",
-    "wof:hierarchy":[],
-    "wof:id":689920447,
-    "wof:lastmodified":1472640076,
-    "wof:name":"Unity Church Of Lima",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461785131,
+    "wof:geomhash": "9771f4631ac0c3d0601da9c652cd37cf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689920447
+      }
+    ],
+    "wof:id": 689920447,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Unity Church Of Lima",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.128156,
     40.745129,
     -84.128156,
     40.745129
-],
+  ],
   "geometry": {"coordinates":[-84.128156,40.745129],"type":"Point"}
 }

@@ -2,67 +2,71 @@
   "id": 706557049,
   "type": "Feature",
   "properties": {
-    "addr:full":"430 Water St Chardon OH 44024",
-    "addr:housenumber":"430",
-    "addr:postcode":"44024",
-    "addr:street":"Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.211831,41.581289,-81.211831,41.581289",
-    "geom:latitude":41.581289,
-    "geom:longitude":-81.211831,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"430 Water St",
-    "sg:city":"Chardon",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "430 Water St Chardon OH 44024",
+    "addr:housenumber": "430",
+    "addr:postcode": "44024",
+    "addr:street": "Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.211831,41.581289,-81.211831,41.581289",
+    "geom:latitude": 41.581289,
+    "geom:longitude": -81.211831,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "430 Water St",
+    "sg:city": "Chardon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/chardon/195273-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44024",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/chardon/195273-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44024",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":308022544,
-        "sg:id":"SG_621j0Rl1QgaWGT9hlEAkNa_41.581289_-81.211831@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 308022544,
+      "sg:id": "SG_621j0Rl1QgaWGT9hlEAkNa_41.581289_-81.211831@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805792,
-    "wof:geomhash":"5a2b57fc0d33edd210d13d95b1311583",
-    "wof:hierarchy":[],
-    "wof:id":706557049,
-    "wof:lastmodified":1512142892,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805792,
+    "wof:geomhash": "5a2b57fc0d33edd210d13d95b1311583",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706557049
+      }
+    ],
+    "wof:id": 706557049,
+    "wof:lastmodified": 1638567135,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -81.211831,
     41.581289,
     -81.211831,
     41.581289
-],
+  ],
   "geometry": {"coordinates":[-81.211831,41.581289],"type":"Point"}
 }

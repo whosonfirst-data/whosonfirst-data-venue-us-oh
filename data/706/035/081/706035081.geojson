@@ -2,64 +2,68 @@
   "id": 706035081,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Lincoln Ave Swanton OH 43558",
-    "addr:housenumber":"123",
-    "addr:postcode":"43558",
-    "addr:street":"Lincoln Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.890804,41.590559,-83.890804,41.590559",
-    "geom:latitude":41.590559,
-    "geom:longitude":-83.890804,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"123 Lincoln Ave",
-    "sg:city":"Swanton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "123 Lincoln Ave Swanton OH 43558",
+    "addr:housenumber": "123",
+    "addr:postcode": "43558",
+    "addr:street": "Lincoln Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.890804,41.590559,-83.890804,41.590559",
+    "geom:latitude": 41.590559,
+    "geom:longitude": -83.890804,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "123 Lincoln Ave",
+    "sg:city": "Swanton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 825 5184",
-    "sg:postcode":"43558",
-    "sg:province":"OH",
-    "sg:tags":[
-        "transmission"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 825 5184",
+    "sg:postcode": "43558",
+    "sg:province": "OH",
+    "sg:tags": [
+      "transmission"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125149129,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_79XuCSApqqOMZq9EuoTAPl_41.590559_-83.890804@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125149129,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_79XuCSApqqOMZq9EuoTAPl_41.590559_-83.890804@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794309,
-    "wof:geomhash":"5885a5c31b4027f58382882bb47c8903",
-    "wof:hierarchy":[],
-    "wof:id":706035081,
-    "wof:lastmodified":1510876619,
-    "wof:name":"Cottman Transmission Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transmission"
+    "wof:country": "US",
+    "wof:created": 1461794309,
+    "wof:geomhash": "5885a5c31b4027f58382882bb47c8903",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706035081
+      }
+    ],
+    "wof:id": 706035081,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Cottman Transmission Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transmission"
     ]
-},
+  },
   "bbox": [
     -83.890804,
     41.590559,
     -83.890804,
     41.590559
-],
+  ],
   "geometry": {"coordinates":[-83.890804,41.590559],"type":"Point"}
 }

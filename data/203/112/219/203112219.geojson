@@ -2,78 +2,79 @@
   "id": 203112219,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 S Main St Dayton OH 45402",
-    "addr:housenumber":"22",
-    "addr:postcode":"45402",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.191517,39.758881,-84.191517,39.758881",
-    "geom:latitude":39.758881,
-    "geom:longitude":-84.191517,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"22 S Main St",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "22 S Main St Dayton OH 45402",
+    "addr:housenumber": "22",
+    "addr:postcode": "45402",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.191517,39.758881,-84.191517,39.758881",
+    "geom:latitude": 39.758881,
+    "geom:longitude": -84.191517,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "22 S Main St",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 425 8377",
-    "sg:postcode":"45402",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bus",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 425 8377",
+    "sg:postcode": "45402",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bus",
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712161,
-        102083667,
-        85876993
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712161,
+      102083667,
+      85876993
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1xBwFeIdX9O6g22h2I8vNn_39.758881_-84.191517@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1xBwFeIdX9O6g22h2I8vNn_39.758881_-84.191517@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1726f6ab1d4bd97024c1f8468457d6df",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083667,
-            "locality_id":101712161,
-            "neighbourhood_id":85876993,
-            "region_id":85688485,
-            "venue_id":203112219
-        }
+    "wof:country": "US",
+    "wof:created": 1638566961,
+    "wof:geomhash": "53ae799205dec1f04348122a0d0ab356",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083667,
+        "locality_id": 101712161,
+        "neighbourhood_id": 85876993,
+        "region_id": 85688485,
+        "venue_id": 203112219
+      }
     ],
-    "wof:id":203112219,
-    "wof:lastmodified":1472638307,
-    "wof:name":"RTA-Miami Valley Regional",
-    "wof:parent_id":85876993,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus",
-        "line"
+    "wof:id": 203112219,
+    "wof:lastmodified": 1638566961,
+    "wof:name": "RTA-Miami Valley Regional",
+    "wof:parent_id": 85876993,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus",
+      "line"
     ]
-},
+  },
   "bbox": [
     -84.191517,
     39.758881,
     -84.191517,
     39.758881
-],
+  ],
   "geometry": {"coordinates":[-84.191517,39.758881],"type":"Point"}
 }

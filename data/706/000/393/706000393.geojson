@@ -2,65 +2,69 @@
   "id": 706000393,
   "type": "Feature",
   "properties": {
-    "addr:full":"137 W Edgewood St Sidney OH 45365",
-    "addr:housenumber":"137",
-    "addr:postcode":"45365",
-    "addr:street":"W Edgewood St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.156576,40.30622,-84.156576,40.30622",
-    "geom:latitude":40.30622,
-    "geom:longitude":-84.156576,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"137 W Edgewood St",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "137 W Edgewood St Sidney OH 45365",
+    "addr:housenumber": "137",
+    "addr:postcode": "45365",
+    "addr:street": "W Edgewood St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.156576,40.306220,-84.156576,40.306220",
+    "geom:latitude": 40.30622,
+    "geom:longitude": -84.156576,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "137 W Edgewood St",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 492 9061",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 492 9061",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"www.gracebaptistsidney.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574631,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7FUgat0dXSBlLmg8gegCiS_40.306220_-84.156576@1294180530"
+    "sg:website": "www.gracebaptistsidney.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574631,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7FUgat0dXSBlLmg8gegCiS_40.306220_-84.156576@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793585,
-    "wof:geomhash":"5b027526a6fabc09f21213f4bed91544",
-    "wof:hierarchy":[],
-    "wof:id":706000393,
-    "wof:lastmodified":1511323274,
-    "wof:name":"Grace Baptist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793585,
+    "wof:geomhash": "5b027526a6fabc09f21213f4bed91544",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706000393
+      }
+    ],
+    "wof:id": 706000393,
+    "wof:lastmodified": 1638566924,
+    "wof:name": "Grace Baptist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.156576,
     40.30622,
     -84.156576,
     40.30622
-],
+  ],
   "geometry": {"coordinates":[-84.156576,40.30622],"type":"Point"}
 }

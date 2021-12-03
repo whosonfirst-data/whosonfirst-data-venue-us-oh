@@ -2,56 +2,60 @@
   "id": 705885013,
   "type": "Feature",
   "properties": {
-    "addr:full":"24453 Lake Shore Blvd Cleveland OH 44123",
-    "addr:housenumber":"24453",
-    "addr:postcode":"44123",
-    "addr:street":"Lake Shore Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.513894,41.61624,-81.513894,41.61624",
-    "geom:latitude":41.61624,
-    "geom:longitude":-81.513894,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"24453 Lake Shore Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "24453 Lake Shore Blvd Cleveland OH 44123",
+    "addr:housenumber": "24453",
+    "addr:postcode": "44123",
+    "addr:street": "Lake Shore Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.513894,41.616240,-81.513894,41.616240",
+    "geom:latitude": 41.61624,
+    "geom:longitude": -81.513894,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "24453 Lake Shore Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 731 5100",
-    "sg:postcode":"44123",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1jHlfl6SJnFbqO2G3fyeq8_41.616240_-81.513894@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 731 5100",
+    "sg:postcode": "44123",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1jHlfl6SJnFbqO2G3fyeq8_41.616240_-81.513894@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791052,
-    "wof:geomhash":"2e828d38ceaa40a4627ade5add86d2f0",
-    "wof:hierarchy":[],
-    "wof:id":705885013,
-    "wof:lastmodified":1472639502,
-    "wof:name":"Georgio's Oven Fresh Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461791052,
+    "wof:geomhash": "9aca2adbd8fba7224f6b6ae4f3bfe4c5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705885013
+      }
+    ],
+    "wof:id": 705885013,
+    "wof:lastmodified": 1638567029,
+    "wof:name": "Georgio's Oven Fresh Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.513894,
     41.61624,
     -81.513894,
     41.61624
-],
-  "geometry": {"coordinates":[-81.51389399999999,41.61624],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.513894,41.61624],"type":"Point"}
 }

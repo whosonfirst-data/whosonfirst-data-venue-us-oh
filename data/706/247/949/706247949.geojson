@@ -2,65 +2,69 @@
   "id": 706247949,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 W Hanthorn Rd Lima OH 45804",
-    "addr:housenumber":"205",
-    "addr:postcode":"45804",
-    "addr:street":"W Hanthorn Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.10635,40.70215,-84.10635,40.70215",
-    "geom:latitude":40.70215,
-    "geom:longitude":-84.10635,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"205 W Hanthorn Rd",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Telephone",
-            "type":"Services"
-        }
+    "addr:full": "205 W Hanthorn Rd Lima OH 45804",
+    "addr:housenumber": "205",
+    "addr:postcode": "45804",
+    "addr:street": "W Hanthorn Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.106350,40.702150,-84.106350,40.702150",
+    "geom:latitude": 40.70215,
+    "geom:longitude": -84.10635,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "205 W Hanthorn Rd",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Telephone",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 224 8719",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "telecommunication"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 224 8719",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "telecommunication"
     ],
-    "sg:website":"www.americantower.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420575529,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FHy9pz1ojxI9EbDJ1OAYG_40.702150_-84.106350@1294180530"
+    "sg:website": "www.americantower.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420575529,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4FHy9pz1ojxI9EbDJ1OAYG_40.702150_-84.106350@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799149,
-    "wof:geomhash":"4867525c9369f1428f628152c6fa8dda",
-    "wof:hierarchy":[],
-    "wof:id":706247949,
-    "wof:lastmodified":1510602054,
-    "wof:name":"American Tower Corp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "telecommunication"
+    "wof:country": "US",
+    "wof:created": 1461799149,
+    "wof:geomhash": "4867525c9369f1428f628152c6fa8dda",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706247949
+      }
+    ],
+    "wof:id": 706247949,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "American Tower Corp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "telecommunication"
     ]
-},
+  },
   "bbox": [
     -84.10635,
     40.70215,
     -84.10635,
     40.70215
-],
-  "geometry": {"coordinates":[-84.10635000000001,40.70215],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.10635,40.70215],"type":"Point"}
 }

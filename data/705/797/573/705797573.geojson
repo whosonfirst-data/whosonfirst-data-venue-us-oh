@@ -2,57 +2,61 @@
   "id": 705797573,
   "type": "Feature",
   "properties": {
-    "addr:full":"130 S Cleveland Ave Mogadore OH 44260",
-    "addr:housenumber":"130",
-    "addr:postcode":"44260",
-    "addr:street":"S Cleveland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.393218,41.048001,-81.393218,41.048001",
-    "geom:latitude":41.048001,
-    "geom:longitude":-81.393218,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"130 S Cleveland Ave",
-    "sg:city":"Mogadore",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "130 S Cleveland Ave Mogadore OH 44260",
+    "addr:housenumber": "130",
+    "addr:postcode": "44260",
+    "addr:street": "S Cleveland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.393218,41.048001,-81.393218,41.048001",
+    "geom:latitude": 41.048001,
+    "geom:longitude": -81.393218,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "130 S Cleveland Ave",
+    "sg:city": "Mogadore",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 628 9943",
-    "sg:postcode":"44260",
-    "sg:province":"OH",
-    "sg:website":"www.mogadore.summit.k12.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5lrNgB45P7J7GtReqyRQQ9_41.048001_-81.393218@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 628 9943",
+    "sg:postcode": "44260",
+    "sg:province": "OH",
+    "sg:website": "www.mogadore.summit.k12.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5lrNgB45P7J7GtReqyRQQ9_41.048001_-81.393218@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788954,
-    "wof:geomhash":"c6e5ebe562bb29baae526f528736ddd7",
-    "wof:hierarchy":[],
-    "wof:id":705797573,
-    "wof:lastmodified":1472639305,
-    "wof:name":"Mogadore High School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461788954,
+    "wof:geomhash": "c0261d47b3c7de224946f0057c7dd1c4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705797573
+      }
+    ],
+    "wof:id": 705797573,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Mogadore High School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.393218,
     41.048001,
     -81.393218,
     41.048001
-],
+  ],
   "geometry": {"coordinates":[-81.393218,41.048001],"type":"Point"}
 }

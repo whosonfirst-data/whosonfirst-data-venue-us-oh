@@ -2,61 +2,65 @@
   "id": 706012715,
   "type": "Feature",
   "properties": {
-    "addr:full":"42 Marion Ave Mansfield OH 44903",
-    "addr:housenumber":"42",
-    "addr:postcode":"44903",
-    "addr:street":"Marion Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.524585,40.758512,-82.524585,40.758512",
-    "geom:latitude":40.758512,
-    "geom:longitude":-82.524585,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"42 Marion Ave",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "42 Marion Ave Mansfield OH 44903",
+    "addr:housenumber": "42",
+    "addr:postcode": "44903",
+    "addr:street": "Marion Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.524585,40.758512,-82.524585,40.758512",
+    "geom:latitude": 40.758512,
+    "geom:longitude": -82.524585,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "42 Marion Ave",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 522 5555",
-    "sg:postcode":"44903",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 522 5555",
+    "sg:postcode": "44903",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5NnYn07brWtKL4CsGGV3mD_40.758512_-82.524585@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5NnYn07brWtKL4CsGGV3mD_40.758512_-82.524585@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793849,
-    "wof:geomhash":"6d13ae8e7b2dde45dc4090974bc127f7",
-    "wof:hierarchy":[],
-    "wof:id":706012715,
-    "wof:lastmodified":1472638428,
-    "wof:name":"Quality Tech Dental Lab",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461793849,
+    "wof:geomhash": "5374e46feccf85cc8e9358c700b2d0e9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706012715
+      }
+    ],
+    "wof:id": 706012715,
+    "wof:lastmodified": 1638566935,
+    "wof:name": "Quality Tech Dental Lab",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -82.524585,
     40.758512,
     -82.524585,
     40.758512
-],
+  ],
   "geometry": {"coordinates":[-82.524585,40.758512],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706383541,
   "type": "Feature",
   "properties": {
-    "addr:full":"39 N Main St Niles OH 44446",
-    "addr:housenumber":"39",
-    "addr:postcode":"44446",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.765096,41.181123,-80.765096,41.181123",
-    "geom:latitude":41.181123,
-    "geom:longitude":-80.765096,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"39 N Main St",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "39 N Main St Niles OH 44446",
+    "addr:housenumber": "39",
+    "addr:postcode": "44446",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.765096,41.181123,-80.765096,41.181123",
+    "geom:latitude": 41.181123,
+    "geom:longitude": -80.765096,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "39 N Main St",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 544 5100",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 544 5100",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1iKsma6ALjUxgRXdWLODKS_41.181123_-80.765096@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1iKsma6ALjUxgRXdWLODKS_41.181123_-80.765096@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802082,
-    "wof:geomhash":"66f38ea042cdfe85e2b61218336ad538",
-    "wof:hierarchy":[],
-    "wof:id":706383541,
-    "wof:lastmodified":1472639963,
-    "wof:name":"Castle Color Portrait Studio",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461802082,
+    "wof:geomhash": "165ba6c1007c92d4344f6c22cc8e1a2a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706383541
+      }
+    ],
+    "wof:id": 706383541,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Castle Color Portrait Studio",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -80.765096,
     41.181123,
     -80.765096,
     41.181123
-],
+  ],
   "geometry": {"coordinates":[-80.765096,41.181123],"type":"Point"}
 }

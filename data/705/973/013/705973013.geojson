@@ -2,61 +2,65 @@
   "id": 705973013,
   "type": "Feature",
   "properties": {
-    "addr:full":"3831 E 93rd St Cleveland OH 44105",
-    "addr:housenumber":"3831",
-    "addr:postcode":"44105",
-    "addr:street":"E 93Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.621307,41.454831,-81.621307,41.454831",
-    "geom:latitude":41.454831,
-    "geom:longitude":-81.621307,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3831 E 93rd St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3831 E 93rd St Cleveland OH 44105",
+    "addr:housenumber": "3831",
+    "addr:postcode": "44105",
+    "addr:street": "E 93Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.621307,41.454831,-81.621307,41.454831",
+    "geom:latitude": 41.454831,
+    "geom:longitude": -81.621307,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3831 E 93rd St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 883 1520",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 883 1520",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3jvdY8NVFE9SuCjEBR0Rol_41.454831_-81.621307@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3jvdY8NVFE9SuCjEBR0Rol_41.454831_-81.621307@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793024,
-    "wof:geomhash":"68f98525ed98cedccac4d569ba328eab",
-    "wof:hierarchy":[],
-    "wof:id":705973013,
-    "wof:lastmodified":1472639717,
-    "wof:name":"Mike's Shoprite",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461793024,
+    "wof:geomhash": "676eb32774a257313dac304a3517b3ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705973013
+      }
+    ],
+    "wof:id": 705973013,
+    "wof:lastmodified": 1638567065,
+    "wof:name": "Mike's Shoprite",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -81.621307,
     41.454831,
     -81.621307,
     41.454831
-],
+  ],
   "geometry": {"coordinates":[-81.621307,41.454831],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706213389,
   "type": "Feature",
   "properties": {
-    "addr:full":"3819 Broadway Grove City OH 43123",
-    "addr:housenumber":"3819",
-    "addr:postcode":"43123",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.089404,39.88748,-83.089404,39.88748",
-    "geom:latitude":39.88748,
-    "geom:longitude":-83.089404,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3819 Broadway",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "3819 Broadway Grove City OH 43123",
+    "addr:housenumber": "3819",
+    "addr:postcode": "43123",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.089404,39.887480,-83.089404,39.887480",
+    "geom:latitude": 39.88748,
+    "geom:longitude": -83.089404,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3819 Broadway",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 871 3326",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house",
-        "construct"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 871 3326",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house",
+      "construct"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6LLEsHfSH9rMcWjql2HQnf_39.887480_-83.089404@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6LLEsHfSH9rMcWjql2HQnf_39.887480_-83.089404@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798362,
-    "wof:geomhash":"4b91a036af73ac439e259db1c722aca8",
-    "wof:hierarchy":[],
-    "wof:id":706213389,
-    "wof:lastmodified":1472639505,
-    "wof:name":"Potts Real Estate",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house",
-        "construct"
+    "wof:country": "US",
+    "wof:created": 1461798362,
+    "wof:geomhash": "b2faf2e81f4f6ce430a448d8552381cc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706213389
+      }
+    ],
+    "wof:id": 706213389,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Potts Real Estate",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house",
+      "construct"
     ]
-},
+  },
   "bbox": [
     -83.089404,
     39.88748,
     -83.089404,
     39.88748
-],
+  ],
   "geometry": {"coordinates":[-83.089404,39.88748],"type":"Point"}
 }

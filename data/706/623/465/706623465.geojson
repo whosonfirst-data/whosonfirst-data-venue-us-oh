@@ -2,72 +2,76 @@
   "id": 706623465,
   "type": "Feature",
   "properties": {
-    "addr:full":"273 Cline Ave Mansfield OH 44907",
-    "addr:housenumber":"273",
-    "addr:postcode":"44907",
-    "addr:street":"Cline Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.527719,40.747462,-82.527719,40.747462",
-    "geom:latitude":40.747462,
-    "geom:longitude":-82.527719,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"273 Cline Ave",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "273 Cline Ave Mansfield OH 44907",
+    "addr:housenumber": "273",
+    "addr:postcode": "44907",
+    "addr:street": "Cline Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.527719,40.747462,-82.527719,40.747462",
+    "geom:latitude": 40.747462,
+    "geom:longitude": -82.527719,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "273 Cline Ave",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 756 5400",
-    "sg:postcode":"44907",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon",
-        "surgeons",
-        "ophthalmology"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 756 5400",
+    "sg:postcode": "44907",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon",
+      "surgeons",
+      "ophthalmology"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0aQXqW0QveTxV45yQnOEgO_40.747462_-82.527719@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0aQXqW0QveTxV45yQnOEgO_40.747462_-82.527719@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807222,
-    "wof:geomhash":"7dfdf7b41c8855eb81e98018c48d29c4",
-    "wof:hierarchy":[],
-    "wof:id":706623465,
-    "wof:lastmodified":1472640239,
-    "wof:name":"Schnitzer David B MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon",
-        "surgeons",
-        "ophthalmology"
+    "wof:country": "US",
+    "wof:created": 1461807222,
+    "wof:geomhash": "e6651884a58fcd0490df9e3abd80dab7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706623465
+      }
+    ],
+    "wof:id": 706623465,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Schnitzer David B MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon",
+      "surgeons",
+      "ophthalmology"
     ]
-},
+  },
   "bbox": [
     -82.527719,
     40.747462,
     -82.527719,
     40.747462
-],
+  ],
   "geometry": {"coordinates":[-82.527719,40.747462],"type":"Point"}
 }

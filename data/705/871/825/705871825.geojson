@@ -2,61 +2,65 @@
   "id": 705871825,
   "type": "Feature",
   "properties": {
-    "addr:full":"1905 State Rte 247 Manchester OH 45144",
-    "addr:housenumber":"1905",
-    "addr:postcode":"45144",
-    "addr:street":"State Rte 247",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.517197,38.726965,-83.517197,38.726965",
-    "geom:latitude":38.726965,
-    "geom:longitude":-83.517197,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1905 State Rte 247",
-    "sg:city":"Manchester",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1905 State Rte 247 Manchester OH 45144",
+    "addr:housenumber": "1905",
+    "addr:postcode": "45144",
+    "addr:street": "State Rte 247",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.517197,38.726965,-83.517197,38.726965",
+    "geom:latitude": 38.726965,
+    "geom:longitude": -83.517197,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1905 State Rte 247",
+    "sg:city": "Manchester",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 549 1655",
-    "sg:postcode":"45144",
-    "sg:province":"OH",
-    "sg:tags":[
-        "township"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 549 1655",
+    "sg:postcode": "45144",
+    "sg:province": "OH",
+    "sg:tags": [
+      "township"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5FiWAVwVYLNeaTvuqZ96I8_38.726965_-83.517197@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5FiWAVwVYLNeaTvuqZ96I8_38.726965_-83.517197@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790736,
-    "wof:geomhash":"4bb35859cd111908d62460773cf49980",
-    "wof:hierarchy":[],
-    "wof:id":705871825,
-    "wof:lastmodified":1472639483,
-    "wof:name":"Monroe Township",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "township"
+    "wof:country": "US",
+    "wof:created": 1461790736,
+    "wof:geomhash": "ad794ae4e340779f00e0ab4af36f3022",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705871825
+      }
+    ],
+    "wof:id": 705871825,
+    "wof:lastmodified": 1638567021,
+    "wof:name": "Monroe Township",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "township"
     ]
-},
+  },
   "bbox": [
     -83.517197,
     38.726965,
     -83.517197,
     38.726965
-],
+  ],
   "geometry": {"coordinates":[-83.517197,38.726965],"type":"Point"}
 }

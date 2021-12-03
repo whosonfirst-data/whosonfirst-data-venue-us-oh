@@ -2,61 +2,65 @@
   "id": 706335239,
   "type": "Feature",
   "properties": {
-    "addr:full":"20311 Pemberville Rd Pemberville OH 43450",
-    "addr:housenumber":"20311",
-    "addr:postcode":"43450",
-    "addr:street":"Pemberville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.453848,41.44573,-83.453848,41.44573",
-    "geom:latitude":41.44573,
-    "geom:longitude":-83.453848,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20311 Pemberville Rd",
-    "sg:city":"Pemberville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "20311 Pemberville Rd Pemberville OH 43450",
+    "addr:housenumber": "20311",
+    "addr:postcode": "43450",
+    "addr:street": "Pemberville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.453848,41.445730,-83.453848,41.445730",
+    "geom:latitude": 41.44573,
+    "geom:longitude": -83.453848,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20311 Pemberville Rd",
+    "sg:city": "Pemberville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 833 4700",
-    "sg:postcode":"43450",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 833 4700",
+    "sg:postcode": "43450",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4LQoBI4UTzQhxiGTUB9hCF_41.445730_-83.453848@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4LQoBI4UTzQhxiGTUB9hCF_41.445730_-83.453848@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801100,
-    "wof:geomhash":"ab46ee9f45ad5efb8d656bcb37166aa4",
-    "wof:hierarchy":[],
-    "wof:id":706335239,
-    "wof:lastmodified":1472639839,
-    "wof:name":"Bowlus Thomas P MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461801100,
+    "wof:geomhash": "a99269d1f2b1dcaa08b08d521f3e819f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706335239
+      }
+    ],
+    "wof:id": 706335239,
+    "wof:lastmodified": 1638567086,
+    "wof:name": "Bowlus Thomas P MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -83.453848,
     41.44573,
     -83.453848,
     41.44573
-],
-  "geometry": {"coordinates":[-83.45384799999999,41.44573],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.453848,41.44573],"type":"Point"}
 }

@@ -2,56 +2,61 @@
   "id": 253424983,
   "type": "Feature",
   "properties": {
-    "addr:full":"3931 Cleveland Ave Columbus OH 43224",
-    "addr:housenumber":"3931",
-    "addr:postcode":"43224",
-    "addr:street":"Cleveland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.953865,40.049731,-82.953865,40.049731",
-    "geom:latitude":40.049731,
-    "geom:longitude":-82.953865,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3931 Cleveland Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Barber",
-            "type":"Services"
-        }
+    "addr:full": "3931 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber": "3931",
+    "addr:postcode": "43224",
+    "addr:street": "Cleveland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.953865,40.049731,-82.953865,40.049731",
+    "geom:latitude": 40.049731,
+    "geom:longitude": -82.953865,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3931 Cleveland Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Barber",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 337 9572",
-    "sg:postcode":"43224",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_75J1EmCxgmUk7XXZ4yVi3W_40.049731_-82.953865@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 337 9572",
+    "sg:postcode": "43224",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_75J1EmCxgmUk7XXZ4yVi3W_40.049731_-82.953865@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b323c272e39bea8a5cd20acb9cbd0f5c",
-    "wof:hierarchy":[],
-    "wof:id":253424983,
-    "wof:lastmodified":1491926714,
-    "wof:name":"Brother's Barber Shop",
-    "wof:parent_id":85811437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1638566914,
+    "wof:geomhash": "ba46c0fa6ac9802f1c2072f4ea87a50f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 253424983
+      }
+    ],
+    "wof:id": 253424983,
+    "wof:lastmodified": 1638566914,
+    "wof:name": "Brother's Barber Shop",
+    "wof:parent_id": 85811437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.953865,
     40.049731,
     -82.953865,
     40.049731
-],
-  "geometry": {"coordinates":[-82.95386499999999,40.049731],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.953865,40.049731],"type":"Point"}
 }

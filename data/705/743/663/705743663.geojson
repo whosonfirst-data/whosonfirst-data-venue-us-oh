@@ -2,61 +2,65 @@
   "id": 705743663,
   "type": "Feature",
   "properties": {
-    "addr:full":"219 S Main St Bryan OH 43506",
-    "addr:housenumber":"219",
-    "addr:postcode":"43506",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.550968,41.473064,-84.550968,41.473064",
-    "geom:latitude":41.473064,
-    "geom:longitude":-84.550968,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"219 S Main St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "219 S Main St Bryan OH 43506",
+    "addr:housenumber": "219",
+    "addr:postcode": "43506",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.550968,41.473064,-84.550968,41.473064",
+    "geom:latitude": 41.473064,
+    "geom:longitude": -84.550968,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "219 S Main St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 6336",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manicuring"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 6336",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manicuring"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0HB7yYn3Zd613kQzg5dFIl_41.473064_-84.550968@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0HB7yYn3Zd613kQzg5dFIl_41.473064_-84.550968@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787722,
-    "wof:geomhash":"35cc69fdbc4c78576f33fae177f1575a",
-    "wof:hierarchy":[],
-    "wof:id":705743663,
-    "wof:lastmodified":1472639072,
-    "wof:name":"VIP Salon",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manicuring"
+    "wof:country": "US",
+    "wof:created": 1461787722,
+    "wof:geomhash": "b16dbdb9c111c2ed3d8724c003160395",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705743663
+      }
+    ],
+    "wof:id": 705743663,
+    "wof:lastmodified": 1638566958,
+    "wof:name": "VIP Salon",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manicuring"
     ]
-},
+  },
   "bbox": [
     -84.550968,
     41.473064,
     -84.550968,
     41.473064
-],
+  ],
   "geometry": {"coordinates":[-84.550968,41.473064],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705995035,
   "type": "Feature",
   "properties": {
-    "addr:full":"625 S Wayne St St Marys OH 45885",
-    "addr:housenumber":"625",
-    "addr:postcode":"45885",
-    "addr:street":"S Wayne St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.389761,40.536382,-84.389761,40.536382",
-    "geom:latitude":40.536382,
-    "geom:longitude":-84.389761,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"625 S Wayne St",
-    "sg:city":"St Marys",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "625 S Wayne St St Marys OH 45885",
+    "addr:housenumber": "625",
+    "addr:postcode": "45885",
+    "addr:street": "S Wayne St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.389761,40.536382,-84.389761,40.536382",
+    "geom:latitude": 40.536382,
+    "geom:longitude": -84.389761,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "625 S Wayne St",
+    "sg:city": "St Marys",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 394 3393",
-    "sg:postcode":"45885",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 394 3393",
+    "sg:postcode": "45885",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3hFYDlrl2SMyHLC5YzJFK9_40.536382_-84.389761@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3hFYDlrl2SMyHLC5YzJFK9_40.536382_-84.389761@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793463,
-    "wof:geomhash":"2e88e05d2f87f9d77b7aa5b7def67795",
-    "wof:hierarchy":[],
-    "wof:id":705995035,
-    "wof:lastmodified":1472639821,
-    "wof:name":"St Marys Trucking Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461793463,
+    "wof:geomhash": "361bce700071693a39e47e822ea27d67",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705995035
+      }
+    ],
+    "wof:id": 705995035,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "St Marys Trucking Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.389761,
     40.536382,
     -84.389761,
     40.536382
-],
-  "geometry": {"coordinates":[-84.38976099999999,40.536382],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.389761,40.536382],"type":"Point"}
 }

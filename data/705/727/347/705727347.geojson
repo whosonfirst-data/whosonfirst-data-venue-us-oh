@@ -2,61 +2,65 @@
   "id": 705727347,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 E Main St Elida OH 45807",
-    "addr:housenumber":"101",
-    "addr:postcode":"45807",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.20098,40.78736,-84.20098,40.78736",
-    "geom:latitude":40.78736,
-    "geom:longitude":-84.20098,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 E Main St",
-    "sg:city":"Elida",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "101 E Main St Elida OH 45807",
+    "addr:housenumber": "101",
+    "addr:postcode": "45807",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.200980,40.787360,-84.200980,40.787360",
+    "geom:latitude": 40.78736,
+    "geom:longitude": -84.20098,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 E Main St",
+    "sg:city": "Elida",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 339 6000",
-    "sg:postcode":"45807",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 339 6000",
+    "sg:postcode": "45807",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1rVKgAiNFG2ktjPRlVxaVa_40.787360_-84.200980@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1rVKgAiNFG2ktjPRlVxaVa_40.787360_-84.200980@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787342,
-    "wof:geomhash":"353a2ea30c9a854c80d3f62f623d8d3b",
-    "wof:hierarchy":[],
-    "wof:id":705727347,
-    "wof:lastmodified":1472638727,
-    "wof:name":"Innovative Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461787342,
+    "wof:geomhash": "375b747f26607288eecc45b89c27fbfc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705727347
+      }
+    ],
+    "wof:id": 705727347,
+    "wof:lastmodified": 1638566943,
+    "wof:name": "Innovative Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -84.20098,
     40.78736,
     -84.20098,
     40.78736
-],
+  ],
   "geometry": {"coordinates":[-84.20098,40.78736],"type":"Point"}
 }

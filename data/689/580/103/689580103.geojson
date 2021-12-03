@@ -2,63 +2,67 @@
   "id": 689580103,
   "type": "Feature",
   "properties": {
-    "addr:full":"235 Main St Philo OH 43771",
-    "addr:housenumber":"235",
-    "addr:postcode":"43771",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.90885,39.862685,-81.90885,39.862685",
-    "geom:latitude":39.862685,
-    "geom:longitude":-81.90885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"235 Main St",
-    "sg:city":"Philo",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Computer Services",
-            "type":"Services"
-        }
+    "addr:full": "235 Main St Philo OH 43771",
+    "addr:housenumber": "235",
+    "addr:postcode": "43771",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.908850,39.862685,-81.908850,39.862685",
+    "geom:latitude": 39.862685,
+    "geom:longitude": -81.90885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "235 Main St",
+    "sg:city": "Philo",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 450 7050",
-    "sg:postcode":"43771",
-    "sg:province":"OH",
-    "sg:tags":[
-        "website",
-        "design"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 450 7050",
+    "sg:postcode": "43771",
+    "sg:province": "OH",
+    "sg:tags": [
+      "website",
+      "design"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0J3U66xEnj64IFMFcvCsRh_39.862685_-81.908850@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0J3U66xEnj64IFMFcvCsRh_39.862685_-81.908850@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775624,
-    "wof:geomhash":"929425741b7ab447fbc1d30239f32ee1",
-    "wof:hierarchy":[],
-    "wof:id":689580103,
-    "wof:lastmodified":1472639325,
-    "wof:name":"Global Net",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "website",
-        "design"
+    "wof:country": "US",
+    "wof:created": 1461775624,
+    "wof:geomhash": "0665246fa951e7d51b5327cd19bb6da2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689580103
+      }
+    ],
+    "wof:id": 689580103,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Global Net",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "website",
+      "design"
     ]
-},
+  },
   "bbox": [
     -81.90885,
     39.862685,
     -81.90885,
     39.862685
-],
+  ],
   "geometry": {"coordinates":[-81.90885,39.862685],"type":"Point"}
 }

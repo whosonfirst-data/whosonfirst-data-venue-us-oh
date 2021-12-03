@@ -2,57 +2,61 @@
   "id": 706422207,
   "type": "Feature",
   "properties": {
-    "addr:full":"840 Parkview St Wauseon OH 43567",
-    "addr:housenumber":"840",
-    "addr:postcode":"43567",
-    "addr:street":"Parkview St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.130259,41.553689,-84.130259,41.553689",
-    "geom:latitude":41.553689,
-    "geom:longitude":-84.130259,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"840 Parkview St",
-    "sg:city":"Wauseon",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "840 Parkview St Wauseon OH 43567",
+    "addr:housenumber": "840",
+    "addr:postcode": "43567",
+    "addr:street": "Parkview St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.130259,41.553689,-84.130259,41.553689",
+    "geom:latitude": 41.553689,
+    "geom:longitude": -84.130259,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "840 Parkview St",
+    "sg:city": "Wauseon",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 335 5756",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:website":"www.wauseon.k12.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2O7LRw76enkOZD9IHH6F2C_41.553689_-84.130259@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 335 5756",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:website": "www.wauseon.k12.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2O7LRw76enkOZD9IHH6F2C_41.553689_-84.130259@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802835,
-    "wof:geomhash":"c2a3babc777c75813f07229e545dc2d3",
-    "wof:hierarchy":[],
-    "wof:id":706422207,
-    "wof:lastmodified":1472640002,
-    "wof:name":"Wauseon High School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461802835,
+    "wof:geomhash": "778aedd5d0eeb92140621c5c965ef66d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706422207
+      }
+    ],
+    "wof:id": 706422207,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Wauseon High School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.130259,
     41.553689,
     -84.130259,
     41.553689
-],
+  ],
   "geometry": {"coordinates":[-84.130259,41.553689],"type":"Point"}
 }

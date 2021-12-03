@@ -2,61 +2,65 @@
   "id": 705700471,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 Meadow Dr Circleville OH 43113",
-    "addr:housenumber":"205",
-    "addr:postcode":"43113",
-    "addr:street":"Meadow Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.939487,39.628064,-82.939487,39.628064",
-    "geom:latitude":39.628064,
-    "geom:longitude":-82.939487,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"205 Meadow Dr",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "205 Meadow Dr Circleville OH 43113",
+    "addr:housenumber": "205",
+    "addr:postcode": "43113",
+    "addr:street": "Meadow Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.939487,39.628064,-82.939487,39.628064",
+    "geom:latitude": 39.628064,
+    "geom:longitude": -82.939487,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "205 Meadow Dr",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 474 7080",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 474 7080",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1VdilNKf6fcFVKBor7FTms_39.628064_-82.939487@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1VdilNKf6fcFVKBor7FTms_39.628064_-82.939487@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786548,
-    "wof:geomhash":"1d32cf9749bc125385c33f55b552b97b",
-    "wof:hierarchy":[],
-    "wof:id":705700471,
-    "wof:lastmodified":1472638294,
-    "wof:name":"David Lattimer",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461786548,
+    "wof:geomhash": "774f0bbbcf9c00c348edcc0978f3c5fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705700471
+      }
+    ],
+    "wof:id": 705700471,
+    "wof:lastmodified": 1638566918,
+    "wof:name": "David Lattimer",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -82.939487,
     39.628064,
     -82.939487,
     39.628064
-],
+  ],
   "geometry": {"coordinates":[-82.939487,39.628064],"type":"Point"}
 }

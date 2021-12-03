@@ -2,61 +2,65 @@
   "id": 689928005,
   "type": "Feature",
   "properties": {
-    "addr:full":"1740 N Perry St Ottawa OH 45875",
-    "addr:housenumber":"1740",
-    "addr:postcode":"45875",
-    "addr:street":"N Perry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.035075,41.036587,-84.035075,41.036587",
-    "geom:latitude":41.036587,
-    "geom:longitude":-84.035075,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1740 N Perry St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1740 N Perry St Ottawa OH 45875",
+    "addr:housenumber": "1740",
+    "addr:postcode": "45875",
+    "addr:street": "N Perry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.035075,41.036587,-84.035075,41.036587",
+    "geom:latitude": 41.036587,
+    "geom:longitude": -84.035075,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1740 N Perry St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 3681",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 3681",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6SiEbdgFcMZXBk0IgvXPsL_41.036587_-84.035075@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6SiEbdgFcMZXBk0IgvXPsL_41.036587_-84.035075@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785312,
-    "wof:geomhash":"7f4e1a72d9f54911b802ee87bd90a48a",
-    "wof:hierarchy":[],
-    "wof:id":689928005,
-    "wof:lastmodified":1472640079,
-    "wof:name":"Ottawa Med & Diagnostic Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461785312,
+    "wof:geomhash": "4cf4ce8847d7d0c92b395542372dac17",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689928005
+      }
+    ],
+    "wof:id": 689928005,
+    "wof:lastmodified": 1638567108,
+    "wof:name": "Ottawa Med \u0026 Diagnostic Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -84.035075,
     41.036587,
     -84.035075,
     41.036587
-],
-  "geometry": {"coordinates":[-84.03507500000001,41.036587],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.035075,41.036587],"type":"Point"}
 }

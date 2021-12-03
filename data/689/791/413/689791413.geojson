@@ -2,61 +2,65 @@
   "id": 689791413,
   "type": "Feature",
   "properties": {
-    "addr:full":"409 Main St Dresden OH 43821",
-    "addr:housenumber":"409",
-    "addr:postcode":"43821",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.013004,40.124957,-82.013004,40.124957",
-    "geom:latitude":40.124957,
-    "geom:longitude":-82.013004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"409 Main St",
-    "sg:city":"Dresden",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "409 Main St Dresden OH 43821",
+    "addr:housenumber": "409",
+    "addr:postcode": "43821",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.013004,40.124957,-82.013004,40.124957",
+    "geom:latitude": 40.124957,
+    "geom:longitude": -82.013004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "409 Main St",
+    "sg:city": "Dresden",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 754 3202",
-    "sg:postcode":"43821",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 754 3202",
+    "sg:postcode": "43821",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1B5NivMbMzsB6oGUFWtfkD_40.124957_-82.013004@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1B5NivMbMzsB6oGUFWtfkD_40.124957_-82.013004@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781577,
-    "wof:geomhash":"41f97c41cb9ab0406a1156e02fa76ea8",
-    "wof:hierarchy":[],
-    "wof:id":689791413,
-    "wof:lastmodified":1472639861,
-    "wof:name":"Decor Galore",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461781577,
+    "wof:geomhash": "9ffc21066986b41a6054a70dfbb67ed5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689791413
+      }
+    ],
+    "wof:id": 689791413,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Decor Galore",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -82.013004,
     40.124957,
     -82.013004,
     40.124957
-],
+  ],
   "geometry": {"coordinates":[-82.013004,40.124957],"type":"Point"}
 }

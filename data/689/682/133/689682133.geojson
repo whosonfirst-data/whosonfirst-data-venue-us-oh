@@ -2,61 +2,65 @@
   "id": 689682133,
   "type": "Feature",
   "properties": {
-    "addr:full":"8245 Farnsworth Rd Waterville OH 43566",
-    "addr:housenumber":"8245",
-    "addr:postcode":"43566",
-    "addr:street":"Farnsworth Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.738488,41.49811,-83.738488,41.49811",
-    "geom:latitude":41.49811,
-    "geom:longitude":-83.738488,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8245 Farnsworth Rd",
-    "sg:city":"Waterville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "8245 Farnsworth Rd Waterville OH 43566",
+    "addr:housenumber": "8245",
+    "addr:postcode": "43566",
+    "addr:street": "Farnsworth Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.738488,41.498110,-83.738488,41.498110",
+    "geom:latitude": 41.49811,
+    "geom:longitude": -83.738488,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8245 Farnsworth Rd",
+    "sg:city": "Waterville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 878 9991",
-    "sg:postcode":"43566",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 878 9991",
+    "sg:postcode": "43566",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_78gi6SgaTyZF456vAAIpte_41.498110_-83.738488@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_78gi6SgaTyZF456vAAIpte_41.498110_-83.738488@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778672,
-    "wof:geomhash":"744ba49c5409d7f098a86ceba5ee6932",
-    "wof:hierarchy":[],
-    "wof:id":689682133,
-    "wof:lastmodified":1472639614,
-    "wof:name":"Waterville Township Police",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461778672,
+    "wof:geomhash": "21954cdf646869fd279565d724235054",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689682133
+      }
+    ],
+    "wof:id": 689682133,
+    "wof:lastmodified": 1638567014,
+    "wof:name": "Waterville Township Police",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.738488,
     41.49811,
     -83.738488,
     41.49811
-],
+  ],
   "geometry": {"coordinates":[-83.738488,41.49811],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 705883449,
   "type": "Feature",
   "properties": {
-    "addr:full":"4901 Johnston Pkwy Cleveland OH 44128",
-    "addr:housenumber":"4901",
-    "addr:postcode":"44128",
-    "addr:street":"Johnston Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.5711,41.42989,-81.5711,41.42989",
-    "geom:latitude":41.42989,
-    "geom:longitude":-81.5711,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4901 Johnston Pkwy",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "4901 Johnston Pkwy Cleveland OH 44128",
+    "addr:housenumber": "4901",
+    "addr:postcode": "44128",
+    "addr:street": "Johnston Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.571100,41.429890,-81.571100,41.429890",
+    "geom:latitude": 41.42989,
+    "geom:longitude": -81.5711,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4901 Johnston Pkwy",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 475 3649",
-    "sg:postcode":"44128",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 475 3649",
+    "sg:postcode": "44128",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_17gdJpCDCrljpVt54KYCfu_41.429890_-81.571100@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_17gdJpCDCrljpVt54KYCfu_41.429890_-81.571100@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791003,
-    "wof:geomhash":"49980c0ea58752e22b75de7271ef29c0",
-    "wof:hierarchy":[],
-    "wof:id":705883449,
-    "wof:lastmodified":1472639521,
-    "wof:name":"Designed Moves",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461791003,
+    "wof:geomhash": "da59b834b8031e70d4dc235f5f4e4470",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705883449
+      }
+    ],
+    "wof:id": 705883449,
+    "wof:lastmodified": 1638567029,
+    "wof:name": "Designed Moves",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.5711,
     41.42989,
     -81.5711,
     41.42989
-],
+  ],
   "geometry": {"coordinates":[-81.5711,41.42989],"type":"Point"}
 }

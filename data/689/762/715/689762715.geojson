@@ -2,61 +2,65 @@
   "id": 689762715,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 S Main St Ada OH 45810",
-    "addr:housenumber":"120",
-    "addr:postcode":"45810",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.823139,40.770273,-83.823139,40.770273",
-    "geom:latitude":40.770273,
-    "geom:longitude":-83.823139,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"120 S Main St",
-    "sg:city":"Ada",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "120 S Main St Ada OH 45810",
+    "addr:housenumber": "120",
+    "addr:postcode": "45810",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.823139,40.770273,-83.823139,40.770273",
+    "geom:latitude": 40.770273,
+    "geom:longitude": -83.823139,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "120 S Main St",
+    "sg:city": "Ada",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 634 5901",
-    "sg:postcode":"45810",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 634 5901",
+    "sg:postcode": "45810",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0c5ledskQ2jkzLMwUMsAu7_40.770273_-83.823139@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0c5ledskQ2jkzLMwUMsAu7_40.770273_-83.823139@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780840,
-    "wof:geomhash":"97532a19def936d8c0a78abe21e2664e",
-    "wof:hierarchy":[],
-    "wof:id":689762715,
-    "wof:lastmodified":1472639810,
-    "wof:name":"Mark B Shull DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461780840,
+    "wof:geomhash": "21073c0236f26643ecbc0816a9d7eed4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689762715
+      }
+    ],
+    "wof:id": 689762715,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Mark B Shull DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.823139,
     40.770273,
     -83.823139,
     40.770273
-],
+  ],
   "geometry": {"coordinates":[-83.823139,40.770273],"type":"Point"}
 }

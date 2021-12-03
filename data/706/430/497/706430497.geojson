@@ -2,61 +2,65 @@
   "id": 706430497,
   "type": "Feature",
   "properties": {
-    "addr:full":"785 N Freedom St Ravenna OH 44266",
-    "addr:housenumber":"785",
-    "addr:postcode":"44266",
-    "addr:street":"N Freedom St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.23251,41.1709,-81.23251,41.1709",
-    "geom:latitude":41.1709,
-    "geom:longitude":-81.23251,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"785 N Freedom St",
-    "sg:city":"Ravenna",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "785 N Freedom St Ravenna OH 44266",
+    "addr:housenumber": "785",
+    "addr:postcode": "44266",
+    "addr:street": "N Freedom St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.232510,41.170900,-81.232510,41.170900",
+    "geom:latitude": 41.1709,
+    "geom:longitude": -81.23251,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "785 N Freedom St",
+    "sg:city": "Ravenna",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 296 9484",
-    "sg:postcode":"44266",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 296 9484",
+    "sg:postcode": "44266",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Kqjjzoi7fHIN9hI18cqD7_41.170900_-81.232510@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Kqjjzoi7fHIN9hI18cqD7_41.170900_-81.232510@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802989,
-    "wof:geomhash":"aee7e329ba87876561f24db1c47e0f64",
-    "wof:hierarchy":[],
-    "wof:id":706430497,
-    "wof:lastmodified":1472640019,
-    "wof:name":"Domino Logistics",
-    "wof:parent_id":420535149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461802989,
+    "wof:geomhash": "50eb79d94525344ac5fc40f3033bb2e9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706430497
+      }
+    ],
+    "wof:id": 706430497,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Domino Logistics",
+    "wof:parent_id": 420535149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.23251,
     41.1709,
     -81.23251,
     41.1709
-],
+  ],
   "geometry": {"coordinates":[-81.23251,41.1709],"type":"Point"}
 }

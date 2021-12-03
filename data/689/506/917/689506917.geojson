@@ -2,63 +2,67 @@
   "id": 689506917,
   "type": "Feature",
   "properties": {
-    "addr:full":"1917 S Main St Findlay OH 45840",
-    "addr:housenumber":"1917",
-    "addr:postcode":"45840",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650267,41.01703,-83.650267,41.01703",
-    "geom:latitude":41.01703,
-    "geom:longitude":-83.650267,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1917 S Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1917 S Main St Findlay OH 45840",
+    "addr:housenumber": "1917",
+    "addr:postcode": "45840",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650267,41.017030,-83.650267,41.017030",
+    "geom:latitude": 41.01703,
+    "geom:longitude": -83.650267,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1917 S Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 420 0904",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 420 0904",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6wam2DAao8HDaT8iGlViLc_41.017030_-83.650267@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6wam2DAao8HDaT8iGlViLc_41.017030_-83.650267@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773316,
-    "wof:geomhash":"5e0c3c9e64f4cc6d806e8e45eebe2a9b",
-    "wof:hierarchy":[],
-    "wof:id":689506917,
-    "wof:lastmodified":1472639140,
-    "wof:name":"Blanchard Valley Women's Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461773316,
+    "wof:geomhash": "e4498bf8c46b4e111708ad11096acd05",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689506917
+      }
+    ],
+    "wof:id": 689506917,
+    "wof:lastmodified": 1638566951,
+    "wof:name": "Blanchard Valley Women's Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.650267,
     41.01703,
     -83.650267,
     41.01703
-],
+  ],
   "geometry": {"coordinates":[-83.650267,41.01703],"type":"Point"}
 }

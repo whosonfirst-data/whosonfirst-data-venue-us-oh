@@ -2,61 +2,65 @@
   "id": 706109817,
   "type": "Feature",
   "properties": {
-    "addr:full":"868 Co Rd 12 Napoleon OH 43545",
-    "addr:housenumber":"868;12",
-    "addr:postcode":"43545",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.095298,41.317851,-84.095298,41.317851",
-    "geom:latitude":41.317851,
-    "geom:longitude":-84.095298,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"868 Co Rd 12",
-    "sg:city":"Napoleon",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "868 Co Rd 12 Napoleon OH 43545",
+    "addr:housenumber": "868;12",
+    "addr:postcode": "43545",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.095298,41.317851,-84.095298,41.317851",
+    "geom:latitude": 41.317851,
+    "geom:longitude": -84.095298,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "868 Co Rd 12",
+    "sg:city": "Napoleon",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 264 5511",
-    "sg:postcode":"43545",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 264 5511",
+    "sg:postcode": "43545",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2iaZoqtR47zyogLjWkYYjP_41.317851_-84.095298@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2iaZoqtR47zyogLjWkYYjP_41.317851_-84.095298@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795984,
-    "wof:geomhash":"6754fb3b560d1bdfe84fd4104846cfa2",
-    "wof:hierarchy":[],
-    "wof:id":706109817,
-    "wof:lastmodified":1472639266,
-    "wof:name":"St Paul's Lutheran",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461795984,
+    "wof:geomhash": "1c261e0c72fff58d9efa2bdd94890925",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706109817
+      }
+    ],
+    "wof:id": 706109817,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "St Paul's Lutheran",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.095298,
     41.317851,
     -84.095298,
     41.317851
-],
+  ],
   "geometry": {"coordinates":[-84.095298,41.317851],"type":"Point"}
 }

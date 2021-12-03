@@ -2,61 +2,65 @@
   "id": 706218303,
   "type": "Feature",
   "properties": {
-    "addr:full":"308 Elm Ave Tiffin OH 44883",
-    "addr:housenumber":"308",
-    "addr:postcode":"44883",
-    "addr:street":"Elm Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.162111,41.125358,-83.162111,41.125358",
-    "geom:latitude":41.125358,
-    "geom:longitude":-83.162111,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"308 Elm Ave",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "308 Elm Ave Tiffin OH 44883",
+    "addr:housenumber": "308",
+    "addr:postcode": "44883",
+    "addr:street": "Elm Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.162111,41.125358,-83.162111,41.125358",
+    "geom:latitude": 41.125358,
+    "geom:longitude": -83.162111,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "308 Elm Ave",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 448 0067",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 448 0067",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3u6xYbk2vfbT2pcjUzIA4B_41.125358_-83.162111@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3u6xYbk2vfbT2pcjUzIA4B_41.125358_-83.162111@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798473,
-    "wof:geomhash":"90439e78dbcb6e05af2f1595027f6c31",
-    "wof:hierarchy":[],
-    "wof:id":706218303,
-    "wof:lastmodified":1472639521,
-    "wof:name":"Pillar Of Faith Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461798473,
+    "wof:geomhash": "13a27c00edfc5b0a462059d10661e3be",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706218303
+      }
+    ],
+    "wof:id": 706218303,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "Pillar Of Faith Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.162111,
     41.125358,
     -83.162111,
     41.125358
-],
+  ],
   "geometry": {"coordinates":[-83.162111,41.125358],"type":"Point"}
 }

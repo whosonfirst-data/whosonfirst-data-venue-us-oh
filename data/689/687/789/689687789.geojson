@@ -2,61 +2,65 @@
   "id": 689687789,
   "type": "Feature",
   "properties": {
-    "addr:full":"7100 New Albany Links Dr New Albany OH 43054",
-    "addr:housenumber":"7100",
-    "addr:postcode":"43054",
-    "addr:street":"New;Links Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.785832,40.102729,-82.785832,40.102729",
-    "geom:latitude":40.102729,
-    "geom:longitude":-82.785832,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7100 New Albany Links Dr",
-    "sg:city":"New Albany",
-    "sg:classifiers":[
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Golf",
-            "type":"Entertainment"
-        }
+    "addr:full": "7100 New Albany Links Dr New Albany OH 43054",
+    "addr:housenumber": "7100",
+    "addr:postcode": "43054",
+    "addr:street": "New;Links Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.785832,40.102729,-82.785832,40.102729",
+    "geom:latitude": 40.102729,
+    "geom:longitude": -82.785832,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7100 New Albany Links Dr",
+    "sg:city": "New Albany",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Golf",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 855 8532",
-    "sg:postcode":"43054",
-    "sg:province":"OH",
-    "sg:tags":[
-        "course"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 855 8532",
+    "sg:postcode": "43054",
+    "sg:province": "OH",
+    "sg:tags": [
+      "course"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1glleAh6kjWuACBVSPtj5U_40.102729_-82.785832@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1glleAh6kjWuACBVSPtj5U_40.102729_-82.785832@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778817,
-    "wof:geomhash":"57709db58ea5420d308d5b7e83a5173c",
-    "wof:hierarchy":[],
-    "wof:id":689687789,
-    "wof:lastmodified":1472639661,
-    "wof:name":"New Albany Links Golf Course",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "course"
+    "wof:country": "US",
+    "wof:created": 1461778817,
+    "wof:geomhash": "5e18960da094f13df12cb1db4affbd28",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689687789
+      }
+    ],
+    "wof:id": 689687789,
+    "wof:lastmodified": 1638567019,
+    "wof:name": "New Albany Links Golf Course",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "course"
     ]
-},
+  },
   "bbox": [
     -82.785832,
     40.102729,
     -82.785832,
     40.102729
-],
+  ],
   "geometry": {"coordinates":[-82.785832,40.102729],"type":"Point"}
 }

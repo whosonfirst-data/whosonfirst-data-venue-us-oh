@@ -2,61 +2,65 @@
   "id": 705995045,
   "type": "Feature",
   "properties": {
-    "addr:full":"12020 E Pike Rd Cambridge OH 43725",
-    "addr:housenumber":"12020",
-    "addr:postcode":"43725",
-    "addr:street":"E Pike Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.494549,40.031859,-81.494549,40.031859",
-    "geom:latitude":40.031859,
-    "geom:longitude":-81.494549,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12020 E Pike Rd",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "12020 E Pike Rd Cambridge OH 43725",
+    "addr:housenumber": "12020",
+    "addr:postcode": "43725",
+    "addr:street": "E Pike Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.494549,40.031859,-81.494549,40.031859",
+    "geom:latitude": 40.031859,
+    "geom:longitude": -81.494549,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12020 E Pike Rd",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 439 0057",
-    "sg:postcode":"43725",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 439 0057",
+    "sg:postcode": "43725",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_763T20uEVJHAva8MNr6aq9_40.031859_-81.494549@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_763T20uEVJHAva8MNr6aq9_40.031859_-81.494549@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793463,
-    "wof:geomhash":"850eeb2b6870b7f4657c9bd973b09d2e",
-    "wof:hierarchy":[],
-    "wof:id":705995045,
-    "wof:lastmodified":1472639819,
-    "wof:name":"Tanning Caboose",
-    "wof:parent_id":420534843,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461793463,
+    "wof:geomhash": "c639f69e96d10f283e3f82d3ace4ea8b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705995045
+      }
+    ],
+    "wof:id": 705995045,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Tanning Caboose",
+    "wof:parent_id": 420534843,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.494549,
     40.031859,
     -81.494549,
     40.031859
-],
-  "geometry": {"coordinates":[-81.49454900000001,40.031859],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.494549,40.031859],"type":"Point"}
 }

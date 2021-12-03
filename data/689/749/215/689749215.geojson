@@ -2,61 +2,65 @@
   "id": 689749215,
   "type": "Feature",
   "properties": {
-    "addr:full":"1347 Main St Smithfield OH 43948",
-    "addr:housenumber":"1347",
-    "addr:postcode":"43948",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.781702,40.270099,-80.781702,40.270099",
-    "geom:latitude":40.270099,
-    "geom:longitude":-80.781702,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1347 Main St",
-    "sg:city":"Smithfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1347 Main St Smithfield OH 43948",
+    "addr:housenumber": "1347",
+    "addr:postcode": "43948",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.781702,40.270099,-80.781702,40.270099",
+    "geom:latitude": 40.270099,
+    "geom:longitude": -80.781702,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1347 Main St",
+    "sg:city": "Smithfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 733 7815",
-    "sg:postcode":"43948",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 733 7815",
+    "sg:postcode": "43948",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2eLGqwdzm9yvAAzrCoolsM_40.270099_-80.781702@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2eLGqwdzm9yvAAzrCoolsM_40.270099_-80.781702@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780432,
-    "wof:geomhash":"9401efbea1e1b961fc06e46044c1b556",
-    "wof:hierarchy":[],
-    "wof:id":689749215,
-    "wof:lastmodified":1472639775,
-    "wof:name":"Smithfield Police Dept",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461780432,
+    "wof:geomhash": "65141e3c0755f9c86d3abc816b8822e5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689749215
+      }
+    ],
+    "wof:id": 689749215,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Smithfield Police Dept",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.781702,
     40.270099,
     -80.781702,
     40.270099
-],
+  ],
   "geometry": {"coordinates":[-80.781702,40.270099],"type":"Point"}
 }

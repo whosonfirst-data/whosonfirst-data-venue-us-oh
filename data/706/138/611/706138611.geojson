@@ -2,63 +2,67 @@
   "id": 706138611,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 Main St Mc Clure OH 43512",
-    "addr:housenumber":"205",
-    "addr:postcode":"43512",
-    "addr:street":"Main St Mc Clure",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.350632,41.283865,-84.350632,41.283865",
-    "geom:latitude":41.283865,
-    "geom:longitude":-84.350632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"205 Main St",
-    "sg:city":"Mc Clure",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "205 Main St Mc Clure OH 43512",
+    "addr:housenumber": "205",
+    "addr:postcode": "43512",
+    "addr:street": "Main St Mc Clure",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.350632,41.283865,-84.350632,41.283865",
+    "geom:latitude": 41.283865,
+    "geom:longitude": -84.350632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "205 Main St",
+    "sg:city": "Mc Clure",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 748 8777",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department",
-        "volunteer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 748 8777",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department",
+      "volunteer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6zrAwGZsK3C2IiSsgY7QoN_41.283865_-84.350632@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6zrAwGZsK3C2IiSsgY7QoN_41.283865_-84.350632@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796729,
-    "wof:geomhash":"38ad31f622f0b54670e4a2aaded57878",
-    "wof:hierarchy":[],
-    "wof:id":706138611,
-    "wof:lastmodified":1472639340,
-    "wof:name":"Damascus Township Volunteer Fd",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "volunteer"
+    "wof:country": "US",
+    "wof:created": 1461796729,
+    "wof:geomhash": "73c1519a27b4109df564958a2600cdf5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706138611
+      }
+    ],
+    "wof:id": 706138611,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Damascus Township Volunteer Fd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "volunteer"
     ]
-},
+  },
   "bbox": [
     -84.350632,
     41.283865,
     -84.350632,
     41.283865
-],
+  ],
   "geometry": {"coordinates":[-84.350632,41.283865],"type":"Point"}
 }

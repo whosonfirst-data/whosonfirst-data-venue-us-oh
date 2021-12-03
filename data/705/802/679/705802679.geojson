@@ -2,61 +2,65 @@
   "id": 705802679,
   "type": "Feature",
   "properties": {
-    "addr:full":"323 N Main St Bluffton OH 45817",
-    "addr:housenumber":"323",
-    "addr:postcode":"45817",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.888684,40.895848,-83.888684,40.895848",
-    "geom:latitude":40.895848,
-    "geom:longitude":-83.888684,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"323 N Main St",
-    "sg:city":"Bluffton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "323 N Main St Bluffton OH 45817",
+    "addr:housenumber": "323",
+    "addr:postcode": "45817",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.888684,40.895848,-83.888684,40.895848",
+    "geom:latitude": 40.895848,
+    "geom:longitude": -83.888684,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "323 N Main St",
+    "sg:city": "Bluffton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 358 7489",
-    "sg:postcode":"45817",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 358 7489",
+    "sg:postcode": "45817",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2pHB7MTagFXNGcH1DCotsG_40.895848_-83.888684@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2pHB7MTagFXNGcH1DCotsG_40.895848_-83.888684@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789076,
-    "wof:geomhash":"221bfd9ede1e5ecf9ea8333c2c42355d",
-    "wof:hierarchy":[],
-    "wof:id":705802679,
-    "wof:lastmodified":1472639281,
-    "wof:name":"Original Pizzaria",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461789076,
+    "wof:geomhash": "552158de9349211a6eefc4d90e051a6d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705802679
+      }
+    ],
+    "wof:id": 705802679,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "Original Pizzaria",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.888684,
     40.895848,
     -83.888684,
     40.895848
-],
+  ],
   "geometry": {"coordinates":[-83.888684,40.895848],"type":"Point"}
 }

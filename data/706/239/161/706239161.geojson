@@ -2,61 +2,65 @@
   "id": 706239161,
   "type": "Feature",
   "properties": {
-    "addr:full":"32202 Carpenter Rd Mc Arthur OH 45651",
-    "addr:housenumber":"32202",
-    "addr:postcode":"45651",
-    "addr:street":"Carpenter Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.603532,39.257668,-82.603532,39.257668",
-    "geom:latitude":39.257668,
-    "geom:longitude":-82.603532,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"32202 Carpenter Rd",
-    "sg:city":"Mc Arthur",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Cable",
-            "type":"Services"
-        }
+    "addr:full": "32202 Carpenter Rd Mc Arthur OH 45651",
+    "addr:housenumber": "32202",
+    "addr:postcode": "45651",
+    "addr:street": "Carpenter Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.603532,39.257668,-82.603532,39.257668",
+    "geom:latitude": 39.257668,
+    "geom:longitude": -82.603532,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "32202 Carpenter Rd",
+    "sg:city": "Mc Arthur",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Cable",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 596 2717",
-    "sg:postcode":"45651",
-    "sg:province":"OH",
-    "sg:tags":[
-        "television"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 596 2717",
+    "sg:postcode": "45651",
+    "sg:province": "OH",
+    "sg:tags": [
+      "television"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_083iWKFTlNg5g9WGnE9f6L_39.257668_-82.603532@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_083iWKFTlNg5g9WGnE9f6L_39.257668_-82.603532@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798917,
-    "wof:geomhash":"27c042a84392fd0ffb241150df550f74",
-    "wof:hierarchy":[],
-    "wof:id":706239161,
-    "wof:lastmodified":1472639560,
-    "wof:name":"Stat Communications",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "television"
+    "wof:country": "US",
+    "wof:created": 1461798917,
+    "wof:geomhash": "73da3b6de0e6917f62aeacb0b8411345",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706239161
+      }
+    ],
+    "wof:id": 706239161,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Stat Communications",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "television"
     ]
-},
+  },
   "bbox": [
     -82.603532,
     39.257668,
     -82.603532,
     39.257668
-],
+  ],
   "geometry": {"coordinates":[-82.603532,39.257668],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705724463,
   "type": "Feature",
   "properties": {
-    "addr:full":"1625 N Park Ave Warren OH 44483",
-    "addr:housenumber":"1625",
-    "addr:postcode":"44483",
-    "addr:street":"N Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.817745,41.252512,-80.817745,41.252512",
-    "geom:latitude":41.252512,
-    "geom:longitude":-80.817745,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1625 N Park Ave",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "1625 N Park Ave Warren OH 44483",
+    "addr:housenumber": "1625",
+    "addr:postcode": "44483",
+    "addr:street": "N Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.817745,41.252512,-80.817745,41.252512",
+    "geom:latitude": 41.252512,
+    "geom:longitude": -80.817745,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1625 N Park Ave",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 394 6212",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appliance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 394 6212",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appliance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Boq658VdO15q5kMeAXluI_41.252512_-80.817745@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Boq658VdO15q5kMeAXluI_41.252512_-80.817745@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787268,
-    "wof:geomhash":"1ddd86f73cd2f88c0d85978fee665ef4",
-    "wof:hierarchy":[],
-    "wof:id":705724463,
-    "wof:lastmodified":1472638661,
-    "wof:name":"Desrosier's Appliance Svc",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appliance"
+    "wof:country": "US",
+    "wof:created": 1461787268,
+    "wof:geomhash": "e10f99346e806229fa0f34fe3a6b5dde",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705724463
+      }
+    ],
+    "wof:id": 705724463,
+    "wof:lastmodified": 1638566940,
+    "wof:name": "Desrosier's Appliance Svc",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appliance"
     ]
-},
+  },
   "bbox": [
     -80.817745,
     41.252512,
     -80.817745,
     41.252512
-],
+  ],
   "geometry": {"coordinates":[-80.817745,41.252512],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706055295,
   "type": "Feature",
   "properties": {
-    "addr:full":"2011 N State Rte 53 Fremont OH 43420",
-    "addr:housenumber":"2011",
-    "addr:postcode":"43420",
-    "addr:street":"N State Rte 53",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.117039,41.373368,-83.117039,41.373368",
-    "geom:latitude":41.373368,
-    "geom:longitude":-83.117039,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2011 N State Rte 53",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2011 N State Rte 53 Fremont OH 43420",
+    "addr:housenumber": "2011",
+    "addr:postcode": "43420",
+    "addr:street": "N State Rte 53",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.117039,41.373368,-83.117039,41.373368",
+    "geom:latitude": 41.373368,
+    "geom:longitude": -83.117039,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2011 N State Rte 53",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 2544",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 2544",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6tCaIkxlF0LlP71RAKKWAy_41.373368_-83.117039@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6tCaIkxlF0LlP71RAKKWAy_41.373368_-83.117039@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794717,
-    "wof:geomhash":"dfb97c08bef471cacfacd2951a4869e5",
-    "wof:hierarchy":[],
-    "wof:id":706055295,
-    "wof:lastmodified":1472639137,
-    "wof:name":"Bob Evans Restaurant 319",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461794717,
+    "wof:geomhash": "c6ea702d30b7ef94d97d29e805ad21b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706055295
+      }
+    ],
+    "wof:id": 706055295,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Bob Evans Restaurant 319",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.117039,
     41.373368,
     -83.117039,
     41.373368
-],
-  "geometry": {"coordinates":[-83.11703900000001,41.373368],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.117039,41.373368],"type":"Point"}
 }

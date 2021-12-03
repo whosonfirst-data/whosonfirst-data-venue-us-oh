@@ -2,61 +2,65 @@
   "id": 705865503,
   "type": "Feature",
   "properties": {
-    "addr:full":"6577 Fay Rd Painesville OH 44077",
-    "addr:housenumber":"6577",
-    "addr:postcode":"44077",
-    "addr:street":"Fay Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.22618,41.695667,-81.22618,41.695667",
-    "geom:latitude":41.695667,
-    "geom:longitude":-81.22618,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6577 Fay Rd",
-    "sg:city":"Painesville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "6577 Fay Rd Painesville OH 44077",
+    "addr:housenumber": "6577",
+    "addr:postcode": "44077",
+    "addr:street": "Fay Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.226180,41.695667,-81.226180,41.695667",
+    "geom:latitude": 41.695667,
+    "geom:longitude": -81.22618,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6577 Fay Rd",
+    "sg:city": "Painesville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 354 0555",
-    "sg:postcode":"44077",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 354 0555",
+    "sg:postcode": "44077",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7WyO4QuTdOgBkJ3sF7gPMU_41.695667_-81.226180@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7WyO4QuTdOgBkJ3sF7gPMU_41.695667_-81.226180@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790565,
-    "wof:geomhash":"0195a30dee5dd2e93fb42e470d9e1a21",
-    "wof:hierarchy":[],
-    "wof:id":705865503,
-    "wof:lastmodified":1472639453,
-    "wof:name":"Larry P Brown Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461790565,
+    "wof:geomhash": "fde62e54f85d5934ae5b0c04cc27c7e3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705865503
+      }
+    ],
+    "wof:id": 705865503,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Larry P Brown Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -81.22618,
     41.695667,
     -81.22618,
     41.695667
-],
+  ],
   "geometry": {"coordinates":[-81.22618,41.695667],"type":"Point"}
 }

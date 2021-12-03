@@ -2,61 +2,65 @@
   "id": 705923061,
   "type": "Feature",
   "properties": {
-    "addr:full":"32 Washington St Burkettsville OH 45310",
-    "addr:housenumber":"32",
-    "addr:postcode":"45310",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.642899,40.352414,-84.642899,40.352414",
-    "geom:latitude":40.352414,
-    "geom:longitude":-84.642899,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"32 Washington St",
-    "sg:city":"Burkettsville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "32 Washington St Burkettsville OH 45310",
+    "addr:housenumber": "32",
+    "addr:postcode": "45310",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.642899,40.352414,-84.642899,40.352414",
+    "geom:latitude": 40.352414,
+    "geom:longitude": -84.642899,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "32 Washington St",
+    "sg:city": "Burkettsville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 375 4392",
-    "sg:postcode":"45310",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 375 4392",
+    "sg:postcode": "45310",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1hrVO4cXtQ2RMBenYu3jRx_40.352414_-84.642899@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1hrVO4cXtQ2RMBenYu3jRx_40.352414_-84.642899@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791916,
-    "wof:geomhash":"eab39162b3ee1a5337902ece37b767a4",
-    "wof:hierarchy":[],
-    "wof:id":705923061,
-    "wof:lastmodified":1472639601,
-    "wof:name":"Burkettsville Village Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461791916,
+    "wof:geomhash": "b0ac3c6036db4a85828fb830df68d0ef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705923061
+      }
+    ],
+    "wof:id": 705923061,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Burkettsville Village Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.642899,
     40.352414,
     -84.642899,
     40.352414
-],
+  ],
   "geometry": {"coordinates":[-84.642899,40.352414],"type":"Point"}
 }

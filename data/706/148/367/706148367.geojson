@@ -2,63 +2,67 @@
   "id": 706148367,
   "type": "Feature",
   "properties": {
-    "addr:full":"78 Belz Warner Blvd Reynoldsburg OH 43068",
-    "addr:housenumber":"78",
-    "addr:postcode":"43068",
-    "addr:street":"Belz Warner Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.765929,39.9906,-82.765929,39.9906",
-    "geom:latitude":39.9906,
-    "geom:longitude":-82.765929,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"78 Belz Warner Blvd",
-    "sg:city":"Reynoldsburg",
-    "sg:classifiers":[
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "78 Belz Warner Blvd Reynoldsburg OH 43068",
+    "addr:housenumber": "78",
+    "addr:postcode": "43068",
+    "addr:street": "Belz Warner Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.765929,39.990600,-82.765929,39.990600",
+    "geom:latitude": 39.9906,
+    "geom:longitude": -82.765929,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "78 Belz Warner Blvd",
+    "sg:city": "Reynoldsburg",
+    "sg:classifiers": [
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 236 0311",
-    "sg:postcode":"43068",
-    "sg:province":"OH",
-    "sg:tags":[
-        "motion",
-        "picture"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 236 0311",
+    "sg:postcode": "43068",
+    "sg:province": "OH",
+    "sg:tags": [
+      "motion",
+      "picture"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3KYFrLF54q8U2o776jqGs8_39.990600_-82.765929@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3KYFrLF54q8U2o776jqGs8_39.990600_-82.765929@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796938,
-    "wof:geomhash":"46ceafeec654fb6ce44436c9a0921fac",
-    "wof:hierarchy":[],
-    "wof:id":706148367,
-    "wof:lastmodified":1472639363,
-    "wof:name":"Classic Theatres Inc 1004",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "motion",
-        "picture"
+    "wof:country": "US",
+    "wof:created": 1461796938,
+    "wof:geomhash": "4b72182e0160bdfa84767d08780fdaf1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706148367
+      }
+    ],
+    "wof:id": 706148367,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Classic Theatres Inc 1004",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "motion",
+      "picture"
     ]
-},
+  },
   "bbox": [
     -82.765929,
     39.9906,
     -82.765929,
     39.9906
-],
+  ],
   "geometry": {"coordinates":[-82.765929,39.9906],"type":"Point"}
 }

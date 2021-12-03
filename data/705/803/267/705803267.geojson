@@ -2,61 +2,65 @@
   "id": 705803267,
   "type": "Feature",
   "properties": {
-    "addr:full":"2900 Belmont Ave Youngstown OH 44505",
-    "addr:housenumber":"2900",
-    "addr:postcode":"44505",
-    "addr:street":"Belmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.665516,41.135206,-80.665516,41.135206",
-    "geom:latitude":41.135206,
-    "geom:longitude":-80.665516,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2900 Belmont Ave",
-    "sg:city":"Youngstown",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "2900 Belmont Ave Youngstown OH 44505",
+    "addr:housenumber": "2900",
+    "addr:postcode": "44505",
+    "addr:street": "Belmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.665516,41.135206,-80.665516,41.135206",
+    "geom:latitude": 41.135206,
+    "geom:longitude": -80.665516,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2900 Belmont Ave",
+    "sg:city": "Youngstown",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 759 9207",
-    "sg:postcode":"44505",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 759 9207",
+    "sg:postcode": "44505",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_18l5UKuXaxUs3XB7UP1SNB_41.135206_-80.665516@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_18l5UKuXaxUs3XB7UP1SNB_41.135206_-80.665516@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789091,
-    "wof:geomhash":"99c0321675c9c610dde587d74220d4ae",
-    "wof:hierarchy":[],
-    "wof:id":705803267,
-    "wof:lastmodified":1472639278,
-    "wof:name":"Belmont Veterinary Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461789091,
+    "wof:geomhash": "031dc95c4f54828dc1d9ae8d1bdee476",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705803267
+      }
+    ],
+    "wof:id": 705803267,
+    "wof:lastmodified": 1638566987,
+    "wof:name": "Belmont Veterinary Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -80.665516,
     41.135206,
     -80.665516,
     41.135206
-],
+  ],
   "geometry": {"coordinates":[-80.665516,41.135206],"type":"Point"}
 }

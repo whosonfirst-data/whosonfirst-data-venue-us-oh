@@ -2,65 +2,69 @@
   "id": 705961721,
   "type": "Feature",
   "properties": {
-    "addr:full":"2005 Coon Rd Lima OH 45806",
-    "addr:housenumber":"2005",
-    "addr:postcode":"45806",
-    "addr:street":"Coon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.232444,40.701046,-84.232444,40.701046",
-    "geom:latitude":40.701046,
-    "geom:longitude":-84.232444,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2005 Coon Rd",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2005 Coon Rd Lima OH 45806",
+    "addr:housenumber": "2005",
+    "addr:postcode": "45806",
+    "addr:street": "Coon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.232444,40.701046,-84.232444,40.701046",
+    "geom:latitude": 40.701046,
+    "geom:longitude": -84.232444,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2005 Coon Rd",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 991 1364",
-    "sg:postcode":"45806",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 991 1364",
+    "sg:postcode": "45806",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_64xn4xFfgeFrml1WLQgTQ0_40.701046_-84.232444@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_64xn4xFfgeFrml1WLQgTQ0_40.701046_-84.232444@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792792,
-    "wof:geomhash":"198faab6857e024451c081627bc4a788",
-    "wof:hierarchy":[],
-    "wof:id":705961721,
-    "wof:lastmodified":1472639739,
-    "wof:name":"Ross Crites Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461792792,
+    "wof:geomhash": "7eaa23c71d62407d46cc58be85897baf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705961721
+      }
+    ],
+    "wof:id": 705961721,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Ross Crites Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.232444,
     40.701046,
     -84.232444,
     40.701046
-],
+  ],
   "geometry": {"coordinates":[-84.232444,40.701046],"type":"Point"}
 }

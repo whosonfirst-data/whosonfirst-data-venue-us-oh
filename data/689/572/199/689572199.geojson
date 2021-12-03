@@ -2,56 +2,60 @@
   "id": 689572199,
   "type": "Feature",
   "properties": {
-    "addr:full":"7600 Slate Ridge Blvd Reynoldsburg OH 43068",
-    "addr:housenumber":"7600",
-    "addr:postcode":"43068",
-    "addr:street":"Slate Ridge Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.793363,39.94517,-82.793363,39.94517",
-    "geom:latitude":39.94517,
-    "geom:longitude":-82.793363,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7600 Slate Ridge Blvd",
-    "sg:city":"Reynoldsburg",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "7600 Slate Ridge Blvd Reynoldsburg OH 43068",
+    "addr:housenumber": "7600",
+    "addr:postcode": "43068",
+    "addr:street": "Slate Ridge Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.793363,39.945170,-82.793363,39.945170",
+    "geom:latitude": 39.94517,
+    "geom:longitude": -82.793363,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7600 Slate Ridge Blvd",
+    "sg:city": "Reynoldsburg",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 864 5600",
-    "sg:postcode":"43068",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2IAqVEpEfJg5WWWvaSfcSb_39.945170_-82.793363@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 864 5600",
+    "sg:postcode": "43068",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2IAqVEpEfJg5WWWvaSfcSb_39.945170_-82.793363@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775355,
-    "wof:geomhash":"58d1607b11b07ed29b02007b858b5a94",
-    "wof:hierarchy":[],
-    "wof:id":689572199,
-    "wof:lastmodified":1472639324,
-    "wof:name":"Hardgrove & Plank Attys",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461775355,
+    "wof:geomhash": "db51f94e114e8ccd34dfe115033bd514",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689572199
+      }
+    ],
+    "wof:id": 689572199,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Hardgrove \u0026 Plank Attys",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.793363,
     39.94517,
     -82.793363,
     39.94517
-],
+  ],
   "geometry": {"coordinates":[-82.793363,39.94517],"type":"Point"}
 }

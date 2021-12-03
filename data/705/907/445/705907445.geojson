@@ -2,61 +2,65 @@
   "id": 705907445,
   "type": "Feature",
   "properties": {
-    "addr:full":"1544 Madison Ave Painesville OH 44077",
-    "addr:housenumber":"1544",
-    "addr:postcode":"44077",
-    "addr:street":"Madison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.192166,41.726726,-81.192166,41.726726",
-    "geom:latitude":41.726726,
-    "geom:longitude":-81.192166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1544 Madison Ave",
-    "sg:city":"Painesville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "1544 Madison Ave Painesville OH 44077",
+    "addr:housenumber": "1544",
+    "addr:postcode": "44077",
+    "addr:street": "Madison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.192166,41.726726,-81.192166,41.726726",
+    "geom:latitude": 41.726726,
+    "geom:longitude": -81.192166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1544 Madison Ave",
+    "sg:city": "Painesville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 358 9403",
-    "sg:postcode":"44077",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 358 9403",
+    "sg:postcode": "44077",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4iwQ2OPrTRi5vSSv1YoJpW_41.726726_-81.192166@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4iwQ2OPrTRi5vSSv1YoJpW_41.726726_-81.192166@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791573,
-    "wof:geomhash":"46ab473e14a3ee8fea2021d4d62d4b71",
-    "wof:hierarchy":[],
-    "wof:id":705907445,
-    "wof:lastmodified":1472639552,
-    "wof:name":"CD Builders",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461791573,
+    "wof:geomhash": "510bf4edf1943e652bc83865477742e0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705907445
+      }
+    ],
+    "wof:id": 705907445,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "CD Builders",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -81.192166,
     41.726726,
     -81.192166,
     41.726726
-],
+  ],
   "geometry": {"coordinates":[-81.192166,41.726726],"type":"Point"}
 }

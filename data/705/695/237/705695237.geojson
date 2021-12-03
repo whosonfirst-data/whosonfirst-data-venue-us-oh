@@ -2,61 +2,65 @@
   "id": 705695237,
   "type": "Feature",
   "properties": {
-    "addr:full":"408 N High St Pandora OH 45877",
-    "addr:housenumber":"408",
-    "addr:postcode":"45877",
-    "addr:street":"N High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.960866,40.952869,-83.960866,40.952869",
-    "geom:latitude":40.952869,
-    "geom:longitude":-83.960866,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"408 N High St",
-    "sg:city":"Pandora",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Equipment Rental",
-            "type":"Services"
-        }
+    "addr:full": "408 N High St Pandora OH 45877",
+    "addr:housenumber": "408",
+    "addr:postcode": "45877",
+    "addr:street": "N High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.960866,40.952869,-83.960866,40.952869",
+    "geom:latitude": 40.952869,
+    "geom:longitude": -83.960866,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "408 N High St",
+    "sg:city": "Pandora",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Equipment Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 384 7465",
-    "sg:postcode":"45877",
-    "sg:province":"OH",
-    "sg:tags":[
-        "crane"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 384 7465",
+    "sg:postcode": "45877",
+    "sg:province": "OH",
+    "sg:tags": [
+      "crane"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2eesKorsAceUiqOYic7mZp_40.952869_-83.960866@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2eesKorsAceUiqOYic7mZp_40.952869_-83.960866@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786304,
-    "wof:geomhash":"a89e512911c2114be992434bfe3233a3",
-    "wof:hierarchy":[],
-    "wof:id":705695237,
-    "wof:lastmodified":1472638195,
-    "wof:name":"Bara Construction Co Crane Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "crane"
+    "wof:country": "US",
+    "wof:created": 1461786304,
+    "wof:geomhash": "54b76d51ffd1fef38da77511df964859",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705695237
+      }
+    ],
+    "wof:id": 705695237,
+    "wof:lastmodified": 1638566913,
+    "wof:name": "Bara Construction Co Crane Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "crane"
     ]
-},
+  },
   "bbox": [
     -83.960866,
     40.952869,
     -83.960866,
     40.952869
-],
+  ],
   "geometry": {"coordinates":[-83.960866,40.952869],"type":"Point"}
 }

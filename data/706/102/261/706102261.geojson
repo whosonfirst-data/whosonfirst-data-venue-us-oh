@@ -2,61 +2,65 @@
   "id": 706102261,
   "type": "Feature",
   "properties": {
-    "addr:full":"12395 McCracken Rd Cleveland OH 44125",
-    "addr:housenumber":"12395",
-    "addr:postcode":"44125",
-    "addr:street":"Mccracken Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.597565,41.422487,-81.597565,41.422487",
-    "geom:latitude":41.422487,
-    "geom:longitude":-81.597565,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12395 McCracken Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "12395 McCracken Rd Cleveland OH 44125",
+    "addr:housenumber": "12395",
+    "addr:postcode": "44125",
+    "addr:street": "Mccracken Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.597565,41.422487,-81.597565,41.422487",
+    "geom:latitude": 41.422487,
+    "geom:longitude": -81.597565,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12395 McCracken Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 475 2215",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 475 2215",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ebXbLaNJJULjRG9W6Kl8U_41.422487_-81.597565@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ebXbLaNJJULjRG9W6Kl8U_41.422487_-81.597565@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795830,
-    "wof:geomhash":"d732a160ae57071cd4bbc0361abc4510",
-    "wof:hierarchy":[],
-    "wof:id":706102261,
-    "wof:lastmodified":1472639242,
-    "wof:name":"Larry's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461795830,
+    "wof:geomhash": "5f258907aac0dd34037cb7a985d77673",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706102261
+      }
+    ],
+    "wof:id": 706102261,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Larry's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.597565,
     41.422487,
     -81.597565,
     41.422487
-],
+  ],
   "geometry": {"coordinates":[-81.597565,41.422487],"type":"Point"}
 }

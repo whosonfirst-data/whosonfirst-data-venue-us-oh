@@ -2,61 +2,65 @@
   "id": 689597905,
   "type": "Feature",
   "properties": {
-    "addr:full":"1500 N Main Ave Sidney OH 45365",
-    "addr:housenumber":"1500",
-    "addr:postcode":"45365",
-    "addr:street":"N Main Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.155395,40.303337,-84.155395,40.303337",
-    "geom:latitude":40.303337,
-    "geom:longitude":-84.155395,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1500 N Main Ave",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1500 N Main Ave Sidney OH 45365",
+    "addr:housenumber": "1500",
+    "addr:postcode": "45365",
+    "addr:street": "N Main Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.155395,40.303337,-84.155395,40.303337",
+    "geom:latitude": 40.303337,
+    "geom:longitude": -84.155395,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1500 N Main Ave",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 492 8008",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 492 8008",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3hfdA8c5T2mAOAiZkILJDB_40.303337_-84.155395@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3hfdA8c5T2mAOAiZkILJDB_40.303337_-84.155395@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776165,
-    "wof:geomhash":"4998ac7ea09f4295a9c49dfa245de06a",
-    "wof:hierarchy":[],
-    "wof:id":689597905,
-    "wof:lastmodified":1472639424,
-    "wof:name":"Chrissi's On The Main",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461776165,
+    "wof:geomhash": "1e9016949b3a4a4d22bc365d577040cd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689597905
+      }
+    ],
+    "wof:id": 689597905,
+    "wof:lastmodified": 1638566995,
+    "wof:name": "Chrissi's On The Main",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -84.155395,
     40.303337,
     -84.155395,
     40.303337
-],
+  ],
   "geometry": {"coordinates":[-84.155395,40.303337],"type":"Point"}
 }

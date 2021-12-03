@@ -2,61 +2,65 @@
   "id": 706260271,
   "type": "Feature",
   "properties": {
-    "addr:full":"314 N Main St Paulding OH 45879",
-    "addr:housenumber":"314",
-    "addr:postcode":"45879",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.579561,41.140005,-84.579561,41.140005",
-    "geom:latitude":41.140005,
-    "geom:longitude":-84.579561,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"314 N Main St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "314 N Main St Paulding OH 45879",
+    "addr:housenumber": "314",
+    "addr:postcode": "45879",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.579561,41.140005,-84.579561,41.140005",
+    "geom:latitude": 41.140005,
+    "geom:longitude": -84.579561,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "314 N Main St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 5668",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 5668",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7aD0uwDnvHI3zCCFNsoJur_41.140005_-84.579561@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7aD0uwDnvHI3zCCFNsoJur_41.140005_-84.579561@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799407,
-    "wof:geomhash":"b50de2504d047e1bd8ec5c1ca3089ffc",
-    "wof:hierarchy":[],
-    "wof:id":706260271,
-    "wof:lastmodified":1472639599,
-    "wof:name":"St Joseph Education Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461799407,
+    "wof:geomhash": "0f75c956e9c9472c04bab65116b3be09",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706260271
+      }
+    ],
+    "wof:id": 706260271,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "St Joseph Education Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.579561,
     41.140005,
     -84.579561,
     41.140005
-],
+  ],
   "geometry": {"coordinates":[-84.579561,41.140005],"type":"Point"}
 }

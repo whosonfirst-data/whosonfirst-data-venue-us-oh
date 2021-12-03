@@ -2,61 +2,65 @@
   "id": 705721861,
   "type": "Feature",
   "properties": {
-    "addr:full":"28 W Central Pkwy Cincinnati OH 45202",
-    "addr:housenumber":"28",
-    "addr:postcode":"45202",
-    "addr:street":"W Central Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.514478,39.107161,-84.514478,39.107161",
-    "geom:latitude":39.107161,
-    "geom:longitude":-84.514478,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"28 W Central Pkwy",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Architect",
-            "type":"Services"
-        }
+    "addr:full": "28 W Central Pkwy Cincinnati OH 45202",
+    "addr:housenumber": "28",
+    "addr:postcode": "45202",
+    "addr:street": "W Central Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.514478,39.107161,-84.514478,39.107161",
+    "geom:latitude": 39.107161,
+    "geom:longitude": -84.514478,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "28 W Central Pkwy",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Architect",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 651 9100",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "architectural"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 651 9100",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "architectural"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2n24mI2aHUvD9maj6Dn1cI_39.107161_-84.514478@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2n24mI2aHUvD9maj6Dn1cI_39.107161_-84.514478@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787206,
-    "wof:geomhash":"4c505d243258f11c2b7c8c1bbc100a55",
-    "wof:hierarchy":[],
-    "wof:id":705721861,
-    "wof:lastmodified":1472638537,
-    "wof:name":"Robinson Bruce D Arch Design",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "architectural"
+    "wof:country": "US",
+    "wof:created": 1461787206,
+    "wof:geomhash": "693e23244ad1e0589cf319f5bc78e778",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705721861
+      }
+    ],
+    "wof:id": 705721861,
+    "wof:lastmodified": 1638566937,
+    "wof:name": "Robinson Bruce D Arch Design",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "architectural"
     ]
-},
+  },
   "bbox": [
     -84.514478,
     39.107161,
     -84.514478,
     39.107161
-],
+  ],
   "geometry": {"coordinates":[-84.514478,39.107161],"type":"Point"}
 }

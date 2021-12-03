@@ -2,61 +2,65 @@
   "id": 689477147,
   "type": "Feature",
   "properties": {
-    "addr:full":"603 Airport Ave Van Wert OH 45891",
-    "addr:housenumber":"603",
-    "addr:postcode":"45891",
-    "addr:street":"Airport Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.597055,40.86052,-84.597055,40.86052",
-    "geom:latitude":40.86052,
-    "geom:longitude":-84.597055,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"603 Airport Ave",
-    "sg:city":"Van Wert",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "603 Airport Ave Van Wert OH 45891",
+    "addr:housenumber": "603",
+    "addr:postcode": "45891",
+    "addr:street": "Airport Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.597055,40.860520,-84.597055,40.860520",
+    "geom:latitude": 40.86052,
+    "geom:longitude": -84.597055,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "603 Airport Ave",
+    "sg:city": "Van Wert",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 238 3125",
-    "sg:postcode":"45891",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 238 3125",
+    "sg:postcode": "45891",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6xdv5rX5jOi0UHUBpzlpx2_40.860520_-84.597055@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6xdv5rX5jOi0UHUBpzlpx2_40.860520_-84.597055@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772440,
-    "wof:geomhash":"4f2d645d173867ecb72c55c217adb614",
-    "wof:hierarchy":[],
-    "wof:id":689477147,
-    "wof:lastmodified":1472638440,
-    "wof:name":"Westside Baptist Chapel",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461772440,
+    "wof:geomhash": "7cacccd489178ae9fb5af600b3f3dd87",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689477147
+      }
+    ],
+    "wof:id": 689477147,
+    "wof:lastmodified": 1638566923,
+    "wof:name": "Westside Baptist Chapel",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.597055,
     40.86052,
     -84.597055,
     40.86052
-],
+  ],
   "geometry": {"coordinates":[-84.597055,40.86052],"type":"Point"}
 }

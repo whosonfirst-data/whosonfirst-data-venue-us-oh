@@ -2,63 +2,67 @@
   "id": 689467605,
   "type": "Feature",
   "properties": {
-    "addr:full":"416 Cherry St Kent OH 44240",
-    "addr:housenumber":"416",
-    "addr:postcode":"44240",
-    "addr:street":"Cherry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.365443,41.141148,-81.365443,41.141148",
-    "geom:latitude":41.141148,
-    "geom:longitude":-81.365443,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"416 Cherry St",
-    "sg:city":"Kent",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "416 Cherry St Kent OH 44240",
+    "addr:housenumber": "416",
+    "addr:postcode": "44240",
+    "addr:street": "Cherry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.365443,41.141148,-81.365443,41.141148",
+    "geom:latitude": 41.141148,
+    "geom:longitude": -81.365443,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "416 Cherry St",
+    "sg:city": "Kent",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 678 9929",
-    "sg:postcode":"44240",
-    "sg:province":"OH",
-    "sg:tags":[
-        "building",
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 678 9929",
+    "sg:postcode": "44240",
+    "sg:province": "OH",
+    "sg:tags": [
+      "building",
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0CGEDvfmeAQ6Krjb1NZOwf_41.141148_-81.365443@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0CGEDvfmeAQ6Krjb1NZOwf_41.141148_-81.365443@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772136,
-    "wof:geomhash":"281863dc77148f72617a6719b8b54203",
-    "wof:hierarchy":[],
-    "wof:id":689467605,
-    "wof:lastmodified":1472638347,
-    "wof:name":"Cherry Estates",
-    "wof:parent_id":420535151,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "building",
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461772136,
+    "wof:geomhash": "ce3fb97eb59369955c02c6cc54bd8774",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689467605
+      }
+    ],
+    "wof:id": 689467605,
+    "wof:lastmodified": 1638566914,
+    "wof:name": "Cherry Estates",
+    "wof:parent_id": 420535151,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "building",
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -81.365443,
     41.141148,
     -81.365443,
     41.141148
-],
+  ],
   "geometry": {"coordinates":[-81.365443,41.141148],"type":"Point"}
 }

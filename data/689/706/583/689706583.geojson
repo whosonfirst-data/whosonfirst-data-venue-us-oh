@@ -2,61 +2,65 @@
   "id": 689706583,
   "type": "Feature",
   "properties": {
-    "addr:full":"1929 Tremont St Dover OH 44622",
-    "addr:housenumber":"1929",
-    "addr:postcode":"44622",
-    "addr:street":"Tremont St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.483396,40.540775,-81.483396,40.540775",
-    "geom:latitude":40.540775,
-    "geom:longitude":-81.483396,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1929 Tremont St",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1929 Tremont St Dover OH 44622",
+    "addr:housenumber": "1929",
+    "addr:postcode": "44622",
+    "addr:street": "Tremont St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.483396,40.540775,-81.483396,40.540775",
+    "geom:latitude": 40.540775,
+    "geom:longitude": -81.483396,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1929 Tremont St",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 364 6002",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "chemical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 364 6002",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "chemical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7WvmdhlgxLdHxG6KsFd9y0_40.540775_-81.483396@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7WvmdhlgxLdHxG6KsFd9y0_40.540775_-81.483396@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779304,
-    "wof:geomhash":"1feb22beefbd4fdb391a0f167802a0c7",
-    "wof:hierarchy":[],
-    "wof:id":689706583,
-    "wof:lastmodified":1472639691,
-    "wof:name":"Du Pont",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "chemical"
+    "wof:country": "US",
+    "wof:created": 1461779304,
+    "wof:geomhash": "2cca9a752fdcf88c92bca0bd8bd3fcea",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689706583
+      }
+    ],
+    "wof:id": 689706583,
+    "wof:lastmodified": 1638567026,
+    "wof:name": "Du Pont",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "chemical"
     ]
-},
+  },
   "bbox": [
     -81.483396,
     40.540775,
     -81.483396,
     40.540775
-],
+  ],
   "geometry": {"coordinates":[-81.483396,40.540775],"type":"Point"}
 }

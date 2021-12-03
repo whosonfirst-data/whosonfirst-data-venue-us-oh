@@ -2,61 +2,65 @@
   "id": 705991843,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 S Main St Clyde OH 43410",
-    "addr:housenumber":"105",
-    "addr:postcode":"43410",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.974929,41.305197,-82.974929,41.305197",
-    "geom:latitude":41.305197,
-    "geom:longitude":-82.974929,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 S Main St",
-    "sg:city":"Clyde",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "105 S Main St Clyde OH 43410",
+    "addr:housenumber": "105",
+    "addr:postcode": "43410",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.974929,41.305197,-82.974929,41.305197",
+    "geom:latitude": 41.305197,
+    "geom:longitude": -82.974929,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 S Main St",
+    "sg:city": "Clyde",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 547 1314",
-    "sg:postcode":"43410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 547 1314",
+    "sg:postcode": "43410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_67WuPTT3KJ7ewRlujB1Ybd_41.305197_-82.974929@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_67WuPTT3KJ7ewRlujB1Ybd_41.305197_-82.974929@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793406,
-    "wof:geomhash":"405f7288d55c788b3cf90b83c7f9affa",
-    "wof:hierarchy":[],
-    "wof:id":705991843,
-    "wof:lastmodified":1472639813,
-    "wof:name":"Hot Shots Photography & Design",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461793406,
+    "wof:geomhash": "e46a89647e5c01a284dc7696a55e24ad",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705991843
+      }
+    ],
+    "wof:id": 705991843,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Hot Shots Photography \u0026 Design",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -82.974929,
     41.305197,
     -82.974929,
     41.305197
-],
+  ],
   "geometry": {"coordinates":[-82.974929,41.305197],"type":"Point"}
 }

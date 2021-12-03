@@ -2,56 +2,60 @@
   "id": 706621003,
   "type": "Feature",
   "properties": {
-    "addr:full":"4287 Manchester Ave NW North Lawrence OH 44666",
-    "addr:housenumber":"4287",
-    "addr:postcode":"44666",
-    "addr:street":"Manchester Ave Nw North",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.602203,40.8451,-81.602203,40.8451",
-    "geom:latitude":40.8451,
-    "geom:longitude":-81.602203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4287 Manchester Ave NW",
-    "sg:city":"North Lawrence",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4287 Manchester Ave NW North Lawrence OH 44666",
+    "addr:housenumber": "4287",
+    "addr:postcode": "44666",
+    "addr:street": "Manchester Ave Nw North",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.602203,40.845100,-81.602203,40.845100",
+    "geom:latitude": 40.8451,
+    "geom:longitude": -81.602203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4287 Manchester Ave NW",
+    "sg:city": "North Lawrence",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 837 4330",
-    "sg:postcode":"44666",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0UfMebY4iFlDPAFilisbZ0_40.845100_-81.602203@1303262757"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 837 4330",
+    "sg:postcode": "44666",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0UfMebY4iFlDPAFilisbZ0_40.845100_-81.602203@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807167,
-    "wof:geomhash":"3a1452416c4b558267b51a9bac1f3d8c",
-    "wof:hierarchy":[],
-    "wof:id":706621003,
-    "wof:lastmodified":1472640216,
-    "wof:name":"Mustang Mart",
-    "wof:parent_id":420535227,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461807167,
+    "wof:geomhash": "ff0d03f56b95047deb685bd29240e918",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706621003
+      }
+    ],
+    "wof:id": 706621003,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Mustang Mart",
+    "wof:parent_id": 420535227,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.602203,
     40.8451,
     -81.602203,
     40.8451
-],
+  ],
   "geometry": {"coordinates":[-81.602203,40.8451],"type":"Point"}
 }

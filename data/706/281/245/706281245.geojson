@@ -2,61 +2,65 @@
   "id": 706281245,
   "type": "Feature",
   "properties": {
-    "addr:full":"4875 N Cole St Lima OH 45807",
-    "addr:housenumber":"4875",
-    "addr:postcode":"45807",
-    "addr:street":"N Cole St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.128608,40.81002,-84.128608,40.81002",
-    "geom:latitude":40.81002,
-    "geom:longitude":-84.128608,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4875 N Cole St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "4875 N Cole St Lima OH 45807",
+    "addr:housenumber": "4875",
+    "addr:postcode": "45807",
+    "addr:street": "N Cole St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.128608,40.810020,-84.128608,40.810020",
+    "geom:latitude": 40.81002,
+    "geom:longitude": -84.128608,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4875 N Cole St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 227 7620",
-    "sg:postcode":"45807",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 227 7620",
+    "sg:postcode": "45807",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6juU4s0fNCPwbiJMMk3OQL_40.810020_-84.128608@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6juU4s0fNCPwbiJMMk3OQL_40.810020_-84.128608@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799872,
-    "wof:geomhash":"e7b34898de2a9cc4516b6b86ec6edefe",
-    "wof:hierarchy":[],
-    "wof:id":706281245,
-    "wof:lastmodified":1472639661,
-    "wof:name":"Auctions Unlimited Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461799872,
+    "wof:geomhash": "d47dd3c8eb0993157fe3e397a6d6f830",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706281245
+      }
+    ],
+    "wof:id": 706281245,
+    "wof:lastmodified": 1638567076,
+    "wof:name": "Auctions Unlimited Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.128608,
     40.81002,
     -84.128608,
     40.81002
-],
+  ],
   "geometry": {"coordinates":[-84.128608,40.81002],"type":"Point"}
 }

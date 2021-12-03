@@ -2,61 +2,65 @@
   "id": 689785697,
   "type": "Feature",
   "properties": {
-    "addr:full":"1307 W State St Fremont OH 43420",
-    "addr:housenumber":"1307",
-    "addr:postcode":"43420",
-    "addr:street":"W State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.128503,41.353363,-83.128503,41.353363",
-    "geom:latitude":41.353363,
-    "geom:longitude":-83.128503,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1307 W State St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1307 W State St Fremont OH 43420",
+    "addr:housenumber": "1307",
+    "addr:postcode": "43420",
+    "addr:street": "W State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.128503,41.353363,-83.128503,41.353363",
+    "geom:latitude": 41.353363,
+    "geom:longitude": -83.128503,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1307 W State St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 7800",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 7800",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5zrkXWDrWxIezFHJ2qLYxS_41.353363_-83.128503@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5zrkXWDrWxIezFHJ2qLYxS_41.353363_-83.128503@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781413,
-    "wof:geomhash":"3205acb88b7132231383fbee06b65ee7",
-    "wof:hierarchy":[],
-    "wof:id":689785697,
-    "wof:lastmodified":1472639865,
-    "wof:name":"Fort Ball Pizza Palace",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461781413,
+    "wof:geomhash": "5dd16c2fd5dcfbab906e353d54dedc6d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689785697
+      }
+    ],
+    "wof:id": 689785697,
+    "wof:lastmodified": 1638567050,
+    "wof:name": "Fort Ball Pizza Palace",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.128503,
     41.353363,
     -83.128503,
     41.353363
-],
-  "geometry": {"coordinates":[-83.12850299999999,41.353363],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.128503,41.353363],"type":"Point"}
 }

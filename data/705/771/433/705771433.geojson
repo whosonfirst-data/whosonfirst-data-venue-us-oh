@@ -2,61 +2,65 @@
   "id": 705771433,
   "type": "Feature",
   "properties": {
-    "addr:full":"6237 Charity Dr Cincinnati OH 45248",
-    "addr:housenumber":"6237",
-    "addr:postcode":"45248",
-    "addr:street":"Charity Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.653514,39.15023,-84.653514,39.15023",
-    "geom:latitude":39.15023,
-    "geom:longitude":-84.653514,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6237 Charity Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6237 Charity Dr Cincinnati OH 45248",
+    "addr:housenumber": "6237",
+    "addr:postcode": "45248",
+    "addr:street": "Charity Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.653514,39.150230,-84.653514,39.150230",
+    "geom:latitude": 39.15023,
+    "geom:longitude": -84.653514,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6237 Charity Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 574 9892",
-    "sg:postcode":"45248",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 574 9892",
+    "sg:postcode": "45248",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3WNkQfjbpYaJCb6yj2EZQ7_39.150230_-84.653514@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3WNkQfjbpYaJCb6yj2EZQ7_39.150230_-84.653514@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788329,
-    "wof:geomhash":"d9eb58b93bbb96777563b37d8c5aa0cc",
-    "wof:hierarchy":[],
-    "wof:id":705771433,
-    "wof:lastmodified":1472639219,
-    "wof:name":"St Mortiz Ice Cream",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461788329,
+    "wof:geomhash": "ff818eed444d8279b040cebcfa36b04c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705771433
+      }
+    ],
+    "wof:id": 705771433,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "St Mortiz Ice Cream",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.653514,
     39.15023,
     -84.653514,
     39.15023
-],
+  ],
   "geometry": {"coordinates":[-84.653514,39.15023],"type":"Point"}
 }

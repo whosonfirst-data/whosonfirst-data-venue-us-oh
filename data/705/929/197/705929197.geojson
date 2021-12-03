@@ -2,63 +2,67 @@
   "id": 705929197,
   "type": "Feature",
   "properties": {
-    "addr:full":"217 S Elm St Prospect OH 43342",
-    "addr:housenumber":"217",
-    "addr:postcode":"43342",
-    "addr:street":"S Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.187905,40.449236,-83.187905,40.449236",
-    "geom:latitude":40.449236,
-    "geom:longitude":-83.187905,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"217 S Elm St",
-    "sg:city":"Prospect",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "217 S Elm St Prospect OH 43342",
+    "addr:housenumber": "217",
+    "addr:postcode": "43342",
+    "addr:street": "S Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.187905,40.449236,-83.187905,40.449236",
+    "geom:latitude": 40.449236,
+    "geom:longitude": -83.187905,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "217 S Elm St",
+    "sg:city": "Prospect",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 494 2906",
-    "sg:postcode":"43342",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 494 2906",
+    "sg:postcode": "43342",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6QVudojPvNy4s1ICFg0xt7_40.449236_-83.187905@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6QVudojPvNy4s1ICFg0xt7_40.449236_-83.187905@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792044,
-    "wof:geomhash":"0d48c4ac39d80030dfad4c6b98c8c395",
-    "wof:hierarchy":[],
-    "wof:id":705929197,
-    "wof:lastmodified":1472639654,
-    "wof:name":"Devine's Coffee & Tea",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:country": "US",
+    "wof:created": 1461792044,
+    "wof:geomhash": "8a325e6fc3d0d682019d2128c2bf3326",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705929197
+      }
+    ],
+    "wof:id": 705929197,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Devine's Coffee \u0026 Tea",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -83.187905,
     40.449236,
     -83.187905,
     40.449236
-],
+  ],
   "geometry": {"coordinates":[-83.187905,40.449236],"type":"Point"}
 }

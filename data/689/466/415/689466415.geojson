@@ -2,61 +2,65 @@
   "id": 689466415,
   "type": "Feature",
   "properties": {
-    "addr:full":"17670 Moseley Rd Thompson OH 44086",
-    "addr:housenumber":"",
-    "addr:postcode":"17670;44086",
-    "addr:street":"Moseley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.011315,41.702514,-81.011315,41.702514",
-    "geom:latitude":41.702514,
-    "geom:longitude":-81.011315,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17670 Moseley Rd",
-    "sg:city":"Thompson",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Campground",
-            "type":"Entertainment"
-        }
+    "addr:full": "17670 Moseley Rd Thompson OH 44086",
+    "addr:housenumber": "",
+    "addr:postcode": "17670;44086",
+    "addr:street": "Moseley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.011315,41.702514,-81.011315,41.702514",
+    "geom:latitude": 41.702514,
+    "geom:longitude": -81.011315,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17670 Moseley Rd",
+    "sg:city": "Thompson",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Campground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 298 9849",
-    "sg:postcode":"44086",
-    "sg:province":"OH",
-    "sg:tags":[
-        "camp"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 298 9849",
+    "sg:postcode": "44086",
+    "sg:province": "OH",
+    "sg:tags": [
+      "camp"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_03LdWCZDxqBUJpygqJxWZW_41.702514_-81.011315@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_03LdWCZDxqBUJpygqJxWZW_41.702514_-81.011315@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772098,
-    "wof:geomhash":"30e0732c0eaf291354acb3dc1928e1d1",
-    "wof:hierarchy":[],
-    "wof:id":689466415,
-    "wof:lastmodified":1472638327,
-    "wof:name":"Blue Rock Christian Camp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "camp"
+    "wof:country": "US",
+    "wof:created": 1461772098,
+    "wof:geomhash": "35b72e11e7a1a243fe676d182af006a1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689466415
+      }
+    ],
+    "wof:id": 689466415,
+    "wof:lastmodified": 1638566913,
+    "wof:name": "Blue Rock Christian Camp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "camp"
     ]
-},
+  },
   "bbox": [
     -81.011315,
     41.702514,
     -81.011315,
     41.702514
-],
+  ],
   "geometry": {"coordinates":[-81.011315,41.702514],"type":"Point"}
 }

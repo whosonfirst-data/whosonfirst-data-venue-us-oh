@@ -2,61 +2,65 @@
   "id": 706305327,
   "type": "Feature",
   "properties": {
-    "addr:full":"566 N Washington St Tiffin OH 44883",
-    "addr:housenumber":"566",
-    "addr:postcode":"44883",
-    "addr:street":"N Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.178738,41.133955,-83.178738,41.133955",
-    "geom:latitude":41.133955,
-    "geom:longitude":-83.178738,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"566 N Washington St",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "566 N Washington St Tiffin OH 44883",
+    "addr:housenumber": "566",
+    "addr:postcode": "44883",
+    "addr:street": "N Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.178738,41.133955,-83.178738,41.133955",
+    "geom:latitude": 41.133955,
+    "geom:longitude": -83.178738,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "566 N Washington St",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 448 0067",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 448 0067",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7UB1Pyx30JDAMkdZT2azbC_41.133955_-83.178738@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7UB1Pyx30JDAMkdZT2azbC_41.133955_-83.178738@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800415,
-    "wof:geomhash":"7fd23a6d251e7a75a0d93628de36ce5a",
-    "wof:hierarchy":[],
-    "wof:id":706305327,
-    "wof:lastmodified":1472639739,
-    "wof:name":"Pillar Of Faith Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461800415,
+    "wof:geomhash": "67e13dee3f3c700b7f0d91bc8e73addf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706305327
+      }
+    ],
+    "wof:id": 706305327,
+    "wof:lastmodified": 1638567080,
+    "wof:name": "Pillar Of Faith Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.178738,
     41.133955,
     -83.178738,
     41.133955
-],
+  ],
   "geometry": {"coordinates":[-83.178738,41.133955],"type":"Point"}
 }

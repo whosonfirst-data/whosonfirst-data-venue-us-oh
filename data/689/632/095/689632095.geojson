@@ -2,61 +2,65 @@
   "id": 689632095,
   "type": "Feature",
   "properties": {
-    "addr:full":"862 Washington Ave Findlay OH 45840",
-    "addr:housenumber":"862",
-    "addr:postcode":"45840",
-    "addr:street":"Washington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.64579,41.031359,-83.64579,41.031359",
-    "geom:latitude":41.031359,
-    "geom:longitude":-83.64579,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"862 Washington Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "862 Washington Ave Findlay OH 45840",
+    "addr:housenumber": "862",
+    "addr:postcode": "45840",
+    "addr:street": "Washington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.645790,41.031359,-83.645790,41.031359",
+    "geom:latitude": 41.031359,
+    "geom:longitude": -83.64579,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "862 Washington Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 422 7686",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "newspaper"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 422 7686",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "newspaper"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7TVlOFgaLPlJbV4HDnJaoU_41.031359_-83.645790@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7TVlOFgaLPlJbV4HDnJaoU_41.031359_-83.645790@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777204,
-    "wof:geomhash":"876c7fc0b79c45f1b51f658c6cb07475",
-    "wof:hierarchy":[],
-    "wof:id":689632095,
-    "wof:lastmodified":1472639460,
-    "wof:name":"Toledo Blade Findlay Agency",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "newspaper"
+    "wof:country": "US",
+    "wof:created": 1461777204,
+    "wof:geomhash": "5497c18c9272371432d813984d02a544",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689632095
+      }
+    ],
+    "wof:id": 689632095,
+    "wof:lastmodified": 1638567002,
+    "wof:name": "Toledo Blade Findlay Agency",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "newspaper"
     ]
-},
+  },
   "bbox": [
     -83.64579,
     41.031359,
     -83.64579,
     41.031359
-],
-  "geometry": {"coordinates":[-83.64579000000001,41.031359],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.64579,41.031359],"type":"Point"}
 }

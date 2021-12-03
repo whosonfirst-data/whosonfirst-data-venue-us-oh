@@ -2,61 +2,65 @@
   "id": 706295649,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 W Ash St Piqua OH 45356",
-    "addr:housenumber":"102",
-    "addr:postcode":"45356",
-    "addr:street":"W Ash St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.241034,40.149793,-84.241034,40.149793",
-    "geom:latitude":40.149793,
-    "geom:longitude":-84.241034,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 W Ash St",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "102 W Ash St Piqua OH 45356",
+    "addr:housenumber": "102",
+    "addr:postcode": "45356",
+    "addr:street": "W Ash St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.241034,40.149793,-84.241034,40.149793",
+    "geom:latitude": 40.149793,
+    "geom:longitude": -84.241034,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 W Ash St",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 615 0657",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "probation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 615 0657",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "probation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0rdA70TCy2AzD6EEpx4HHu_40.149793_-84.241034@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0rdA70TCy2AzD6EEpx4HHu_40.149793_-84.241034@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800207,
-    "wof:geomhash":"d8a4fd72b0fbb997913c665bed0262cc",
-    "wof:hierarchy":[],
-    "wof:id":706295649,
-    "wof:lastmodified":1472639699,
-    "wof:name":"Piqua Juvenile Probation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "probation"
+    "wof:country": "US",
+    "wof:created": 1461800207,
+    "wof:geomhash": "26091f35f4b7e93e51b05a9a4ed98366",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706295649
+      }
+    ],
+    "wof:id": 706295649,
+    "wof:lastmodified": 1638567077,
+    "wof:name": "Piqua Juvenile Probation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "probation"
     ]
-},
+  },
   "bbox": [
     -84.241034,
     40.149793,
     -84.241034,
     40.149793
-],
+  ],
   "geometry": {"coordinates":[-84.241034,40.149793],"type":"Point"}
 }

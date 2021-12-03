@@ -2,67 +2,71 @@
   "id": 706568725,
   "type": "Feature",
   "properties": {
-    "addr:full":"666 N Lexington Springmill Rd Mansfield OH 44906",
-    "addr:housenumber":"666",
-    "addr:postcode":"44906",
-    "addr:street":"N;Springmill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.590376,40.767904,-82.590376,40.767904",
-    "geom:latitude":40.767904,
-    "geom:longitude":-82.590376,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"666 N Lexington Springmill Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "666 N Lexington Springmill Rd Mansfield OH 44906",
+    "addr:housenumber": "666",
+    "addr:postcode": "44906",
+    "addr:street": "N;Springmill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.590376,40.767904,-82.590376,40.767904",
+    "geom:latitude": 40.767904,
+    "geom:longitude": -82.590376,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "666 N Lexington Springmill Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/five-corners/195407-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/five-corners/195407-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":503037322,
-        "sg:id":"SG_04K9IOyS2jyQhKIwjFRxKH_40.767904_-82.590376@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 503037322,
+      "sg:id": "SG_04K9IOyS2jyQhKIwjFRxKH_40.767904_-82.590376@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806030,
-    "wof:geomhash":"ec676b936165fd1727b5e53b75f435cc",
-    "wof:hierarchy":[],
-    "wof:id":706568725,
-    "wof:lastmodified":1512142943,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806030,
+    "wof:geomhash": "ec676b936165fd1727b5e53b75f435cc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706568725
+      }
+    ],
+    "wof:id": 706568725,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.590376,
     40.767904,
     -82.590376,
     40.767904
-],
-  "geometry": {"coordinates":[-82.59037600000001,40.767904],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.590376,40.767904],"type":"Point"}
 }

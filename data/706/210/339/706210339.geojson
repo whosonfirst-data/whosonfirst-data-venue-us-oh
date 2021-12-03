@@ -2,61 +2,65 @@
   "id": 706210339,
   "type": "Feature",
   "properties": {
-    "addr:full":"3979 Adamsville Rd Zanesville OH 43701",
-    "addr:housenumber":"3979",
-    "addr:postcode":"43701",
-    "addr:street":"Adamsville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.91849,40.003495,-81.91849,40.003495",
-    "geom:latitude":40.003495,
-    "geom:longitude":-81.91849,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3979 Adamsville Rd",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "3979 Adamsville Rd Zanesville OH 43701",
+    "addr:housenumber": "3979",
+    "addr:postcode": "43701",
+    "addr:street": "Adamsville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.918490,40.003495,-81.918490,40.003495",
+    "geom:latitude": 40.003495,
+    "geom:longitude": -81.91849,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3979 Adamsville Rd",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 2214",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 2214",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7BvT4REWPsCDbS5A57oV8x_40.003495_-81.918490@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7BvT4REWPsCDbS5A57oV8x_40.003495_-81.918490@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798286,
-    "wof:geomhash":"4a8665f36a15655bdf56ef4dcd5103b3",
-    "wof:hierarchy":[],
-    "wof:id":706210339,
-    "wof:lastmodified":1472639506,
-    "wof:name":"Washington Maintenance Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461798286,
+    "wof:geomhash": "03006bdc89fdfb0ea53fc848828d3450",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706210339
+      }
+    ],
+    "wof:id": 706210339,
+    "wof:lastmodified": 1638567050,
+    "wof:name": "Washington Maintenance Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -81.91849,
     40.003495,
     -81.91849,
     40.003495
-],
-  "geometry": {"coordinates":[-81.91849000000001,40.003495],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.91849,40.003495],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689811019,
   "type": "Feature",
   "properties": {
-    "addr:full":"360 N Main St Mt Gilead OH 43338",
-    "addr:housenumber":"360",
-    "addr:postcode":"43338",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.82681,40.55547,-82.82681,40.55547",
-    "geom:latitude":40.55547,
-    "geom:longitude":-82.82681,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"360 N Main St",
-    "sg:city":"Mt Gilead",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "360 N Main St Mt Gilead OH 43338",
+    "addr:housenumber": "360",
+    "addr:postcode": "43338",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.826810,40.555470,-82.826810,40.555470",
+    "geom:latitude": 40.55547,
+    "geom:longitude": -82.82681,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "360 N Main St",
+    "sg:city": "Mt Gilead",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 946 3508",
-    "sg:postcode":"43338",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 946 3508",
+    "sg:postcode": "43338",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7MM3AP8RiYF2ArO5M5m6DH_40.555470_-82.826810@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7MM3AP8RiYF2ArO5M5m6DH_40.555470_-82.826810@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782220,
-    "wof:geomhash":"96a2a6e9332889373404edbd6d3cf04e",
-    "wof:hierarchy":[],
-    "wof:id":689811019,
-    "wof:lastmodified":1472639875,
-    "wof:name":"Dave C Decker Auctioneer",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461782220,
+    "wof:geomhash": "1cf663be327fbca1f04ffb55c70e2223",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689811019
+      }
+    ],
+    "wof:id": 689811019,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Dave C Decker Auctioneer",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -82.82681,
     40.55547,
     -82.82681,
     40.55547
-],
-  "geometry": {"coordinates":[-82.82680999999999,40.55547],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.82681,40.55547],"type":"Point"}
 }

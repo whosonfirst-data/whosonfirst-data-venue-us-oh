@@ -2,69 +2,73 @@
   "id": 689838527,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Westview Ave Marietta OH 45750",
-    "addr:housenumber":"101",
-    "addr:postcode":"45750",
-    "addr:street":"Westview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.477373,39.429086,-81.477373,39.429086",
-    "geom:latitude":39.429086,
-    "geom:longitude":-81.477373,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"101 Westview Ave",
-    "sg:city":"Marietta",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Jail",
-            "type":"Public Place"
-        }
+    "addr:full": "101 Westview Ave Marietta OH 45750",
+    "addr:housenumber": "101",
+    "addr:postcode": "45750",
+    "addr:street": "Westview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.477373,39.429086,-81.477373,39.429086",
+    "geom:latitude": 39.429086,
+    "geom:longitude": -81.477373,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "101 Westview Ave",
+    "sg:city": "Marietta",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Jail",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 374 7677",
-    "sg:postcode":"45750",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county",
-        "govt",
-        "institution"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 374 7677",
+    "sg:postcode": "45750",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county",
+      "govt",
+      "institution"
     ],
-    "sg:website":"www.washingtoncountysheriff.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4937745078,
-        "sg:id":"SG_0yuU7aFKRKoGwonYuiCMZF_39.429086_-81.477373@1294180530"
+    "sg:website": "www.washingtoncountysheriff.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4937745078,
+      "sg:id": "SG_0yuU7aFKRKoGwonYuiCMZF_39.429086_-81.477373@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783069,
-    "wof:geomhash":"d1f9de5eddee363d84d802b823497316",
-    "wof:hierarchy":[],
-    "wof:id":689838527,
-    "wof:lastmodified":1510944114,
-    "wof:name":"Washington County Jail",
-    "wof:parent_id":420535327,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county",
-        "govt",
-        "institution"
+    "wof:country": "US",
+    "wof:created": 1461783069,
+    "wof:geomhash": "d1f9de5eddee363d84d802b823497316",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689838527
+      }
+    ],
+    "wof:id": 689838527,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Washington County Jail",
+    "wof:parent_id": 420535327,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county",
+      "govt",
+      "institution"
     ]
-},
+  },
   "bbox": [
     -81.477373,
     39.429086,
     -81.477373,
     39.429086
-],
+  ],
   "geometry": {"coordinates":[-81.477373,39.429086],"type":"Point"}
 }

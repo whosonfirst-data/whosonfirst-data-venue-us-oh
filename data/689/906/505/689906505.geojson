@@ -2,61 +2,65 @@
   "id": 689906505,
   "type": "Feature",
   "properties": {
-    "addr:full":"1403 Port Clinton Rd Fremont OH 43420",
-    "addr:housenumber":"1403",
-    "addr:postcode":"43420",
-    "addr:street":"Port Clinton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.112251,41.361603,-83.112251,41.361603",
-    "geom:latitude":41.361603,
-    "geom:longitude":-83.112251,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1403 Port Clinton Rd",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "1403 Port Clinton Rd Fremont OH 43420",
+    "addr:housenumber": "1403",
+    "addr:postcode": "43420",
+    "addr:street": "Port Clinton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.112251,41.361603,-83.112251,41.361603",
+    "geom:latitude": 41.361603,
+    "geom:longitude": -83.112251,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1403 Port Clinton Rd",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 3008",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 3008",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Appfywzb4VN63nb6MSumd_41.361603_-83.112251@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Appfywzb4VN63nb6MSumd_41.361603_-83.112251@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784753,
-    "wof:geomhash":"01fc91ae0d4a8069e7eec86bd8d8d76f",
-    "wof:hierarchy":[],
-    "wof:id":689906505,
-    "wof:lastmodified":1472640062,
-    "wof:name":"Photo Dimensions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461784753,
+    "wof:geomhash": "3f10b815e4d397a9040a042bca05cde5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689906505
+      }
+    ],
+    "wof:id": 689906505,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Photo Dimensions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.112251,
     41.361603,
     -83.112251,
     41.361603
-],
+  ],
   "geometry": {"coordinates":[-83.112251,41.361603],"type":"Point"}
 }

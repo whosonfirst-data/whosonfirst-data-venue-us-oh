@@ -2,63 +2,67 @@
   "id": 689639145,
   "type": "Feature",
   "properties": {
-    "addr:full":"419 Home St Georgetown OH 45121",
-    "addr:housenumber":"419",
-    "addr:postcode":"45121",
-    "addr:street":"Home St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.89775,38.860251,-83.89775,38.860251",
-    "geom:latitude":38.860251,
-    "geom:longitude":-83.89775,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"419 Home St",
-    "sg:city":"Georgetown",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "419 Home St Georgetown OH 45121",
+    "addr:housenumber": "419",
+    "addr:postcode": "45121",
+    "addr:street": "Home St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.897750,38.860251,-83.897750,38.860251",
+    "geom:latitude": 38.860251,
+    "geom:longitude": -83.89775,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "419 Home St",
+    "sg:city": "Georgetown",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 378 1119",
-    "sg:postcode":"45121",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 378 1119",
+    "sg:postcode": "45121",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3mtUmAweqSEqICd0wltx3W_38.860251_-83.897750@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3mtUmAweqSEqICd0wltx3W_38.860251_-83.897750@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777426,
-    "wof:geomhash":"6aca63320c20f519bbfe076b45ed7598",
-    "wof:hierarchy":[],
-    "wof:id":689639145,
-    "wof:lastmodified":1472639490,
-    "wof:name":"Brown County Ob-Gyn Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461777426,
+    "wof:geomhash": "56ecefad11e2ec43f197600198551718",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689639145
+      }
+    ],
+    "wof:id": 689639145,
+    "wof:lastmodified": 1638566992,
+    "wof:name": "Brown County Ob-Gyn Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.89775,
     38.860251,
     -83.89775,
     38.860251
-],
+  ],
   "geometry": {"coordinates":[-83.89775,38.860251],"type":"Point"}
 }

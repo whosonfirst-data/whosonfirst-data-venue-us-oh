@@ -2,61 +2,65 @@
   "id": 705965437,
   "type": "Feature",
   "properties": {
-    "addr:full":"113 N Michigan St Edon OH 43518",
-    "addr:housenumber":"113",
-    "addr:postcode":"43518",
-    "addr:street":"N Michigan St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.769024,41.556673,-84.769024,41.556673",
-    "geom:latitude":41.556673,
-    "geom:longitude":-84.769024,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"113 N Michigan St",
-    "sg:city":"Edon",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "113 N Michigan St Edon OH 43518",
+    "addr:housenumber": "113",
+    "addr:postcode": "43518",
+    "addr:street": "N Michigan St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.769024,41.556673,-84.769024,41.556673",
+    "geom:latitude": 41.556673,
+    "geom:longitude": -84.769024,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "113 N Michigan St",
+    "sg:city": "Edon",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 272 2413",
-    "sg:postcode":"43518",
-    "sg:province":"OH",
-    "sg:tags":[
-        "newspaper"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 272 2413",
+    "sg:postcode": "43518",
+    "sg:province": "OH",
+    "sg:tags": [
+      "newspaper"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5fxWiN6eiBg3pdN0Z0Q3gA_41.556673_-84.769024@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5fxWiN6eiBg3pdN0Z0Q3gA_41.556673_-84.769024@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792873,
-    "wof:geomhash":"46bd0e2260556837167e67089e7694de",
-    "wof:hierarchy":[],
-    "wof:id":705965437,
-    "wof:lastmodified":1472639721,
-    "wof:name":"Edon Commercial",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "newspaper"
+    "wof:country": "US",
+    "wof:created": 1461792873,
+    "wof:geomhash": "6157efa06945373cdaf86ce220e92a8c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705965437
+      }
+    ],
+    "wof:id": 705965437,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Edon Commercial",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "newspaper"
     ]
-},
+  },
   "bbox": [
     -84.769024,
     41.556673,
     -84.769024,
     41.556673
-],
+  ],
   "geometry": {"coordinates":[-84.769024,41.556673],"type":"Point"}
 }

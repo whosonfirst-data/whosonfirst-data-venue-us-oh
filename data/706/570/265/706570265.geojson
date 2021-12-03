@@ -2,66 +2,70 @@
   "id": 706570265,
   "type": "Feature",
   "properties": {
-    "addr:full":"223 Jefferson St Greenfield OH 45123",
-    "addr:housenumber":"223",
-    "addr:postcode":"45123",
-    "addr:street":"Jefferson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.380218,39.3522,-83.380218,39.3522",
-    "geom:latitude":39.3522,
-    "geom:longitude":-83.380218,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"223 Jefferson St",
-    "sg:city":"Greenfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "223 Jefferson St Greenfield OH 45123",
+    "addr:housenumber": "223",
+    "addr:postcode": "45123",
+    "addr:street": "Jefferson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.380218,39.352200,-83.380218,39.352200",
+    "geom:latitude": 39.3522,
+    "geom:longitude": -83.380218,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "223 Jefferson St",
+    "sg:city": "Greenfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/madison/195077-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/madison/195077-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2HPpRkWzXl6mNMZVXfeLVs_39.352200_-83.380218@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2HPpRkWzXl6mNMZVXfeLVs_39.352200_-83.380218@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806063,
-    "wof:geomhash":"7b823e4ca815e9c1ac200e5639e4bfad",
-    "wof:hierarchy":[],
-    "wof:id":706570265,
-    "wof:lastmodified":1512142943,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806063,
+    "wof:geomhash": "7b823e4ca815e9c1ac200e5639e4bfad",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706570265
+      }
+    ],
+    "wof:id": 706570265,
+    "wof:lastmodified": 1638567138,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -83.380218,
     39.3522,
     -83.380218,
     39.3522
-],
+  ],
   "geometry": {"coordinates":[-83.380218,39.3522],"type":"Point"}
 }

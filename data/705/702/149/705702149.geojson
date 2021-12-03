@@ -2,61 +2,65 @@
   "id": 705702149,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 Danville Pike Hillsboro OH 45133",
-    "addr:housenumber":"110",
-    "addr:postcode":"45133",
-    "addr:street":"Danville Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.620947,39.200769,-83.620947,39.200769",
-    "geom:latitude":39.200769,
-    "geom:longitude":-83.620947,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 Danville Pike",
-    "sg:city":"Hillsboro",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Electric",
-            "type":"Services"
-        }
+    "addr:full": "110 Danville Pike Hillsboro OH 45133",
+    "addr:housenumber": "110",
+    "addr:postcode": "45133",
+    "addr:street": "Danville Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.620947,39.200769,-83.620947,39.200769",
+    "geom:latitude": 39.200769,
+    "geom:longitude": -83.620947,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "110 Danville Pike",
+    "sg:city": "Hillsboro",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Electric",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 393 3421",
-    "sg:postcode":"45133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 393 3421",
+    "sg:postcode": "45133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_284CeZLllrfXA6XFS00dxT_39.200769_-83.620947@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_284CeZLllrfXA6XFS00dxT_39.200769_-83.620947@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786625,
-    "wof:geomhash":"1539cc9f0d42a36c2a80bac7dc9a3bf4",
-    "wof:hierarchy":[],
-    "wof:id":705702149,
-    "wof:lastmodified":1472638270,
-    "wof:name":"South Central Power Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company"
+    "wof:country": "US",
+    "wof:created": 1461786625,
+    "wof:geomhash": "9de264f52414636d6b599ff2f0e898c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702149
+      }
+    ],
+    "wof:id": 705702149,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "South Central Power Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company"
     ]
-},
+  },
   "bbox": [
     -83.620947,
     39.200769,
     -83.620947,
     39.200769
-],
+  ],
   "geometry": {"coordinates":[-83.620947,39.200769],"type":"Point"}
 }

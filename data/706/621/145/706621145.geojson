@@ -2,82 +2,86 @@
   "id": 706621145,
   "type": "Feature",
   "properties": {
-    "addr:full":"4465 Hills And Dales Rd NW Canton OH 44708",
-    "addr:housenumber":"4465",
-    "addr:postcode":"44708",
-    "addr:street":"Hills And Dales Rd Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.426089,40.832992,-81.426089,40.832992",
-    "geom:latitude":40.832992,
-    "geom:longitude":-81.426089,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4465 Hills And Dales Rd NW",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Massage",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Day Spa",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Skin Care",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Nail Salon",
-            "type":"Services"
-        }
+    "addr:full": "4465 Hills And Dales Rd NW Canton OH 44708",
+    "addr:housenumber": "4465",
+    "addr:postcode": "44708",
+    "addr:street": "Hills And Dales Rd Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.426089,40.832992,-81.426089,40.832992",
+    "geom:latitude": 40.832992,
+    "geom:longitude": -81.426089,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4465 Hills And Dales Rd NW",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Massage",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Day Spa",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Skin Care",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Nail Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 479 7727",
-    "sg:postcode":"44708",
-    "sg:province":"OH",
-    "sg:tags":[
-        "therapist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 479 7727",
+    "sg:postcode": "44708",
+    "sg:province": "OH",
+    "sg:tags": [
+      "therapist"
     ],
-    "sg:website":"http://www.AmadeusSpaCanton.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4OLMy4TYO3Nh8wASbgdT1Q_40.832992_-81.426089@1303262757"
+    "sg:website": "http://www.AmadeusSpaCanton.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4OLMy4TYO3Nh8wASbgdT1Q_40.832992_-81.426089@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807170,
-    "wof:geomhash":"68d9cc2ad76f055518e08a1511c817f8",
-    "wof:hierarchy":[],
-    "wof:id":706621145,
-    "wof:lastmodified":1472640229,
-    "wof:name":"Amadeus Spa",
-    "wof:parent_id":420535177,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "therapist"
+    "wof:country": "US",
+    "wof:created": 1461807170,
+    "wof:geomhash": "ccef77808b21428b25d6ebc585c55c17",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706621145
+      }
+    ],
+    "wof:id": 706621145,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Amadeus Spa",
+    "wof:parent_id": 420535177,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "therapist"
     ]
-},
+  },
   "bbox": [
     -81.426089,
     40.832992,
     -81.426089,
     40.832992
-],
+  ],
   "geometry": {"coordinates":[-81.426089,40.832992],"type":"Point"}
 }

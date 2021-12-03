@@ -2,61 +2,65 @@
   "id": 706187693,
   "type": "Feature",
   "properties": {
-    "addr:full":"2274 Patterson Rd Dayton OH 45420",
-    "addr:housenumber":"2274",
-    "addr:postcode":"45420",
-    "addr:street":"Patterson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.130566,39.72293,-84.130566,39.72293",
-    "geom:latitude":39.72293,
-    "geom:longitude":-84.130566,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2274 Patterson Rd",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2274 Patterson Rd Dayton OH 45420",
+    "addr:housenumber": "2274",
+    "addr:postcode": "45420",
+    "addr:street": "Patterson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.130566,39.722930,-84.130566,39.722930",
+    "geom:latitude": 39.72293,
+    "geom:longitude": -84.130566,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2274 Patterson Rd",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 253 6784",
-    "sg:postcode":"45420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 253 6784",
+    "sg:postcode": "45420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Z7iea0HnU7daJxh9gnDZl_39.722930_-84.130566@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Z7iea0HnU7daJxh9gnDZl_39.722930_-84.130566@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797806,
-    "wof:geomhash":"fdbf9a8ce23c9d282962259e6c315cfb",
-    "wof:hierarchy":[],
-    "wof:id":706187693,
-    "wof:lastmodified":1472639469,
-    "wof:name":"Bullpen",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461797806,
+    "wof:geomhash": "b4f87aca346df94e22de912f8cbe757b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706187693
+      }
+    ],
+    "wof:id": 706187693,
+    "wof:lastmodified": 1638567038,
+    "wof:name": "Bullpen",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.130566,
     39.72293,
     -84.130566,
     39.72293
-],
+  ],
   "geometry": {"coordinates":[-84.130566,39.72293],"type":"Point"}
 }

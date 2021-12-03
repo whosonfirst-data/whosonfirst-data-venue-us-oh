@@ -2,61 +2,65 @@
   "id": 706404341,
   "type": "Feature",
   "properties": {
-    "addr:full":"410 Birchard Ave Fremont OH 43420",
-    "addr:housenumber":"410",
-    "addr:postcode":"43420",
-    "addr:street":"Birchard Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.114954,41.344441,-83.114954,41.344441",
-    "geom:latitude":41.344441,
-    "geom:longitude":-83.114954,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"410 Birchard Ave",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "410 Birchard Ave Fremont OH 43420",
+    "addr:housenumber": "410",
+    "addr:postcode": "43420",
+    "addr:street": "Birchard Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.114954,41.344441,-83.114954,41.344441",
+    "geom:latitude": 41.344441,
+    "geom:longitude": -83.114954,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "410 Birchard Ave",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 8855",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 8855",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1AP47XuLlQktoXWhkw6uAg_41.344441_-83.114954@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1AP47XuLlQktoXWhkw6uAg_41.344441_-83.114954@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802487,
-    "wof:geomhash":"10fc4de5ce42ce5ad2143639e1cca8e9",
-    "wof:hierarchy":[],
-    "wof:id":706404341,
-    "wof:lastmodified":1472639992,
-    "wof:name":"Community Health Svc Dental",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461802487,
+    "wof:geomhash": "255ed9747de4e112c81d4f18ab25496d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706404341
+      }
+    ],
+    "wof:id": 706404341,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Community Health Svc Dental",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.114954,
     41.344441,
     -83.114954,
     41.344441
-],
+  ],
   "geometry": {"coordinates":[-83.114954,41.344441],"type":"Point"}
 }

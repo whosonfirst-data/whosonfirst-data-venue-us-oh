@@ -2,65 +2,69 @@
   "id": 705859591,
   "type": "Feature",
   "properties": {
-    "addr:full":"619 Lincolnshire Ln Findlay OH 45840",
-    "addr:housenumber":"619",
-    "addr:postcode":"45840",
-    "addr:street":"Lincolnshire Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.619601,41.0485,-83.619601,41.0485",
-    "geom:latitude":41.0485,
-    "geom:longitude":-83.619601,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"619 Lincolnshire Ln",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "619 Lincolnshire Ln Findlay OH 45840",
+    "addr:housenumber": "619",
+    "addr:postcode": "45840",
+    "addr:street": "Lincolnshire Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.619601,41.048500,-83.619601,41.048500",
+    "geom:latitude": 41.0485,
+    "geom:longitude": -83.619601,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "619 Lincolnshire Ln",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 424 3373",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 424 3373",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4zkeZs2z4zYYtNjxfoUUBy_41.048500_-83.619601@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4zkeZs2z4zYYtNjxfoUUBy_41.048500_-83.619601@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790414,
-    "wof:geomhash":"fe887447e72064547fa68916f541bb7b",
-    "wof:hierarchy":[],
-    "wof:id":705859591,
-    "wof:lastmodified":1472639425,
-    "wof:name":"Stout Moving Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461790414,
+    "wof:geomhash": "8e6e4ad3db7b9ca569e1f46c29b9c086",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705859591
+      }
+    ],
+    "wof:id": 705859591,
+    "wof:lastmodified": 1638567016,
+    "wof:name": "Stout Moving Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.619601,
     41.0485,
     -83.619601,
     41.0485
-],
+  ],
   "geometry": {"coordinates":[-83.619601,41.0485],"type":"Point"}
 }

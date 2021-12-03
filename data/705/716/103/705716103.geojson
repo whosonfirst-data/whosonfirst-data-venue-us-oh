@@ -2,61 +2,65 @@
   "id": 705716103,
   "type": "Feature",
   "properties": {
-    "addr:full":"1245 W Blee Rd Springfield OH 45502",
-    "addr:housenumber":"1245",
-    "addr:postcode":"45502",
-    "addr:street":"W Blee Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.833264,39.852139,-83.833264,39.852139",
-    "geom:latitude":39.852139,
-    "geom:longitude":-83.833264,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1245 W Blee Rd",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "1245 W Blee Rd Springfield OH 45502",
+    "addr:housenumber": "1245",
+    "addr:postcode": "45502",
+    "addr:street": "W Blee Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.833264,39.852139,-83.833264,39.852139",
+    "geom:latitude": 39.852139,
+    "geom:longitude": -83.833264,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1245 W Blee Rd",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 325 5090",
-    "sg:postcode":"45502",
-    "sg:province":"OH",
-    "sg:tags":[
-        "communication"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 325 5090",
+    "sg:postcode": "45502",
+    "sg:province": "OH",
+    "sg:tags": [
+      "communication"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ASU2sVeBvlfIqHXzKTwUB_39.852139_-83.833264@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ASU2sVeBvlfIqHXzKTwUB_39.852139_-83.833264@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787065,
-    "wof:geomhash":"d4b420f7da741d9e60913d61467eb1a0",
-    "wof:hierarchy":[],
-    "wof:id":705716103,
-    "wof:lastmodified":1472638425,
-    "wof:name":"L-3 Communications",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "communication"
+    "wof:country": "US",
+    "wof:created": 1461787065,
+    "wof:geomhash": "9ab4d3fdee5cd8ea0bf2557acf2ab761",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705716103
+      }
+    ],
+    "wof:id": 705716103,
+    "wof:lastmodified": 1638566932,
+    "wof:name": "L-3 Communications",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "communication"
     ]
-},
+  },
   "bbox": [
     -83.833264,
     39.852139,
     -83.833264,
     39.852139
-],
+  ],
   "geometry": {"coordinates":[-83.833264,39.852139],"type":"Point"}
 }

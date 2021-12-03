@@ -2,61 +2,65 @@
   "id": 689634777,
   "type": "Feature",
   "properties": {
-    "addr:full":"5627 Naomi Dr Milford OH 45150",
-    "addr:housenumber":"5627",
-    "addr:postcode":"45150",
-    "addr:street":"Naomi Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.230124,39.174792,-84.230124,39.174792",
-    "geom:latitude":39.174792,
-    "geom:longitude":-84.230124,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5627 Naomi Dr",
-    "sg:city":"Milford",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5627 Naomi Dr Milford OH 45150",
+    "addr:housenumber": "5627",
+    "addr:postcode": "45150",
+    "addr:street": "Naomi Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.230124,39.174792,-84.230124,39.174792",
+    "geom:latitude": 39.174792,
+    "geom:longitude": -84.230124,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5627 Naomi Dr",
+    "sg:city": "Milford",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 831 0529",
-    "sg:postcode":"45150",
-    "sg:province":"OH",
-    "sg:tags":[
-        "delivery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 831 0529",
+    "sg:postcode": "45150",
+    "sg:province": "OH",
+    "sg:tags": [
+      "delivery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0KVopC9LbGtsPrvSQ0LlbA_39.174792_-84.230124@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0KVopC9LbGtsPrvSQ0LlbA_39.174792_-84.230124@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777280,
-    "wof:geomhash":"eaaccca1b686b851f6174eb4fd22d3b3",
-    "wof:hierarchy":[],
-    "wof:id":689634777,
-    "wof:lastmodified":1472639506,
-    "wof:name":"Asap Delivery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delivery"
+    "wof:country": "US",
+    "wof:created": 1461777280,
+    "wof:geomhash": "5cbde2144c1dd6056b68909477f8ad00",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689634777
+      }
+    ],
+    "wof:id": 689634777,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Asap Delivery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delivery"
     ]
-},
+  },
   "bbox": [
     -84.230124,
     39.174792,
     -84.230124,
     39.174792
-],
+  ],
   "geometry": {"coordinates":[-84.230124,39.174792],"type":"Point"}
 }

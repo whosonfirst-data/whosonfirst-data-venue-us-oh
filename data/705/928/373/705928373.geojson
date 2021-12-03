@@ -2,61 +2,65 @@
   "id": 705928373,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 Royal Crest Dr Seville OH 44273",
-    "addr:housenumber":"120",
-    "addr:postcode":"44273",
-    "addr:street":"Royal Crest Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.86011,41.025728,-81.86011,41.025728",
-    "geom:latitude":41.025728,
-    "geom:longitude":-81.86011,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"120 Royal Crest Dr",
-    "sg:city":"Seville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "120 Royal Crest Dr Seville OH 44273",
+    "addr:housenumber": "120",
+    "addr:postcode": "44273",
+    "addr:street": "Royal Crest Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.860110,41.025728,-81.860110,41.025728",
+    "geom:latitude": 41.025728,
+    "geom:longitude": -81.86011,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "120 Royal Crest Dr",
+    "sg:city": "Seville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 769 4003",
-    "sg:postcode":"44273",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 769 4003",
+    "sg:postcode": "44273",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ocb4jUtY73FbNqfx4ueGf_41.025728_-81.860110@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ocb4jUtY73FbNqfx4ueGf_41.025728_-81.860110@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792027,
-    "wof:geomhash":"76cae7bad2ffdb0c653e8dc5fe034bef",
-    "wof:hierarchy":[],
-    "wof:id":705928373,
-    "wof:lastmodified":1472639660,
-    "wof:name":"Seville Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461792027,
+    "wof:geomhash": "5f75f17bca0013705592d91a26db2165",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705928373
+      }
+    ],
+    "wof:id": 705928373,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Seville Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -81.86011,
     41.025728,
     -81.86011,
     41.025728
-],
-  "geometry": {"coordinates":[-81.86011000000001,41.025728],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.86011,41.025728],"type":"Point"}
 }

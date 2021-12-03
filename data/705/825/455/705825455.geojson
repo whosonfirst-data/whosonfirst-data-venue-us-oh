@@ -2,61 +2,65 @@
   "id": 705825455,
   "type": "Feature",
   "properties": {
-    "addr:full":"5278 Transportation Blvd Cleveland OH 44125",
-    "addr:housenumber":"5278",
-    "addr:postcode":"44125",
-    "addr:street":"Transportation Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.616228,41.418121,-81.616228,41.418121",
-    "geom:latitude":41.418121,
-    "geom:longitude":-81.616228,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5278 Transportation Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5278 Transportation Blvd Cleveland OH 44125",
+    "addr:housenumber": "5278",
+    "addr:postcode": "44125",
+    "addr:street": "Transportation Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.616228,41.418121,-81.616228,41.418121",
+    "geom:latitude": 41.418121,
+    "geom:longitude": -81.616228,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5278 Transportation Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 475 5858",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 475 5858",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0gBRFt7ex9NWFUAmk8Ig7B_41.418121_-81.616228@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0gBRFt7ex9NWFUAmk8Ig7B_41.418121_-81.616228@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789621,
-    "wof:geomhash":"1c32f30720fb10575de1c23d09cdce6a",
-    "wof:hierarchy":[],
-    "wof:id":705825455,
-    "wof:lastmodified":1472639348,
-    "wof:name":"Robert E Block DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461789621,
+    "wof:geomhash": "dfa1cfcd11b5bed52eae648bf3c64d6d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705825455
+      }
+    ],
+    "wof:id": 705825455,
+    "wof:lastmodified": 1638567002,
+    "wof:name": "Robert E Block DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.616228,
     41.418121,
     -81.616228,
     41.418121
-],
-  "geometry": {"coordinates":[-81.61622800000001,41.418121],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.616228,41.418121],"type":"Point"}
 }

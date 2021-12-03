@@ -2,61 +2,65 @@
   "id": 706367505,
   "type": "Feature",
   "properties": {
-    "addr:full":"389 E Main St Batavia OH 45103",
-    "addr:housenumber":"389",
-    "addr:postcode":"45103",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.175538,39.07536,-84.175538,39.07536",
-    "geom:latitude":39.07536,
-    "geom:longitude":-84.175538,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"389 E Main St",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "389 E Main St Batavia OH 45103",
+    "addr:housenumber": "389",
+    "addr:postcode": "45103",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.175538,39.075360,-84.175538,39.075360",
+    "geom:latitude": 39.07536,
+    "geom:longitude": -84.175538,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "389 E Main St",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 732 2020",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 732 2020",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6x6A9fIE1x7bdzqvy3kfmI_39.075360_-84.175538@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6x6A9fIE1x7bdzqvy3kfmI_39.075360_-84.175538@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801760,
-    "wof:geomhash":"d8f0f8795c36865bb540f9ab97023adc",
-    "wof:hierarchy":[],
-    "wof:id":706367505,
-    "wof:lastmodified":1472639926,
-    "wof:name":"Batavia Village Adm",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461801760,
+    "wof:geomhash": "16590228a2d0fad2d5eb69472285d363",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706367505
+      }
+    ],
+    "wof:id": 706367505,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Batavia Village Adm",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.175538,
     39.07536,
     -84.175538,
     39.07536
-],
+  ],
   "geometry": {"coordinates":[-84.175538,39.07536],"type":"Point"}
 }

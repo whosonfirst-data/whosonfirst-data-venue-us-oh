@@ -2,61 +2,65 @@
   "id": 689898081,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 S 7th St Zanesville OH 43701",
-    "addr:housenumber":"129",
-    "addr:postcode":"43701",
-    "addr:street":"S 7Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.004254,39.937003,-82.004254,39.937003",
-    "geom:latitude":39.937003,
-    "geom:longitude":-82.004254,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"129 S 7th St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "129 S 7th St Zanesville OH 43701",
+    "addr:housenumber": "129",
+    "addr:postcode": "43701",
+    "addr:street": "S 7Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.004254,39.937003,-82.004254,39.937003",
+    "geom:latitude": 39.937003,
+    "geom:longitude": -82.004254,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "129 S 7th St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 8361",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 8361",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7HHwBCk3qP4R0Vn0iqQ5dV_39.937003_-82.004254@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7HHwBCk3qP4R0Vn0iqQ5dV_39.937003_-82.004254@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784510,
-    "wof:geomhash":"4694b9adec48387bf388721c63d1fc3c",
-    "wof:hierarchy":[],
-    "wof:id":689898081,
-    "wof:lastmodified":1472640028,
-    "wof:name":"Studio Z Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461784510,
+    "wof:geomhash": "592fb4c9adc6aa5ed761a8633f8299f0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689898081
+      }
+    ],
+    "wof:id": 689898081,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Studio Z Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -82.004254,
     39.937003,
     -82.004254,
     39.937003
-],
+  ],
   "geometry": {"coordinates":[-82.004254,39.937003],"type":"Point"}
 }

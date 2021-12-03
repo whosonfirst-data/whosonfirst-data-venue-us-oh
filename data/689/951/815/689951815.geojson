@@ -2,61 +2,65 @@
   "id": 689951815,
   "type": "Feature",
   "properties": {
-    "addr:full":"12250 W Sprague Rd Cleveland OH 44130",
-    "addr:housenumber":"12250",
-    "addr:postcode":"44130",
-    "addr:street":"W Sprague Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.775226,41.350793,-81.775226,41.350793",
-    "geom:latitude":41.350793,
-    "geom:longitude":-81.775226,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12250 W Sprague Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "12250 W Sprague Rd Cleveland OH 44130",
+    "addr:housenumber": "12250",
+    "addr:postcode": "44130",
+    "addr:street": "W Sprague Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.775226,41.350793,-81.775226,41.350793",
+    "geom:latitude": 41.350793,
+    "geom:longitude": -81.775226,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12250 W Sprague Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 888 1644",
-    "sg:postcode":"44130",
-    "sg:province":"OH",
-    "sg:tags":[
-        "sanitary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 888 1644",
+    "sg:postcode": "44130",
+    "sg:province": "OH",
+    "sg:tags": [
+      "sanitary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01ykcNUHjaV2O4avKyd95h_41.350793_-81.775226@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_01ykcNUHjaV2O4avKyd95h_41.350793_-81.775226@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785906,
-    "wof:geomhash":"0779f3e7f1d27f306deebb13f495b345",
-    "wof:hierarchy":[],
-    "wof:id":689951815,
-    "wof:lastmodified":1472640125,
-    "wof:name":"Supreme Snowplowing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sanitary"
+    "wof:country": "US",
+    "wof:created": 1461785906,
+    "wof:geomhash": "770beff26e98f537c44385dfd1781163",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689951815
+      }
+    ],
+    "wof:id": 689951815,
+    "wof:lastmodified": 1638567120,
+    "wof:name": "Supreme Snowplowing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sanitary"
     ]
-},
+  },
   "bbox": [
     -81.775226,
     41.350793,
     -81.775226,
     41.350793
-],
+  ],
   "geometry": {"coordinates":[-81.775226,41.350793],"type":"Point"}
 }

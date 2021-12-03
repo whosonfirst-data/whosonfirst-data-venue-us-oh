@@ -2,63 +2,67 @@
   "id": 689907601,
   "type": "Feature",
   "properties": {
-    "addr:full":"1049 Western Ave Chillicothe OH 45601",
-    "addr:housenumber":"1049",
-    "addr:postcode":"45601",
-    "addr:street":"Western Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.01412,39.333108,-83.01412,39.333108",
-    "geom:latitude":39.333108,
-    "geom:longitude":-83.01412,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1049 Western Ave",
-    "sg:city":"Chillicothe",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1049 Western Ave Chillicothe OH 45601",
+    "addr:housenumber": "1049",
+    "addr:postcode": "45601",
+    "addr:street": "Western Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.014120,39.333108,-83.014120,39.333108",
+    "geom:latitude": 39.333108,
+    "geom:longitude": -83.01412,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1049 Western Ave",
+    "sg:city": "Chillicothe",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 773 4366",
-    "sg:postcode":"45601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 773 4366",
+    "sg:postcode": "45601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2JWD50Uz0sX2rKEnudnE1W_39.333108_-83.014120@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2JWD50Uz0sX2rKEnudnE1W_39.333108_-83.014120@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784779,
-    "wof:geomhash":"3e7dcadf6380d1cd39d3050dd797a3a8",
-    "wof:hierarchy":[],
-    "wof:id":689907601,
-    "wof:lastmodified":1472640064,
-    "wof:name":"Family Healthcare Inc",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461784779,
+    "wof:geomhash": "4a57a671e605c3f0c266888993a2f7df",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689907601
+      }
+    ],
+    "wof:id": 689907601,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Family Healthcare Inc",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.01412,
     39.333108,
     -83.01412,
     39.333108
-],
-  "geometry": {"coordinates":[-83.01412000000001,39.333108],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.01412,39.333108],"type":"Point"}
 }

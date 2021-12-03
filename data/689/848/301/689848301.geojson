@@ -2,59 +2,63 @@
   "id": 689848301,
   "type": "Feature",
   "properties": {
-    "addr:full":"350 W High St Lima OH 45801",
-    "addr:housenumber":"350",
-    "addr:postcode":"45801",
-    "addr:street":"W High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.109321,40.741428,-84.109321,40.741428",
-    "geom:latitude":40.741428,
-    "geom:longitude":-84.109321,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"350 W High St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "350 W High St Lima OH 45801",
+    "addr:housenumber": "350",
+    "addr:postcode": "45801",
+    "addr:street": "W High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.109321,40.741428,-84.109321,40.741428",
+    "geom:latitude": 40.741428,
+    "geom:longitude": -84.109321,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "350 W High St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 228 7765",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3mjPLtXGpiP2eAbnJI3Ltb_40.741428_-84.109321@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 228 7765",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3mjPLtXGpiP2eAbnJI3Ltb_40.741428_-84.109321@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783277,
-    "wof:geomhash":"2be371bddd2c27f161e8cc60a1fced50",
-    "wof:hierarchy":[],
-    "wof:id":689848301,
-    "wof:lastmodified":1511320724,
-    "wof:name":"US Post Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461783277,
+    "wof:geomhash": "2be371bddd2c27f161e8cc60a1fced50",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689848301
+      }
+    ],
+    "wof:id": 689848301,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "US Post Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.109321,
     40.741428,
     -84.109321,
     40.741428
-],
-  "geometry": {"coordinates":[-84.10932099999999,40.741428],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.109321,40.741428],"type":"Point"}
 }

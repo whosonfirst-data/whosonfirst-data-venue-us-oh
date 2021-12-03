@@ -2,61 +2,65 @@
   "id": 706118975,
   "type": "Feature",
   "properties": {
-    "addr:full":"681 Alice St East Palestine OH 44413",
-    "addr:housenumber":"681",
-    "addr:postcode":"44413",
-    "addr:street":"Alice St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.527487,40.833444,-80.527487,40.833444",
-    "geom:latitude":40.833444,
-    "geom:longitude":-80.527487,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"681 Alice St",
-    "sg:city":"East Palestine",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "681 Alice St East Palestine OH 44413",
+    "addr:housenumber": "681",
+    "addr:postcode": "44413",
+    "addr:street": "Alice St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.527487,40.833444,-80.527487,40.833444",
+    "geom:latitude": 40.833444,
+    "geom:longitude": -80.527487,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "681 Alice St",
+    "sg:city": "East Palestine",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 3832",
-    "sg:postcode":"44413",
-    "sg:province":"OH",
-    "sg:tags":[
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 3832",
+    "sg:postcode": "44413",
+    "sg:province": "OH",
+    "sg:tags": [
+      "system"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76g3D6vygq5FlYUmKDnxDR_40.833444_-80.527487@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_76g3D6vygq5FlYUmKDnxDR_40.833444_-80.527487@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796244,
-    "wof:geomhash":"02a212edf7a68cfe2a79ceaf963cfcf4",
-    "wof:hierarchy":[],
-    "wof:id":706118975,
-    "wof:lastmodified":1472639319,
-    "wof:name":"Hunston Disposal",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "system"
+    "wof:country": "US",
+    "wof:created": 1461796244,
+    "wof:geomhash": "afda5163c76ddf9d57d0f433a7d305c9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706118975
+      }
+    ],
+    "wof:id": 706118975,
+    "wof:lastmodified": 1638567004,
+    "wof:name": "Hunston Disposal",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "system"
     ]
-},
+  },
   "bbox": [
     -80.527487,
     40.833444,
     -80.527487,
     40.833444
-],
-  "geometry": {"coordinates":[-80.52748699999999,40.833444],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.527487,40.833444],"type":"Point"}
 }

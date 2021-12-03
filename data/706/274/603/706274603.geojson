@@ -2,61 +2,65 @@
   "id": 706274603,
   "type": "Feature",
   "properties": {
-    "addr:full":"8200 Business Way Plain City OH 43064",
-    "addr:housenumber":"8200",
-    "addr:postcode":"43064",
-    "addr:street":"Business Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.197651,40.13234,-83.197651,40.13234",
-    "geom:latitude":40.13234,
-    "geom:longitude":-83.197651,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8200 Business Way",
-    "sg:city":"Plain City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "8200 Business Way Plain City OH 43064",
+    "addr:housenumber": "8200",
+    "addr:postcode": "43064",
+    "addr:street": "Business Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.197651,40.132340,-83.197651,40.132340",
+    "geom:latitude": 40.13234,
+    "geom:longitude": -83.197651,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8200 Business Way",
+    "sg:city": "Plain City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 873 0088",
-    "sg:postcode":"43064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appliance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 873 0088",
+    "sg:postcode": "43064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appliance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5a5OstEHxAW8eBGq6kKdaJ_40.132340_-83.197651@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5a5OstEHxAW8eBGq6kKdaJ_40.132340_-83.197651@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799718,
-    "wof:geomhash":"a79b144cbfb59caf9ca69241c974338f",
-    "wof:hierarchy":[],
-    "wof:id":706274603,
-    "wof:lastmodified":1472639636,
-    "wof:name":"Northwest Appliance Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appliance"
+    "wof:country": "US",
+    "wof:created": 1461799718,
+    "wof:geomhash": "cc2f55805ba6b4f8c1006664976db721",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706274603
+      }
+    ],
+    "wof:id": 706274603,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Northwest Appliance Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appliance"
     ]
-},
+  },
   "bbox": [
     -83.197651,
     40.13234,
     -83.197651,
     40.13234
-],
-  "geometry": {"coordinates":[-83.19765099999999,40.13234],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.197651,40.13234],"type":"Point"}
 }

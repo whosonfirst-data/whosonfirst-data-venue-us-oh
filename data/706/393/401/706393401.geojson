@@ -2,61 +2,65 @@
   "id": 706393401,
   "type": "Feature",
   "properties": {
-    "addr:full":"3746 Walnut Hills Ave Cleveland OH 44122",
-    "addr:housenumber":"3746",
-    "addr:postcode":"44122",
-    "addr:street":"Walnut Hills Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.485838,41.456541,-81.485838,41.456541",
-    "geom:latitude":41.456541,
-    "geom:longitude":-81.485838,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3746 Walnut Hills Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3746 Walnut Hills Ave Cleveland OH 44122",
+    "addr:housenumber": "3746",
+    "addr:postcode": "44122",
+    "addr:street": "Walnut Hills Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.485838,41.456541,-81.485838,41.456541",
+    "geom:latitude": 41.456541,
+    "geom:longitude": -81.485838,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3746 Walnut Hills Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 292 9181",
-    "sg:postcode":"44122",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 292 9181",
+    "sg:postcode": "44122",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5J1m1bJMEc06lUV24DmZGO_41.456541_-81.485838@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5J1m1bJMEc06lUV24DmZGO_41.456541_-81.485838@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802269,
-    "wof:geomhash":"1ab77c94ba7b9354adc86fa3310a90ab",
-    "wof:hierarchy":[],
-    "wof:id":706393401,
-    "wof:lastmodified":1472639972,
-    "wof:name":"Burns Family Store",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461802269,
+    "wof:geomhash": "ed4a511560e9bb6e2ee620445981c86d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706393401
+      }
+    ],
+    "wof:id": 706393401,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Burns Family Store",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -81.485838,
     41.456541,
     -81.485838,
     41.456541
-],
+  ],
   "geometry": {"coordinates":[-81.485838,41.456541],"type":"Point"}
 }

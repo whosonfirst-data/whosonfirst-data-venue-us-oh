@@ -2,66 +2,70 @@
   "id": 706577225,
   "type": "Feature",
   "properties": {
-    "addr:full":"1206 Indiana Ave Saint Marys OH 45885",
-    "addr:housenumber":"1206",
-    "addr:postcode":"45885",
-    "addr:street":"Indiana Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.40457,40.550896,-84.40457,40.550896",
-    "geom:latitude":40.550896,
-    "geom:longitude":-84.40457,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1206 Indiana Ave",
-    "sg:city":"Saint Marys",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1206 Indiana Ave Saint Marys OH 45885",
+    "addr:housenumber": "1206",
+    "addr:postcode": "45885",
+    "addr:street": "Indiana Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.404570,40.550896,-84.404570,40.550896",
+    "geom:latitude": 40.550896,
+    "geom:longitude": -84.40457,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1206 Indiana Ave",
+    "sg:city": "Saint Marys",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/st-marys/194897-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45885",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/st-marys/194897-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45885",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6DpQUYMLgAKDRQYzl209Kl_40.550896_-84.404570@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6DpQUYMLgAKDRQYzl209Kl_40.550896_-84.404570@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806246,
-    "wof:geomhash":"2d1f55cf0dd7c9cd3656013e94accc91",
-    "wof:hierarchy":[],
-    "wof:id":706577225,
-    "wof:lastmodified":1512142844,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806246,
+    "wof:geomhash": "2d1f55cf0dd7c9cd3656013e94accc91",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706577225
+      }
+    ],
+    "wof:id": 706577225,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.40457,
     40.550896,
     -84.40457,
     40.550896
-],
-  "geometry": {"coordinates":[-84.40457000000001,40.550896],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.40457,40.550896],"type":"Point"}
 }

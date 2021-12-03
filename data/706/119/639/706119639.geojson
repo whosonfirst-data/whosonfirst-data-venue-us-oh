@@ -2,56 +2,60 @@
   "id": 706119639,
   "type": "Feature",
   "properties": {
-    "addr:full":"9523 Co Rd 20 Galion OH 44833",
-    "addr:housenumber":"9523;20",
-    "addr:postcode":"44833",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.717775,40.695508,-82.717775,40.695508",
-    "geom:latitude":40.695508,
-    "geom:longitude":-82.717775,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9523 Co Rd 20",
-    "sg:city":"Galion",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "9523 Co Rd 20 Galion OH 44833",
+    "addr:housenumber": "9523;20",
+    "addr:postcode": "44833",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.717775,40.695508,-82.717775,40.695508",
+    "geom:latitude": 40.695508,
+    "geom:longitude": -82.717775,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9523 Co Rd 20",
+    "sg:city": "Galion",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 468 4300",
-    "sg:postcode":"44833",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5HZH2TZogrtr51Gephe8SC_40.695508_-82.717775@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 468 4300",
+    "sg:postcode": "44833",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5HZH2TZogrtr51Gephe8SC_40.695508_-82.717775@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796259,
-    "wof:geomhash":"28ad66efd8a00b71436bab1d0b80a13c",
-    "wof:hierarchy":[],
-    "wof:id":706119639,
-    "wof:lastmodified":1472639296,
-    "wof:name":"68 Caliber Paintball & Supply",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461796259,
+    "wof:geomhash": "ab728cbe18dbdd5f11d4819ec0f41174",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706119639
+      }
+    ],
+    "wof:id": 706119639,
+    "wof:lastmodified": 1638567005,
+    "wof:name": "68 Caliber Paintball \u0026 Supply",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.717775,
     40.695508,
     -82.717775,
     40.695508
-],
+  ],
   "geometry": {"coordinates":[-82.717775,40.695508],"type":"Point"}
 }

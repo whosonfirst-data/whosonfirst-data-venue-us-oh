@@ -2,61 +2,65 @@
   "id": 705781245,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Main St Greenwich OH 44837",
-    "addr:housenumber":"1",
-    "addr:postcode":"44837",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.519719,41.029911,-82.519719,41.029911",
-    "geom:latitude":41.029911,
-    "geom:longitude":-82.519719,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 Main St",
-    "sg:city":"Greenwich",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1 Main St Greenwich OH 44837",
+    "addr:housenumber": "1",
+    "addr:postcode": "44837",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.519719,41.029911,-82.519719,41.029911",
+    "geom:latitude": 41.029911,
+    "geom:longitude": -82.519719,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1 Main St",
+    "sg:city": "Greenwich",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 752 6994",
-    "sg:postcode":"44837",
-    "sg:province":"OH",
-    "sg:tags":[
-        "oil"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 752 6994",
+    "sg:postcode": "44837",
+    "sg:province": "OH",
+    "sg:tags": [
+      "oil"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0u70TZN83yqm46F4E4MhmT_41.029911_-82.519719@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0u70TZN83yqm46F4E4MhmT_41.029911_-82.519719@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788583,
-    "wof:geomhash":"d67b5b10292807db11a91f24b27a14e2",
-    "wof:hierarchy":[],
-    "wof:id":705781245,
-    "wof:lastmodified":1472639234,
-    "wof:name":"Greenwich Gas & Svc Station",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "oil"
+    "wof:country": "US",
+    "wof:created": 1461788583,
+    "wof:geomhash": "a29cb79ef408d9840ea2ece27e685943",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705781245
+      }
+    ],
+    "wof:id": 705781245,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Greenwich Gas \u0026 Svc Station",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "oil"
     ]
-},
+  },
   "bbox": [
     -82.519719,
     41.029911,
     -82.519719,
     41.029911
-],
-  "geometry": {"coordinates":[-82.51971899999999,41.029911],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.519719,41.029911],"type":"Point"}
 }

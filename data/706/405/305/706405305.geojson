@@ -2,72 +2,76 @@
   "id": 706405305,
   "type": "Feature",
   "properties": {
-    "addr:full":"8440 Main St Kinsman OH 44428",
-    "addr:housenumber":"8440",
-    "addr:postcode":"44428",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.58356,41.449714,-80.58356,41.449714",
-    "geom:latitude":41.449714,
-    "geom:longitude":-80.58356,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8440 Main St",
-    "sg:city":"Kinsman",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Music",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Rental",
-            "type":"Entertainment"
-        }
+    "addr:full": "8440 Main St Kinsman OH 44428",
+    "addr:housenumber": "8440",
+    "addr:postcode": "44428",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.583560,41.449714,-80.583560,41.449714",
+    "geom:latitude": 41.449714,
+    "geom:longitude": -80.58356,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8440 Main St",
+    "sg:city": "Kinsman",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Music",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Rental",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 876 1675",
-    "sg:postcode":"44428",
-    "sg:province":"OH",
-    "sg:tags":[
-        "video",
-        "disc",
-        "tape",
-        "cassette"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 876 1675",
+    "sg:postcode": "44428",
+    "sg:province": "OH",
+    "sg:tags": [
+      "video",
+      "disc",
+      "tape",
+      "cassette"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5PqIOGBqS5PK0mzQg1hO50_41.449714_-80.583560@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5PqIOGBqS5PK0mzQg1hO50_41.449714_-80.583560@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802506,
-    "wof:geomhash":"503a991dea2829010feb82c055650979",
-    "wof:hierarchy":[],
-    "wof:id":706405305,
-    "wof:lastmodified":1472639990,
-    "wof:name":"Video Shoppe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "video",
-        "disc",
-        "tape",
-        "cassette"
+    "wof:country": "US",
+    "wof:created": 1461802506,
+    "wof:geomhash": "ccba4e2727f9d39c6606fc4a766dab25",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706405305
+      }
+    ],
+    "wof:id": 706405305,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Video Shoppe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "video",
+      "disc",
+      "tape",
+      "cassette"
     ]
-},
+  },
   "bbox": [
     -80.58356,
     41.449714,
     -80.58356,
     41.449714
-],
-  "geometry": {"coordinates":[-80.58356000000001,41.449714],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.58356,41.449714],"type":"Point"}
 }

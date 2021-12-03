@@ -2,63 +2,67 @@
   "id": 706241629,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 N Main St Jackson Center OH 45334",
-    "addr:housenumber":"101",
-    "addr:postcode":"45334",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.040145,40.44063,-84.040145,40.44063",
-    "geom:latitude":40.44063,
-    "geom:longitude":-84.040145,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 N Main St",
-    "sg:city":"Jackson Center",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "101 N Main St Jackson Center OH 45334",
+    "addr:housenumber": "101",
+    "addr:postcode": "45334",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.040145,40.440630,-84.040145,40.440630",
+    "geom:latitude": 40.44063,
+    "geom:longitude": -84.040145,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 N Main St",
+    "sg:city": "Jackson Center",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 596 6005",
-    "sg:postcode":"45334",
-    "sg:province":"OH",
-    "sg:tags":[
-        "lounge",
-        "cocktail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 596 6005",
+    "sg:postcode": "45334",
+    "sg:province": "OH",
+    "sg:tags": [
+      "lounge",
+      "cocktail"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6a6fguBzxr9SRn2RLIu6DK_40.440630_-84.040145@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6a6fguBzxr9SRn2RLIu6DK_40.440630_-84.040145@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798988,
-    "wof:geomhash":"9514d633dc7e9e2a52ed3b17cc580b46",
-    "wof:hierarchy":[],
-    "wof:id":706241629,
-    "wof:lastmodified":1472639588,
-    "wof:name":"Friends Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lounge",
-        "cocktail"
+    "wof:country": "US",
+    "wof:created": 1461798988,
+    "wof:geomhash": "16ac082c7c2dca3b17123f4395c3fe41",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706241629
+      }
+    ],
+    "wof:id": 706241629,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Friends Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lounge",
+      "cocktail"
     ]
-},
+  },
   "bbox": [
     -84.040145,
     40.44063,
     -84.040145,
     40.44063
-],
+  ],
   "geometry": {"coordinates":[-84.040145,40.44063],"type":"Point"}
 }

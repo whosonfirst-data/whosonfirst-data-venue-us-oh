@@ -2,61 +2,65 @@
   "id": 706121643,
   "type": "Feature",
   "properties": {
-    "addr:full":"801 N Shoop Ave Napoleon OH 43567",
-    "addr:housenumber":"801",
-    "addr:postcode":"43567",
-    "addr:street":"N Shoop Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.134516,41.556679,-84.134516,41.556679",
-    "geom:latitude":41.556679,
-    "geom:longitude":-84.134516,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"801 N Shoop Ave",
-    "sg:city":"Napoleon",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "801 N Shoop Ave Napoleon OH 43567",
+    "addr:housenumber": "801",
+    "addr:postcode": "43567",
+    "addr:street": "N Shoop Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.134516,41.556679,-84.134516,41.556679",
+    "geom:latitude": 41.556679,
+    "geom:longitude": -84.134516,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "801 N Shoop Ave",
+    "sg:city": "Napoleon",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 335 2556",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 335 2556",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0N2Qo69cPqA0ipJYf8cXnE_41.556679_-84.134516@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0N2Qo69cPqA0ipJYf8cXnE_41.556679_-84.134516@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796302,
-    "wof:geomhash":"db9d01e07a2bc2c9c8263a237c4a4558",
-    "wof:hierarchy":[],
-    "wof:id":706121643,
-    "wof:lastmodified":1472639304,
-    "wof:name":"Tom S Lutz",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461796302,
+    "wof:geomhash": "767ebd66b40c2ac7d7d1af91468178d0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706121643
+      }
+    ],
+    "wof:id": 706121643,
+    "wof:lastmodified": 1638567004,
+    "wof:name": "Tom S Lutz",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -84.134516,
     41.556679,
     -84.134516,
     41.556679
-],
+  ],
   "geometry": {"coordinates":[-84.134516,41.556679],"type":"Point"}
 }

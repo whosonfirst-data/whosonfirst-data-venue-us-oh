@@ -2,66 +2,70 @@
   "id": 706572737,
   "type": "Feature",
   "properties": {
-    "addr:full":"780 Arlington Rd Brookville OH 45309",
-    "addr:housenumber":"780",
-    "addr:postcode":"45309",
-    "addr:street":"Arlington Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.424842,39.844633,-84.424842,39.844633",
-    "geom:latitude":39.844633,
-    "geom:longitude":-84.424842,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"780 Arlington Rd",
-    "sg:city":"Brookville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "780 Arlington Rd Brookville OH 45309",
+    "addr:housenumber": "780",
+    "addr:postcode": "45309",
+    "addr:street": "Arlington Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.424842,39.844633,-84.424842,39.844633",
+    "geom:latitude": 39.844633,
+    "geom:longitude": -84.424842,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "780 Arlington Rd",
+    "sg:city": "Brookville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/clay/141794-waffle-house/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 833 6375",
-    "sg:postcode":"45309",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/clay/141794-waffle-house/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 833 6375",
+    "sg:postcode": "45309",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574927,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":181835635,
-        "sg:id":"SG_2fWGKTIEuYptLqX88GZidK_39.844633_-84.424842@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574927,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 181835635,
+      "sg:id": "SG_2fWGKTIEuYptLqX88GZidK_39.844633_-84.424842@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806115,
-    "wof:geomhash":"33c3775a3fce46444c107e3dd521d712",
-    "wof:hierarchy":[],
-    "wof:id":706572737,
-    "wof:lastmodified":1510943117,
-    "wof:name":"Waffle House",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806115,
+    "wof:geomhash": "33c3775a3fce46444c107e3dd521d712",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706572737
+      }
+    ],
+    "wof:id": 706572737,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Waffle House",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.424842,
     39.844633,
     -84.424842,
     39.844633
-],
+  ],
   "geometry": {"coordinates":[-84.424842,39.844633],"type":"Point"}
 }

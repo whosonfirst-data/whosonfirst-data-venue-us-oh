@@ -2,67 +2,71 @@
   "id": 706508365,
   "type": "Feature",
   "properties": {
-    "addr:full":"702 Main St Wellsville OH 43968",
-    "addr:housenumber":"702",
-    "addr:postcode":"43968",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.645484,40.60599,-80.645484,40.60599",
-    "geom:latitude":40.60599,
-    "geom:longitude":-80.645484,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"702 Main St",
-    "sg:city":"Wellsville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "702 Main St Wellsville OH 43968",
+    "addr:housenumber": "702",
+    "addr:postcode": "43968",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.645484,40.605990,-80.645484,40.605990",
+    "geom:latitude": 40.60599,
+    "geom:longitude": -80.645484,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "702 Main St",
+    "sg:city": "Wellsville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 532 4431",
-    "sg:postcode":"43968",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "medical",
-        "surgeon",
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 532 4431",
+    "sg:postcode": "43968",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "medical",
+      "surgeon",
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1UIFeyfvncE0lOeEAENPCa_40.605962_-80.645418@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1UIFeyfvncE0lOeEAENPCa_40.605962_-80.645418@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461804813,
-    "wof:geomhash":"a596947251c0ed611914177ca9665211",
-    "wof:hierarchy":[],
-    "wof:id":706508365,
-    "wof:lastmodified":1472640138,
-    "wof:name":"Wellsville Medical Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "medical",
-        "surgeon",
-        "center"
+    "wof:country": "US",
+    "wof:created": 1461804813,
+    "wof:geomhash": "17400f2360591901b031b13620049373",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706508365
+      }
+    ],
+    "wof:id": 706508365,
+    "wof:lastmodified": 1638567129,
+    "wof:name": "Wellsville Medical Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "medical",
+      "surgeon",
+      "center"
     ]
-},
+  },
   "bbox": [
     -80.645484,
     40.60599,
     -80.645484,
     40.60599
-],
+  ],
   "geometry": {"coordinates":[-80.645484,40.60599],"type":"Point"}
 }

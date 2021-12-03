@@ -2,66 +2,70 @@
   "id": 706582489,
   "type": "Feature",
   "properties": {
-    "addr:full":"825 N Main St Orrville OH 44667",
-    "addr:housenumber":"825",
-    "addr:postcode":"44667",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.764059,40.846587,-81.764059,40.846587",
-    "geom:latitude":40.846587,
-    "geom:longitude":-81.764059,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"825 N Main St",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "825 N Main St Orrville OH 44667",
+    "addr:housenumber": "825",
+    "addr:postcode": "44667",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.764059,40.846587,-81.764059,40.846587",
+    "geom:latitude": 40.846587,
+    "geom:longitude": -81.764059,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "825 N Main St",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/smithville/195476-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/smithville/195476-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3IGYyrsCogw0IyPrRs1AXK_40.847112_-81.764068@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3IGYyrsCogw0IyPrRs1AXK_40.847112_-81.764068@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806373,
-    "wof:geomhash":"183ccd86438cfdb5552d19c13792bc81",
-    "wof:hierarchy":[],
-    "wof:id":706582489,
-    "wof:lastmodified":1512142993,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806373,
+    "wof:geomhash": "183ccd86438cfdb5552d19c13792bc81",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706582489
+      }
+    ],
+    "wof:id": 706582489,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -81.764059,
     40.846587,
     -81.764059,
     40.846587
-],
+  ],
   "geometry": {"coordinates":[-81.764059,40.846587],"type":"Point"}
 }

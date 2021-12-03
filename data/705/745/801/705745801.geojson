@@ -2,61 +2,65 @@
   "id": 705745801,
   "type": "Feature",
   "properties": {
-    "addr:full":"8090 Wilhite Dr Wadsworth OH 44281",
-    "addr:housenumber":"8090",
-    "addr:postcode":"44281",
-    "addr:street":"Wilhite Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.705346,41.054645,-81.705346,41.054645",
-    "geom:latitude":41.054645,
-    "geom:longitude":-81.705346,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8090 Wilhite Dr",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "8090 Wilhite Dr Wadsworth OH 44281",
+    "addr:housenumber": "8090",
+    "addr:postcode": "44281",
+    "addr:street": "Wilhite Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.705346,41.054645,-81.705346,41.054645",
+    "geom:latitude": 41.054645,
+    "geom:longitude": -81.705346,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8090 Wilhite Dr",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 335 2528",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 335 2528",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4rwI4ss4YZ1TZDjofrdsbk_41.054645_-81.705346@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4rwI4ss4YZ1TZDjofrdsbk_41.054645_-81.705346@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787767,
-    "wof:geomhash":"c082926f134bcb0c273a29b25e2170ad",
-    "wof:hierarchy":[],
-    "wof:id":705745801,
-    "wof:lastmodified":1472639145,
-    "wof:name":"Wilhite Painting Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461787767,
+    "wof:geomhash": "005f1979805e8e97cdd6eef7b62ecfec",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705745801
+      }
+    ],
+    "wof:id": 705745801,
+    "wof:lastmodified": 1638566960,
+    "wof:name": "Wilhite Painting Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -81.705346,
     41.054645,
     -81.705346,
     41.054645
-],
-  "geometry": {"coordinates":[-81.70534600000001,41.054645],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.705346,41.054645],"type":"Point"}
 }

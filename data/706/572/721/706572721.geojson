@@ -2,67 +2,71 @@
   "id": 706572721,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 W State St Botkins OH 45306",
-    "addr:housenumber":"500",
-    "addr:postcode":"45306",
-    "addr:street":"W State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.186734,40.467704,-84.186734,40.467704",
-    "geom:latitude":40.467704,
-    "geom:longitude":-84.186734,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"500 W State St",
-    "sg:city":"Botkins",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "500 W State St Botkins OH 45306",
+    "addr:housenumber": "500",
+    "addr:postcode": "45306",
+    "addr:street": "W State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.186734,40.467704,-84.186734,40.467704",
+    "geom:latitude": 40.467704,
+    "geom:longitude": -84.186734,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "500 W State St",
+    "sg:city": "Botkins",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/dinsmore/134618-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 693 3060",
-    "sg:postcode":"45306",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/dinsmore/134618-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 693 3060",
+    "sg:postcode": "45306",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5OxZ4gtwzbdUL6t8fS0hKQ_40.467704_-84.186734@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5OxZ4gtwzbdUL6t8fS0hKQ_40.467704_-84.186734@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806115,
-    "wof:geomhash":"07cd0180e424bc5bc58f79bfcec7c0e1",
-    "wof:hierarchy":[],
-    "wof:id":706572721,
-    "wof:lastmodified":1511322293,
-    "wof:name":"Subway",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806115,
+    "wof:geomhash": "07cd0180e424bc5bc58f79bfcec7c0e1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706572721
+      }
+    ],
+    "wof:id": 706572721,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Subway",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -84.186734,
     40.467704,
     -84.186734,
     40.467704
-],
+  ],
   "geometry": {"coordinates":[-84.186734,40.467704],"type":"Point"}
 }

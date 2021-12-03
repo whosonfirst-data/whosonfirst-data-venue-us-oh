@@ -2,61 +2,65 @@
   "id": 706316365,
   "type": "Feature",
   "properties": {
-    "addr:full":"5775 Engle Rd Cleveland OH 44142",
-    "addr:housenumber":"5775",
-    "addr:postcode":"44142",
-    "addr:street":"Engle Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.82269,41.403638,-81.82269,41.403638",
-    "geom:latitude":41.403638,
-    "geom:longitude":-81.82269,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5775 Engle Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Parking",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5775 Engle Rd Cleveland OH 44142",
+    "addr:housenumber": "5775",
+    "addr:postcode": "44142",
+    "addr:street": "Engle Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.822690,41.403638,-81.822690,41.403638",
+    "geom:latitude": 41.403638,
+    "geom:longitude": -81.82269,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5775 Engle Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Parking",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 267 7368",
-    "sg:postcode":"44142",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 267 7368",
+    "sg:postcode": "44142",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1DrJRjKuVO4VAC2oEbDJs0_41.403638_-81.822690@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1DrJRjKuVO4VAC2oEbDJs0_41.403638_-81.822690@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800647,
-    "wof:geomhash":"60d39071efa88986b5fe2289b3a7c9e2",
-    "wof:hierarchy":[],
-    "wof:id":706316365,
-    "wof:lastmodified":1472639780,
-    "wof:name":"First Choice Valet Parking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garage"
+    "wof:country": "US",
+    "wof:created": 1461800647,
+    "wof:geomhash": "fa421eb09187f8a4c84aa6bcc4ffc48d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706316365
+      }
+    ],
+    "wof:id": 706316365,
+    "wof:lastmodified": 1638567083,
+    "wof:name": "First Choice Valet Parking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garage"
     ]
-},
+  },
   "bbox": [
     -81.82269,
     41.403638,
     -81.82269,
     41.403638
-],
-  "geometry": {"coordinates":[-81.82268999999999,41.403638],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.82269,41.403638],"type":"Point"}
 }

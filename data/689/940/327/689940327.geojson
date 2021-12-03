@@ -2,61 +2,65 @@
   "id": 689940327,
   "type": "Feature",
   "properties": {
-    "addr:full":"108 S Main St Van Buren OH 45889",
-    "addr:housenumber":"108",
-    "addr:postcode":"45889",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.649479,41.137896,-83.649479,41.137896",
-    "geom:latitude":41.137896,
-    "geom:longitude":-83.649479,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"108 S Main St",
-    "sg:city":"Van Buren",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Natural Gas",
-            "type":"Services"
-        }
+    "addr:full": "108 S Main St Van Buren OH 45889",
+    "addr:housenumber": "108",
+    "addr:postcode": "45889",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.649479,41.137896,-83.649479,41.137896",
+    "geom:latitude": 41.137896,
+    "geom:longitude": -83.649479,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "108 S Main St",
+    "sg:city": "Van Buren",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Natural Gas",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 299 3330",
-    "sg:postcode":"45889",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 299 3330",
+    "sg:postcode": "45889",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6jNL3mA6FmUAl1pR32FZWo_41.137896_-83.649479@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6jNL3mA6FmUAl1pR32FZWo_41.137896_-83.649479@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785618,
-    "wof:geomhash":"de3c67d3194de72214d6034e7c919dd5",
-    "wof:hierarchy":[],
-    "wof:id":689940327,
-    "wof:lastmodified":1472640096,
-    "wof:name":"Arlington Natural Gas Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company"
+    "wof:country": "US",
+    "wof:created": 1461785618,
+    "wof:geomhash": "b719b51132bc32202eff833adb205d5b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689940327
+      }
+    ],
+    "wof:id": 689940327,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "Arlington Natural Gas Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company"
     ]
-},
+  },
   "bbox": [
     -83.649479,
     41.137896,
     -83.649479,
     41.137896
-],
+  ],
   "geometry": {"coordinates":[-83.649479,41.137896],"type":"Point"}
 }

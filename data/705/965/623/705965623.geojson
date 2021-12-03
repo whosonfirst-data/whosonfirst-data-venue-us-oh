@@ -2,61 +2,65 @@
   "id": 705965623,
   "type": "Feature",
   "properties": {
-    "addr:full":"3970 Logan Way Youngstown OH 44505",
-    "addr:housenumber":"3970",
-    "addr:postcode":"44505",
-    "addr:street":"Logan Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.634007,41.15375,-80.634007,41.15375",
-    "geom:latitude":41.15375,
-    "geom:longitude":-80.634007,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3970 Logan Way",
-    "sg:city":"Youngstown",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3970 Logan Way Youngstown OH 44505",
+    "addr:housenumber": "3970",
+    "addr:postcode": "44505",
+    "addr:street": "Logan Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.634007,41.153750,-80.634007,41.153750",
+    "geom:latitude": 41.15375,
+    "geom:longitude": -80.634007,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3970 Logan Way",
+    "sg:city": "Youngstown",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 759 2167",
-    "sg:postcode":"44505",
-    "sg:province":"OH",
-    "sg:tags":[
-        "synagogue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 759 2167",
+    "sg:postcode": "44505",
+    "sg:province": "OH",
+    "sg:tags": [
+      "synagogue"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3q53pjQMKvzPRGAN5JPd8N_41.153750_-80.634007@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3q53pjQMKvzPRGAN5JPd8N_41.153750_-80.634007@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792876,
-    "wof:geomhash":"289e7f58dac1e2571df02837787748fa",
-    "wof:hierarchy":[],
-    "wof:id":705965623,
-    "wof:lastmodified":1472639731,
-    "wof:name":"Children Of Israel Cngrgtn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "synagogue"
+    "wof:country": "US",
+    "wof:created": 1461792876,
+    "wof:geomhash": "96bf5eaa29a3ff850e5329e04a0c5d89",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705965623
+      }
+    ],
+    "wof:id": 705965623,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Children Of Israel Cngrgtn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "synagogue"
     ]
-},
+  },
   "bbox": [
     -80.634007,
     41.15375,
     -80.634007,
     41.15375
-],
+  ],
   "geometry": {"coordinates":[-80.634007,41.15375],"type":"Point"}
 }

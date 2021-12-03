@@ -2,61 +2,65 @@
   "id": 689794685,
   "type": "Feature",
   "properties": {
-    "addr:full":"107 E Franklin St Dayton OH 45459",
-    "addr:housenumber":"107",
-    "addr:postcode":"45459",
-    "addr:street":"E Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.15446,39.628646,-84.15446,39.628646",
-    "geom:latitude":39.628646,
-    "geom:longitude":-84.15446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"107 E Franklin St",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "107 E Franklin St Dayton OH 45459",
+    "addr:housenumber": "107",
+    "addr:postcode": "45459",
+    "addr:street": "E Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.154460,39.628646,-84.154460,39.628646",
+    "geom:latitude": 39.628646,
+    "geom:longitude": -84.15446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "107 E Franklin St",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 435 6030",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 435 6030",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4RAZpRNkQ2PPFPMJ2CQZSW_39.628646_-84.154460@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4RAZpRNkQ2PPFPMJ2CQZSW_39.628646_-84.154460@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781700,
-    "wof:geomhash":"2a8b22df34a94d8843fa4e180278947a",
-    "wof:hierarchy":[],
-    "wof:id":689794685,
-    "wof:lastmodified":1472639867,
-    "wof:name":"David H Ellinger DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461781700,
+    "wof:geomhash": "4c47cc8471c12e80f231636441ebe7a6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689794685
+      }
+    ],
+    "wof:id": 689794685,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "David H Ellinger DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.15446,
     39.628646,
     -84.15446,
     39.628646
-],
+  ],
   "geometry": {"coordinates":[-84.15446,39.628646],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706320763,
   "type": "Feature",
   "properties": {
-    "addr:full":"1818 Chapel Dr Findlay OH 45840",
-    "addr:housenumber":"1818",
-    "addr:postcode":"45840",
-    "addr:street":"Chapel Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.652908,41.018391,-83.652908,41.018391",
-    "geom:latitude":41.018391,
-    "geom:longitude":-83.652908,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1818 Chapel Dr",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1818 Chapel Dr Findlay OH 45840",
+    "addr:housenumber": "1818",
+    "addr:postcode": "45840",
+    "addr:street": "Chapel Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.652908,41.018391,-83.652908,41.018391",
+    "geom:latitude": 41.018391,
+    "geom:longitude": -83.652908,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1818 Chapel Dr",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 427 2900",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 427 2900",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_62hWyIYukXtg1wr42W7dBL_41.018391_-83.652908@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_62hWyIYukXtg1wr42W7dBL_41.018391_-83.652908@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800743,
-    "wof:geomhash":"879c06e1af2f6640f6f111905323601a",
-    "wof:hierarchy":[],
-    "wof:id":706320763,
-    "wof:lastmodified":1472639813,
-    "wof:name":"Dr Safadi & Assoc Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461800743,
+    "wof:geomhash": "0b28b6e9b8380a9b5f8a807ca04434da",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706320763
+      }
+    ],
+    "wof:id": 706320763,
+    "wof:lastmodified": 1638567087,
+    "wof:name": "Dr Safadi \u0026 Assoc Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.652908,
     41.018391,
     -83.652908,
     41.018391
-],
+  ],
   "geometry": {"coordinates":[-83.652908,41.018391],"type":"Point"}
 }

@@ -2,66 +2,70 @@
   "id": 689725291,
   "type": "Feature",
   "properties": {
-    "addr:full":"5543 Bigger Rd Dayton OH 45440",
-    "addr:housenumber":"5543",
-    "addr:postcode":"45440",
-    "addr:street":"Bigger Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.126795,39.661817,-84.126795,39.661817",
-    "geom:latitude":39.661817,
-    "geom:longitude":-84.126795,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"5543 Bigger Rd",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Investment Brokerage",
-            "type":"Services"
-        }
+    "addr:full": "5543 Bigger Rd Dayton OH 45440",
+    "addr:housenumber": "5543",
+    "addr:postcode": "45440",
+    "addr:street": "Bigger Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.126795,39.661817,-84.126795,39.661817",
+    "geom:latitude": 39.661817,
+    "geom:longitude": -84.126795,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "5543 Bigger Rd",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Investment Brokerage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 435 4403",
-    "sg:postcode":"45440",
-    "sg:province":"OH",
-    "sg:tags":[
-        "advisory",
-        "financial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 435 4403",
+    "sg:postcode": "45440",
+    "sg:province": "OH",
+    "sg:tags": [
+      "advisory",
+      "financial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574141,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4CUs4ppLJgd83xuP4DO7un_39.661817_-84.126795@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574141,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4CUs4ppLJgd83xuP4DO7un_39.661817_-84.126795@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779808,
-    "wof:geomhash":"73f639d9d0a4d8a10aa25628d334a851",
-    "wof:hierarchy":[],
-    "wof:id":689725291,
-    "wof:lastmodified":1512143633,
-    "wof:name":"Edward Jones Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "advisory",
-        "financial"
+    "wof:country": "US",
+    "wof:created": 1461779808,
+    "wof:geomhash": "73f639d9d0a4d8a10aa25628d334a851",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689725291
+      }
+    ],
+    "wof:id": 689725291,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Edward Jones Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "advisory",
+      "financial"
     ]
-},
+  },
   "bbox": [
     -84.126795,
     39.661817,
     -84.126795,
     39.661817
-],
+  ],
   "geometry": {"coordinates":[-84.126795,39.661817],"type":"Point"}
 }

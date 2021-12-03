@@ -2,63 +2,67 @@
   "id": 705720345,
   "type": "Feature",
   "properties": {
-    "addr:full":"12205 W Co Rd 10 Alvada OH 44802",
-    "addr:housenumber":"12205;10",
-    "addr:postcode":"44802",
-    "addr:street":"W Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.404449,41.050258,-83.404449,41.050258",
-    "geom:latitude":41.050258,
-    "geom:longitude":-83.404449,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12205 W Co Rd 10",
-    "sg:city":"Alvada",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "12205 W Co Rd 10 Alvada OH 44802",
+    "addr:housenumber": "12205;10",
+    "addr:postcode": "44802",
+    "addr:street": "W Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.404449,41.050258,-83.404449,41.050258",
+    "geom:latitude": 41.050258,
+    "geom:longitude": -83.404449,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12205 W Co Rd 10",
+    "sg:city": "Alvada",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 595 2261",
-    "sg:postcode":"44802",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 595 2261",
+    "sg:postcode": "44802",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Ugifdqdqkn5PFrabb8jCm_41.050258_-83.404449@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Ugifdqdqkn5PFrabb8jCm_41.050258_-83.404449@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787176,
-    "wof:geomhash":"65a8a903e687ac5da2691f8bbe09d7a8",
-    "wof:hierarchy":[],
-    "wof:id":705720345,
-    "wof:lastmodified":1472638498,
-    "wof:name":"Walton Agri Svc Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461787176,
+    "wof:geomhash": "a225d1a9160a389a72839c10138f95c9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705720345
+      }
+    ],
+    "wof:id": 705720345,
+    "wof:lastmodified": 1638566936,
+    "wof:name": "Walton Agri Svc Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -83.404449,
     41.050258,
     -83.404449,
     41.050258
-],
+  ],
   "geometry": {"coordinates":[-83.404449,41.050258],"type":"Point"}
 }

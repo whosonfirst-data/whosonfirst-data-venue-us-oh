@@ -2,61 +2,65 @@
   "id": 689620813,
   "type": "Feature",
   "properties": {
-    "addr:full":"8001 Lafayette Rd Lodi OH 44254",
-    "addr:housenumber":"8001",
-    "addr:postcode":"44254",
-    "addr:street":"Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.985131,41.054103,-81.985131,41.054103",
-    "geom:latitude":41.054103,
-    "geom:longitude":-81.985131,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8001 Lafayette Rd",
-    "sg:city":"Lodi",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "8001 Lafayette Rd Lodi OH 44254",
+    "addr:housenumber": "8001",
+    "addr:postcode": "44254",
+    "addr:street": "Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.985131,41.054103,-81.985131,41.054103",
+    "geom:latitude": 41.054103,
+    "geom:longitude": -81.985131,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8001 Lafayette Rd",
+    "sg:city": "Lodi",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 948 2042",
-    "sg:postcode":"44254",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 948 2042",
+    "sg:postcode": "44254",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6AOIXXU4ydPTpwNJ2Njx3W_41.054103_-81.985131@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6AOIXXU4ydPTpwNJ2Njx3W_41.054103_-81.985131@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776911,
-    "wof:geomhash":"62e860d4622781e9ed07fc8b7dd19b9f",
-    "wof:hierarchy":[],
-    "wof:id":689620813,
-    "wof:lastmodified":1472639482,
-    "wof:name":"Hexter Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461776911,
+    "wof:geomhash": "e523578f3bfe1bcf8e270b966cf64e6c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689620813
+      }
+    ],
+    "wof:id": 689620813,
+    "wof:lastmodified": 1638567000,
+    "wof:name": "Hexter Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.985131,
     41.054103,
     -81.985131,
     41.054103
-],
+  ],
   "geometry": {"coordinates":[-81.985131,41.054103],"type":"Point"}
 }

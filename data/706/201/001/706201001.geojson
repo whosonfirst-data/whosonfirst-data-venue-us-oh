@@ -2,61 +2,65 @@
   "id": 706201001,
   "type": "Feature",
   "properties": {
-    "addr:full":"1360 S Trimble Rd Mansfield OH 44906",
-    "addr:housenumber":"1360",
-    "addr:postcode":"44906",
-    "addr:street":"S Trimble Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.54519,40.721407,-82.54519,40.721407",
-    "geom:latitude":40.721407,
-    "geom:longitude":-82.54519,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1360 S Trimble Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1360 S Trimble Rd Mansfield OH 44906",
+    "addr:housenumber": "1360",
+    "addr:postcode": "44906",
+    "addr:street": "S Trimble Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.545190,40.721407,-82.545190,40.721407",
+    "geom:latitude": 40.721407,
+    "geom:longitude": -82.54519,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1360 S Trimble Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 774 1744",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 774 1744",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4NKiHI6P4deidtvxwKJeq6_40.721407_-82.545190@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4NKiHI6P4deidtvxwKJeq6_40.721407_-82.545190@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798095,
-    "wof:geomhash":"c785c313b86143a373c304ae55c65748",
-    "wof:hierarchy":[],
-    "wof:id":706201001,
-    "wof:lastmodified":1472639486,
-    "wof:name":"Casa Fiesta Mexican Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461798095,
+    "wof:geomhash": "b137e21e0c7a795e5aa2c9c1d2b70a94",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706201001
+      }
+    ],
+    "wof:id": 706201001,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Casa Fiesta Mexican Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.54519,
     40.721407,
     -82.54519,
     40.721407
-],
-  "geometry": {"coordinates":[-82.54519000000001,40.721407],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.54519,40.721407],"type":"Point"}
 }

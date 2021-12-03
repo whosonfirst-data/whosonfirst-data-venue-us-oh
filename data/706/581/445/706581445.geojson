@@ -2,67 +2,71 @@
   "id": 706581445,
   "type": "Feature",
   "properties": {
-    "addr:full":"3022 Graham Rd Stow OH 44224",
-    "addr:housenumber":"3022",
-    "addr:postcode":"44224",
-    "addr:street":"Graham Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.405461,41.166512,-81.405461,41.166512",
-    "geom:latitude":41.166512,
-    "geom:longitude":-81.405461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3022 Graham Rd",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3022 Graham Rd Stow OH 44224",
+    "addr:housenumber": "3022",
+    "addr:postcode": "44224",
+    "addr:street": "Graham Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.405461,41.166512,-81.405461,41.166512",
+    "geom:latitude": 41.166512,
+    "geom:longitude": -81.405461,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3022 Graham Rd",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/stow/134425-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 688 6142",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/stow/134425-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 688 6142",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0EZ9jMq7X5o2eOlOa8my5R_41.166446_-81.405976@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0EZ9jMq7X5o2eOlOa8my5R_41.166446_-81.405976@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806355,
-    "wof:geomhash":"3ec8d5c969bf035399cc877d6bb7762d",
-    "wof:hierarchy":[],
-    "wof:id":706581445,
-    "wof:lastmodified":1511322244,
-    "wof:name":"Subway",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806355,
+    "wof:geomhash": "3ec8d5c969bf035399cc877d6bb7762d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706581445
+      }
+    ],
+    "wof:id": 706581445,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Subway",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -81.405461,
     41.166512,
     -81.405461,
     41.166512
-],
+  ],
   "geometry": {"coordinates":[-81.405461,41.166512],"type":"Point"}
 }

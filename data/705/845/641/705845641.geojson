@@ -2,63 +2,67 @@
   "id": 705845641,
   "type": "Feature",
   "properties": {
-    "addr:full":"5900 Pennsylvania Ave Cleveland OH 44137",
-    "addr:housenumber":"5900",
-    "addr:postcode":"44137",
-    "addr:street":"Pennsylvania Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.561446,41.401195,-81.561446,41.401195",
-    "geom:latitude":41.401195,
-    "geom:longitude":-81.561446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5900 Pennsylvania Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5900 Pennsylvania Ave Cleveland OH 44137",
+    "addr:housenumber": "5900",
+    "addr:postcode": "44137",
+    "addr:street": "Pennsylvania Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.561446,41.401195,-81.561446,41.401195",
+    "geom:latitude": 41.401195,
+    "geom:longitude": -81.561446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5900 Pennsylvania Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 475 4150",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "beer",
-        "ale"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 475 4150",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "beer",
+      "ale"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WhR7MifwbRJ89PVkO2JQs_41.401195_-81.561446@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0WhR7MifwbRJ89PVkO2JQs_41.401195_-81.561446@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790080,
-    "wof:geomhash":"ff9d76287f22a704b931db92b9ec5b8c",
-    "wof:hierarchy":[],
-    "wof:id":705845641,
-    "wof:lastmodified":1472639421,
-    "wof:name":"R L Lipton Distributing Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "ale"
+    "wof:country": "US",
+    "wof:created": 1461790080,
+    "wof:geomhash": "d31b37d9acb7f51d60e05596795a4458",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705845641
+      }
+    ],
+    "wof:id": 705845641,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "R L Lipton Distributing Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "ale"
     ]
-},
+  },
   "bbox": [
     -81.561446,
     41.401195,
     -81.561446,
     41.401195
-],
+  ],
   "geometry": {"coordinates":[-81.561446,41.401195],"type":"Point"}
 }

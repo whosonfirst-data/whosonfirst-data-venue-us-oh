@@ -2,63 +2,67 @@
   "id": 706055029,
   "type": "Feature",
   "properties": {
-    "addr:full":"2400 Parkman Rd NW Warren OH 44485",
-    "addr:housenumber":"2400",
-    "addr:postcode":"44485",
-    "addr:street":"Parkman Rd Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.855598,41.252154,-80.855598,41.252154",
-    "geom:latitude":41.252154,
-    "geom:longitude":-80.855598,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2400 Parkman Rd NW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2400 Parkman Rd NW Warren OH 44485",
+    "addr:housenumber": "2400",
+    "addr:postcode": "44485",
+    "addr:street": "Parkman Rd Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.855598,41.252154,-80.855598,41.252154",
+    "geom:latitude": 41.252154,
+    "geom:longitude": -80.855598,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2400 Parkman Rd NW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 392 5021",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 392 5021",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4msNzLj4IYG2VKBdCzph9V_41.252154_-80.855598@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4msNzLj4IYG2VKBdCzph9V_41.252154_-80.855598@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794712,
-    "wof:geomhash":"4900f62ca619586b72301bd2f3ff9e92",
-    "wof:hierarchy":[],
-    "wof:id":706055029,
-    "wof:lastmodified":1472639130,
-    "wof:name":"Medical Associates Of Warren",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461794712,
+    "wof:geomhash": "9b91cdebcdd07c1eeed4f0f14ca0b8f0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706055029
+      }
+    ],
+    "wof:id": 706055029,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Medical Associates Of Warren",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.855598,
     41.252154,
     -80.855598,
     41.252154
-],
+  ],
   "geometry": {"coordinates":[-80.855598,41.252154],"type":"Point"}
 }

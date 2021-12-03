@@ -2,61 +2,65 @@
   "id": 706366983,
   "type": "Feature",
   "properties": {
-    "addr:full":"137 W 4th St Cincinnati OH 45202",
-    "addr:housenumber":"137",
-    "addr:postcode":"45202",
-    "addr:street":"W 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.515413,39.09948,-84.515413,39.09948",
-    "geom:latitude":39.09948,
-    "geom:longitude":-84.515413,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"137 W 4th St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "137 W 4th St Cincinnati OH 45202",
+    "addr:housenumber": "137",
+    "addr:postcode": "45202",
+    "addr:street": "W 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.515413,39.099480,-84.515413,39.099480",
+    "geom:latitude": 39.09948,
+    "geom:longitude": -84.515413,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "137 W 4th St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 621 1280",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 621 1280",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5YZN6P7BpGglnj1MBfDzEe_39.099480_-84.515413@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5YZN6P7BpGglnj1MBfDzEe_39.099480_-84.515413@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801750,
-    "wof:geomhash":"6856700ec15b1381e529cdf2b3286439",
-    "wof:hierarchy":[],
-    "wof:id":706366983,
-    "wof:lastmodified":1472639937,
-    "wof:name":"Main Auction Galleries Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461801750,
+    "wof:geomhash": "5ae55087374190302f951c541e1f1486",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706366983
+      }
+    ],
+    "wof:id": 706366983,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Main Auction Galleries Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.515413,
     39.09948,
     -84.515413,
     39.09948
-],
+  ],
   "geometry": {"coordinates":[-84.515413,39.09948],"type":"Point"}
 }

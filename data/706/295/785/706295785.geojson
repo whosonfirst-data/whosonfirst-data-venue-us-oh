@@ -2,61 +2,65 @@
   "id": 706295785,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 E Caroline St Paulding OH 45879",
-    "addr:housenumber":"201",
-    "addr:postcode":"45879",
-    "addr:street":"E Caroline St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.579514,41.139244,-84.579514,41.139244",
-    "geom:latitude":41.139244,
-    "geom:longitude":-84.579514,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"201 E Caroline St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Court House",
-            "type":"Public Place"
-        }
+    "addr:full": "201 E Caroline St Paulding OH 45879",
+    "addr:housenumber": "201",
+    "addr:postcode": "45879",
+    "addr:street": "E Caroline St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.579514,41.139244,-84.579514,41.139244",
+    "geom:latitude": 41.139244,
+    "geom:longitude": -84.579514,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "201 E Caroline St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Court House",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 2792",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 2792",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6uSg4JIRDiT8ae3sqJOBqe_41.139244_-84.579514@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6uSg4JIRDiT8ae3sqJOBqe_41.139244_-84.579514@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800210,
-    "wof:geomhash":"e817bb85ef1cb791e0e1b55b0f3811f7",
-    "wof:hierarchy":[],
-    "wof:id":706295785,
-    "wof:lastmodified":1472639698,
-    "wof:name":"Paulding County Court",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county"
+    "wof:country": "US",
+    "wof:created": 1461800210,
+    "wof:geomhash": "5e05d0300480d64400aab2d2ccb94c16",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706295785
+      }
+    ],
+    "wof:id": 706295785,
+    "wof:lastmodified": 1638567077,
+    "wof:name": "Paulding County Court",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county"
     ]
-},
+  },
   "bbox": [
     -84.579514,
     41.139244,
     -84.579514,
     41.139244
-],
+  ],
   "geometry": {"coordinates":[-84.579514,41.139244],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706413027,
   "type": "Feature",
   "properties": {
-    "addr:full":"10911 State Rd Cleveland OH 44133",
-    "addr:housenumber":"10911",
-    "addr:postcode":"44133",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.72458,41.334064,-81.72458,41.334064",
-    "geom:latitude":41.334064,
-    "geom:longitude":-81.72458,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10911 State Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Garden Supply",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10911 State Rd Cleveland OH 44133",
+    "addr:housenumber": "10911",
+    "addr:postcode": "44133",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.724580,41.334064,-81.724580,41.334064",
+    "geom:latitude": 41.334064,
+    "geom:longitude": -81.72458,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10911 State Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Garden Supply",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 582 2229",
-    "sg:postcode":"44133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 582 2229",
+    "sg:postcode": "44133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hCq0GcRCxBbQZKosmHxno_41.334064_-81.724580@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0hCq0GcRCxBbQZKosmHxno_41.334064_-81.724580@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802655,
-    "wof:geomhash":"3eaa17cd8af7ad7f1521b05a931cc707",
-    "wof:hierarchy":[],
-    "wof:id":706413027,
-    "wof:lastmodified":1472639991,
-    "wof:name":"Royal Victorian Gardens",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "center"
+    "wof:country": "US",
+    "wof:created": 1461802655,
+    "wof:geomhash": "b8636475cb51e8e2b1623fed98054ab3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706413027
+      }
+    ],
+    "wof:id": 706413027,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Royal Victorian Gardens",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "center"
     ]
-},
+  },
   "bbox": [
     -81.72458,
     41.334064,
     -81.72458,
     41.334064
-],
+  ],
   "geometry": {"coordinates":[-81.72458,41.334064],"type":"Point"}
 }

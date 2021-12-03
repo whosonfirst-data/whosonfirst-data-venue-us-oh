@@ -2,63 +2,67 @@
   "id": 705758519,
   "type": "Feature",
   "properties": {
-    "addr:full":"3737 Lander Rd Cleveland OH 44124",
-    "addr:housenumber":"3737",
-    "addr:postcode":"44124",
-    "addr:street":"Lander Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.46326,41.458927,-81.46326,41.458927",
-    "geom:latitude":41.458927,
-    "geom:longitude":-81.46326,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3737 Lander Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "3737 Lander Rd Cleveland OH 44124",
+    "addr:housenumber": "3737",
+    "addr:postcode": "44124",
+    "addr:street": "Lander Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.463260,41.458927,-81.463260,41.458927",
+    "geom:latitude": 41.458927,
+    "geom:longitude": -81.46326,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3737 Lander Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 831 1675",
-    "sg:postcode":"44124",
-    "sg:province":"OH",
-    "sg:tags":[
-        "agency",
-        "adoption"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 831 1675",
+    "sg:postcode": "44124",
+    "sg:province": "OH",
+    "sg:tags": [
+      "agency",
+      "adoption"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1UICjJe1MainiRk1fVYGSa_41.458927_-81.463260@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1UICjJe1MainiRk1fVYGSa_41.458927_-81.463260@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788062,
-    "wof:geomhash":"3939f49befec3f3c89d834e8e367dee1",
-    "wof:hierarchy":[],
-    "wof:id":705758519,
-    "wof:lastmodified":1472639194,
-    "wof:name":"Special Needs Adoption Line",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "agency",
-        "adoption"
+    "wof:country": "US",
+    "wof:created": 1461788062,
+    "wof:geomhash": "b83166c5465431873cb4b0f46a564f8f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705758519
+      }
+    ],
+    "wof:id": 705758519,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Special Needs Adoption Line",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "agency",
+      "adoption"
     ]
-},
+  },
   "bbox": [
     -81.46326,
     41.458927,
     -81.46326,
     41.458927
-],
-  "geometry": {"coordinates":[-81.46326000000001,41.458927],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.46326,41.458927],"type":"Point"}
 }

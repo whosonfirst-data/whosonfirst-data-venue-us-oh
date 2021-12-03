@@ -2,61 +2,65 @@
   "id": 689905893,
   "type": "Feature",
   "properties": {
-    "addr:full":"1052 S Main St Urbana OH 43078",
-    "addr:housenumber":"1052",
-    "addr:postcode":"43078",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.75405,40.09431,-83.75405,40.09431",
-    "geom:latitude":40.09431,
-    "geom:longitude":-83.75405,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1052 S Main St",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "1052 S Main St Urbana OH 43078",
+    "addr:housenumber": "1052",
+    "addr:postcode": "43078",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.754050,40.094310,-83.754050,40.094310",
+    "geom:latitude": 40.09431,
+    "geom:longitude": -83.75405,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1052 S Main St",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 484 4444",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 484 4444",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2wGwbZmHDKpM63Ou6v6sFy_40.094310_-83.754050@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2wGwbZmHDKpM63Ou6v6sFy_40.094310_-83.754050@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784733,
-    "wof:geomhash":"0a2937234d570bfa5bd9a76fd20e1a56",
-    "wof:hierarchy":[],
-    "wof:id":689905893,
-    "wof:lastmodified":1472640063,
-    "wof:name":"Theodore D Daniel",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461784733,
+    "wof:geomhash": "58a904fdb9d27b7107ce4c985d253966",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689905893
+      }
+    ],
+    "wof:id": 689905893,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Theodore D Daniel",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.75405,
     40.09431,
     -83.75405,
     40.09431
-],
-  "geometry": {"coordinates":[-83.75405000000001,40.09431],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.75405,40.09431],"type":"Point"}
 }

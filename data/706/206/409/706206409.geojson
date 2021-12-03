@@ -2,61 +2,65 @@
   "id": 706206409,
   "type": "Feature",
   "properties": {
-    "addr:full":"14720 Rider Rd Burton OH 44021",
-    "addr:housenumber":"14720",
-    "addr:postcode":"44021",
-    "addr:street":"Rider Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.180482,41.468955,-81.180482,41.468955",
-    "geom:latitude":41.468955,
-    "geom:longitude":-81.180482,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14720 Rider Rd",
-    "sg:city":"Burton",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Insurance Agent",
-            "type":"Services"
-        }
+    "addr:full": "14720 Rider Rd Burton OH 44021",
+    "addr:housenumber": "14720",
+    "addr:postcode": "44021",
+    "addr:street": "Rider Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.180482,41.468955,-81.180482,41.468955",
+    "geom:latitude": 41.468955,
+    "geom:longitude": -81.180482,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14720 Rider Rd",
+    "sg:city": "Burton",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Insurance Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 834 1087",
-    "sg:postcode":"44021",
-    "sg:province":"OH",
-    "sg:tags":[
-        "processing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 834 1087",
+    "sg:postcode": "44021",
+    "sg:province": "OH",
+    "sg:tags": [
+      "processing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Vq10fGgepx29YmibZeecC_41.468955_-81.180482@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Vq10fGgepx29YmibZeecC_41.468955_-81.180482@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798212,
-    "wof:geomhash":"1c508ebfb52e5cc409f3e93c2c325587",
-    "wof:hierarchy":[],
-    "wof:id":706206409,
-    "wof:lastmodified":1472639497,
-    "wof:name":"Phoenix Automated Medical Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "processing"
+    "wof:country": "US",
+    "wof:created": 1461798212,
+    "wof:geomhash": "fb1da079b3a5dda6b7bfe79b668edaa4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706206409
+      }
+    ],
+    "wof:id": 706206409,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Phoenix Automated Medical Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "processing"
     ]
-},
+  },
   "bbox": [
     -81.180482,
     41.468955,
     -81.180482,
     41.468955
-],
+  ],
   "geometry": {"coordinates":[-81.180482,41.468955],"type":"Point"}
 }

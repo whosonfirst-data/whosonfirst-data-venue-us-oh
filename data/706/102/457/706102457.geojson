@@ -2,63 +2,67 @@
   "id": 706102457,
   "type": "Feature",
   "properties": {
-    "addr:full":"230 N Grand Ave Marion OH 43302",
-    "addr:housenumber":"230",
-    "addr:postcode":"43302",
-    "addr:street":"N Grand Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.111802,40.592,-83.111802,40.592",
-    "geom:latitude":40.592,
-    "geom:longitude":-83.111802,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"230 N Grand Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "230 N Grand Ave Marion OH 43302",
+    "addr:housenumber": "230",
+    "addr:postcode": "43302",
+    "addr:street": "N Grand Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.111802,40.592000,-83.111802,40.592000",
+    "geom:latitude": 40.592,
+    "geom:longitude": -83.111802,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "230 N Grand Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 383 5262",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 383 5262",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01sFjyzSo0q5O9LzVGumnz_40.592000_-83.111802@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_01sFjyzSo0q5O9LzVGumnz_40.592000_-83.111802@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795835,
-    "wof:geomhash":"2d3fb45b07dce05e49aa58489a20a5fc",
-    "wof:hierarchy":[],
-    "wof:id":706102457,
-    "wof:lastmodified":1472639254,
-    "wof:name":"H M & S Odd Jobs",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461795835,
+    "wof:geomhash": "ac8feed605ea0aff240a5c5800a1cf7f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706102457
+      }
+    ],
+    "wof:id": 706102457,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "H M \u0026 S Odd Jobs",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.111802,
     40.592,
     -83.111802,
     40.592
-],
+  ],
   "geometry": {"coordinates":[-83.111802,40.592],"type":"Point"}
 }

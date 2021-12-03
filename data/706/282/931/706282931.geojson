@@ -2,61 +2,65 @@
   "id": 706282931,
   "type": "Feature",
   "properties": {
-    "addr:full":"1016 Union St Ashland OH 44805",
-    "addr:housenumber":"1016",
-    "addr:postcode":"44805",
-    "addr:street":"Union St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.312927,40.875998,-82.312927,40.875998",
-    "geom:latitude":40.875998,
-    "geom:longitude":-82.312927,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1016 Union St",
-    "sg:city":"Ashland",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Advertising",
-            "type":"Services"
-        }
+    "addr:full": "1016 Union St Ashland OH 44805",
+    "addr:housenumber": "1016",
+    "addr:postcode": "44805",
+    "addr:street": "Union St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.312927,40.875998,-82.312927,40.875998",
+    "geom:latitude": 40.875998,
+    "geom:longitude": -82.312927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1016 Union St",
+    "sg:city": "Ashland",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Advertising",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 281 9800",
-    "sg:postcode":"44805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "balloon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 281 9800",
+    "sg:postcode": "44805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "balloon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0HLOWV2b5kjPJcvFUZR7Dv_40.875998_-82.312927@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0HLOWV2b5kjPJcvFUZR7Dv_40.875998_-82.312927@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799914,
-    "wof:geomhash":"52fdd7dd04b1ffb01772211d6c3fbb2c",
-    "wof:hierarchy":[],
-    "wof:id":706282931,
-    "wof:lastmodified":1472639683,
-    "wof:name":"J M Balloons",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "balloon"
+    "wof:country": "US",
+    "wof:created": 1461799914,
+    "wof:geomhash": "2677b31bf65de3d5e9b183ddec4ed951",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706282931
+      }
+    ],
+    "wof:id": 706282931,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "J M Balloons",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "balloon"
     ]
-},
+  },
   "bbox": [
     -82.312927,
     40.875998,
     -82.312927,
     40.875998
-],
+  ],
   "geometry": {"coordinates":[-82.312927,40.875998],"type":"Point"}
 }

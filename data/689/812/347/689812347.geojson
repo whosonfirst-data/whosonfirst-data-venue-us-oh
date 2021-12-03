@@ -2,61 +2,65 @@
   "id": 689812347,
   "type": "Feature",
   "properties": {
-    "addr:full":"9825 Gore Church Rd Logan OH 43138",
-    "addr:housenumber":"9825",
-    "addr:postcode":"43138",
-    "addr:street":"Gore Church Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.298525,39.57971,-82.298525,39.57971",
-    "geom:latitude":39.57971,
-    "geom:longitude":-82.298525,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9825 Gore Church Rd",
-    "sg:city":"Logan",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "9825 Gore Church Rd Logan OH 43138",
+    "addr:housenumber": "9825",
+    "addr:postcode": "43138",
+    "addr:street": "Gore Church Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.298525,39.579710,-82.298525,39.579710",
+    "geom:latitude": 39.57971,
+    "geom:longitude": -82.298525,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9825 Gore Church Rd",
+    "sg:city": "Logan",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 394 2705",
-    "sg:postcode":"43138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 394 2705",
+    "sg:postcode": "43138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01Iw6sXp3TAkRNpCbZRsSA_39.579710_-82.298525@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_01Iw6sXp3TAkRNpCbZRsSA_39.579710_-82.298525@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782265,
-    "wof:geomhash":"e1e8ec823acec061b88af3942193a594",
-    "wof:hierarchy":[],
-    "wof:id":689812347,
-    "wof:lastmodified":1472639880,
-    "wof:name":"New Hope United Methodist Chr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461782265,
+    "wof:geomhash": "2d32ace91985354e7d0f5f6e7ae44ff1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689812347
+      }
+    ],
+    "wof:id": 689812347,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "New Hope United Methodist Chr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.298525,
     39.57971,
     -82.298525,
     39.57971
-],
+  ],
   "geometry": {"coordinates":[-82.298525,39.57971],"type":"Point"}
 }

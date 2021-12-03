@@ -2,56 +2,60 @@
   "id": 705905459,
   "type": "Feature",
   "properties": {
-    "addr:full":"4321 State Rd Ashtabula OH 44004",
-    "addr:housenumber":"4321",
-    "addr:postcode":"44004",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.772589,41.866818,-80.772589,41.866818",
-    "geom:latitude":41.866818,
-    "geom:longitude":-80.772589,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4321 State Rd",
-    "sg:city":"Ashtabula",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4321 State Rd Ashtabula OH 44004",
+    "addr:housenumber": "4321",
+    "addr:postcode": "44004",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.772589,41.866818,-80.772589,41.866818",
+    "geom:latitude": 41.866818,
+    "geom:longitude": -80.772589,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4321 State Rd",
+    "sg:city": "Ashtabula",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 992 0799",
-    "sg:postcode":"44004",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_27ydhIaKWzrrlcDPeIwE1o_41.866818_-80.772589@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 992 0799",
+    "sg:postcode": "44004",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_27ydhIaKWzrrlcDPeIwE1o_41.866818_-80.772589@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791531,
-    "wof:geomhash":"a77fbd3a1e9aa364868bf42141d0b081",
-    "wof:hierarchy":[],
-    "wof:id":705905459,
-    "wof:lastmodified":1472639557,
-    "wof:name":"Shopping Bag Inc",
-    "wof:parent_id":420534553,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461791531,
+    "wof:geomhash": "8b5406dc83024297d46472da2e779e9d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705905459
+      }
+    ],
+    "wof:id": 705905459,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Shopping Bag Inc",
+    "wof:parent_id": 420534553,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.772589,
     41.866818,
     -80.772589,
     41.866818
-],
+  ],
   "geometry": {"coordinates":[-80.772589,41.866818],"type":"Point"}
 }

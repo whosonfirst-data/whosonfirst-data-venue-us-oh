@@ -2,61 +2,65 @@
   "id": 705702457,
   "type": "Feature",
   "properties": {
-    "addr:full":"7072 Far Hills Ave Dayton OH 45459",
-    "addr:housenumber":"7072",
-    "addr:postcode":"45459",
-    "addr:street":"Far Hills Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.157625,39.643404,-84.157625,39.643404",
-    "geom:latitude":39.643404,
-    "geom:longitude":-84.157625,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7072 Far Hills Ave",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "7072 Far Hills Ave Dayton OH 45459",
+    "addr:housenumber": "7072",
+    "addr:postcode": "45459",
+    "addr:street": "Far Hills Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.157625,39.643404,-84.157625,39.643404",
+    "geom:latitude": 39.643404,
+    "geom:longitude": -84.157625,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7072 Far Hills Ave",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 434 0050",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 434 0050",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ZDz7ttSYETu6CXgq80Mpq_39.643404_-84.157625@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ZDz7ttSYETu6CXgq80Mpq_39.643404_-84.157625@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786640,
-    "wof:geomhash":"ff9a60b2b3ab36b9321e4da321ef26ce",
-    "wof:hierarchy":[],
-    "wof:id":705702457,
-    "wof:lastmodified":1472638281,
-    "wof:name":"Jimmy's Painting",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461786640,
+    "wof:geomhash": "eb5fbe4a9b1261fa2db2c914213344fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702457
+      }
+    ],
+    "wof:id": 705702457,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "Jimmy's Painting",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -84.157625,
     39.643404,
     -84.157625,
     39.643404
-],
+  ],
   "geometry": {"coordinates":[-84.157625,39.643404],"type":"Point"}
 }

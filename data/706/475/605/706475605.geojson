@@ -2,66 +2,70 @@
   "id": 706475605,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 W Main St Leesburg OH 45135",
-    "addr:housenumber":"225",
-    "addr:postcode":"45135",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.559851,39.345601,-83.559851,39.345601",
-    "geom:latitude":39.345601,
-    "geom:longitude":-83.559851,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"225 W Main St",
-    "sg:city":"Leesburg",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "225 W Main St Leesburg OH 45135",
+    "addr:housenumber": "225",
+    "addr:postcode": "45135",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.559851,39.345601,-83.559851,39.345601",
+    "geom:latitude": 39.345601,
+    "geom:longitude": -83.559851,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "225 W Main St",
+    "sg:city": "Leesburg",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 780 6202",
-    "sg:postcode":"45135",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 780 6202",
+    "sg:postcode": "45135",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574355,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ruvw16e7iHtf442Htl5yq_39.345601_-83.559851@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574355,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ruvw16e7iHtf442Htl5yq_39.345601_-83.559851@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803960,
-    "wof:geomhash":"2cbb2f7f7671688b4bc6702b7b3dd4cf",
-    "wof:hierarchy":[],
-    "wof:id":706475605,
-    "wof:lastmodified":1511323507,
-    "wof:name":"Sunoco",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461803960,
+    "wof:geomhash": "2cbb2f7f7671688b4bc6702b7b3dd4cf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706475605
+      }
+    ],
+    "wof:id": 706475605,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "Sunoco",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -83.559851,
     39.345601,
     -83.559851,
     39.345601
-],
-  "geometry": {"coordinates":[-83.55985099999999,39.345601],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.559851,39.345601],"type":"Point"}
 }

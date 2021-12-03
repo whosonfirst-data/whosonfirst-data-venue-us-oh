@@ -2,61 +2,65 @@
   "id": 705813447,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 W Main St Cardington OH 43315",
-    "addr:housenumber":"401",
-    "addr:postcode":"43315",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.901702,40.500313,-82.901702,40.500313",
-    "geom:latitude":40.500313,
-    "geom:longitude":-82.901702,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 W Main St",
-    "sg:city":"Cardington",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "401 W Main St Cardington OH 43315",
+    "addr:housenumber": "401",
+    "addr:postcode": "43315",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.901702,40.500313,-82.901702,40.500313",
+    "geom:latitude": 40.500313,
+    "geom:longitude": -82.901702,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "401 W Main St",
+    "sg:city": "Cardington",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 864 8378",
-    "sg:postcode":"43315",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 864 8378",
+    "sg:postcode": "43315",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5e6sTTe3s9V9Gx0lQqZ68S_40.500313_-82.901702@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5e6sTTe3s9V9Gx0lQqZ68S_40.500313_-82.901702@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789310,
-    "wof:geomhash":"9e967dba6a9f3c54e9279800992f11a6",
-    "wof:hierarchy":[],
-    "wof:id":705813447,
-    "wof:lastmodified":1472639313,
-    "wof:name":"Suz-Eq's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461789310,
+    "wof:geomhash": "b6d882d25469f7734a0f10b59320670e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705813447
+      }
+    ],
+    "wof:id": 705813447,
+    "wof:lastmodified": 1638566990,
+    "wof:name": "Suz-Eq's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -82.901702,
     40.500313,
     -82.901702,
     40.500313
-],
+  ],
   "geometry": {"coordinates":[-82.901702,40.500313],"type":"Point"}
 }

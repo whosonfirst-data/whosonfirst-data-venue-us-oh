@@ -2,63 +2,67 @@
   "id": 706625635,
   "type": "Feature",
   "properties": {
-    "addr:full":"299 Haskell Ln Batavia OH 45103",
-    "addr:housenumber":"299",
-    "addr:postcode":"45103",
-    "addr:street":"Haskell Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.179512,39.085331,-84.179512,39.085331",
-    "geom:latitude":39.085331,
-    "geom:longitude":-84.179512,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"299 Haskell Ln",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Shopping Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "299 Haskell Ln Batavia OH 45103",
+    "addr:housenumber": "299",
+    "addr:postcode": "45103",
+    "addr:street": "Haskell Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.179512,39.085331,-84.179512,39.085331",
+    "geom:latitude": 39.085331,
+    "geom:longitude": -84.179512,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "299 Haskell Ln",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Shopping Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 732 0515",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "flea",
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 732 0515",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "flea",
+      "market"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4brsNxVrFfjEUDJwDbEWz3_39.085331_-84.179512@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4brsNxVrFfjEUDJwDbEWz3_39.085331_-84.179512@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807264,
-    "wof:geomhash":"b37153aacd3bfc96a22b04ba4a42fee9",
-    "wof:hierarchy":[],
-    "wof:id":706625635,
-    "wof:lastmodified":1472640246,
-    "wof:name":"Red Barn Flea Market",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "flea",
-        "market"
+    "wof:country": "US",
+    "wof:created": 1461807264,
+    "wof:geomhash": "d89f673bada25bf62efe443132459cfc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706625635
+      }
+    ],
+    "wof:id": 706625635,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Red Barn Flea Market",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "flea",
+      "market"
     ]
-},
+  },
   "bbox": [
     -84.179512,
     39.085331,
     -84.179512,
     39.085331
-],
+  ],
   "geometry": {"coordinates":[-84.179512,39.085331],"type":"Point"}
 }

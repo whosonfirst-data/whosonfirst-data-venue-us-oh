@@ -2,63 +2,67 @@
   "id": 706127961,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 State Rte 3 Tallmadge OH 44273",
-    "addr:housenumber":"116",
-    "addr:postcode":"44273",
-    "addr:street":"State Rte 3",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.861925,41.014691,-81.861925,41.014691",
-    "geom:latitude":41.014691,
-    "geom:longitude":-81.861925,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"116 State Rte 3",
-    "sg:city":"Tallmadge",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "116 State Rte 3 Tallmadge OH 44273",
+    "addr:housenumber": "116",
+    "addr:postcode": "44273",
+    "addr:street": "State Rte 3",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.861925,41.014691,-81.861925,41.014691",
+    "geom:latitude": 41.014691,
+    "geom:longitude": -81.861925,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "116 State Rte 3",
+    "sg:city": "Tallmadge",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 633 7782",
-    "sg:postcode":"44273",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 633 7782",
+    "sg:postcode": "44273",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2YjKkQwxUHA3uG06n7vW69_41.014691_-81.861925@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2YjKkQwxUHA3uG06n7vW69_41.014691_-81.861925@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796458,
-    "wof:geomhash":"fd05c8ee2a3d2c29db688e659184bfd4",
-    "wof:hierarchy":[],
-    "wof:id":706127961,
-    "wof:lastmodified":1472639313,
-    "wof:name":"Primary Care Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461796458,
+    "wof:geomhash": "a1432f39fb0ab273e3487fa4032dc43d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706127961
+      }
+    ],
+    "wof:id": 706127961,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Primary Care Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.861925,
     41.014691,
     -81.861925,
     41.014691
-],
+  ],
   "geometry": {"coordinates":[-81.861925,41.014691],"type":"Point"}
 }

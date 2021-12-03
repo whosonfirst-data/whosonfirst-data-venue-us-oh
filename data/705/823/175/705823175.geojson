@@ -2,61 +2,65 @@
   "id": 705823175,
   "type": "Feature",
   "properties": {
-    "addr:full":"2192 Richland Mall Mansfield OH 44906",
-    "addr:housenumber":"2192",
-    "addr:postcode":"44906",
-    "addr:street":"Richland Mall",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.593951,40.772738,-82.593951,40.772738",
-    "geom:latitude":40.772738,
-    "geom:longitude":-82.593951,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2192 Richland Mall",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Music",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2192 Richland Mall Mansfield OH 44906",
+    "addr:housenumber": "2192",
+    "addr:postcode": "44906",
+    "addr:street": "Richland Mall",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.593951,40.772738,-82.593951,40.772738",
+    "geom:latitude": 40.772738,
+    "geom:longitude": -82.593951,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2192 Richland Mall",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Music",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 3519",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 3519",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Ep2v9IYcdzP60maxJFe6W_40.772738_-82.593951@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Ep2v9IYcdzP60maxJFe6W_40.772738_-82.593951@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789558,
-    "wof:geomhash":"b557dbde757aa2e5b6ce977a8ba78570",
-    "wof:hierarchy":[],
-    "wof:id":705823175,
-    "wof:lastmodified":1472639329,
-    "wof:name":"Record Town 125",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461789558,
+    "wof:geomhash": "3e423a04e50370142e364ff36b552c92",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705823175
+      }
+    ],
+    "wof:id": 705823175,
+    "wof:lastmodified": 1638567000,
+    "wof:name": "Record Town 125",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "store"
     ]
-},
+  },
   "bbox": [
     -82.593951,
     40.772738,
     -82.593951,
     40.772738
-],
+  ],
   "geometry": {"coordinates":[-82.593951,40.772738],"type":"Point"}
 }

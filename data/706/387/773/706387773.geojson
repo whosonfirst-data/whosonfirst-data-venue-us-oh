@@ -2,61 +2,65 @@
   "id": 706387773,
   "type": "Feature",
   "properties": {
-    "addr:full":"235 S Main St Columbiana OH 44408",
-    "addr:housenumber":"235",
-    "addr:postcode":"44408",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.693869,40.884638,-80.693869,40.884638",
-    "geom:latitude":40.884638,
-    "geom:longitude":-80.693869,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"235 S Main St",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Engineering",
-            "type":"Services"
-        }
+    "addr:full": "235 S Main St Columbiana OH 44408",
+    "addr:housenumber": "235",
+    "addr:postcode": "44408",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.693869,40.884638,-80.693869,40.884638",
+    "geom:latitude": 40.884638,
+    "geom:longitude": -80.693869,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "235 S Main St",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Engineering",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 482 3117",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "engineer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 482 3117",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "engineer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Nqe24pVA7l1x6pT45I2SJ_40.884638_-80.693869@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Nqe24pVA7l1x6pT45I2SJ_40.884638_-80.693869@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802160,
-    "wof:geomhash":"c4c18cce707ba51e803f578dc8634a30",
-    "wof:hierarchy":[],
-    "wof:id":706387773,
-    "wof:lastmodified":1472639978,
-    "wof:name":"Geodetic Consulting Svc",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "engineer"
+    "wof:country": "US",
+    "wof:created": 1461802160,
+    "wof:geomhash": "a8c2da58d0062318951bd6ed577d85b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706387773
+      }
+    ],
+    "wof:id": 706387773,
+    "wof:lastmodified": 1638567107,
+    "wof:name": "Geodetic Consulting Svc",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "engineer"
     ]
-},
+  },
   "bbox": [
     -80.693869,
     40.884638,
     -80.693869,
     40.884638
-],
-  "geometry": {"coordinates":[-80.69386900000001,40.884638],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.693869,40.884638],"type":"Point"}
 }

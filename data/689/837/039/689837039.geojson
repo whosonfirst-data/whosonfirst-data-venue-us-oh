@@ -2,64 +2,68 @@
   "id": 689837039,
   "type": "Feature",
   "properties": {
-    "addr:full":"3002 Woodman Dr Dayton OH 45420",
-    "addr:housenumber":"3002",
-    "addr:postcode":"45420",
-    "addr:street":"Woodman Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.12332,39.701435,-84.12332,39.701435",
-    "geom:latitude":39.701435,
-    "geom:longitude":-84.12332,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3002 Woodman Dr",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3002 Woodman Dr Dayton OH 45420",
+    "addr:housenumber": "3002",
+    "addr:postcode": "45420",
+    "addr:street": "Woodman Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.123320,39.701435,-84.123320,39.701435",
+    "geom:latitude": 39.701435,
+    "geom:longitude": -84.12332,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3002 Woodman Dr",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 293 0639",
-    "sg:postcode":"45420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 293 0639",
+    "sg:postcode": "45420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2EClVPOUJvP2o2mrpXQvmk_39.701435_-84.123320@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2EClVPOUJvP2o2mrpXQvmk_39.701435_-84.123320@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783038,
-    "wof:geomhash":"d13a9dec1cc422de8d454de72dcb294e",
-    "wof:hierarchy":[],
-    "wof:id":689837039,
-    "wof:lastmodified":1511321247,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461783038,
+    "wof:geomhash": "d13a9dec1cc422de8d454de72dcb294e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689837039
+      }
+    ],
+    "wof:id": 689837039,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.12332,
     39.701435,
     -84.12332,
     39.701435
-],
-  "geometry": {"coordinates":[-84.12332000000001,39.701435],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.12332,39.701435],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706033445,
   "type": "Feature",
   "properties": {
-    "addr:full":"677 W Liberty St Medina OH 44256",
-    "addr:housenumber":"677",
-    "addr:postcode":"44256",
-    "addr:street":"W Liberty St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.874461,41.1392,-81.874461,41.1392",
-    "geom:latitude":41.1392,
-    "geom:longitude":-81.874461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"677 W Liberty St",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "677 W Liberty St Medina OH 44256",
+    "addr:housenumber": "677",
+    "addr:postcode": "44256",
+    "addr:street": "W Liberty St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.874461,41.139200,-81.874461,41.139200",
+    "geom:latitude": 41.1392,
+    "geom:longitude": -81.874461,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "677 W Liberty St",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 725 0241",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 725 0241",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3kBqxRdBAD0Bak2UI6wnn4_41.139200_-81.874461@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3kBqxRdBAD0Bak2UI6wnn4_41.139200_-81.874461@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794276,
-    "wof:geomhash":"932feea69ecf1605eb713b3a921d2c78",
-    "wof:hierarchy":[],
-    "wof:id":706033445,
-    "wof:lastmodified":1472638794,
-    "wof:name":"Tender Loving Care Animal Hosp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461794276,
+    "wof:geomhash": "0d30bbb26f1c9cf4bfd8d3df0ddd8589",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706033445
+      }
+    ],
+    "wof:id": 706033445,
+    "wof:lastmodified": 1638566955,
+    "wof:name": "Tender Loving Care Animal Hosp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -81.874461,
     41.1392,
     -81.874461,
     41.1392
-],
+  ],
   "geometry": {"coordinates":[-81.874461,41.1392],"type":"Point"}
 }

@@ -2,68 +2,72 @@
   "id": 706572101,
   "type": "Feature",
   "properties": {
-    "addr:full":"876 Eastgate South Dr Cincinnati OH 45245",
-    "addr:housenumber":"876",
-    "addr:postcode":"45245",
-    "addr:street":"Eastgate South Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.265608,39.09422,-84.265608,39.09422",
-    "geom:latitude":39.09422,
-    "geom:longitude":-84.265608,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"876 Eastgate South Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "876 Eastgate South Dr Cincinnati OH 45245",
+    "addr:housenumber": "876",
+    "addr:postcode": "45245",
+    "addr:street": "Eastgate South Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.265608,39.094220,-84.265608,39.094220",
+    "geom:latitude": 39.09422,
+    "geom:longitude": -84.265608,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "876 Eastgate South Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/union/195492-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/union/195492-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1IMLJDd2Vf6dr3MV3RFt0m_39.094220_-84.265608@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1IMLJDd2Vf6dr3MV3RFt0m_39.094220_-84.265608@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806102,
-    "wof:geomhash":"f9aacba98bd0ec7d1ea023552dc9d43a",
-    "wof:hierarchy":[],
-    "wof:id":706572101,
-    "wof:lastmodified":1512142887,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        706281827
+    "wof:country": "US",
+    "wof:created": 1461806102,
+    "wof:geomhash": "f9aacba98bd0ec7d1ea023552dc9d43a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706572101
+      }
     ],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 706572101,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      706281827
+    ],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.265608,
     39.09422,
     -84.265608,
     39.09422
-],
+  ],
   "geometry": {"coordinates":[-84.265608,39.09422],"type":"Point"}
 }

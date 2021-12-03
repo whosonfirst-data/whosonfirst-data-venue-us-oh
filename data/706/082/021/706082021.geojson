@@ -2,56 +2,60 @@
   "id": 706082021,
   "type": "Feature",
   "properties": {
-    "addr:full":"6000 Rockside Woods Blvd Cleveland OH 44131",
-    "addr:housenumber":"6000",
-    "addr:postcode":"44131",
-    "addr:street":"Rockside Woods Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.645622,41.399277,-81.645622,41.399277",
-    "geom:latitude":41.399277,
-    "geom:longitude":-81.645622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6000 Rockside Woods Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Podiatrist",
-            "type":"Services"
-        }
+    "addr:full": "6000 Rockside Woods Blvd Cleveland OH 44131",
+    "addr:housenumber": "6000",
+    "addr:postcode": "44131",
+    "addr:street": "Rockside Woods Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.645622,41.399277,-81.645622,41.399277",
+    "geom:latitude": 41.399277,
+    "geom:longitude": -81.645622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6000 Rockside Woods Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Podiatrist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 642 7902",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5wdkReIlBR5ymrBmJpBUQw_41.399277_-81.645622@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 642 7902",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5wdkReIlBR5ymrBmJpBUQw_41.399277_-81.645622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795298,
-    "wof:geomhash":"3d8b06c5a58738bb2be7692cc47aa947",
-    "wof:hierarchy":[],
-    "wof:id":706082021,
-    "wof:lastmodified":1472639164,
-    "wof:name":"Ohio College-Podiatric Mdcn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461795298,
+    "wof:geomhash": "c83e9d2c9c7970301845cbb75556c491",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706082021
+      }
+    ],
+    "wof:id": 706082021,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Ohio College-Podiatric Mdcn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.645622,
     41.399277,
     -81.645622,
     41.399277
-],
+  ],
   "geometry": {"coordinates":[-81.645622,41.399277],"type":"Point"}
 }

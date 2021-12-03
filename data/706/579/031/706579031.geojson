@@ -2,69 +2,73 @@
   "id": 706579031,
   "type": "Feature",
   "properties": {
-    "addr:full":"1120 E High St Bryan OH 43506",
-    "addr:housenumber":"1120",
-    "addr:postcode":"43506",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.5348,41.474686,-84.5348,41.474686",
-    "geom:latitude":41.474686,
-    "geom:longitude":-84.5348,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1120 E High St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1120 E High St Bryan OH 43506",
+    "addr:housenumber": "1120",
+    "addr:postcode": "43506",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.534800,41.474686,-84.534800,41.474686",
+    "geom:latitude": 41.474686,
+    "geom:longitude": -84.5348,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1120 E High St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/bryan/164637-wendys/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 3027",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american",
-        "soup"
+    "sg:menulink": "http://www.allmenus.com/oh/bryan/164637-wendys/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 3027",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american",
+      "soup"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573903,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1X09rv1hkndabi15YYznal_41.474588_-84.535463@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573903,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1X09rv1hkndabi15YYznal_41.474588_-84.535463@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806291,
-    "wof:geomhash":"fb675b2f18999847595f5009a2aa1d3f",
-    "wof:hierarchy":[],
-    "wof:id":706579031,
-    "wof:lastmodified":1511322601,
-    "wof:name":"Wendy's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american",
-        "soup"
+    "wof:country": "US",
+    "wof:created": 1461806291,
+    "wof:geomhash": "fb675b2f18999847595f5009a2aa1d3f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706579031
+      }
+    ],
+    "wof:id": 706579031,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Wendy's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american",
+      "soup"
     ]
-},
+  },
   "bbox": [
     -84.5348,
     41.474686,
     -84.5348,
     41.474686
-],
+  ],
   "geometry": {"coordinates":[-84.5348,41.474686],"type":"Point"}
 }

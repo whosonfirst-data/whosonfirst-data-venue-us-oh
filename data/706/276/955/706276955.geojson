@@ -2,56 +2,60 @@
   "id": 706276955,
   "type": "Feature",
   "properties": {
-    "addr:full":"15893 US Rte 33 Wapakoneta OH 45895",
-    "addr:housenumber":"",
-    "addr:postcode":"15893;45895",
-    "addr:street":"Rte 33",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.14698,40.555752,-84.14698,40.555752",
-    "geom:latitude":40.555752,
-    "geom:longitude":-84.14698,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15893 US Rte 33",
-    "sg:city":"Wapakoneta",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "15893 US Rte 33 Wapakoneta OH 45895",
+    "addr:housenumber": "",
+    "addr:postcode": "15893;45895",
+    "addr:street": "Rte 33",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.146980,40.555752,-84.146980,40.555752",
+    "geom:latitude": 40.555752,
+    "geom:longitude": -84.14698,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15893 US Rte 33",
+    "sg:city": "Wapakoneta",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 738 8258",
-    "sg:postcode":"45895",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4IdrVX1D9xVRtcJLetG2mF_40.555752_-84.146980@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 738 8258",
+    "sg:postcode": "45895",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4IdrVX1D9xVRtcJLetG2mF_40.555752_-84.146980@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799774,
-    "wof:geomhash":"95e7504f217dbd2589510a0bafd609eb",
-    "wof:hierarchy":[],
-    "wof:id":706276955,
-    "wof:lastmodified":1472639643,
-    "wof:name":"Jerrys Bait Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461799774,
+    "wof:geomhash": "83da6586ed55a47d8619fe8a90416128",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706276955
+      }
+    ],
+    "wof:id": 706276955,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Jerrys Bait Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.14698,
     40.555752,
     -84.14698,
     40.555752
-],
+  ],
   "geometry": {"coordinates":[-84.14698,40.555752],"type":"Point"}
 }

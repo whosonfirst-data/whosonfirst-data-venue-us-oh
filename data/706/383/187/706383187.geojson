@@ -2,61 +2,65 @@
   "id": 706383187,
   "type": "Feature",
   "properties": {
-    "addr:full":"8985 New Haven Rd Harrison OH 45030",
-    "addr:housenumber":"8985",
-    "addr:postcode":"45030",
-    "addr:street":"New Haven Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.737639,39.27534,-84.737639,39.27534",
-    "geom:latitude":39.27534,
-    "geom:longitude":-84.737639,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8985 New Haven Rd",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "8985 New Haven Rd Harrison OH 45030",
+    "addr:housenumber": "8985",
+    "addr:postcode": "45030",
+    "addr:street": "New Haven Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.737639,39.275340,-84.737639,39.275340",
+    "geom:latitude": 39.27534,
+    "geom:longitude": -84.737639,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8985 New Haven Rd",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 738 3800",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 738 3800",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6JlGa2ai8IRXJjXAzOXyht_39.275340_-84.737639@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6JlGa2ai8IRXJjXAzOXyht_39.275340_-84.737639@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802076,
-    "wof:geomhash":"464dfb7b6fca05ee88e0829ce5a8b035",
-    "wof:hierarchy":[],
-    "wof:id":706383187,
-    "wof:lastmodified":1472639951,
-    "wof:name":"New Haven Road Church Of God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461802076,
+    "wof:geomhash": "75900326b9d391e020dab3c7f64363a7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706383187
+      }
+    ],
+    "wof:id": 706383187,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "New Haven Road Church Of God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.737639,
     39.27534,
     -84.737639,
     39.27534
-],
+  ],
   "geometry": {"coordinates":[-84.737639,39.27534],"type":"Point"}
 }

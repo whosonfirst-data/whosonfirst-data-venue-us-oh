@@ -2,61 +2,65 @@
   "id": 706153129,
   "type": "Feature",
   "properties": {
-    "addr:full":"2662 Belfort Ave Louisville OH 44641",
-    "addr:housenumber":"2662",
-    "addr:postcode":"44641",
-    "addr:street":"Belfort Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.241187,40.808329,-81.241187,40.808329",
-    "geom:latitude":40.808329,
-    "geom:longitude":-81.241187,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2662 Belfort Ave",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Surveying",
-            "type":"Services"
-        }
+    "addr:full": "2662 Belfort Ave Louisville OH 44641",
+    "addr:housenumber": "2662",
+    "addr:postcode": "44641",
+    "addr:street": "Belfort Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.241187,40.808329,-81.241187,40.808329",
+    "geom:latitude": 40.808329,
+    "geom:longitude": -81.241187,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2662 Belfort Ave",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Surveying",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 875 1711",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "surveyor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 875 1711",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "surveyor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ZMGPcEQVksV4WSPTz369X_40.808329_-81.241187@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ZMGPcEQVksV4WSPTz369X_40.808329_-81.241187@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797049,
-    "wof:geomhash":"1b954626de2305ed19185063c355f28a",
-    "wof:hierarchy":[],
-    "wof:id":706153129,
-    "wof:lastmodified":1472639347,
-    "wof:name":"Holden's Surveying",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "surveyor"
+    "wof:country": "US",
+    "wof:created": 1461797049,
+    "wof:geomhash": "f4012f95f09949e713681d83d05bcb36",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706153129
+      }
+    ],
+    "wof:id": 706153129,
+    "wof:lastmodified": 1638567019,
+    "wof:name": "Holden's Surveying",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "surveyor"
     ]
-},
+  },
   "bbox": [
     -81.241187,
     40.808329,
     -81.241187,
     40.808329
-],
+  ],
   "geometry": {"coordinates":[-81.241187,40.808329],"type":"Point"}
 }

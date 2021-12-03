@@ -2,61 +2,65 @@
   "id": 706305515,
   "type": "Feature",
   "properties": {
-    "addr:full":"322 Chambers Rd Mansfield OH 44903",
-    "addr:housenumber":"322",
-    "addr:postcode":"44903",
-    "addr:street":"Chambers Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.60405,40.749169,-82.60405,40.749169",
-    "geom:latitude":40.749169,
-    "geom:longitude":-82.60405,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"322 Chambers Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "322 Chambers Rd Mansfield OH 44903",
+    "addr:housenumber": "322",
+    "addr:postcode": "44903",
+    "addr:street": "Chambers Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.604050,40.749169,-82.604050,40.749169",
+    "geom:latitude": 40.749169,
+    "geom:longitude": -82.60405,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "322 Chambers Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 564 4777",
-    "sg:postcode":"44903",
-    "sg:province":"OH",
-    "sg:tags":[
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 564 4777",
+    "sg:postcode": "44903",
+    "sg:province": "OH",
+    "sg:tags": [
+      "residential"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0KX95ziHyuUgEvho5jTGae_40.749169_-82.604050@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0KX95ziHyuUgEvho5jTGae_40.749169_-82.604050@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800420,
-    "wof:geomhash":"e630efee8146c25e091525262e0c6118",
-    "wof:hierarchy":[],
-    "wof:id":706305515,
-    "wof:lastmodified":1472639749,
-    "wof:name":"Lowe Art Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461800420,
+    "wof:geomhash": "e70b979bc1042eab25f12e53b02cbac2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706305515
+      }
+    ],
+    "wof:id": 706305515,
+    "wof:lastmodified": 1638567081,
+    "wof:name": "Lowe Art Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential"
     ]
-},
+  },
   "bbox": [
     -82.60405,
     40.749169,
     -82.60405,
     40.749169
-],
+  ],
   "geometry": {"coordinates":[-82.60405,40.749169],"type":"Point"}
 }

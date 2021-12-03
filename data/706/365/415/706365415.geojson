@@ -2,61 +2,65 @@
   "id": 706365415,
   "type": "Feature",
   "properties": {
-    "addr:full":"1247 Park Ave E Mansfield OH 44905",
-    "addr:housenumber":"1247",
-    "addr:postcode":"44905",
-    "addr:street":"Park Ave E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.469351,40.762903,-82.469351,40.762903",
-    "geom:latitude":40.762903,
-    "geom:longitude":-82.469351,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1247 Park Ave E",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1247 Park Ave E Mansfield OH 44905",
+    "addr:housenumber": "1247",
+    "addr:postcode": "44905",
+    "addr:street": "Park Ave E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.469351,40.762903,-82.469351,40.762903",
+    "geom:latitude": 40.762903,
+    "geom:longitude": -82.469351,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1247 Park Ave E",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 589 7440",
-    "sg:postcode":"44905",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 589 7440",
+    "sg:postcode": "44905",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7dVqLZFmkdmoDFkOZ3HwFQ_40.762903_-82.469351@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7dVqLZFmkdmoDFkOZ3HwFQ_40.762903_-82.469351@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801721,
-    "wof:geomhash":"d5ee7d0f2a36dd57fae0eda7644a6c2c",
-    "wof:hierarchy":[],
-    "wof:id":706365415,
-    "wof:lastmodified":1472639926,
-    "wof:name":"Highway Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461801721,
+    "wof:geomhash": "31f5a82b88d257c8813bdb12c942a339",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706365415
+      }
+    ],
+    "wof:id": 706365415,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Highway Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.469351,
     40.762903,
     -82.469351,
     40.762903
-],
+  ],
   "geometry": {"coordinates":[-82.469351,40.762903],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706383337,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 Illinois Ave N Mansfield OH 44905",
-    "addr:housenumber":"103",
-    "addr:postcode":"44905",
-    "addr:street":"Illinois Ave N",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.484309,40.758874,-82.484309,40.758874",
-    "geom:latitude":40.758874,
-    "geom:longitude":-82.484309,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"103 Illinois Ave N",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "103 Illinois Ave N Mansfield OH 44905",
+    "addr:housenumber": "103",
+    "addr:postcode": "44905",
+    "addr:street": "Illinois Ave N",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.484309,40.758874,-82.484309,40.758874",
+    "geom:latitude": 40.758874,
+    "geom:longitude": -82.484309,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "103 Illinois Ave N",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 589 8161",
-    "sg:postcode":"44905",
-    "sg:province":"OH",
-    "sg:tags":[
-        "truck"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 589 8161",
+    "sg:postcode": "44905",
+    "sg:province": "OH",
+    "sg:tags": [
+      "truck"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4JdmzpR2iTvy4YBJrzM8Wz_40.758874_-82.484309@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4JdmzpR2iTvy4YBJrzM8Wz_40.758874_-82.484309@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802078,
-    "wof:geomhash":"5daebeb0b42b4f2305bec034c480cee2",
-    "wof:hierarchy":[],
-    "wof:id":706383337,
-    "wof:lastmodified":1472639959,
-    "wof:name":"Rebman Truck Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "truck"
+    "wof:country": "US",
+    "wof:created": 1461802078,
+    "wof:geomhash": "ac1499d7e7cc0039eaf0b82f66f240f8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706383337
+      }
+    ],
+    "wof:id": 706383337,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Rebman Truck Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "truck"
     ]
-},
+  },
   "bbox": [
     -82.484309,
     40.758874,
     -82.484309,
     40.758874
-],
+  ],
   "geometry": {"coordinates":[-82.484309,40.758874],"type":"Point"}
 }

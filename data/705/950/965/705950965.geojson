@@ -2,61 +2,65 @@
   "id": 705950965,
   "type": "Feature",
   "properties": {
-    "addr:full":"7602 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7602",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.371628,39.31864,-84.371628,39.31864",
-    "geom:latitude":39.31864,
-    "geom:longitude":-84.371628,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7602 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "7602 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7602",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.371628,39.318640,-84.371628,39.318640",
+    "geom:latitude": 39.31864,
+    "geom:longitude": -84.371628,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7602 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 779 0343",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manicuring"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 779 0343",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manicuring"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2PYxsyQf8109xouv2zPxWI_39.318640_-84.371628@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2PYxsyQf8109xouv2zPxWI_39.318640_-84.371628@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792550,
-    "wof:geomhash":"55550f3151958547e0b59bd01d2f90bf",
-    "wof:hierarchy":[],
-    "wof:id":705950965,
-    "wof:lastmodified":1472639703,
-    "wof:name":"Nails Today",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manicuring"
+    "wof:country": "US",
+    "wof:created": 1461792550,
+    "wof:geomhash": "782df0b37e5f5db9b4af586f60636e13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705950965
+      }
+    ],
+    "wof:id": 705950965,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Nails Today",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manicuring"
     ]
-},
+  },
   "bbox": [
     -84.371628,
     39.31864,
     -84.371628,
     39.31864
-],
+  ],
   "geometry": {"coordinates":[-84.371628,39.31864],"type":"Point"}
 }

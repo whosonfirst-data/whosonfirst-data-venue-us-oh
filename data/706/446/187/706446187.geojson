@@ -2,61 +2,65 @@
   "id": 706446187,
   "type": "Feature",
   "properties": {
-    "addr:full":"3875 Argonne St Mogadore OH 44260",
-    "addr:housenumber":"3875",
-    "addr:postcode":"44260",
-    "addr:street":"Argonne St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.39518,41.043025,-81.39518,41.043025",
-    "geom:latitude":41.043025,
-    "geom:longitude":-81.39518,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3875 Argonne St",
-    "sg:city":"Mogadore",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Advertising",
-            "type":"Services"
-        }
+    "addr:full": "3875 Argonne St Mogadore OH 44260",
+    "addr:housenumber": "3875",
+    "addr:postcode": "44260",
+    "addr:street": "Argonne St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.395180,41.043025,-81.395180,41.043025",
+    "geom:latitude": 41.043025,
+    "geom:longitude": -81.39518,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3875 Argonne St",
+    "sg:city": "Mogadore",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Advertising",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 628 5959",
-    "sg:postcode":"44260",
-    "sg:province":"OH",
-    "sg:tags":[
-        "counselor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 628 5959",
+    "sg:postcode": "44260",
+    "sg:province": "OH",
+    "sg:tags": [
+      "counselor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5jAAX7XzW8ekdciGC1mVTY_41.043025_-81.395180@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5jAAX7XzW8ekdciGC1mVTY_41.043025_-81.395180@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803357,
-    "wof:geomhash":"546f73989079e811468d494bc8a9771f",
-    "wof:hierarchy":[],
-    "wof:id":706446187,
-    "wof:lastmodified":1472640023,
-    "wof:name":"Renaissance Advertising",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counselor"
+    "wof:country": "US",
+    "wof:created": 1461803357,
+    "wof:geomhash": "3244653895596c1869c42edee40d7001",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706446187
+      }
+    ],
+    "wof:id": 706446187,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Renaissance Advertising",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counselor"
     ]
-},
+  },
   "bbox": [
     -81.39518,
     41.043025,
     -81.39518,
     41.043025
-],
+  ],
   "geometry": {"coordinates":[-81.39518,41.043025],"type":"Point"}
 }

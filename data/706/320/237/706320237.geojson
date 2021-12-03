@@ -2,61 +2,65 @@
   "id": 706320237,
   "type": "Feature",
   "properties": {
-    "addr:full":"802 Court St Fremont OH 43420",
-    "addr:housenumber":"802",
-    "addr:postcode":"43420",
-    "addr:street":"Court St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.120914,41.347569,-83.120914,41.347569",
-    "geom:latitude":41.347569,
-    "geom:longitude":-83.120914,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"802 Court St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "802 Court St Fremont OH 43420",
+    "addr:housenumber": "802",
+    "addr:postcode": "43420",
+    "addr:street": "Court St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.120914,41.347569,-83.120914,41.347569",
+    "geom:latitude": 41.347569,
+    "geom:longitude": -83.120914,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "802 Court St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 4722",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 4722",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4fGuNLDbvOmYYYHdaVch48_41.347569_-83.120914@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4fGuNLDbvOmYYYHdaVch48_41.347569_-83.120914@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800730,
-    "wof:geomhash":"a57c82f3c27fdab1d4f9a457b617688c",
-    "wof:hierarchy":[],
-    "wof:id":706320237,
-    "wof:lastmodified":1472639796,
-    "wof:name":"James H Ellis Law Offices",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461800730,
+    "wof:geomhash": "1a8ba5ca100887c3aaa531f19fd7ea35",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706320237
+      }
+    ],
+    "wof:id": 706320237,
+    "wof:lastmodified": 1638567086,
+    "wof:name": "James H Ellis Law Offices",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.120914,
     41.347569,
     -83.120914,
     41.347569
-],
+  ],
   "geometry": {"coordinates":[-83.120914,41.347569],"type":"Point"}
 }

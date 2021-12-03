@@ -2,61 +2,65 @@
   "id": 706411587,
   "type": "Feature",
   "properties": {
-    "addr:full":"1050 N Market St Troy OH 45373",
-    "addr:housenumber":"1050",
-    "addr:postcode":"45373",
-    "addr:street":"N Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.192549,40.051374,-84.192549,40.051374",
-    "geom:latitude":40.051374,
-    "geom:longitude":-84.192549,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1050 N Market St",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1050 N Market St Troy OH 45373",
+    "addr:housenumber": "1050",
+    "addr:postcode": "45373",
+    "addr:street": "N Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.192549,40.051374,-84.192549,40.051374",
+    "geom:latitude": 40.051374,
+    "geom:longitude": -84.192549,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1050 N Market St",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 335 4359",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 335 4359",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0TxTmxlL04uwfmltCThrf6_40.051374_-84.192549@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0TxTmxlL04uwfmltCThrf6_40.051374_-84.192549@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802629,
-    "wof:geomhash":"2bf8535e5f7b24f47e991b4bcea9f88a",
-    "wof:hierarchy":[],
-    "wof:id":706411587,
-    "wof:lastmodified":1472640001,
-    "wof:name":"John M Bozick DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461802629,
+    "wof:geomhash": "6961de6a3034ce380be07f8db03cfcc2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706411587
+      }
+    ],
+    "wof:id": 706411587,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "John M Bozick DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.192549,
     40.051374,
     -84.192549,
     40.051374
-],
+  ],
   "geometry": {"coordinates":[-84.192549,40.051374],"type":"Point"}
 }

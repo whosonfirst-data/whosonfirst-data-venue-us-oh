@@ -2,63 +2,67 @@
   "id": 706052581,
   "type": "Feature",
   "properties": {
-    "addr:full":"959 W North St Lima OH 45805",
-    "addr:housenumber":"959",
-    "addr:postcode":"45805",
-    "addr:street":"W North St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.121395,40.74247,-84.121395,40.74247",
-    "geom:latitude":40.74247,
-    "geom:longitude":-84.121395,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"959 W North St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "959 W North St Lima OH 45805",
+    "addr:housenumber": "959",
+    "addr:postcode": "45805",
+    "addr:street": "W North St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.121395,40.742470,-84.121395,40.742470",
+    "geom:latitude": 40.74247,
+    "geom:longitude": -84.121395,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "959 W North St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 226 9064",
-    "sg:postcode":"45805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "nurse",
-        "registry"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 226 9064",
+    "sg:postcode": "45805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "nurse",
+      "registry"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Verh5sBiY7tD1j5Z4g66l_40.742470_-84.121395@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Verh5sBiY7tD1j5Z4g66l_40.742470_-84.121395@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794652,
-    "wof:geomhash":"871df490af70063bc70393b571c6846e",
-    "wof:hierarchy":[],
-    "wof:id":706052581,
-    "wof:lastmodified":1472639140,
-    "wof:name":"St Rita's Hospice",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "nurse",
-        "registry"
+    "wof:country": "US",
+    "wof:created": 1461794652,
+    "wof:geomhash": "0d5ce0e463e903e7f46e6454f1c3857e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706052581
+      }
+    ],
+    "wof:id": 706052581,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "St Rita's Hospice",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nurse",
+      "registry"
     ]
-},
+  },
   "bbox": [
     -84.121395,
     40.74247,
     -84.121395,
     40.74247
-],
-  "geometry": {"coordinates":[-84.12139500000001,40.74247],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.121395,40.74247],"type":"Point"}
 }

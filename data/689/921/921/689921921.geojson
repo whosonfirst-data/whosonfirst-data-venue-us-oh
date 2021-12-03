@@ -2,63 +2,67 @@
   "id": 689921921,
   "type": "Feature",
   "properties": {
-    "addr:full":"7345 Jeffers Rd Whitehouse OH 43571",
-    "addr:housenumber":"7345",
-    "addr:postcode":"43571",
-    "addr:street":"Jeffers Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.85572,41.50574,-83.85572,41.50574",
-    "geom:latitude":41.50574,
-    "geom:longitude":-83.85572,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7345 Jeffers Rd",
-    "sg:city":"Whitehouse",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Electrical",
-            "type":"Services"
-        }
+    "addr:full": "7345 Jeffers Rd Whitehouse OH 43571",
+    "addr:housenumber": "7345",
+    "addr:postcode": "43571",
+    "addr:street": "Jeffers Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.855720,41.505740,-83.855720,41.505740",
+    "geom:latitude": 41.50574,
+    "geom:longitude": -83.85572,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7345 Jeffers Rd",
+    "sg:city": "Whitehouse",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Electrical",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 875 5157",
-    "sg:postcode":"43571",
-    "sg:province":"OH",
-    "sg:tags":[
-        "electrical",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 875 5157",
+    "sg:postcode": "43571",
+    "sg:province": "OH",
+    "sg:tags": [
+      "electrical",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2wdbFjmk41HL1YzbD3YVdU_41.505740_-83.855720@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2wdbFjmk41HL1YzbD3YVdU_41.505740_-83.855720@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785165,
-    "wof:geomhash":"7e9f376bb377503ae57bf3d1521e6ece",
-    "wof:hierarchy":[],
-    "wof:id":689921921,
-    "wof:lastmodified":1472640087,
-    "wof:name":"Dynamic Currents Corp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "electrical",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461785165,
+    "wof:geomhash": "bd534be9041127613cdf60ef07b137ca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689921921
+      }
+    ],
+    "wof:id": 689921921,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Dynamic Currents Corp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "electrical",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.85572,
     41.50574,
     -83.85572,
     41.50574
-],
-  "geometry": {"coordinates":[-83.85572000000001,41.50574],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.85572,41.50574],"type":"Point"}
 }

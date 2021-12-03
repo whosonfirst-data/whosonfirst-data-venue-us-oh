@@ -2,61 +2,65 @@
   "id": 705990715,
   "type": "Feature",
   "properties": {
-    "addr:full":"77 W Center St Milford Center OH 43045",
-    "addr:housenumber":"77",
-    "addr:postcode":"43045",
-    "addr:street":"W Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.437139,40.178225,-83.437139,40.178225",
-    "geom:latitude":40.178225,
-    "geom:longitude":-83.437139,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"77 W Center St",
-    "sg:city":"Milford Center",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "77 W Center St Milford Center OH 43045",
+    "addr:housenumber": "77",
+    "addr:postcode": "43045",
+    "addr:street": "W Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.437139,40.178225,-83.437139,40.178225",
+    "geom:latitude": 40.178225,
+    "geom:longitude": -83.437139,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "77 W Center St",
+    "sg:city": "Milford Center",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 349 3281",
-    "sg:postcode":"43045",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 349 3281",
+    "sg:postcode": "43045",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_59oPgn2B6pCIyxJFIaQu79_40.178225_-83.437139@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_59oPgn2B6pCIyxJFIaQu79_40.178225_-83.437139@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793383,
-    "wof:geomhash":"09fbee8db3762295a5922e32de027b18",
-    "wof:hierarchy":[],
-    "wof:id":705990715,
-    "wof:lastmodified":1472639811,
-    "wof:name":"Trinity Chapel Church-Christ",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793383,
+    "wof:geomhash": "e4ec0fea0227079b171d10511c8ed3d2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705990715
+      }
+    ],
+    "wof:id": 705990715,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Trinity Chapel Church-Christ",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.437139,
     40.178225,
     -83.437139,
     40.178225
-],
+  ],
   "geometry": {"coordinates":[-83.437139,40.178225],"type":"Point"}
 }

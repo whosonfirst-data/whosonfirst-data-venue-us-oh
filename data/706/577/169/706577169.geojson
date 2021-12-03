@@ -2,67 +2,71 @@
   "id": 706577169,
   "type": "Feature",
   "properties": {
-    "addr:full":"1921 Tiffin Ave Findlay OH 45840",
-    "addr:housenumber":"1921",
-    "addr:postcode":"45840",
-    "addr:street":"Tiffin Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.610926,41.053452,-83.610926,41.053452",
-    "geom:latitude":41.053452,
-    "geom:longitude":-83.610926,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"1921 Tiffin Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1921 Tiffin Ave Findlay OH 45840",
+    "addr:housenumber": "1921",
+    "addr:postcode": "45840",
+    "addr:street": "Tiffin Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.610926,41.053452,-83.610926,41.053452",
+    "geom:latitude": 41.053452,
+    "geom:longitude": -83.610926,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "1921 Tiffin Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/findlay/195025-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/findlay/195025-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":230509621,
-        "sg:id":"SG_7cLh9l7Smufhu30yUFeA8m_41.053452_-83.610926@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 230509621,
+      "sg:id": "SG_7cLh9l7Smufhu30yUFeA8m_41.053452_-83.610926@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806245,
-    "wof:geomhash":"03d82fa25c89125dc479ed04938c1226",
-    "wof:hierarchy":[],
-    "wof:id":706577169,
-    "wof:lastmodified":1512142993,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806245,
+    "wof:geomhash": "03d82fa25c89125dc479ed04938c1226",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706577169
+      }
+    ],
+    "wof:id": 706577169,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -83.610926,
     41.053452,
     -83.610926,
     41.053452
-],
-  "geometry": {"coordinates":[-83.61092600000001,41.053452],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.610926,41.053452],"type":"Point"}
 }

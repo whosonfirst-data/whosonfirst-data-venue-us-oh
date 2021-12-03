@@ -2,61 +2,65 @@
   "id": 689945345,
   "type": "Feature",
   "properties": {
-    "addr:full":"5100 River Rd Madison OH 44081",
-    "addr:housenumber":"5100",
-    "addr:postcode":"44081",
-    "addr:street":"River Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.107124,41.741909,-81.107124,41.741909",
-    "geom:latitude":41.741909,
-    "geom:longitude":-81.107124,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5100 River Rd",
-    "sg:city":"Madison",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "5100 River Rd Madison OH 44081",
+    "addr:housenumber": "5100",
+    "addr:postcode": "44081",
+    "addr:street": "River Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.107124,41.741909,-81.107124,41.741909",
+    "geom:latitude": 41.741909,
+    "geom:longitude": -81.107124,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5100 River Rd",
+    "sg:city": "Madison",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 259 4288",
-    "sg:postcode":"44081",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 259 4288",
+    "sg:postcode": "44081",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hQyEMJ5X3Gryws03lOl6D_41.741909_-81.107124@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7hQyEMJ5X3Gryws03lOl6D_41.741909_-81.107124@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785737,
-    "wof:geomhash":"b7a622affb24276196ea190ccb5f6dbb",
-    "wof:hierarchy":[],
-    "wof:id":689945345,
-    "wof:lastmodified":1472640105,
-    "wof:name":"Custom Building Solutions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461785737,
+    "wof:geomhash": "0cc9a9bc0279e8c25c5f394cb6edd2b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689945345
+      }
+    ],
+    "wof:id": 689945345,
+    "wof:lastmodified": 1638567116,
+    "wof:name": "Custom Building Solutions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -81.107124,
     41.741909,
     -81.107124,
     41.741909
-],
+  ],
   "geometry": {"coordinates":[-81.107124,41.741909],"type":"Point"}
 }

@@ -2,66 +2,70 @@
   "id": 705880577,
   "type": "Feature",
   "properties": {
-    "addr:full":"29601 Norfolk Dr Bay Village OH 44140",
-    "addr:housenumber":"29601",
-    "addr:postcode":"44140",
-    "addr:street":"Norfolk Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.948739,41.478483,-81.948739,41.478483",
-    "geom:latitude":41.478483,
-    "geom:longitude":-81.948739,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"29601 Norfolk Dr",
-    "sg:city":"Bay Village",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "29601 Norfolk Dr Bay Village OH 44140",
+    "addr:housenumber": "29601",
+    "addr:postcode": "44140",
+    "addr:street": "Norfolk Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.948739,41.478483,-81.948739,41.478483",
+    "geom:latitude": 41.478483,
+    "geom:longitude": -81.948739,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "29601 Norfolk Dr",
+    "sg:city": "Bay Village",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 264 6520",
-    "sg:postcode":"44140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 264 6520",
+    "sg:postcode": "44140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574173,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5eKjyi58onMq1IB7GHziqa_41.478483_-81.948739@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574173,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5eKjyi58onMq1IB7GHziqa_41.478483_-81.948739@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790943,
-    "wof:geomhash":"8637636d050a667e4527ffdd7e30c47d",
-    "wof:hierarchy":[],
-    "wof:id":705880577,
-    "wof:lastmodified":1511324210,
-    "wof:name":"BP",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461790943,
+    "wof:geomhash": "8637636d050a667e4527ffdd7e30c47d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705880577
+      }
+    ],
+    "wof:id": 705880577,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "BP",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -81.948739,
     41.478483,
     -81.948739,
     41.478483
-],
+  ],
   "geometry": {"coordinates":[-81.948739,41.478483],"type":"Point"}
 }

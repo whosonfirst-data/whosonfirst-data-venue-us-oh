@@ -2,61 +2,65 @@
   "id": 689657083,
   "type": "Feature",
   "properties": {
-    "addr:full":"166 Mount Holly Rd Amelia OH 45102",
-    "addr:housenumber":"166",
-    "addr:postcode":"45102",
-    "addr:street":"Mount Holly Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.184085,39.028372,-84.184085,39.028372",
-    "geom:latitude":39.028372,
-    "geom:longitude":-84.184085,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"166 Mount Holly Rd",
-    "sg:city":"Amelia",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "166 Mount Holly Rd Amelia OH 45102",
+    "addr:housenumber": "166",
+    "addr:postcode": "45102",
+    "addr:street": "Mount Holly Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.184085,39.028372,-84.184085,39.028372",
+    "geom:latitude": 39.028372,
+    "geom:longitude": -84.184085,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "166 Mount Holly Rd",
+    "sg:city": "Amelia",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 351 0800",
-    "sg:postcode":"45102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 351 0800",
+    "sg:postcode": "45102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6QW8dXEN6aX20AQi6Itft8_39.028372_-84.184085@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6QW8dXEN6aX20AQi6Itft8_39.028372_-84.184085@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778049,
-    "wof:geomhash":"9020297a14b4d60a36f2d1a8be0007fb",
-    "wof:hierarchy":[],
-    "wof:id":689657083,
-    "wof:lastmodified":1472639556,
-    "wof:name":"Ronald Alsip",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461778049,
+    "wof:geomhash": "b7048c4faa77d3cb8e36f5e180e4ba62",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689657083
+      }
+    ],
+    "wof:id": 689657083,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Ronald Alsip",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -84.184085,
     39.028372,
     -84.184085,
     39.028372
-],
+  ],
   "geometry": {"coordinates":[-84.184085,39.028372],"type":"Point"}
 }

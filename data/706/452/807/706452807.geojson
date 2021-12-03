@@ -2,61 +2,65 @@
   "id": 706452807,
   "type": "Feature",
   "properties": {
-    "addr:full":"5 Earl Davis Rd Oak Hill OH 45656",
-    "addr:housenumber":"5",
-    "addr:postcode":"45656",
-    "addr:street":"Earl Davis Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.682446,38.890491,-82.682446,38.890491",
-    "geom:latitude":38.890491,
-    "geom:longitude":-82.682446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5 Earl Davis Rd",
-    "sg:city":"Oak Hill",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "5 Earl Davis Rd Oak Hill OH 45656",
+    "addr:housenumber": "5",
+    "addr:postcode": "45656",
+    "addr:street": "Earl Davis Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.682446,38.890491,-82.682446,38.890491",
+    "geom:latitude": 38.890491,
+    "geom:longitude": -82.682446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5 Earl Davis Rd",
+    "sg:city": "Oak Hill",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 3540",
-    "sg:postcode":"45656",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 3540",
+    "sg:postcode": "45656",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4YlXfkoUe5rFgTEHz327y3_38.890491_-82.682446@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4YlXfkoUe5rFgTEHz327y3_38.890491_-82.682446@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803503,
-    "wof:geomhash":"0432c7c2b5ac247c39b105823eba3446",
-    "wof:hierarchy":[],
-    "wof:id":706452807,
-    "wof:lastmodified":1472640045,
-    "wof:name":"Hamilton Cemetery Assoc Inc",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461803503,
+    "wof:geomhash": "5df0eaf67ce1c9ab3e286b0bbc5335eb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706452807
+      }
+    ],
+    "wof:id": 706452807,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Hamilton Cemetery Assoc Inc",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -82.682446,
     38.890491,
     -82.682446,
     38.890491
-],
+  ],
   "geometry": {"coordinates":[-82.682446,38.890491],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689841689,
   "type": "Feature",
   "properties": {
-    "addr:full":"331 N Adams St Loudonville OH 44842",
-    "addr:housenumber":"331",
-    "addr:postcode":"44842",
-    "addr:street":"N Adams St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.229009,40.638239,-82.229009,40.638239",
-    "geom:latitude":40.638239,
-    "geom:longitude":-82.229009,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"331 N Adams St",
-    "sg:city":"Loudonville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "331 N Adams St Loudonville OH 44842",
+    "addr:housenumber": "331",
+    "addr:postcode": "44842",
+    "addr:street": "N Adams St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.229009,40.638239,-82.229009,40.638239",
+    "geom:latitude": 40.638239,
+    "geom:longitude": -82.229009,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "331 N Adams St",
+    "sg:city": "Loudonville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 994 9015",
-    "sg:postcode":"44842",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 994 9015",
+    "sg:postcode": "44842",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_32FWrI0xt7mdHXvfsxDBWO_40.638239_-82.229009@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_32FWrI0xt7mdHXvfsxDBWO_40.638239_-82.229009@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783136,
-    "wof:geomhash":"77eb666aa6648912d66867f7a78167ce",
-    "wof:hierarchy":[],
-    "wof:id":689841689,
-    "wof:lastmodified":1472639924,
-    "wof:name":"WIL-Lo Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461783136,
+    "wof:geomhash": "3525753d7d25dfe7ca6bfa6aa94e7e2a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689841689
+      }
+    ],
+    "wof:id": 689841689,
+    "wof:lastmodified": 1638567075,
+    "wof:name": "WIL-Lo Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -82.229009,
     40.638239,
     -82.229009,
     40.638239
-],
+  ],
   "geometry": {"coordinates":[-82.229009,40.638239],"type":"Point"}
 }

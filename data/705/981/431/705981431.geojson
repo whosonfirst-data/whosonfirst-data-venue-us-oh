@@ -2,63 +2,67 @@
   "id": 705981431,
   "type": "Feature",
   "properties": {
-    "addr:full":"2718 Sunset Blvd Steubenville OH 43952",
-    "addr:housenumber":"2718",
-    "addr:postcode":"43952",
-    "addr:street":"Sunset Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.652836,40.374357,-80.652836,40.374357",
-    "geom:latitude":40.374357,
-    "geom:longitude":-80.652836,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2718 Sunset Blvd",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2718 Sunset Blvd Steubenville OH 43952",
+    "addr:housenumber": "2718",
+    "addr:postcode": "43952",
+    "addr:street": "Sunset Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.652836,40.374357,-80.652836,40.374357",
+    "geom:latitude": 40.374357,
+    "geom:longitude": -80.652836,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2718 Sunset Blvd",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 266 6622",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 266 6622",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_28bgt95MBIc06lnqR8tqx3_40.374357_-80.652836@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_28bgt95MBIc06lnqR8tqx3_40.374357_-80.652836@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793193,
-    "wof:geomhash":"399533f26ffa4b41358bd1debc063738",
-    "wof:hierarchy":[],
-    "wof:id":705981431,
-    "wof:lastmodified":1472639780,
-    "wof:name":"Trinity Anesthesia Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461793193,
+    "wof:geomhash": "e51d731cfd0acfda560fc95fcae9a459",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705981431
+      }
+    ],
+    "wof:id": 705981431,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Trinity Anesthesia Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.652836,
     40.374357,
     -80.652836,
     40.374357
-],
-  "geometry": {"coordinates":[-80.65283599999999,40.374357],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.652836,40.374357],"type":"Point"}
 }

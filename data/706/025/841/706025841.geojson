@@ -2,61 +2,65 @@
   "id": 706025841,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 S State St Verona OH 45378",
-    "addr:housenumber":"206",
-    "addr:postcode":"45378",
-    "addr:street":"S State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.485198,39.902052,-84.485198,39.902052",
-    "geom:latitude":39.902052,
-    "geom:longitude":-84.485198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"206 S State St",
-    "sg:city":"Verona",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "206 S State St Verona OH 45378",
+    "addr:housenumber": "206",
+    "addr:postcode": "45378",
+    "addr:street": "S State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.485198,39.902052,-84.485198,39.902052",
+    "geom:latitude": 39.902052,
+    "geom:longitude": -84.485198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "206 S State St",
+    "sg:city": "Verona",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 884 7063",
-    "sg:postcode":"45378",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 884 7063",
+    "sg:postcode": "45378",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3KkDtbAtrt3pOSDCjNjKPu_39.902052_-84.485198@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3KkDtbAtrt3pOSDCjNjKPu_39.902052_-84.485198@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794125,
-    "wof:geomhash":"d7ee5acb5e4bcadab967e8359cdc2e04",
-    "wof:hierarchy":[],
-    "wof:id":706025841,
-    "wof:lastmodified":1472638650,
-    "wof:name":"Verona United Methodist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461794125,
+    "wof:geomhash": "4b7d7ed52ec59bda0e2f08d1cfa91da0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706025841
+      }
+    ],
+    "wof:id": 706025841,
+    "wof:lastmodified": 1638566948,
+    "wof:name": "Verona United Methodist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.485198,
     39.902052,
     -84.485198,
     39.902052
-],
+  ],
   "geometry": {"coordinates":[-84.485198,39.902052],"type":"Point"}
 }

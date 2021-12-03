@@ -2,57 +2,61 @@
   "id": 706235903,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 W Main St Dalton OH 44618",
-    "addr:housenumber":"151",
-    "addr:postcode":"44618",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.698542,40.798677,-81.698542,40.798677",
-    "geom:latitude":40.798677,
-    "geom:longitude":-81.698542,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"151 W Main St",
-    "sg:city":"Dalton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "151 W Main St Dalton OH 44618",
+    "addr:housenumber": "151",
+    "addr:postcode": "44618",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.698542,40.798677,-81.698542,40.798677",
+    "geom:latitude": 40.798677,
+    "geom:longitude": -81.698542,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "151 W Main St",
+    "sg:city": "Dalton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 828 2707",
-    "sg:postcode":"44618",
-    "sg:province":"OH",
-    "sg:website":"www.dalton.k12.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2EmnrBFVWfGxuO3IqNuo6R_40.798677_-81.698542@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 828 2707",
+    "sg:postcode": "44618",
+    "sg:province": "OH",
+    "sg:website": "www.dalton.k12.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2EmnrBFVWfGxuO3IqNuo6R_40.798677_-81.698542@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798852,
-    "wof:geomhash":"00c8e2a9be5fdec483c93674eca9644c",
-    "wof:hierarchy":[],
-    "wof:id":706235903,
-    "wof:lastmodified":1472639583,
-    "wof:name":"Dalton Elementary School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461798852,
+    "wof:geomhash": "d4c054f563adae81af818875f9d35bb4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706235903
+      }
+    ],
+    "wof:id": 706235903,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Dalton Elementary School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.698542,
     40.798677,
     -81.698542,
     40.798677
-],
+  ],
   "geometry": {"coordinates":[-81.698542,40.798677],"type":"Point"}
 }

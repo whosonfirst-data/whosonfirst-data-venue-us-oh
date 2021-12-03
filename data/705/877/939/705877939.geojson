@@ -2,65 +2,69 @@
   "id": 705877939,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 E Summit St Chagrin Falls OH 44022",
-    "addr:housenumber":"115",
-    "addr:postcode":"44022",
-    "addr:street":"E Summit St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.390103,41.435093,-81.390103,41.435093",
-    "geom:latitude":41.435093,
-    "geom:longitude":-81.390103,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 E Summit St",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "115 E Summit St Chagrin Falls OH 44022",
+    "addr:housenumber": "115",
+    "addr:postcode": "44022",
+    "addr:street": "E Summit St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.390103,41.435093,-81.390103,41.435093",
+    "geom:latitude": 41.435093,
+    "geom:longitude": -81.390103,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "115 E Summit St",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 247 5300",
-    "sg:postcode":"44022",
-    "sg:province":"OH",
-    "sg:tags":[
-        "residential",
-        "psychiatric",
-        "care"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 247 5300",
+    "sg:postcode": "44022",
+    "sg:province": "OH",
+    "sg:tags": [
+      "residential",
+      "psychiatric",
+      "care"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4SACFaupqPKgAE5I9gp6LT_41.435093_-81.390103@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4SACFaupqPKgAE5I9gp6LT_41.435093_-81.390103@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790883,
-    "wof:geomhash":"be24d1ffa9fb7bbd54e026daab6b3817",
-    "wof:hierarchy":[],
-    "wof:id":705877939,
-    "wof:lastmodified":1472639515,
-    "wof:name":"B H C Windsor Hospital Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential",
-        "psychiatric",
-        "care"
+    "wof:country": "US",
+    "wof:created": 1461790883,
+    "wof:geomhash": "1c8c7c679b0276feae8c053236edc36a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705877939
+      }
+    ],
+    "wof:id": 705877939,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "B H C Windsor Hospital Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential",
+      "psychiatric",
+      "care"
     ]
-},
+  },
   "bbox": [
     -81.390103,
     41.435093,
     -81.390103,
     41.435093
-],
+  ],
   "geometry": {"coordinates":[-81.390103,41.435093],"type":"Point"}
 }

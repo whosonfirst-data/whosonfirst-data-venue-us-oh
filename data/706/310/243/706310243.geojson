@@ -2,61 +2,65 @@
   "id": 706310243,
   "type": "Feature",
   "properties": {
-    "addr:full":"81 Mill Rd Bellville OH 44813",
-    "addr:housenumber":"81",
-    "addr:postcode":"44813",
-    "addr:street":"Mill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.508613,40.624674,-82.508613,40.624674",
-    "geom:latitude":40.624674,
-    "geom:longitude":-82.508613,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"81 Mill Rd",
-    "sg:city":"Bellville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "81 Mill Rd Bellville OH 44813",
+    "addr:housenumber": "81",
+    "addr:postcode": "44813",
+    "addr:street": "Mill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.508613,40.624674,-82.508613,40.624674",
+    "geom:latitude": 40.624674,
+    "geom:longitude": -82.508613,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "81 Mill Rd",
+    "sg:city": "Bellville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 886 2491",
-    "sg:postcode":"44813",
-    "sg:province":"OH",
-    "sg:tags":[
-        "plan"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 886 2491",
+    "sg:postcode": "44813",
+    "sg:province": "OH",
+    "sg:tags": [
+      "plan"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2kOh4tQ0XKHfCdmfUrZRWB_40.624674_-82.508613@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2kOh4tQ0XKHfCdmfUrZRWB_40.624674_-82.508613@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800523,
-    "wof:geomhash":"ae6bfeaae4e2bcebe32aae4e970729f7",
-    "wof:hierarchy":[],
-    "wof:id":706310243,
-    "wof:lastmodified":1472639744,
-    "wof:name":"Snyder Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "plan"
+    "wof:country": "US",
+    "wof:created": 1461800523,
+    "wof:geomhash": "d208b7733f38860377bc2e8c85934cca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706310243
+      }
+    ],
+    "wof:id": 706310243,
+    "wof:lastmodified": 1638567076,
+    "wof:name": "Snyder Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "plan"
     ]
-},
+  },
   "bbox": [
     -82.508613,
     40.624674,
     -82.508613,
     40.624674
-],
+  ],
   "geometry": {"coordinates":[-82.508613,40.624674],"type":"Point"}
 }

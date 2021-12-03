@@ -2,61 +2,65 @@
   "id": 706137707,
   "type": "Feature",
   "properties": {
-    "addr:full":"213 W 9th St Cincinnati OH 45202",
-    "addr:housenumber":"213",
-    "addr:postcode":"45202",
-    "addr:street":"W 9Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.517585,39.10477,-84.517585,39.10477",
-    "geom:latitude":39.10477,
-    "geom:longitude":-84.517585,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"213 W 9th St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Detective & Security Services",
-            "type":"Services"
-        }
+    "addr:full": "213 W 9th St Cincinnati OH 45202",
+    "addr:housenumber": "213",
+    "addr:postcode": "45202",
+    "addr:street": "W 9Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.517585,39.104770,-84.517585,39.104770",
+    "geom:latitude": 39.10477,
+    "geom:longitude": -84.517585,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "213 W 9th St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Detective \u0026 Security Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 721 4118",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "agency"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 721 4118",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "agency"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7koocHBuDlMFAWKfpGC5MS_39.104770_-84.517585@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7koocHBuDlMFAWKfpGC5MS_39.104770_-84.517585@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796705,
-    "wof:geomhash":"dd46c4e8a00edb05e1e7c0021b01fe18",
-    "wof:hierarchy":[],
-    "wof:id":706137707,
-    "wof:lastmodified":1472639353,
-    "wof:name":"Alpha Commercial Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "agency"
+    "wof:country": "US",
+    "wof:created": 1461796705,
+    "wof:geomhash": "5e227d50cddf93d21854caa07ad02a4a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706137707
+      }
+    ],
+    "wof:id": 706137707,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Alpha Commercial Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "agency"
     ]
-},
+  },
   "bbox": [
     -84.517585,
     39.10477,
     -84.517585,
     39.10477
-],
+  ],
   "geometry": {"coordinates":[-84.517585,39.10477],"type":"Point"}
 }

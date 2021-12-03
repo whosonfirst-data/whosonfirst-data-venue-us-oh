@@ -2,63 +2,68 @@
   "id": 252847123,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 Inah Ave Columbus OH 43228",
-    "addr:housenumber":"111",
-    "addr:postcode":"43228",
-    "addr:street":"Inah Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.136793,39.951798,-83.136793,39.951798",
-    "geom:latitude":39.951798,
-    "geom:longitude":-83.136793,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 Inah Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "111 Inah Ave Columbus OH 43228",
+    "addr:housenumber": "111",
+    "addr:postcode": "43228",
+    "addr:street": "Inah Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.136793,39.951798,-83.136793,39.951798",
+    "geom:latitude": 39.951798,
+    "geom:longitude": -83.136793,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 Inah Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 878 6415",
-    "sg:postcode":"43228",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 878 6415",
+    "sg:postcode": "43228",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3cQMJhVZKoxOlHZTv9GigF_39.951798_-83.136793@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3cQMJhVZKoxOlHZTv9GigF_39.951798_-83.136793@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2bfe34312e6d4515819fa115228ad0ac",
-    "wof:hierarchy":[],
-    "wof:id":252847123,
-    "wof:lastmodified":1491899830,
-    "wof:name":"Child Care Consultants",
-    "wof:parent_id":85870293,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1638566862,
+    "wof:geomhash": "063f743cad62674674e5dc8cbb0bc52a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 252847123
+      }
+    ],
+    "wof:id": 252847123,
+    "wof:lastmodified": 1638566862,
+    "wof:name": "Child Care Consultants",
+    "wof:parent_id": 85870293,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.136793,
     39.951798,
     -83.136793,
     39.951798
-],
+  ],
   "geometry": {"coordinates":[-83.136793,39.951798],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706177319,
   "type": "Feature",
   "properties": {
-    "addr:full":"1031 Glendale Marion OH 43302",
-    "addr:housenumber":"1031",
-    "addr:postcode":"43302",
-    "addr:street":"Glendale",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.153006,40.571364,-83.153006,40.571364",
-    "geom:latitude":40.571364,
-    "geom:longitude":-83.153006,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1031 Glendale",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "1031 Glendale Marion OH 43302",
+    "addr:housenumber": "1031",
+    "addr:postcode": "43302",
+    "addr:street": "Glendale",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.153006,40.571364,-83.153006,40.571364",
+    "geom:latitude": 40.571364,
+    "geom:longitude": -83.153006,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1031 Glendale",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 223 3453",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 223 3453",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0VlPoeMphWyRSyW6oYsvmZ_40.571364_-83.153006@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0VlPoeMphWyRSyW6oYsvmZ_40.571364_-83.153006@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797578,
-    "wof:geomhash":"f5a31e19c6a1059318643ac772b4957c",
-    "wof:hierarchy":[],
-    "wof:id":706177319,
-    "wof:lastmodified":1472639414,
-    "wof:name":"Lyman's Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461797578,
+    "wof:geomhash": "d8cc7849679fc8633048aa39dc8feb51",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706177319
+      }
+    ],
+    "wof:id": 706177319,
+    "wof:lastmodified": 1638567031,
+    "wof:name": "Lyman's Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.153006,
     40.571364,
     -83.153006,
     40.571364
-],
+  ],
   "geometry": {"coordinates":[-83.153006,40.571364],"type":"Point"}
 }

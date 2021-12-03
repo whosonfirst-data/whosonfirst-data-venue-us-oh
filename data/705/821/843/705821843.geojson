@@ -2,61 +2,65 @@
   "id": 705821843,
   "type": "Feature",
   "properties": {
-    "addr:full":"1797 Grandview Rd Lake Milton OH 44429",
-    "addr:housenumber":"1797",
-    "addr:postcode":"44429",
-    "addr:street":"Grandview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.986925,41.114584,-80.986925,41.114584",
-    "geom:latitude":41.114584,
-    "geom:longitude":-80.986925,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1797 Grandview Rd",
-    "sg:city":"Lake Milton",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1797 Grandview Rd Lake Milton OH 44429",
+    "addr:housenumber": "1797",
+    "addr:postcode": "44429",
+    "addr:street": "Grandview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.986925,41.114584,-80.986925,41.114584",
+    "geom:latitude": 41.114584,
+    "geom:longitude": -80.986925,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1797 Grandview Rd",
+    "sg:city": "Lake Milton",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 654 2222",
-    "sg:postcode":"44429",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 654 2222",
+    "sg:postcode": "44429",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0B6hCQiWD0Ekcq7zsVMleu_41.114584_-80.986925@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0B6hCQiWD0Ekcq7zsVMleu_41.114584_-80.986925@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789527,
-    "wof:geomhash":"f5961bc759264cf8b627923822c3998b",
-    "wof:hierarchy":[],
-    "wof:id":705821843,
-    "wof:lastmodified":1472639360,
-    "wof:name":"Lake Milton Rescue Squad",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461789527,
+    "wof:geomhash": "6145bdb2605efe5ca2bcf1144d666ab7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705821843
+      }
+    ],
+    "wof:id": 705821843,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "Lake Milton Rescue Squad",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.986925,
     41.114584,
     -80.986925,
     41.114584
-],
+  ],
   "geometry": {"coordinates":[-80.986925,41.114584],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689465137,
   "type": "Feature",
   "properties": {
-    "addr:full":"5342 Lewis Ave Toledo OH 43612",
-    "addr:housenumber":"5342",
-    "addr:postcode":"43612",
-    "addr:street":"Lewis Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.566228,41.714163,-83.566228,41.714163",
-    "geom:latitude":41.714163,
-    "geom:longitude":-83.566228,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5342 Lewis Ave",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5342 Lewis Ave Toledo OH 43612",
+    "addr:housenumber": "5342",
+    "addr:postcode": "43612",
+    "addr:street": "Lewis Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.566228,41.714163,-83.566228,41.714163",
+    "geom:latitude": 41.714163,
+    "geom:longitude": -83.566228,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5342 Lewis Ave",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 476 4360",
-    "sg:postcode":"43612",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 476 4360",
+    "sg:postcode": "43612",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4C85wx7JoAumq1CirxrEc0_41.714163_-83.566228@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4C85wx7JoAumq1CirxrEc0_41.714163_-83.566228@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772052,
-    "wof:geomhash":"89a9b4c48a199de27147ad32f32d5585",
-    "wof:hierarchy":[],
-    "wof:id":689465137,
-    "wof:lastmodified":1472638242,
-    "wof:name":"Sterling Food Store 107",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461772052,
+    "wof:geomhash": "f502aa0bb79c30338227733a240ef2e8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689465137
+      }
+    ],
+    "wof:id": 689465137,
+    "wof:lastmodified": 1638566912,
+    "wof:name": "Sterling Food Store 107",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -83.566228,
     41.714163,
     -83.566228,
     41.714163
-],
+  ],
   "geometry": {"coordinates":[-83.566228,41.714163],"type":"Point"}
 }

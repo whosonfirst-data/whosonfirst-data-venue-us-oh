@@ -2,61 +2,65 @@
   "id": 689822131,
   "type": "Feature",
   "properties": {
-    "addr:full":"375 W State St Salem OH 44460",
-    "addr:housenumber":"375",
-    "addr:postcode":"44460",
-    "addr:street":"W State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.860936,40.900868,-80.860936,40.900868",
-    "geom:latitude":40.900868,
-    "geom:longitude":-80.860936,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"375 W State St",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "375 W State St Salem OH 44460",
+    "addr:housenumber": "375",
+    "addr:postcode": "44460",
+    "addr:street": "W State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.860936,40.900868,-80.860936,40.900868",
+    "geom:latitude": 40.900868,
+    "geom:longitude": -80.860936,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "375 W State St",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 332 1880",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 332 1880",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_563qwQSEfZRvAHYvKx73wC_40.900868_-80.860936@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_563qwQSEfZRvAHYvKx73wC_40.900868_-80.860936@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782574,
-    "wof:geomhash":"6f5c10bafdb0048403d7abfe2595e250",
-    "wof:hierarchy":[],
-    "wof:id":689822131,
-    "wof:lastmodified":1472639889,
-    "wof:name":"Adamson Veterinary Svc Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461782574,
+    "wof:geomhash": "7928d7801dd31b996dfff536ede951d4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689822131
+      }
+    ],
+    "wof:id": 689822131,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Adamson Veterinary Svc Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -80.860936,
     40.900868,
     -80.860936,
     40.900868
-],
+  ],
   "geometry": {"coordinates":[-80.860936,40.900868],"type":"Point"}
 }

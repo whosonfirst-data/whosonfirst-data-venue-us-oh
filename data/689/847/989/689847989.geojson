@@ -2,66 +2,70 @@
   "id": 689847989,
   "type": "Feature",
   "properties": {
-    "addr:full":"10756 Kinsman Rd Newbury OH 44065",
-    "addr:housenumber":"10756",
-    "addr:postcode":"44065",
-    "addr:street":"Kinsman Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.249352,41.463344,-81.249352,41.463344",
-    "geom:latitude":41.463344,
-    "geom:longitude":-81.249352,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"10756 Kinsman Rd",
-    "sg:city":"Newbury",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "10756 Kinsman Rd Newbury OH 44065",
+    "addr:housenumber": "10756",
+    "addr:postcode": "44065",
+    "addr:street": "Kinsman Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.249352,41.463344,-81.249352,41.463344",
+    "geom:latitude": 41.463344,
+    "geom:longitude": -81.249352,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "10756 Kinsman Rd",
+    "sg:city": "Newbury",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 564 5844",
-    "sg:postcode":"44065",
-    "sg:province":"OH",
-    "sg:tags":[
-        "postal",
-        "us"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 564 5844",
+    "sg:postcode": "44065",
+    "sg:province": "OH",
+    "sg:tags": [
+      "postal",
+      "us"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7F0AJgEnkWqzgsGm0HdLZL_41.463344_-81.249352@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7F0AJgEnkWqzgsGm0HdLZL_41.463344_-81.249352@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783272,
-    "wof:geomhash":"be0433fcb3bf2e0e0f43126947baed2a",
-    "wof:hierarchy":[],
-    "wof:id":689847989,
-    "wof:lastmodified":1511320795,
-    "wof:name":"US Post Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "postal",
-        "us"
+    "wof:country": "US",
+    "wof:created": 1461783272,
+    "wof:geomhash": "be0433fcb3bf2e0e0f43126947baed2a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689847989
+      }
+    ],
+    "wof:id": 689847989,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "US Post Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "postal",
+      "us"
     ]
-},
+  },
   "bbox": [
     -81.249352,
     41.463344,
     -81.249352,
     41.463344
-],
+  ],
   "geometry": {"coordinates":[-81.249352,41.463344],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689685387,
   "type": "Feature",
   "properties": {
-    "addr:full":"13416 N Main St Beloit OH 44609",
-    "addr:housenumber":"13416",
-    "addr:postcode":"44609",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.993786,40.925351,-80.993786,40.925351",
-    "geom:latitude":40.925351,
-    "geom:longitude":-80.993786,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13416 N Main St",
-    "sg:city":"Beloit",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "13416 N Main St Beloit OH 44609",
+    "addr:housenumber": "13416",
+    "addr:postcode": "44609",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.993786,40.925351,-80.993786,40.925351",
+    "geom:latitude": 40.925351,
+    "geom:longitude": -80.993786,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13416 N Main St",
+    "sg:city": "Beloit",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 938 3330",
-    "sg:postcode":"44609",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 938 3330",
+    "sg:postcode": "44609",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0dVwgcxgbBMKaUujNJcQtc_40.925351_-80.993786@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0dVwgcxgbBMKaUujNJcQtc_40.925351_-80.993786@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778758,
-    "wof:geomhash":"7c4c3434c817dcdf9a7df8bf6c295f8e",
-    "wof:hierarchy":[],
-    "wof:id":689685387,
-    "wof:lastmodified":1472639638,
-    "wof:name":"Gas and Go",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461778758,
+    "wof:geomhash": "033e25b3b161501e441785601a03b674",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689685387
+      }
+    ],
+    "wof:id": 689685387,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Gas and Go",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -80.993786,
     40.925351,
     -80.993786,
     40.925351
-],
+  ],
   "geometry": {"coordinates":[-80.993786,40.925351],"type":"Point"}
 }

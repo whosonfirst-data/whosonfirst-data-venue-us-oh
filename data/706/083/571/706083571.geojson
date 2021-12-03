@@ -2,63 +2,67 @@
   "id": 706083571,
   "type": "Feature",
   "properties": {
-    "addr:full":"89 S Main St West Alexandria OH 45381",
-    "addr:housenumber":"89",
-    "addr:postcode":"45381",
-    "addr:street":"S Main St West",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.532138,39.742364,-84.532138,39.742364",
-    "geom:latitude":39.742364,
-    "geom:longitude":-84.532138,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"89 S Main St",
-    "sg:city":"West Alexandria",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "89 S Main St West Alexandria OH 45381",
+    "addr:housenumber": "89",
+    "addr:postcode": "45381",
+    "addr:street": "S Main St West",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.532138,39.742364,-84.532138,39.742364",
+    "geom:latitude": 39.742364,
+    "geom:longitude": -84.532138,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "89 S Main St",
+    "sg:city": "West Alexandria",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 839 4151",
-    "sg:postcode":"45381",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company",
-        "sewage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 839 4151",
+    "sg:postcode": "45381",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company",
+      "sewage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7X8I3yjNbLcSpEnnw7UZkl_39.742364_-84.532138@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7X8I3yjNbLcSpEnnw7UZkl_39.742364_-84.532138@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795346,
-    "wof:geomhash":"0cc2abe4c87d477e44aac534da900daf",
-    "wof:hierarchy":[],
-    "wof:id":706083571,
-    "wof:lastmodified":1472639191,
-    "wof:name":"West Alexandria Water Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company",
-        "sewage"
+    "wof:country": "US",
+    "wof:created": 1461795346,
+    "wof:geomhash": "58ef18a3dc30afb267d6589852470a41",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706083571
+      }
+    ],
+    "wof:id": 706083571,
+    "wof:lastmodified": 1638566979,
+    "wof:name": "West Alexandria Water Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company",
+      "sewage"
     ]
-},
+  },
   "bbox": [
     -84.532138,
     39.742364,
     -84.532138,
     39.742364
-],
+  ],
   "geometry": {"coordinates":[-84.532138,39.742364],"type":"Point"}
 }

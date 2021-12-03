@@ -2,61 +2,65 @@
   "id": 706417553,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 W Nassau St Canton OH 44730",
-    "addr:housenumber":"121",
-    "addr:postcode":"44730",
-    "addr:street":"W Nassau St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.284116,40.787209,-81.284116,40.787209",
-    "geom:latitude":40.787209,
-    "geom:longitude":-81.284116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"121 W Nassau St",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "121 W Nassau St Canton OH 44730",
+    "addr:housenumber": "121",
+    "addr:postcode": "44730",
+    "addr:street": "W Nassau St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.284116,40.787209,-81.284116,40.787209",
+    "geom:latitude": 40.787209,
+    "geom:longitude": -81.284116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "121 W Nassau St",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 488 0902",
-    "sg:postcode":"44730",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 488 0902",
+    "sg:postcode": "44730",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45MGMW7EaoZRXc6BWaOuGp_40.787209_-81.284116@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_45MGMW7EaoZRXc6BWaOuGp_40.787209_-81.284116@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802744,
-    "wof:geomhash":"36c19de890b5cc1c24439cbb569876ff",
-    "wof:hierarchy":[],
-    "wof:id":706417553,
-    "wof:lastmodified":1472640004,
-    "wof:name":"East Canton Tanning",
-    "wof:parent_id":420535247,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461802744,
+    "wof:geomhash": "c0dd75d4edf57e8e271f809c62aad600",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706417553
+      }
+    ],
+    "wof:id": 706417553,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "East Canton Tanning",
+    "wof:parent_id": 420535247,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.284116,
     40.787209,
     -81.284116,
     40.787209
-],
+  ],
   "geometry": {"coordinates":[-81.284116,40.787209],"type":"Point"}
 }

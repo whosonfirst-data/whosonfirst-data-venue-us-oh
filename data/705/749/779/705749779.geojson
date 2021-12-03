@@ -2,63 +2,67 @@
   "id": 705749779,
   "type": "Feature",
   "properties": {
-    "addr:full":"1870 Dayton Germantown Pike Germantown OH 45327",
-    "addr:housenumber":"1870",
-    "addr:postcode":"45327",
-    "addr:street":"Dayton Germantown Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.354247,39.633834,-84.354247,39.633834",
-    "geom:latitude":39.633834,
-    "geom:longitude":-84.354247,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1870 Dayton Germantown Pike",
-    "sg:city":"Germantown",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1870 Dayton Germantown Pike Germantown OH 45327",
+    "addr:housenumber": "1870",
+    "addr:postcode": "45327",
+    "addr:street": "Dayton Germantown Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.354247,39.633834,-84.354247,39.633834",
+    "geom:latitude": 39.633834,
+    "geom:longitude": -84.354247,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1870 Dayton Germantown Pike",
+    "sg:city": "Germantown",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 855 6006",
-    "sg:postcode":"45327",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 855 6006",
+    "sg:postcode": "45327",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5g7cc08L9alHF8RvPoiLT0_39.633834_-84.354247@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5g7cc08L9alHF8RvPoiLT0_39.633834_-84.354247@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787842,
-    "wof:geomhash":"64262c8c16b824168c8c5296ad0691b2",
-    "wof:hierarchy":[],
-    "wof:id":705749779,
-    "wof:lastmodified":1472639187,
-    "wof:name":"Providence Medical Grp",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461787842,
+    "wof:geomhash": "5cd96dd5c7a337c716b806171de20223",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705749779
+      }
+    ],
+    "wof:id": 705749779,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Providence Medical Grp",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.354247,
     39.633834,
     -84.354247,
     39.633834
-],
+  ],
   "geometry": {"coordinates":[-84.354247,39.633834],"type":"Point"}
 }

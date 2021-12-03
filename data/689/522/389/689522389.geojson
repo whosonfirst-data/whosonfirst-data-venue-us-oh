@@ -2,61 +2,65 @@
   "id": 689522389,
   "type": "Feature",
   "properties": {
-    "addr:full":"3765 Park Ln London OH 43140",
-    "addr:housenumber":"3765",
-    "addr:postcode":"43140",
-    "addr:street":"Park Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.377843,39.867347,-83.377843,39.867347",
-    "geom:latitude":39.867347,
-    "geom:longitude":-83.377843,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3765 Park Ln",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3765 Park Ln London OH 43140",
+    "addr:housenumber": "3765",
+    "addr:postcode": "43140",
+    "addr:street": "Park Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.377843,39.867347,-83.377843,39.867347",
+    "geom:latitude": 39.867347,
+    "geom:longitude": -83.377843,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3765 Park Ln",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 0260",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 0260",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2x7Uz4fmwgXd2w4oE92nBi_39.867347_-83.377843@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2x7Uz4fmwgXd2w4oE92nBi_39.867347_-83.377843@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773783,
-    "wof:geomhash":"98443a5b88b9a779f99cf89a61f0a7bb",
-    "wof:hierarchy":[],
-    "wof:id":689522389,
-    "wof:lastmodified":1472639175,
-    "wof:name":"Helen Sergi Kitchen",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461773783,
+    "wof:geomhash": "c0a7301f146cbb274efb13d041199ec3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689522389
+      }
+    ],
+    "wof:id": 689522389,
+    "wof:lastmodified": 1638566964,
+    "wof:name": "Helen Sergi Kitchen",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.377843,
     39.867347,
     -83.377843,
     39.867347
-],
+  ],
   "geometry": {"coordinates":[-83.377843,39.867347],"type":"Point"}
 }

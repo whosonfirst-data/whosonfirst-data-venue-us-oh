@@ -2,61 +2,65 @@
   "id": 706307615,
   "type": "Feature",
   "properties": {
-    "addr:full":"10372 Rd 24 Cloverdale OH 45827",
-    "addr:housenumber":"10372",
-    "addr:postcode":"45827",
-    "addr:street":"Rd 24",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.322914,41.033054,-84.322914,41.033054",
-    "geom:latitude":41.033054,
-    "geom:longitude":-84.322914,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10372 Rd 24",
-    "sg:city":"Cloverdale",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10372 Rd 24 Cloverdale OH 45827",
+    "addr:housenumber": "10372",
+    "addr:postcode": "45827",
+    "addr:street": "Rd 24",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.322914,41.033054,-84.322914,41.033054",
+    "geom:latitude": 41.033054,
+    "geom:longitude": -84.322914,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10372 Rd 24",
+    "sg:city": "Cloverdale",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 488 2374",
-    "sg:postcode":"45827",
-    "sg:province":"OH",
-    "sg:tags":[
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 488 2374",
+    "sg:postcode": "45827",
+    "sg:province": "OH",
+    "sg:tags": [
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3jXHZgQNBwDL9hi92PSy4E_41.033054_-84.322914@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3jXHZgQNBwDL9hi92PSy4E_41.033054_-84.322914@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800470,
-    "wof:geomhash":"4928f1651cb6a244a69f681bb1288aaa",
-    "wof:hierarchy":[],
-    "wof:id":706307615,
-    "wof:lastmodified":1472639759,
-    "wof:name":"S R Transit",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "line"
+    "wof:country": "US",
+    "wof:created": 1461800470,
+    "wof:geomhash": "1da03bdcbf13eb8330106cca31fd3b0e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706307615
+      }
+    ],
+    "wof:id": 706307615,
+    "wof:lastmodified": 1638567081,
+    "wof:name": "S R Transit",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "line"
     ]
-},
+  },
   "bbox": [
     -84.322914,
     41.033054,
     -84.322914,
     41.033054
-],
+  ],
   "geometry": {"coordinates":[-84.322914,41.033054],"type":"Point"}
 }

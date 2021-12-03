@@ -2,61 +2,65 @@
   "id": 689799071,
   "type": "Feature",
   "properties": {
-    "addr:full":"2004 Lake St Fremont OH 43420",
-    "addr:housenumber":"2004",
-    "addr:postcode":"43420",
-    "addr:street":"Lake St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.138936,41.35293,-83.138936,41.35293",
-    "geom:latitude":41.35293,
-    "geom:longitude":-83.138936,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2004 Lake St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2004 Lake St Fremont OH 43420",
+    "addr:housenumber": "2004",
+    "addr:postcode": "43420",
+    "addr:street": "Lake St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.138936,41.352930,-83.138936,41.352930",
+    "geom:latitude": 41.35293,
+    "geom:longitude": -83.138936,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2004 Lake St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 7024",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bar"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 7024",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bar"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Z7Iqohp4Of7xhIDPrm38x_41.352930_-83.138936@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Z7Iqohp4Of7xhIDPrm38x_41.352930_-83.138936@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781840,
-    "wof:geomhash":"6c8129330f08e0919435a5d091433c4f",
-    "wof:hierarchy":[],
-    "wof:id":689799071,
-    "wof:lastmodified":1472639851,
-    "wof:name":"Van Ness's Time Out Sports Bar",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bar"
+    "wof:country": "US",
+    "wof:created": 1461781840,
+    "wof:geomhash": "8bd42da152c04ee9a7c998dda26649f0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689799071
+      }
+    ],
+    "wof:id": 689799071,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "Van Ness's Time Out Sports Bar",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bar"
     ]
-},
+  },
   "bbox": [
     -83.138936,
     41.35293,
     -83.138936,
     41.35293
-],
+  ],
   "geometry": {"coordinates":[-83.138936,41.35293],"type":"Point"}
 }

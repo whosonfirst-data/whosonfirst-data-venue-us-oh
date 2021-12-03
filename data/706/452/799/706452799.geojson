@@ -2,61 +2,65 @@
   "id": 706452799,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Buckeye Ave Sidney OH 45365",
-    "addr:housenumber":"400",
-    "addr:postcode":"45365",
-    "addr:street":"Buckeye Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.167424,40.289109,-84.167424,40.289109",
-    "geom:latitude":40.289109,
-    "geom:longitude":-84.167424,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"400 Buckeye Ave",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "400 Buckeye Ave Sidney OH 45365",
+    "addr:housenumber": "400",
+    "addr:postcode": "45365",
+    "addr:street": "Buckeye Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.167424,40.289109,-84.167424,40.289109",
+    "geom:latitude": 40.289109,
+    "geom:longitude": -84.167424,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "400 Buckeye Ave",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 492 9438",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 492 9438",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1vOs8PiGLUhRcNIUZrSz42_40.289109_-84.167424@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1vOs8PiGLUhRcNIUZrSz42_40.289109_-84.167424@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803503,
-    "wof:geomhash":"44b96e354fa1d2d684375a92e3b98762",
-    "wof:hierarchy":[],
-    "wof:id":706452799,
-    "wof:lastmodified":1472640049,
-    "wof:name":"Sidney Community Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461803503,
+    "wof:geomhash": "647e49b4b6a65b803d411f697b00d438",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706452799
+      }
+    ],
+    "wof:id": 706452799,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Sidney Community Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.167424,
     40.289109,
     -84.167424,
     40.289109
-],
+  ],
   "geometry": {"coordinates":[-84.167424,40.289109],"type":"Point"}
 }

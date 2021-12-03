@@ -2,70 +2,74 @@
   "id": 706120025,
   "type": "Feature",
   "properties": {
-    "addr:full":"1782 US Rte 35 W Eaton OH 45320",
-    "addr:housenumber":"1782",
-    "addr:postcode":"45320",
-    "addr:street":"Us Rte 35 W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.661812,39.758074,-84.661812,39.758074",
-    "geom:latitude":39.758074,
-    "geom:longitude":-84.661812,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1782 US Rte 35 W",
-    "sg:city":"Eaton",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Farm Supplies",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Home & Garden",
-            "subcategory":"Garden Supply",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1782 US Rte 35 W Eaton OH 45320",
+    "addr:housenumber": "1782",
+    "addr:postcode": "45320",
+    "addr:street": "Us Rte 35 W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.661812,39.758074,-84.661812,39.758074",
+    "geom:latitude": 39.758074,
+    "geom:longitude": -84.661812,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1782 US Rte 35 W",
+    "sg:city": "Eaton",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Farm Supplies",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Garden Supply",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 456 5292",
-    "sg:postcode":"45320",
-    "sg:province":"OH",
-    "sg:tags":[
-        "fertilizer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 456 5292",
+    "sg:postcode": "45320",
+    "sg:province": "OH",
+    "sg:tags": [
+      "fertilizer"
     ],
-    "sg:website":"www.roysterclark.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125152671,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06rcJxbtL6fGjR5HU02IFa_39.758074_-84.661812@1294180530"
+    "sg:website": "www.roysterclark.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125152671,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_06rcJxbtL6fGjR5HU02IFa_39.758074_-84.661812@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796266,
-    "wof:geomhash":"b14399db428200954be2d306076086d2",
-    "wof:hierarchy":[],
-    "wof:id":706120025,
-    "wof:lastmodified":1510697154,
-    "wof:name":"Royster-Clark Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fertilizer"
+    "wof:country": "US",
+    "wof:created": 1461796266,
+    "wof:geomhash": "b14399db428200954be2d306076086d2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706120025
+      }
+    ],
+    "wof:id": 706120025,
+    "wof:lastmodified": 1638567005,
+    "wof:name": "Royster-Clark Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fertilizer"
     ]
-},
+  },
   "bbox": [
     -84.661812,
     39.758074,
     -84.661812,
     39.758074
-],
+  ],
   "geometry": {"coordinates":[-84.661812,39.758074],"type":"Point"}
 }

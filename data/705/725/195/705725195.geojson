@@ -2,61 +2,65 @@
   "id": 705725195,
   "type": "Feature",
   "properties": {
-    "addr:full":"108 W Front St Findlay OH 45840",
-    "addr:housenumber":"108",
-    "addr:postcode":"45840",
-    "addr:street":"W Front St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.65092,41.040556,-83.65092,41.040556",
-    "geom:latitude":41.040556,
-    "geom:longitude":-83.65092,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"108 W Front St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "108 W Front St Findlay OH 45840",
+    "addr:housenumber": "108",
+    "addr:postcode": "45840",
+    "addr:street": "W Front St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650920,41.040556,-83.650920,41.040556",
+    "geom:latitude": 41.040556,
+    "geom:longitude": -83.65092,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "108 W Front St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 425 0303",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 425 0303",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Mge5gUjXNxQeHDBZyZzrY_41.040556_-83.650920@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Mge5gUjXNxQeHDBZyZzrY_41.040556_-83.650920@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787289,
-    "wof:geomhash":"3924693c6f5b68ed3720e6e824471711",
-    "wof:hierarchy":[],
-    "wof:id":705725195,
-    "wof:lastmodified":1472638731,
-    "wof:name":"Angela B Bateson DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461787289,
+    "wof:geomhash": "01dd61e474169c869031072c1deae1f9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705725195
+      }
+    ],
+    "wof:id": 705725195,
+    "wof:lastmodified": 1638566941,
+    "wof:name": "Angela B Bateson DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.65092,
     41.040556,
     -83.65092,
     41.040556
-],
+  ],
   "geometry": {"coordinates":[-83.65092,41.040556],"type":"Point"}
 }

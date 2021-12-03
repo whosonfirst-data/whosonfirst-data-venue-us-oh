@@ -2,61 +2,65 @@
   "id": 706332515,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 S Main St Niles OH 44446",
-    "addr:housenumber":"10",
-    "addr:postcode":"44446",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.765317,41.179209,-80.765317,41.179209",
-    "geom:latitude":41.179209,
-    "geom:longitude":-80.765317,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 S Main St",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Metals",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "10 S Main St Niles OH 44446",
+    "addr:housenumber": "10",
+    "addr:postcode": "44446",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.765317,41.179209,-80.765317,41.179209",
+    "geom:latitude": 41.179209,
+    "geom:longitude": -80.765317,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10 S Main St",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Metals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 652 7500",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "steel"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 652 7500",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "steel"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5q3bDS0obCNdaaOhhgTsIK_41.179209_-80.765317@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5q3bDS0obCNdaaOhhgTsIK_41.179209_-80.765317@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801036,
-    "wof:geomhash":"5d49ea5b5cff71ba6fc4dd5db0556545",
-    "wof:hierarchy":[],
-    "wof:id":706332515,
-    "wof:lastmodified":1472639843,
-    "wof:name":"Total Resources",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "steel"
+    "wof:country": "US",
+    "wof:created": 1461801036,
+    "wof:geomhash": "92911eed5153e9aa42be434b409cbfe1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706332515
+      }
+    ],
+    "wof:id": 706332515,
+    "wof:lastmodified": 1638567081,
+    "wof:name": "Total Resources",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "steel"
     ]
-},
+  },
   "bbox": [
     -80.765317,
     41.179209,
     -80.765317,
     41.179209
-],
+  ],
   "geometry": {"coordinates":[-80.765317,41.179209],"type":"Point"}
 }

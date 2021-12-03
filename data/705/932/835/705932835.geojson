@@ -2,65 +2,69 @@
   "id": 705932835,
   "type": "Feature",
   "properties": {
-    "addr:full":"1199 Delaware Ave Marion OH 43302",
-    "addr:housenumber":"1199",
-    "addr:postcode":"43302",
-    "addr:street":"Delaware Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.121522,40.567657,-83.121522,40.567657",
-    "geom:latitude":40.567657,
-    "geom:longitude":-83.121522,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1199 Delaware Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1199 Delaware Ave Marion OH 43302",
+    "addr:housenumber": "1199",
+    "addr:postcode": "43302",
+    "addr:street": "Delaware Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.121522,40.567657,-83.121522,40.567657",
+    "geom:latitude": 40.567657,
+    "geom:longitude": -83.121522,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1199 Delaware Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 375 0200",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon",
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 375 0200",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon",
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Dm19FS0PfLboCjSWshsL6_40.567657_-83.121522@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Dm19FS0PfLboCjSWshsL6_40.567657_-83.121522@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792127,
-    "wof:geomhash":"f623cafcb6cee5773af8fae56ddda059",
-    "wof:hierarchy":[],
-    "wof:id":705932835,
-    "wof:lastmodified":1472639685,
-    "wof:name":"Marion Pain Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon",
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461792127,
+    "wof:geomhash": "22ce18a6c64c7d6f56b07dbc2cf56cca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705932835
+      }
+    ],
+    "wof:id": 705932835,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Marion Pain Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon",
+      "medical"
     ]
-},
+  },
   "bbox": [
     -83.121522,
     40.567657,
     -83.121522,
     40.567657
-],
+  ],
   "geometry": {"coordinates":[-83.121522,40.567657],"type":"Point"}
 }

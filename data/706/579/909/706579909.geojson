@@ -2,71 +2,75 @@
   "id": 706579909,
   "type": "Feature",
   "properties": {
-    "addr:full":"333 Main St Wellsville OH 43968",
-    "addr:housenumber":"333",
-    "addr:postcode":"43968",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.642093,40.609843,-80.642093,40.609843",
-    "geom:latitude":40.609843,
-    "geom:longitude":-80.642093,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"333 Main St",
-    "sg:city":"Wellsville",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "333 Main St Wellsville OH 43968",
+    "addr:housenumber": "333",
+    "addr:postcode": "43968",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.642093,40.609843,-80.642093,40.609843",
+    "geom:latitude": 40.609843,
+    "geom:longitude": -80.642093,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "333 Main St",
+    "sg:city": "Wellsville",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/wellsville/94099-busy-bee-tavern/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 532 4445",
-    "sg:postcode":"43968",
-    "sg:province":"OH",
-    "sg:tags":[
-        "food",
-        "american",
-        "pub"
+    "sg:menulink": "http://www.allmenus.com/oh/wellsville/94099-busy-bee-tavern/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 532 4445",
+    "sg:postcode": "43968",
+    "sg:province": "OH",
+    "sg:tags": [
+      "food",
+      "american",
+      "pub"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3HA1eHfPwoUoIrfGBrZJkS_40.609935_-80.642007@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3HA1eHfPwoUoIrfGBrZJkS_40.609935_-80.642007@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806316,
-    "wof:geomhash":"3efee0b5634e098641b721bcbc0ddc59",
-    "wof:hierarchy":[],
-    "wof:id":706579909,
-    "wof:lastmodified":1472640217,
-    "wof:name":"Busy Bee Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "food",
-        "american",
-        "pub"
+    "wof:country": "US",
+    "wof:created": 1461806316,
+    "wof:geomhash": "23fa854a650f3b4421e99c8ccfa068a9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706579909
+      }
+    ],
+    "wof:id": 706579909,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Busy Bee Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "food",
+      "american",
+      "pub"
     ]
-},
+  },
   "bbox": [
     -80.642093,
     40.609843,
     -80.642093,
     40.609843
-],
+  ],
   "geometry": {"coordinates":[-80.642093,40.609843],"type":"Point"}
 }

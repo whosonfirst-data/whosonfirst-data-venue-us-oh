@@ -2,56 +2,60 @@
   "id": 689630147,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 S Main St Ada OH 45810",
-    "addr:housenumber":"123",
-    "addr:postcode":"45810",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.823289,40.770259,-83.823289,40.770259",
-    "geom:latitude":40.770259,
-    "geom:longitude":-83.823289,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 S Main St",
-    "sg:city":"Ada",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Insurance Agent",
-            "type":"Services"
-        }
+    "addr:full": "123 S Main St Ada OH 45810",
+    "addr:housenumber": "123",
+    "addr:postcode": "45810",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.823289,40.770259,-83.823289,40.770259",
+    "geom:latitude": 40.770259,
+    "geom:longitude": -83.823289,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 S Main St",
+    "sg:city": "Ada",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Insurance Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 634 5626",
-    "sg:postcode":"45810",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5NAxFBhjrG23DOlvoEe2wq_40.770259_-83.823289@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 634 5626",
+    "sg:postcode": "45810",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5NAxFBhjrG23DOlvoEe2wq_40.770259_-83.823289@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777158,
-    "wof:geomhash":"2863bd5f67a7684afedf2feac519ae57",
-    "wof:hierarchy":[],
-    "wof:id":689630147,
-    "wof:lastmodified":1472639459,
-    "wof:name":"Hays Insurance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461777158,
+    "wof:geomhash": "14bf4a554ebc2263aca451ed2f91fb1a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689630147
+      }
+    ],
+    "wof:id": 689630147,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Hays Insurance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.823289,
     40.770259,
     -83.823289,
     40.770259
-],
+  ],
   "geometry": {"coordinates":[-83.823289,40.770259],"type":"Point"}
 }

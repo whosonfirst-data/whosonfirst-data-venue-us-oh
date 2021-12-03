@@ -2,63 +2,67 @@
   "id": 706315043,
   "type": "Feature",
   "properties": {
-    "addr:full":"125 E South St Bryan OH 43506",
-    "addr:housenumber":"125 e",
-    "addr:postcode":"43506",
-    "addr:street":"South St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.550674,41.46368,-84.550674,41.46368",
-    "geom:latitude":41.46368,
-    "geom:longitude":-84.550674,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"125 E South St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "125 E South St Bryan OH 43506",
+    "addr:housenumber": "125 e",
+    "addr:postcode": "43506",
+    "addr:street": "South St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.550674,41.463680,-84.550674,41.463680",
+    "geom:latitude": 41.46368,
+    "geom:longitude": -84.550674,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "125 E South St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 0410",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "specialty",
-        "outpatient"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 0410",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "specialty",
+      "outpatient"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_14nHqfd3dzJ3gYirmsIafU_41.463680_-84.550674@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_14nHqfd3dzJ3gYirmsIafU_41.463680_-84.550674@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800621,
-    "wof:geomhash":"21caca0b3d6153646adec04ef98052af",
-    "wof:hierarchy":[],
-    "wof:id":706315043,
-    "wof:lastmodified":1472639768,
-    "wof:name":"Five Cnty Alcohol/Drug Program",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "specialty",
-        "outpatient"
+    "wof:country": "US",
+    "wof:created": 1461800621,
+    "wof:geomhash": "62968f0adbd9f3fe7224acac8e91a25d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706315043
+      }
+    ],
+    "wof:id": 706315043,
+    "wof:lastmodified": 1638567082,
+    "wof:name": "Five Cnty Alcohol/Drug Program",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "specialty",
+      "outpatient"
     ]
-},
+  },
   "bbox": [
     -84.550674,
     41.46368,
     -84.550674,
     41.46368
-],
+  ],
   "geometry": {"coordinates":[-84.550674,41.46368],"type":"Point"}
 }

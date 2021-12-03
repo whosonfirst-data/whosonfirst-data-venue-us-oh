@@ -2,61 +2,65 @@
   "id": 689911379,
   "type": "Feature",
   "properties": {
-    "addr:full":"8473 Northport Dr Cincinnati OH 45255",
-    "addr:housenumber":"8473",
-    "addr:postcode":"45255",
-    "addr:street":"Northport Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.31918,39.0785,-84.31918,39.0785",
-    "geom:latitude":39.0785,
-    "geom:longitude":-84.31918,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8473 Northport Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "8473 Northport Dr Cincinnati OH 45255",
+    "addr:housenumber": "8473",
+    "addr:postcode": "45255",
+    "addr:street": "Northport Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.319180,39.078500,-84.319180,39.078500",
+    "geom:latitude": 39.0785,
+    "geom:longitude": -84.31918,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8473 Northport Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 4751",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "courier"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 4751",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "courier"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2BhEIu9EITAb8JV6N6UnZr_39.078500_-84.319180@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2BhEIu9EITAb8JV6N6UnZr_39.078500_-84.319180@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784896,
-    "wof:geomhash":"24a4ed2aae501d30cfcae67795b62c16",
-    "wof:hierarchy":[],
-    "wof:id":689911379,
-    "wof:lastmodified":1472640069,
-    "wof:name":"MPR Enterprises",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "courier"
+    "wof:country": "US",
+    "wof:created": 1461784896,
+    "wof:geomhash": "b4c0e55bc9a35aac1b49ed3ba051cbb0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689911379
+      }
+    ],
+    "wof:id": 689911379,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "MPR Enterprises",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "courier"
     ]
-},
+  },
   "bbox": [
     -84.31918,
     39.0785,
     -84.31918,
     39.0785
-],
+  ],
   "geometry": {"coordinates":[-84.31918,39.0785],"type":"Point"}
 }

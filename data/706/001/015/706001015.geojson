@@ -2,61 +2,65 @@
   "id": 706001015,
   "type": "Feature",
   "properties": {
-    "addr:full":"3509 Main St Hilliard OH 43026",
-    "addr:housenumber":"3509",
-    "addr:postcode":"43026",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.160325,40.023074,-83.160325,40.023074",
-    "geom:latitude":40.023074,
-    "geom:longitude":-83.160325,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3509 Main St",
-    "sg:city":"Hilliard",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "3509 Main St Hilliard OH 43026",
+    "addr:housenumber": "3509",
+    "addr:postcode": "43026",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.160325,40.023074,-83.160325,40.023074",
+    "geom:latitude": 40.023074,
+    "geom:longitude": -83.160325,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3509 Main St",
+    "sg:city": "Hilliard",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 876 1744",
-    "sg:postcode":"43026",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 876 1744",
+    "sg:postcode": "43026",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4JzR25MRNUgDO0EObVPpEv_40.023074_-83.160325@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4JzR25MRNUgDO0EObVPpEv_40.023074_-83.160325@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793597,
-    "wof:geomhash":"cffcfec991659c3a8dac224ba49fe284",
-    "wof:hierarchy":[],
-    "wof:id":706001015,
-    "wof:lastmodified":1472638238,
-    "wof:name":"Glamorous Touch",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461793597,
+    "wof:geomhash": "f20e12ae219e209d7ed72bdd55b8d121",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706001015
+      }
+    ],
+    "wof:id": 706001015,
+    "wof:lastmodified": 1638566925,
+    "wof:name": "Glamorous Touch",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -83.160325,
     40.023074,
     -83.160325,
     40.023074
-],
+  ],
   "geometry": {"coordinates":[-83.160325,40.023074],"type":"Point"}
 }

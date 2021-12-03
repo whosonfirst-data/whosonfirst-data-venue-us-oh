@@ -2,61 +2,65 @@
   "id": 705803543,
   "type": "Feature",
   "properties": {
-    "addr:full":"3040 Maine Ave Perry OH 44081",
-    "addr:housenumber":"3040",
-    "addr:postcode":"44081",
-    "addr:street":"Maine Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.170798,41.751603,-81.170798,41.751603",
-    "geom:latitude":41.751603,
-    "geom:longitude":-81.170798,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3040 Maine Ave",
-    "sg:city":"Perry",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Plants",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "3040 Maine Ave Perry OH 44081",
+    "addr:housenumber": "3040",
+    "addr:postcode": "44081",
+    "addr:street": "Maine Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.170798,41.751603,-81.170798,41.751603",
+    "geom:latitude": 41.751603,
+    "geom:longitude": -81.170798,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3040 Maine Ave",
+    "sg:city": "Perry",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Plants",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 259 2698",
-    "sg:postcode":"44081",
-    "sg:province":"OH",
-    "sg:tags":[
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 259 2698",
+    "sg:postcode": "44081",
+    "sg:province": "OH",
+    "sg:tags": [
+      "supply"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_20LMbPTzc5tCiEceL4zMRt_41.751603_-81.170798@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_20LMbPTzc5tCiEceL4zMRt_41.751603_-81.170798@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789097,
-    "wof:geomhash":"dd7026b76329471ed6717f7ffa18e3d1",
-    "wof:hierarchy":[],
-    "wof:id":705803543,
-    "wof:lastmodified":1472639292,
-    "wof:name":"Frank Square Nursery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "supply"
+    "wof:country": "US",
+    "wof:created": 1461789097,
+    "wof:geomhash": "963c45797d99b95f3e0cffde1c311ea8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705803543
+      }
+    ],
+    "wof:id": 705803543,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Frank Square Nursery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "supply"
     ]
-},
+  },
   "bbox": [
     -81.170798,
     41.751603,
     -81.170798,
     41.751603
-],
+  ],
   "geometry": {"coordinates":[-81.170798,41.751603],"type":"Point"}
 }

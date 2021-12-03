@@ -2,66 +2,70 @@
   "id": 706549601,
   "type": "Feature",
   "properties": {
-    "addr:full":"905 N State St Westerville OH 43082",
-    "addr:housenumber":"905",
-    "addr:postcode":"43082",
-    "addr:street":"N State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.922828,40.149528,-82.922828,40.149528",
-    "geom:latitude":40.149528,
-    "geom:longitude":-82.922828,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"905 N State St",
-    "sg:city":"Westerville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "905 N State St Westerville OH 43082",
+    "addr:housenumber": "905",
+    "addr:postcode": "43082",
+    "addr:street": "N State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.922828,40.149528,-82.922828,40.149528",
+    "geom:latitude": 40.149528,
+    "geom:longitude": -82.922828,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "905 N State St",
+    "sg:city": "Westerville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/westerville/195503-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43082",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/westerville/195503-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43082",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_23it9YsnD7WIWWBAhlOqLt_40.149528_-82.922828@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_23it9YsnD7WIWWBAhlOqLt_40.149528_-82.922828@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805649,
-    "wof:geomhash":"28be1d086f66a2450458cc267953b26d",
-    "wof:hierarchy":[],
-    "wof:id":706549601,
-    "wof:lastmodified":1512142907,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805649,
+    "wof:geomhash": "28be1d086f66a2450458cc267953b26d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706549601
+      }
+    ],
+    "wof:id": 706549601,
+    "wof:lastmodified": 1638567134,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.922828,
     40.149528,
     -82.922828,
     40.149528
-],
+  ],
   "geometry": {"coordinates":[-82.922828,40.149528],"type":"Point"}
 }

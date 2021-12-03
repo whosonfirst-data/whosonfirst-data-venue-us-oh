@@ -2,61 +2,65 @@
   "id": 705954269,
   "type": "Feature",
   "properties": {
-    "addr:full":"15102 Hartford Rd Sunbury OH 43074",
-    "addr:housenumber":"15102",
-    "addr:postcode":"43074",
-    "addr:street":"Hartford Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.808896,40.246314,-82.808896,40.246314",
-    "geom:latitude":40.246314,
-    "geom:longitude":-82.808896,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15102 Hartford Rd",
-    "sg:city":"Sunbury",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "15102 Hartford Rd Sunbury OH 43074",
+    "addr:housenumber": "15102",
+    "addr:postcode": "43074",
+    "addr:street": "Hartford Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.808896,40.246314,-82.808896,40.246314",
+    "geom:latitude": 40.246314,
+    "geom:longitude": -82.808896,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15102 Hartford Rd",
+    "sg:city": "Sunbury",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 965 2911",
-    "sg:postcode":"43074",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 965 2911",
+    "sg:postcode": "43074",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2TgUqyqGjXGzhxHNQXG1Qb_40.246314_-82.808896@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2TgUqyqGjXGzhxHNQXG1Qb_40.246314_-82.808896@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792628,
-    "wof:geomhash":"1ededa9b07e499b73c88cf82452923d4",
-    "wof:hierarchy":[],
-    "wof:id":705954269,
-    "wof:lastmodified":1472639706,
-    "wof:name":"Condit United Presbyterian Chr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461792628,
+    "wof:geomhash": "8a603856e2ef41847630fd883f7ba631",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705954269
+      }
+    ],
+    "wof:id": 705954269,
+    "wof:lastmodified": 1638567061,
+    "wof:name": "Condit United Presbyterian Chr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.808896,
     40.246314,
     -82.808896,
     40.246314
-],
+  ],
   "geometry": {"coordinates":[-82.808896,40.246314],"type":"Point"}
 }

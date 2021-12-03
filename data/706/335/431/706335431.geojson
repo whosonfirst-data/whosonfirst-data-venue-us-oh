@@ -2,63 +2,67 @@
   "id": 706335431,
   "type": "Feature",
   "properties": {
-    "addr:full":"54 South St Leipsic OH 45856",
-    "addr:housenumber":"54",
-    "addr:postcode":"45856",
-    "addr:street":"South St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.001531,41.105826,-84.001531,41.105826",
-    "geom:latitude":41.105826,
-    "geom:longitude":-84.001531,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"54 South St",
-    "sg:city":"Leipsic",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "54 South St Leipsic OH 45856",
+    "addr:housenumber": "54",
+    "addr:postcode": "45856",
+    "addr:street": "South St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.001531,41.105826,-84.001531,41.105826",
+    "geom:latitude": 41.105826,
+    "geom:longitude": -84.001531,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "54 South St",
+    "sg:city": "Leipsic",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 943 3303",
-    "sg:postcode":"45856",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 943 3303",
+    "sg:postcode": "45856",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6rQHEa26cEz6dTSk1VXTaV_41.105826_-84.001531@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6rQHEa26cEz6dTSk1VXTaV_41.105826_-84.001531@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801104,
-    "wof:geomhash":"1b8e746c8aae9f0952e12b2fa1b08ff4",
-    "wof:hierarchy":[],
-    "wof:id":706335431,
-    "wof:lastmodified":1472639843,
-    "wof:name":"George's Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461801104,
+    "wof:geomhash": "31b24a05f39023f85ddf965760824b25",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706335431
+      }
+    ],
+    "wof:id": 706335431,
+    "wof:lastmodified": 1638567086,
+    "wof:name": "George's Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -84.001531,
     41.105826,
     -84.001531,
     41.105826
-],
+  ],
   "geometry": {"coordinates":[-84.001531,41.105826],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706339087,
   "type": "Feature",
   "properties": {
-    "addr:full":"304 E Bayview Dr Sandusky OH 44870",
-    "addr:housenumber":"304",
-    "addr:postcode":"44870",
-    "addr:street":"E Bayview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.825786,41.47314,-82.825786,41.47314",
-    "geom:latitude":41.47314,
-    "geom:longitude":-82.825786,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"304 E Bayview Dr",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "304 E Bayview Dr Sandusky OH 44870",
+    "addr:housenumber": "304",
+    "addr:postcode": "44870",
+    "addr:street": "E Bayview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.825786,41.473140,-82.825786,41.473140",
+    "geom:latitude": 41.47314,
+    "geom:longitude": -82.825786,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "304 E Bayview Dr",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 684 5990",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 684 5990",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1GaUYNUkWaBOwtURQj5dNG_41.473140_-82.825786@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1GaUYNUkWaBOwtURQj5dNG_41.473140_-82.825786@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801181,
-    "wof:geomhash":"1e26ae03e6d7c5a5692e7b8d2cff8cbc",
-    "wof:hierarchy":[],
-    "wof:id":706339087,
-    "wof:lastmodified":1472639837,
-    "wof:name":"Bay View Village Police Dept",
-    "wof:parent_id":420534741,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461801181,
+    "wof:geomhash": "cc8a975298160b812fa2ce8f99c14c49",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706339087
+      }
+    ],
+    "wof:id": 706339087,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Bay View Village Police Dept",
+    "wof:parent_id": 420534741,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.825786,
     41.47314,
     -82.825786,
     41.47314
-],
-  "geometry": {"coordinates":[-82.82578599999999,41.47314],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.825786,41.47314],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706075635,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 E Howard St Willard OH 44890",
-    "addr:housenumber":"110",
-    "addr:postcode":"44890",
-    "addr:street":"E Howard St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.724611,41.048515,-82.724611,41.048515",
-    "geom:latitude":41.048515,
-    "geom:longitude":-82.724611,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 E Howard St",
-    "sg:city":"Willard",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "110 E Howard St Willard OH 44890",
+    "addr:housenumber": "110",
+    "addr:postcode": "44890",
+    "addr:street": "E Howard St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.724611,41.048515,-82.724611,41.048515",
+    "geom:latitude": 41.048515,
+    "geom:longitude": -82.724611,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "110 E Howard St",
+    "sg:city": "Willard",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 663 5000",
-    "sg:postcode":"44890",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 663 5000",
+    "sg:postcode": "44890",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2FmWGr0cWg1npyahYGdUBb_41.048515_-82.724611@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2FmWGr0cWg1npyahYGdUBb_41.048515_-82.724611@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795167,
-    "wof:geomhash":"9f491bef398d2149c3266b4630b5d22e",
-    "wof:hierarchy":[],
-    "wof:id":706075635,
-    "wof:lastmodified":1472639167,
-    "wof:name":"Access Orthopedics",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461795167,
+    "wof:geomhash": "d91d2b9a719ce4b4ede3cd328181e76a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706075635
+      }
+    ],
+    "wof:id": 706075635,
+    "wof:lastmodified": 1638566979,
+    "wof:name": "Access Orthopedics",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.724611,
     41.048515,
     -82.724611,
     41.048515
-],
+  ],
   "geometry": {"coordinates":[-82.724611,41.048515],"type":"Point"}
 }

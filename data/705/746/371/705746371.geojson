@@ -2,61 +2,65 @@
   "id": 705746371,
   "type": "Feature",
   "properties": {
-    "addr:full":"915 S Miami St West Milton OH 45383",
-    "addr:housenumber":"915",
-    "addr:postcode":"45383",
-    "addr:street":"S Miami St West",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.322322,39.948452,-84.322322,39.948452",
-    "geom:latitude":39.948452,
-    "geom:longitude":-84.322322,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"915 S Miami St",
-    "sg:city":"West Milton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "915 S Miami St West Milton OH 45383",
+    "addr:housenumber": "915",
+    "addr:postcode": "45383",
+    "addr:street": "S Miami St West",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.322322,39.948452,-84.322322,39.948452",
+    "geom:latitude": 39.948452,
+    "geom:longitude": -84.322322,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "915 S Miami St",
+    "sg:city": "West Milton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 698 6200",
-    "sg:postcode":"45383",
-    "sg:province":"OH",
-    "sg:tags":[
-        "business"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 698 6200",
+    "sg:postcode": "45383",
+    "sg:province": "OH",
+    "sg:tags": [
+      "business"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6zKFspzC4HNVVMh1ZW0RA5_39.948452_-84.322322@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6zKFspzC4HNVVMh1ZW0RA5_39.948452_-84.322322@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787778,
-    "wof:geomhash":"a7123f13bf6fb4c70cfed82e03983dc2",
-    "wof:hierarchy":[],
-    "wof:id":705746371,
-    "wof:lastmodified":1472639160,
-    "wof:name":"Coopers Sanitary Service",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business"
+    "wof:country": "US",
+    "wof:created": 1461787778,
+    "wof:geomhash": "68370106515ed4bffef9ada6abc215ff",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705746371
+      }
+    ],
+    "wof:id": 705746371,
+    "wof:lastmodified": 1638566960,
+    "wof:name": "Coopers Sanitary Service",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business"
     ]
-},
+  },
   "bbox": [
     -84.322322,
     39.948452,
     -84.322322,
     39.948452
-],
+  ],
   "geometry": {"coordinates":[-84.322322,39.948452],"type":"Point"}
 }

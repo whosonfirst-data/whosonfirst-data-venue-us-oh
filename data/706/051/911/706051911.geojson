@@ -2,61 +2,65 @@
   "id": 706051911,
   "type": "Feature",
   "properties": {
-    "addr:full":"819 Elm St Cincinnati OH 45202",
-    "addr:housenumber":"819",
-    "addr:postcode":"45202",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.517225,39.104401,-84.517225,39.104401",
-    "geom:latitude":39.104401,
-    "geom:longitude":-84.517225,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"819 Elm St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "819 Elm St Cincinnati OH 45202",
+    "addr:housenumber": "819",
+    "addr:postcode": "45202",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.517225,39.104401,-84.517225,39.104401",
+    "geom:latitude": 39.104401,
+    "geom:longitude": -84.517225,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "819 Elm St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 421 9888",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 421 9888",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FJJ7qfBEVRDngr1a17dqy_39.104401_-84.517225@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4FJJ7qfBEVRDngr1a17dqy_39.104401_-84.517225@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794638,
-    "wof:geomhash":"20b523957076ca4554072267ffcf9b16",
-    "wof:hierarchy":[],
-    "wof:id":706051911,
-    "wof:lastmodified":1472639144,
-    "wof:name":"Poppies",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461794638,
+    "wof:geomhash": "4c42cd8c225d73fba0003babed717fab",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706051911
+      }
+    ],
+    "wof:id": 706051911,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Poppies",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.517225,
     39.104401,
     -84.517225,
     39.104401
-],
+  ],
   "geometry": {"coordinates":[-84.517225,39.104401],"type":"Point"}
 }

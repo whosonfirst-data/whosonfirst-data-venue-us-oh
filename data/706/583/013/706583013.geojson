@@ -2,66 +2,70 @@
   "id": 706583013,
   "type": "Feature",
   "properties": {
-    "addr:full":"31 W Main St New London OH 44851",
-    "addr:housenumber":"31",
-    "addr:postcode":"44851",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.400462,41.085296,-82.400462,41.085296",
-    "geom:latitude":41.085296,
-    "geom:longitude":-82.400462,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"31 W Main St",
-    "sg:city":"New London",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "31 W Main St New London OH 44851",
+    "addr:housenumber": "31",
+    "addr:postcode": "44851",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.400462,41.085296,-82.400462,41.085296",
+    "geom:latitude": 41.085296,
+    "geom:longitude": -82.400462,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "31 W Main St",
+    "sg:city": "New London",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/new-london/195163-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44851",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/new-london/195163-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44851",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2HcPBRqZ3G45F7Lx9B9SUe_41.085284_-82.399903@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2HcPBRqZ3G45F7Lx9B9SUe_41.085284_-82.399903@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806382,
-    "wof:geomhash":"414c4013277d2379e862ee1959a419df",
-    "wof:hierarchy":[],
-    "wof:id":706583013,
-    "wof:lastmodified":1511321594,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806382,
+    "wof:geomhash": "414c4013277d2379e862ee1959a419df",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706583013
+      }
+    ],
+    "wof:id": 706583013,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.400462,
     41.085296,
     -82.400462,
     41.085296
-],
+  ],
   "geometry": {"coordinates":[-82.400462,41.085296],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706431851,
   "type": "Feature",
   "properties": {
-    "addr:full":"20024 W Church St Hoytville OH 43529",
-    "addr:housenumber":"20024",
-    "addr:postcode":"43529",
-    "addr:street":"W Church St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.785307,41.189898,-83.785307,41.189898",
-    "geom:latitude":41.189898,
-    "geom:longitude":-83.785307,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20024 W Church St",
-    "sg:city":"Hoytville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "20024 W Church St Hoytville OH 43529",
+    "addr:housenumber": "20024",
+    "addr:postcode": "43529",
+    "addr:street": "W Church St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.785307,41.189898,-83.785307,41.189898",
+    "geom:latitude": 41.189898,
+    "geom:longitude": -83.785307,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20024 W Church St",
+    "sg:city": "Hoytville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 278 2222",
-    "sg:postcode":"43529",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 278 2222",
+    "sg:postcode": "43529",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6t3AaH98nVNb03DyhwhNiC_41.189898_-83.785307@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6t3AaH98nVNb03DyhwhNiC_41.189898_-83.785307@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803016,
-    "wof:geomhash":"7044fdca0a820eca80a07cf92c8703a2",
-    "wof:hierarchy":[],
-    "wof:id":706431851,
-    "wof:lastmodified":1472640020,
-    "wof:name":"Hoytville Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461803016,
+    "wof:geomhash": "3f0825da2866eef8fc5adfb7011b5a70",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706431851
+      }
+    ],
+    "wof:id": 706431851,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Hoytville Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.785307,
     41.189898,
     -83.785307,
     41.189898
-],
+  ],
   "geometry": {"coordinates":[-83.785307,41.189898],"type":"Point"}
 }

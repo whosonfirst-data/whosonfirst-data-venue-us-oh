@@ -2,63 +2,67 @@
   "id": 706257705,
   "type": "Feature",
   "properties": {
-    "addr:full":"635 Locust St Malvern OH 44644",
-    "addr:housenumber":"635",
-    "addr:postcode":"44644",
-    "addr:street":"Locust St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.187965,40.691525,-81.187965,40.691525",
-    "geom:latitude":40.691525,
-    "geom:longitude":-81.187965,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"635 Locust St",
-    "sg:city":"Malvern",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "635 Locust St Malvern OH 44644",
+    "addr:housenumber": "635",
+    "addr:postcode": "44644",
+    "addr:street": "Locust St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.187965,40.691525,-81.187965,40.691525",
+    "geom:latitude": 40.691525,
+    "geom:longitude": -81.187965,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "635 Locust St",
+    "sg:city": "Malvern",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 863 9061",
-    "sg:postcode":"44644",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 863 9061",
+    "sg:postcode": "44644",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1YyI9jfWf7vOa9oo8VF2RC_40.691525_-81.187965@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1YyI9jfWf7vOa9oo8VF2RC_40.691525_-81.187965@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799359,
-    "wof:geomhash":"8832c3a59697159d0f3237dd267a330c",
-    "wof:hierarchy":[],
-    "wof:id":706257705,
-    "wof:lastmodified":1472639623,
-    "wof:name":"Carroll Family Healthcare",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461799359,
+    "wof:geomhash": "7b7fcc9102882ee57975494fb8edca59",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706257705
+      }
+    ],
+    "wof:id": 706257705,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Carroll Family Healthcare",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.187965,
     40.691525,
     -81.187965,
     40.691525
-],
-  "geometry": {"coordinates":[-81.18796500000001,40.691525],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.187965,40.691525],"type":"Point"}
 }

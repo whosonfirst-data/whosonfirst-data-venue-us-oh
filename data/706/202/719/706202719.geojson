@@ -2,61 +2,65 @@
   "id": 706202719,
   "type": "Feature",
   "properties": {
-    "addr:full":"122 N Main St Fostoria OH 44830",
-    "addr:housenumber":"122",
-    "addr:postcode":"44830",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.413994,41.158303,-83.413994,41.158303",
-    "geom:latitude":41.158303,
-    "geom:longitude":-83.413994,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"122 N Main St",
-    "sg:city":"Fostoria",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "122 N Main St Fostoria OH 44830",
+    "addr:housenumber": "122",
+    "addr:postcode": "44830",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.413994,41.158303,-83.413994,41.158303",
+    "geom:latitude": 41.158303,
+    "geom:longitude": -83.413994,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "122 N Main St",
+    "sg:city": "Fostoria",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 436 3795",
-    "sg:postcode":"44830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 436 3795",
+    "sg:postcode": "44830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6l3lzJZq3VtKyqYGI5RPRG_41.158303_-83.413994@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6l3lzJZq3VtKyqYGI5RPRG_41.158303_-83.413994@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798133,
-    "wof:geomhash":"4988e8570ccbcda18c87cd6031809f2d",
-    "wof:hierarchy":[],
-    "wof:id":706202719,
-    "wof:lastmodified":1472639520,
-    "wof:name":"Helping Hand Thrift Store",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461798133,
+    "wof:geomhash": "ca74422647eff4313ebfdad9d65682ca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706202719
+      }
+    ],
+    "wof:id": 706202719,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Helping Hand Thrift Store",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -83.413994,
     41.158303,
     -83.413994,
     41.158303
-],
+  ],
   "geometry": {"coordinates":[-83.413994,41.158303],"type":"Point"}
 }

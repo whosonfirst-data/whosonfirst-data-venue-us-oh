@@ -2,63 +2,67 @@
   "id": 706454141,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 E Lincoln Way Lisbon OH 44432",
-    "addr:housenumber":"123",
-    "addr:postcode":"44432",
-    "addr:street":"E Lincoln Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.767252,40.772241,-80.767252,40.772241",
-    "geom:latitude":40.772241,
-    "geom:longitude":-80.767252,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 E Lincoln Way",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 E Lincoln Way Lisbon OH 44432",
+    "addr:housenumber": "123",
+    "addr:postcode": "44432",
+    "addr:street": "E Lincoln Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.767252,40.772241,-80.767252,40.772241",
+    "geom:latitude": 40.772241,
+    "geom:longitude": -80.767252,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 E Lincoln Way",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 9670",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "optical",
-        "mfg"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 9670",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "optical",
+      "mfg"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55uq8yn4kAUTCEpwOzBAHJ_40.772241_-80.767252@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55uq8yn4kAUTCEpwOzBAHJ_40.772241_-80.767252@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803529,
-    "wof:geomhash":"004385e7144f51720394a999c22f0ca2",
-    "wof:hierarchy":[],
-    "wof:id":706454141,
-    "wof:lastmodified":1472640030,
-    "wof:name":"Frontiers Unlimited",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "optical",
-        "mfg"
+    "wof:country": "US",
+    "wof:created": 1461803529,
+    "wof:geomhash": "65fb7b40f27d620bab7eb403f929d544",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706454141
+      }
+    ],
+    "wof:id": 706454141,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Frontiers Unlimited",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "optical",
+      "mfg"
     ]
-},
+  },
   "bbox": [
     -80.767252,
     40.772241,
     -80.767252,
     40.772241
-],
+  ],
   "geometry": {"coordinates":[-80.767252,40.772241],"type":"Point"}
 }

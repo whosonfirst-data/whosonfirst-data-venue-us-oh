@@ -2,61 +2,65 @@
   "id": 706012147,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 Stolle Ave Sidney OH 45365",
-    "addr:housenumber":"210",
-    "addr:postcode":"45365",
-    "addr:street":"Stolle Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.196358,40.287401,-84.196358,40.287401",
-    "geom:latitude":40.287401,
-    "geom:longitude":-84.196358,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"210 Stolle Ave",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "210 Stolle Ave Sidney OH 45365",
+    "addr:housenumber": "210",
+    "addr:postcode": "45365",
+    "addr:street": "Stolle Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.196358,40.287401,-84.196358,40.287401",
+    "geom:latitude": 40.287401,
+    "geom:longitude": -84.196358,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "210 Stolle Ave",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 492 7225",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 492 7225",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0FwhFU6q6E7bMCVizvqAIf_40.287401_-84.196358@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0FwhFU6q6E7bMCVizvqAIf_40.287401_-84.196358@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793837,
-    "wof:geomhash":"36831d2642248bef9794e1c2ccba657e",
-    "wof:hierarchy":[],
-    "wof:id":706012147,
-    "wof:lastmodified":1472638401,
-    "wof:name":"TNT Logistics",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461793837,
+    "wof:geomhash": "0d23251e9d508888df2536a8abd5aa6d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706012147
+      }
+    ],
+    "wof:id": 706012147,
+    "wof:lastmodified": 1638566935,
+    "wof:name": "TNT Logistics",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.196358,
     40.287401,
     -84.196358,
     40.287401
-],
+  ],
   "geometry": {"coordinates":[-84.196358,40.287401],"type":"Point"}
 }

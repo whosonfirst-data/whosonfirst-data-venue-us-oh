@@ -2,59 +2,63 @@
   "id": 706464831,
   "type": "Feature",
   "properties": {
-    "addr:full":"5520 Oak St Berlin OH 44609",
-    "addr:housenumber":"5520",
-    "addr:postcode":"44609",
-    "addr:street":"Oak St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.99177,40.853643,-80.99177,40.853643",
-    "geom:latitude":40.853643,
-    "geom:longitude":-80.99177,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"5520 Oak St",
-    "sg:city":"Berlin",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "5520 Oak St Berlin OH 44609",
+    "addr:housenumber": "5520",
+    "addr:postcode": "44609",
+    "addr:street": "Oak St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.991770,40.853643,-80.991770,40.853643",
+    "geom:latitude": 40.853643,
+    "geom:longitude": -80.99177,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "5520 Oak St",
+    "sg:city": "Berlin",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 893 2113",
-    "sg:postcode":"44609",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FAfGLVMBjZQhX3iEmNROm_40.853643_-80.991770@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 893 2113",
+    "sg:postcode": "44609",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4FAfGLVMBjZQhX3iEmNROm_40.853643_-80.991770@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803744,
-    "wof:geomhash":"94d753f975d09fea067bddf72271de2a",
-    "wof:hierarchy":[],
-    "wof:id":706464831,
-    "wof:lastmodified":1511320701,
-    "wof:name":"US Post Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461803744,
+    "wof:geomhash": "94d753f975d09fea067bddf72271de2a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706464831
+      }
+    ],
+    "wof:id": 706464831,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "US Post Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.99177,
     40.853643,
     -80.99177,
     40.853643
-],
+  ],
   "geometry": {"coordinates":[-80.99177,40.853643],"type":"Point"}
 }

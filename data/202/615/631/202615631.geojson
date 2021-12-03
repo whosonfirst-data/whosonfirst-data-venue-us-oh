@@ -2,80 +2,81 @@
   "id": 202615631,
   "type": "Feature",
   "properties": {
-    "addr:full":"3600 Ridge Rd Cleveland OH 44102",
-    "addr:housenumber":"3600",
-    "addr:postcode":"44102",
-    "addr:street":"Ridge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.738444,41.460659,-81.738444,41.460659",
-    "geom:latitude":41.460659,
-    "geom:longitude":-81.738444,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3600 Ridge Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3600 Ridge Rd Cleveland OH 44102",
+    "addr:housenumber": "3600",
+    "addr:postcode": "44102",
+    "addr:street": "Ridge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.738444,41.460659,-81.738444,41.460659",
+    "geom:latitude": 41.460659,
+    "geom:longitude": -81.738444,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3600 Ridge Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 631 7009",
-    "sg:postcode":"44102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "local",
-        "provides",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 631 7009",
+    "sg:postcode": "44102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "local",
+      "provides",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712563,
-        102084837,
-        85868065
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712563,
+      102084837,
+      85868065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3YEVOtQzgmgSmbGuAtBBZd_41.460659_-81.738444@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3YEVOtQzgmgSmbGuAtBBZd_41.460659_-81.738444@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7017df6a67b0beaa224ee32556a84bec",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084837,
-            "locality_id":101712563,
-            "neighbourhood_id":85868065,
-            "region_id":85688485,
-            "venue_id":202615631
-        }
+    "wof:country": "US",
+    "wof:created": 1638566858,
+    "wof:geomhash": "8fdfbb7ef3a799d40e1183e90b78d59b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084837,
+        "locality_id": 101712563,
+        "neighbourhood_id": 85868065,
+        "region_id": 85688485,
+        "venue_id": 202615631
+      }
     ],
-    "wof:id":202615631,
-    "wof:lastmodified":1472638721,
-    "wof:name":"Hawk Enterprises Inc",
-    "wof:parent_id":85868065,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "local",
-        "provides",
-        "trucking"
+    "wof:id": 202615631,
+    "wof:lastmodified": 1638566858,
+    "wof:name": "Hawk Enterprises Inc",
+    "wof:parent_id": 85868065,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "provides",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.738444,
     41.460659,
     -81.738444,
     41.460659
-],
+  ],
   "geometry": {"coordinates":[-81.738444,41.460659],"type":"Point"}
 }

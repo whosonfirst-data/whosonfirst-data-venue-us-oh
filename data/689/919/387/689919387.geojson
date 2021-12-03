@@ -2,63 +2,67 @@
   "id": 689919387,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Grandview Ave Tiltonsville OH 43963",
-    "addr:housenumber":"123",
-    "addr:postcode":"43963",
-    "addr:street":"Grandview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.697558,40.168655,-80.697558,40.168655",
-    "geom:latitude":40.168655,
-    "geom:longitude":-80.697558,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Grandview Ave",
-    "sg:city":"Tiltonsville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "123 Grandview Ave Tiltonsville OH 43963",
+    "addr:housenumber": "123",
+    "addr:postcode": "43963",
+    "addr:street": "Grandview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.697558,40.168655,-80.697558,40.168655",
+    "geom:latitude": 40.168655,
+    "geom:longitude": -80.697558,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Grandview Ave",
+    "sg:city": "Tiltonsville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 859 4692",
-    "sg:postcode":"43963",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company",
-        "sewage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 859 4692",
+    "sg:postcode": "43963",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company",
+      "sewage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2HlydqqjNFJwLgMqaWEKDj_40.168655_-80.697558@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2HlydqqjNFJwLgMqaWEKDj_40.168655_-80.697558@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785102,
-    "wof:geomhash":"c621b714cd66901527f9d5783b2b42f6",
-    "wof:hierarchy":[],
-    "wof:id":689919387,
-    "wof:lastmodified":1472640075,
-    "wof:name":"Tiltonsville Water & Sewage",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company",
-        "sewage"
+    "wof:country": "US",
+    "wof:created": 1461785102,
+    "wof:geomhash": "dd4e55fdd76ff486f5c3db3e94b41a97",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689919387
+      }
+    ],
+    "wof:id": 689919387,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Tiltonsville Water \u0026 Sewage",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company",
+      "sewage"
     ]
-},
+  },
   "bbox": [
     -80.697558,
     40.168655,
     -80.697558,
     40.168655
-],
+  ],
   "geometry": {"coordinates":[-80.697558,40.168655],"type":"Point"}
 }

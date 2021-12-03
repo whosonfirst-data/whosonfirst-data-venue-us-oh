@@ -2,61 +2,65 @@
   "id": 689961225,
   "type": "Feature",
   "properties": {
-    "addr:full":"260 S Ellsworth Ave Salem OH 44460",
-    "addr:housenumber":"260",
-    "addr:postcode":"44460",
-    "addr:street":"S Ellsworth Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.856708,40.899347,-80.856708,40.899347",
-    "geom:latitude":40.899347,
-    "geom:longitude":-80.856708,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"260 S Ellsworth Ave",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "260 S Ellsworth Ave Salem OH 44460",
+    "addr:housenumber": "260",
+    "addr:postcode": "44460",
+    "addr:street": "S Ellsworth Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.856708,40.899347,-80.856708,40.899347",
+    "geom:latitude": 40.899347,
+    "geom:longitude": -80.856708,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "260 S Ellsworth Ave",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 337 6183",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 337 6183",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Ff2rvccnzsKs279jFYQf7_40.899347_-80.856708@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Ff2rvccnzsKs279jFYQf7_40.899347_-80.856708@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786167,
-    "wof:geomhash":"23312a52c29b6870c5c16dc78f74f0da",
-    "wof:hierarchy":[],
-    "wof:id":689961225,
-    "wof:lastmodified":1472640121,
-    "wof:name":"To Report A Fire",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461786167,
+    "wof:geomhash": "033e4a0ea466f32682c987361c74e2b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689961225
+      }
+    ],
+    "wof:id": 689961225,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "To Report A Fire",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.856708,
     40.899347,
     -80.856708,
     40.899347
-],
+  ],
   "geometry": {"coordinates":[-80.856708,40.899347],"type":"Point"}
 }

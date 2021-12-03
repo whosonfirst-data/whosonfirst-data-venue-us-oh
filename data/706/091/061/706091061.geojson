@@ -2,61 +2,65 @@
   "id": 706091061,
   "type": "Feature",
   "properties": {
-    "addr:full":"1815 Adams Ln Zanesville OH 43701",
-    "addr:housenumber":"1815",
-    "addr:postcode":"43701",
-    "addr:street":"Adams Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.025351,39.963175,-82.025351,39.963175",
-    "geom:latitude":39.963175,
-    "geom:longitude":-82.025351,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1815 Adams Ln",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "1815 Adams Ln Zanesville OH 43701",
+    "addr:housenumber": "1815",
+    "addr:postcode": "43701",
+    "addr:street": "Adams Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.025351,39.963175,-82.025351,39.963175",
+    "geom:latitude": 39.963175,
+    "geom:longitude": -82.025351,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1815 Adams Ln",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 607 9592",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 607 9592",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1UrjvFCYvD1y56ipD8Qh3y_39.963175_-82.025351@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1UrjvFCYvD1y56ipD8Qh3y_39.963175_-82.025351@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795591,
-    "wof:geomhash":"791c4d7bcfa44cbeb341768e5345534e",
-    "wof:hierarchy":[],
-    "wof:id":706091061,
-    "wof:lastmodified":1472639211,
-    "wof:name":"M & R Painting",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461795591,
+    "wof:geomhash": "53125ed5bbf02b55c98e51b11fe01475",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706091061
+      }
+    ],
+    "wof:id": 706091061,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "M \u0026 R Painting",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -82.025351,
     39.963175,
     -82.025351,
     39.963175
-],
+  ],
   "geometry": {"coordinates":[-82.025351,39.963175],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689534275,
   "type": "Feature",
   "properties": {
-    "addr:full":"1405 11th St Portsmouth OH 45662",
-    "addr:housenumber":"1405",
-    "addr:postcode":"45662",
-    "addr:street":"11Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.986464,38.739085,-82.986464,38.739085",
-    "geom:latitude":38.739085,
-    "geom:longitude":-82.986464,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1405 11th St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1405 11th St Portsmouth OH 45662",
+    "addr:housenumber": "1405",
+    "addr:postcode": "45662",
+    "addr:street": "11Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.986464,38.739085,-82.986464,38.739085",
+    "geom:latitude": 38.739085,
+    "geom:longitude": -82.986464,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1405 11th St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 354 7718",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 354 7718",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_470xjTxMCtr2xSGytLg9lB_38.739085_-82.986464@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_470xjTxMCtr2xSGytLg9lB_38.739085_-82.986464@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774207,
-    "wof:geomhash":"f578a4e66e6e9d6b2a4d92f5c0c8793c",
-    "wof:hierarchy":[],
-    "wof:id":689534275,
-    "wof:lastmodified":1472639182,
-    "wof:name":"Rick D Murphy MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461774207,
+    "wof:geomhash": "3112d42c30ef9a930072b76c6b9e51a8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689534275
+      }
+    ],
+    "wof:id": 689534275,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Rick D Murphy MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -82.986464,
     38.739085,
     -82.986464,
     38.739085
-],
+  ],
   "geometry": {"coordinates":[-82.986464,38.739085],"type":"Point"}
 }

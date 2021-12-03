@@ -2,61 +2,65 @@
   "id": 689600235,
   "type": "Feature",
   "properties": {
-    "addr:full":"244 S Monroe St Tiffin OH 44883",
-    "addr:housenumber":"244",
-    "addr:postcode":"44883",
-    "addr:street":"S Monroe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.177543,41.10982,-83.177543,41.10982",
-    "geom:latitude":41.10982,
-    "geom:longitude":-83.177543,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"244 S Monroe St",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "244 S Monroe St Tiffin OH 44883",
+    "addr:housenumber": "244",
+    "addr:postcode": "44883",
+    "addr:street": "S Monroe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.177543,41.109820,-83.177543,41.109820",
+    "geom:latitude": 41.10982,
+    "geom:longitude": -83.177543,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "244 S Monroe St",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 447 2515",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "district"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 447 2515",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "district"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2V7fl0oMlTX6gPsOYWnReh_41.109820_-83.177543@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2V7fl0oMlTX6gPsOYWnReh_41.109820_-83.177543@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776257,
-    "wof:geomhash":"7729f3fe007031c71ba46190ce0f39d1",
-    "wof:hierarchy":[],
-    "wof:id":689600235,
-    "wof:lastmodified":1472639401,
-    "wof:name":"Tiffin Board of Education",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "district"
+    "wof:country": "US",
+    "wof:created": 1461776257,
+    "wof:geomhash": "d360c69158c5fe24ce053f3edf976de8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689600235
+      }
+    ],
+    "wof:id": 689600235,
+    "wof:lastmodified": 1638566995,
+    "wof:name": "Tiffin Board of Education",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "district"
     ]
-},
+  },
   "bbox": [
     -83.177543,
     41.10982,
     -83.177543,
     41.10982
-],
+  ],
   "geometry": {"coordinates":[-83.177543,41.10982],"type":"Point"}
 }

@@ -2,70 +2,74 @@
   "id": 706316483,
   "type": "Feature",
   "properties": {
-    "addr:full":"2213 Paris Ave SE Paris OH 44669",
-    "addr:housenumber":"2213",
-    "addr:postcode":"44669",
-    "addr:street":"Paris Ave Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.151911,40.750581,-81.151911,40.750581",
-    "geom:latitude":40.750581,
-    "geom:longitude":-81.151911,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2213 Paris Ave SE",
-    "sg:city":"Paris",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Professional",
-            "subcategory":"Management & Consulting",
-            "type":"Services"
-        }
+    "addr:full": "2213 Paris Ave SE Paris OH 44669",
+    "addr:housenumber": "2213",
+    "addr:postcode": "44669",
+    "addr:street": "Paris Ave Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.151911,40.750581,-81.151911,40.750581",
+    "geom:latitude": 40.750581,
+    "geom:longitude": -81.151911,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2213 Paris Ave SE",
+    "sg:city": "Paris",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Professional",
+        "subcategory": "Management \u0026 Consulting",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 862 3311",
-    "sg:postcode":"44669",
-    "sg:province":"OH",
-    "sg:tags":[
-        "herb",
-        "miscellaneous",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 862 3311",
+    "sg:postcode": "44669",
+    "sg:province": "OH",
+    "sg:tags": [
+      "herb",
+      "miscellaneous",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7WOhTwX42z39T5cbo4efSS_40.750581_-81.151911@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7WOhTwX42z39T5cbo4efSS_40.750581_-81.151911@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800650,
-    "wof:geomhash":"bd050a027f564fcdcdc1fcd725d9d64b",
-    "wof:hierarchy":[],
-    "wof:id":706316483,
-    "wof:lastmodified":1472639786,
-    "wof:name":"Charlotte Gassman Herbs",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "herb",
-        "miscellaneous",
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461800650,
+    "wof:geomhash": "2153308d665649c0bca678de19abf00f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706316483
+      }
+    ],
+    "wof:id": 706316483,
+    "wof:lastmodified": 1638567083,
+    "wof:name": "Charlotte Gassman Herbs",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "herb",
+      "miscellaneous",
+      "store"
     ]
-},
+  },
   "bbox": [
     -81.151911,
     40.750581,
     -81.151911,
     40.750581
-],
+  ],
   "geometry": {"coordinates":[-81.151911,40.750581],"type":"Point"}
 }

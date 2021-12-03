@@ -2,61 +2,65 @@
   "id": 705808905,
   "type": "Feature",
   "properties": {
-    "addr:full":"4907 E 84th St Cleveland OH 44125",
-    "addr:housenumber":"4907",
-    "addr:postcode":"44125",
-    "addr:street":"E 84Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.626711,41.42444,-81.626711,41.42444",
-    "geom:latitude":41.42444,
-    "geom:longitude":-81.626711,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4907 E 84th St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Travel Agent",
-            "type":"Entertainment"
-        }
+    "addr:full": "4907 E 84th St Cleveland OH 44125",
+    "addr:housenumber": "4907",
+    "addr:postcode": "44125",
+    "addr:street": "E 84Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.626711,41.424440,-81.626711,41.424440",
+    "geom:latitude": 41.42444,
+    "geom:longitude": -81.626711,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4907 E 84th St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Travel Agent",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 341 7442",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "agency"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 341 7442",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "agency"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_524p4dxFFNmox4fykgr8dw_41.424440_-81.626711@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_524p4dxFFNmox4fykgr8dw_41.424440_-81.626711@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789209,
-    "wof:geomhash":"fbaf7f7bce20a8977d236fbb8a6a6836",
-    "wof:hierarchy":[],
-    "wof:id":705808905,
-    "wof:lastmodified":1472639309,
-    "wof:name":"Cheap Seats",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "agency"
+    "wof:country": "US",
+    "wof:created": 1461789209,
+    "wof:geomhash": "7372fd40494510741ca1c598d36421f2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705808905
+      }
+    ],
+    "wof:id": 705808905,
+    "wof:lastmodified": 1638567004,
+    "wof:name": "Cheap Seats",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "agency"
     ]
-},
+  },
   "bbox": [
     -81.626711,
     41.42444,
     -81.626711,
     41.42444
-],
+  ],
   "geometry": {"coordinates":[-81.626711,41.42444],"type":"Point"}
 }

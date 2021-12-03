@@ -2,56 +2,60 @@
   "id": 689509925,
   "type": "Feature",
   "properties": {
-    "addr:full":"5800 Pennsylvania Ave Cleveland OH 44137",
-    "addr:housenumber":"5800",
-    "addr:postcode":"44137",
-    "addr:street":"Pennsylvania Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.561354,41.398955,-81.561354,41.398955",
-    "geom:latitude":41.398955,
-    "geom:longitude":-81.561354,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5800 Pennsylvania Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Wine & Distilled Alcoholic Beverages",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "5800 Pennsylvania Ave Cleveland OH 44137",
+    "addr:housenumber": "5800",
+    "addr:postcode": "44137",
+    "addr:street": "Pennsylvania Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.561354,41.398955,-81.561354,41.398955",
+    "geom:latitude": 41.398955,
+    "geom:longitude": -81.561354,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5800 Pennsylvania Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Wine \u0026 Distilled Alcoholic Beverages",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 587 9463",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0rLLiMwTXzDyNvRmmPhals_41.398955_-81.561354@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 587 9463",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0rLLiMwTXzDyNvRmmPhals_41.398955_-81.561354@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773409,
-    "wof:geomhash":"914e36b7c43a2e93e32e791c37ac7b13",
-    "wof:hierarchy":[],
-    "wof:id":689509925,
-    "wof:lastmodified":1472639145,
-    "wof:name":"Wine Distributors Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461773409,
+    "wof:geomhash": "ed120674403a48673b2cc0b8dc98e008",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689509925
+      }
+    ],
+    "wof:id": 689509925,
+    "wof:lastmodified": 1638566953,
+    "wof:name": "Wine Distributors Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.561354,
     41.398955,
     -81.561354,
     41.398955
-],
-  "geometry": {"coordinates":[-81.56135399999999,41.398955],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.561354,41.398955],"type":"Point"}
 }

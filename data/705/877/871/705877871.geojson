@@ -2,61 +2,65 @@
   "id": 705877871,
   "type": "Feature",
   "properties": {
-    "addr:full":"1206 E 2nd St Defiance OH 43512",
-    "addr:housenumber":"1206",
-    "addr:postcode":"43512",
-    "addr:street":"E 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.342415,41.282837,-84.342415,41.282837",
-    "geom:latitude":41.282837,
-    "geom:longitude":-84.342415,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1206 E 2nd St",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "1206 E 2nd St Defiance OH 43512",
+    "addr:housenumber": "1206",
+    "addr:postcode": "43512",
+    "addr:street": "E 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.342415,41.282837,-84.342415,41.282837",
+    "geom:latitude": 41.282837,
+    "geom:longitude": -84.342415,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1206 E 2nd St",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 782 2576",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 782 2576",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6zPmzf958LexIw91SkyAy7_41.282837_-84.342415@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6zPmzf958LexIw91SkyAy7_41.282837_-84.342415@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790881,
-    "wof:geomhash":"04078b3ea744919470411c3f0882c936",
-    "wof:hierarchy":[],
-    "wof:id":705877871,
-    "wof:lastmodified":1472639512,
-    "wof:name":"Bierlein Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461790881,
+    "wof:geomhash": "9d6262b57d00e88aa0f6661dffef5772",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705877871
+      }
+    ],
+    "wof:id": 705877871,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Bierlein Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -84.342415,
     41.282837,
     -84.342415,
     41.282837
-],
+  ],
   "geometry": {"coordinates":[-84.342415,41.282837],"type":"Point"}
 }

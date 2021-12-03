@@ -2,61 +2,65 @@
   "id": 706374255,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 Buckeye St Sugarcreek OH 44681",
-    "addr:housenumber":"102",
-    "addr:postcode":"44681",
-    "addr:street":"Buckeye St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.642936,40.499045,-81.642936,40.499045",
-    "geom:latitude":40.499045,
-    "geom:longitude":-81.642936,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 Buckeye St",
-    "sg:city":"Sugarcreek",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "102 Buckeye St Sugarcreek OH 44681",
+    "addr:housenumber": "102",
+    "addr:postcode": "44681",
+    "addr:street": "Buckeye St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.642936,40.499045,-81.642936,40.499045",
+    "geom:latitude": 40.499045,
+    "geom:longitude": -81.642936,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 Buckeye St",
+    "sg:city": "Sugarcreek",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 852 2832",
-    "sg:postcode":"44681",
-    "sg:province":"OH",
-    "sg:tags":[
-        "stockyard"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 852 2832",
+    "sg:postcode": "44681",
+    "sg:province": "OH",
+    "sg:tags": [
+      "stockyard"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6hx4N6vUGfJDecxF80LtmU_40.499045_-81.642936@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6hx4N6vUGfJDecxF80LtmU_40.499045_-81.642936@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801891,
-    "wof:geomhash":"10f8f1cea0155975b051c2a311460791",
-    "wof:hierarchy":[],
-    "wof:id":706374255,
-    "wof:lastmodified":1472639943,
-    "wof:name":"Sugarcreek Livestock Trckg Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "stockyard"
+    "wof:country": "US",
+    "wof:created": 1461801891,
+    "wof:geomhash": "392c5d0d13c40f5ec71f96357a749e0a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706374255
+      }
+    ],
+    "wof:id": 706374255,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Sugarcreek Livestock Trckg Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "stockyard"
     ]
-},
+  },
   "bbox": [
     -81.642936,
     40.499045,
     -81.642936,
     40.499045
-],
-  "geometry": {"coordinates":[-81.64293600000001,40.499045],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.642936,40.499045],"type":"Point"}
 }

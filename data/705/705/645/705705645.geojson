@@ -2,65 +2,69 @@
   "id": 705705645,
   "type": "Feature",
   "properties": {
-    "addr:full":"10082 Commerce Park Dr Cincinnati OH 45246",
-    "addr:housenumber":"10082",
-    "addr:postcode":"45246",
-    "addr:street":"Commerce Park Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.453923,39.30607,-84.453923,39.30607",
-    "geom:latitude":39.30607,
-    "geom:longitude":-84.453923,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10082 Commerce Park Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "10082 Commerce Park Dr Cincinnati OH 45246",
+    "addr:housenumber": "10082",
+    "addr:postcode": "45246",
+    "addr:street": "Commerce Park Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.453923,39.306070,-84.453923,39.306070",
+    "geom:latitude": 39.30607,
+    "geom:longitude": -84.453923,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10082 Commerce Park Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 874 7411",
-    "sg:postcode":"45246",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile",
-        "radiator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 874 7411",
+    "sg:postcode": "45246",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile",
+      "radiator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FYJEk7OnuCUWW1j2zFLOE_39.306070_-84.453923@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4FYJEk7OnuCUWW1j2zFLOE_39.306070_-84.453923@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786749,
-    "wof:geomhash":"0f4fd599a9c0c18dbafc34097faeea0f",
-    "wof:hierarchy":[],
-    "wof:id":705705645,
-    "wof:lastmodified":1472638310,
-    "wof:name":"Radac Corp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile",
-        "radiator"
+    "wof:country": "US",
+    "wof:created": 1461786749,
+    "wof:geomhash": "2d5182b89c69632dacec64143cfc159e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705705645
+      }
+    ],
+    "wof:id": 705705645,
+    "wof:lastmodified": 1638566923,
+    "wof:name": "Radac Corp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile",
+      "radiator"
     ]
-},
+  },
   "bbox": [
     -84.453923,
     39.30607,
     -84.453923,
     39.30607
-],
+  ],
   "geometry": {"coordinates":[-84.453923,39.30607],"type":"Point"}
 }

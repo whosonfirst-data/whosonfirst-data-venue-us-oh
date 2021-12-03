@@ -2,65 +2,69 @@
   "id": 706457689,
   "type": "Feature",
   "properties": {
-    "addr:full":"50852 State Rte 14 East Palestine OH 44413",
-    "addr:housenumber":"50852",
-    "addr:postcode":"44413",
-    "addr:street":"State Rte 14 East",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.540715,40.857758,-80.540715,40.857758",
-    "geom:latitude":40.857758,
-    "geom:longitude":-80.540715,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50852 State Rte 14",
-    "sg:city":"East Palestine",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "50852 State Rte 14 East Palestine OH 44413",
+    "addr:housenumber": "50852",
+    "addr:postcode": "44413",
+    "addr:street": "State Rte 14 East",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.540715,40.857758,-80.540715,40.857758",
+    "geom:latitude": 40.857758,
+    "geom:longitude": -80.540715,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "50852 State Rte 14",
+    "sg:city": "East Palestine",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 3320",
-    "sg:postcode":"44413",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 3320",
+    "sg:postcode": "44413",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6BPSlI7rpL422x7WfxVIXV_40.857758_-80.540715@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6BPSlI7rpL422x7WfxVIXV_40.857758_-80.540715@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803600,
-    "wof:geomhash":"a2b2dbc25424f5ce313a2385659be887",
-    "wof:hierarchy":[],
-    "wof:id":706457689,
-    "wof:lastmodified":1472640052,
-    "wof:name":"Townsend Trucking",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461803600,
+    "wof:geomhash": "30b52fa8fa1e24d25e16501220a5b5d8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706457689
+      }
+    ],
+    "wof:id": 706457689,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Townsend Trucking",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.540715,
     40.857758,
     -80.540715,
     40.857758
-],
-  "geometry": {"coordinates":[-80.54071500000001,40.857758],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.540715,40.857758],"type":"Point"}
 }

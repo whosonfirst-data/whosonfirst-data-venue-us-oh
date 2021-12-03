@@ -2,63 +2,67 @@
   "id": 705781567,
   "type": "Feature",
   "properties": {
-    "addr:full":"6488 Upper Valley Pike Urbana OH 43078",
-    "addr:housenumber":"6488",
-    "addr:postcode":"43078",
-    "addr:street":"Upper Valley Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.835324,40.017376,-83.835324,40.017376",
-    "geom:latitude":40.017376,
-    "geom:longitude":-83.835324,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6488 Upper Valley Pike",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Airport",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6488 Upper Valley Pike Urbana OH 43078",
+    "addr:housenumber": "6488",
+    "addr:postcode": "43078",
+    "addr:street": "Upper Valley Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.835324,40.017376,-83.835324,40.017376",
+    "geom:latitude": 40.017376,
+    "geom:longitude": -83.835324,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6488 Upper Valley Pike",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Airport",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 969 8521",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "aircraft",
-        "maintenance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 969 8521",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "aircraft",
+      "maintenance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6vnvKrazAy8SSH0Dmbbk17_40.017376_-83.835324@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6vnvKrazAy8SSH0Dmbbk17_40.017376_-83.835324@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788590,
-    "wof:geomhash":"d8077a56d0e971bbe251724b9ae4d81a",
-    "wof:hierarchy":[],
-    "wof:id":705781567,
-    "wof:lastmodified":1472639251,
-    "wof:name":"Mad River Airport Inc",
-    "wof:parent_id":420534599,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "aircraft",
-        "maintenance"
+    "wof:country": "US",
+    "wof:created": 1461788590,
+    "wof:geomhash": "7df95d01d8169fc6552d0906abdf17ac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705781567
+      }
+    ],
+    "wof:id": 705781567,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Mad River Airport Inc",
+    "wof:parent_id": 420534599,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "aircraft",
+      "maintenance"
     ]
-},
+  },
   "bbox": [
     -83.835324,
     40.017376,
     -83.835324,
     40.017376
-],
+  ],
   "geometry": {"coordinates":[-83.835324,40.017376],"type":"Point"}
 }

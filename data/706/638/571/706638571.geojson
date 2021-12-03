@@ -2,61 +2,65 @@
   "id": 706638571,
   "type": "Feature",
   "properties": {
-    "addr:full":"4187 Heritage Glen Dr Cincinnati OH 45245",
-    "addr:housenumber":"4187",
-    "addr:postcode":"45245",
-    "addr:street":"Heritage Glen Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.274337,39.07843,-84.274337,39.07843",
-    "geom:latitude":39.07843,
-    "geom:longitude":-84.274337,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4187 Heritage Glen Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Structure",
-            "subcategory":"Office Building",
-            "type":"Public Place"
-        }
+    "addr:full": "4187 Heritage Glen Dr Cincinnati OH 45245",
+    "addr:housenumber": "4187",
+    "addr:postcode": "45245",
+    "addr:street": "Heritage Glen Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.274337,39.078430,-84.274337,39.078430",
+    "geom:latitude": 39.07843,
+    "geom:longitude": -84.274337,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4187 Heritage Glen Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Structure",
+        "subcategory": "Office Building",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 373 5855",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "park"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 373 5855",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "park"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6tV0F6UolYmN0qRpDeCWd1_39.078430_-84.274337@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6tV0F6UolYmN0qRpDeCWd1_39.078430_-84.274337@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807544,
-    "wof:geomhash":"d39e99be5cf122d6c8fb31274f876e13",
-    "wof:hierarchy":[],
-    "wof:id":706638571,
-    "wof:lastmodified":1472640253,
-    "wof:name":"Tri State Integrity Properties, Inc.",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "park"
+    "wof:country": "US",
+    "wof:created": 1461807544,
+    "wof:geomhash": "0e21a0fc6195dee25978cd526b1a8e07",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706638571
+      }
+    ],
+    "wof:id": 706638571,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Tri State Integrity Properties, Inc.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "park"
     ]
-},
+  },
   "bbox": [
     -84.274337,
     39.07843,
     -84.274337,
     39.07843
-],
+  ],
   "geometry": {"coordinates":[-84.274337,39.07843],"type":"Point"}
 }

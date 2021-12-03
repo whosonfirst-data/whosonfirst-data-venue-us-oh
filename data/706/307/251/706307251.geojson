@@ -2,60 +2,64 @@
   "id": 706307251,
   "type": "Feature",
   "properties": {
-    "addr:full":"11099 State Rte 212 NE Bolivar OH 44612",
-    "addr:housenumber":"11099",
-    "addr:postcode":"44612",
-    "addr:street":"State Rte 212 Ne Bolivar",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.444363,40.640717,-81.444363,40.640717",
-    "geom:latitude":40.640717,
-    "geom:longitude":-81.444363,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"11099 State Rte 212 NE",
-    "sg:city":"Bolivar",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11099 State Rte 212 NE Bolivar OH 44612",
+    "addr:housenumber": "11099",
+    "addr:postcode": "44612",
+    "addr:street": "State Rte 212 Ne Bolivar",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.444363,40.640717,-81.444363,40.640717",
+    "geom:latitude": 40.640717,
+    "geom:longitude": -81.444363,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "11099 State Rte 212 NE",
+    "sg:city": "Bolivar",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 874 7827",
-    "sg:postcode":"44612",
-    "sg:province":"OH",
-    "sg:website":"www.subway.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7VumO5ibuLb9foJmaQlO30_40.640717_-81.444363@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 874 7827",
+    "sg:postcode": "44612",
+    "sg:province": "OH",
+    "sg:website": "www.subway.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7VumO5ibuLb9foJmaQlO30_40.640717_-81.444363@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800463,
-    "wof:geomhash":"3f92b168390e8b037ebee3ce812f4b07",
-    "wof:hierarchy":[],
-    "wof:id":706307251,
-    "wof:lastmodified":1512000770,
-    "wof:name":"Subway Sandwiches & Salads",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461800463,
+    "wof:geomhash": "3f92b168390e8b037ebee3ce812f4b07",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706307251
+      }
+    ],
+    "wof:id": 706307251,
+    "wof:lastmodified": 1638567080,
+    "wof:name": "Subway Sandwiches \u0026 Salads",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.444363,
     40.640717,
     -81.444363,
     40.640717
-],
+  ],
   "geometry": {"coordinates":[-81.444363,40.640717],"type":"Point"}
 }

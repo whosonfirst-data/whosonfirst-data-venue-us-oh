@@ -2,61 +2,65 @@
   "id": 706080039,
   "type": "Feature",
   "properties": {
-    "addr:full":"8900 Wells Rd Plain City OH 43064",
-    "addr:housenumber":"8900",
-    "addr:postcode":"43064",
-    "addr:street":"Wells Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.207885,40.172166,-83.207885,40.172166",
-    "geom:latitude":40.172166,
-    "geom:longitude":-83.207885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8900 Wells Rd",
-    "sg:city":"Plain City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "8900 Wells Rd Plain City OH 43064",
+    "addr:housenumber": "8900",
+    "addr:postcode": "43064",
+    "addr:street": "Wells Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.207885,40.172166,-83.207885,40.172166",
+    "geom:latitude": 40.172166,
+    "geom:longitude": -83.207885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8900 Wells Rd",
+    "sg:city": "Plain City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 873 6867",
-    "sg:postcode":"43064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 873 6867",
+    "sg:postcode": "43064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1yTnWqZsH5GTFEINEsPakA_40.172166_-83.207885@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1yTnWqZsH5GTFEINEsPakA_40.172166_-83.207885@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795254,
-    "wof:geomhash":"204860b0759213f7cbe3248f66813794",
-    "wof:hierarchy":[],
-    "wof:id":706080039,
-    "wof:lastmodified":1472639160,
-    "wof:name":"Diane Spagnuolo Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461795254,
+    "wof:geomhash": "e60dbb11fad8a104029a9c0b9a0045d4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706080039
+      }
+    ],
+    "wof:id": 706080039,
+    "wof:lastmodified": 1638566979,
+    "wof:name": "Diane Spagnuolo Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.207885,
     40.172166,
     -83.207885,
     40.172166
-],
+  ],
   "geometry": {"coordinates":[-83.207885,40.172166],"type":"Point"}
 }

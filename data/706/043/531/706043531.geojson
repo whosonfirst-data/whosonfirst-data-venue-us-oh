@@ -2,61 +2,65 @@
   "id": 706043531,
   "type": "Feature",
   "properties": {
-    "addr:full":"6407 Lafayette Rd Medina OH 44256",
-    "addr:housenumber":"6407",
-    "addr:postcode":"44256",
-    "addr:street":"Lafayette Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.935296,41.099076,-81.935296,41.099076",
-    "geom:latitude":41.099076,
-    "geom:longitude":-81.935296,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6407 Lafayette Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6407 Lafayette Rd Medina OH 44256",
+    "addr:housenumber": "6407",
+    "addr:postcode": "44256",
+    "addr:street": "Lafayette Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.935296,41.099076,-81.935296,41.099076",
+    "geom:latitude": 41.099076,
+    "geom:longitude": -81.935296,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6407 Lafayette Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 722 2290",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 722 2290",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1quy9QJPYX0C0Vdx71iY1J_41.099076_-81.935296@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1quy9QJPYX0C0Vdx71iY1J_41.099076_-81.935296@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794470,
-    "wof:geomhash":"cd2bcb1f55cb95eb63af0a88e4b40aaf",
-    "wof:hierarchy":[],
-    "wof:id":706043531,
-    "wof:lastmodified":1472638981,
-    "wof:name":"Roadside Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461794470,
+    "wof:geomhash": "e1a94f7587250ec4f197fb43c472df5f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706043531
+      }
+    ],
+    "wof:id": 706043531,
+    "wof:lastmodified": 1638566964,
+    "wof:name": "Roadside Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.935296,
     41.099076,
     -81.935296,
     41.099076
-],
-  "geometry": {"coordinates":[-81.93529599999999,41.099076],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.935296,41.099076],"type":"Point"}
 }

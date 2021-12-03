@@ -2,65 +2,69 @@
   "id": 705998687,
   "type": "Feature",
   "properties": {
-    "addr:full":"5207 Secor Rd Toledo OH 43623",
-    "addr:housenumber":"5207",
-    "addr:postcode":"43623",
-    "addr:street":"Secor Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.62392,41.709813,-83.62392,41.709813",
-    "geom:latitude":41.709813,
-    "geom:longitude":-83.62392,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5207 Secor Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5207 Secor Rd Toledo OH 43623",
+    "addr:housenumber": "5207",
+    "addr:postcode": "43623",
+    "addr:street": "Secor Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.623920,41.709813,-83.623920,41.709813",
+    "geom:latitude": 41.709813,
+    "geom:longitude": -83.62392,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5207 Secor Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 480 1500",
-    "sg:postcode":"43623",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 480 1500",
+    "sg:postcode": "43623",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_54U8I26P4aGWHo53Gfl5Yf_41.709813_-83.623920@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_54U8I26P4aGWHo53Gfl5Yf_41.709813_-83.623920@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793551,
-    "wof:geomhash":"2baa52836ede79f7cf9e59bb4bd4c10f",
-    "wof:hierarchy":[],
-    "wof:id":705998687,
-    "wof:lastmodified":1472639827,
-    "wof:name":"Priority Dispatch Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461793551,
+    "wof:geomhash": "03b34225839a7b77339d61f71f9121b3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705998687
+      }
+    ],
+    "wof:id": 705998687,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Priority Dispatch Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.62392,
     41.709813,
     -83.62392,
     41.709813
-],
+  ],
   "geometry": {"coordinates":[-83.62392,41.709813],"type":"Point"}
 }

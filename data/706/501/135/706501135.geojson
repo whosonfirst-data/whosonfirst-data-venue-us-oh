@@ -2,63 +2,67 @@
   "id": 706501135,
   "type": "Feature",
   "properties": {
-    "addr:full":"128 S Main St Creston OH 44217",
-    "addr:housenumber":"128",
-    "addr:postcode":"44217",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.895668,40.983068,-81.895668,40.983068",
-    "geom:latitude":40.983068,
-    "geom:longitude":-81.895668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"128 S Main St",
-    "sg:city":"Creston",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "128 S Main St Creston OH 44217",
+    "addr:housenumber": "128",
+    "addr:postcode": "44217",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.895668,40.983068,-81.895668,40.983068",
+    "geom:latitude": 40.983068,
+    "geom:longitude": -81.895668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "128 S Main St",
+    "sg:city": "Creston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 435 6668",
-    "sg:postcode":"44217",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 435 6668",
+    "sg:postcode": "44217",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0R5LLzRp8E7gjLRV9dTeSN_40.982986_-81.895788@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0R5LLzRp8E7gjLRV9dTeSN_40.982986_-81.895788@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461804672,
-    "wof:geomhash":"e8369b70795fa7ec2e56f0f880018491",
-    "wof:hierarchy":[],
-    "wof:id":706501135,
-    "wof:lastmodified":1472640132,
-    "wof:name":"Ray's Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461804672,
+    "wof:geomhash": "85d377121ebd27dcf9489f8ecfa15417",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706501135
+      }
+    ],
+    "wof:id": 706501135,
+    "wof:lastmodified": 1638567128,
+    "wof:name": "Ray's Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -81.895668,
     40.983068,
     -81.895668,
     40.983068
-],
+  ],
   "geometry": {"coordinates":[-81.895668,40.983068],"type":"Point"}
 }

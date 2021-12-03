@@ -2,61 +2,65 @@
   "id": 689573193,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Massillon St Wilmot OH 44689",
-    "addr:housenumber":"300",
-    "addr:postcode":"44689",
-    "addr:street":"Massillon St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.63107,40.657235,-81.63107,40.657235",
-    "geom:latitude":40.657235,
-    "geom:longitude":-81.63107,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"300 Massillon St",
-    "sg:city":"Wilmot",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "300 Massillon St Wilmot OH 44689",
+    "addr:housenumber": "300",
+    "addr:postcode": "44689",
+    "addr:street": "Massillon St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.631070,40.657235,-81.631070,40.657235",
+    "geom:latitude": 40.657235,
+    "geom:longitude": -81.63107,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "300 Massillon St",
+    "sg:city": "Wilmot",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 359 5711",
-    "sg:postcode":"44689",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 359 5711",
+    "sg:postcode": "44689",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_09WmIuukFUFfCDyVJs1HZ3_40.657235_-81.631070@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_09WmIuukFUFfCDyVJs1HZ3_40.657235_-81.631070@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775384,
-    "wof:geomhash":"2147883d747a22b79b49f7ad7fb5af67",
-    "wof:hierarchy":[],
-    "wof:id":689573193,
-    "wof:lastmodified":1472639328,
-    "wof:name":"Wilmot Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461775384,
+    "wof:geomhash": "2d3fffbafc72fb91b2a7261ff03d81b9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689573193
+      }
+    ],
+    "wof:id": 689573193,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Wilmot Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -81.63107,
     40.657235,
     -81.63107,
     40.657235
-],
-  "geometry": {"coordinates":[-81.63106999999999,40.657235],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.63107,40.657235],"type":"Point"}
 }

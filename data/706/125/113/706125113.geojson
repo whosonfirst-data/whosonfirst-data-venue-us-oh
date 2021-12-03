@@ -2,57 +2,61 @@
   "id": 706125113,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 W Main St Troy OH 45373",
-    "addr:housenumber":"11",
-    "addr:postcode":"45373",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.203645,40.039848,-84.203645,40.039848",
-    "geom:latitude":40.039848,
-    "geom:longitude":-84.203645,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11 W Main St",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "11 W Main St Troy OH 45373",
+    "addr:housenumber": "11",
+    "addr:postcode": "45373",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.203645,40.039848,-84.203645,40.039848",
+    "geom:latitude": 40.039848,
+    "geom:longitude": -84.203645,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11 W Main St",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 339 4533",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:website":"www.teichertheaters.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01mVmy9Ecqi7cPmE92YFaZ_40.039848_-84.203645@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 339 4533",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:website": "www.teichertheaters.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_01mVmy9Ecqi7cPmE92YFaZ_40.039848_-84.203645@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796388,
-    "wof:geomhash":"6660b419d08b2f19567a85cf29fba780",
-    "wof:hierarchy":[],
-    "wof:id":706125113,
-    "wof:lastmodified":1472639285,
-    "wof:name":"Sherwood Theaters Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461796388,
+    "wof:geomhash": "5c143f87f608d0a6eb89019046c29111",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706125113
+      }
+    ],
+    "wof:id": 706125113,
+    "wof:lastmodified": 1638567008,
+    "wof:name": "Sherwood Theaters Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.203645,
     40.039848,
     -84.203645,
     40.039848
-],
-  "geometry": {"coordinates":[-84.20364499999999,40.039848],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.203645,40.039848],"type":"Point"}
 }

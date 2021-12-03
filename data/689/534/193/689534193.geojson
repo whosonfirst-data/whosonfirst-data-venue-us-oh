@@ -2,61 +2,65 @@
   "id": 689534193,
   "type": "Feature",
   "properties": {
-    "addr:full":"3319 Creek Rd St Paris OH 43072",
-    "addr:housenumber":"3319",
-    "addr:postcode":"43072",
-    "addr:street":"Creek Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.931209,40.0741,-83.931209,40.0741",
-    "geom:latitude":40.0741,
-    "geom:longitude":-83.931209,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3319 Creek Rd",
-    "sg:city":"St Paris",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "3319 Creek Rd St Paris OH 43072",
+    "addr:housenumber": "3319",
+    "addr:postcode": "43072",
+    "addr:street": "Creek Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.931209,40.074100,-83.931209,40.074100",
+    "geom:latitude": 40.0741,
+    "geom:longitude": -83.931209,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3319 Creek Rd",
+    "sg:city": "St Paris",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 663 5840",
-    "sg:postcode":"43072",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 663 5840",
+    "sg:postcode": "43072",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3nk6Vvhlghi29j5t4dgN02_40.074100_-83.931209@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3nk6Vvhlghi29j5t4dgN02_40.074100_-83.931209@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774205,
-    "wof:geomhash":"b84b8c71b6a331b7bde9190db6c3376e",
-    "wof:hierarchy":[],
-    "wof:id":689534193,
-    "wof:lastmodified":1472639182,
-    "wof:name":"Thase Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461774205,
+    "wof:geomhash": "ba3091d70baace87408f0f4fc39ed5c2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689534193
+      }
+    ],
+    "wof:id": 689534193,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Thase Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.931209,
     40.0741,
     -83.931209,
     40.0741
-],
+  ],
   "geometry": {"coordinates":[-83.931209,40.0741],"type":"Point"}
 }

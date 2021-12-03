@@ -2,61 +2,65 @@
   "id": 689728785,
   "type": "Feature",
   "properties": {
-    "addr:full":"402 Broad St Montpelier OH 43543",
-    "addr:housenumber":"402",
-    "addr:postcode":"43543",
-    "addr:street":"Broad St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.608588,41.58385,-84.608588,41.58385",
-    "geom:latitude":41.58385,
-    "geom:longitude":-84.608588,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"402 Broad St",
-    "sg:city":"Montpelier",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "402 Broad St Montpelier OH 43543",
+    "addr:housenumber": "402",
+    "addr:postcode": "43543",
+    "addr:street": "Broad St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.608588,41.583850,-84.608588,41.583850",
+    "geom:latitude": 41.58385,
+    "geom:longitude": -84.608588,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "402 Broad St",
+    "sg:city": "Montpelier",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 485 3519",
-    "sg:postcode":"43543",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 485 3519",
+    "sg:postcode": "43543",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0PSJMP6JFVaGvFQP7ItQf8_41.583850_-84.608588@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0PSJMP6JFVaGvFQP7ItQf8_41.583850_-84.608588@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779897,
-    "wof:geomhash":"fd1ed53e12bd1e26eabf9fed927c65ba",
-    "wof:hierarchy":[],
-    "wof:id":689728785,
-    "wof:lastmodified":1472639758,
-    "wof:name":"St Paul's United Methodist",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461779897,
+    "wof:geomhash": "effe4e49adc24be493d171c09eb6c780",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689728785
+      }
+    ],
+    "wof:id": 689728785,
+    "wof:lastmodified": 1638567031,
+    "wof:name": "St Paul's United Methodist",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.608588,
     41.58385,
     -84.608588,
     41.58385
-],
+  ],
   "geometry": {"coordinates":[-84.608588,41.58385],"type":"Point"}
 }

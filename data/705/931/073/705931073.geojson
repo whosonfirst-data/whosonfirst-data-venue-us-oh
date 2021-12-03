@@ -2,61 +2,65 @@
   "id": 705931073,
   "type": "Feature",
   "properties": {
-    "addr:full":"723 S Vine St Orrville OH 44667",
-    "addr:housenumber":"723",
-    "addr:postcode":"44667",
-    "addr:street":"S Vine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.765891,40.834206,-81.765891,40.834206",
-    "geom:latitude":40.834206,
-    "geom:longitude":-81.765891,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"723 S Vine St",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "723 S Vine St Orrville OH 44667",
+    "addr:housenumber": "723",
+    "addr:postcode": "44667",
+    "addr:street": "S Vine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.765891,40.834206,-81.765891,40.834206",
+    "geom:latitude": 40.834206,
+    "geom:longitude": -81.765891,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "723 S Vine St",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 682 7832",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 682 7832",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3WKnrsJjghjbTCWO2vP014_40.834206_-81.765891@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3WKnrsJjghjbTCWO2vP014_40.834206_-81.765891@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792082,
-    "wof:geomhash":"32cb5edf1ae0edabfb35a699cb88dd03",
-    "wof:hierarchy":[],
-    "wof:id":705931073,
-    "wof:lastmodified":1472639649,
-    "wof:name":"Sun Promotions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461792082,
+    "wof:geomhash": "30beb541df8a298be60f190397b17d13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705931073
+      }
+    ],
+    "wof:id": 705931073,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Sun Promotions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -81.765891,
     40.834206,
     -81.765891,
     40.834206
-],
+  ],
   "geometry": {"coordinates":[-81.765891,40.834206],"type":"Point"}
 }

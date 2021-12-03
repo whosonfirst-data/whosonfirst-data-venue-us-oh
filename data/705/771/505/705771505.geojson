@@ -2,56 +2,60 @@
   "id": 705771505,
   "type": "Feature",
   "properties": {
-    "addr:full":"9429 Ravenna Rd Twinsburg OH 44087",
-    "addr:housenumber":"9429",
-    "addr:postcode":"44087",
-    "addr:street":"Ravenna Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.427612,41.307146,-81.427612,41.307146",
-    "geom:latitude":41.307146,
-    "geom:longitude":-81.427612,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9429 Ravenna Rd",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Chemicals & Plastics",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "9429 Ravenna Rd Twinsburg OH 44087",
+    "addr:housenumber": "9429",
+    "addr:postcode": "44087",
+    "addr:street": "Ravenna Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.427612,41.307146,-81.427612,41.307146",
+    "geom:latitude": 41.307146,
+    "geom:longitude": -81.427612,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9429 Ravenna Rd",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Chemicals \u0026 Plastics",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 425 4484",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4SabuWJkpTCSTAw3YjHpci_41.307146_-81.427612@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 425 4484",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4SabuWJkpTCSTAw3YjHpci_41.307146_-81.427612@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788330,
-    "wof:geomhash":"469f196a535ededcc3c881d51b367b14",
-    "wof:hierarchy":[],
-    "wof:id":705771505,
-    "wof:lastmodified":1472639220,
-    "wof:name":"Liberty Solvents/Chems",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461788330,
+    "wof:geomhash": "f756f3d60cc3f18426b532639d90a3c2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705771505
+      }
+    ],
+    "wof:id": 705771505,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Liberty Solvents/Chems",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.427612,
     41.307146,
     -81.427612,
     41.307146
-],
+  ],
   "geometry": {"coordinates":[-81.427612,41.307146],"type":"Point"}
 }

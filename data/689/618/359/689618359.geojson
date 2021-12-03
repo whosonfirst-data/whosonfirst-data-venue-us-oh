@@ -2,63 +2,67 @@
   "id": 689618359,
   "type": "Feature",
   "properties": {
-    "addr:full":"345 A St Wilmington OH 45177",
-    "addr:housenumber":"345",
-    "addr:postcode":"45177",
-    "addr:street":"A St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.832002,39.457657,-83.832002,39.457657",
-    "geom:latitude":39.457657,
-    "geom:longitude":-83.832002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"345 A St",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "345 A St Wilmington OH 45177",
+    "addr:housenumber": "345",
+    "addr:postcode": "45177",
+    "addr:street": "A St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.832002,39.457657,-83.832002,39.457657",
+    "geom:latitude": 39.457657,
+    "geom:longitude": -83.832002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "345 A St",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 655 9170",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hauling",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 655 9170",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hauling",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1s6O2xNBl1CvIgv6tHxkv7_39.457657_-83.832002@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1s6O2xNBl1CvIgv6tHxkv7_39.457657_-83.832002@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776843,
-    "wof:geomhash":"c80b6ca962564ba40c83cd3ef736f6b9",
-    "wof:hierarchy":[],
-    "wof:id":689618359,
-    "wof:lastmodified":1472639454,
-    "wof:name":"Spurlock Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hauling",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461776843,
+    "wof:geomhash": "138e4d1da583d6be82709df059341cd6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689618359
+      }
+    ],
+    "wof:id": 689618359,
+    "wof:lastmodified": 1638566999,
+    "wof:name": "Spurlock Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hauling",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.832002,
     39.457657,
     -83.832002,
     39.457657
-],
+  ],
   "geometry": {"coordinates":[-83.832002,39.457657],"type":"Point"}
 }

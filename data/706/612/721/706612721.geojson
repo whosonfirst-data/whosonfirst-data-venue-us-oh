@@ -2,61 +2,65 @@
   "id": 706612721,
   "type": "Feature",
   "properties": {
-    "addr:full":"12598 Cleveland Rd Creston OH 44217",
-    "addr:housenumber":"12598",
-    "addr:postcode":"44217",
-    "addr:street":"Cleveland Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.904297,40.938499,-81.904297,40.938499",
-    "geom:latitude":40.938499,
-    "geom:longitude":-81.904297,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12598 Cleveland Rd",
-    "sg:city":"Creston",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "12598 Cleveland Rd Creston OH 44217",
+    "addr:housenumber": "12598",
+    "addr:postcode": "44217",
+    "addr:street": "Cleveland Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.904297,40.938499,-81.904297,40.938499",
+    "geom:latitude": 40.938499,
+    "geom:longitude": -81.904297,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12598 Cleveland Rd",
+    "sg:city": "Creston",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 435 4509",
-    "sg:postcode":"44217",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 435 4509",
+    "sg:postcode": "44217",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4rKTfjhBqxpngNscRgcNiM_40.938499_-81.904297@1303262755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4rKTfjhBqxpngNscRgcNiM_40.938499_-81.904297@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806980,
-    "wof:geomhash":"7d096b3017eeaf2cf89cc9603954ec40",
-    "wof:hierarchy":[],
-    "wof:id":706612721,
-    "wof:lastmodified":1472640235,
-    "wof:name":"M N A Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461806980,
+    "wof:geomhash": "f3d17faef8ce46224e89af118a800c10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706612721
+      }
+    ],
+    "wof:id": 706612721,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "M N A Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.904297,
     40.938499,
     -81.904297,
     40.938499
-],
+  ],
   "geometry": {"coordinates":[-81.904297,40.938499],"type":"Point"}
 }

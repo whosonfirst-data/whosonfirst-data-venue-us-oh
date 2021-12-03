@@ -2,61 +2,65 @@
   "id": 705715793,
   "type": "Feature",
   "properties": {
-    "addr:full":"61 W Main St Shelby OH 44875",
-    "addr:housenumber":"61",
-    "addr:postcode":"44875",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.662074,40.881263,-82.662074,40.881263",
-    "geom:latitude":40.881263,
-    "geom:longitude":-82.662074,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"61 W Main St",
-    "sg:city":"Shelby",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "61 W Main St Shelby OH 44875",
+    "addr:housenumber": "61",
+    "addr:postcode": "44875",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.662074,40.881263,-82.662074,40.881263",
+    "geom:latitude": 40.881263,
+    "geom:longitude": -82.662074,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "61 W Main St",
+    "sg:city": "Shelby",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 342 6848",
-    "sg:postcode":"44875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 342 6848",
+    "sg:postcode": "44875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7WO6vKiWkLLBfN7zBvFWLI_40.881263_-82.662074@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7WO6vKiWkLLBfN7zBvFWLI_40.881263_-82.662074@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787060,
-    "wof:geomhash":"600ee8d243ecb0bb51ea56077573a363",
-    "wof:hierarchy":[],
-    "wof:id":705715793,
-    "wof:lastmodified":1472638449,
-    "wof:name":"William S Manos DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461787060,
+    "wof:geomhash": "c3f45700d08b06bf69f460ad28460342",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705715793
+      }
+    ],
+    "wof:id": 705715793,
+    "wof:lastmodified": 1638566932,
+    "wof:name": "William S Manos DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.662074,
     40.881263,
     -82.662074,
     40.881263
-],
+  ],
   "geometry": {"coordinates":[-82.662074,40.881263],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689531515,
   "type": "Feature",
   "properties": {
-    "addr:full":"6001 State Rd Cleveland OH 44134",
-    "addr:housenumber":"6001",
-    "addr:postcode":"44134",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.710325,41.400097,-81.710325,41.400097",
-    "geom:latitude":41.400097,
-    "geom:longitude":-81.710325,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6001 State Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6001 State Rd Cleveland OH 44134",
+    "addr:housenumber": "6001",
+    "addr:postcode": "44134",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.710325,41.400097,-81.710325,41.400097",
+    "geom:latitude": 41.400097,
+    "geom:longitude": -81.710325,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6001 State Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 888 8930",
-    "sg:postcode":"44134",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 888 8930",
+    "sg:postcode": "44134",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ixtBsHPp7EbTdMue4bL1a_41.400097_-81.710325@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6ixtBsHPp7EbTdMue4bL1a_41.400097_-81.710325@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774135,
-    "wof:geomhash":"e3673906947eb8400307963352d92e94",
-    "wof:hierarchy":[],
-    "wof:id":689531515,
-    "wof:lastmodified":1472639190,
-    "wof:name":"Good Olde Daze",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461774135,
+    "wof:geomhash": "c6dc18ebc73856419ec5fb6a0e44d8bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689531515
+      }
+    ],
+    "wof:id": 689531515,
+    "wof:lastmodified": 1638566971,
+    "wof:name": "Good Olde Daze",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.710325,
     41.400097,
     -81.710325,
     41.400097
-],
+  ],
   "geometry": {"coordinates":[-81.710325,41.400097],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705882755,
   "type": "Feature",
   "properties": {
-    "addr:full":"510 W Main St Coldwater OH 45828",
-    "addr:housenumber":"510",
-    "addr:postcode":"45828",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.634628,40.47984,-84.634628,40.47984",
-    "geom:latitude":40.47984,
-    "geom:longitude":-84.634628,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"510 W Main St",
-    "sg:city":"Coldwater",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "510 W Main St Coldwater OH 45828",
+    "addr:housenumber": "510",
+    "addr:postcode": "45828",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.634628,40.479840,-84.634628,40.479840",
+    "geom:latitude": 40.47984,
+    "geom:longitude": -84.634628,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "510 W Main St",
+    "sg:city": "Coldwater",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 678 2007",
-    "sg:postcode":"45828",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 678 2007",
+    "sg:postcode": "45828",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4mAA6qCXsVnwwa0PKxJe6P_40.479840_-84.634628@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4mAA6qCXsVnwwa0PKxJe6P_40.479840_-84.634628@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790986,
-    "wof:geomhash":"fc46aefe3d609aed6842349869e8b3c9",
-    "wof:hierarchy":[],
-    "wof:id":705882755,
-    "wof:lastmodified":1472639532,
-    "wof:name":"Coldwater Fire Department",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461790986,
+    "wof:geomhash": "a9e42dbb566b4624e67f5cffd4d61fea",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705882755
+      }
+    ],
+    "wof:id": 705882755,
+    "wof:lastmodified": 1638567029,
+    "wof:name": "Coldwater Fire Department",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.634628,
     40.47984,
     -84.634628,
     40.47984
-],
-  "geometry": {"coordinates":[-84.63462800000001,40.47984],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.634628,40.47984],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706413419,
   "type": "Feature",
   "properties": {
-    "addr:full":"6196 Hagman Rd Toledo OH 43612",
-    "addr:housenumber":"6196",
-    "addr:postcode":"43612",
-    "addr:street":"Hagman Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.508912,41.729091,-83.508912,41.729091",
-    "geom:latitude":41.729091,
-    "geom:longitude":-83.508912,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6196 Hagman Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "6196 Hagman Rd Toledo OH 43612",
+    "addr:housenumber": "6196",
+    "addr:postcode": "43612",
+    "addr:street": "Hagman Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.508912,41.729091,-83.508912,41.729091",
+    "geom:latitude": 41.729091,
+    "geom:longitude": -83.508912,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6196 Hagman Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 726 9465",
-    "sg:postcode":"43612",
-    "sg:province":"OH",
-    "sg:tags":[
-        "landfill"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 726 9465",
+    "sg:postcode": "43612",
+    "sg:province": "OH",
+    "sg:tags": [
+      "landfill"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nuieFYljOx8QZaVqfY8Gy_41.729091_-83.508912@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0nuieFYljOx8QZaVqfY8Gy_41.729091_-83.508912@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802663,
-    "wof:geomhash":"e493faa89a974da5c31886f5e5c39b4c",
-    "wof:hierarchy":[],
-    "wof:id":706413419,
-    "wof:lastmodified":1472639995,
-    "wof:name":"BFI Vienna Junction Landfill",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "landfill"
+    "wof:country": "US",
+    "wof:created": 1461802663,
+    "wof:geomhash": "b035850bb36cd2a5fd044458a6d717b8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706413419
+      }
+    ],
+    "wof:id": 706413419,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "BFI Vienna Junction Landfill",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "landfill"
     ]
-},
+  },
   "bbox": [
     -83.508912,
     41.729091,
     -83.508912,
     41.729091
-],
+  ],
   "geometry": {"coordinates":[-83.508912,41.729091],"type":"Point"}
 }

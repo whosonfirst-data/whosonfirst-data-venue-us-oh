@@ -2,61 +2,65 @@
   "id": 689572403,
   "type": "Feature",
   "properties": {
-    "addr:full":"20961 N Liberty Rd Butler OH 44822",
-    "addr:housenumber":"20961",
-    "addr:postcode":"44822",
-    "addr:street":"N Liberty Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.40884,40.536676,-82.40884,40.536676",
-    "geom:latitude":40.536676,
-    "geom:longitude":-82.40884,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20961 N Liberty Rd",
-    "sg:city":"Butler",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "20961 N Liberty Rd Butler OH 44822",
+    "addr:housenumber": "20961",
+    "addr:postcode": "44822",
+    "addr:street": "N Liberty Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.408840,40.536676,-82.408840,40.536676",
+    "geom:latitude": 40.536676,
+    "geom:longitude": -82.40884,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20961 N Liberty Rd",
+    "sg:city": "Butler",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 694 7012",
-    "sg:postcode":"44822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 694 7012",
+    "sg:postcode": "44822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1DXUVxG2sHKmJxKjMgVqwx_40.536676_-82.408840@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1DXUVxG2sHKmJxKjMgVqwx_40.536676_-82.408840@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775362,
-    "wof:geomhash":"50ba89ffc577c18ec7a8c6140b5a51b4",
-    "wof:hierarchy":[],
-    "wof:id":689572403,
-    "wof:lastmodified":1472639324,
-    "wof:name":"North Liberty United Methodist",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461775362,
+    "wof:geomhash": "802e2f670c2e74ec071154c78d96f322",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689572403
+      }
+    ],
+    "wof:id": 689572403,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "North Liberty United Methodist",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.40884,
     40.536676,
     -82.40884,
     40.536676
-],
+  ],
   "geometry": {"coordinates":[-82.40884,40.536676],"type":"Point"}
 }

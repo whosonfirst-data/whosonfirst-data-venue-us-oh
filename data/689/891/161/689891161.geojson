@@ -2,72 +2,76 @@
   "id": 689891161,
   "type": "Feature",
   "properties": {
-    "addr:full":"14000 Lincoln St SE Minerva OH 44657",
-    "addr:housenumber":"14000",
-    "addr:postcode":"44657",
-    "addr:street":"Lincoln St Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.126623,40.735839,-81.126623,40.735839",
-    "geom:latitude":40.735839,
-    "geom:longitude":-81.126623,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14000 Lincoln St SE",
-    "sg:city":"Minerva",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Electrical",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "14000 Lincoln St SE Minerva OH 44657",
+    "addr:housenumber": "14000",
+    "addr:postcode": "44657",
+    "addr:street": "Lincoln St Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.126623,40.735839,-81.126623,40.735839",
+    "geom:latitude": 40.735839,
+    "geom:longitude": -81.126623,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14000 Lincoln St SE",
+    "sg:city": "Minerva",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Electrical",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 868 2141",
-    "sg:postcode":"44657",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "equipment",
-        "electronic",
-        "electric"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 868 2141",
+    "sg:postcode": "44657",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "equipment",
+      "electronic",
+      "electric"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5H6oDMZEmAGFHheKezj5zh_40.735839_-81.126623@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5H6oDMZEmAGFHheKezj5zh_40.735839_-81.126623@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784323,
-    "wof:geomhash":"f928952f743469831ffd3e83366b6c71",
-    "wof:hierarchy":[],
-    "wof:id":689891161,
-    "wof:lastmodified":1472640031,
-    "wof:name":"Freeman Electronics",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "equipment",
-        "electronic",
-        "electric"
+    "wof:country": "US",
+    "wof:created": 1461784323,
+    "wof:geomhash": "6b62df928654fcbb15a2c82a58e03a07",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689891161
+      }
+    ],
+    "wof:id": 689891161,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Freeman Electronics",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "equipment",
+      "electronic",
+      "electric"
     ]
-},
+  },
   "bbox": [
     -81.126623,
     40.735839,
     -81.126623,
     40.735839
-],
+  ],
   "geometry": {"coordinates":[-81.126623,40.735839],"type":"Point"}
 }

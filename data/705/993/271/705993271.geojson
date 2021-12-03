@@ -2,61 +2,65 @@
   "id": 705993271,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 E Somers St Eaton OH 45320",
-    "addr:housenumber":"103",
-    "addr:postcode":"45320",
-    "addr:street":"E Somers St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.634792,39.74522,-84.634792,39.74522",
-    "geom:latitude":39.74522,
-    "geom:longitude":-84.634792,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"103 E Somers St",
-    "sg:city":"Eaton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "103 E Somers St Eaton OH 45320",
+    "addr:housenumber": "103",
+    "addr:postcode": "45320",
+    "addr:street": "E Somers St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.634792,39.745220,-84.634792,39.745220",
+    "geom:latitude": 39.74522,
+    "geom:longitude": -84.634792,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "103 E Somers St",
+    "sg:city": "Eaton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 456 2122",
-    "sg:postcode":"45320",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 456 2122",
+    "sg:postcode": "45320",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1k9aNqc5hgj3plurFHZWmt_39.745220_-84.634792@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1k9aNqc5hgj3plurFHZWmt_39.745220_-84.634792@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793430,
-    "wof:geomhash":"92d0342ef3e2d96069c8e52d069e51c7",
-    "wof:hierarchy":[],
-    "wof:id":705993271,
-    "wof:lastmodified":1472639797,
-    "wof:name":"Eaton Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461793430,
+    "wof:geomhash": "f04f248bcf202c9f482853eb6fa6f48c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705993271
+      }
+    ],
+    "wof:id": 705993271,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Eaton Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -84.634792,
     39.74522,
     -84.634792,
     39.74522
-],
+  ],
   "geometry": {"coordinates":[-84.634792,39.74522],"type":"Point"}
 }

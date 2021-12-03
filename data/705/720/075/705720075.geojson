@@ -2,63 +2,67 @@
   "id": 705720075,
   "type": "Feature",
   "properties": {
-    "addr:full":"70 Madison Rd Mansfield OH 44905",
-    "addr:housenumber":"70",
-    "addr:postcode":"44905",
-    "addr:street":"Madison Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.491492,40.759527,-82.491492,40.759527",
-    "geom:latitude":40.759527,
-    "geom:longitude":-82.491492,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"70 Madison Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "70 Madison Rd Mansfield OH 44905",
+    "addr:housenumber": "70",
+    "addr:postcode": "44905",
+    "addr:street": "Madison Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.491492,40.759527,-82.491492,40.759527",
+    "geom:latitude": 40.759527,
+    "geom:longitude": -82.491492,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "70 Madison Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 589 9700",
-    "sg:postcode":"44905",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 589 9700",
+    "sg:postcode": "44905",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_753C31ut8dZnsSKT8GEzye_40.759527_-82.491492@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_753C31ut8dZnsSKT8GEzye_40.759527_-82.491492@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787171,
-    "wof:geomhash":"be4cd0e3adb1fd904ff6c40f09cae822",
-    "wof:hierarchy":[],
-    "wof:id":705720075,
-    "wof:lastmodified":1472638482,
-    "wof:name":"Alfred Granson MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461787171,
+    "wof:geomhash": "9ecfb60db84cc457293646c18c071254",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705720075
+      }
+    ],
+    "wof:id": 705720075,
+    "wof:lastmodified": 1638566935,
+    "wof:name": "Alfred Granson MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.491492,
     40.759527,
     -82.491492,
     40.759527
-],
-  "geometry": {"coordinates":[-82.49149199999999,40.759527],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.491492,40.759527],"type":"Point"}
 }

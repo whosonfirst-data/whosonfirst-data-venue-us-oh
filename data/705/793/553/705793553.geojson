@@ -2,65 +2,69 @@
   "id": 705793553,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 S Market St Lisbon OH 44432",
-    "addr:housenumber":"315",
-    "addr:postcode":"44432",
-    "addr:street":"S Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.768098,40.769677,-80.768098,40.769677",
-    "geom:latitude":40.769677,
-    "geom:longitude":-80.768098,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"315 S Market St",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "315 S Market St Lisbon OH 44432",
+    "addr:housenumber": "315",
+    "addr:postcode": "44432",
+    "addr:street": "S Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.768098,40.769677,-80.768098,40.769677",
+    "geom:latitude": 40.769677,
+    "geom:longitude": -80.768098,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "315 S Market St",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 9511",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "supply",
-        "system",
-        "sewerage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 9511",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "supply",
+      "system",
+      "sewerage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6a2HciQf4hd4QCVyncZBQe_40.769677_-80.768098@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6a2HciQf4hd4QCVyncZBQe_40.769677_-80.768098@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788867,
-    "wof:geomhash":"ff634b6a433b2072a41f00eea8b0548b",
-    "wof:hierarchy":[],
-    "wof:id":705793553,
-    "wof:lastmodified":1472639259,
-    "wof:name":"Columbiana County Wtr & Sewer",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "supply",
-        "system",
-        "sewerage"
+    "wof:country": "US",
+    "wof:created": 1461788867,
+    "wof:geomhash": "6a84788e3b051f9ceb2bdc4ba3e85ccc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705793553
+      }
+    ],
+    "wof:id": 705793553,
+    "wof:lastmodified": 1638566983,
+    "wof:name": "Columbiana County Wtr \u0026 Sewer",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "supply",
+      "system",
+      "sewerage"
     ]
-},
+  },
   "bbox": [
     -80.768098,
     40.769677,
     -80.768098,
     40.769677
-],
-  "geometry": {"coordinates":[-80.76809799999999,40.769677],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.768098,40.769677],"type":"Point"}
 }

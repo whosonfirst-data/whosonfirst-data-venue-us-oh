@@ -2,61 +2,65 @@
   "id": 689498435,
   "type": "Feature",
   "properties": {
-    "addr:full":"4646 Ridge Rd Wadsworth OH 44281",
-    "addr:housenumber":"4646",
-    "addr:postcode":"44281",
-    "addr:street":"Ridge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.735985,41.142951,-81.735985,41.142951",
-    "geom:latitude":41.142951,
-    "geom:longitude":-81.735985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4646 Ridge Rd",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "4646 Ridge Rd Wadsworth OH 44281",
+    "addr:housenumber": "4646",
+    "addr:postcode": "44281",
+    "addr:street": "Ridge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.735985,41.142951,-81.735985,41.142951",
+    "geom:latitude": 41.142951,
+    "geom:longitude": -81.735985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4646 Ridge Rd",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 239 4447",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 239 4447",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_49IlgnP3JhmOgrEAAJzKlb_41.142951_-81.735985@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_49IlgnP3JhmOgrEAAJzKlb_41.142951_-81.735985@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773050,
-    "wof:geomhash":"b40ffd53e3ec49f9e54116465cf17705",
-    "wof:hierarchy":[],
-    "wof:id":689498435,
-    "wof:lastmodified":1472638984,
-    "wof:name":"Granger Veterinary Hosp L L C",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461773050,
+    "wof:geomhash": "e84597f742b0bf35de535499980c1b49",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689498435
+      }
+    ],
+    "wof:id": 689498435,
+    "wof:lastmodified": 1638566944,
+    "wof:name": "Granger Veterinary Hosp L L C",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -81.735985,
     41.142951,
     -81.735985,
     41.142951
-],
+  ],
   "geometry": {"coordinates":[-81.735985,41.142951],"type":"Point"}
 }

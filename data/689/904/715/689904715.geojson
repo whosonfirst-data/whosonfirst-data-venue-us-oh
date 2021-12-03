@@ -2,61 +2,65 @@
   "id": 689904715,
   "type": "Feature",
   "properties": {
-    "addr:full":"28 E Ohio Ave Rittman OH 44270",
-    "addr:housenumber":"28",
-    "addr:postcode":"44270",
-    "addr:street":"E Ohio Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.780609,40.972756,-81.780609,40.972756",
-    "geom:latitude":40.972756,
-    "geom:longitude":-81.780609,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"28 E Ohio Ave",
-    "sg:city":"Rittman",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Tobacco",
-            "type":"Retail Goods"
-        }
+    "addr:full": "28 E Ohio Ave Rittman OH 44270",
+    "addr:housenumber": "28",
+    "addr:postcode": "44270",
+    "addr:street": "E Ohio Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.780609,40.972756,-81.780609,40.972756",
+    "geom:latitude": 40.972756,
+    "geom:longitude": -81.780609,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "28 E Ohio Ave",
+    "sg:city": "Rittman",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Tobacco",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 925 1429",
-    "sg:postcode":"44270",
-    "sg:province":"OH",
-    "sg:tags":[
-        "product"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 925 1429",
+    "sg:postcode": "44270",
+    "sg:province": "OH",
+    "sg:tags": [
+      "product"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4BjnKjoouFGDc81l12ZnO4_40.972756_-81.780609@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4BjnKjoouFGDc81l12ZnO4_40.972756_-81.780609@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784704,
-    "wof:geomhash":"eb6b8feb55bfcdb054287190e3832020",
-    "wof:hierarchy":[],
-    "wof:id":689904715,
-    "wof:lastmodified":1472640067,
-    "wof:name":"V Joty Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product"
+    "wof:country": "US",
+    "wof:created": 1461784704,
+    "wof:geomhash": "ac115a11f3cd8364c676dff32deb5b98",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689904715
+      }
+    ],
+    "wof:id": 689904715,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "V Joty Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product"
     ]
-},
+  },
   "bbox": [
     -81.780609,
     40.972756,
     -81.780609,
     40.972756
-],
+  ],
   "geometry": {"coordinates":[-81.780609,40.972756],"type":"Point"}
 }

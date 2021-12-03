@@ -2,63 +2,67 @@
   "id": 706010237,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 Irving Ave Bellefontaine OH 43311",
-    "addr:housenumber":"212",
-    "addr:postcode":"43311",
-    "addr:street":"Irving Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.756683,40.370074,-83.756683,40.370074",
-    "geom:latitude":40.370074,
-    "geom:longitude":-83.756683,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"212 Irving Ave",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "212 Irving Ave Bellefontaine OH 43311",
+    "addr:housenumber": "212",
+    "addr:postcode": "43311",
+    "addr:street": "Irving Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.756683,40.370074,-83.756683,40.370074",
+    "geom:latitude": 40.370074,
+    "geom:longitude": -83.756683,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "212 Irving Ave",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 599 1280",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 599 1280",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2zKB8LjNqWOalbPe4ywo7T_40.370074_-83.756683@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2zKB8LjNqWOalbPe4ywo7T_40.370074_-83.756683@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793797,
-    "wof:geomhash":"d327c25f568e92d641cd7211228f58fa",
-    "wof:hierarchy":[],
-    "wof:id":706010237,
-    "wof:lastmodified":1472638407,
-    "wof:name":"Orthopedic Associates Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461793797,
+    "wof:geomhash": "1c42784255bc4c69b925df376cfdcb88",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706010237
+      }
+    ],
+    "wof:id": 706010237,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "Orthopedic Associates Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.756683,
     40.370074,
     -83.756683,
     40.370074
-],
+  ],
   "geometry": {"coordinates":[-83.756683,40.370074],"type":"Point"}
 }

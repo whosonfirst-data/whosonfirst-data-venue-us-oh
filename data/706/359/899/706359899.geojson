@@ -2,61 +2,65 @@
   "id": 706359899,
   "type": "Feature",
   "properties": {
-    "addr:full":"6 N Main St Arcanum OH 45304",
-    "addr:housenumber":"6",
-    "addr:postcode":"45304",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.553711,40.001662,-84.553711,40.001662",
-    "geom:latitude":40.001662,
-    "geom:longitude":-84.553711,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6 N Main St",
-    "sg:city":"Arcanum",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "6 N Main St Arcanum OH 45304",
+    "addr:housenumber": "6",
+    "addr:postcode": "45304",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.553711,40.001662,-84.553711,40.001662",
+    "geom:latitude": 40.001662,
+    "geom:longitude": -84.553711,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6 N Main St",
+    "sg:city": "Arcanum",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 692 8359",
-    "sg:postcode":"45304",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 692 8359",
+    "sg:postcode": "45304",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_210RjSXxbtryegO4BLCH8M_40.001662_-84.553711@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_210RjSXxbtryegO4BLCH8M_40.001662_-84.553711@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801608,
-    "wof:geomhash":"d8990c80dd6b9a87f75ef9ecca968724",
-    "wof:hierarchy":[],
-    "wof:id":706359899,
-    "wof:lastmodified":1472639926,
-    "wof:name":"Dry Cleaner",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:country": "US",
+    "wof:created": 1461801608,
+    "wof:geomhash": "0fd5732e04d4fd867d477577beb5c191",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706359899
+      }
+    ],
+    "wof:id": 706359899,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Dry Cleaner",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -84.553711,
     40.001662,
     -84.553711,
     40.001662
-],
-  "geometry": {"coordinates":[-84.55371100000001,40.001662],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.553711,40.001662],"type":"Point"}
 }

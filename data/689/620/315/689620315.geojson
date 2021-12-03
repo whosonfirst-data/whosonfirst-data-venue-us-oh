@@ -2,63 +2,67 @@
   "id": 689620315,
   "type": "Feature",
   "properties": {
-    "addr:full":"655 S Poe Rd North Baltimore OH 45872",
-    "addr:housenumber":"655",
-    "addr:postcode":"45872",
-    "addr:street":"S Poe Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.66383,41.174687,-83.66383,41.174687",
-    "geom:latitude":41.174687,
-    "geom:longitude":-83.66383,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"655 S Poe Rd",
-    "sg:city":"North Baltimore",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "655 S Poe Rd North Baltimore OH 45872",
+    "addr:housenumber": "655",
+    "addr:postcode": "45872",
+    "addr:street": "S Poe Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.663830,41.174687,-83.663830,41.174687",
+    "geom:latitude": 41.174687,
+    "geom:longitude": -83.66383,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "655 S Poe Rd",
+    "sg:city": "North Baltimore",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 257 2851",
-    "sg:postcode":"45872",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 257 2851",
+    "sg:postcode": "45872",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ptiFMkWd2glvv11K2NcRh_41.174687_-83.663830@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ptiFMkWd2glvv11K2NcRh_41.174687_-83.663830@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776898,
-    "wof:geomhash":"1cc71f0af5614db2de1aa38765aca03b",
-    "wof:hierarchy":[],
-    "wof:id":689620315,
-    "wof:lastmodified":1472639459,
-    "wof:name":"Lock It Up",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461776898,
+    "wof:geomhash": "2ddddf8be8eb0773b86d1596649bdf85",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689620315
+      }
+    ],
+    "wof:id": 689620315,
+    "wof:lastmodified": 1638567000,
+    "wof:name": "Lock It Up",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -83.66383,
     41.174687,
     -83.66383,
     41.174687
-],
+  ],
   "geometry": {"coordinates":[-83.66383,41.174687],"type":"Point"}
 }

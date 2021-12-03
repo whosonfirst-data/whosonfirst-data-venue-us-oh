@@ -2,61 +2,65 @@
   "id": 705972973,
   "type": "Feature",
   "properties": {
-    "addr:full":"256 N Woodbridge Ave Chillicothe OH 45601",
-    "addr:housenumber":"256",
-    "addr:postcode":"45601",
-    "addr:street":"N Woodbridge Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.004423,39.334255,-83.004423,39.334255",
-    "geom:latitude":39.334255,
-    "geom:longitude":-83.004423,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"256 N Woodbridge Ave",
-    "sg:city":"Chillicothe",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "256 N Woodbridge Ave Chillicothe OH 45601",
+    "addr:housenumber": "256",
+    "addr:postcode": "45601",
+    "addr:street": "N Woodbridge Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.004423,39.334255,-83.004423,39.334255",
+    "geom:latitude": 39.334255,
+    "geom:longitude": -83.004423,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "256 N Woodbridge Ave",
+    "sg:city": "Chillicothe",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 775 6788",
-    "sg:postcode":"45601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 775 6788",
+    "sg:postcode": "45601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Sz1zQobVY5WNOAGTgsu8X_39.334255_-83.004423@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Sz1zQobVY5WNOAGTgsu8X_39.334255_-83.004423@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793024,
-    "wof:geomhash":"c94ef1af0906137d1c29f835018e8908",
-    "wof:hierarchy":[],
-    "wof:id":705972973,
-    "wof:lastmodified":1472639758,
-    "wof:name":"Steven O Axe DDS",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461793024,
+    "wof:geomhash": "10a316ef285410d2fb83570c6b835457",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705972973
+      }
+    ],
+    "wof:id": 705972973,
+    "wof:lastmodified": 1638567065,
+    "wof:name": "Steven O Axe DDS",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.004423,
     39.334255,
     -83.004423,
     39.334255
-],
+  ],
   "geometry": {"coordinates":[-83.004423,39.334255],"type":"Point"}
 }

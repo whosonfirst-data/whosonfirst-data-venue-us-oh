@@ -2,61 +2,65 @@
   "id": 705887089,
   "type": "Feature",
   "properties": {
-    "addr:full":"819 N 1st St Dennison OH 44621",
-    "addr:housenumber":"819",
-    "addr:postcode":"44621",
-    "addr:street":"N 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.335915,40.401809,-81.335915,40.401809",
-    "geom:latitude":40.401809,
-    "geom:longitude":-81.335915,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"819 N 1st St",
-    "sg:city":"Dennison",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "819 N 1st St Dennison OH 44621",
+    "addr:housenumber": "819",
+    "addr:postcode": "44621",
+    "addr:street": "N 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.335915,40.401809,-81.335915,40.401809",
+    "geom:latitude": 40.401809,
+    "geom:longitude": -81.335915,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "819 N 1st St",
+    "sg:city": "Dennison",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 922 0000",
-    "sg:postcode":"44621",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 922 0000",
+    "sg:postcode": "44621",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3zPsK5OaNqijOnz2Y44DDv_40.401809_-81.335915@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3zPsK5OaNqijOnz2Y44DDv_40.401809_-81.335915@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791109,
-    "wof:geomhash":"4076e3632345c3ac943e4d110b1da98b",
-    "wof:hierarchy":[],
-    "wof:id":705887089,
-    "wof:lastmodified":1472639504,
-    "wof:name":"Nerkar Sanjay MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461791109,
+    "wof:geomhash": "1fa51a6bace61b327ce36ab2eb8c778d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705887089
+      }
+    ],
+    "wof:id": 705887089,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "Nerkar Sanjay MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -81.335915,
     40.401809,
     -81.335915,
     40.401809
-],
+  ],
   "geometry": {"coordinates":[-81.335915,40.401809],"type":"Point"}
 }

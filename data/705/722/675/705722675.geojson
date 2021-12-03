@@ -2,63 +2,67 @@
   "id": 705722675,
   "type": "Feature",
   "properties": {
-    "addr:full":"11942 Hamilton Ave Cincinnati OH 45231",
-    "addr:housenumber":"11942",
-    "addr:postcode":"45231",
-    "addr:street":"Hamilton Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.562359,39.306911,-84.562359,39.306911",
-    "geom:latitude":39.306911,
-    "geom:longitude":-84.562359,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11942 Hamilton Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "11942 Hamilton Ave Cincinnati OH 45231",
+    "addr:housenumber": "11942",
+    "addr:postcode": "45231",
+    "addr:street": "Hamilton Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.562359,39.306911,-84.562359,39.306911",
+    "geom:latitude": 39.306911,
+    "geom:longitude": -84.562359,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11942 Hamilton Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 755 3937",
-    "sg:postcode":"45231",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pet",
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 755 3937",
+    "sg:postcode": "45231",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pet",
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Kiz1pTR5PItD75J3ojZlj_39.306911_-84.562359@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Kiz1pTR5PItD75J3ojZlj_39.306911_-84.562359@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787226,
-    "wof:geomhash":"438a46e97a710b3b0f9f897469d67181",
-    "wof:hierarchy":[],
-    "wof:id":705722675,
-    "wof:lastmodified":1472638528,
-    "wof:name":"Perfect Pets",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet",
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461787226,
+    "wof:geomhash": "1686d49ae8cf2b02b2561a2988f89d51",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705722675
+      }
+    ],
+    "wof:id": 705722675,
+    "wof:lastmodified": 1638566938,
+    "wof:name": "Perfect Pets",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet",
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.562359,
     39.306911,
     -84.562359,
     39.306911
-],
+  ],
   "geometry": {"coordinates":[-84.562359,39.306911],"type":"Point"}
 }

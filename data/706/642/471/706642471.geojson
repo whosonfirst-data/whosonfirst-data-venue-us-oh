@@ -2,74 +2,78 @@
   "id": 706642471,
   "type": "Feature",
   "properties": {
-    "addr:full":"7500 State Rd Cincinnati OH 45255",
-    "addr:housenumber":"7500",
-    "addr:postcode":"45255",
-    "addr:street":"State Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.349197,39.084381,-84.349197,39.084381",
-    "geom:latitude":39.084381,
-    "geom:longitude":-84.349197,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7500 State Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        },
-        {
-            "category":"Community Center",
-            "subcategory":"",
-            "type":"Public Place"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "7500 State Rd Cincinnati OH 45255",
+    "addr:housenumber": "7500",
+    "addr:postcode": "45255",
+    "addr:street": "State Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.349197,39.084381,-84.349197,39.084381",
+    "geom:latitude": 39.084381,
+    "geom:longitude": -84.349197,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7500 State Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      },
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 624 4500",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical",
-        "surgery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 624 4500",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical",
+      "surgery"
     ],
-    "sg:website":"http://www.e-mercy.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6PrfrY3wTt2SJzRXHCG24N_39.084381_-84.349197@1303262759"
+    "sg:website": "http://www.e-mercy.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6PrfrY3wTt2SJzRXHCG24N_39.084381_-84.349197@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807630,
-    "wof:geomhash":"330461323b0c7c15b2dfc02eb7713fc8",
-    "wof:hierarchy":[],
-    "wof:id":706642471,
-    "wof:lastmodified":1472640256,
-    "wof:name":"Mercy Hospital-Anderson",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical",
-        "surgery"
+    "wof:country": "US",
+    "wof:created": 1461807630,
+    "wof:geomhash": "4eb22ee7caf13a1da3d0f8feee0dae22",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642471
+      }
+    ],
+    "wof:id": 706642471,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Mercy Hospital-Anderson",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical",
+      "surgery"
     ]
-},
+  },
   "bbox": [
     -84.349197,
     39.084381,
     -84.349197,
     39.084381
-],
+  ],
   "geometry": {"coordinates":[-84.349197,39.084381],"type":"Point"}
 }

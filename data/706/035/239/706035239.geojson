@@ -2,56 +2,60 @@
   "id": 706035239,
   "type": "Feature",
   "properties": {
-    "addr:full":"8400 State Rte 73 Hillsboro OH 45133",
-    "addr:housenumber":"8400",
-    "addr:postcode":"45133",
-    "addr:street":"State Rte 73",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.638323,39.236407,-83.638323,39.236407",
-    "geom:latitude":39.236407,
-    "geom:longitude":-83.638323,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8400 State Rte 73",
-    "sg:city":"Hillsboro",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8400 State Rte 73 Hillsboro OH 45133",
+    "addr:housenumber": "8400",
+    "addr:postcode": "45133",
+    "addr:street": "State Rte 73",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.638323,39.236407,-83.638323,39.236407",
+    "geom:latitude": 39.236407,
+    "geom:longitude": -83.638323,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8400 State Rte 73",
+    "sg:city": "Hillsboro",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 393 9131",
-    "sg:postcode":"45133",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ZjC42z0sWiZNs2w0IaqJa_39.236407_-83.638323@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 393 9131",
+    "sg:postcode": "45133",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6ZjC42z0sWiZNs2w0IaqJa_39.236407_-83.638323@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794312,
-    "wof:geomhash":"925864a8a9907a286988a71a3e84b0c7",
-    "wof:hierarchy":[],
-    "wof:id":706035239,
-    "wof:lastmodified":1472638769,
-    "wof:name":"Broken Arrow Sports Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461794312,
+    "wof:geomhash": "600beb4661b3dd868a64d94c2a26d7b9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706035239
+      }
+    ],
+    "wof:id": 706035239,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Broken Arrow Sports Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.638323,
     39.236407,
     -83.638323,
     39.236407
-],
+  ],
   "geometry": {"coordinates":[-83.638323,39.236407],"type":"Point"}
 }

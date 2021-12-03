@@ -2,61 +2,65 @@
   "id": 705729423,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 W Main St Waldo OH 43356",
-    "addr:housenumber":"123",
-    "addr:postcode":"43356",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.078195,40.458812,-83.078195,40.458812",
-    "geom:latitude":40.458812,
-    "geom:longitude":-83.078195,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 W Main St",
-    "sg:city":"Waldo",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "123 W Main St Waldo OH 43356",
+    "addr:housenumber": "123",
+    "addr:postcode": "43356",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.078195,40.458812,-83.078195,40.458812",
+    "geom:latitude": 40.458812,
+    "geom:longitude": -83.078195,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 W Main St",
+    "sg:city": "Waldo",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 726 2334",
-    "sg:postcode":"43356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 726 2334",
+    "sg:postcode": "43356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1MHlgPRBfiCCjJxyGIQv0h_40.458812_-83.078195@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1MHlgPRBfiCCjJxyGIQv0h_40.458812_-83.078195@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787390,
-    "wof:geomhash":"c117aee9e1b0fcf41e393444d6e14ee4",
-    "wof:hierarchy":[],
-    "wof:id":705729423,
-    "wof:lastmodified":1472638906,
-    "wof:name":"Belly Busters",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461787390,
+    "wof:geomhash": "7b0dc2d02a379bde9787eca08124adf6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705729423
+      }
+    ],
+    "wof:id": 705729423,
+    "wof:lastmodified": 1638566944,
+    "wof:name": "Belly Busters",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.078195,
     40.458812,
     -83.078195,
     40.458812
-],
-  "geometry": {"coordinates":[-83.07819499999999,40.458812],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.078195,40.458812],"type":"Point"}
 }

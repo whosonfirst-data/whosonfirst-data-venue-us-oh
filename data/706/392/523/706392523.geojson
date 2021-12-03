@@ -2,61 +2,65 @@
   "id": 706392523,
   "type": "Feature",
   "properties": {
-    "addr:full":"10152 Colerain Ave Cincinnati OH 45251",
-    "addr:housenumber":"",
-    "addr:postcode":"10152;45251",
-    "addr:street":"Colerain Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.604542,39.263963,-84.604542,39.263963",
-    "geom:latitude":39.263963,
-    "geom:longitude":-84.604542,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"10152 Colerain Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10152 Colerain Ave Cincinnati OH 45251",
+    "addr:housenumber": "",
+    "addr:postcode": "10152;45251",
+    "addr:street": "Colerain Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.604542,39.263963,-84.604542,39.263963",
+    "geom:latitude": 39.263963,
+    "geom:longitude": -84.604542,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "10152 Colerain Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 385 5371",
-    "sg:postcode":"45251",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573903,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1juGab6cscJ2vlVQz1NMQg_39.263963_-84.604542@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 385 5371",
+    "sg:postcode": "45251",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573903,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1juGab6cscJ2vlVQz1NMQg_39.263963_-84.604542@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802249,
-    "wof:geomhash":"fed5279e55848744e61fb011d4bde88a",
-    "wof:hierarchy":[],
-    "wof:id":706392523,
-    "wof:lastmodified":1511322597,
-    "wof:name":"Wendy's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        706035187
+    "wof:country": "US",
+    "wof:created": 1461802249,
+    "wof:geomhash": "fed5279e55848744e61fb011d4bde88a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706392523
+      }
     ],
-    "wof:tags":[]
-},
+    "wof:id": 706392523,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Wendy's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      706035187
+    ],
+    "wof:tags": []
+  },
   "bbox": [
     -84.604542,
     39.263963,
     -84.604542,
     39.263963
-],
+  ],
   "geometry": {"coordinates":[-84.604542,39.263963],"type":"Point"}
 }

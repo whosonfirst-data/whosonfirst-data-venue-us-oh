@@ -2,63 +2,67 @@
   "id": 706227537,
   "type": "Feature",
   "properties": {
-    "addr:full":"208 Main St Wapakoneta OH 45895",
-    "addr:housenumber":"208",
-    "addr:postcode":"45895",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.197466,40.56969,-84.197466,40.56969",
-    "geom:latitude":40.56969,
-    "geom:longitude":-84.197466,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"208 Main St",
-    "sg:city":"Wapakoneta",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "208 Main St Wapakoneta OH 45895",
+    "addr:housenumber": "208",
+    "addr:postcode": "45895",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.197466,40.569690,-84.197466,40.569690",
+    "geom:latitude": 40.56969,
+    "geom:longitude": -84.197466,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "208 Main St",
+    "sg:city": "Wapakoneta",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 738 7680",
-    "sg:postcode":"45895",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 738 7680",
+    "sg:postcode": "45895",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Oy9MTd2YZhw37g1jlA43x_40.569690_-84.197466@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Oy9MTd2YZhw37g1jlA43x_40.569690_-84.197466@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798653,
-    "wof:geomhash":"cc2c386e5dac6c32c80ca0775ef26159",
-    "wof:hierarchy":[],
-    "wof:id":706227537,
-    "wof:lastmodified":1472639540,
-    "wof:name":"Wapakoneta Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:country": "US",
+    "wof:created": 1461798653,
+    "wof:geomhash": "ec760e00c7147ba05b6205d4c6392a49",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706227537
+      }
+    ],
+    "wof:id": 706227537,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "Wapakoneta Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -84.197466,
     40.56969,
     -84.197466,
     40.56969
-],
-  "geometry": {"coordinates":[-84.19746600000001,40.56969],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.197466,40.56969],"type":"Point"}
 }

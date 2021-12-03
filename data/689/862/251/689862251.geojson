@@ -2,61 +2,65 @@
   "id": 689862251,
   "type": "Feature",
   "properties": {
-    "addr:full":"24842 US Hwy 30 East Rochester OH 44625",
-    "addr:housenumber":"",
-    "addr:postcode":"24842;44625",
-    "addr:street":"Us Hwy 30",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.034347,40.7461,-81.034347,40.7461",
-    "geom:latitude":40.7461,
-    "geom:longitude":-81.034347,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"24842 US Hwy 30",
-    "sg:city":"East Rochester",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "24842 US Hwy 30 East Rochester OH 44625",
+    "addr:housenumber": "",
+    "addr:postcode": "24842;44625",
+    "addr:street": "Us Hwy 30",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.034347,40.746100,-81.034347,40.746100",
+    "geom:latitude": 40.7461,
+    "geom:longitude": -81.034347,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "24842 US Hwy 30",
+    "sg:city": "East Rochester",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 894 2259",
-    "sg:postcode":"44625",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 894 2259",
+    "sg:postcode": "44625",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_727l2CaTaS3Pb4GPUpd7wK_40.746100_-81.034347@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_727l2CaTaS3Pb4GPUpd7wK_40.746100_-81.034347@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783575,
-    "wof:geomhash":"ae729a93e04553adde62638f234a462e",
-    "wof:hierarchy":[],
-    "wof:id":689862251,
-    "wof:lastmodified":1472639946,
-    "wof:name":"Mcdole Towing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1461783575,
+    "wof:geomhash": "03462b28dc4c728ca186b91519bd61ab",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689862251
+      }
+    ],
+    "wof:id": 689862251,
+    "wof:lastmodified": 1638567088,
+    "wof:name": "Mcdole Towing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -81.034347,
     40.7461,
     -81.034347,
     40.7461
-],
+  ],
   "geometry": {"coordinates":[-81.034347,40.7461],"type":"Point"}
 }

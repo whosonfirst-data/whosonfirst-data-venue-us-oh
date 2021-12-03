@@ -2,65 +2,69 @@
   "id": 689472661,
   "type": "Feature",
   "properties": {
-    "addr:full":"2926 Tucker Ct Twinsburg OH 44087",
-    "addr:housenumber":"2926",
-    "addr:postcode":"44087",
-    "addr:street":"Tucker Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.422608,41.335767,-81.422608,41.335767",
-    "geom:latitude":41.335767,
-    "geom:longitude":-81.422608,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2926 Tucker Ct",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2926 Tucker Ct Twinsburg OH 44087",
+    "addr:housenumber": "2926",
+    "addr:postcode": "44087",
+    "addr:street": "Tucker Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.422608,41.335767,-81.422608,41.335767",
+    "geom:latitude": 41.335767,
+    "geom:longitude": -81.422608,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2926 Tucker Ct",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 963 4165",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 963 4165",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6DoatqGVXl4J7F9aTXei4j_41.335767_-81.422608@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6DoatqGVXl4J7F9aTXei4j_41.335767_-81.422608@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772314,
-    "wof:geomhash":"f819eda3489ac98d57fd389ef4a63d64",
-    "wof:hierarchy":[],
-    "wof:id":689472661,
-    "wof:lastmodified":1472638346,
-    "wof:name":"Mid Ohio Trucking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461772314,
+    "wof:geomhash": "ec98d72b383e1e017d4bb0e6cb3230d3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689472661
+      }
+    ],
+    "wof:id": 689472661,
+    "wof:lastmodified": 1638566919,
+    "wof:name": "Mid Ohio Trucking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.422608,
     41.335767,
     -81.422608,
     41.335767
-],
+  ],
   "geometry": {"coordinates":[-81.422608,41.335767],"type":"Point"}
 }

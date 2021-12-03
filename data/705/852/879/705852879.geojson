@@ -2,61 +2,65 @@
   "id": 705852879,
   "type": "Feature",
   "properties": {
-    "addr:full":"7009 W Sprague Rd Cleveland OH 44133",
-    "addr:housenumber":"7009",
-    "addr:postcode":"44133",
-    "addr:street":"W Sprague Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.729783,41.351519,-81.729783,41.351519",
-    "geom:latitude":41.351519,
-    "geom:longitude":-81.729783,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7009 W Sprague Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Job Training",
-            "type":"Services"
-        }
+    "addr:full": "7009 W Sprague Rd Cleveland OH 44133",
+    "addr:housenumber": "7009",
+    "addr:postcode": "44133",
+    "addr:street": "W Sprague Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.729783,41.351519,-81.729783,41.351519",
+    "geom:latitude": 41.351519,
+    "geom:longitude": -81.729783,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7009 W Sprague Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Job Training",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 888 9328",
-    "sg:postcode":"44133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "rehabilitation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 888 9328",
+    "sg:postcode": "44133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "rehabilitation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43MZZA6DBIX8nykBoPQZwI_41.351519_-81.729783@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_43MZZA6DBIX8nykBoPQZwI_41.351519_-81.729783@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790251,
-    "wof:geomhash":"c91ce735c5f8980c8332750b37dcfacc",
-    "wof:hierarchy":[],
-    "wof:id":705852879,
-    "wof:lastmodified":1472639429,
-    "wof:name":"Northeast Care Ctr Ridge House",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "rehabilitation"
+    "wof:country": "US",
+    "wof:created": 1461790251,
+    "wof:geomhash": "bffe446e3300068529acd10ca59371be",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705852879
+      }
+    ],
+    "wof:id": 705852879,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Northeast Care Ctr Ridge House",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "rehabilitation"
     ]
-},
+  },
   "bbox": [
     -81.729783,
     41.351519,
     -81.729783,
     41.351519
-],
+  ],
   "geometry": {"coordinates":[-81.729783,41.351519],"type":"Point"}
 }

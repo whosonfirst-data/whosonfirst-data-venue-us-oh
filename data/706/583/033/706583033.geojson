@@ -2,67 +2,71 @@
   "id": 706583033,
   "type": "Feature",
   "properties": {
-    "addr:full":"249 Benedict Ave Norwalk OH 44857",
-    "addr:housenumber":"249",
-    "addr:postcode":"44857",
-    "addr:street":"Benedict Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.603836,41.228229,-82.603836,41.228229",
-    "geom:latitude":41.228229,
-    "geom:longitude":-82.603836,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"249 Benedict Ave",
-    "sg:city":"Norwalk",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "249 Benedict Ave Norwalk OH 44857",
+    "addr:housenumber": "249",
+    "addr:postcode": "44857",
+    "addr:street": "Benedict Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.603836,41.228229,-82.603836,41.228229",
+    "geom:latitude": 41.228229,
+    "geom:longitude": -82.603836,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "249 Benedict Ave",
+    "sg:city": "Norwalk",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/norwalk/195108-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44857",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/norwalk/195108-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44857",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":290280311,
-        "sg:id":"SG_2pEHAB3ReVHjWJMX44yhGB_41.227648_-82.603319@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 290280311,
+      "sg:id": "SG_2pEHAB3ReVHjWJMX44yhGB_41.227648_-82.603319@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806382,
-    "wof:geomhash":"886c992b56685ae6c5a56c31448a7a19",
-    "wof:hierarchy":[],
-    "wof:id":706583033,
-    "wof:lastmodified":1512142891,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806382,
+    "wof:geomhash": "886c992b56685ae6c5a56c31448a7a19",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706583033
+      }
+    ],
+    "wof:id": 706583033,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.603836,
     41.228229,
     -82.603836,
     41.228229
-],
+  ],
   "geometry": {"coordinates":[-82.603836,41.228229],"type":"Point"}
 }

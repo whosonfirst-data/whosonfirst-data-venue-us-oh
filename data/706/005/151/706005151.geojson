@@ -2,61 +2,65 @@
   "id": 706005151,
   "type": "Feature",
   "properties": {
-    "addr:full":"1060 Mohican Ave Logan OH 43138",
-    "addr:housenumber":"1060",
-    "addr:postcode":"43138",
-    "addr:street":"Mohican Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.40761,39.529198,-82.40761,39.529198",
-    "geom:latitude":39.529198,
-    "geom:longitude":-82.40761,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1060 Mohican Ave",
-    "sg:city":"Logan",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1060 Mohican Ave Logan OH 43138",
+    "addr:housenumber": "1060",
+    "addr:postcode": "43138",
+    "addr:street": "Mohican Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.407610,39.529198,-82.407610,39.529198",
+    "geom:latitude": 39.529198,
+    "geom:longitude": -82.40761,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1060 Mohican Ave",
+    "sg:city": "Logan",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 380 6392",
-    "sg:postcode":"43138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 380 6392",
+    "sg:postcode": "43138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1O5RNXh1iJ6d5sNdZHEZQi_39.529198_-82.407610@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1O5RNXh1iJ6d5sNdZHEZQi_39.529198_-82.407610@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793683,
-    "wof:geomhash":"d3045ed04c788d9bd03272d9150bec5d",
-    "wof:hierarchy":[],
-    "wof:id":706005151,
-    "wof:lastmodified":1472638397,
-    "wof:name":"Wee Clean Air",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461793683,
+    "wof:geomhash": "d0c80b9d15f2599b4d083a204bd54017",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706005151
+      }
+    ],
+    "wof:id": 706005151,
+    "wof:lastmodified": 1638566929,
+    "wof:name": "Wee Clean Air",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -82.40761,
     39.529198,
     -82.40761,
     39.529198
-],
-  "geometry": {"coordinates":[-82.40761000000001,39.529198],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.40761,39.529198],"type":"Point"}
 }

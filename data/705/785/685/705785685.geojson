@@ -2,61 +2,65 @@
   "id": 705785685,
   "type": "Feature",
   "properties": {
-    "addr:full":"25000 Euclid Ave Cleveland OH 44117",
-    "addr:housenumber":"25000",
-    "addr:postcode":"44117",
-    "addr:street":"Euclid Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.507516,41.583934,-81.507516,41.583934",
-    "geom:latitude":41.583934,
-    "geom:longitude":-81.507516,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"25000 Euclid Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "25000 Euclid Ave Cleveland OH 44117",
+    "addr:housenumber": "25000",
+    "addr:postcode": "44117",
+    "addr:street": "Euclid Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.507516,41.583934,-81.507516,41.583934",
+    "geom:latitude": 41.583934,
+    "geom:longitude": -81.507516,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "25000 Euclid Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 261 0211",
-    "sg:postcode":"44117",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 261 0211",
+    "sg:postcode": "44117",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0gNxbUT29uMhq43IRDNPcR_41.583934_-81.507516@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0gNxbUT29uMhq43IRDNPcR_41.583934_-81.507516@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788706,
-    "wof:geomhash":"dd22cdc372554cdf557e63caa45f4384",
-    "wof:hierarchy":[],
-    "wof:id":705785685,
-    "wof:lastmodified":1472639261,
-    "wof:name":"Complete Home Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home"
+    "wof:country": "US",
+    "wof:created": 1461788706,
+    "wof:geomhash": "4d199c76318b6facfa1310bfa5514e17",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705785685
+      }
+    ],
+    "wof:id": 705785685,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Complete Home Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home"
     ]
-},
+  },
   "bbox": [
     -81.507516,
     41.583934,
     -81.507516,
     41.583934
-],
+  ],
   "geometry": {"coordinates":[-81.507516,41.583934],"type":"Point"}
 }

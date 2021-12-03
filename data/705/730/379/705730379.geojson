@@ -2,61 +2,65 @@
   "id": 705730379,
   "type": "Feature",
   "properties": {
-    "addr:full":"7433 State Rte 101 Clyde OH 43410",
-    "addr:housenumber":"7433",
-    "addr:postcode":"43410",
-    "addr:street":"State Rte 101",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.852984,41.36888,-82.852984,41.36888",
-    "geom:latitude":41.36888,
-    "geom:longitude":-82.852984,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7433 State Rte 101",
-    "sg:city":"Clyde",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "7433 State Rte 101 Clyde OH 43410",
+    "addr:housenumber": "7433",
+    "addr:postcode": "43410",
+    "addr:street": "State Rte 101",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.852984,41.368880,-82.852984,41.368880",
+    "geom:latitude": 41.36888,
+    "geom:longitude": -82.852984,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7433 State Rte 101",
+    "sg:city": "Clyde",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 547 2700",
-    "sg:postcode":"43410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 547 2700",
+    "sg:postcode": "43410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Jc1QuKYsPtPlNrGSCYA46_41.368880_-82.852984@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Jc1QuKYsPtPlNrGSCYA46_41.368880_-82.852984@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787416,
-    "wof:geomhash":"dbb29e8e911e2bc7e253d33903e135d6",
-    "wof:hierarchy":[],
-    "wof:id":705730379,
-    "wof:lastmodified":1472638873,
-    "wof:name":"All Ohio Transportation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461787416,
+    "wof:geomhash": "d64fd1e5b84533c749eede4c6ec7f6a5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705730379
+      }
+    ],
+    "wof:id": 705730379,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "All Ohio Transportation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.852984,
     41.36888,
     -82.852984,
     41.36888
-],
-  "geometry": {"coordinates":[-82.85298400000001,41.36888],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.852984,41.36888],"type":"Point"}
 }

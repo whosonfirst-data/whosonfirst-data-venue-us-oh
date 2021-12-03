@@ -2,61 +2,65 @@
   "id": 706423631,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 W Center St Fostoria OH 44830",
-    "addr:housenumber":"111",
-    "addr:postcode":"44830",
-    "addr:street":"W Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.416123,41.157483,-83.416123,41.157483",
-    "geom:latitude":41.157483,
-    "geom:longitude":-83.416123,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 W Center St",
-    "sg:city":"Fostoria",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "111 W Center St Fostoria OH 44830",
+    "addr:housenumber": "111",
+    "addr:postcode": "44830",
+    "addr:street": "W Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.416123,41.157483,-83.416123,41.157483",
+    "geom:latitude": 41.157483,
+    "geom:longitude": -83.416123,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 W Center St",
+    "sg:city": "Fostoria",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 435 0606",
-    "sg:postcode":"44830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 435 0606",
+    "sg:postcode": "44830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1URgS2lDZZskmou36sUKhv_41.157483_-83.416123@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1URgS2lDZZskmou36sUKhv_41.157483_-83.416123@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802859,
-    "wof:geomhash":"0a7d42b53eb50c773a071a46a1f901f1",
-    "wof:hierarchy":[],
-    "wof:id":706423631,
-    "wof:lastmodified":1472640011,
-    "wof:name":"Jonathan G Stotzer",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461802859,
+    "wof:geomhash": "5f1559474f062e1deeedf72dbbe29444",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706423631
+      }
+    ],
+    "wof:id": 706423631,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Jonathan G Stotzer",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.416123,
     41.157483,
     -83.416123,
     41.157483
-],
+  ],
   "geometry": {"coordinates":[-83.416123,41.157483],"type":"Point"}
 }

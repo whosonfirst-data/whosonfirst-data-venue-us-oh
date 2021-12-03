@@ -2,63 +2,67 @@
   "id": 706000589,
   "type": "Feature",
   "properties": {
-    "addr:full":"1041 Park Ave W Mansfield OH 44906",
-    "addr:housenumber":"1041",
-    "addr:postcode":"44906",
-    "addr:street":"Park Ave W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.55415,40.759156,-82.55415,40.759156",
-    "geom:latitude":40.759156,
-    "geom:longitude":-82.55415,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1041 Park Ave W",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1041 Park Ave W Mansfield OH 44906",
+    "addr:housenumber": "1041",
+    "addr:postcode": "44906",
+    "addr:street": "Park Ave W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.554150,40.759156,-82.554150,40.759156",
+    "geom:latitude": 40.759156,
+    "geom:longitude": -82.55415,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1041 Park Ave W",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 522 3591",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club",
-        "night"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 522 3591",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club",
+      "night"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2TYubDmNzYRXwbdpL2tCRW_40.759156_-82.554150@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2TYubDmNzYRXwbdpL2tCRW_40.759156_-82.554150@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793589,
-    "wof:geomhash":"1e3bf68921213160ddce270e8e6f56af",
-    "wof:hierarchy":[],
-    "wof:id":706000589,
-    "wof:lastmodified":1472638215,
-    "wof:name":"Scores II",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club",
-        "night"
+    "wof:country": "US",
+    "wof:created": 1461793589,
+    "wof:geomhash": "ed08264b0df647dd01d3976404cd076e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706000589
+      }
+    ],
+    "wof:id": 706000589,
+    "wof:lastmodified": 1638566924,
+    "wof:name": "Scores II",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club",
+      "night"
     ]
-},
+  },
   "bbox": [
     -82.55415,
     40.759156,
     -82.55415,
     40.759156
-],
-  "geometry": {"coordinates":[-82.55415000000001,40.759156],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.55415,40.759156],"type":"Point"}
 }

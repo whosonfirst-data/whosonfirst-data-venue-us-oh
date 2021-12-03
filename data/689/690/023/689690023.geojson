@@ -2,61 +2,65 @@
   "id": 689690023,
   "type": "Feature",
   "properties": {
-    "addr:full":"9904 S Highland Ave Cleveland OH 44125",
-    "addr:housenumber":"9904",
-    "addr:postcode":"44125",
-    "addr:street":"S Highland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.613063,41.421009,-81.613063,41.421009",
-    "geom:latitude":41.421009,
-    "geom:longitude":-81.613063,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9904 S Highland Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Building Materials",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "9904 S Highland Ave Cleveland OH 44125",
+    "addr:housenumber": "9904",
+    "addr:postcode": "44125",
+    "addr:street": "S Highland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.613063,41.421009,-81.613063,41.421009",
+    "geom:latitude": 41.421009,
+    "geom:longitude": -81.613063,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9904 S Highland Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Building Materials",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 663 4351",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "architectural"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 663 4351",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "architectural"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0n85sScP0QRuzjYk1i1WgG_41.421009_-81.613063@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0n85sScP0QRuzjYk1i1WgG_41.421009_-81.613063@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778879,
-    "wof:geomhash":"d22d1246c96cc3f2b570840f31db1c7f",
-    "wof:hierarchy":[],
-    "wof:id":689690023,
-    "wof:lastmodified":1472639646,
-    "wof:name":"Limited Productions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "architectural"
+    "wof:country": "US",
+    "wof:created": 1461778879,
+    "wof:geomhash": "a4d3ff8a56ee78c4538fbd1897f57042",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689690023
+      }
+    ],
+    "wof:id": 689690023,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Limited Productions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "architectural"
     ]
-},
+  },
   "bbox": [
     -81.613063,
     41.421009,
     -81.613063,
     41.421009
-],
+  ],
   "geometry": {"coordinates":[-81.613063,41.421009],"type":"Point"}
 }

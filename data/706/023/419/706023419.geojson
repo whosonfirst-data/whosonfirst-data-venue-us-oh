@@ -2,61 +2,65 @@
   "id": 706023419,
   "type": "Feature",
   "properties": {
-    "addr:full":"1028 E Center St Marion OH 43302",
-    "addr:housenumber":"1028",
-    "addr:postcode":"43302",
-    "addr:street":"E Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.10398,40.58969,-83.10398,40.58969",
-    "geom:latitude":40.58969,
-    "geom:longitude":-83.10398,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1028 E Center St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1028 E Center St Marion OH 43302",
+    "addr:housenumber": "1028",
+    "addr:postcode": "43302",
+    "addr:street": "E Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.103980,40.589690,-83.103980,40.589690",
+    "geom:latitude": 40.58969,
+    "geom:longitude": -83.10398,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1028 E Center St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 382 4112",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 382 4112",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1bzVnDJcRcmW9YfRtqAeVt_40.589690_-83.103980@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1bzVnDJcRcmW9YfRtqAeVt_40.589690_-83.103980@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794076,
-    "wof:geomhash":"17baa481d1c4f967a70771eb62a1e68d",
-    "wof:hierarchy":[],
-    "wof:id":706023419,
-    "wof:lastmodified":1472638620,
-    "wof:name":"Marion Endodontics",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461794076,
+    "wof:geomhash": "0ad69deca5eb523bf6e273376ec5cab1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706023419
+      }
+    ],
+    "wof:id": 706023419,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "Marion Endodontics",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.10398,
     40.58969,
     -83.10398,
     40.58969
-],
-  "geometry": {"coordinates":[-83.10398000000001,40.58969],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.10398,40.58969],"type":"Point"}
 }

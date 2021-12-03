@@ -2,61 +2,65 @@
   "id": 706325137,
   "type": "Feature",
   "properties": {
-    "addr:full":"2226 6th St Portsmouth OH 45662",
-    "addr:housenumber":"2226",
-    "addr:postcode":"45662",
-    "addr:street":"6Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.973026,38.734073,-82.973026,38.734073",
-    "geom:latitude":38.734073,
-    "geom:longitude":-82.973026,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2226 6th St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "2226 6th St Portsmouth OH 45662",
+    "addr:housenumber": "2226",
+    "addr:postcode": "45662",
+    "addr:street": "6Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.973026,38.734073,-82.973026,38.734073",
+    "geom:latitude": 38.734073,
+    "geom:longitude": -82.973026,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2226 6th St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 259 6190",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 259 6190",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2HSczNVkPuWqyLR9zGrqum_38.734073_-82.973026@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2HSczNVkPuWqyLR9zGrqum_38.734073_-82.973026@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800861,
-    "wof:geomhash":"51438006c7693d0d72c013b0a7927989",
-    "wof:hierarchy":[],
-    "wof:id":706325137,
-    "wof:lastmodified":1472639783,
-    "wof:name":"Madeline Hoover",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461800861,
+    "wof:geomhash": "cee04a5ef53f6b0305629dffd6c87179",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706325137
+      }
+    ],
+    "wof:id": 706325137,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Madeline Hoover",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -82.973026,
     38.734073,
     -82.973026,
     38.734073
-],
+  ],
   "geometry": {"coordinates":[-82.973026,38.734073],"type":"Point"}
 }

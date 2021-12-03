@@ -2,66 +2,70 @@
   "id": 706570235,
   "type": "Feature",
   "properties": {
-    "addr:full":"4883 State Route 125 Georgetown OH 45121",
-    "addr:housenumber":"4883",
-    "addr:postcode":"45121",
-    "addr:street":"State Route 125",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.8841,38.861259,-83.8841,38.861259",
-    "geom:latitude":38.861259,
-    "geom:longitude":-83.8841,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"4883 State Route 125",
-    "sg:city":"Georgetown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4883 State Route 125 Georgetown OH 45121",
+    "addr:housenumber": "4883",
+    "addr:postcode": "45121",
+    "addr:street": "State Route 125",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.884100,38.861259,-83.884100,38.861259",
+    "geom:latitude": 38.861259,
+    "geom:longitude": -83.8841,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "4883 State Route 125",
+    "sg:city": "Georgetown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/pleasant/195296-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45121",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/pleasant/195296-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45121",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6l7OOqo1j7dIyx0GXgum9n_38.861259_-83.884100@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6l7OOqo1j7dIyx0GXgum9n_38.861259_-83.884100@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806063,
-    "wof:geomhash":"3800dcc975a1815a0f37f982c1cf23f4",
-    "wof:hierarchy":[],
-    "wof:id":706570235,
-    "wof:lastmodified":1511321594,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806063,
+    "wof:geomhash": "3800dcc975a1815a0f37f982c1cf23f4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706570235
+      }
+    ],
+    "wof:id": 706570235,
+    "wof:lastmodified": 1638567138,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -83.8841,
     38.861259,
     -83.8841,
     38.861259
-],
+  ],
   "geometry": {"coordinates":[-83.8841,38.861259],"type":"Point"}
 }

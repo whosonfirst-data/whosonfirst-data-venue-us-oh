@@ -2,67 +2,71 @@
   "id": 705936419,
   "type": "Feature",
   "properties": {
-    "addr:full":"16000 Foltz Industrial Pkwy Strongsville OH 44149",
-    "addr:housenumber":"16000",
-    "addr:postcode":"44149",
-    "addr:street":"Foltz Industrial Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.869168,41.2949,-81.869168,41.2949",
-    "geom:latitude":41.2949,
-    "geom:longitude":-81.869168,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16000 Foltz Industrial Pkwy",
-    "sg:city":"Strongsville",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Campground",
-            "type":"Entertainment"
-        }
+    "addr:full": "16000 Foltz Industrial Pkwy Strongsville OH 44149",
+    "addr:housenumber": "16000",
+    "addr:postcode": "44149",
+    "addr:street": "Foltz Industrial Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.869168,41.294900,-81.869168,41.294900",
+    "geom:latitude": 41.2949,
+    "geom:longitude": -81.869168,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16000 Foltz Industrial Pkwy",
+    "sg:city": "Strongsville",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Campground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 572 9365",
-    "sg:postcode":"44149",
-    "sg:province":"OH",
-    "sg:tags":[
-        "camp"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 572 9365",
+    "sg:postcode": "44149",
+    "sg:province": "OH",
+    "sg:tags": [
+      "camp"
     ],
-    "sg:website":"www.creativeplayrooms.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_419Ze6p3w4wRrvaojtXksg_41.294900_-81.869168@1294180530"
+    "sg:website": "www.creativeplayrooms.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_419Ze6p3w4wRrvaojtXksg_41.294900_-81.869168@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792211,
-    "wof:geomhash":"1d4b648443b3bb5e3128ae671fe14ac1",
-    "wof:hierarchy":[],
-    "wof:id":705936419,
-    "wof:lastmodified":1472639669,
-    "wof:name":"Creative Playrooms",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "camp"
+    "wof:country": "US",
+    "wof:created": 1461792211,
+    "wof:geomhash": "69d00b3bb4bf1a91c31e653e47265194",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705936419
+      }
+    ],
+    "wof:id": 705936419,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Creative Playrooms",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "camp"
     ]
-},
+  },
   "bbox": [
     -81.869168,
     41.2949,
     -81.869168,
     41.2949
-],
+  ],
   "geometry": {"coordinates":[-81.869168,41.2949],"type":"Point"}
 }

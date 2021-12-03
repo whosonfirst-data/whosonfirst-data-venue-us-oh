@@ -2,61 +2,65 @@
   "id": 705811999,
   "type": "Feature",
   "properties": {
-    "addr:full":"6360 Dresden Rd Zanesville OH 43701",
-    "addr:housenumber":"6360",
-    "addr:postcode":"43701",
-    "addr:street":"Dresden Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.018835,40.037639,-82.018835,40.037639",
-    "geom:latitude":40.037639,
-    "geom:longitude":-82.018835,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6360 Dresden Rd",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "6360 Dresden Rd Zanesville OH 43701",
+    "addr:housenumber": "6360",
+    "addr:postcode": "43701",
+    "addr:street": "Dresden Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.018835,40.037639,-82.018835,40.037639",
+    "geom:latitude": 40.037639,
+    "geom:longitude": -82.018835,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6360 Dresden Rd",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 3332",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 3332",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5MvZouuOIACCQaCA8Xif0p_40.037639_-82.018835@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5MvZouuOIACCQaCA8Xif0p_40.037639_-82.018835@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789278,
-    "wof:geomhash":"3e108324ce39a62becabb80b66839fb4",
-    "wof:hierarchy":[],
-    "wof:id":705811999,
-    "wof:lastmodified":1472639322,
-    "wof:name":"James W Booth DVM",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461789278,
+    "wof:geomhash": "3b6149bbee7d615774a512719ef6b1fb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705811999
+      }
+    ],
+    "wof:id": 705811999,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "James W Booth DVM",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -82.018835,
     40.037639,
     -82.018835,
     40.037639
-],
+  ],
   "geometry": {"coordinates":[-82.018835,40.037639],"type":"Point"}
 }

@@ -2,67 +2,71 @@
   "id": 706553625,
   "type": "Feature",
   "properties": {
-    "addr:full":"1400 S Main St Bryan OH 43506",
-    "addr:housenumber":"1400",
-    "addr:postcode":"43506",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.55085,41.45939,-84.55085,41.45939",
-    "geom:latitude":41.45939,
-    "geom:longitude":-84.55085,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1400 S Main St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1400 S Main St Bryan OH 43506",
+    "addr:housenumber": "1400",
+    "addr:postcode": "43506",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.550850,41.459390,-84.550850,41.459390",
+    "geom:latitude": 41.45939,
+    "geom:longitude": -84.55085,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1400 S Main St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/bryan/175511-arbys/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 633 0851",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/bryan/175511-arbys/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 633 0851",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574151,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3RHA6Q9GW7SOfJ1FwDf1w8_41.459390_-84.550850@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574151,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3RHA6Q9GW7SOfJ1FwDf1w8_41.459390_-84.550850@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805729,
-    "wof:geomhash":"6bb1a79c85f1603d95a3cb40f5bc62ef",
-    "wof:hierarchy":[],
-    "wof:id":706553625,
-    "wof:lastmodified":1511323443,
-    "wof:name":"Arby's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805729,
+    "wof:geomhash": "6bb1a79c85f1603d95a3cb40f5bc62ef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706553625
+      }
+    ],
+    "wof:id": 706553625,
+    "wof:lastmodified": 1638567135,
+    "wof:name": "Arby's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.55085,
     41.45939,
     -84.55085,
     41.45939
-],
+  ],
   "geometry": {"coordinates":[-84.55085,41.45939],"type":"Point"}
 }

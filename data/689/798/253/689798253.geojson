@@ -2,61 +2,65 @@
   "id": 689798253,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 N High St Arcanum OH 45304",
-    "addr:housenumber":"15",
-    "addr:postcode":"45304",
-    "addr:street":"N High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.554275,39.990596,-84.554275,39.990596",
-    "geom:latitude":39.990596,
-    "geom:longitude":-84.554275,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15 N High St",
-    "sg:city":"Arcanum",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "15 N High St Arcanum OH 45304",
+    "addr:housenumber": "15",
+    "addr:postcode": "45304",
+    "addr:street": "N High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.554275,39.990596,-84.554275,39.990596",
+    "geom:latitude": 39.990596,
+    "geom:longitude": -84.554275,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15 N High St",
+    "sg:city": "Arcanum",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 692 5359",
-    "sg:postcode":"45304",
-    "sg:province":"OH",
-    "sg:tags":[
-        "tavern"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 692 5359",
+    "sg:postcode": "45304",
+    "sg:province": "OH",
+    "sg:tags": [
+      "tavern"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7aHOaKEnRY1vuUButVdfTT_39.990596_-84.554275@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7aHOaKEnRY1vuUButVdfTT_39.990596_-84.554275@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781810,
-    "wof:geomhash":"112f01b9dadb44d3e4b86ac488822a1e",
-    "wof:hierarchy":[],
-    "wof:id":689798253,
-    "wof:lastmodified":1472639847,
-    "wof:name":"Miller's Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tavern"
+    "wof:country": "US",
+    "wof:created": 1461781810,
+    "wof:geomhash": "6780f3cabfb1ed5d6601719347cfb7d4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689798253
+      }
+    ],
+    "wof:id": 689798253,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Miller's Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tavern"
     ]
-},
+  },
   "bbox": [
     -84.554275,
     39.990596,
     -84.554275,
     39.990596
-],
+  ],
   "geometry": {"coordinates":[-84.554275,39.990596],"type":"Point"}
 }

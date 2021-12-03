@@ -2,84 +2,88 @@
   "id": 706606061,
   "type": "Feature",
   "properties": {
-    "addr:full":"12000 Mccracken Rd Cleveland OH 44125",
-    "addr:housenumber":"12000",
-    "addr:postcode":"44125",
-    "addr:street":"Mccracken Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.599388,41.422421,-81.599388,41.422421",
-    "geom:latitude":41.422421,
-    "geom:longitude":-81.599388,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"12000 Mccracken Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "12000 Mccracken Rd Cleveland OH 44125",
+    "addr:housenumber": "12000",
+    "addr:postcode": "44125",
+    "addr:street": "Mccracken Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.599388,41.422421,-81.599388,41.422421",
+    "geom:latitude": 41.422421,
+    "geom:longitude": -81.599388,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "12000 Mccracken Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 587 4370",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon",
-        "urology",
-        "osteopathic",
-        "surgeons"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 587 4370",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon",
+      "urology",
+      "osteopathic",
+      "surgeons"
     ],
-    "sg:website":"http://www.clevelandclinic.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1tp60JbswxMQv1voaLqTld_41.422421_-81.599388@1303262755"
+    "sg:website": "http://www.clevelandclinic.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1tp60JbswxMQv1voaLqTld_41.422421_-81.599388@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806853,
-    "wof:geomhash":"f4c1c7e0854640660ace40d5ddac884f",
-    "wof:hierarchy":[],
-    "wof:id":706606061,
-    "wof:lastmodified":1510941186,
-    "wof:name":"Glickman Urological Institute",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        689752607
+    "wof:country": "US",
+    "wof:created": 1461806853,
+    "wof:geomhash": "f4c1c7e0854640660ace40d5ddac884f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706606061
+      }
     ],
-    "wof:tags":[
-        "physician",
-        "surgeon",
-        "urology",
-        "osteopathic",
-        "surgeons"
+    "wof:id": 706606061,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Glickman Urological Institute",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      689752607
+    ],
+    "wof:tags": [
+      "physician",
+      "surgeon",
+      "urology",
+      "osteopathic",
+      "surgeons"
     ]
-},
+  },
   "bbox": [
     -81.599388,
     41.422421,
     -81.599388,
     41.422421
-],
+  ],
   "geometry": {"coordinates":[-81.599388,41.422421],"type":"Point"}
 }

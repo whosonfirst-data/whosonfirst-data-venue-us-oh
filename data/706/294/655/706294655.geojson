@@ -2,63 +2,67 @@
   "id": 706294655,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 College St Urbana OH 43078",
-    "addr:housenumber":"123",
-    "addr:postcode":"43078",
-    "addr:street":"College St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.753154,40.103378,-83.753154,40.103378",
-    "geom:latitude":40.103378,
-    "geom:longitude":-83.753154,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 College St",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "123 College St Urbana OH 43078",
+    "addr:housenumber": "123",
+    "addr:postcode": "43078",
+    "addr:street": "College St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.753154,40.103378,-83.753154,40.103378",
+    "geom:latitude": 40.103378,
+    "geom:longitude": -83.753154,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 College St",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 653 4444",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "live",
-        "music"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 653 4444",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "live",
+      "music"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46KZnuB9XwMn8t1oTGCtZT_40.103378_-83.753154@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_46KZnuB9XwMn8t1oTGCtZT_40.103378_-83.753154@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800190,
-    "wof:geomhash":"3309723ae13b0bc9c355b3992907e761",
-    "wof:hierarchy":[],
-    "wof:id":706294655,
-    "wof:lastmodified":1472639694,
-    "wof:name":"Ebert Entertainment",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "live",
-        "music"
+    "wof:country": "US",
+    "wof:created": 1461800190,
+    "wof:geomhash": "bf1309d4665efb589eb7096f084b73d5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706294655
+      }
+    ],
+    "wof:id": 706294655,
+    "wof:lastmodified": 1638567076,
+    "wof:name": "Ebert Entertainment",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "live",
+      "music"
     ]
-},
+  },
   "bbox": [
     -83.753154,
     40.103378,
     -83.753154,
     40.103378
-],
-  "geometry": {"coordinates":[-83.75315399999999,40.103378],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.753154,40.103378],"type":"Point"}
 }

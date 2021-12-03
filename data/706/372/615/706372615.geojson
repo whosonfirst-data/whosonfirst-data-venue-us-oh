@@ -2,61 +2,65 @@
   "id": 706372615,
   "type": "Feature",
   "properties": {
-    "addr:full":"1314 Maple Ave Zanesville OH 43701",
-    "addr:housenumber":"1314",
-    "addr:postcode":"43701",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.010446,39.955936,-82.010446,39.955936",
-    "geom:latitude":39.955936,
-    "geom:longitude":-82.010446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1314 Maple Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "1314 Maple Ave Zanesville OH 43701",
+    "addr:housenumber": "1314",
+    "addr:postcode": "43701",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.010446,39.955936,-82.010446,39.955936",
+    "geom:latitude": 39.955936,
+    "geom:longitude": -82.010446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1314 Maple Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 5151",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 5151",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4WbKZlySTAinZOBd122GV5_39.955936_-82.010446@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4WbKZlySTAinZOBd122GV5_39.955936_-82.010446@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801862,
-    "wof:geomhash":"22d156299761ddbf100722832efc7d4e",
-    "wof:hierarchy":[],
-    "wof:id":706372615,
-    "wof:lastmodified":1472639948,
-    "wof:name":"Barclay Place of Zanesville",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461801862,
+    "wof:geomhash": "adc508e04b75600c02cde36c060d2f3e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706372615
+      }
+    ],
+    "wof:id": 706372615,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Barclay Place of Zanesville",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -82.010446,
     39.955936,
     -82.010446,
     39.955936
-],
+  ],
   "geometry": {"coordinates":[-82.010446,39.955936],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 706638683,
   "type": "Feature",
   "properties": {
-    "addr:full":"4452 Eastgate Blvd Cincinnati OH 45245",
-    "addr:housenumber":"4452",
-    "addr:postcode":"45245",
-    "addr:street":"Eastgate Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.276282,39.096907,-84.276282,39.096907",
-    "geom:latitude":39.096907,
-    "geom:longitude":-84.276282,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"4452 Eastgate Blvd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Optometrist",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        },
-        {
-            "category":"Community Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "4452 Eastgate Blvd Cincinnati OH 45245",
+    "addr:housenumber": "4452",
+    "addr:postcode": "45245",
+    "addr:street": "Eastgate Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.276282,39.096907,-84.276282,39.096907",
+    "geom:latitude": 39.096907,
+    "geom:longitude": -84.276282,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "4452 Eastgate Blvd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Optometrist",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      },
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 752 5700",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "optical",
-        "good",
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 752 5700",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "optical",
+      "good",
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7HSHkWLGATIfzEudjFjLCX_39.096907_-84.276282@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7HSHkWLGATIfzEudjFjLCX_39.096907_-84.276282@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807546,
-    "wof:geomhash":"f19e6f34f90ee3bffd312c44c1b42b54",
-    "wof:hierarchy":[],
-    "wof:id":706638683,
-    "wof:lastmodified":1510942725,
-    "wof:name":"Midwest Eye Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        236545699,
-        706145047
+    "wof:country": "US",
+    "wof:created": 1461807546,
+    "wof:geomhash": "f19e6f34f90ee3bffd312c44c1b42b54",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706638683
+      }
     ],
-    "wof:tags":[
-        "optical",
-        "good",
-        "medical"
+    "wof:id": 706638683,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Midwest Eye Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      236545699,
+      706145047
+    ],
+    "wof:tags": [
+      "optical",
+      "good",
+      "medical"
     ]
-},
+  },
   "bbox": [
     -84.276282,
     39.096907,
     -84.276282,
     39.096907
-],
-  "geometry": {"coordinates":[-84.27628199999999,39.096907],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.276282,39.096907],"type":"Point"}
 }

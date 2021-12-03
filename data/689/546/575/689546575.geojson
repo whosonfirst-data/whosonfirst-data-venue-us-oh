@@ -2,61 +2,65 @@
   "id": 689546575,
   "type": "Feature",
   "properties": {
-    "addr:full":"4183 Broadview Rd Richfield OH 44286",
-    "addr:housenumber":"4183",
-    "addr:postcode":"44286",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.659172,41.245609,-81.659172,41.245609",
-    "geom:latitude":41.245609,
-    "geom:longitude":-81.659172,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4183 Broadview Rd",
-    "sg:city":"Richfield",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Natural Gas",
-            "type":"Services"
-        }
+    "addr:full": "4183 Broadview Rd Richfield OH 44286",
+    "addr:housenumber": "4183",
+    "addr:postcode": "44286",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.659172,41.245609,-81.659172,41.245609",
+    "geom:latitude": 41.245609,
+    "geom:longitude": -81.659172,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4183 Broadview Rd",
+    "sg:city": "Richfield",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Natural Gas",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 432 3232",
-    "sg:postcode":"44286",
-    "sg:province":"OH",
-    "sg:tags":[
-        "distribution"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 432 3232",
+    "sg:postcode": "44286",
+    "sg:province": "OH",
+    "sg:tags": [
+      "distribution"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4onygXLXMhMa4Rc8F2wk7R_41.245609_-81.659172@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4onygXLXMhMa4Rc8F2wk7R_41.245609_-81.659172@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774592,
-    "wof:geomhash":"71f012110c06928b3d98ba3353b16da0",
-    "wof:hierarchy":[],
-    "wof:id":689546575,
-    "wof:lastmodified":1472639246,
-    "wof:name":"Dominion East Ohio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "distribution"
+    "wof:country": "US",
+    "wof:created": 1461774592,
+    "wof:geomhash": "a8b845adc0c774ff6635dd9b1193b151",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689546575
+      }
+    ],
+    "wof:id": 689546575,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Dominion East Ohio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "distribution"
     ]
-},
+  },
   "bbox": [
     -81.659172,
     41.245609,
     -81.659172,
     41.245609
-],
+  ],
   "geometry": {"coordinates":[-81.659172,41.245609],"type":"Point"}
 }

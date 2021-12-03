@@ -2,61 +2,65 @@
   "id": 705816433,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 S Liberty St West Unity OH 43570",
-    "addr:housenumber":"110",
-    "addr:postcode":"43570",
-    "addr:street":"S Liberty St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.431534,41.585423,-84.431534,41.585423",
-    "geom:latitude":41.585423,
-    "geom:longitude":-84.431534,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 S Liberty St",
-    "sg:city":"West Unity",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "110 S Liberty St West Unity OH 43570",
+    "addr:housenumber": "110",
+    "addr:postcode": "43570",
+    "addr:street": "S Liberty St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.431534,41.585423,-84.431534,41.585423",
+    "geom:latitude": 41.585423,
+    "geom:longitude": -84.431534,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "110 S Liberty St",
+    "sg:city": "West Unity",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 924 9860",
-    "sg:postcode":"43570",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appliance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 924 9860",
+    "sg:postcode": "43570",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appliance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6IAAiOIzNvRInQBJGwqwQ2_41.585423_-84.431534@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6IAAiOIzNvRInQBJGwqwQ2_41.585423_-84.431534@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789396,
-    "wof:geomhash":"20e3347b652de755f5bcce60d005bc87",
-    "wof:hierarchy":[],
-    "wof:id":705816433,
-    "wof:lastmodified":1472639305,
-    "wof:name":"Home Appliance Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appliance"
+    "wof:country": "US",
+    "wof:created": 1461789396,
+    "wof:geomhash": "08d9d94e6bcbdd340bab6f12b5dfff64",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705816433
+      }
+    ],
+    "wof:id": 705816433,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Home Appliance Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appliance"
     ]
-},
+  },
   "bbox": [
     -84.431534,
     41.585423,
     -84.431534,
     41.585423
-],
+  ],
   "geometry": {"coordinates":[-84.431534,41.585423],"type":"Point"}
 }

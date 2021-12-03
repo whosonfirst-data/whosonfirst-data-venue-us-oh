@@ -2,61 +2,65 @@
   "id": 706181285,
   "type": "Feature",
   "properties": {
-    "addr:full":"3616 Briarcrest Dr Castalia OH 44824",
-    "addr:housenumber":"3616",
-    "addr:postcode":"44824",
-    "addr:street":"Briarcrest Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.776399,41.398693,-82.776399,41.398693",
-    "geom:latitude":41.398693,
-    "geom:longitude":-82.776399,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3616 Briarcrest Dr",
-    "sg:city":"Castalia",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "3616 Briarcrest Dr Castalia OH 44824",
+    "addr:housenumber": "3616",
+    "addr:postcode": "44824",
+    "addr:street": "Briarcrest Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.776399,41.398693,-82.776399,41.398693",
+    "geom:latitude": 41.398693,
+    "geom:longitude": -82.776399,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3616 Briarcrest Dr",
+    "sg:city": "Castalia",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 684 5538",
-    "sg:postcode":"44824",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 684 5538",
+    "sg:postcode": "44824",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16JEUN6M6hwpVUcvrI2YAP_41.398693_-82.776399@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_16JEUN6M6hwpVUcvrI2YAP_41.398693_-82.776399@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797659,
-    "wof:geomhash":"eb13387ef71330b0a01d6e90e871c5ae",
-    "wof:hierarchy":[],
-    "wof:id":706181285,
-    "wof:lastmodified":1472639444,
-    "wof:name":"Carls Sunoco Service",
-    "wof:parent_id":420534771,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461797659,
+    "wof:geomhash": "1cdcc12d1092b73529ca2597bc485717",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706181285
+      }
+    ],
+    "wof:id": 706181285,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Carls Sunoco Service",
+    "wof:parent_id": 420534771,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general"
     ]
-},
+  },
   "bbox": [
     -82.776399,
     41.398693,
     -82.776399,
     41.398693
-],
+  ],
   "geometry": {"coordinates":[-82.776399,41.398693],"type":"Point"}
 }

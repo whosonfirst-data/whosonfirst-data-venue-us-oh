@@ -2,61 +2,65 @@
   "id": 689784549,
   "type": "Feature",
   "properties": {
-    "addr:full":"9972 Reading Rd Cincinnati OH 45241",
-    "addr:housenumber":"9972",
-    "addr:postcode":"45241",
-    "addr:street":"Reading Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.43031,39.239071,-84.43031,39.239071",
-    "geom:latitude":39.239071,
-    "geom:longitude":-84.43031,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9972 Reading Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "9972 Reading Rd Cincinnati OH 45241",
+    "addr:housenumber": "9972",
+    "addr:postcode": "45241",
+    "addr:street": "Reading Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.430310,39.239071,-84.430310,39.239071",
+    "geom:latitude": 39.239071,
+    "geom:longitude": -84.43031,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9972 Reading Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 563 2277",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 563 2277",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2NKqPwgdpFOxQniTwlpwlw_39.239071_-84.430310@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2NKqPwgdpFOxQniTwlpwlw_39.239071_-84.430310@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781386,
-    "wof:geomhash":"93555303255c27ef64566437842fc2f1",
-    "wof:hierarchy":[],
-    "wof:id":689784549,
-    "wof:lastmodified":1472639847,
-    "wof:name":"Homer's Original Smorgasbord",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461781386,
+    "wof:geomhash": "1e1a8ce7a5fda255ab20ed799e210334",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689784549
+      }
+    ],
+    "wof:id": 689784549,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "Homer's Original Smorgasbord",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.43031,
     39.239071,
     -84.43031,
     39.239071
-],
-  "geometry": {"coordinates":[-84.43031000000001,39.239071],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.43031,39.239071],"type":"Point"}
 }

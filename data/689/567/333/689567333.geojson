@@ -2,63 +2,67 @@
   "id": 689567333,
   "type": "Feature",
   "properties": {
-    "addr:full":"1400 E High St Bryan OH 43506",
-    "addr:housenumber":"1400",
-    "addr:postcode":"43506",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.533599,41.474769,-84.533599,41.474769",
-    "geom:latitude":41.474769,
-    "geom:longitude":-84.533599,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1400 E High St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "1400 E High St Bryan OH 43506",
+    "addr:housenumber": "1400",
+    "addr:postcode": "43506",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.533599,41.474769,-84.533599,41.474769",
+    "geom:latitude": 41.474769,
+    "geom:longitude": -84.533599,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1400 E High St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 3272",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hall",
-        "auditorium"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 3272",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hall",
+      "auditorium"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3QZeheYSUjzIMzqibe0gx9_41.474769_-84.533599@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3QZeheYSUjzIMzqibe0gx9_41.474769_-84.533599@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775220,
-    "wof:geomhash":"e48f2fd2244278005e483b4d5d25b352",
-    "wof:hierarchy":[],
-    "wof:id":689567333,
-    "wof:lastmodified":1472639290,
-    "wof:name":"East End Community Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hall",
-        "auditorium"
+    "wof:country": "US",
+    "wof:created": 1461775220,
+    "wof:geomhash": "116cf47dcfcb34ec03453466a83ec9b1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689567333
+      }
+    ],
+    "wof:id": 689567333,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "East End Community Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hall",
+      "auditorium"
     ]
-},
+  },
   "bbox": [
     -84.533599,
     41.474769,
     -84.533599,
     41.474769
-],
+  ],
   "geometry": {"coordinates":[-84.533599,41.474769],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689827945,
   "type": "Feature",
   "properties": {
-    "addr:full":"3154 Park St Grove City OH 43123",
-    "addr:housenumber":"3154",
-    "addr:postcode":"43123",
-    "addr:street":"Park St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.087306,39.88017,-83.087306,39.88017",
-    "geom:latitude":39.88017,
-    "geom:longitude":-83.087306,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3154 Park St",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "3154 Park St Grove City OH 43123",
+    "addr:housenumber": "3154",
+    "addr:postcode": "43123",
+    "addr:street": "Park St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.087306,39.880170,-83.087306,39.880170",
+    "geom:latitude": 39.88017,
+    "geom:longitude": -83.087306,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3154 Park St",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 875 5562",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club",
-        "membership"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 875 5562",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club",
+      "membership"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1sfK34uQULhPmNSn3ukSWQ_39.880170_-83.087306@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1sfK34uQULhPmNSn3ukSWQ_39.880170_-83.087306@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782728,
-    "wof:geomhash":"b0efd4dd8875eb7e9dce7ee922e715b8",
-    "wof:hierarchy":[],
-    "wof:id":689827945,
-    "wof:lastmodified":1472639917,
-    "wof:name":"Grove City Bulls Club LLP",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club",
-        "membership"
+    "wof:country": "US",
+    "wof:created": 1461782728,
+    "wof:geomhash": "dba0bcc73459d71f00850cf4ec0c0865",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689827945
+      }
+    ],
+    "wof:id": 689827945,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Grove City Bulls Club LLP",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club",
+      "membership"
     ]
-},
+  },
   "bbox": [
     -83.087306,
     39.88017,
     -83.087306,
     39.88017
-],
+  ],
   "geometry": {"coordinates":[-83.087306,39.88017],"type":"Point"}
 }

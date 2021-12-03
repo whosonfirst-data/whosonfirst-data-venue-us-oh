@@ -2,61 +2,65 @@
   "id": 706051877,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 Cherry St Bluffton OH 45817",
-    "addr:housenumber":"212",
-    "addr:postcode":"45817",
-    "addr:street":"Cherry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.889548,40.891645,-83.889548,40.891645",
-    "geom:latitude":40.891645,
-    "geom:longitude":-83.889548,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"212 Cherry St",
-    "sg:city":"Bluffton",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "212 Cherry St Bluffton OH 45817",
+    "addr:housenumber": "212",
+    "addr:postcode": "45817",
+    "addr:street": "Cherry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.889548,40.891645,-83.889548,40.891645",
+    "geom:latitude": 40.891645,
+    "geom:longitude": -83.889548,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "212 Cherry St",
+    "sg:city": "Bluffton",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 358 7593",
-    "sg:postcode":"45817",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 358 7593",
+    "sg:postcode": "45817",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5nAAlQkqdF3sBmQSgBBnJa_40.891645_-83.889548@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5nAAlQkqdF3sBmQSgBBnJa_40.891645_-83.889548@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794637,
-    "wof:geomhash":"4b4f3378ce72fcb99df817ecb55f9fd7",
-    "wof:hierarchy":[],
-    "wof:id":706051877,
-    "wof:lastmodified":1472639141,
-    "wof:name":"Village Cut N Curl",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461794637,
+    "wof:geomhash": "8e28d446eee33fbdc59c0eabb02b9139",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706051877
+      }
+    ],
+    "wof:id": 706051877,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Village Cut N Curl",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -83.889548,
     40.891645,
     -83.889548,
     40.891645
-],
+  ],
   "geometry": {"coordinates":[-83.889548,40.891645],"type":"Point"}
 }

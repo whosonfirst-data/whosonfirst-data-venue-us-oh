@@ -2,61 +2,65 @@
   "id": 706235371,
   "type": "Feature",
   "properties": {
-    "addr:full":"8443 Forest Rd Cincinnati OH 45255",
-    "addr:housenumber":"8443",
-    "addr:postcode":"45255",
-    "addr:street":"Forest Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.323116,39.062788,-84.323116,39.062788",
-    "geom:latitude":39.062788,
-    "geom:longitude":-84.323116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8443 Forest Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Hardware",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "8443 Forest Rd Cincinnati OH 45255",
+    "addr:housenumber": "8443",
+    "addr:postcode": "45255",
+    "addr:street": "Forest Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.323116,39.062788,-84.323116,39.062788",
+    "geom:latitude": 39.062788,
+    "geom:longitude": -84.323116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8443 Forest Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Hardware",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 646 1341",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "tool"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 646 1341",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "tool"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2AAY9tbaXbI56Zuz8FzgQy_39.062788_-84.323116@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2AAY9tbaXbI56Zuz8FzgQy_39.062788_-84.323116@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798839,
-    "wof:geomhash":"2721702ef4f961814795e1ea82d6a8e0",
-    "wof:hierarchy":[],
-    "wof:id":706235371,
-    "wof:lastmodified":1472639564,
-    "wof:name":"Coates Tools",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tool"
+    "wof:country": "US",
+    "wof:created": 1461798839,
+    "wof:geomhash": "b04679ff765e07c5c99b84d0011d1249",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706235371
+      }
+    ],
+    "wof:id": 706235371,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Coates Tools",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tool"
     ]
-},
+  },
   "bbox": [
     -84.323116,
     39.062788,
     -84.323116,
     39.062788
-],
+  ],
   "geometry": {"coordinates":[-84.323116,39.062788],"type":"Point"}
 }

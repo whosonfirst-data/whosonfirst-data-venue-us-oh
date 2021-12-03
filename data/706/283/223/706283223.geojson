@@ -2,61 +2,65 @@
   "id": 706283223,
   "type": "Feature",
   "properties": {
-    "addr:full":"999 Trenton Ave Uhrichsville OH 44683",
-    "addr:housenumber":"999",
-    "addr:postcode":"44683",
-    "addr:street":"Trenton Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.35716,40.39093,-81.35716,40.39093",
-    "geom:latitude":40.39093,
-    "geom:longitude":-81.35716,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"999 Trenton Ave",
-    "sg:city":"Uhrichsville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "999 Trenton Ave Uhrichsville OH 44683",
+    "addr:housenumber": "999",
+    "addr:postcode": "44683",
+    "addr:street": "Trenton Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.357160,40.390930,-81.357160,40.390930",
+    "geom:latitude": 40.39093,
+    "geom:longitude": -81.35716,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "999 Trenton Ave",
+    "sg:city": "Uhrichsville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 922 6929",
-    "sg:postcode":"44683",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 922 6929",
+    "sg:postcode": "44683",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6QDmY1nzeDK2JV58jHOE5W_40.390930_-81.357160@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6QDmY1nzeDK2JV58jHOE5W_40.390930_-81.357160@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799921,
-    "wof:geomhash":"793fd503f07ad851156982e8a1377c2b",
-    "wof:hierarchy":[],
-    "wof:id":706283223,
-    "wof:lastmodified":1472639654,
-    "wof:name":"Poppy's Cafe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461799921,
+    "wof:geomhash": "148c9257ccbc800973871947e4d697b9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706283223
+      }
+    ],
+    "wof:id": 706283223,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Poppy's Cafe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.35716,
     40.39093,
     -81.35716,
     40.39093
-],
-  "geometry": {"coordinates":[-81.35715999999999,40.39093],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.35716,40.39093],"type":"Point"}
 }

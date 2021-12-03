@@ -2,61 +2,65 @@
   "id": 706017305,
   "type": "Feature",
   "properties": {
-    "addr:full":"7710 Morris Rd Hilliard OH 43026",
-    "addr:housenumber":"7710",
-    "addr:postcode":"43026",
-    "addr:street":"Morris Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.20932,40.006303,-83.20932,40.006303",
-    "geom:latitude":40.006303,
-    "geom:longitude":-83.20932,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7710 Morris Rd",
-    "sg:city":"Hilliard",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "7710 Morris Rd Hilliard OH 43026",
+    "addr:housenumber": "7710",
+    "addr:postcode": "43026",
+    "addr:street": "Morris Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.209320,40.006303,-83.209320,40.006303",
+    "geom:latitude": 40.006303,
+    "geom:longitude": -83.20932,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7710 Morris Rd",
+    "sg:city": "Hilliard",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 876 2530",
-    "sg:postcode":"43026",
-    "sg:province":"OH",
-    "sg:tags":[
-        "executive"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 876 2530",
+    "sg:postcode": "43026",
+    "sg:province": "OH",
+    "sg:tags": [
+      "executive"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7HE3aDUdcXxgRunmQcfBYI_40.006303_-83.209320@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7HE3aDUdcXxgRunmQcfBYI_40.006303_-83.209320@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793946,
-    "wof:geomhash":"5b4e4c29a2961c97351f3525f85e938a",
-    "wof:hierarchy":[],
-    "wof:id":706017305,
-    "wof:lastmodified":1472638524,
-    "wof:name":"Brown Township",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "executive"
+    "wof:country": "US",
+    "wof:created": 1461793946,
+    "wof:geomhash": "154d894e09637b7daa0d3207648e73e1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706017305
+      }
+    ],
+    "wof:id": 706017305,
+    "wof:lastmodified": 1638566940,
+    "wof:name": "Brown Township",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "executive"
     ]
-},
+  },
   "bbox": [
     -83.20932,
     40.006303,
     -83.20932,
     40.006303
-],
-  "geometry": {"coordinates":[-83.20932000000001,40.006303],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.20932,40.006303],"type":"Point"}
 }

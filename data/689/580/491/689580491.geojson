@@ -2,61 +2,65 @@
   "id": 689580491,
   "type": "Feature",
   "properties": {
-    "addr:full":"9669 Colerain Ave Cincinnati OH 45251",
-    "addr:housenumber":"9669",
-    "addr:postcode":"45251",
-    "addr:street":"Colerain Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.595893,39.245739,-84.595893,39.245739",
-    "geom:latitude":39.245739,
-    "geom:longitude":-84.595893,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9669 Colerain Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Music",
-            "type":"Retail Goods"
-        }
+    "addr:full": "9669 Colerain Ave Cincinnati OH 45251",
+    "addr:housenumber": "9669",
+    "addr:postcode": "45251",
+    "addr:street": "Colerain Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.595893,39.245739,-84.595893,39.245739",
+    "geom:latitude": 39.245739,
+    "geom:longitude": -84.595893,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9669 Colerain Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Music",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 741 0971",
-    "sg:postcode":"45251",
-    "sg:province":"OH",
-    "sg:tags":[
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 741 0971",
+    "sg:postcode": "45251",
+    "sg:province": "OH",
+    "sg:tags": [
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6kPVvPSbLfaQuI4gBiWGae_39.245739_-84.595893@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6kPVvPSbLfaQuI4gBiWGae_39.245739_-84.595893@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775637,
-    "wof:geomhash":"953a417bb850906f96b119c67ebcb2cd",
-    "wof:hierarchy":[],
-    "wof:id":689580491,
-    "wof:lastmodified":1472639338,
-    "wof:name":"Record Town",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461775637,
+    "wof:geomhash": "3e9f98bfc557bf686ac9b77993cb4728",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689580491
+      }
+    ],
+    "wof:id": 689580491,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Record Town",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "store"
     ]
-},
+  },
   "bbox": [
     -84.595893,
     39.245739,
     -84.595893,
     39.245739
-],
+  ],
   "geometry": {"coordinates":[-84.595893,39.245739],"type":"Point"}
 }

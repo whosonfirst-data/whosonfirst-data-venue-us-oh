@@ -2,61 +2,65 @@
   "id": 706384545,
   "type": "Feature",
   "properties": {
-    "addr:full":"532 W Main St Louisville OH 44641",
-    "addr:housenumber":"532",
-    "addr:postcode":"44641",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.264636,40.837005,-81.264636,40.837005",
-    "geom:latitude":40.837005,
-    "geom:longitude":-81.264636,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"532 W Main St",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "532 W Main St Louisville OH 44641",
+    "addr:housenumber": "532",
+    "addr:postcode": "44641",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.264636,40.837005,-81.264636,40.837005",
+    "geom:latitude": 40.837005,
+    "geom:longitude": -81.264636,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "532 W Main St",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 871 2359",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manicuring"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 871 2359",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manicuring"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6bnfATSlxbFpMpjt3mNrny_40.837005_-81.264636@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6bnfATSlxbFpMpjt3mNrny_40.837005_-81.264636@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802101,
-    "wof:geomhash":"5d490219be8035b733fa70078ed1cc92",
-    "wof:hierarchy":[],
-    "wof:id":706384545,
-    "wof:lastmodified":1472639966,
-    "wof:name":"Maxximum Nails",
-    "wof:parent_id":420535239,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manicuring"
+    "wof:country": "US",
+    "wof:created": 1461802101,
+    "wof:geomhash": "d2f60cefd7fe41eb6c9593912e8d76a0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706384545
+      }
+    ],
+    "wof:id": 706384545,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Maxximum Nails",
+    "wof:parent_id": 420535239,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manicuring"
     ]
-},
+  },
   "bbox": [
     -81.264636,
     40.837005,
     -81.264636,
     40.837005
-],
+  ],
   "geometry": {"coordinates":[-81.264636,40.837005],"type":"Point"}
 }

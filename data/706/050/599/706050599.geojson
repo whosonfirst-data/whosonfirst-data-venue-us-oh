@@ -2,56 +2,60 @@
   "id": 706050599,
   "type": "Feature",
   "properties": {
-    "addr:full":"1225 E Main St Montpelier OH 43543",
-    "addr:housenumber":"1225",
-    "addr:postcode":"43543",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.59225,41.586636,-84.59225,41.586636",
-    "geom:latitude":41.586636,
-    "geom:longitude":-84.59225,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1225 E Main St",
-    "sg:city":"Montpelier",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Chiropractor",
-            "type":"Services"
-        }
+    "addr:full": "1225 E Main St Montpelier OH 43543",
+    "addr:housenumber": "1225",
+    "addr:postcode": "43543",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.592250,41.586636,-84.592250,41.586636",
+    "geom:latitude": 41.586636,
+    "geom:longitude": -84.59225,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1225 E Main St",
+    "sg:city": "Montpelier",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Chiropractor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 485 5487",
-    "sg:postcode":"43543",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6R6MRCa43kyS8rjiov2ZBA_41.586636_-84.592250@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 485 5487",
+    "sg:postcode": "43543",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6R6MRCa43kyS8rjiov2ZBA_41.586636_-84.592250@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794612,
-    "wof:geomhash":"da8758267c322477e618211130f21dbf",
-    "wof:hierarchy":[],
-    "wof:id":706050599,
-    "wof:lastmodified":1472639075,
-    "wof:name":"Montpelier Chiropractic Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461794612,
+    "wof:geomhash": "53f52ceec305ac4405ae7d3513bca006",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706050599
+      }
+    ],
+    "wof:id": 706050599,
+    "wof:lastmodified": 1638566971,
+    "wof:name": "Montpelier Chiropractic Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.59225,
     41.586636,
     -84.59225,
     41.586636
-],
-  "geometry": {"coordinates":[-84.59225000000001,41.586636],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.59225,41.586636],"type":"Point"}
 }

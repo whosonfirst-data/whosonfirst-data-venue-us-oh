@@ -2,61 +2,65 @@
   "id": 706371447,
   "type": "Feature",
   "properties": {
-    "addr:full":"2343 Amy Ave Lima OH 45807",
-    "addr:housenumber":"2343",
-    "addr:postcode":"45807",
-    "addr:street":"Amy Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.197823,40.771311,-84.197823,40.771311",
-    "geom:latitude":40.771311,
-    "geom:longitude":-84.197823,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2343 Amy Ave",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Cleaning & Sanitation",
-            "type":"Services"
-        }
+    "addr:full": "2343 Amy Ave Lima OH 45807",
+    "addr:housenumber": "2343",
+    "addr:postcode": "45807",
+    "addr:street": "Amy Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.197823,40.771311,-84.197823,40.771311",
+    "geom:latitude": 40.771311,
+    "geom:longitude": -84.197823,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2343 Amy Ave",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Cleaning \u0026 Sanitation",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 339 1907",
-    "sg:postcode":"45807",
-    "sg:province":"OH",
-    "sg:tags":[
-        "janitor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 339 1907",
+    "sg:postcode": "45807",
+    "sg:province": "OH",
+    "sg:tags": [
+      "janitor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Nl2VkTCNirpmTjfdJsTh2_40.771311_-84.197823@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Nl2VkTCNirpmTjfdJsTh2_40.771311_-84.197823@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801838,
-    "wof:geomhash":"217547b269ad46cc466cb84036f947b9",
-    "wof:hierarchy":[],
-    "wof:id":706371447,
-    "wof:lastmodified":1472639949,
-    "wof:name":"Professional Cleaning Solution",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "janitor"
+    "wof:country": "US",
+    "wof:created": 1461801838,
+    "wof:geomhash": "8fa76d12adba36c0e55ef60d30db36da",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706371447
+      }
+    ],
+    "wof:id": 706371447,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Professional Cleaning Solution",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "janitor"
     ]
-},
+  },
   "bbox": [
     -84.197823,
     40.771311,
     -84.197823,
     40.771311
-],
+  ],
   "geometry": {"coordinates":[-84.197823,40.771311],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705847453,
   "type": "Feature",
   "properties": {
-    "addr:full":"3719 Sanford Dr Cleveland OH 44134",
-    "addr:housenumber":"3719",
-    "addr:postcode":"44134",
-    "addr:street":"Sanford Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.713101,41.355583,-81.713101,41.355583",
-    "geom:latitude":41.355583,
-    "geom:longitude":-81.713101,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3719 Sanford Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3719 Sanford Dr Cleveland OH 44134",
+    "addr:housenumber": "3719",
+    "addr:postcode": "44134",
+    "addr:street": "Sanford Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.713101,41.355583,-81.713101,41.355583",
+    "geom:latitude": 41.355583,
+    "geom:longitude": -81.713101,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3719 Sanford Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 696 7200",
-    "sg:postcode":"44134",
-    "sg:province":"OH",
-    "sg:tags":[
-        "transfer",
-        "express"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 696 7200",
+    "sg:postcode": "44134",
+    "sg:province": "OH",
+    "sg:tags": [
+      "transfer",
+      "express"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2xkHSNfhHouvQ07GR2NiDL_41.355583_-81.713101@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2xkHSNfhHouvQ07GR2NiDL_41.355583_-81.713101@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790115,
-    "wof:geomhash":"6cfbe83bf09609f7c53dc32caf72fff4",
-    "wof:hierarchy":[],
-    "wof:id":705847453,
-    "wof:lastmodified":1472639406,
-    "wof:name":"Delta Express",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transfer",
-        "express"
+    "wof:country": "US",
+    "wof:created": 1461790115,
+    "wof:geomhash": "2ccae04194d76ba0d34400f3f21b2882",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705847453
+      }
+    ],
+    "wof:id": 705847453,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Delta Express",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transfer",
+      "express"
     ]
-},
+  },
   "bbox": [
     -81.713101,
     41.355583,
     -81.713101,
     41.355583
-],
-  "geometry": {"coordinates":[-81.71310099999999,41.355583],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.713101,41.355583],"type":"Point"}
 }

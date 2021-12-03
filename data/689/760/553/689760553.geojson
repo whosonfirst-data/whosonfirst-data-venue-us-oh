@@ -2,56 +2,60 @@
   "id": 689760553,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 N Water St Uhrichsville OH 44683",
-    "addr:housenumber":"1111",
-    "addr:postcode":"44683",
-    "addr:street":"N Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.348374,40.400351,-81.348374,40.400351",
-    "geom:latitude":40.400351,
-    "geom:longitude":-81.348374,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1111 N Water St",
-    "sg:city":"Uhrichsville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1111 N Water St Uhrichsville OH 44683",
+    "addr:housenumber": "1111",
+    "addr:postcode": "44683",
+    "addr:street": "N Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.348374,40.400351,-81.348374,40.400351",
+    "geom:latitude": 40.400351,
+    "geom:longitude": -81.348374,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1111 N Water St",
+    "sg:city": "Uhrichsville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 922 9689",
-    "sg:postcode":"44683",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_36sjZf3C1Rg3uZdQ0OdBvQ_40.400351_-81.348374@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 922 9689",
+    "sg:postcode": "44683",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_36sjZf3C1Rg3uZdQ0OdBvQ_40.400351_-81.348374@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780765,
-    "wof:geomhash":"503231a1f58e0f0ffa6c6c10e5c2a76d",
-    "wof:hierarchy":[],
-    "wof:id":689760553,
-    "wof:lastmodified":1472639809,
-    "wof:name":"Famous Recipe Fried Chicken",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461780765,
+    "wof:geomhash": "5e49fd3ae61b2e6ea30f9fe22a0ca1b8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689760553
+      }
+    ],
+    "wof:id": 689760553,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Famous Recipe Fried Chicken",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.348374,
     40.400351,
     -81.348374,
     40.400351
-],
-  "geometry": {"coordinates":[-81.34837400000001,40.400351],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.348374,40.400351],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706405467,
   "type": "Feature",
   "properties": {
-    "addr:full":"645 Len Ct Aurora OH 44202",
-    "addr:housenumber":"645",
-    "addr:postcode":"44202",
-    "addr:street":"Len Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.32237,41.319609,-81.32237,41.319609",
-    "geom:latitude":41.319609,
-    "geom:longitude":-81.32237,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"645 Len Ct",
-    "sg:city":"Aurora",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "645 Len Ct Aurora OH 44202",
+    "addr:housenumber": "645",
+    "addr:postcode": "44202",
+    "addr:street": "Len Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.322370,41.319609,-81.322370,41.319609",
+    "geom:latitude": 41.319609,
+    "geom:longitude": -81.32237,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "645 Len Ct",
+    "sg:city": "Aurora",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 995 2625",
-    "sg:postcode":"44202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 995 2625",
+    "sg:postcode": "44202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4LTEMgL286VPLtzYXFsDPv_41.319609_-81.322370@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4LTEMgL286VPLtzYXFsDPv_41.319609_-81.322370@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802509,
-    "wof:geomhash":"1edd5a236bca2b0bdc94562c1d948633",
-    "wof:hierarchy":[],
-    "wof:id":706405467,
-    "wof:lastmodified":1472639992,
-    "wof:name":"Mobile Lube Express of Ohio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461802509,
+    "wof:geomhash": "45e362e3138b51e2e4e4358c9d8ee3ac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706405467
+      }
+    ],
+    "wof:id": 706405467,
+    "wof:lastmodified": 1638567111,
+    "wof:name": "Mobile Lube Express of Ohio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -81.32237,
     41.319609,
     -81.32237,
     41.319609
-],
-  "geometry": {"coordinates":[-81.32237000000001,41.319609],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.32237,41.319609],"type":"Point"}
 }

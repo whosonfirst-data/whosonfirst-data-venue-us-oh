@@ -2,61 +2,65 @@
   "id": 706460443,
   "type": "Feature",
   "properties": {
-    "addr:full":"1236 Upper Valley Pike Springfield OH 45504",
-    "addr:housenumber":"1236",
-    "addr:postcode":"45504",
-    "addr:street":"Upper Valley Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.853778,39.944583,-83.853778,39.944583",
-    "geom:latitude":39.944583,
-    "geom:longitude":-83.853778,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1236 Upper Valley Pike",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1236 Upper Valley Pike Springfield OH 45504",
+    "addr:housenumber": "1236",
+    "addr:postcode": "45504",
+    "addr:street": "Upper Valley Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.853778,39.944583,-83.853778,39.944583",
+    "geom:latitude": 39.944583,
+    "geom:longitude": -83.853778,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1236 Upper Valley Pike",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 322 6066",
-    "sg:postcode":"45504",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 322 6066",
+    "sg:postcode": "45504",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0CUGg15o7NWEqWiRYmHSfv_39.944583_-83.853778@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0CUGg15o7NWEqWiRYmHSfv_39.944583_-83.853778@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803651,
-    "wof:geomhash":"cfbd498f9a00d040793b0cf90e288604",
-    "wof:hierarchy":[],
-    "wof:id":706460443,
-    "wof:lastmodified":1472640046,
-    "wof:name":"M I Jalapeno",
-    "wof:parent_id":420534597,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461803651,
+    "wof:geomhash": "f43aed3b992a33eb8b2ffa2228228b06",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706460443
+      }
+    ],
+    "wof:id": 706460443,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "M I Jalapeno",
+    "wof:parent_id": 420534597,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.853778,
     39.944583,
     -83.853778,
     39.944583
-],
-  "geometry": {"coordinates":[-83.85377800000001,39.944583],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.853778,39.944583],"type":"Point"}
 }

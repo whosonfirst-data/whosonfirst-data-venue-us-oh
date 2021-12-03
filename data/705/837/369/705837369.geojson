@@ -2,61 +2,65 @@
   "id": 705837369,
   "type": "Feature",
   "properties": {
-    "addr:full":"3120 Albrecht Ave Akron OH 44312",
-    "addr:housenumber":"3120",
-    "addr:postcode":"44312",
-    "addr:street":"Albrecht Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.418885,41.042055,-81.418885,41.042055",
-    "geom:latitude":41.042055,
-    "geom:longitude":-81.418885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3120 Albrecht Ave",
-    "sg:city":"Akron",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3120 Albrecht Ave Akron OH 44312",
+    "addr:housenumber": "3120",
+    "addr:postcode": "44312",
+    "addr:street": "Albrecht Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.418885,41.042055,-81.418885,41.042055",
+    "geom:latitude": 41.042055,
+    "geom:longitude": -81.418885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3120 Albrecht Ave",
+    "sg:city": "Akron",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 628 4717",
-    "sg:postcode":"44312",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 628 4717",
+    "sg:postcode": "44312",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4A7MnFADrJtj4ByaSjBeS6_41.042055_-81.418885@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4A7MnFADrJtj4ByaSjBeS6_41.042055_-81.418885@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789895,
-    "wof:geomhash":"b1709b21ba9642cb484779ac7edda4c9",
-    "wof:hierarchy":[],
-    "wof:id":705837369,
-    "wof:lastmodified":1472639372,
-    "wof:name":"Praise Temple",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461789895,
+    "wof:geomhash": "c64aa283c7b38ab26d6fb295783a149a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705837369
+      }
+    ],
+    "wof:id": 705837369,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Praise Temple",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.418885,
     41.042055,
     -81.418885,
     41.042055
-],
+  ],
   "geometry": {"coordinates":[-81.418885,41.042055],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689534983,
   "type": "Feature",
   "properties": {
-    "addr:full":"6385 Columbia Rd Dover OH 44622",
-    "addr:housenumber":"6385",
-    "addr:postcode":"44622",
-    "addr:street":"Columbia Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.505466,40.573656,-81.505466,40.573656",
-    "geom:latitude":40.573656,
-    "geom:longitude":-81.505466,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6385 Columbia Rd",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "6385 Columbia Rd Dover OH 44622",
+    "addr:housenumber": "6385",
+    "addr:postcode": "44622",
+    "addr:street": "Columbia Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.505466,40.573656,-81.505466,40.573656",
+    "geom:latitude": 40.573656,
+    "geom:longitude": -81.505466,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6385 Columbia Rd",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 878 7210",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "printer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 878 7210",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "printer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6u7rEwv6zz5XDI3QrIWMNi_40.573656_-81.505466@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6u7rEwv6zz5XDI3QrIWMNi_40.573656_-81.505466@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774226,
-    "wof:geomhash":"ccafd184cf5b69aff30a3952bb060cab",
-    "wof:hierarchy":[],
-    "wof:id":689534983,
-    "wof:lastmodified":1472639209,
-    "wof:name":"Copy Cat",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "printer"
+    "wof:country": "US",
+    "wof:created": 1461774226,
+    "wof:geomhash": "8ad07e31772ab2bc31ba18fad8d303c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689534983
+      }
+    ],
+    "wof:id": 689534983,
+    "wof:lastmodified": 1638566974,
+    "wof:name": "Copy Cat",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "printer"
     ]
-},
+  },
   "bbox": [
     -81.505466,
     40.573656,
     -81.505466,
     40.573656
-],
+  ],
   "geometry": {"coordinates":[-81.505466,40.573656],"type":"Point"}
 }

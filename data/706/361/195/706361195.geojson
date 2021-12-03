@@ -2,61 +2,65 @@
   "id": 706361195,
   "type": "Feature",
   "properties": {
-    "addr:full":"308 E Main St Anna OH 45302",
-    "addr:housenumber":"308",
-    "addr:postcode":"45302",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.16757,40.395191,-84.16757,40.395191",
-    "geom:latitude":40.395191,
-    "geom:longitude":-84.16757,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"308 E Main St",
-    "sg:city":"Anna",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Used Merchandise",
-            "type":"Retail Goods"
-        }
+    "addr:full": "308 E Main St Anna OH 45302",
+    "addr:housenumber": "308",
+    "addr:postcode": "45302",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.167570,40.395191,-84.167570,40.395191",
+    "geom:latitude": 40.395191,
+    "geom:longitude": -84.16757,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "308 E Main St",
+    "sg:city": "Anna",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Used Merchandise",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 394 7766",
-    "sg:postcode":"45302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "antique"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 394 7766",
+    "sg:postcode": "45302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "antique"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Fza168S3mC2pxc8OkciX5_40.395191_-84.167570@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Fza168S3mC2pxc8OkciX5_40.395191_-84.167570@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801634,
-    "wof:geomhash":"60ba2bd0b8d6c7727619fbf6055e7a72",
-    "wof:hierarchy":[],
-    "wof:id":706361195,
-    "wof:lastmodified":1472639903,
-    "wof:name":"Country Closeout Barn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "antique"
+    "wof:country": "US",
+    "wof:created": 1461801634,
+    "wof:geomhash": "e21f026d8b5510c326f0559c5254e062",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706361195
+      }
+    ],
+    "wof:id": 706361195,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "Country Closeout Barn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "antique"
     ]
-},
+  },
   "bbox": [
     -84.16757,
     40.395191,
     -84.16757,
     40.395191
-],
+  ],
   "geometry": {"coordinates":[-84.16757,40.395191],"type":"Point"}
 }

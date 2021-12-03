@@ -2,63 +2,67 @@
   "id": 706387217,
   "type": "Feature",
   "properties": {
-    "addr:full":"1829 Jackson St Portsmouth OH 45662",
-    "addr:housenumber":"1829",
-    "addr:postcode":"45662",
-    "addr:street":"Jackson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.977638,38.73184,-82.977638,38.73184",
-    "geom:latitude":38.73184,
-    "geom:longitude":-82.977638,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1829 Jackson St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1829 Jackson St Portsmouth OH 45662",
+    "addr:housenumber": "1829",
+    "addr:postcode": "45662",
+    "addr:street": "Jackson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.977638,38.731840,-82.977638,38.731840",
+    "geom:latitude": 38.73184,
+    "geom:longitude": -82.977638,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1829 Jackson St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 353 5266",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 353 5266",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0iyKSlMolLr8UIG1tUdID6_38.731840_-82.977638@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0iyKSlMolLr8UIG1tUdID6_38.731840_-82.977638@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802151,
-    "wof:geomhash":"f15f55ed1f2ead32cca2279576fa12f9",
-    "wof:hierarchy":[],
-    "wof:id":706387217,
-    "wof:lastmodified":1472639959,
-    "wof:name":"Stadium Lunch",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking",
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461802151,
+    "wof:geomhash": "a2df24a71c6d1780392306cb87a3f8b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706387217
+      }
+    ],
+    "wof:id": 706387217,
+    "wof:lastmodified": 1638567107,
+    "wof:name": "Stadium Lunch",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.977638,
     38.73184,
     -82.977638,
     38.73184
-],
+  ],
   "geometry": {"coordinates":[-82.977638,38.73184],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705973061,
   "type": "Feature",
   "properties": {
-    "addr:full":"8065 Baumhart Rd Amherst OH 44001",
-    "addr:housenumber":"8065",
-    "addr:postcode":"44001",
-    "addr:street":"Baumhart Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.282142,41.38212,-82.282142,41.38212",
-    "geom:latitude":41.38212,
-    "geom:longitude":-82.282142,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8065 Baumhart Rd",
-    "sg:city":"Amherst",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "8065 Baumhart Rd Amherst OH 44001",
+    "addr:housenumber": "8065",
+    "addr:postcode": "44001",
+    "addr:street": "Baumhart Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.282142,41.382120,-82.282142,41.382120",
+    "geom:latitude": 41.38212,
+    "geom:longitude": -82.282142,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8065 Baumhart Rd",
+    "sg:city": "Amherst",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 984 0093",
-    "sg:postcode":"44001",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 984 0093",
+    "sg:postcode": "44001",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7l8SKLbeIhhAatOY7C4vXU_41.382120_-82.282142@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7l8SKLbeIhhAatOY7C4vXU_41.382120_-82.282142@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793030,
-    "wof:geomhash":"129043c35f93f395b1e7bfceb8e332b8",
-    "wof:hierarchy":[],
-    "wof:id":705973061,
-    "wof:lastmodified":1472639721,
-    "wof:name":"Impact Medical Systems",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461793030,
+    "wof:geomhash": "652da91bdd9841d17d65eb3ac1240dc7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705973061
+      }
+    ],
+    "wof:id": 705973061,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Impact Medical Systems",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -82.282142,
     41.38212,
     -82.282142,
     41.38212
-],
-  "geometry": {"coordinates":[-82.28214199999999,41.38212],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.282142,41.38212],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706111643,
   "type": "Feature",
   "properties": {
-    "addr:full":"969 E Main St Jackson OH 45640",
-    "addr:housenumber":"969",
-    "addr:postcode":"45640",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.627088,39.036308,-82.627088,39.036308",
-    "geom:latitude":39.036308,
-    "geom:longitude":-82.627088,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"969 E Main St",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "969 E Main St Jackson OH 45640",
+    "addr:housenumber": "969",
+    "addr:postcode": "45640",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.627088,39.036308,-82.627088,39.036308",
+    "geom:latitude": 39.036308,
+    "geom:longitude": -82.627088,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "969 E Main St",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 1321",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 1321",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_33ny2tmEDwZqPutzKYkwod_39.036308_-82.627088@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_33ny2tmEDwZqPutzKYkwod_39.036308_-82.627088@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796027,
-    "wof:geomhash":"de26fe4ebca205ed95c9fd425b21b299",
-    "wof:hierarchy":[],
-    "wof:id":706111643,
-    "wof:lastmodified":1472639276,
-    "wof:name":"Walnut Hills Veterinary Clinic",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:country": "US",
+    "wof:created": 1461796027,
+    "wof:geomhash": "ff71970150e07d285f80ffd19e72d3eb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706111643
+      }
+    ],
+    "wof:id": 706111643,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Walnut Hills Veterinary Clinic",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -82.627088,
     39.036308,
     -82.627088,
     39.036308
-],
+  ],
   "geometry": {"coordinates":[-82.627088,39.036308],"type":"Point"}
 }

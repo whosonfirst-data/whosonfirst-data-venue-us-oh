@@ -2,67 +2,71 @@
   "id": 706572763,
   "type": "Feature",
   "properties": {
-    "addr:full":"11 N Main St Covington OH 45318",
-    "addr:housenumber":"11",
-    "addr:postcode":"45318",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.355735,40.117518,-84.355735,40.117518",
-    "geom:latitude":40.117518,
-    "geom:longitude":-84.355735,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"11 N Main St",
-    "sg:city":"Covington",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11 N Main St Covington OH 45318",
+    "addr:housenumber": "11",
+    "addr:postcode": "45318",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.355735,40.117518,-84.355735,40.117518",
+    "geom:latitude": 40.117518,
+    "geom:longitude": -84.355735,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "11 N Main St",
+    "sg:city": "Covington",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/newberry/134048-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 473 2333",
-    "sg:postcode":"45318",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/newberry/134048-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 473 2333",
+    "sg:postcode": "45318",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Tl9thzW3U8WrVZy1oQiMg_40.117518_-84.355735@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Tl9thzW3U8WrVZy1oQiMg_40.117518_-84.355735@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806116,
-    "wof:geomhash":"0f43d13f83d7d3d3615718da476920ad",
-    "wof:hierarchy":[],
-    "wof:id":706572763,
-    "wof:lastmodified":1511322266,
-    "wof:name":"Subway",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806116,
+    "wof:geomhash": "0f43d13f83d7d3d3615718da476920ad",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706572763
+      }
+    ],
+    "wof:id": 706572763,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Subway",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -84.355735,
     40.117518,
     -84.355735,
     40.117518
-],
+  ],
   "geometry": {"coordinates":[-84.355735,40.117518],"type":"Point"}
 }

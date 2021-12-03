@@ -2,61 +2,65 @@
   "id": 689614455,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 E Carmean St Ohio City OH 45874",
-    "addr:housenumber":"204",
-    "addr:postcode":"45874",
-    "addr:street":"E Carmean St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.61198,40.771569,-84.61198,40.771569",
-    "geom:latitude":40.771569,
-    "geom:longitude":-84.61198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"204 E Carmean St",
-    "sg:city":"Ohio City",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "204 E Carmean St Ohio City OH 45874",
+    "addr:housenumber": "204",
+    "addr:postcode": "45874",
+    "addr:street": "E Carmean St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.611980,40.771569,-84.611980,40.771569",
+    "geom:latitude": 40.771569,
+    "geom:longitude": -84.61198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "204 E Carmean St",
+    "sg:city": "Ohio City",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 965 2112",
-    "sg:postcode":"45874",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 965 2112",
+    "sg:postcode": "45874",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ixjN10Q0vE8E9XGEbFIKz_40.771569_-84.611980@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0ixjN10Q0vE8E9XGEbFIKz_40.771569_-84.611980@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776749,
-    "wof:geomhash":"8dd770f335a20f9d15a93b9990ea6538",
-    "wof:hierarchy":[],
-    "wof:id":689614455,
-    "wof:lastmodified":1472639452,
-    "wof:name":"Ohio City Church Of God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461776749,
+    "wof:geomhash": "23f069f63c3ceec4431927fbce14530c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689614455
+      }
+    ],
+    "wof:id": 689614455,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "Ohio City Church Of God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.61198,
     40.771569,
     -84.61198,
     40.771569
-],
+  ],
   "geometry": {"coordinates":[-84.61198,40.771569],"type":"Point"}
 }

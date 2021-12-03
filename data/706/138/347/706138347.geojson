@@ -2,61 +2,65 @@
   "id": 706138347,
   "type": "Feature",
   "properties": {
-    "addr:full":"149 E Jones St Millersburg OH 44654",
-    "addr:housenumber":"149",
-    "addr:postcode":"44654",
-    "addr:street":"E Jones St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.918074,40.563078,-81.918074,40.563078",
-    "geom:latitude":40.563078,
-    "geom:longitude":-81.918074,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"149 E Jones St",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "149 E Jones St Millersburg OH 44654",
+    "addr:housenumber": "149",
+    "addr:postcode": "44654",
+    "addr:street": "E Jones St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.918074,40.563078,-81.918074,40.563078",
+    "geom:latitude": 40.563078,
+    "geom:longitude": -81.918074,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "149 E Jones St",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 674 3507",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 674 3507",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4sp8EIJDJ3fJqFV6D8jl2o_40.563078_-81.918074@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4sp8EIJDJ3fJqFV6D8jl2o_40.563078_-81.918074@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796722,
-    "wof:geomhash":"550d5030b79d70182d0126b1b614211e",
-    "wof:hierarchy":[],
-    "wof:id":706138347,
-    "wof:lastmodified":1472639336,
-    "wof:name":"Sunshine Villa",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461796722,
+    "wof:geomhash": "ce07bdd00ff062eebe1c3b6328c9a781",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706138347
+      }
+    ],
+    "wof:id": 706138347,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Sunshine Villa",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -81.918074,
     40.563078,
     -81.918074,
     40.563078
-],
+  ],
   "geometry": {"coordinates":[-81.918074,40.563078],"type":"Point"}
 }

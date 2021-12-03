@@ -2,61 +2,65 @@
   "id": 689567309,
   "type": "Feature",
   "properties": {
-    "addr:full":"307 N Locust St Ottawa OH 45875",
-    "addr:housenumber":"307",
-    "addr:postcode":"45875",
-    "addr:street":"N Locust St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.044249,41.023713,-84.044249,41.023713",
-    "geom:latitude":41.023713,
-    "geom:longitude":-84.044249,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"307 N Locust St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "307 N Locust St Ottawa OH 45875",
+    "addr:housenumber": "307",
+    "addr:postcode": "45875",
+    "addr:street": "N Locust St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.044249,41.023713,-84.044249,41.023713",
+    "geom:latitude": 41.023713,
+    "geom:longitude": -84.044249,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "307 N Locust St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 5216",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 5216",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3TTnhJ1uSW48t2YCaM8dYV_41.023713_-84.044249@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3TTnhJ1uSW48t2YCaM8dYV_41.023713_-84.044249@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775220,
-    "wof:geomhash":"59bc26587beddcd5a73b354df9253f24",
-    "wof:hierarchy":[],
-    "wof:id":689567309,
-    "wof:lastmodified":1472639289,
-    "wof:name":"St Peter & Paul Catholic Chr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461775220,
+    "wof:geomhash": "2291c7ca9258dbf574e104cb3c1e48d7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689567309
+      }
+    ],
+    "wof:id": 689567309,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "St Peter \u0026 Paul Catholic Chr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.044249,
     41.023713,
     -84.044249,
     41.023713
-],
-  "geometry": {"coordinates":[-84.04424899999999,41.023713],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.044249,41.023713],"type":"Point"}
 }

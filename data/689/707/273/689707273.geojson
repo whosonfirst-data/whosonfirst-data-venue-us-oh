@@ -2,63 +2,67 @@
   "id": 689707273,
   "type": "Feature",
   "properties": {
-    "addr:full":"122 W Main St Greenville OH 45331",
-    "addr:housenumber":"122",
-    "addr:postcode":"45331",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.633596,40.102355,-84.633596,40.102355",
-    "geom:latitude":40.102355,
-    "geom:longitude":-84.633596,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"122 W Main St",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "122 W Main St Greenville OH 45331",
+    "addr:housenumber": "122",
+    "addr:postcode": "45331",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.633596,40.102355,-84.633596,40.102355",
+    "geom:latitude": 40.102355,
+    "geom:longitude": -84.633596,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "122 W Main St",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 548 1815",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company",
-        "sewage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 548 1815",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company",
+      "sewage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_12rwcuUfQLjGESae6pnbxR_40.102355_-84.633596@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_12rwcuUfQLjGESae6pnbxR_40.102355_-84.633596@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779329,
-    "wof:geomhash":"86587dcbb4b1e630f249b3d2025ae310",
-    "wof:hierarchy":[],
-    "wof:id":689707273,
-    "wof:lastmodified":1472639676,
-    "wof:name":"Greenville Water Works",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company",
-        "sewage"
+    "wof:country": "US",
+    "wof:created": 1461779329,
+    "wof:geomhash": "b8aeccc4f3ebb7be9c06283fc0f8e3c6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689707273
+      }
+    ],
+    "wof:id": 689707273,
+    "wof:lastmodified": 1638567025,
+    "wof:name": "Greenville Water Works",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company",
+      "sewage"
     ]
-},
+  },
   "bbox": [
     -84.633596,
     40.102355,
     -84.633596,
     40.102355
-],
+  ],
   "geometry": {"coordinates":[-84.633596,40.102355],"type":"Point"}
 }

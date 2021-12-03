@@ -2,61 +2,65 @@
   "id": 689670465,
   "type": "Feature",
   "properties": {
-    "addr:full":"1011 S Main St Bryan OH 43506",
-    "addr:housenumber":"1011",
-    "addr:postcode":"43506",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.550837,41.463482,-84.550837,41.463482",
-    "geom:latitude":41.463482,
-    "geom:longitude":-84.550837,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1011 S Main St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1011 S Main St Bryan OH 43506",
+    "addr:housenumber": "1011",
+    "addr:postcode": "43506",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.550837,41.463482,-84.550837,41.463482",
+    "geom:latitude": 41.463482,
+    "geom:longitude": -84.550837,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1011 S Main St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 5606",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 5606",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1CQmJqFWc4Y5lL6MnLh4s8_41.463482_-84.550837@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1CQmJqFWc4Y5lL6MnLh4s8_41.463482_-84.550837@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778387,
-    "wof:geomhash":"2d1969265fe09f4d2a86c19c26e535ba",
-    "wof:hierarchy":[],
-    "wof:id":689670465,
-    "wof:lastmodified":1472639582,
-    "wof:name":"Debbie's Dairy Freeze",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461778387,
+    "wof:geomhash": "527c68bdade104b710cd554d27e3f042",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689670465
+      }
+    ],
+    "wof:id": 689670465,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Debbie's Dairy Freeze",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.550837,
     41.463482,
     -84.550837,
     41.463482
-],
+  ],
   "geometry": {"coordinates":[-84.550837,41.463482],"type":"Point"}
 }

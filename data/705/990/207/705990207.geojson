@@ -2,61 +2,65 @@
   "id": 705990207,
   "type": "Feature",
   "properties": {
-    "addr:full":"255 W Riverview Ave Napoleon OH 43545",
-    "addr:housenumber":"255",
-    "addr:postcode":"43545",
-    "addr:street":"W Riverview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.127279,41.386941,-84.127279,41.386941",
-    "geom:latitude":41.386941,
-    "geom:longitude":-84.127279,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"255 W Riverview Ave",
-    "sg:city":"Napoleon",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Court House",
-            "type":"Public Place"
-        }
+    "addr:full": "255 W Riverview Ave Napoleon OH 43545",
+    "addr:housenumber": "255",
+    "addr:postcode": "43545",
+    "addr:street": "W Riverview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.127279,41.386941,-84.127279,41.386941",
+    "geom:latitude": 41.386941,
+    "geom:longitude": -84.127279,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "255 W Riverview Ave",
+    "sg:city": "Napoleon",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Court House",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 592 2851",
-    "sg:postcode":"43545",
-    "sg:province":"OH",
-    "sg:tags":[
-        "city"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 592 2851",
+    "sg:postcode": "43545",
+    "sg:province": "OH",
+    "sg:tags": [
+      "city"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13kuSJ2aLpUy6UVPBH9gOI_41.386941_-84.127279@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13kuSJ2aLpUy6UVPBH9gOI_41.386941_-84.127279@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793374,
-    "wof:geomhash":"32b87f210331ee0b829b19a2f3113e5e",
-    "wof:hierarchy":[],
-    "wof:id":705990207,
-    "wof:lastmodified":1472639789,
-    "wof:name":"Napoleon Municipal Court",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city"
+    "wof:country": "US",
+    "wof:created": 1461793374,
+    "wof:geomhash": "990adbaf9585af096e77b4d5dcb5074d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705990207
+      }
+    ],
+    "wof:id": 705990207,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Napoleon Municipal Court",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city"
     ]
-},
+  },
   "bbox": [
     -84.127279,
     41.386941,
     -84.127279,
     41.386941
-],
+  ],
   "geometry": {"coordinates":[-84.127279,41.386941],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705764087,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 N Main St Chagrin Falls OH 44022",
-    "addr:housenumber":"100",
-    "addr:postcode":"44022",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.392439,41.432131,-81.392439,41.432131",
-    "geom:latitude":41.432131,
-    "geom:longitude":-81.392439,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 N Main St",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "100 N Main St Chagrin Falls OH 44022",
+    "addr:housenumber": "100",
+    "addr:postcode": "44022",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.392439,41.432131,-81.392439,41.432131",
+    "geom:latitude": 41.432131,
+    "geom:longitude": -81.392439,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 N Main St",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 893 0830",
-    "sg:postcode":"44022",
-    "sg:province":"OH",
-    "sg:tags":[
-        "inventory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 893 0830",
+    "sg:postcode": "44022",
+    "sg:province": "OH",
+    "sg:tags": [
+      "inventory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ZYc4zfls48vdANbg0l6LC_41.432131_-81.392439@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ZYc4zfls48vdANbg0l6LC_41.432131_-81.392439@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788179,
-    "wof:geomhash":"95e7f8ea5f39482073beb2d06cf5f7db",
-    "wof:hierarchy":[],
-    "wof:id":705764087,
-    "wof:lastmodified":1472639210,
-    "wof:name":"Inventory Of Skills Foundation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "inventory"
+    "wof:country": "US",
+    "wof:created": 1461788179,
+    "wof:geomhash": "9095f256c6af726367d5ae6e5dcac387",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705764087
+      }
+    ],
+    "wof:id": 705764087,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Inventory Of Skills Foundation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "inventory"
     ]
-},
+  },
   "bbox": [
     -81.392439,
     41.432131,
     -81.392439,
     41.432131
-],
+  ],
   "geometry": {"coordinates":[-81.392439,41.432131],"type":"Point"}
 }

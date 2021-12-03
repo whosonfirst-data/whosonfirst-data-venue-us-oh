@@ -2,61 +2,65 @@
   "id": 705963967,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 E 2nd St Arcanum OH 45304",
-    "addr:housenumber":"105",
-    "addr:postcode":"45304",
-    "addr:street":"E 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.552024,39.988684,-84.552024,39.988684",
-    "geom:latitude":39.988684,
-    "geom:longitude":-84.552024,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 E 2nd St",
-    "sg:city":"Arcanum",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "105 E 2nd St Arcanum OH 45304",
+    "addr:housenumber": "105",
+    "addr:postcode": "45304",
+    "addr:street": "E 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.552024,39.988684,-84.552024,39.988684",
+    "geom:latitude": 39.988684,
+    "geom:longitude": -84.552024,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 E 2nd St",
+    "sg:city": "Arcanum",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 692 6531",
-    "sg:postcode":"45304",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 692 6531",
+    "sg:postcode": "45304",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13fltgY0Ql0KcEl40hiPy2_39.988684_-84.552024@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13fltgY0Ql0KcEl40hiPy2_39.988684_-84.552024@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792842,
-    "wof:geomhash":"b508d7274c1812ed70be3a6ac4e6ef77",
-    "wof:hierarchy":[],
-    "wof:id":705963967,
-    "wof:lastmodified":1472639742,
-    "wof:name":"Modern Impressions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461792842,
+    "wof:geomhash": "5053fae5d7645083372356e28d742684",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705963967
+      }
+    ],
+    "wof:id": 705963967,
+    "wof:lastmodified": 1638567060,
+    "wof:name": "Modern Impressions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.552024,
     39.988684,
     -84.552024,
     39.988684
-],
+  ],
   "geometry": {"coordinates":[-84.552024,39.988684],"type":"Point"}
 }

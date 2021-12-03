@@ -2,61 +2,65 @@
   "id": 689700927,
   "type": "Feature",
   "properties": {
-    "addr:full":"427 Davids St Marion OH 43302",
-    "addr:housenumber":"427",
-    "addr:postcode":"43302",
-    "addr:street":"Davids St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.143427,40.581924,-83.143427,40.581924",
-    "geom:latitude":40.581924,
-    "geom:longitude":-83.143427,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"427 Davids St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "427 Davids St Marion OH 43302",
+    "addr:housenumber": "427",
+    "addr:postcode": "43302",
+    "addr:street": "Davids St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.143427,40.581924,-83.143427,40.581924",
+    "geom:latitude": 40.581924,
+    "geom:longitude": -83.143427,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "427 Davids St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 382 1212",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 382 1212",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ugLiB0R0kmpqgTCJSy5ga_40.581924_-83.143427@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ugLiB0R0kmpqgTCJSy5ga_40.581924_-83.143427@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779128,
-    "wof:geomhash":"dda56a3024dd7caed316235ba5cf1066",
-    "wof:hierarchy":[],
-    "wof:id":689700927,
-    "wof:lastmodified":1472639697,
-    "wof:name":"B & B Painting",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461779128,
+    "wof:geomhash": "8baa50a9395c5531b8d6441ae11c5731",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689700927
+      }
+    ],
+    "wof:id": 689700927,
+    "wof:lastmodified": 1638567025,
+    "wof:name": "B \u0026 B Painting",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -83.143427,
     40.581924,
     -83.143427,
     40.581924
-],
+  ],
   "geometry": {"coordinates":[-83.143427,40.581924],"type":"Point"}
 }

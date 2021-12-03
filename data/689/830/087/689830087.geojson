@@ -2,63 +2,67 @@
   "id": 689830087,
   "type": "Feature",
   "properties": {
-    "addr:full":"3000 Hospital Dr Batavia OH 45103",
-    "addr:housenumber":"3000",
-    "addr:postcode":"45103",
-    "addr:street":"Hospital Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.146042,39.078962,-84.146042,39.078962",
-    "geom:latitude":39.078962,
-    "geom:longitude":-84.146042,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3000 Hospital Dr",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "3000 Hospital Dr Batavia OH 45103",
+    "addr:housenumber": "3000",
+    "addr:postcode": "45103",
+    "addr:street": "Hospital Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.146042,39.078962,-84.146042,39.078962",
+    "geom:latitude": 39.078962,
+    "geom:longitude": -84.146042,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3000 Hospital Dr",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 732 8551",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 732 8551",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4pyb2sgnhYePMcdeh4PLjD_39.078962_-84.146042@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4pyb2sgnhYePMcdeh4PLjD_39.078962_-84.146042@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782813,
-    "wof:geomhash":"f1542fff65d50ef8036cd9dd78a48a56",
-    "wof:hierarchy":[],
-    "wof:id":689830087,
-    "wof:lastmodified":1472639893,
-    "wof:name":"Qualified Emergency Spec Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461782813,
+    "wof:geomhash": "cacc726aefcb7306a97b7a44b3d3ada7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689830087
+      }
+    ],
+    "wof:id": 689830087,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Qualified Emergency Spec Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.146042,
     39.078962,
     -84.146042,
     39.078962
-],
-  "geometry": {"coordinates":[-84.14604199999999,39.078962],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.146042,39.078962],"type":"Point"}
 }

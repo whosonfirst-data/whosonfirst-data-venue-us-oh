@@ -2,63 +2,67 @@
   "id": 706184585,
   "type": "Feature",
   "properties": {
-    "addr:full":"3789 Chesterfield Dr Akron OH 44319",
-    "addr:housenumber":"3789",
-    "addr:postcode":"44319",
-    "addr:street":"Chesterfield Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.526981,40.987445,-81.526981,40.987445",
-    "geom:latitude":40.987445,
-    "geom:longitude":-81.526981,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3789 Chesterfield Dr",
-    "sg:city":"Akron",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3789 Chesterfield Dr Akron OH 44319",
+    "addr:housenumber": "3789",
+    "addr:postcode": "44319",
+    "addr:street": "Chesterfield Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.526981,40.987445,-81.526981,40.987445",
+    "geom:latitude": 40.987445,
+    "geom:longitude": -81.526981,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3789 Chesterfield Dr",
+    "sg:city": "Akron",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 645 4377",
-    "sg:postcode":"44319",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 645 4377",
+    "sg:postcode": "44319",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1kdExWvtl6Udfhc3XEStfe_40.987445_-81.526981@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1kdExWvtl6Udfhc3XEStfe_40.987445_-81.526981@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797738,
-    "wof:geomhash":"0c8ba381639c2fb5608493e85afad5bc",
-    "wof:hierarchy":[],
-    "wof:id":706184585,
-    "wof:lastmodified":1472639459,
-    "wof:name":"Pagegettercom Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461797738,
+    "wof:geomhash": "fc37be35014d1e77efa85238c60618db",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706184585
+      }
+    ],
+    "wof:id": 706184585,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Pagegettercom Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.526981,
     40.987445,
     -81.526981,
     40.987445
-],
-  "geometry": {"coordinates":[-81.52698100000001,40.987445],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.526981,40.987445],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706253953,
   "type": "Feature",
   "properties": {
-    "addr:full":"113 W Main St Sugarcreek OH 44681",
-    "addr:housenumber":"113",
-    "addr:postcode":"44681",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.641272,40.50332,-81.641272,40.50332",
-    "geom:latitude":40.50332,
-    "geom:longitude":-81.641272,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"113 W Main St",
-    "sg:city":"Sugarcreek",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "113 W Main St Sugarcreek OH 44681",
+    "addr:housenumber": "113",
+    "addr:postcode": "44681",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.641272,40.503320,-81.641272,40.503320",
+    "geom:latitude": 40.50332,
+    "geom:longitude": -81.641272,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "113 W Main St",
+    "sg:city": "Sugarcreek",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 852 2822",
-    "sg:postcode":"44681",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 852 2822",
+    "sg:postcode": "44681",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0UWPcCpyICncb73r2Cd5jo_40.503320_-81.641272@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0UWPcCpyICncb73r2Cd5jo_40.503320_-81.641272@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799289,
-    "wof:geomhash":"319edc6f721bf9e3511f00aff326e255",
-    "wof:hierarchy":[],
-    "wof:id":706253953,
-    "wof:lastmodified":1472639614,
-    "wof:name":"First Mennonite Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461799289,
+    "wof:geomhash": "6565f25c932946b93e0d3772ff3152b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706253953
+      }
+    ],
+    "wof:id": 706253953,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "First Mennonite Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.641272,
     40.50332,
     -81.641272,
     40.50332
-],
+  ],
   "geometry": {"coordinates":[-81.641272,40.50332],"type":"Point"}
 }

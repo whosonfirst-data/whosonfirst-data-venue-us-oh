@@ -2,61 +2,65 @@
   "id": 706212589,
   "type": "Feature",
   "properties": {
-    "addr:full":"8 E Washington St Chagrin Falls OH 44022",
-    "addr:housenumber":"8",
-    "addr:postcode":"44022",
-    "addr:street":"E Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.391293,41.429712,-81.391293,41.429712",
-    "geom:latitude":41.429712,
-    "geom:longitude":-81.391293,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8 E Washington St",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "8 E Washington St Chagrin Falls OH 44022",
+    "addr:housenumber": "8",
+    "addr:postcode": "44022",
+    "addr:street": "E Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.391293,41.429712,-81.391293,41.429712",
+    "geom:latitude": 41.429712,
+    "geom:longitude": -81.391293,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8 E Washington St",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 914 9611",
-    "sg:postcode":"44022",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 914 9611",
+    "sg:postcode": "44022",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06kBFg03bEfQcYEUHwZRP7_41.429712_-81.391293@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_06kBFg03bEfQcYEUHwZRP7_41.429712_-81.391293@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798345,
-    "wof:geomhash":"fcd21a7f1bc3b2c5b37797d204ef05fa",
-    "wof:hierarchy":[],
-    "wof:id":706212589,
-    "wof:lastmodified":1472639528,
-    "wof:name":"J L Gottlieb Agency",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461798345,
+    "wof:geomhash": "53e34ba683d10bdcc30d2bc49b86b291",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706212589
+      }
+    ],
+    "wof:id": 706212589,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "J L Gottlieb Agency",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -81.391293,
     41.429712,
     -81.391293,
     41.429712
-],
+  ],
   "geometry": {"coordinates":[-81.391293,41.429712],"type":"Point"}
 }

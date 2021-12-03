@@ -2,61 +2,65 @@
   "id": 689528831,
   "type": "Feature",
   "properties": {
-    "addr:full":"623 Robbins Ave Niles OH 44446",
-    "addr:housenumber":"623",
-    "addr:postcode":"44446",
-    "addr:street":"Robbins Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.751589,41.182509,-80.751589,41.182509",
-    "geom:latitude":41.182509,
-    "geom:longitude":-80.751589,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"623 Robbins Ave",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "623 Robbins Ave Niles OH 44446",
+    "addr:housenumber": "623",
+    "addr:postcode": "44446",
+    "addr:street": "Robbins Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.751589,41.182509,-80.751589,41.182509",
+    "geom:latitude": 41.182509,
+    "geom:longitude": -80.751589,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "623 Robbins Ave",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 652 8342",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 652 8342",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_52PQ0pbNA3BwnWLhRM7WqH_41.182509_-80.751589@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_52PQ0pbNA3BwnWLhRM7WqH_41.182509_-80.751589@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774047,
-    "wof:geomhash":"13e0187a6ba2a8c6d6932c3636c18601",
-    "wof:hierarchy":[],
-    "wof:id":689528831,
-    "wof:lastmodified":1472639189,
-    "wof:name":"Montes Pizza",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461774047,
+    "wof:geomhash": "d16fedb07cdc820469a4f1260428925f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689528831
+      }
+    ],
+    "wof:id": 689528831,
+    "wof:lastmodified": 1638566969,
+    "wof:name": "Montes Pizza",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.751589,
     41.182509,
     -80.751589,
     41.182509
-],
+  ],
   "geometry": {"coordinates":[-80.751589,41.182509],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689607427,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 E Jones Rd Fostoria OH 44830",
-    "addr:housenumber":"110",
-    "addr:postcode":"44830",
-    "addr:street":"E Jones Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.412852,41.181501,-83.412852,41.181501",
-    "geom:latitude":41.181501,
-    "geom:longitude":-83.412852,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 E Jones Rd",
-    "sg:city":"Fostoria",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "110 E Jones Rd Fostoria OH 44830",
+    "addr:housenumber": "110",
+    "addr:postcode": "44830",
+    "addr:street": "E Jones Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.412852,41.181501,-83.412852,41.181501",
+    "geom:latitude": 41.181501,
+    "geom:longitude": -83.412852,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "110 E Jones Rd",
+    "sg:city": "Fostoria",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 436 2333",
-    "sg:postcode":"44830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 436 2333",
+    "sg:postcode": "44830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3t6qfYPJZJxkz634CMnV4n_41.181501_-83.412852@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3t6qfYPJZJxkz634CMnV4n_41.181501_-83.412852@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776496,
-    "wof:geomhash":"064ec19d773a43cdc13c1b5609a0685d",
-    "wof:hierarchy":[],
-    "wof:id":689607427,
-    "wof:lastmodified":1472639432,
-    "wof:name":"Landair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461776496,
+    "wof:geomhash": "2fa3c9f6bb356dea6fdc5606ef9da347",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689607427
+      }
+    ],
+    "wof:id": 689607427,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Landair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.412852,
     41.181501,
     -83.412852,
     41.181501
-],
+  ],
   "geometry": {"coordinates":[-83.412852,41.181501],"type":"Point"}
 }

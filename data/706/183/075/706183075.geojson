@@ -2,61 +2,65 @@
   "id": 706183075,
   "type": "Feature",
   "properties": {
-    "addr:full":"3801 Huffman Rd Medina OH 44256",
-    "addr:housenumber":"3801",
-    "addr:postcode":"44256",
-    "addr:street":"Huffman Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.828927,41.180867,-81.828927,41.180867",
-    "geom:latitude":41.180867,
-    "geom:longitude":-81.828927,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3801 Huffman Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "3801 Huffman Rd Medina OH 44256",
+    "addr:housenumber": "3801",
+    "addr:postcode": "44256",
+    "addr:street": "Huffman Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.828927,41.180867,-81.828927,41.180867",
+    "geom:latitude": 41.180867,
+    "geom:longitude": -81.828927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3801 Huffman Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 723 1408",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "emergency"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 723 1408",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "emergency"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0iHztiz2rxsLeLpTU4RqVa_41.180867_-81.828927@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0iHztiz2rxsLeLpTU4RqVa_41.180867_-81.828927@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797698,
-    "wof:geomhash":"08e328c24a84dbac36d498a59d287988",
-    "wof:hierarchy":[],
-    "wof:id":706183075,
-    "wof:lastmodified":1472639442,
-    "wof:name":"Medina Township",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "emergency"
+    "wof:country": "US",
+    "wof:created": 1461797698,
+    "wof:geomhash": "97165163a1d1feb289782f1faaeff14b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706183075
+      }
+    ],
+    "wof:id": 706183075,
+    "wof:lastmodified": 1638567033,
+    "wof:name": "Medina Township",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "emergency"
     ]
-},
+  },
   "bbox": [
     -81.828927,
     41.180867,
     -81.828927,
     41.180867
-],
-  "geometry": {"coordinates":[-81.82892699999999,41.180867],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.828927,41.180867],"type":"Point"}
 }

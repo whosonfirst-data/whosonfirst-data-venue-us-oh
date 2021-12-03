@@ -2,61 +2,65 @@
   "id": 706250833,
   "type": "Feature",
   "properties": {
-    "addr:full":"21 Liberty St Butler OH 44822",
-    "addr:housenumber":"21",
-    "addr:postcode":"44822",
-    "addr:street":"Liberty St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.423765,40.586588,-82.423765,40.586588",
-    "geom:latitude":40.586588,
-    "geom:longitude":-82.423765,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21 Liberty St",
-    "sg:city":"Butler",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "21 Liberty St Butler OH 44822",
+    "addr:housenumber": "21",
+    "addr:postcode": "44822",
+    "addr:street": "Liberty St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.423765,40.586588,-82.423765,40.586588",
+    "geom:latitude": 40.586588,
+    "geom:longitude": -82.423765,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21 Liberty St",
+    "sg:city": "Butler",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 883 2821",
-    "sg:postcode":"44822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "delicatessen"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 883 2821",
+    "sg:postcode": "44822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "delicatessen"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4S87j6G81X3oM8YeGz3RxV_40.586588_-82.423765@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4S87j6G81X3oM8YeGz3RxV_40.586588_-82.423765@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799215,
-    "wof:geomhash":"ebc641aa965cc9cc70387b58f8e6e0e2",
-    "wof:hierarchy":[],
-    "wof:id":706250833,
-    "wof:lastmodified":1472639594,
-    "wof:name":"Hitchman's Market Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delicatessen"
+    "wof:country": "US",
+    "wof:created": 1461799215,
+    "wof:geomhash": "6bd66acb3be0df22098b0d441e149a73",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706250833
+      }
+    ],
+    "wof:id": 706250833,
+    "wof:lastmodified": 1638567061,
+    "wof:name": "Hitchman's Market Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delicatessen"
     ]
-},
+  },
   "bbox": [
     -82.423765,
     40.586588,
     -82.423765,
     40.586588
-],
+  ],
   "geometry": {"coordinates":[-82.423765,40.586588],"type":"Point"}
 }

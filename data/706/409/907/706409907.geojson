@@ -2,61 +2,65 @@
   "id": 706409907,
   "type": "Feature",
   "properties": {
-    "addr:full":"194 S High St Cortland OH 44410",
-    "addr:housenumber":"194",
-    "addr:postcode":"44410",
-    "addr:street":"S High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.724903,41.328832,-80.724903,41.328832",
-    "geom:latitude":41.328832,
-    "geom:longitude":-80.724903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"194 S High St",
-    "sg:city":"Cortland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "194 S High St Cortland OH 44410",
+    "addr:housenumber": "194",
+    "addr:postcode": "44410",
+    "addr:street": "S High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.724903,41.328832,-80.724903,41.328832",
+    "geom:latitude": 41.328832,
+    "geom:longitude": -80.724903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "194 S High St",
+    "sg:city": "Cortland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 638 6509",
-    "sg:postcode":"44410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 638 6509",
+    "sg:postcode": "44410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6WsXmbjZwTjZGfOZ6xcBI8_41.328832_-80.724903@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6WsXmbjZwTjZGfOZ6xcBI8_41.328832_-80.724903@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802599,
-    "wof:geomhash":"f1e75cb5551e4daf3b4e99270ec9ceca",
-    "wof:hierarchy":[],
-    "wof:id":706409907,
-    "wof:lastmodified":1472639998,
-    "wof:name":"Lombardi Family Restaurant",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461802599,
+    "wof:geomhash": "f1e5db64668ff8d37c913f993a2a24fa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706409907
+      }
+    ],
+    "wof:id": 706409907,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Lombardi Family Restaurant",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.724903,
     41.328832,
     -80.724903,
     41.328832
-],
+  ],
   "geometry": {"coordinates":[-80.724903,41.328832],"type":"Point"}
 }

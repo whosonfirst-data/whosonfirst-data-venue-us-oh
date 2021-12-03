@@ -2,61 +2,65 @@
   "id": 706375929,
   "type": "Feature",
   "properties": {
-    "addr:full":"146 S Fulton St Wauseon OH 43567",
-    "addr:housenumber":"146",
-    "addr:postcode":"43567",
-    "addr:street":"S Fulton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.141009,41.54705,-84.141009,41.54705",
-    "geom:latitude":41.54705,
-    "geom:longitude":-84.141009,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"146 S Fulton St",
-    "sg:city":"Wauseon",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Electric",
-            "type":"Services"
-        }
+    "addr:full": "146 S Fulton St Wauseon OH 43567",
+    "addr:housenumber": "146",
+    "addr:postcode": "43567",
+    "addr:street": "S Fulton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.141009,41.547050,-84.141009,41.547050",
+    "geom:latitude": 41.54705,
+    "geom:longitude": -84.141009,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "146 S Fulton St",
+    "sg:city": "Wauseon",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Electric",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 335 2060",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 335 2060",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6AJdD7peO3eXR65TQM7b6V_41.547050_-84.141009@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6AJdD7peO3eXR65TQM7b6V_41.547050_-84.141009@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801921,
-    "wof:geomhash":"6284181a8376f168052415ceb2c3c694",
-    "wof:hierarchy":[],
-    "wof:id":706375929,
-    "wof:lastmodified":1472639964,
-    "wof:name":"Wauseon Service Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company"
+    "wof:country": "US",
+    "wof:created": 1461801921,
+    "wof:geomhash": "8aec2f00da2937b811a72e033d898ebb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706375929
+      }
+    ],
+    "wof:id": 706375929,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Wauseon Service Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company"
     ]
-},
+  },
   "bbox": [
     -84.141009,
     41.54705,
     -84.141009,
     41.54705
-],
+  ],
   "geometry": {"coordinates":[-84.141009,41.54705],"type":"Point"}
 }

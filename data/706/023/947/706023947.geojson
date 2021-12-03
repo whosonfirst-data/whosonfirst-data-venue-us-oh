@@ -2,63 +2,67 @@
   "id": 706023947,
   "type": "Feature",
   "properties": {
-    "addr:full":"412 Old St Monroe OH 45050",
-    "addr:housenumber":"412",
-    "addr:postcode":"45050",
-    "addr:street":"Old St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.361345,39.439448,-84.361345,39.439448",
-    "geom:latitude":39.439448,
-    "geom:longitude":-84.361345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"412 Old St",
-    "sg:city":"Monroe",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "412 Old St Monroe OH 45050",
+    "addr:housenumber": "412",
+    "addr:postcode": "45050",
+    "addr:street": "Old St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.361345,39.439448,-84.361345,39.439448",
+    "geom:latitude": 39.439448,
+    "geom:longitude": -84.361345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "412 Old St",
+    "sg:city": "Monroe",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 539 8238",
-    "sg:postcode":"45050",
-    "sg:province":"OH",
-    "sg:tags":[
-        "park",
-        "community"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 539 8238",
+    "sg:postcode": "45050",
+    "sg:province": "OH",
+    "sg:tags": [
+      "park",
+      "community"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7EAJ5p5Eqx1VSwaw4AiEGM_39.439448_-84.361345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7EAJ5p5Eqx1VSwaw4AiEGM_39.439448_-84.361345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794086,
-    "wof:geomhash":"4d76cead16ed92bb6ae64ebdd9be3f29",
-    "wof:hierarchy":[],
-    "wof:id":706023947,
-    "wof:lastmodified":1472638665,
-    "wof:name":"Monroe Community Park",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "park",
-        "community"
+    "wof:country": "US",
+    "wof:created": 1461794086,
+    "wof:geomhash": "75ff09b5e08baeeb726d5be32a9501d6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706023947
+      }
+    ],
+    "wof:id": 706023947,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "Monroe Community Park",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "park",
+      "community"
     ]
-},
+  },
   "bbox": [
     -84.361345,
     39.439448,
     -84.361345,
     39.439448
-],
+  ],
   "geometry": {"coordinates":[-84.361345,39.439448],"type":"Point"}
 }

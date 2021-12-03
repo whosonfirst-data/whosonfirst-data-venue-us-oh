@@ -2,61 +2,65 @@
   "id": 705791669,
   "type": "Feature",
   "properties": {
-    "addr:full":"21566 Main St Raymond OH 43067",
-    "addr:housenumber":"21566",
-    "addr:postcode":"43067",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.465322,40.333773,-83.465322,40.333773",
-    "geom:latitude":40.333773,
-    "geom:longitude":-83.465322,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21566 Main St",
-    "sg:city":"Raymond",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "21566 Main St Raymond OH 43067",
+    "addr:housenumber": "21566",
+    "addr:postcode": "43067",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.465322,40.333773,-83.465322,40.333773",
+    "geom:latitude": 40.333773,
+    "geom:longitude": -83.465322,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21566 Main St",
+    "sg:city": "Raymond",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 246 4261",
-    "sg:postcode":"43067",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 246 4261",
+    "sg:postcode": "43067",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5dy6L9Jkj2mY7pkfM56GiV_40.333773_-83.465322@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5dy6L9Jkj2mY7pkfM56GiV_40.333773_-83.465322@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788832,
-    "wof:geomhash":"8d6b5ae5d4c37578efc2abb2d8e4a882",
-    "wof:hierarchy":[],
-    "wof:id":705791669,
-    "wof:lastmodified":1472639261,
-    "wof:name":"Jackson Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461788832,
+    "wof:geomhash": "6f69a392c3d15b4e1b0bccb82c1b3301",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705791669
+      }
+    ],
+    "wof:id": 705791669,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "Jackson Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.465322,
     40.333773,
     -83.465322,
     40.333773
-],
+  ],
   "geometry": {"coordinates":[-83.465322,40.333773],"type":"Point"}
 }

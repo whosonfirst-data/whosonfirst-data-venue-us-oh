@@ -2,61 +2,65 @@
   "id": 706605213,
   "type": "Feature",
   "properties": {
-    "addr:full":"32000 Chagrin Blvd Cleveland OH 44124",
-    "addr:housenumber":"32000",
-    "addr:postcode":"44124",
-    "addr:street":"Chagrin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.454399,41.459,-81.454399,41.459",
-    "geom:latitude":41.459,
-    "geom:longitude":-81.454399,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"32000 Chagrin Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"University",
-            "type":"Public Place"
-        }
+    "addr:full": "32000 Chagrin Blvd Cleveland OH 44124",
+    "addr:housenumber": "32000",
+    "addr:postcode": "44124",
+    "addr:street": "Chagrin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.454399,41.459000,-81.454399,41.459000",
+    "geom:latitude": 41.459,
+    "geom:longitude": -81.454399,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "32000 Chagrin Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "University",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 791 5000",
-    "sg:postcode":"44124",
-    "sg:province":"OH",
-    "sg:tags":[
-        "college"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 791 5000",
+    "sg:postcode": "44124",
+    "sg:province": "OH",
+    "sg:tags": [
+      "college"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7GTh6tiQz5g2dqVyKUekFT_41.459000_-81.454399@1303262754"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7GTh6tiQz5g2dqVyKUekFT_41.459000_-81.454399@1303262754"
     },
-    "wof:country":"US",
-    "wof:created":1461806835,
-    "wof:geomhash":"058a4ff265797e1c3a1977508fd5d73a",
-    "wof:hierarchy":[],
-    "wof:id":706605213,
-    "wof:lastmodified":1472640213,
-    "wof:name":"Cleveland Institute of Music the",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "college"
+    "wof:country": "US",
+    "wof:created": 1461806835,
+    "wof:geomhash": "fd2f49008c0c336628897b3c78f738d7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706605213
+      }
+    ],
+    "wof:id": 706605213,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Cleveland Institute of Music the",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "college"
     ]
-},
+  },
   "bbox": [
     -81.454399,
     41.459,
     -81.454399,
     41.459
-],
+  ],
   "geometry": {"coordinates":[-81.454399,41.459],"type":"Point"}
 }

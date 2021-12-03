@@ -2,61 +2,65 @@
   "id": 706363949,
   "type": "Feature",
   "properties": {
-    "addr:full":"423 Cityview Ave West Portsmouth OH 45663",
-    "addr:housenumber":"423",
-    "addr:postcode":"45663",
-    "addr:street":"Cityview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.025795,38.758443,-83.025795,38.758443",
-    "geom:latitude":38.758443,
-    "geom:longitude":-83.025795,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"423 Cityview Ave",
-    "sg:city":"West Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "423 Cityview Ave West Portsmouth OH 45663",
+    "addr:housenumber": "423",
+    "addr:postcode": "45663",
+    "addr:street": "Cityview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.025795,38.758443,-83.025795,38.758443",
+    "geom:latitude": 38.758443,
+    "geom:longitude": -83.025795,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "423 Cityview Ave",
+    "sg:city": "West Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 858 5219",
-    "sg:postcode":"45663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appliance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 858 5219",
+    "sg:postcode": "45663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appliance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0kSEG1zzDiCKMj29FexjHn_38.758443_-83.025795@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0kSEG1zzDiCKMj29FexjHn_38.758443_-83.025795@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801694,
-    "wof:geomhash":"9b350c0d7a2f3b190320dbf6103c6fb8",
-    "wof:hierarchy":[],
-    "wof:id":706363949,
-    "wof:lastmodified":1472639931,
-    "wof:name":"Appliance Repairs",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appliance"
+    "wof:country": "US",
+    "wof:created": 1461801694,
+    "wof:geomhash": "4412c167d6fe7b47130b40ceba67d32a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706363949
+      }
+    ],
+    "wof:id": 706363949,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Appliance Repairs",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appliance"
     ]
-},
+  },
   "bbox": [
     -83.025795,
     38.758443,
     -83.025795,
     38.758443
-],
+  ],
   "geometry": {"coordinates":[-83.025795,38.758443],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706199361,
   "type": "Feature",
   "properties": {
-    "addr:full":"6000 Renaissance Pl Toledo OH 43623",
-    "addr:housenumber":"6000",
-    "addr:postcode":"43623",
-    "addr:street":"Renaissance Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.687016,41.696581,-83.687016,41.696581",
-    "geom:latitude":41.696581,
-    "geom:longitude":-83.687016,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6000 Renaissance Pl",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "6000 Renaissance Pl Toledo OH 43623",
+    "addr:housenumber": "6000",
+    "addr:postcode": "43623",
+    "addr:street": "Renaissance Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.687016,41.696581,-83.687016,41.696581",
+    "geom:latitude": 41.696581,
+    "geom:longitude": -83.687016,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6000 Renaissance Pl",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 1300",
-    "sg:postcode":"43623",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 1300",
+    "sg:postcode": "43623",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nR9pwdpDGr89DVEIMoArs_41.696581_-83.687016@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0nR9pwdpDGr89DVEIMoArs_41.696581_-83.687016@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798061,
-    "wof:geomhash":"0dc2a2caa23e68934dc09b90dba75295",
-    "wof:hierarchy":[],
-    "wof:id":706199361,
-    "wof:lastmodified":1472639487,
-    "wof:name":"Randall Koepke DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461798061,
+    "wof:geomhash": "b8ddb0776653d4c2fe500f3d90f1def8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706199361
+      }
+    ],
+    "wof:id": 706199361,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Randall Koepke DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.687016,
     41.696581,
     -83.687016,
     41.696581
-],
+  ],
   "geometry": {"coordinates":[-83.687016,41.696581],"type":"Point"}
 }

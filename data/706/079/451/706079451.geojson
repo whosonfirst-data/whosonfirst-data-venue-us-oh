@@ -2,61 +2,65 @@
   "id": 706079451,
   "type": "Feature",
   "properties": {
-    "addr:full":"11179 W Market St Germantown OH 45327",
-    "addr:housenumber":"11179",
-    "addr:postcode":"45327",
-    "addr:street":"W Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.389062,39.622756,-84.389062,39.622756",
-    "geom:latitude":39.622756,
-    "geom:longitude":-84.389062,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11179 W Market St",
-    "sg:city":"Germantown",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "11179 W Market St Germantown OH 45327",
+    "addr:housenumber": "11179",
+    "addr:postcode": "45327",
+    "addr:street": "W Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.389062,39.622756,-84.389062,39.622756",
+    "geom:latitude": 39.622756,
+    "geom:longitude": -84.389062,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11179 W Market St",
+    "sg:city": "Germantown",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 855 3011",
-    "sg:postcode":"45327",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 855 3011",
+    "sg:postcode": "45327",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dCFQw1M2UBJ24mgScl64j_39.622756_-84.389062@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3dCFQw1M2UBJ24mgScl64j_39.622756_-84.389062@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795243,
-    "wof:geomhash":"e0f2ad044cf35d0c0c9fc42df56dd75d",
-    "wof:hierarchy":[],
-    "wof:id":706079451,
-    "wof:lastmodified":1472639185,
-    "wof:name":"Germantown Cemetery Assn",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461795243,
+    "wof:geomhash": "940f4b2d963cc126d7468fa4a899fea7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706079451
+      }
+    ],
+    "wof:id": 706079451,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Germantown Cemetery Assn",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -84.389062,
     39.622756,
     -84.389062,
     39.622756
-],
+  ],
   "geometry": {"coordinates":[-84.389062,39.622756],"type":"Point"}
 }

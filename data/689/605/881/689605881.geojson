@@ -2,65 +2,69 @@
   "id": 689605881,
   "type": "Feature",
   "properties": {
-    "addr:full":"9840 Harrison Ave Harrison OH 45030",
-    "addr:housenumber":"9840",
-    "addr:postcode":"45030",
-    "addr:street":"Harrison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.767565,39.236299,-84.767565,39.236299",
-    "geom:latitude":39.236299,
-    "geom:longitude":-84.767565,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9840 Harrison Ave",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "9840 Harrison Ave Harrison OH 45030",
+    "addr:housenumber": "9840",
+    "addr:postcode": "45030",
+    "addr:street": "Harrison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.767565,39.236299,-84.767565,39.236299",
+    "geom:latitude": 39.236299,
+    "geom:longitude": -84.767565,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9840 Harrison Ave",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 367 9579",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 367 9579",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_521HI9PDZrQL9jyNyeRsUo_39.236299_-84.767565@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_521HI9PDZrQL9jyNyeRsUo_39.236299_-84.767565@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776439,
-    "wof:geomhash":"70afb286d3f6042162d422c0721813f7",
-    "wof:hierarchy":[],
-    "wof:id":689605881,
-    "wof:lastmodified":1472639432,
-    "wof:name":"Earth Transport",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461776439,
+    "wof:geomhash": "335a623d0e8e88a9cd6cb8fdf46322a8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689605881
+      }
+    ],
+    "wof:id": 689605881,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Earth Transport",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.767565,
     39.236299,
     -84.767565,
     39.236299
-],
+  ],
   "geometry": {"coordinates":[-84.767565,39.236299],"type":"Point"}
 }

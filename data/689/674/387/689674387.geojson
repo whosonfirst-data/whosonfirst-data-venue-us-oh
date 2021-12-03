@@ -2,61 +2,65 @@
   "id": 689674387,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Mohawk St Tiffin OH 44883",
-    "addr:housenumber":"123",
-    "addr:postcode":"44883",
-    "addr:street":"Mohawk St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.1779,41.101104,-83.1779,41.101104",
-    "geom:latitude":41.101104,
-    "geom:longitude":-83.1779,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Mohawk St",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Candy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 Mohawk St Tiffin OH 44883",
+    "addr:housenumber": "123",
+    "addr:postcode": "44883",
+    "addr:street": "Mohawk St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.177900,41.101104,-83.177900,41.101104",
+    "geom:latitude": 41.101104,
+    "geom:longitude": -83.1779,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Mohawk St",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Candy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 443 0111",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "nut"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 443 0111",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "nut"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2EMT5tfPljZGYdYtlysiz4_41.101104_-83.177900@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2EMT5tfPljZGYdYtlysiz4_41.101104_-83.177900@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778493,
-    "wof:geomhash":"524bb5c9d12d1a7ffd5213ed7db78ad8",
-    "wof:hierarchy":[],
-    "wof:id":689674387,
-    "wof:lastmodified":1472639615,
-    "wof:name":"Who's Nuts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "nut"
+    "wof:country": "US",
+    "wof:created": 1461778493,
+    "wof:geomhash": "1cd36a46e21f59010c29771c950fab96",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689674387
+      }
+    ],
+    "wof:id": 689674387,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Who's Nuts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nut"
     ]
-},
+  },
   "bbox": [
     -83.1779,
     41.101104,
     -83.1779,
     41.101104
-],
-  "geometry": {"coordinates":[-83.17789999999999,41.101104],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.1779,41.101104],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705703547,
   "type": "Feature",
   "properties": {
-    "addr:full":"12585 Beaver Pike Jackson OH 45640",
-    "addr:housenumber":"12585",
-    "addr:postcode":"45640",
-    "addr:street":"Beaver Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.720025,39.057685,-82.720025,39.057685",
-    "geom:latitude":39.057685,
-    "geom:longitude":-82.720025,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12585 Beaver Pike",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "12585 Beaver Pike Jackson OH 45640",
+    "addr:housenumber": "12585",
+    "addr:postcode": "45640",
+    "addr:street": "Beaver Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.720025,39.057685,-82.720025,39.057685",
+    "geom:latitude": 39.057685,
+    "geom:longitude": -82.720025,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12585 Beaver Pike",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 288 2091",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "taxicab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 288 2091",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "taxicab"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_29TptMLGUDRi0XQlnx7htk_39.057685_-82.720025@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_29TptMLGUDRi0XQlnx7htk_39.057685_-82.720025@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786666,
-    "wof:geomhash":"26ca9a2756172642ae7d4e18aed4f772",
-    "wof:hierarchy":[],
-    "wof:id":705703547,
-    "wof:lastmodified":1472638299,
-    "wof:name":"Jackson Transportation",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxicab"
+    "wof:country": "US",
+    "wof:created": 1461786666,
+    "wof:geomhash": "7b5ce37c3e4fcec2e5e719c5076f8378",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705703547
+      }
+    ],
+    "wof:id": 705703547,
+    "wof:lastmodified": 1638566921,
+    "wof:name": "Jackson Transportation",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxicab"
     ]
-},
+  },
   "bbox": [
     -82.720025,
     39.057685,
     -82.720025,
     39.057685
-],
-  "geometry": {"coordinates":[-82.72002500000001,39.057685],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.720025,39.057685],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706054405,
   "type": "Feature",
   "properties": {
-    "addr:full":"1311 Nagel Rd Cincinnati OH 45255",
-    "addr:housenumber":"1311",
-    "addr:postcode":"45255",
-    "addr:street":"Nagel Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.33226,39.073919,-84.33226,39.073919",
-    "geom:latitude":39.073919,
-    "geom:longitude":-84.33226,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1311 Nagel Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1311 Nagel Rd Cincinnati OH 45255",
+    "addr:housenumber": "1311",
+    "addr:postcode": "45255",
+    "addr:street": "Nagel Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.332260,39.073919,-84.332260,39.073919",
+    "geom:latitude": 39.073919,
+    "geom:longitude": -84.33226,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1311 Nagel Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 3884",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 3884",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4OfNyyVOPAGnBlpLpElVQZ_39.073919_-84.332260@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4OfNyyVOPAGnBlpLpElVQZ_39.073919_-84.332260@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794700,
-    "wof:geomhash":"dd884ab02e368c34d22eb05babe75220",
-    "wof:hierarchy":[],
-    "wof:id":706054405,
-    "wof:lastmodified":1472639137,
-    "wof:name":"Forestville Baptist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461794700,
+    "wof:geomhash": "79ab7abda57a7f62c32a2c229677489b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706054405
+      }
+    ],
+    "wof:id": 706054405,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Forestville Baptist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.33226,
     39.073919,
     -84.33226,
     39.073919
-],
-  "geometry": {"coordinates":[-84.33226000000001,39.073919],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.33226,39.073919],"type":"Point"}
 }

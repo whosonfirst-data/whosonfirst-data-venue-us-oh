@@ -2,61 +2,65 @@
   "id": 705786661,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 Walnut Ct SW Warren OH 44483",
-    "addr:housenumber":"119",
-    "addr:postcode":"44483",
-    "addr:street":"Walnut Ct Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.81788,41.229646,-80.81788,41.229646",
-    "geom:latitude":41.229646,
-    "geom:longitude":-80.81788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"119 Walnut Ct SW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "119 Walnut Ct SW Warren OH 44483",
+    "addr:housenumber": "119",
+    "addr:postcode": "44483",
+    "addr:street": "Walnut Ct Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.817880,41.229646,-80.817880,41.229646",
+    "geom:latitude": 41.229646,
+    "geom:longitude": -80.81788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "119 Walnut Ct SW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 743 7433",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "taxicab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 743 7433",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "taxicab"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Nwj4S4udzQAALWgVyUNXp_41.229646_-80.817880@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Nwj4S4udzQAALWgVyUNXp_41.229646_-80.817880@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788726,
-    "wof:geomhash":"f7802d89118bbc89d92b1b1c4135c128",
-    "wof:hierarchy":[],
-    "wof:id":705786661,
-    "wof:lastmodified":1472639260,
-    "wof:name":"Deluxe Cab",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxicab"
+    "wof:country": "US",
+    "wof:created": 1461788726,
+    "wof:geomhash": "6e892eba1b7f322bbb06fee2125787e8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705786661
+      }
+    ],
+    "wof:id": 705786661,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Deluxe Cab",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxicab"
     ]
-},
+  },
   "bbox": [
     -80.81788,
     41.229646,
     -80.81788,
     41.229646
-],
+  ],
   "geometry": {"coordinates":[-80.81788,41.229646],"type":"Point"}
 }

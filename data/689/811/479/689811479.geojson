@@ -2,61 +2,65 @@
   "id": 689811479,
   "type": "Feature",
   "properties": {
-    "addr:full":"398 Main St Wadsworth OH 44281",
-    "addr:housenumber":"398",
-    "addr:postcode":"44281",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.729772,41.01674,-81.729772,41.01674",
-    "geom:latitude":41.01674,
-    "geom:longitude":-81.729772,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"398 Main St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "398 Main St Wadsworth OH 44281",
+    "addr:housenumber": "398",
+    "addr:postcode": "44281",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.729772,41.016740,-81.729772,41.016740",
+    "geom:latitude": 41.01674,
+    "geom:longitude": -81.729772,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "398 Main St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 335 4826",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 335 4826",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5s0Zd6AMFcYzo6Ekqwj7Vv_41.016740_-81.729772@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5s0Zd6AMFcYzo6Ekqwj7Vv_41.016740_-81.729772@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782240,
-    "wof:geomhash":"9bac1309d2a62cd3cd00c5c83f1faca1",
-    "wof:hierarchy":[],
-    "wof:id":689811479,
-    "wof:lastmodified":1472639883,
-    "wof:name":"South Beach Tan Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461782240,
+    "wof:geomhash": "f04ebd89646455256a25bf211a7a4ac3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689811479
+      }
+    ],
+    "wof:id": 689811479,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "South Beach Tan Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.729772,
     41.01674,
     -81.729772,
     41.01674
-],
+  ],
   "geometry": {"coordinates":[-81.729772,41.01674],"type":"Point"}
 }

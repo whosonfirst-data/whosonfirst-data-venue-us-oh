@@ -2,65 +2,69 @@
   "id": 705955759,
   "type": "Feature",
   "properties": {
-    "addr:full":"1234 High St Wadsworth OH 44281",
-    "addr:housenumber":"1234",
-    "addr:postcode":"44281",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.733217,41.055277,-81.733217,41.055277",
-    "geom:latitude":41.055277,
-    "geom:longitude":-81.733217,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1234 High St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1234 High St Wadsworth OH 44281",
+    "addr:housenumber": "1234",
+    "addr:postcode": "44281",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.733217,41.055277,-81.733217,41.055277",
+    "geom:latitude": 41.055277,
+    "geom:longitude": -81.733217,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1234 High St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 336 2917",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "automobile",
-        "lubrication",
-        "automotive"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 336 2917",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "automobile",
+      "lubrication",
+      "automotive"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_37mwaqHJK6OhORuCO7ryMq_41.055277_-81.733217@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37mwaqHJK6OhORuCO7ryMq_41.055277_-81.733217@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792665,
-    "wof:geomhash":"1f8348c52d1242076b02ff259d5de5ef",
-    "wof:hierarchy":[],
-    "wof:id":705955759,
-    "wof:lastmodified":1472639733,
-    "wof:name":"Petits Auto Wash & Lube Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "lubrication",
-        "automotive"
+    "wof:country": "US",
+    "wof:created": 1461792665,
+    "wof:geomhash": "ff8a293b92df2ccf992ca466d17230f7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705955759
+      }
+    ],
+    "wof:id": 705955759,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Petits Auto Wash \u0026 Lube Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "lubrication",
+      "automotive"
     ]
-},
+  },
   "bbox": [
     -81.733217,
     41.055277,
     -81.733217,
     41.055277
-],
+  ],
   "geometry": {"coordinates":[-81.733217,41.055277],"type":"Point"}
 }

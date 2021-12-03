@@ -2,63 +2,67 @@
   "id": 689829249,
   "type": "Feature",
   "properties": {
-    "addr:full":"852 Mount Orab Pike Georgetown OH 45121",
-    "addr:housenumber":"852",
-    "addr:postcode":"45121",
-    "addr:street":"Mount Orab Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.900975,38.876732,-83.900975,38.876732",
-    "geom:latitude":38.876732,
-    "geom:longitude":-83.900975,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"852 Mount Orab Pike",
-    "sg:city":"Georgetown",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "852 Mount Orab Pike Georgetown OH 45121",
+    "addr:housenumber": "852",
+    "addr:postcode": "45121",
+    "addr:street": "Mount Orab Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.900975,38.876732,-83.900975,38.876732",
+    "geom:latitude": 38.876732,
+    "geom:longitude": -83.900975,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "852 Mount Orab Pike",
+    "sg:city": "Georgetown",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 378 9090",
-    "sg:postcode":"45121",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 378 9090",
+    "sg:postcode": "45121",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ooVKQhVLmD3MMslaRa4Ad_38.876732_-83.900975@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6ooVKQhVLmD3MMslaRa4Ad_38.876732_-83.900975@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782777,
-    "wof:geomhash":"b071aa4ee7a33f1fb18744da89610d0c",
-    "wof:hierarchy":[],
-    "wof:id":689829249,
-    "wof:lastmodified":1472639891,
-    "wof:name":"A G Cardiology",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461782777,
+    "wof:geomhash": "a505e4e916389c7333631186dad04d04",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689829249
+      }
+    ],
+    "wof:id": 689829249,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "A G Cardiology",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.900975,
     38.876732,
     -83.900975,
     38.876732
-],
+  ],
   "geometry": {"coordinates":[-83.900975,38.876732],"type":"Point"}
 }

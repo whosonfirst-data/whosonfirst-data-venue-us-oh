@@ -2,61 +2,65 @@
   "id": 706276393,
   "type": "Feature",
   "properties": {
-    "addr:full":"544 Van Horn Ave Zanesville OH 43701",
-    "addr:housenumber":"544",
-    "addr:postcode":"43701",
-    "addr:street":"Van Horn Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.009541,39.958096,-82.009541,39.958096",
-    "geom:latitude":39.958096,
-    "geom:longitude":-82.009541,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"544 Van Horn Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "544 Van Horn Ave Zanesville OH 43701",
+    "addr:housenumber": "544",
+    "addr:postcode": "43701",
+    "addr:street": "Van Horn Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.009541,39.958096,-82.009541,39.958096",
+    "geom:latitude": 39.958096,
+    "geom:longitude": -82.009541,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "544 Van Horn Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 4114",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "electrolysis"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 4114",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "electrolysis"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_079A9UDuejsQHii07MAOLQ_39.958096_-82.009541@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_079A9UDuejsQHii07MAOLQ_39.958096_-82.009541@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799762,
-    "wof:geomhash":"1517df88882d9922322486ea63f0a0d6",
-    "wof:hierarchy":[],
-    "wof:id":706276393,
-    "wof:lastmodified":1472639630,
-    "wof:name":"Carole Electrolysis Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "electrolysis"
+    "wof:country": "US",
+    "wof:created": 1461799762,
+    "wof:geomhash": "0aac67d2eadf907835f02e96bb1808d9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706276393
+      }
+    ],
+    "wof:id": 706276393,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Carole Electrolysis Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "electrolysis"
     ]
-},
+  },
   "bbox": [
     -82.009541,
     39.958096,
     -82.009541,
     39.958096
-],
+  ],
   "geometry": {"coordinates":[-82.009541,39.958096],"type":"Point"}
 }

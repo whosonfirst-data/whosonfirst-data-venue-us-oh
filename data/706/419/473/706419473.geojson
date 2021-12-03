@@ -2,68 +2,72 @@
   "id": 706419473,
   "type": "Feature",
   "properties": {
-    "addr:full":"30800 Chagrin Blvd Cleveland OH 44124",
-    "addr:housenumber":"30800",
-    "addr:postcode":"44124",
-    "addr:street":"Chagrin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.459519,41.460467,-81.459519,41.460467",
-    "geom:latitude":41.460467,
-    "geom:longitude":-81.459519,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30800 Chagrin Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Research",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "30800 Chagrin Blvd Cleveland OH 44124",
+    "addr:housenumber": "30800",
+    "addr:postcode": "44124",
+    "addr:street": "Chagrin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.459519,41.460467,-81.459519,41.460467",
+    "geom:latitude": 41.460467,
+    "geom:longitude": -81.459519,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "30800 Chagrin Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Research",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 360 0013",
-    "sg:postcode":"44124",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory",
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 360 0013",
+    "sg:postcode": "44124",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory",
+      "specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Y4xpzPZZ8PRoPZTAFxKs4_41.460467_-81.459519@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Y4xpzPZZ8PRoPZTAFxKs4_41.460467_-81.459519@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802781,
-    "wof:geomhash":"020143edbb69ec21f113ffdd7755342e",
-    "wof:hierarchy":[],
-    "wof:id":706419473,
-    "wof:lastmodified":1472640002,
-    "wof:name":"Redwood Toxicology Laboratory",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory",
-        "specialty"
+    "wof:country": "US",
+    "wof:created": 1461802781,
+    "wof:geomhash": "478a314c63f96ed0002ac40bb581290e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706419473
+      }
+    ],
+    "wof:id": 706419473,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Redwood Toxicology Laboratory",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory",
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -81.459519,
     41.460467,
     -81.459519,
     41.460467
-],
+  ],
   "geometry": {"coordinates":[-81.459519,41.460467],"type":"Point"}
 }

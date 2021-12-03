@@ -2,61 +2,65 @@
   "id": 689670769,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 W Ohio Ave Sebring OH 44672",
-    "addr:housenumber":"700",
-    "addr:postcode":"44672",
-    "addr:street":"W Ohio Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.031871,40.923241,-81.031871,40.923241",
-    "geom:latitude":40.923241,
-    "geom:longitude":-81.031871,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"700 W Ohio Ave",
-    "sg:city":"Sebring",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "700 W Ohio Ave Sebring OH 44672",
+    "addr:housenumber": "700",
+    "addr:postcode": "44672",
+    "addr:street": "W Ohio Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.031871,40.923241,-81.031871,40.923241",
+    "geom:latitude": 40.923241,
+    "geom:longitude": -81.031871,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "700 W Ohio Ave",
+    "sg:city": "Sebring",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 938 0888",
-    "sg:postcode":"44672",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 938 0888",
+    "sg:postcode": "44672",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4REooZktX0kAQeUS7KtjdU_40.923241_-81.031871@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4REooZktX0kAQeUS7KtjdU_40.923241_-81.031871@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778398,
-    "wof:geomhash":"54d20b9654a0515835570855c6327a17",
-    "wof:hierarchy":[],
-    "wof:id":689670769,
-    "wof:lastmodified":1472639591,
-    "wof:name":"That's Amore Pizza Shoppe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461778398,
+    "wof:geomhash": "834c824f42a044ac8df938c65107d2ab",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689670769
+      }
+    ],
+    "wof:id": 689670769,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "That's Amore Pizza Shoppe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.031871,
     40.923241,
     -81.031871,
     40.923241
-],
+  ],
   "geometry": {"coordinates":[-81.031871,40.923241],"type":"Point"}
 }

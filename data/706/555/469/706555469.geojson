@@ -2,66 +2,70 @@
   "id": 706555469,
   "type": "Feature",
   "properties": {
-    "addr:full":"2605 West Pike Zanesville OH 43701",
-    "addr:housenumber":"2605",
-    "addr:postcode":"43701",
-    "addr:street":"West Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.05909,39.952288,-82.05909,39.952288",
-    "geom:latitude":39.952288,
-    "geom:longitude":-82.05909,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2605 West Pike",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2605 West Pike Zanesville OH 43701",
+    "addr:housenumber": "2605",
+    "addr:postcode": "43701",
+    "addr:street": "West Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.059090,39.952288,-82.059090,39.952288",
+    "geom:latitude": 39.952288,
+    "geom:longitude": -82.05909,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2605 West Pike",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/falls/195121-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/falls/195121-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Fjv4i37Qtw4tz3i8Xvp5q_39.952288_-82.059090@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Fjv4i37Qtw4tz3i8Xvp5q_39.952288_-82.059090@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805761,
-    "wof:geomhash":"2fd0c373c8aba1325fb43f6ccd5c78d6",
-    "wof:hierarchy":[],
-    "wof:id":706555469,
-    "wof:lastmodified":1512142986,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805761,
+    "wof:geomhash": "2fd0c373c8aba1325fb43f6ccd5c78d6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706555469
+      }
+    ],
+    "wof:id": 706555469,
+    "wof:lastmodified": 1638567135,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.05909,
     39.952288,
     -82.05909,
     39.952288
-],
+  ],
   "geometry": {"coordinates":[-82.05909,39.952288],"type":"Point"}
 }

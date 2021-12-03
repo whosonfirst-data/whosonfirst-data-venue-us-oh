@@ -2,61 +2,65 @@
   "id": 705753503,
   "type": "Feature",
   "properties": {
-    "addr:full":"771 Lexington Ave Zanesville OH 43701",
-    "addr:housenumber":"771",
-    "addr:postcode":"43701",
-    "addr:street":"Lexington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.02434,39.928009,-82.02434,39.928009",
-    "geom:latitude":39.928009,
-    "geom:longitude":-82.02434,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"771 Lexington Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "771 Lexington Ave Zanesville OH 43701",
+    "addr:housenumber": "771",
+    "addr:postcode": "43701",
+    "addr:street": "Lexington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.024340,39.928009,-82.024340,39.928009",
+    "geom:latitude": 39.928009,
+    "geom:longitude": -82.02434,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "771 Lexington Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 6441",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 6441",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Ksa5RZ6vC3RTLZhC7Zeu2_39.928009_-82.024340@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Ksa5RZ6vC3RTLZhC7Zeu2_39.928009_-82.024340@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787936,
-    "wof:geomhash":"752ca713c68346d517d874444c834c4f",
-    "wof:hierarchy":[],
-    "wof:id":705753503,
-    "wof:lastmodified":1472639189,
-    "wof:name":"Brighton Presbyterian Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461787936,
+    "wof:geomhash": "43967a4814ad1998b42808a52f1b26f1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705753503
+      }
+    ],
+    "wof:id": 705753503,
+    "wof:lastmodified": 1638566967,
+    "wof:name": "Brighton Presbyterian Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.02434,
     39.928009,
     -82.02434,
     39.928009
-],
+  ],
   "geometry": {"coordinates":[-82.02434,39.928009],"type":"Point"}
 }

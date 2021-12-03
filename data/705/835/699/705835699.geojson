@@ -2,56 +2,60 @@
   "id": 705835699,
   "type": "Feature",
   "properties": {
-    "addr:full":"4226 Hazelton Etna Rd Johnstown OH 43031",
-    "addr:housenumber":"4226",
-    "addr:postcode":"43031",
-    "addr:street":"Hazelton Etna Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.661141,40.109825,-82.661141,40.109825",
-    "geom:latitude":40.109825,
-    "geom:longitude":-82.661141,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4226 Hazelton Etna Rd",
-    "sg:city":"Johnstown",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "4226 Hazelton Etna Rd Johnstown OH 43031",
+    "addr:housenumber": "4226",
+    "addr:postcode": "43031",
+    "addr:street": "Hazelton Etna Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.661141,40.109825,-82.661141,40.109825",
+    "geom:latitude": 40.109825,
+    "geom:longitude": -82.661141,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4226 Hazelton Etna Rd",
+    "sg:city": "Johnstown",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 967 6171",
-    "sg:postcode":"43031",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3FqUng2I4MI3IN2atPtbEF_40.109825_-82.661141@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 967 6171",
+    "sg:postcode": "43031",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3FqUng2I4MI3IN2atPtbEF_40.109825_-82.661141@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789859,
-    "wof:geomhash":"6de742cb76a7b98bda0d5db2f0bb1c94",
-    "wof:hierarchy":[],
-    "wof:id":705835699,
-    "wof:lastmodified":1472639376,
-    "wof:name":"Sunny-Hill Pet Care Center",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461789859,
+    "wof:geomhash": "a4abc247c1c5f6c67691b85c1c81c3e2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705835699
+      }
+    ],
+    "wof:id": 705835699,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Sunny-Hill Pet Care Center",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.661141,
     40.109825,
     -82.661141,
     40.109825
-],
+  ],
   "geometry": {"coordinates":[-82.661141,40.109825],"type":"Point"}
 }

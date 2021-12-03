@@ -2,63 +2,67 @@
   "id": 706259785,
   "type": "Feature",
   "properties": {
-    "addr:full":"16870 Bridge Rd Middlefield OH 44062",
-    "addr:housenumber":"16870",
-    "addr:postcode":"44062",
-    "addr:street":"Bridge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.03121,41.443915,-81.03121,41.443915",
-    "geom:latitude":41.443915,
-    "geom:longitude":-81.03121,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16870 Bridge Rd",
-    "sg:city":"Middlefield",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Computer Services",
-            "type":"Services"
-        }
+    "addr:full": "16870 Bridge Rd Middlefield OH 44062",
+    "addr:housenumber": "16870",
+    "addr:postcode": "44062",
+    "addr:street": "Bridge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.031210,41.443915,-81.031210,41.443915",
+    "geom:latitude": 41.443915,
+    "geom:longitude": -81.03121,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16870 Bridge Rd",
+    "sg:city": "Middlefield",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 632 5545",
-    "sg:postcode":"44062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "processing",
-        "datum"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 632 5545",
+    "sg:postcode": "44062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "processing",
+      "datum"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0TUjZRJxepgoy0olhDDp18_41.443915_-81.031210@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0TUjZRJxepgoy0olhDDp18_41.443915_-81.031210@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799398,
-    "wof:geomhash":"48456786404bfce7830ed9c33b7abda2",
-    "wof:hierarchy":[],
-    "wof:id":706259785,
-    "wof:lastmodified":1472639630,
-    "wof:name":"Monitor Data System",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "processing",
-        "datum"
+    "wof:country": "US",
+    "wof:created": 1461799398,
+    "wof:geomhash": "d09ba162512a161122a7042180b8f94f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706259785
+      }
+    ],
+    "wof:id": 706259785,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Monitor Data System",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "processing",
+      "datum"
     ]
-},
+  },
   "bbox": [
     -81.03121,
     41.443915,
     -81.03121,
     41.443915
-],
+  ],
   "geometry": {"coordinates":[-81.03121,41.443915],"type":"Point"}
 }

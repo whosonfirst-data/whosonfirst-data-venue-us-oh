@@ -2,63 +2,67 @@
   "id": 706112653,
   "type": "Feature",
   "properties": {
-    "addr:full":"27100 Chardon Rd Cleveland OH 44143",
-    "addr:housenumber":"27100",
-    "addr:postcode":"44143",
-    "addr:street":"Chardon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.488218,41.582047,-81.488218,41.582047",
-    "geom:latitude":41.582047,
-    "geom:longitude":-81.488218,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"27100 Chardon Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "27100 Chardon Rd Cleveland OH 44143",
+    "addr:housenumber": "27100",
+    "addr:postcode": "44143",
+    "addr:street": "Chardon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.488218,41.582047,-81.488218,41.582047",
+    "geom:latitude": 41.582047,
+    "geom:longitude": -81.488218,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "27100 Chardon Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 791 0017",
-    "sg:postcode":"44143",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 791 0017",
+    "sg:postcode": "44143",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0zl5mccOhPDpEYbqFBvm8P_41.582047_-81.488218@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0zl5mccOhPDpEYbqFBvm8P_41.582047_-81.488218@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796064,
-    "wof:geomhash":"90b3139ed26afe17b744ed400d5479b8",
-    "wof:hierarchy":[],
-    "wof:id":706112653,
-    "wof:lastmodified":1472639301,
-    "wof:name":"Faith Medical Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461796064,
+    "wof:geomhash": "8caa2ed04dd3c1555b7a94e3e07e0165",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706112653
+      }
+    ],
+    "wof:id": 706112653,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Faith Medical Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.488218,
     41.582047,
     -81.488218,
     41.582047
-],
+  ],
   "geometry": {"coordinates":[-81.488218,41.582047],"type":"Point"}
 }

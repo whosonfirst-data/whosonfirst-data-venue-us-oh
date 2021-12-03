@@ -2,68 +2,72 @@
   "id": 706623499,
   "type": "Feature",
   "properties": {
-    "addr:full":"452 Overlook Rd Mansfield OH 44907",
-    "addr:housenumber":"452",
-    "addr:postcode":"44907",
-    "addr:street":"Overlook Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.531497,40.740627,-82.531497,40.740627",
-    "geom:latitude":40.740627,
-    "geom:longitude":-82.531497,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"452 Overlook Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "452 Overlook Rd Mansfield OH 44907",
+    "addr:housenumber": "452",
+    "addr:postcode": "44907",
+    "addr:street": "Overlook Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.531497,40.740627,-82.531497,40.740627",
+    "geom:latitude": 40.740627,
+    "geom:longitude": -82.531497,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "452 Overlook Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 775 1127",
-    "sg:postcode":"44907",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop",
-        "espresso"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 775 1127",
+    "sg:postcode": "44907",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop",
+      "espresso"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1VLLxCLT2KgGR4UlOK0c0P_40.740627_-82.531497@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1VLLxCLT2KgGR4UlOK0c0P_40.740627_-82.531497@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807223,
-    "wof:geomhash":"1fc22fb987a763162433dad2e3319f99",
-    "wof:hierarchy":[],
-    "wof:id":706623499,
-    "wof:lastmodified":1472640239,
-    "wof:name":"City Perks Coffee Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "espresso"
+    "wof:country": "US",
+    "wof:created": 1461807223,
+    "wof:geomhash": "10ac1b0d225b3058e12a6f949497512c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706623499
+      }
+    ],
+    "wof:id": 706623499,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "City Perks Coffee Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "espresso"
     ]
-},
+  },
   "bbox": [
     -82.531497,
     40.740627,
     -82.531497,
     40.740627
-],
+  ],
   "geometry": {"coordinates":[-82.531497,40.740627],"type":"Point"}
 }

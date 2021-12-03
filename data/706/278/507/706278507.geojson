@@ -2,61 +2,65 @@
   "id": 706278507,
   "type": "Feature",
   "properties": {
-    "addr:full":"310 Church St Lodi OH 44254",
-    "addr:housenumber":"310",
-    "addr:postcode":"44254",
-    "addr:street":"Church St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.009186,41.035544,-82.009186,41.035544",
-    "geom:latitude":41.035544,
-    "geom:longitude":-82.009186,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"310 Church St",
-    "sg:city":"Lodi",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Plumbing",
-            "type":"Services"
-        }
+    "addr:full": "310 Church St Lodi OH 44254",
+    "addr:housenumber": "310",
+    "addr:postcode": "44254",
+    "addr:street": "Church St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.009186,41.035544,-82.009186,41.035544",
+    "geom:latitude": 41.035544,
+    "geom:longitude": -82.009186,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "310 Church St",
+    "sg:city": "Lodi",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 948 5317",
-    "sg:postcode":"44254",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 948 5317",
+    "sg:postcode": "44254",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3VuWNPxAiyrXbbge90qrA9_41.035544_-82.009186@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3VuWNPxAiyrXbbge90qrA9_41.035544_-82.009186@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799819,
-    "wof:geomhash":"529827544ed4d2eaf59239bfab47bb9a",
-    "wof:hierarchy":[],
-    "wof:id":706278507,
-    "wof:lastmodified":1472639636,
-    "wof:name":"Ward Heating Cooling Ltd",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461799819,
+    "wof:geomhash": "2cd731b5d60d80ecb370439a48a05fed",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706278507
+      }
+    ],
+    "wof:id": 706278507,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Ward Heating Cooling Ltd",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -82.009186,
     41.035544,
     -82.009186,
     41.035544
-],
+  ],
   "geometry": {"coordinates":[-82.009186,41.035544],"type":"Point"}
 }

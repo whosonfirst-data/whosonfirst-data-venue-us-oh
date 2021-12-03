@@ -2,61 +2,65 @@
   "id": 689894615,
   "type": "Feature",
   "properties": {
-    "addr:full":"2355 Ada Rd Lima OH 45801",
-    "addr:housenumber":"2355",
-    "addr:postcode":"45801",
-    "addr:street":"Ada Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.059685,40.758011,-84.059685,40.758011",
-    "geom:latitude":40.758011,
-    "geom:longitude":-84.059685,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2355 Ada Rd",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"Amusement Park",
-            "type":"Entertainment"
-        }
+    "addr:full": "2355 Ada Rd Lima OH 45801",
+    "addr:housenumber": "2355",
+    "addr:postcode": "45801",
+    "addr:street": "Ada Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.059685,40.758011,-84.059685,40.758011",
+    "geom:latitude": 40.758011,
+    "geom:longitude": -84.059685,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2355 Ada Rd",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Amusement Park",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 221 1232",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "park"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 221 1232",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "park"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3o9KHezarQQIjc7msXYez4_40.758011_-84.059685@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3o9KHezarQQIjc7msXYez4_40.758011_-84.059685@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784431,
-    "wof:geomhash":"d885ed0f68dea71c0abd2608053def90",
-    "wof:hierarchy":[],
-    "wof:id":689894615,
-    "wof:lastmodified":1472640053,
-    "wof:name":"Johnny Appleseed Park Distirct",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "park"
+    "wof:country": "US",
+    "wof:created": 1461784431,
+    "wof:geomhash": "161439d7908fab0dc5ab6697332c4a3c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689894615
+      }
+    ],
+    "wof:id": 689894615,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Johnny Appleseed Park Distirct",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "park"
     ]
-},
+  },
   "bbox": [
     -84.059685,
     40.758011,
     -84.059685,
     40.758011
-],
+  ],
   "geometry": {"coordinates":[-84.059685,40.758011],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706225225,
   "type": "Feature",
   "properties": {
-    "addr:full":"1071 N 5th St Fremont OH 43420",
-    "addr:housenumber":"1071",
-    "addr:postcode":"43420",
-    "addr:street":"N 5Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.090946,41.359816,-83.090946,41.359816",
-    "geom:latitude":41.359816,
-    "geom:longitude":-83.090946,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1071 N 5th St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "1071 N 5th St Fremont OH 43420",
+    "addr:housenumber": "1071",
+    "addr:postcode": "43420",
+    "addr:street": "N 5Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.090946,41.359816,-83.090946,41.359816",
+    "geom:latitude": 41.359816,
+    "geom:longitude": -83.090946,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1071 N 5th St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 8089",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "job"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 8089",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "job"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6CMAHInyHLgrhSnIWmVa3X_41.359816_-83.090946@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6CMAHInyHLgrhSnIWmVa3X_41.359816_-83.090946@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798610,
-    "wof:geomhash":"182f133e08ef6934fb66e313d30bc18a",
-    "wof:hierarchy":[],
-    "wof:id":706225225,
-    "wof:lastmodified":1472639517,
-    "wof:name":"Trips",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "job"
+    "wof:country": "US",
+    "wof:created": 1461798610,
+    "wof:geomhash": "7019e58caaf917b29b3368fe92e93ab4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706225225
+      }
+    ],
+    "wof:id": 706225225,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Trips",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "job"
     ]
-},
+  },
   "bbox": [
     -83.090946,
     41.359816,
     -83.090946,
     41.359816
-],
+  ],
   "geometry": {"coordinates":[-83.090946,41.359816],"type":"Point"}
 }

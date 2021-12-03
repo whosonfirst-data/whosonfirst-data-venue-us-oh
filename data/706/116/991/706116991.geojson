@@ -2,61 +2,65 @@
   "id": 706116991,
   "type": "Feature",
   "properties": {
-    "addr:full":"255 W McCauley Dr Uhrichsville OH 44683",
-    "addr:housenumber":"255",
-    "addr:postcode":"44683",
-    "addr:street":"W Mccauley Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.352655,40.410512,-81.352655,40.410512",
-    "geom:latitude":40.410512,
-    "geom:longitude":-81.352655,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"255 W McCauley Dr",
-    "sg:city":"Uhrichsville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "255 W McCauley Dr Uhrichsville OH 44683",
+    "addr:housenumber": "255",
+    "addr:postcode": "44683",
+    "addr:street": "W Mccauley Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.352655,40.410512,-81.352655,40.410512",
+    "geom:latitude": 40.410512,
+    "geom:longitude": -81.352655,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "255 W McCauley Dr",
+    "sg:city": "Uhrichsville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 922 0915",
-    "sg:postcode":"44683",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 922 0915",
+    "sg:postcode": "44683",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2OgHDISi937ukQBmEjs0j5_40.410512_-81.352655@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2OgHDISi937ukQBmEjs0j5_40.410512_-81.352655@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796196,
-    "wof:geomhash":"07208d2644f38289900f64e0dc6de391",
-    "wof:hierarchy":[],
-    "wof:id":706116991,
-    "wof:lastmodified":1472639320,
-    "wof:name":"Lucky Wok",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461796196,
+    "wof:geomhash": "8c70e3b7afacc738d30940dd2c9a064c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706116991
+      }
+    ],
+    "wof:id": 706116991,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Lucky Wok",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.352655,
     40.410512,
     -81.352655,
     40.410512
-],
+  ],
   "geometry": {"coordinates":[-81.352655,40.410512],"type":"Point"}
 }

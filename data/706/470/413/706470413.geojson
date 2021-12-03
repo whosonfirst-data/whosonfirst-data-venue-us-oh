@@ -2,61 +2,65 @@
   "id": 706470413,
   "type": "Feature",
   "properties": {
-    "addr:full":"52937 Co Rd 16 West Lafayette OH 43845",
-    "addr:housenumber":"52937;16",
-    "addr:postcode":"43845",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.76558,40.277771,-81.76558,40.277771",
-    "geom:latitude":40.277771,
-    "geom:longitude":-81.76558,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"52937 Co Rd 16",
-    "sg:city":"West Lafayette",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "52937 Co Rd 16 West Lafayette OH 43845",
+    "addr:housenumber": "52937;16",
+    "addr:postcode": "43845",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.765580,40.277771,-81.765580,40.277771",
+    "geom:latitude": 40.277771,
+    "geom:longitude": -81.76558,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "52937 Co Rd 16",
+    "sg:city": "West Lafayette",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 545 9010",
-    "sg:postcode":"43845",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 545 9010",
+    "sg:postcode": "43845",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xRiCI94IZW0idGMN2jBii_40.277771_-81.765580@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xRiCI94IZW0idGMN2jBii_40.277771_-81.765580@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803853,
-    "wof:geomhash":"d95556efa89f28f60c9a34c4ce0dd07c",
-    "wof:hierarchy":[],
-    "wof:id":706470413,
-    "wof:lastmodified":1472640085,
-    "wof:name":"Schrickel Phillip B DC",
-    "wof:parent_id":420534607,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461803853,
+    "wof:geomhash": "a1fa8e837d2a96960aa14e1fe0bd9c88",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706470413
+      }
+    ],
+    "wof:id": 706470413,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "Schrickel Phillip B DC",
+    "wof:parent_id": 420534607,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -81.76558,
     40.277771,
     -81.76558,
     40.277771
-],
+  ],
   "geometry": {"coordinates":[-81.76558,40.277771],"type":"Point"}
 }

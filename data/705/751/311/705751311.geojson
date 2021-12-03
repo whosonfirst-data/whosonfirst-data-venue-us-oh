@@ -2,63 +2,67 @@
   "id": 705751311,
   "type": "Feature",
   "properties": {
-    "addr:full":"1908 Glen Springs Dr Fremont OH 43420",
-    "addr:housenumber":"1908",
-    "addr:postcode":"43420",
-    "addr:street":"Glen Springs Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.13536,41.33891,-83.13536,41.33891",
-    "geom:latitude":41.33891,
-    "geom:longitude":-83.13536,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1908 Glen Springs Dr",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1908 Glen Springs Dr Fremont OH 43420",
+    "addr:housenumber": "1908",
+    "addr:postcode": "43420",
+    "addr:street": "Glen Springs Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.135360,41.338910,-83.135360,41.338910",
+    "geom:latitude": 41.33891,
+    "geom:longitude": -83.13536,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1908 Glen Springs Dr",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 4778",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 4778",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3vuOfDGcjDUE3TrFzLQMDq_41.338910_-83.135360@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3vuOfDGcjDUE3TrFzLQMDq_41.338910_-83.135360@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787874,
-    "wof:geomhash":"aa84cc80043f6e99cc06cac213ee1768",
-    "wof:hierarchy":[],
-    "wof:id":705751311,
-    "wof:lastmodified":1472639173,
-    "wof:name":"Ralph W Peters MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461787874,
+    "wof:geomhash": "5f184ed23e7b771498ef151956acc0a8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705751311
+      }
+    ],
+    "wof:id": 705751311,
+    "wof:lastmodified": 1638566965,
+    "wof:name": "Ralph W Peters MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.13536,
     41.33891,
     -83.13536,
     41.33891
-],
-  "geometry": {"coordinates":[-83.13536000000001,41.33891],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.13536,41.33891],"type":"Point"}
 }

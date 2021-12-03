@@ -2,61 +2,65 @@
   "id": 705913171,
   "type": "Feature",
   "properties": {
-    "addr:full":"7000 Manchester Rd Canal Fulton OH 44614",
-    "addr:housenumber":"7000",
-    "addr:postcode":"44614",
-    "addr:street":"Manchester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.564281,40.91254,-81.564281,40.91254",
-    "geom:latitude":40.91254,
-    "geom:longitude":-81.564281,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7000 Manchester Rd",
-    "sg:city":"Canal Fulton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "7000 Manchester Rd Canal Fulton OH 44614",
+    "addr:housenumber": "7000",
+    "addr:postcode": "44614",
+    "addr:street": "Manchester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.564281,40.912540,-81.564281,40.912540",
+    "geom:latitude": 40.91254,
+    "geom:longitude": -81.564281,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7000 Manchester Rd",
+    "sg:city": "Canal Fulton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 882 8123",
-    "sg:postcode":"44614",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 882 8123",
+    "sg:postcode": "44614",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6uNUpOmMt5EvTBTW2MREjD_40.912540_-81.564281@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6uNUpOmMt5EvTBTW2MREjD_40.912540_-81.564281@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791702,
-    "wof:geomhash":"c13604e2f19ede8affa139129767b324",
-    "wof:hierarchy":[],
-    "wof:id":705913171,
-    "wof:lastmodified":1472639599,
-    "wof:name":"Rick Yant Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461791702,
+    "wof:geomhash": "c44491a71a383e82865f71686e3dd48a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705913171
+      }
+    ],
+    "wof:id": 705913171,
+    "wof:lastmodified": 1638567038,
+    "wof:name": "Rick Yant Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -81.564281,
     40.91254,
     -81.564281,
     40.91254
-],
-  "geometry": {"coordinates":[-81.56428099999999,40.91254],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.564281,40.91254],"type":"Point"}
 }

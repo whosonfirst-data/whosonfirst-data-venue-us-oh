@@ -2,61 +2,65 @@
   "id": 706642549,
   "type": "Feature",
   "properties": {
-    "addr:full":"8315 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"8315",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.322197,39.072399,-84.322197,39.072399",
-    "geom:latitude":39.072399,
-    "geom:longitude":-84.322197,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8315 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Community Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "8315 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "8315",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.322197,39.072399,-84.322197,39.072399",
+    "geom:latitude": 39.072399,
+    "geom:longitude": -84.322197,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8315 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 923 4999",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 923 4999",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1sbkjvLMWac049SNk14SLR_39.072399_-84.322197@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1sbkjvLMWac049SNk14SLR_39.072399_-84.322197@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807632,
-    "wof:geomhash":"ba5d11b60489b010e62cdce1e3496cc3",
-    "wof:hierarchy":[],
-    "wof:id":706642549,
-    "wof:lastmodified":1472640257,
-    "wof:name":"Beltone Hearing Care Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461807632,
+    "wof:geomhash": "f278881c3df1ddc19ed4554b7918b59c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642549
+      }
+    ],
+    "wof:id": 706642549,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Beltone Hearing Care Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -84.322197,
     39.072399,
     -84.322197,
     39.072399
-],
+  ],
   "geometry": {"coordinates":[-84.322197,39.072399],"type":"Point"}
 }

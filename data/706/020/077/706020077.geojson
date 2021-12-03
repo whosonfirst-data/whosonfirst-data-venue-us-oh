@@ -2,67 +2,71 @@
   "id": 706020077,
   "type": "Feature",
   "properties": {
-    "addr:full":"5 S Park Ave Lisbon OH 44432",
-    "addr:housenumber":"5",
-    "addr:postcode":"44432",
-    "addr:street":"S Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.767332,40.771734,-80.767332,40.771734",
-    "geom:latitude":40.771734,
-    "geom:longitude":-80.767332,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5 S Park Ave",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Rental",
-            "type":"Entertainment"
-        }
+    "addr:full": "5 S Park Ave Lisbon OH 44432",
+    "addr:housenumber": "5",
+    "addr:postcode": "44432",
+    "addr:street": "S Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.767332,40.771734,-80.767332,40.771734",
+    "geom:latitude": 40.771734,
+    "geom:longitude": -80.767332,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5 S Park Ave",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Rental",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 0511",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "leasing",
-        "video",
-        "disc",
-        "tape"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 0511",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "leasing",
+      "video",
+      "disc",
+      "tape"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wtRi0cTI1T64oA76eyIkE_40.771734_-80.767332@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0wtRi0cTI1T64oA76eyIkE_40.771734_-80.767332@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794012,
-    "wof:geomhash":"a1c50ad533d4c6d2b579322d0f72e903",
-    "wof:hierarchy":[],
-    "wof:id":706020077,
-    "wof:lastmodified":1472638604,
-    "wof:name":"Park Avenue Video",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "leasing",
-        "video",
-        "disc",
-        "tape"
+    "wof:country": "US",
+    "wof:created": 1461794012,
+    "wof:geomhash": "f0a4416b054bfb328c826b2bfe0030fc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706020077
+      }
+    ],
+    "wof:id": 706020077,
+    "wof:lastmodified": 1638566943,
+    "wof:name": "Park Avenue Video",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "leasing",
+      "video",
+      "disc",
+      "tape"
     ]
-},
+  },
   "bbox": [
     -80.767332,
     40.771734,
     -80.767332,
     40.771734
-],
+  ],
   "geometry": {"coordinates":[-80.767332,40.771734],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705928261,
   "type": "Feature",
   "properties": {
-    "addr:full":"531 E Smith Rd Medina OH 44256",
-    "addr:housenumber":"531",
-    "addr:postcode":"44256",
-    "addr:street":"E Smith Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.855312,41.13634,-81.855312,41.13634",
-    "geom:latitude":41.13634,
-    "geom:longitude":-81.855312,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"531 E Smith Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "531 E Smith Rd Medina OH 44256",
+    "addr:housenumber": "531",
+    "addr:postcode": "44256",
+    "addr:street": "E Smith Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.855312,41.136340,-81.855312,41.136340",
+    "geom:latitude": 41.13634,
+    "geom:longitude": -81.855312,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "531 E Smith Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 725 0455",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 725 0455",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6HEGTV5ApFTu4SYvtvm5ns_41.136340_-81.855312@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6HEGTV5ApFTu4SYvtvm5ns_41.136340_-81.855312@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792020,
-    "wof:geomhash":"5d28c25eb1f13a74cf5568ff4488fa60",
-    "wof:hierarchy":[],
-    "wof:id":705928261,
-    "wof:lastmodified":1472639654,
-    "wof:name":"Robert E Geary DDS Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461792020,
+    "wof:geomhash": "a34c49c901e2844a9914d15617a9d6cf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705928261
+      }
+    ],
+    "wof:id": 705928261,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Robert E Geary DDS Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.855312,
     41.13634,
     -81.855312,
     41.13634
-],
+  ],
   "geometry": {"coordinates":[-81.855312,41.13634],"type":"Point"}
 }

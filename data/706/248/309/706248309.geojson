@@ -2,61 +2,65 @@
   "id": 706248309,
   "type": "Feature",
   "properties": {
-    "addr:full":"221 W Rosewood Ave Defiance OH 43512",
-    "addr:housenumber":"221",
-    "addr:postcode":"43512",
-    "addr:street":"W Rosewood Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.363742,41.258423,-84.363742,41.258423",
-    "geom:latitude":41.258423,
-    "geom:longitude":-84.363742,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"221 W Rosewood Ave",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "221 W Rosewood Ave Defiance OH 43512",
+    "addr:housenumber": "221",
+    "addr:postcode": "43512",
+    "addr:street": "W Rosewood Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.363742,41.258423,-84.363742,41.258423",
+    "geom:latitude": 41.258423,
+    "geom:longitude": -84.363742,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "221 W Rosewood Ave",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 782 7880",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 782 7880",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7euSlzbkc6nYo7uIuotmjU_41.258423_-84.363742@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7euSlzbkc6nYo7uIuotmjU_41.258423_-84.363742@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799157,
-    "wof:geomhash":"ff0cc7ae8007536244597b57a372a903",
-    "wof:hierarchy":[],
-    "wof:id":706248309,
-    "wof:lastmodified":1472639575,
-    "wof:name":"Pizzos Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461799157,
+    "wof:geomhash": "2758927c899bb2d7b93f789738046265",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706248309
+      }
+    ],
+    "wof:id": 706248309,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Pizzos Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.363742,
     41.258423,
     -84.363742,
     41.258423
-],
+  ],
   "geometry": {"coordinates":[-84.363742,41.258423],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689581295,
   "type": "Feature",
   "properties": {
-    "addr:full":"122 W North St Lima OH 45801",
-    "addr:housenumber":"122",
-    "addr:postcode":"45801",
-    "addr:street":"W North St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.1056,40.742814,-84.1056,40.742814",
-    "geom:latitude":40.742814,
-    "geom:longitude":-84.1056,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"122 W North St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "122 W North St Lima OH 45801",
+    "addr:housenumber": "122",
+    "addr:postcode": "45801",
+    "addr:street": "W North St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.105600,40.742814,-84.105600,40.742814",
+    "geom:latitude": 40.742814,
+    "geom:longitude": -84.1056,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "122 W North St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 223 7926",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 223 7926",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2c6bs65uRu2ElizYMXCH3a_40.742814_-84.105600@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2c6bs65uRu2ElizYMXCH3a_40.742814_-84.105600@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775655,
-    "wof:geomhash":"1dd27e7f7a13efc92330d822fd43c181",
-    "wof:hierarchy":[],
-    "wof:id":689581295,
-    "wof:lastmodified":1472639333,
-    "wof:name":"Ohio Room",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461775655,
+    "wof:geomhash": "8871c8be0aadfb31af3adfa38ecc3444",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689581295
+      }
+    ],
+    "wof:id": 689581295,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Ohio Room",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -84.1056,
     40.742814,
     -84.1056,
     40.742814
-],
+  ],
   "geometry": {"coordinates":[-84.1056,40.742814],"type":"Point"}
 }

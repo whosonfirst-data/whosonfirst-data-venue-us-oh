@@ -2,69 +2,73 @@
   "id": 706583757,
   "type": "Feature",
   "properties": {
-    "addr:full":"654 Main St Cincinnati OH 45202",
-    "addr:housenumber":"654",
-    "addr:postcode":"45202",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.51006,39.103992,-84.51006,39.103992",
-    "geom:latitude":39.103992,
-    "geom:longitude":-84.51006,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"654 Main St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "654 Main St Cincinnati OH 45202",
+    "addr:housenumber": "654",
+    "addr:postcode": "45202",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.510060,39.103992,-84.510060,39.103992",
+    "geom:latitude": 39.103992,
+    "geom:longitude": -84.51006,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "654 Main St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/cincinnati/90145-penn-station/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 621 7366",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/cincinnati/90145-penn-station/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 621 7366",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125150445,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_66eyJiXMZokoSZVO03meKj_39.104134_-84.510317@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125150445,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_66eyJiXMZokoSZVO03meKj_39.104134_-84.510317@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806396,
-    "wof:geomhash":"cdc5e577844ae2b7a8f21be9d324c33f",
-    "wof:hierarchy":[],
-    "wof:id":706583757,
-    "wof:lastmodified":1510697658,
-    "wof:name":"Penn Station",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806396,
+    "wof:geomhash": "cdc5e577844ae2b7a8f21be9d324c33f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706583757
+      }
+    ],
+    "wof:id": 706583757,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Penn Station",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -84.51006,
     39.103992,
     -84.51006,
     39.103992
-],
+  ],
   "geometry": {"coordinates":[-84.51006,39.103992],"type":"Point"}
 }

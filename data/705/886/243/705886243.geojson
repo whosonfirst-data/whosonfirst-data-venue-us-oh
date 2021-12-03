@@ -2,64 +2,68 @@
   "id": 705886243,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Union St Mt Pleasant OH 43939",
-    "addr:housenumber":"123",
-    "addr:postcode":"43939",
-    "addr:street":"Union St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.79631,40.175889,-80.79631,40.175889",
-    "geom:latitude":40.175889,
-    "geom:longitude":-80.79631,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"123 Union St",
-    "sg:city":"Mt Pleasant",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "123 Union St Mt Pleasant OH 43939",
+    "addr:housenumber": "123",
+    "addr:postcode": "43939",
+    "addr:street": "Union St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.796310,40.175889,-80.796310,40.175889",
+    "geom:latitude": 40.175889,
+    "geom:longitude": -80.79631,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "123 Union St",
+    "sg:city": "Mt Pleasant",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 769 7510",
-    "sg:postcode":"43939",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 769 7510",
+    "sg:postcode": "43939",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125148957,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7fd79SMYdgMXh45SRF8Py9_40.175889_-80.796310@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125148957,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7fd79SMYdgMXh45SRF8Py9_40.175889_-80.796310@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791084,
-    "wof:geomhash":"3178955d73773e195616c7d772c78986",
-    "wof:hierarchy":[],
-    "wof:id":705886243,
-    "wof:lastmodified":1511318619,
-    "wof:name":"Presbyterian Church",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461791084,
+    "wof:geomhash": "3178955d73773e195616c7d772c78986",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705886243
+      }
+    ],
+    "wof:id": 705886243,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Presbyterian Church",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -80.79631,
     40.175889,
     -80.79631,
     40.175889
-],
-  "geometry": {"coordinates":[-80.79631000000001,40.175889],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.79631,40.175889],"type":"Point"}
 }

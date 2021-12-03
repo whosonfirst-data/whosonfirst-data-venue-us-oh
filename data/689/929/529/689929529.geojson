@@ -2,61 +2,65 @@
   "id": 689929529,
   "type": "Feature",
   "properties": {
-    "addr:full":"4766 State Rte 39 Berlin OH 44615",
-    "addr:housenumber":"4766",
-    "addr:postcode":"44615",
-    "addr:street":"State Rte 39",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.00414,40.603289,-81.00414,40.603289",
-    "geom:latitude":40.603289,
-    "geom:longitude":-81.00414,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4766 State Rte 39",
-    "sg:city":"Berlin",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4766 State Rte 39 Berlin OH 44615",
+    "addr:housenumber": "4766",
+    "addr:postcode": "44615",
+    "addr:street": "State Rte 39",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.004140,40.603289,-81.004140,40.603289",
+    "geom:latitude": 40.603289,
+    "geom:longitude": -81.00414,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4766 State Rte 39",
+    "sg:city": "Berlin",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 893 3365",
-    "sg:postcode":"44615",
-    "sg:province":"OH",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 893 3365",
+    "sg:postcode": "44615",
+    "sg:province": "OH",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0eXhNGcDgCZUt8JjnNYrsk_40.603289_-81.004140@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0eXhNGcDgCZUt8JjnNYrsk_40.603289_-81.004140@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785353,
-    "wof:geomhash":"0016c6ddaee3ab2ea1a0c2e291da2e87",
-    "wof:hierarchy":[],
-    "wof:id":689929529,
-    "wof:lastmodified":1472640080,
-    "wof:name":"Der Bake Oven II",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:country": "US",
+    "wof:created": 1461785353,
+    "wof:geomhash": "68e8f1662c9cf352dbcc1e95ee73d0c6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689929529
+      }
+    ],
+    "wof:id": 689929529,
+    "wof:lastmodified": 1638567108,
+    "wof:name": "Der Bake Oven II",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -81.00414,
     40.603289,
     -81.00414,
     40.603289
-],
-  "geometry": {"coordinates":[-81.00414000000001,40.603289],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.00414,40.603289],"type":"Point"}
 }

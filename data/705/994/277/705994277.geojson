@@ -2,64 +2,68 @@
   "id": 705994277,
   "type": "Feature",
   "properties": {
-    "addr:full":"3846 Linden Ave Dayton OH 45432",
-    "addr:housenumber":"3846",
-    "addr:postcode":"45432",
-    "addr:street":"Linden Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.1268,39.746958,-84.1268,39.746958",
-    "geom:latitude":39.746958,
-    "geom:longitude":-84.1268,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3846 Linden Ave",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3846 Linden Ave Dayton OH 45432",
+    "addr:housenumber": "3846",
+    "addr:postcode": "45432",
+    "addr:street": "Linden Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.126800,39.746958,-84.126800,39.746958",
+    "geom:latitude": 39.746958,
+    "geom:longitude": -84.1268,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3846 Linden Ave",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 000 1111",
-    "sg:postcode":"45432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 000 1111",
+    "sg:postcode": "45432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574567,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3IUWB21LXEFBmMmK2qEbUJ_39.746958_-84.126800@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574567,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3IUWB21LXEFBmMmK2qEbUJ_39.746958_-84.126800@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793450,
-    "wof:geomhash":"580e758865899659ef29cde6fb8e60a8",
-    "wof:hierarchy":[],
-    "wof:id":705994277,
-    "wof:lastmodified":1511324309,
-    "wof:name":"Aldi",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461793450,
+    "wof:geomhash": "580e758865899659ef29cde6fb8e60a8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705994277
+      }
+    ],
+    "wof:id": 705994277,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Aldi",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -84.1268,
     39.746958,
     -84.1268,
     39.746958
-],
+  ],
   "geometry": {"coordinates":[-84.1268,39.746958],"type":"Point"}
 }

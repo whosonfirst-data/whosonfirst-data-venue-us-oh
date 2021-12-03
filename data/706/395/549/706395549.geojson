@@ -2,61 +2,65 @@
   "id": 706395549,
   "type": "Feature",
   "properties": {
-    "addr:full":"38 S Aurora Rd Aurora OH 44202",
-    "addr:housenumber":"38",
-    "addr:postcode":"44202",
-    "addr:street":"S Aurora Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.349129,41.316523,-81.349129,41.316523",
-    "geom:latitude":41.316523,
-    "geom:longitude":-81.349129,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"38 S Aurora Rd",
-    "sg:city":"Aurora",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "38 S Aurora Rd Aurora OH 44202",
+    "addr:housenumber": "38",
+    "addr:postcode": "44202",
+    "addr:street": "S Aurora Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.349129,41.316523,-81.349129,41.316523",
+    "geom:latitude": 41.316523,
+    "geom:longitude": -81.349129,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "38 S Aurora Rd",
+    "sg:city": "Aurora",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 995 0726",
-    "sg:postcode":"44202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manicuring"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 995 0726",
+    "sg:postcode": "44202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manicuring"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_75PNHhvdv4pPLlNHK3u6WJ_41.316523_-81.349129@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_75PNHhvdv4pPLlNHK3u6WJ_41.316523_-81.349129@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802312,
-    "wof:geomhash":"78803bdb042fc6dbfab1cbb0757a067f",
-    "wof:hierarchy":[],
-    "wof:id":706395549,
-    "wof:lastmodified":1472639981,
-    "wof:name":"Asian Nails",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manicuring"
+    "wof:country": "US",
+    "wof:created": 1461802312,
+    "wof:geomhash": "8333e19ed4774ebbe65cb0bb8b1317c3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706395549
+      }
+    ],
+    "wof:id": 706395549,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Asian Nails",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manicuring"
     ]
-},
+  },
   "bbox": [
     -81.349129,
     41.316523,
     -81.349129,
     41.316523
-],
+  ],
   "geometry": {"coordinates":[-81.349129,41.316523],"type":"Point"}
 }

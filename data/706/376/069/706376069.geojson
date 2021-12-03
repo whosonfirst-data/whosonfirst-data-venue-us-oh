@@ -2,74 +2,78 @@
   "id": 706376069,
   "type": "Feature",
   "properties": {
-    "addr:full":"2116 Candlewick Dr Findlay OH 45840",
-    "addr:housenumber":"2116",
-    "addr:postcode":"45840",
-    "addr:street":"Candlewick Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.646222,41.063986,-83.646222,41.063986",
-    "geom:latitude":41.063986,
-    "geom:longitude":-83.646222,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2116 Candlewick Dr",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "2116 Candlewick Dr Findlay OH 45840",
+    "addr:housenumber": "2116",
+    "addr:postcode": "45840",
+    "addr:street": "Candlewick Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.646222,41.063986,-83.646222,41.063986",
+    "geom:latitude": 41.063986,
+    "geom:longitude": -83.646222,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2116 Candlewick Dr",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 424 1818",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "garbage",
-        "collection",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 424 1818",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "garbage",
+      "collection",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ecSaFfooxZVWuihOgjsh7_41.063986_-83.646222@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ecSaFfooxZVWuihOgjsh7_41.063986_-83.646222@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801924,
-    "wof:geomhash":"aa5cacc61e2933015c402c8d6415665d",
-    "wof:hierarchy":[],
-    "wof:id":706376069,
-    "wof:lastmodified":1472639940,
-    "wof:name":"Dave's Hauling",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "garbage",
-        "collection",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461801924,
+    "wof:geomhash": "0a67a1dadac31d65357dc1e1f4af1e22",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706376069
+      }
+    ],
+    "wof:id": 706376069,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Dave's Hauling",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "garbage",
+      "collection",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.646222,
     41.063986,
     -83.646222,
     41.063986
-],
-  "geometry": {"coordinates":[-83.64622199999999,41.063986],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.646222,41.063986],"type":"Point"}
 }

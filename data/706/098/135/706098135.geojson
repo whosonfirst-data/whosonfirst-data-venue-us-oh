@@ -2,61 +2,65 @@
   "id": 706098135,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 S Main St New Lexington OH 43764",
-    "addr:housenumber":"123",
-    "addr:postcode":"43764",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.207544,39.713859,-82.207544,39.713859",
-    "geom:latitude":39.713859,
-    "geom:longitude":-82.207544,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 S Main St",
-    "sg:city":"New Lexington",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Insurance Agent",
-            "type":"Services"
-        }
+    "addr:full": "123 S Main St New Lexington OH 43764",
+    "addr:housenumber": "123",
+    "addr:postcode": "43764",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.207544,39.713859,-82.207544,39.713859",
+    "geom:latitude": 39.713859,
+    "geom:longitude": -82.207544,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 S Main St",
+    "sg:city": "New Lexington",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Insurance Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 342 3163",
-    "sg:postcode":"43764",
-    "sg:province":"OH",
-    "sg:tags":[
-        "real estate"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 342 3163",
+    "sg:postcode": "43764",
+    "sg:province": "OH",
+    "sg:tags": [
+      "real estate"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4D45DyqGM5QWAcnsXuDQfd_39.713859_-82.207544@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4D45DyqGM5QWAcnsXuDQfd_39.713859_-82.207544@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795739,
-    "wof:geomhash":"b254357298cad7be9d0636aae976402e",
-    "wof:hierarchy":[],
-    "wof:id":706098135,
-    "wof:lastmodified":1472639236,
-    "wof:name":"Ogden Real Estate",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "real estate"
+    "wof:country": "US",
+    "wof:created": 1461795739,
+    "wof:geomhash": "5dcc142dd571a3a48e41049f678ba2bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706098135
+      }
+    ],
+    "wof:id": 706098135,
+    "wof:lastmodified": 1638566986,
+    "wof:name": "Ogden Real Estate",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "real estate"
     ]
-},
+  },
   "bbox": [
     -82.207544,
     39.713859,
     -82.207544,
     39.713859
-],
+  ],
   "geometry": {"coordinates":[-82.207544,39.713859],"type":"Point"}
 }

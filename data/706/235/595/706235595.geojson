@@ -2,61 +2,65 @@
   "id": 706235595,
   "type": "Feature",
   "properties": {
-    "addr:full":"12725 Wolcott Rd St Paris OH 43072",
-    "addr:housenumber":"12725",
-    "addr:postcode":"43072",
-    "addr:street":"Wolcott Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.01004,40.119889,-84.01004,40.119889",
-    "geom:latitude":40.119889,
-    "geom:longitude":-84.01004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12725 Wolcott Rd",
-    "sg:city":"St Paris",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "12725 Wolcott Rd St Paris OH 43072",
+    "addr:housenumber": "12725",
+    "addr:postcode": "43072",
+    "addr:street": "Wolcott Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.010040,40.119889,-84.010040,40.119889",
+    "geom:latitude": 40.119889,
+    "geom:longitude": -84.01004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12725 Wolcott Rd",
+    "sg:city": "St Paris",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 663 5803",
-    "sg:postcode":"43072",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 663 5803",
+    "sg:postcode": "43072",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4JrsdLfDJmZQBXgyf2Al9M_40.119889_-84.010040@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4JrsdLfDJmZQBXgyf2Al9M_40.119889_-84.010040@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798844,
-    "wof:geomhash":"089467c7de01a7b8e4ce1477d563b3e5",
-    "wof:hierarchy":[],
-    "wof:id":706235595,
-    "wof:lastmodified":1472639570,
-    "wof:name":"Grace Gospel Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461798844,
+    "wof:geomhash": "c9dbb097579786cd7cb8bfd6925e4d33",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706235595
+      }
+    ],
+    "wof:id": 706235595,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Grace Gospel Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.01004,
     40.119889,
     -84.01004,
     40.119889
-],
+  ],
   "geometry": {"coordinates":[-84.01004,40.119889],"type":"Point"}
 }

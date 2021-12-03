@@ -2,61 +2,65 @@
   "id": 689715803,
   "type": "Feature",
   "properties": {
-    "addr:full":"5244 Craig Ave NW Warren OH 44483",
-    "addr:housenumber":"5244",
-    "addr:postcode":"44483",
-    "addr:street":"Craig Ave Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.86582,41.297455,-80.86582,41.297455",
-    "geom:latitude":41.297455,
-    "geom:longitude":-80.86582,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5244 Craig Ave NW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "5244 Craig Ave NW Warren OH 44483",
+    "addr:housenumber": "5244",
+    "addr:postcode": "44483",
+    "addr:street": "Craig Ave Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.865820,41.297455,-80.865820,41.297455",
+    "geom:latitude": 41.297455,
+    "geom:longitude": -80.86582,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5244 Craig Ave NW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 847 6479",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 847 6479",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_71OMBKB5CaPdmMsTcOef5l_41.297455_-80.865820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_71OMBKB5CaPdmMsTcOef5l_41.297455_-80.865820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779547,
-    "wof:geomhash":"5aeb863f53aabe2a71db810a57c37770",
-    "wof:hierarchy":[],
-    "wof:id":689715803,
-    "wof:lastmodified":1472639729,
-    "wof:name":"Marcus C Grodi",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461779547,
+    "wof:geomhash": "0d80b28d2c66f5564eb8910bf3fbc20c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689715803
+      }
+    ],
+    "wof:id": 689715803,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Marcus C Grodi",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -80.86582,
     41.297455,
     -80.86582,
     41.297455
-],
+  ],
   "geometry": {"coordinates":[-80.86582,41.297455],"type":"Point"}
 }

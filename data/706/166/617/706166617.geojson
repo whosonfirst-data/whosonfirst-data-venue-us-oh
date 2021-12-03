@@ -2,61 +2,65 @@
   "id": 706166617,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Walnut St East Liverpool OH 43920",
-    "addr:housenumber":"500",
-    "addr:postcode":"43920",
-    "addr:street":"Walnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.576432,40.618666,-80.576432,40.618666",
-    "geom:latitude":40.618666,
-    "geom:longitude":-80.576432,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 Walnut St",
-    "sg:city":"East Liverpool",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "500 Walnut St East Liverpool OH 43920",
+    "addr:housenumber": "500",
+    "addr:postcode": "43920",
+    "addr:street": "Walnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.576432,40.618666,-80.576432,40.618666",
+    "geom:latitude": 40.618666,
+    "geom:longitude": -80.576432,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 Walnut St",
+    "sg:city": "East Liverpool",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 386 1170",
-    "sg:postcode":"43920",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 386 1170",
+    "sg:postcode": "43920",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2bZljksVXeIot0SIBaPl7p_40.618666_-80.576432@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2bZljksVXeIot0SIBaPl7p_40.618666_-80.576432@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797358,
-    "wof:geomhash":"96e3dab33108f79e45f8b7e7011c07ff",
-    "wof:hierarchy":[],
-    "wof:id":706166617,
-    "wof:lastmodified":1472639415,
-    "wof:name":"Bruno's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461797358,
+    "wof:geomhash": "2c842a19cd1a0986bcf72bbca65f28c6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706166617
+      }
+    ],
+    "wof:id": 706166617,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Bruno's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.576432,
     40.618666,
     -80.576432,
     40.618666
-],
+  ],
   "geometry": {"coordinates":[-80.576432,40.618666],"type":"Point"}
 }

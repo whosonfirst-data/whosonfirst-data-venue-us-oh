@@ -2,61 +2,65 @@
   "id": 706265057,
   "type": "Feature",
   "properties": {
-    "addr:full":"575 N Main St Marion OH 43302",
-    "addr:housenumber":"575",
-    "addr:postcode":"43302",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.129549,40.599358,-83.129549,40.599358",
-    "geom:latitude":40.599358,
-    "geom:longitude":-83.129549,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"575 N Main St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "575 N Main St Marion OH 43302",
+    "addr:housenumber": "575",
+    "addr:postcode": "43302",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.129549,40.599358,-83.129549,40.599358",
+    "geom:latitude": 40.599358,
+    "geom:longitude": -83.129549,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "575 N Main St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 382 5900",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 382 5900",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6DHhJb6CGKYAg1Jura5hhX_40.599358_-83.129549@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6DHhJb6CGKYAg1Jura5hhX_40.599358_-83.129549@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799503,
-    "wof:geomhash":"72e55bf0ac0ce078cf14b670b50b6cb2",
-    "wof:hierarchy":[],
-    "wof:id":706265057,
-    "wof:lastmodified":1472639598,
-    "wof:name":"Dew Drop Thru",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461799503,
+    "wof:geomhash": "ff13df63209fbd36aa56c69a159f4f65",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706265057
+      }
+    ],
+    "wof:id": 706265057,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Dew Drop Thru",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -83.129549,
     40.599358,
     -83.129549,
     40.599358
-],
+  ],
   "geometry": {"coordinates":[-83.129549,40.599358],"type":"Point"}
 }

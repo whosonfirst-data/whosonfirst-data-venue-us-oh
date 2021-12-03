@@ -2,60 +2,64 @@
   "id": 706554337,
   "type": "Feature",
   "properties": {
-    "addr:full":"1314 Michigan Ave Waterville OH 43566",
-    "addr:housenumber":"1314",
-    "addr:postcode":"43566",
-    "addr:street":"Michigan Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.736032,41.50338,-83.736032,41.50338",
-    "geom:latitude":41.50338,
-    "geom:longitude":-83.736032,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1314 Michigan Ave",
-    "sg:city":"Waterville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1314 Michigan Ave Waterville OH 43566",
+    "addr:housenumber": "1314",
+    "addr:postcode": "43566",
+    "addr:street": "Michigan Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.736032,41.503380,-83.736032,41.503380",
+    "geom:latitude": 41.50338,
+    "geom:longitude": -83.736032,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1314 Michigan Ave",
+    "sg:city": "Waterville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/waterville/255016-china-king/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 878 9088",
-    "sg:postcode":"43566",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125149037,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1YtxEaWAuaPtrV9wvJ8YhM_41.503380_-83.736032@1299784598"
+    "sg:menulink": "http://www.allmenus.com/oh/waterville/255016-china-king/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 878 9088",
+    "sg:postcode": "43566",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125149037,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1YtxEaWAuaPtrV9wvJ8YhM_41.503380_-83.736032@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805742,
-    "wof:geomhash":"a2db834d41dc7fdb285cebeb4120cd5f",
-    "wof:hierarchy":[],
-    "wof:id":706554337,
-    "wof:lastmodified":1510874857,
-    "wof:name":"China King",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461805742,
+    "wof:geomhash": "a2db834d41dc7fdb285cebeb4120cd5f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706554337
+      }
+    ],
+    "wof:id": 706554337,
+    "wof:lastmodified": 1638567134,
+    "wof:name": "China King",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.736032,
     41.50338,
     -83.736032,
     41.50338
-],
-  "geometry": {"coordinates":[-83.73603199999999,41.50338],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.736032,41.50338],"type":"Point"}
 }

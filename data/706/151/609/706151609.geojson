@@ -2,61 +2,65 @@
   "id": 706151609,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 Island Rd Circleville OH 43113",
-    "addr:housenumber":"111",
-    "addr:postcode":"43113",
-    "addr:street":"Island Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.949676,39.604215,-82.949676,39.604215",
-    "geom:latitude":39.604215,
-    "geom:longitude":-82.949676,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 Island Rd",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "111 Island Rd Circleville OH 43113",
+    "addr:housenumber": "111",
+    "addr:postcode": "43113",
+    "addr:street": "Island Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.949676,39.604215,-82.949676,39.604215",
+    "geom:latitude": 39.604215,
+    "geom:longitude": -82.949676,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 Island Rd",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 474 8818",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 474 8818",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7JqLGAzGiWTia04QDk0oK0_39.604215_-82.949676@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7JqLGAzGiWTia04QDk0oK0_39.604215_-82.949676@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797015,
-    "wof:geomhash":"d1012cffe0f81862ce2e87c09d79b04f",
-    "wof:hierarchy":[],
-    "wof:id":706151609,
-    "wof:lastmodified":1472639375,
-    "wof:name":"Circleville Family Health",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461797015,
+    "wof:geomhash": "956f44907f525128a7c907a79c5b242d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706151609
+      }
+    ],
+    "wof:id": 706151609,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Circleville Family Health",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -82.949676,
     39.604215,
     -82.949676,
     39.604215
-],
+  ],
   "geometry": {"coordinates":[-82.949676,39.604215],"type":"Point"}
 }

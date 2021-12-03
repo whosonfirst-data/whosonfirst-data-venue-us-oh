@@ -2,65 +2,69 @@
   "id": 706552789,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 Polaris Pkwy Columbus OH 43240",
-    "addr:housenumber":"1111",
-    "addr:postcode":"43240",
-    "addr:street":"Polaris Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.99116,40.14459,-82.99116,40.14459",
-    "geom:latitude":40.14459,
-    "geom:longitude":-82.99116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1111 Polaris Pkwy",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1111 Polaris Pkwy Columbus OH 43240",
+    "addr:housenumber": "1111",
+    "addr:postcode": "43240",
+    "addr:street": "Polaris Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.991160,40.144590,-82.991160,40.144590",
+    "geom:latitude": 40.14459,
+    "geom:longitude": -82.99116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1111 Polaris Pkwy",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/columbus-city/124791-starbucks-coffee/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 213 2233",
-    "sg:postcode":"43240",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/columbus-city/124791-starbucks-coffee/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 213 2233",
+    "sg:postcode": "43240",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0EGHqFWXQRF25kcg2S62sk_40.144590_-82.991160@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0EGHqFWXQRF25kcg2S62sk_40.144590_-82.991160@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805715,
-    "wof:geomhash":"f6c161d356d050c1ef107091fa4af066",
-    "wof:hierarchy":[],
-    "wof:id":706552789,
-    "wof:lastmodified":1512142424,
-    "wof:name":"Starbucks Coffee",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805715,
+    "wof:geomhash": "f6c161d356d050c1ef107091fa4af066",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706552789
+      }
+    ],
+    "wof:id": 706552789,
+    "wof:lastmodified": 1638567135,
+    "wof:name": "Starbucks Coffee",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.99116,
     40.14459,
     -82.99116,
     40.14459
-],
-  "geometry": {"coordinates":[-82.99115999999999,40.14459],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.99116,40.14459],"type":"Point"}
 }

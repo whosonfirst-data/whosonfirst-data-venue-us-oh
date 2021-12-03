@@ -2,77 +2,81 @@
   "id": 706315683,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 Enterprise Pkwy Twinsburg OH 44087",
-    "addr:housenumber":"1600",
-    "addr:postcode":"44087",
-    "addr:street":"Enterprise Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.46153,41.291595,-81.46153,41.291595",
-    "geom:latitude":41.291595,
-    "geom:longitude":-81.46153,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1600 Enterprise Pkwy",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Electronics",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Electrical",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1600 Enterprise Pkwy Twinsburg OH 44087",
+    "addr:housenumber": "1600",
+    "addr:postcode": "44087",
+    "addr:street": "Enterprise Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.461530,41.291595,-81.461530,41.291595",
+    "geom:latitude": 41.291595,
+    "geom:longitude": -81.46153,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1600 Enterprise Pkwy",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Electronics",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Electrical",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 425 3555",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "sg:tags":[
-        "control",
-        "mfg",
-        "supply",
-        "equipment",
-        "parts",
-        "electronic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 425 3555",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "sg:tags": [
+      "control",
+      "mfg",
+      "supply",
+      "equipment",
+      "parts",
+      "electronic"
     ],
-    "sg:website":"www.am.pepperl-fuchs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_18OAYGr6fpgyNHPo4AFg8F_41.291595_-81.461530@1294180530"
+    "sg:website": "www.am.pepperl-fuchs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_18OAYGr6fpgyNHPo4AFg8F_41.291595_-81.461530@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800633,
-    "wof:geomhash":"548820d8c4748daa15b266fa7c0990da",
-    "wof:hierarchy":[],
-    "wof:id":706315683,
-    "wof:lastmodified":1472639792,
-    "wof:name":"Pepperl + Fuchs Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "control",
-        "mfg",
-        "supply",
-        "equipment",
-        "parts",
-        "electronic"
+    "wof:country": "US",
+    "wof:created": 1461800633,
+    "wof:geomhash": "fb6a2c57f7d07f237e1d8e48738b0fc7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706315683
+      }
+    ],
+    "wof:id": 706315683,
+    "wof:lastmodified": 1638567084,
+    "wof:name": "Pepperl + Fuchs Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "control",
+      "mfg",
+      "supply",
+      "equipment",
+      "parts",
+      "electronic"
     ]
-},
+  },
   "bbox": [
     -81.46153,
     41.291595,
     -81.46153,
     41.291595
-],
+  ],
   "geometry": {"coordinates":[-81.46153,41.291595],"type":"Point"}
 }

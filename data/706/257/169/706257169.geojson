@@ -2,56 +2,60 @@
   "id": 706257169,
   "type": "Feature",
   "properties": {
-    "addr:full":"7662 State Rte 45 Lisbon OH 44432",
-    "addr:housenumber":"7662",
-    "addr:postcode":"44432",
-    "addr:street":"State Rte 45",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.775369,40.787063,-80.775369,40.787063",
-    "geom:latitude":40.787063,
-    "geom:longitude":-80.775369,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7662 State Rte 45",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7662 State Rte 45 Lisbon OH 44432",
+    "addr:housenumber": "7662",
+    "addr:postcode": "44432",
+    "addr:street": "State Rte 45",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.775369,40.787063,-80.775369,40.787063",
+    "geom:latitude": 40.787063,
+    "geom:longitude": -80.775369,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7662 State Rte 45",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 0277",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7jx3wn9zye6vhfTATDiHOf_40.787063_-80.775369@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 0277",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7jx3wn9zye6vhfTATDiHOf_40.787063_-80.775369@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799350,
-    "wof:geomhash":"a448615303c08c9b29b038b132e003e5",
-    "wof:hierarchy":[],
-    "wof:id":706257169,
-    "wof:lastmodified":1472639595,
-    "wof:name":"Bills Farmer Too",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461799350,
+    "wof:geomhash": "c7bf486e71714591b7f235746c9ea96d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706257169
+      }
+    ],
+    "wof:id": 706257169,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Bills Farmer Too",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.775369,
     40.787063,
     -80.775369,
     40.787063
-],
+  ],
   "geometry": {"coordinates":[-80.775369,40.787063],"type":"Point"}
 }

@@ -2,66 +2,70 @@
   "id": 706575781,
   "type": "Feature",
   "properties": {
-    "addr:full":"112 S Main St Hamden OH 45634",
-    "addr:housenumber":"112",
-    "addr:postcode":"45634",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.527311,39.158201,-82.527311,39.158201",
-    "geom:latitude":39.158201,
-    "geom:longitude":-82.527311,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"112 S Main St",
-    "sg:city":"Hamden",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "112 S Main St Hamden OH 45634",
+    "addr:housenumber": "112",
+    "addr:postcode": "45634",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.527311,39.158201,-82.527311,39.158201",
+    "geom:latitude": 39.158201,
+    "geom:longitude": -82.527311,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "112 S Main St",
+    "sg:city": "Hamden",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/clinton/194880-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45634",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/clinton/194880-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45634",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6eB6AxllnU1liMbvgiLrbr_39.158201_-82.527311@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6eB6AxllnU1liMbvgiLrbr_39.158201_-82.527311@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806203,
-    "wof:geomhash":"efd5e75b6aabf03181849f03cacdf975",
-    "wof:hierarchy":[],
-    "wof:id":706575781,
-    "wof:lastmodified":1512142993,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806203,
+    "wof:geomhash": "efd5e75b6aabf03181849f03cacdf975",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706575781
+      }
+    ],
+    "wof:id": 706575781,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.527311,
     39.158201,
     -82.527311,
     39.158201
-],
+  ],
   "geometry": {"coordinates":[-82.527311,39.158201],"type":"Point"}
 }

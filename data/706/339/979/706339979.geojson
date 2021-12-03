@@ -2,61 +2,65 @@
   "id": 706339979,
   "type": "Feature",
   "properties": {
-    "addr:full":"155 Chestnut Ave SE Warren OH 44483",
-    "addr:housenumber":"155",
-    "addr:postcode":"44483",
-    "addr:street":"Chestnut Ave Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.809066,41.236164,-80.809066,41.236164",
-    "geom:latitude":41.236164,
-    "geom:longitude":-80.809066,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"155 Chestnut Ave SE",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "155 Chestnut Ave SE Warren OH 44483",
+    "addr:housenumber": "155",
+    "addr:postcode": "44483",
+    "addr:street": "Chestnut Ave Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.809066,41.236164,-80.809066,41.236164",
+    "geom:latitude": 41.236164,
+    "geom:longitude": -80.809066,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "155 Chestnut Ave SE",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 394 7001",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 394 7001",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Mu25FhlGN4XXeyYvgzZDv_41.236164_-80.809066@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Mu25FhlGN4XXeyYvgzZDv_41.236164_-80.809066@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801203,
-    "wof:geomhash":"f34e54a7cabb43497672850b92051cc0",
-    "wof:hierarchy":[],
-    "wof:id":706339979,
-    "wof:lastmodified":1472639858,
-    "wof:name":"Maerital Club",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:country": "US",
+    "wof:created": 1461801203,
+    "wof:geomhash": "3d3b674cd061827a74cb82d8501b3a12",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706339979
+      }
+    ],
+    "wof:id": 706339979,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Maerital Club",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -80.809066,
     41.236164,
     -80.809066,
     41.236164
-],
+  ],
   "geometry": {"coordinates":[-80.809066,41.236164],"type":"Point"}
 }

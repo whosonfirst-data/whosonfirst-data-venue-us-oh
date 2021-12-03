@@ -2,61 +2,65 @@
   "id": 689558887,
   "type": "Feature",
   "properties": {
-    "addr:full":"919 S Main St Miamisburg OH 45342",
-    "addr:housenumber":"919",
-    "addr:postcode":"45342",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.29323,39.630802,-84.29323,39.630802",
-    "geom:latitude":39.630802,
-    "geom:longitude":-84.29323,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"919 S Main St",
-    "sg:city":"Miamisburg",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "919 S Main St Miamisburg OH 45342",
+    "addr:housenumber": "919",
+    "addr:postcode": "45342",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.293230,39.630802,-84.293230,39.630802",
+    "geom:latitude": 39.630802,
+    "geom:longitude": -84.29323,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "919 S Main St",
+    "sg:city": "Miamisburg",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 866 1351",
-    "sg:postcode":"45342",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 866 1351",
+    "sg:postcode": "45342",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2LO7nQds4KW53BOIcxMXht_39.630802_-84.293230@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2LO7nQds4KW53BOIcxMXht_39.630802_-84.293230@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774990,
-    "wof:geomhash":"4e072f0b216a4d147c8ab1aae36f997d",
-    "wof:hierarchy":[],
-    "wof:id":689558887,
-    "wof:lastmodified":1472639308,
-    "wof:name":"Miamisburg Animal Hospital",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461774990,
+    "wof:geomhash": "76c6d29634136053660a3d9a7e7c6312",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689558887
+      }
+    ],
+    "wof:id": 689558887,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Miamisburg Animal Hospital",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.29323,
     39.630802,
     -84.29323,
     39.630802
-],
-  "geometry": {"coordinates":[-84.29322999999999,39.630802],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.29323,39.630802],"type":"Point"}
 }

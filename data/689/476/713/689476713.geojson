@@ -2,61 +2,65 @@
   "id": 689476713,
   "type": "Feature",
   "properties": {
-    "addr:full":"17620 Mahoning Ave Lake Milton OH 44429",
-    "addr:housenumber":"17620",
-    "addr:postcode":"44429",
-    "addr:street":"Mahoning Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.987195,41.095649,-80.987195,41.095649",
-    "geom:latitude":41.095649,
-    "geom:longitude":-80.987195,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17620 Mahoning Ave",
-    "sg:city":"Lake Milton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "17620 Mahoning Ave Lake Milton OH 44429",
+    "addr:housenumber": "17620",
+    "addr:postcode": "44429",
+    "addr:street": "Mahoning Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.987195,41.095649,-80.987195,41.095649",
+    "geom:latitude": 41.095649,
+    "geom:longitude": -80.987195,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17620 Mahoning Ave",
+    "sg:city": "Lake Milton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 654 4729",
-    "sg:postcode":"44429",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 654 4729",
+    "sg:postcode": "44429",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3bQxD2hJV59GtyTmFHBZlE_41.095649_-80.987195@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3bQxD2hJV59GtyTmFHBZlE_41.095649_-80.987195@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772430,
-    "wof:geomhash":"b99e8772c1c3d1191162c1779555a8f8",
-    "wof:hierarchy":[],
-    "wof:id":689476713,
-    "wof:lastmodified":1472638478,
-    "wof:name":"Kyps Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461772430,
+    "wof:geomhash": "4b29aa92fec1d26639a8f05f507f4e1b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689476713
+      }
+    ],
+    "wof:id": 689476713,
+    "wof:lastmodified": 1638566923,
+    "wof:name": "Kyps Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.987195,
     41.095649,
     -80.987195,
     41.095649
-],
+  ],
   "geometry": {"coordinates":[-80.987195,41.095649],"type":"Point"}
 }

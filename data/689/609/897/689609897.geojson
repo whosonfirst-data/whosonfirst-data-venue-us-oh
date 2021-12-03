@@ -2,61 +2,65 @@
   "id": 689609897,
   "type": "Feature",
   "properties": {
-    "addr:full":"269 S Park Dr Mc Comb OH 45858",
-    "addr:housenumber":"269",
-    "addr:postcode":"45858",
-    "addr:street":"S Park Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.784523,41.10516,-83.784523,41.10516",
-    "geom:latitude":41.10516,
-    "geom:longitude":-83.784523,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"269 S Park Dr",
-    "sg:city":"Mc Comb",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "269 S Park Dr Mc Comb OH 45858",
+    "addr:housenumber": "269",
+    "addr:postcode": "45858",
+    "addr:street": "S Park Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.784523,41.105160,-83.784523,41.105160",
+    "geom:latitude": 41.10516,
+    "geom:longitude": -83.784523,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "269 S Park Dr",
+    "sg:city": "Mc Comb",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 293 2335",
-    "sg:postcode":"45858",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 293 2335",
+    "sg:postcode": "45858",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1q0frrsEuko1wnIXB3W74t_41.105160_-83.784523@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1q0frrsEuko1wnIXB3W74t_41.105160_-83.784523@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776601,
-    "wof:geomhash":"6f5d66e9286032714ba657ce470385f4",
-    "wof:hierarchy":[],
-    "wof:id":689609897,
-    "wof:lastmodified":1472639439,
-    "wof:name":"Mc Comb Family Dentistry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461776601,
+    "wof:geomhash": "3f667911357b7e896b5b9845b38c05b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689609897
+      }
+    ],
+    "wof:id": 689609897,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Mc Comb Family Dentistry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.784523,
     41.10516,
     -83.784523,
     41.10516
-],
-  "geometry": {"coordinates":[-83.78452299999999,41.10516],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.784523,41.10516],"type":"Point"}
 }

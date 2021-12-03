@@ -2,66 +2,70 @@
   "id": 706563521,
   "type": "Feature",
   "properties": {
-    "addr:full":"5867 Wooster Pike Medina OH 44256",
-    "addr:housenumber":"5867",
-    "addr:postcode":"44256",
-    "addr:street":"Wooster Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.864135,41.111301,-81.864135,41.111301",
-    "geom:latitude":41.111301,
-    "geom:longitude":-81.864135,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"5867 Wooster Pike",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5867 Wooster Pike Medina OH 44256",
+    "addr:housenumber": "5867",
+    "addr:postcode": "44256",
+    "addr:street": "Wooster Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.864135,41.111301,-81.864135,41.111301",
+    "geom:latitude": 41.111301,
+    "geom:longitude": -81.864135,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "5867 Wooster Pike",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/medina-city/195358-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/medina-city/195358-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0D86yY5Ef7RBPoGYHo5xXd_41.111301_-81.864135@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0D86yY5Ef7RBPoGYHo5xXd_41.111301_-81.864135@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805922,
-    "wof:geomhash":"4edf81095898e9367bd768a53a4eaa7b",
-    "wof:hierarchy":[],
-    "wof:id":706563521,
-    "wof:lastmodified":1512142993,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805922,
+    "wof:geomhash": "4edf81095898e9367bd768a53a4eaa7b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706563521
+      }
+    ],
+    "wof:id": 706563521,
+    "wof:lastmodified": 1638567138,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -81.864135,
     41.111301,
     -81.864135,
     41.111301
-],
+  ],
   "geometry": {"coordinates":[-81.864135,41.111301],"type":"Point"}
 }

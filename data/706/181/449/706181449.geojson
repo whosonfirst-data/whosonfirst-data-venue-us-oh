@@ -2,72 +2,76 @@
   "id": 706181449,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 Anthony Wayne Trl Waterville OH 43566",
-    "addr:housenumber":"103",
-    "addr:postcode":"43566",
-    "addr:street":"Anthony Wayne Trl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.722008,41.496756,-83.722008,41.496756",
-    "geom:latitude":41.496756,
-    "geom:longitude":-83.722008,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"103 Anthony Wayne Trl",
-    "sg:city":"Waterville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "103 Anthony Wayne Trl Waterville OH 43566",
+    "addr:housenumber": "103",
+    "addr:postcode": "43566",
+    "addr:street": "Anthony Wayne Trl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.722008,41.496756,-83.722008,41.496756",
+    "geom:latitude": 41.496756,
+    "geom:longitude": -83.722008,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "103 Anthony Wayne Trl",
+    "sg:city": "Waterville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 878 8103",
-    "sg:postcode":"43566",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "beer",
-        "ale",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 878 8103",
+    "sg:postcode": "43566",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "beer",
+      "ale",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1S9rZozvVbPORXXdGIttrK_41.496756_-83.722008@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1S9rZozvVbPORXXdGIttrK_41.496756_-83.722008@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797664,
-    "wof:geomhash":"bd5edcf937f98ec453f451d5b413e784",
-    "wof:hierarchy":[],
-    "wof:id":706181449,
-    "wof:lastmodified":1472639447,
-    "wof:name":"Barney's Convenience Mart",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "beer",
-        "ale",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461797664,
+    "wof:geomhash": "f896169c8a263545870a58c6c6025ad0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706181449
+      }
+    ],
+    "wof:id": 706181449,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Barney's Convenience Mart",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "beer",
+      "ale",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -83.722008,
     41.496756,
     -83.722008,
     41.496756
-],
+  ],
   "geometry": {"coordinates":[-83.722008,41.496756],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 705850241,
   "type": "Feature",
   "properties": {
-    "addr:full":"1218 N Curtice Rd Oregon OH 43618",
-    "addr:housenumber":"1218",
-    "addr:postcode":"43618",
-    "addr:street":"N Curtice Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.37082,41.67411,-83.37082,41.67411",
-    "geom:latitude":41.67411,
-    "geom:longitude":-83.37082,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1218 N Curtice Rd",
-    "sg:city":"Oregon",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1218 N Curtice Rd Oregon OH 43618",
+    "addr:housenumber": "1218",
+    "addr:postcode": "43618",
+    "addr:street": "N Curtice Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.370820,41.674110,-83.370820,41.674110",
+    "geom:latitude": 41.67411,
+    "geom:longitude": -83.37082,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1218 N Curtice Rd",
+    "sg:city": "Oregon",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 836 7926",
-    "sg:postcode":"43618",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 836 7926",
+    "sg:postcode": "43618",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2JktZVZbz2ATV9yWR6jOg2_41.674110_-83.370820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2JktZVZbz2ATV9yWR6jOg2_41.674110_-83.370820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790184,
-    "wof:geomhash":"b484f9c82584d0dbfe1ae0573401ee13",
-    "wof:hierarchy":[],
-    "wof:id":705850241,
-    "wof:lastmodified":1472639399,
-    "wof:name":"Watson Trucking Service C",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461790184,
+    "wof:geomhash": "449603ecebb9d13179c0e17f22c43614",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705850241
+      }
+    ],
+    "wof:id": 705850241,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Watson Trucking Service C",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.37082,
     41.67411,
     -83.37082,
     41.67411
-],
-  "geometry": {"coordinates":[-83.37081999999999,41.67411],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.37082,41.67411],"type":"Point"}
 }

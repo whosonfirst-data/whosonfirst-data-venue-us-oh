@@ -2,66 +2,70 @@
   "id": 706567901,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 Portland Way N Galion OH 44833",
-    "addr:housenumber":"220",
-    "addr:postcode":"44833",
-    "addr:street":"Portland Way N",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.801897,40.735685,-82.801897,40.735685",
-    "geom:latitude":40.735685,
-    "geom:longitude":-82.801897,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"220 Portland Way N",
-    "sg:city":"Galion",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "220 Portland Way N Galion OH 44833",
+    "addr:housenumber": "220",
+    "addr:postcode": "44833",
+    "addr:street": "Portland Way N",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.801897,40.735685,-82.801897,40.735685",
+    "geom:latitude": 40.735685,
+    "geom:longitude": -82.801897,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "220 Portland Way N",
+    "sg:city": "Galion",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/galion/195068-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44833",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/galion/195068-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44833",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_70oWyilIA95kGmfxkH8WhT_40.735685_-82.801897@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_70oWyilIA95kGmfxkH8WhT_40.735685_-82.801897@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806014,
-    "wof:geomhash":"1cecf490f30a564bea495af24b0a8d85",
-    "wof:hierarchy":[],
-    "wof:id":706567901,
-    "wof:lastmodified":1512142845,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806014,
+    "wof:geomhash": "1cecf490f30a564bea495af24b0a8d85",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706567901
+      }
+    ],
+    "wof:id": 706567901,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.801897,
     40.735685,
     -82.801897,
     40.735685
-],
+  ],
   "geometry": {"coordinates":[-82.801897,40.735685],"type":"Point"}
 }

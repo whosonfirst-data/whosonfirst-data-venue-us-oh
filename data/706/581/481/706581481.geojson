@@ -2,70 +2,74 @@
   "id": 706581481,
   "type": "Feature",
   "properties": {
-    "addr:full":"8007 State St Garrettsville OH 44231",
-    "addr:housenumber":"8007",
-    "addr:postcode":"44231",
-    "addr:street":"State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.101346,41.286836,-81.101346,41.286836",
-    "geom:latitude":41.286836,
-    "geom:longitude":-81.101346,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"8007 State St",
-    "sg:city":"Garrettsville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8007 State St Garrettsville OH 44231",
+    "addr:housenumber": "8007",
+    "addr:postcode": "44231",
+    "addr:street": "State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.101346,41.286836,-81.101346,41.286836",
+    "geom:latitude": 41.286836,
+    "geom:longitude": -81.101346,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "8007 State St",
+    "sg:city": "Garrettsville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/garrettsville/78457-dominos-pizza/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 527 0505",
-    "sg:postcode":"44231",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "wing",
-        "pizza"
+    "sg:menulink": "http://www.allmenus.com/oh/garrettsville/78457-dominos-pizza/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 527 0505",
+    "sg:postcode": "44231",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "wing",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573851,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":342268425,
-        "sg:id":"SG_4LbCPRqTgVFxHBl91hJ0XA_41.287165_-81.101629@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573851,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 342268425,
+      "sg:id": "SG_4LbCPRqTgVFxHBl91hJ0XA_41.287165_-81.101629@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806355,
-    "wof:geomhash":"bc63276871da9ecfe248fecd0f031d9f",
-    "wof:hierarchy":[],
-    "wof:id":706581481,
-    "wof:lastmodified":1511323083,
-    "wof:name":"Domino's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "wing",
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461806355,
+    "wof:geomhash": "bc63276871da9ecfe248fecd0f031d9f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706581481
+      }
+    ],
+    "wof:id": 706581481,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Domino's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "wing",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -81.101346,
     41.286836,
     -81.101346,
     41.286836
-],
-  "geometry": {"coordinates":[-81.10134600000001,41.286836],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.101346,41.286836],"type":"Point"}
 }

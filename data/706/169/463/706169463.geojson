@@ -2,61 +2,65 @@
   "id": 706169463,
   "type": "Feature",
   "properties": {
-    "addr:full":"180 Spring Valley Pike Dayton OH 45458",
-    "addr:housenumber":"180",
-    "addr:postcode":"45458",
-    "addr:street":"Spring Valley Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.159833,39.61351,-84.159833,39.61351",
-    "geom:latitude":39.61351,
-    "geom:longitude":-84.159833,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"180 Spring Valley Pike",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "180 Spring Valley Pike Dayton OH 45458",
+    "addr:housenumber": "180",
+    "addr:postcode": "45458",
+    "addr:street": "Spring Valley Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.159833,39.613510,-84.159833,39.613510",
+    "geom:latitude": 39.61351,
+    "geom:longitude": -84.159833,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "180 Spring Valley Pike",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 291 1351",
-    "sg:postcode":"45458",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mental"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 291 1351",
+    "sg:postcode": "45458",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mental"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_44GBRqlloLp5APkrfSnGWA_39.613510_-84.159833@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_44GBRqlloLp5APkrfSnGWA_39.613510_-84.159833@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797421,
-    "wof:geomhash":"0194a9a861ea3f073f768da56fbeb600",
-    "wof:hierarchy":[],
-    "wof:id":706169463,
-    "wof:lastmodified":1472639403,
-    "wof:name":"South Suburban Mental Health",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mental"
+    "wof:country": "US",
+    "wof:created": 1461797421,
+    "wof:geomhash": "c080182401b318b258e92ddc9e3eae0b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706169463
+      }
+    ],
+    "wof:id": 706169463,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "South Suburban Mental Health",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mental"
     ]
-},
+  },
   "bbox": [
     -84.159833,
     39.61351,
     -84.159833,
     39.61351
-],
-  "geometry": {"coordinates":[-84.15983300000001,39.61351],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.159833,39.61351],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 689586505,
   "type": "Feature",
   "properties": {
-    "addr:full":"19701 State Rte 339 Waterford OH 45727",
-    "addr:housenumber":"19701",
-    "addr:postcode":"45727",
-    "addr:street":"State Rte 339",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.481067,39.645309,-81.481067,39.645309",
-    "geom:latitude":39.645309,
-    "geom:longitude":-81.481067,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"19701 State Rte 339",
-    "sg:city":"Waterford",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "19701 State Rte 339 Waterford OH 45727",
+    "addr:housenumber": "19701",
+    "addr:postcode": "45727",
+    "addr:street": "State Rte 339",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.481067,39.645309,-81.481067,39.645309",
+    "geom:latitude": 39.645309,
+    "geom:longitude": -81.481067,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "19701 State Rte 339",
+    "sg:city": "Waterford",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 984 2342",
-    "sg:postcode":"45727",
-    "sg:province":"OH",
-    "sg:website":"www.wolfcreek.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6gCp0O0IJdn11lurGJTrmu_39.645309_-81.481067@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 984 2342",
+    "sg:postcode": "45727",
+    "sg:province": "OH",
+    "sg:website": "www.wolfcreek.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6gCp0O0IJdn11lurGJTrmu_39.645309_-81.481067@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775830,
-    "wof:geomhash":"52173d128e2e04c20994524b1fae080a",
-    "wof:hierarchy":[],
-    "wof:id":689586505,
-    "wof:lastmodified":1472639344,
-    "wof:name":"Waterford Elementary School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461775830,
+    "wof:geomhash": "a5baec8e20e8f67caed78e9cad31e1a6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689586505
+      }
+    ],
+    "wof:id": 689586505,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Waterford Elementary School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.481067,
     39.645309,
     -81.481067,
     39.645309
-],
+  ],
   "geometry": {"coordinates":[-81.481067,39.645309],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706228489,
   "type": "Feature",
   "properties": {
-    "addr:full":"11144 Reading Rd Cincinnati OH 45241",
-    "addr:housenumber":"11144",
-    "addr:postcode":"45241",
-    "addr:street":"Reading Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.412819,39.270419,-84.412819,39.270419",
-    "geom:latitude":39.270419,
-    "geom:longitude":-84.412819,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11144 Reading Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "11144 Reading Rd Cincinnati OH 45241",
+    "addr:housenumber": "11144",
+    "addr:postcode": "45241",
+    "addr:street": "Reading Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.412819,39.270419,-84.412819,39.270419",
+    "geom:latitude": 39.270419,
+    "geom:longitude": -84.412819,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11144 Reading Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 769 5211",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 769 5211",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1vFycykyT081j88WUlZq5N_39.270419_-84.412819@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1vFycykyT081j88WUlZq5N_39.270419_-84.412819@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798675,
-    "wof:geomhash":"3fcb2f24522f9a0aff9efc3d01200bfa",
-    "wof:hierarchy":[],
-    "wof:id":706228489,
-    "wof:lastmodified":1472639535,
-    "wof:name":"St Gertrude The Great Roman",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461798675,
+    "wof:geomhash": "fa40a8baacb26fb4e4e6c89e9ff6b04c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706228489
+      }
+    ],
+    "wof:id": 706228489,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "St Gertrude The Great Roman",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.412819,
     39.270419,
     -84.412819,
     39.270419
-],
+  ],
   "geometry": {"coordinates":[-84.412819,39.270419],"type":"Point"}
 }

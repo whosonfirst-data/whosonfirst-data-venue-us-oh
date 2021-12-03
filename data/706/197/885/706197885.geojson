@@ -2,63 +2,67 @@
   "id": 706197885,
   "type": "Feature",
   "properties": {
-    "addr:full":"1221 Wayne Rd Wilmington OH 45177",
-    "addr:housenumber":"1221",
-    "addr:postcode":"45177",
-    "addr:street":"Wayne Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.852018,39.449784,-83.852018,39.449784",
-    "geom:latitude":39.449784,
-    "geom:longitude":-83.852018,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1221 Wayne Rd",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1221 Wayne Rd Wilmington OH 45177",
+    "addr:housenumber": "1221",
+    "addr:postcode": "45177",
+    "addr:street": "Wayne Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.852018,39.449784,-83.852018,39.449784",
+    "geom:latitude": 39.449784,
+    "geom:longitude": -83.852018,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1221 Wayne Rd",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 382 0000",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 382 0000",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3tONXYNm0wXjJSt2WpxdY2_39.449784_-83.852018@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3tONXYNm0wXjJSt2WpxdY2_39.449784_-83.852018@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798028,
-    "wof:geomhash":"cdd6588c47e2b33306bdd1a674d50f7f",
-    "wof:hierarchy":[],
-    "wof:id":706197885,
-    "wof:lastmodified":1472639485,
-    "wof:name":"Novinger's Daylight Donuts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:country": "US",
+    "wof:created": 1461798028,
+    "wof:geomhash": "a36c086775e47b63085596adf58b23f5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706197885
+      }
+    ],
+    "wof:id": 706197885,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Novinger's Daylight Donuts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -83.852018,
     39.449784,
     -83.852018,
     39.449784
-],
+  ],
   "geometry": {"coordinates":[-83.852018,39.449784],"type":"Point"}
 }

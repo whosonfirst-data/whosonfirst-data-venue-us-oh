@@ -2,61 +2,65 @@
   "id": 706212053,
   "type": "Feature",
   "properties": {
-    "addr:full":"3070 Vincent Dr Hamilton OH 45011",
-    "addr:housenumber":"3070",
-    "addr:postcode":"45011",
-    "addr:street":"Vincent Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.551687,39.466473,-84.551687,39.466473",
-    "geom:latitude":39.466473,
-    "geom:longitude":-84.551687,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3070 Vincent Dr",
-    "sg:city":"Hamilton",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3070 Vincent Dr Hamilton OH 45011",
+    "addr:housenumber": "3070",
+    "addr:postcode": "45011",
+    "addr:street": "Vincent Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.551687,39.466473,-84.551687,39.466473",
+    "geom:latitude": 39.466473,
+    "geom:longitude": -84.551687,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3070 Vincent Dr",
+    "sg:city": "Hamilton",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 726 5184",
-    "sg:postcode":"45011",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 726 5184",
+    "sg:postcode": "45011",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0bQ0fEpwqCnbaKSWwGm4Nh_39.466473_-84.551687@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0bQ0fEpwqCnbaKSWwGm4Nh_39.466473_-84.551687@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798326,
-    "wof:geomhash":"a2e04ba9b6453f7a993b179e7865a62d",
-    "wof:hierarchy":[],
-    "wof:id":706212053,
-    "wof:lastmodified":1472639500,
-    "wof:name":"Benjamin Vocke Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461798326,
+    "wof:geomhash": "abfe9cc5df7215413f5bffa9dc5b1fe9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706212053
+      }
+    ],
+    "wof:id": 706212053,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Benjamin Vocke Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -84.551687,
     39.466473,
     -84.551687,
     39.466473
-],
+  ],
   "geometry": {"coordinates":[-84.551687,39.466473],"type":"Point"}
 }

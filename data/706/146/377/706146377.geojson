@@ -2,61 +2,65 @@
   "id": 706146377,
   "type": "Feature",
   "properties": {
-    "addr:full":"8655 Old Kellogg Rd Cincinnati OH 45255",
-    "addr:housenumber":"8655",
-    "addr:postcode":"45255",
-    "addr:street":"Old Kellogg Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.330887,39.033572,-84.330887,39.033572",
-    "geom:latitude":39.033572,
-    "geom:longitude":-84.330887,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8655 Old Kellogg Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "8655 Old Kellogg Rd Cincinnati OH 45255",
+    "addr:housenumber": "8655",
+    "addr:postcode": "45255",
+    "addr:street": "Old Kellogg Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.330887,39.033572,-84.330887,39.033572",
+    "geom:latitude": 39.033572,
+    "geom:longitude": -84.330887,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8655 Old Kellogg Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 553 1612",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 553 1612",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_14qfLhFmbek8YVnJ0hDOU0_39.033572_-84.330887@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_14qfLhFmbek8YVnJ0hDOU0_39.033572_-84.330887@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796895,
-    "wof:geomhash":"a80961c028c44c009b8a7aa77a2dcc6a",
-    "wof:hierarchy":[],
-    "wof:id":706146377,
-    "wof:lastmodified":1472639357,
-    "wof:name":"Rose Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461796895,
+    "wof:geomhash": "48d2e49981a5771e0ee73b12b158ed13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706146377
+      }
+    ],
+    "wof:id": 706146377,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Rose Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.330887,
     39.033572,
     -84.330887,
     39.033572
-],
+  ],
   "geometry": {"coordinates":[-84.330887,39.033572],"type":"Point"}
 }

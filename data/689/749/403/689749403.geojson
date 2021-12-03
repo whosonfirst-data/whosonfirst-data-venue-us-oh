@@ -2,63 +2,67 @@
   "id": 689749403,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Peters Ave Troy OH 45373",
-    "addr:housenumber":"101",
-    "addr:postcode":"45373",
-    "addr:street":"Peters Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.209463,40.031792,-84.209463,40.031792",
-    "geom:latitude":40.031792,
-    "geom:longitude":-84.209463,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 Peters Ave",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "101 Peters Ave Troy OH 45373",
+    "addr:housenumber": "101",
+    "addr:postcode": "45373",
+    "addr:street": "Peters Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.209463,40.031792,-84.209463,40.031792",
+    "geom:latitude": 40.031792,
+    "geom:longitude": -84.209463,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 Peters Ave",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 335 8009",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "national",
-        "security"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 335 8009",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "national",
+      "security"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5dqnTBMAxsPSwVm89hYfNX_40.031792_-84.209463@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5dqnTBMAxsPSwVm89hYfNX_40.031792_-84.209463@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780435,
-    "wof:geomhash":"8d693c0114bc2705b9bcaafed8d25af0",
-    "wof:hierarchy":[],
-    "wof:id":689749403,
-    "wof:lastmodified":1472639780,
-    "wof:name":"US Defense Supply Agency",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "national",
-        "security"
+    "wof:country": "US",
+    "wof:created": 1461780435,
+    "wof:geomhash": "8d4fecd084c81805be1311a1ecada96d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689749403
+      }
+    ],
+    "wof:id": 689749403,
+    "wof:lastmodified": 1638567040,
+    "wof:name": "US Defense Supply Agency",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "national",
+      "security"
     ]
-},
+  },
   "bbox": [
     -84.209463,
     40.031792,
     -84.209463,
     40.031792
-],
+  ],
   "geometry": {"coordinates":[-84.209463,40.031792],"type":"Point"}
 }

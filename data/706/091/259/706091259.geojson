@@ -2,61 +2,65 @@
   "id": 706091259,
   "type": "Feature",
   "properties": {
-    "addr:full":"164 S Mulberry St Wilmington OH 45177",
-    "addr:housenumber":"164",
-    "addr:postcode":"45177",
-    "addr:street":"S Mulberry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.830226,39.443646,-83.830226,39.443646",
-    "geom:latitude":39.443646,
-    "geom:longitude":-83.830226,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"164 S Mulberry St",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "164 S Mulberry St Wilmington OH 45177",
+    "addr:housenumber": "164",
+    "addr:postcode": "45177",
+    "addr:street": "S Mulberry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.830226,39.443646,-83.830226,39.443646",
+    "geom:latitude": 39.443646,
+    "geom:longitude": -83.830226,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "164 S Mulberry St",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 382 0547",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "special"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 382 0547",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "special"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2d3WkQMi56z169xbj7o5ji_39.443646_-83.830226@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2d3WkQMi56z169xbj7o5ji_39.443646_-83.830226@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795596,
-    "wof:geomhash":"9105136201999ff67279bdf44e9b641e",
-    "wof:hierarchy":[],
-    "wof:id":706091259,
-    "wof:lastmodified":1472639214,
-    "wof:name":"Sewell Store & Lock",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "special"
+    "wof:country": "US",
+    "wof:created": 1461795596,
+    "wof:geomhash": "59bd8cc7320d5acb59cdf538a3a11271",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706091259
+      }
+    ],
+    "wof:id": 706091259,
+    "wof:lastmodified": 1638566983,
+    "wof:name": "Sewell Store \u0026 Lock",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "special"
     ]
-},
+  },
   "bbox": [
     -83.830226,
     39.443646,
     -83.830226,
     39.443646
-],
+  ],
   "geometry": {"coordinates":[-83.830226,39.443646],"type":"Point"}
 }

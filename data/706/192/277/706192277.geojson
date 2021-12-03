@@ -2,61 +2,65 @@
   "id": 706192277,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Hunter Pl Bellefontaine OH 43311",
-    "addr:housenumber":"10",
-    "addr:postcode":"43311",
-    "addr:street":"Hunter Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.758894,40.375778,-83.758894,40.375778",
-    "geom:latitude":40.375778,
-    "geom:longitude":-83.758894,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Hunter Pl",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10 Hunter Pl Bellefontaine OH 43311",
+    "addr:housenumber": "10",
+    "addr:postcode": "43311",
+    "addr:street": "Hunter Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.758894,40.375778,-83.758894,40.375778",
+    "geom:latitude": 40.375778,
+    "geom:longitude": -83.758894,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10 Hunter Pl",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 599 2340",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "sg:tags":[
-        "ambulance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 599 2340",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "sg:tags": [
+      "ambulance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hHT9qmBboRngfgcrPUbQ2_40.375778_-83.758894@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0hHT9qmBboRngfgcrPUbQ2_40.375778_-83.758894@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797907,
-    "wof:geomhash":"7c5998cc092b4fa2ce5ca084d7fff67d",
-    "wof:hierarchy":[],
-    "wof:id":706192277,
-    "wof:lastmodified":1472639460,
-    "wof:name":"Robinaugh Emergency Medical",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ambulance"
+    "wof:country": "US",
+    "wof:created": 1461797907,
+    "wof:geomhash": "6d2dcd76a1288c19f307eb6a8e2bb2df",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706192277
+      }
+    ],
+    "wof:id": 706192277,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Robinaugh Emergency Medical",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ambulance"
     ]
-},
+  },
   "bbox": [
     -83.758894,
     40.375778,
     -83.758894,
     40.375778
-],
+  ],
   "geometry": {"coordinates":[-83.758894,40.375778],"type":"Point"}
 }

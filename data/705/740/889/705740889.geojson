@@ -2,61 +2,65 @@
   "id": 705740889,
   "type": "Feature",
   "properties": {
-    "addr:full":"186 Mulberry Ave Pomeroy OH 45769",
-    "addr:housenumber":"186",
-    "addr:postcode":"45769",
-    "addr:street":"Mulberry Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.038512,39.029817,-82.038512,39.029817",
-    "geom:latitude":39.029817,
-    "geom:longitude":-82.038512,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"186 Mulberry Ave",
-    "sg:city":"Pomeroy",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "186 Mulberry Ave Pomeroy OH 45769",
+    "addr:housenumber": "186",
+    "addr:postcode": "45769",
+    "addr:street": "Mulberry Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.038512,39.029817,-82.038512,39.029817",
+    "geom:latitude": 39.029817,
+    "geom:longitude": -82.038512,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "186 Mulberry Ave",
+    "sg:city": "Pomeroy",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 992 2020",
-    "sg:postcode":"45769",
-    "sg:province":"OH",
-    "sg:tags":[
-        "communication"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 992 2020",
+    "sg:postcode": "45769",
+    "sg:province": "OH",
+    "sg:tags": [
+      "communication"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3APOtvRStMWCT6S7IB9SHb_39.029817_-82.038512@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3APOtvRStMWCT6S7IB9SHb_39.029817_-82.038512@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787665,
-    "wof:geomhash":"d1bd2559c06b2501445b773651442502",
-    "wof:hierarchy":[],
-    "wof:id":705740889,
-    "wof:lastmodified":1472639026,
-    "wof:name":"Mobile Tel Cmmnctons Solutions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "communication"
+    "wof:country": "US",
+    "wof:created": 1461787665,
+    "wof:geomhash": "ae4a020abdf25d66cf2c554e0f7bb905",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705740889
+      }
+    ],
+    "wof:id": 705740889,
+    "wof:lastmodified": 1638566955,
+    "wof:name": "Mobile Tel Cmmnctons Solutions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "communication"
     ]
-},
+  },
   "bbox": [
     -82.038512,
     39.029817,
     -82.038512,
     39.029817
-],
+  ],
   "geometry": {"coordinates":[-82.038512,39.029817],"type":"Point"}
 }

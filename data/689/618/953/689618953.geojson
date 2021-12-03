@@ -2,61 +2,65 @@
   "id": 689618953,
   "type": "Feature",
   "properties": {
-    "addr:full":"525 W Plane St Bethel OH 45106",
-    "addr:housenumber":"525",
-    "addr:postcode":"45106",
-    "addr:street":"W Plane St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.085399,38.963797,-84.085399,38.963797",
-    "geom:latitude":38.963797,
-    "geom:longitude":-84.085399,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"525 W Plane St",
-    "sg:city":"Bethel",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "525 W Plane St Bethel OH 45106",
+    "addr:housenumber": "525",
+    "addr:postcode": "45106",
+    "addr:street": "W Plane St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.085399,38.963797,-84.085399,38.963797",
+    "geom:latitude": 38.963797,
+    "geom:longitude": -84.085399,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "525 W Plane St",
+    "sg:city": "Bethel",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 734 4555",
-    "sg:postcode":"45106",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 734 4555",
+    "sg:postcode": "45106",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1RVn4moQfF8NWe9s0tDvVj_38.963797_-84.085399@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1RVn4moQfF8NWe9s0tDvVj_38.963797_-84.085399@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776865,
-    "wof:geomhash":"c64740637d9de8ecf196cdd498462a68",
-    "wof:hierarchy":[],
-    "wof:id":689618953,
-    "wof:lastmodified":1472639475,
-    "wof:name":"Regional Family Healthcare",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461776865,
+    "wof:geomhash": "46f8fa7c57d38e1e718b65059e374780",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689618953
+      }
+    ],
+    "wof:id": 689618953,
+    "wof:lastmodified": 1638567000,
+    "wof:name": "Regional Family Healthcare",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -84.085399,
     38.963797,
     -84.085399,
     38.963797
-],
+  ],
   "geometry": {"coordinates":[-84.085399,38.963797],"type":"Point"}
 }

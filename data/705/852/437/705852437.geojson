@@ -2,61 +2,65 @@
   "id": 705852437,
   "type": "Feature",
   "properties": {
-    "addr:full":"26581 Bagley Rd Cleveland OH 44138",
-    "addr:housenumber":"26581",
-    "addr:postcode":"44138",
-    "addr:street":"Bagley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.914772,41.372624,-81.914772,41.372624",
-    "geom:latitude":41.372624,
-    "geom:longitude":-81.914772,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"26581 Bagley Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "26581 Bagley Rd Cleveland OH 44138",
+    "addr:housenumber": "26581",
+    "addr:postcode": "44138",
+    "addr:street": "Bagley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.914772,41.372624,-81.914772,41.372624",
+    "geom:latitude": 41.372624,
+    "geom:longitude": -81.914772,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "26581 Bagley Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 235 1919",
-    "sg:postcode":"44138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 235 1919",
+    "sg:postcode": "44138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2MylIrUrhY0xAagyDzUCLb_41.372624_-81.914772@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2MylIrUrhY0xAagyDzUCLb_41.372624_-81.914772@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790242,
-    "wof:geomhash":"f633fbcbfae1d3b6f35ac11960cc380c",
-    "wof:hierarchy":[],
-    "wof:id":705852437,
-    "wof:lastmodified":1472639403,
-    "wof:name":"Olmsted Falls Baptist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461790242,
+    "wof:geomhash": "58e5026535809429f7aa0b962b6f3507",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705852437
+      }
+    ],
+    "wof:id": 705852437,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Olmsted Falls Baptist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.914772,
     41.372624,
     -81.914772,
     41.372624
-],
+  ],
   "geometry": {"coordinates":[-81.914772,41.372624],"type":"Point"}
 }

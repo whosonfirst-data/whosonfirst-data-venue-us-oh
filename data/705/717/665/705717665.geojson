@@ -2,66 +2,70 @@
   "id": 705717665,
   "type": "Feature",
   "properties": {
-    "addr:full":"9000 Center Rd Wilmington OH 45177",
-    "addr:housenumber":"9000",
-    "addr:postcode":"45177",
-    "addr:street":"Center Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.971615,39.537842,-83.971615,39.537842",
-    "geom:latitude":39.537842,
-    "geom:longitude":-83.971615,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9000 Center Rd",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"Amusement Park",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "9000 Center Rd Wilmington OH 45177",
+    "addr:housenumber": "9000",
+    "addr:postcode": "45177",
+    "addr:street": "Center Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.971615,39.537842,-83.971615,39.537842",
+    "geom:latitude": 39.537842,
+    "geom:longitude": -83.971615,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9000 Center Rd",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Amusement Park",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 488 4595",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "park"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 488 4595",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "park"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6EymrhRJWWe981Fl1LIPDH_39.537842_-83.971615@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6EymrhRJWWe981Fl1LIPDH_39.537842_-83.971615@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787103,
-    "wof:geomhash":"1a2212ad8632b291e33cb22505f5a9fe",
-    "wof:hierarchy":[],
-    "wof:id":705717665,
-    "wof:lastmodified":1472638458,
-    "wof:name":"Caesar Creek State Park",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "park"
+    "wof:country": "US",
+    "wof:created": 1461787103,
+    "wof:geomhash": "26076dc6efd88442e461bedabdcbf978",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705717665
+      }
+    ],
+    "wof:id": 705717665,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "Caesar Creek State Park",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "park"
     ]
-},
+  },
   "bbox": [
     -83.971615,
     39.537842,
     -83.971615,
     39.537842
-],
+  ],
   "geometry": {"coordinates":[-83.971615,39.537842],"type":"Point"}
 }

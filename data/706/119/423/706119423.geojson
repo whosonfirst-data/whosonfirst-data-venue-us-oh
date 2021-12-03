@@ -2,59 +2,63 @@
   "id": 706119423,
   "type": "Feature",
   "properties": {
-    "addr:full":"331 Main St Cincinnati OH 45202",
-    "addr:housenumber":"331",
-    "addr:postcode":"45202",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.509274,39.099334,-84.509274,39.099334",
-    "geom:latitude":39.099334,
-    "geom:longitude":-84.509274,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"331 Main St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "331 Main St Cincinnati OH 45202",
+    "addr:housenumber": "331",
+    "addr:postcode": "45202",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.509274,39.099334,-84.509274,39.099334",
+    "geom:latitude": 39.099334,
+    "geom:longitude": -84.509274,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "331 Main St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 985 5190",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573939,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2tW0B2ZT6S0xlwzwA6Eeng_39.099334_-84.509274@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 985 5190",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573939,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2tW0B2ZT6S0xlwzwA6Eeng_39.099334_-84.509274@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796253,
-    "wof:geomhash":"6ee332863822ab447a657912c1f73698",
-    "wof:hierarchy":[],
-    "wof:id":706119423,
-    "wof:lastmodified":1512142338,
-    "wof:name":"Chase",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461796253,
+    "wof:geomhash": "6ee332863822ab447a657912c1f73698",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706119423
+      }
+    ],
+    "wof:id": 706119423,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Chase",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.509274,
     39.099334,
     -84.509274,
     39.099334
-],
+  ],
   "geometry": {"coordinates":[-84.509274,39.099334],"type":"Point"}
 }

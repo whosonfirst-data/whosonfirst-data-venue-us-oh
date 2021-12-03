@@ -2,61 +2,65 @@
   "id": 706050655,
   "type": "Feature",
   "properties": {
-    "addr:full":"4299 Kent Rd Stow OH 44224",
-    "addr:housenumber":"4299",
-    "addr:postcode":"44224",
-    "addr:street":"Kent Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.41059,41.157547,-81.41059,41.157547",
-    "geom:latitude":41.157547,
-    "geom:longitude":-81.41059,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4299 Kent Rd",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Used Merchandise",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4299 Kent Rd Stow OH 44224",
+    "addr:housenumber": "4299",
+    "addr:postcode": "44224",
+    "addr:street": "Kent Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.410590,41.157547,-81.410590,41.157547",
+    "geom:latitude": 41.157547,
+    "geom:longitude": -81.41059,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4299 Kent Rd",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Used Merchandise",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 688 0162",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clothing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 688 0162",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clothing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2NsS4XP2aIErWp5kHpeppr_41.157547_-81.410590@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2NsS4XP2aIErWp5kHpeppr_41.157547_-81.410590@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794613,
-    "wof:geomhash":"2fe27b04adc341d27e1ae5a310aefd8b",
-    "wof:hierarchy":[],
-    "wof:id":706050655,
-    "wof:lastmodified":1472639078,
-    "wof:name":"Hippnotik",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clothing"
+    "wof:country": "US",
+    "wof:created": 1461794613,
+    "wof:geomhash": "8067cfca597d1fc9ff519b6f540c60dd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706050655
+      }
+    ],
+    "wof:id": 706050655,
+    "wof:lastmodified": 1638566971,
+    "wof:name": "Hippnotik",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clothing"
     ]
-},
+  },
   "bbox": [
     -81.41059,
     41.157547,
     -81.41059,
     41.157547
-],
+  ],
   "geometry": {"coordinates":[-81.41059,41.157547],"type":"Point"}
 }

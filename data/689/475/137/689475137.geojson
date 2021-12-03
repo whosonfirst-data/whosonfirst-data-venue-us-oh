@@ -2,61 +2,65 @@
   "id": 689475137,
   "type": "Feature",
   "properties": {
-    "addr:full":"5610 Alan Moss Ct Dublin OH 43017",
-    "addr:housenumber":"5610",
-    "addr:postcode":"43017",
-    "addr:street":"Alan Moss Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.143069,40.11489,-83.143069,40.11489",
-    "geom:latitude":40.11489,
-    "geom:longitude":-83.143069,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5610 Alan Moss Ct",
-    "sg:city":"Dublin",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "5610 Alan Moss Ct Dublin OH 43017",
+    "addr:housenumber": "5610",
+    "addr:postcode": "43017",
+    "addr:street": "Alan Moss Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.143069,40.114890,-83.143069,40.114890",
+    "geom:latitude": 40.11489,
+    "geom:longitude": -83.143069,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5610 Alan Moss Ct",
+    "sg:city": "Dublin",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 424 5259",
-    "sg:postcode":"43017",
-    "sg:province":"OH",
-    "sg:tags":[
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 424 5259",
+    "sg:postcode": "43017",
+    "sg:province": "OH",
+    "sg:tags": [
+      "specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1owbt8oMquObQK4ICb6GgB_40.114890_-83.143069@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1owbt8oMquObQK4ICb6GgB_40.114890_-83.143069@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772381,
-    "wof:geomhash":"d4d9406290c53d277a902eb2b83fd8ea",
-    "wof:hierarchy":[],
-    "wof:id":689475137,
-    "wof:lastmodified":1472638428,
-    "wof:name":"John Johnson Dvm",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "specialty"
+    "wof:country": "US",
+    "wof:created": 1461772381,
+    "wof:geomhash": "a430c3ab6be26d99e7f5cf2b4299a6dc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689475137
+      }
+    ],
+    "wof:id": 689475137,
+    "wof:lastmodified": 1638566921,
+    "wof:name": "John Johnson Dvm",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -83.143069,
     40.11489,
     -83.143069,
     40.11489
-],
+  ],
   "geometry": {"coordinates":[-83.143069,40.11489],"type":"Point"}
 }

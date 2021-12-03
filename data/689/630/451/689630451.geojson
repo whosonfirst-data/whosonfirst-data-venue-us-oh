@@ -2,61 +2,65 @@
   "id": 689630451,
   "type": "Feature",
   "properties": {
-    "addr:full":"135 Walnut St Rossford OH 43460",
-    "addr:housenumber":"135",
-    "addr:postcode":"43460",
-    "addr:street":"Walnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.556557,41.610125,-83.556557,41.610125",
-    "geom:latitude":41.610125,
-    "geom:longitude":-83.556557,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"135 Walnut St",
-    "sg:city":"Rossford",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "135 Walnut St Rossford OH 43460",
+    "addr:housenumber": "135",
+    "addr:postcode": "43460",
+    "addr:street": "Walnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.556557,41.610125,-83.556557,41.610125",
+    "geom:latitude": 41.610125,
+    "geom:longitude": -83.556557,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "135 Walnut St",
+    "sg:city": "Rossford",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 666 5627",
-    "sg:postcode":"43460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 666 5627",
+    "sg:postcode": "43460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ZHf1O3agFzCwfaCegpZj6_41.610125_-83.556557@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5ZHf1O3agFzCwfaCegpZj6_41.610125_-83.556557@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777165,
-    "wof:geomhash":"a752f78223dc48ab4c1a52824041f8f7",
-    "wof:hierarchy":[],
-    "wof:id":689630451,
-    "wof:lastmodified":1472639474,
-    "wof:name":"St Michael's Ukrainian Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461777165,
+    "wof:geomhash": "8b77b64795c04e71379408d9c358122f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689630451
+      }
+    ],
+    "wof:id": 689630451,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "St Michael's Ukrainian Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.556557,
     41.610125,
     -83.556557,
     41.610125
-],
+  ],
   "geometry": {"coordinates":[-83.556557,41.610125],"type":"Point"}
 }

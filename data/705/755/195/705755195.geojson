@@ -2,61 +2,65 @@
   "id": 705755195,
   "type": "Feature",
   "properties": {
-    "addr:full":"460 Rowe Rd Lockbourne OH 43137",
-    "addr:housenumber":"460",
-    "addr:postcode":"43137",
-    "addr:street":"Rowe Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.997256,39.81811,-82.997256,39.81811",
-    "geom:latitude":39.81811,
-    "geom:longitude":-82.997256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"460 Rowe Rd",
-    "sg:city":"Lockbourne",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "460 Rowe Rd Lockbourne OH 43137",
+    "addr:housenumber": "460",
+    "addr:postcode": "43137",
+    "addr:street": "Rowe Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.997256,39.818110,-82.997256,39.818110",
+    "geom:latitude": 39.81811,
+    "geom:longitude": -82.997256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "460 Rowe Rd",
+    "sg:city": "Lockbourne",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 491 3421",
-    "sg:postcode":"43137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 491 3421",
+    "sg:postcode": "43137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Z5J3KccbaSFtZBj6JLbm4_39.818110_-82.997256@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Z5J3KccbaSFtZBj6JLbm4_39.818110_-82.997256@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787985,
-    "wof:geomhash":"a61fcf777bdbd2966ff9f24a55cd3a3c",
-    "wof:hierarchy":[],
-    "wof:id":705755195,
-    "wof:lastmodified":1472639167,
-    "wof:name":"Fernwood Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461787985,
+    "wof:geomhash": "d46c78e0079b86ce3dff38177742090c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705755195
+      }
+    ],
+    "wof:id": 705755195,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Fernwood Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -82.997256,
     39.81811,
     -82.997256,
     39.81811
-],
-  "geometry": {"coordinates":[-82.99725599999999,39.81811],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.997256,39.81811],"type":"Point"}
 }

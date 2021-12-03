@@ -2,61 +2,65 @@
   "id": 689828339,
   "type": "Feature",
   "properties": {
-    "addr:full":"530 N Gilbert St Ada OH 45810",
-    "addr:housenumber":"530",
-    "addr:postcode":"45810",
-    "addr:street":"N Gilbert St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.824619,40.775601,-83.824619,40.775601",
-    "geom:latitude":40.775601,
-    "geom:longitude":-83.824619,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"530 N Gilbert St",
-    "sg:city":"Ada",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "530 N Gilbert St Ada OH 45810",
+    "addr:housenumber": "530",
+    "addr:postcode": "45810",
+    "addr:street": "N Gilbert St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.824619,40.775601,-83.824619,40.775601",
+    "geom:latitude": 40.775601,
+    "geom:longitude": -83.824619,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "530 N Gilbert St",
+    "sg:city": "Ada",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 634 8070",
-    "sg:postcode":"45810",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 634 8070",
+    "sg:postcode": "45810",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_57AU5rA7bihMyd6JsSfqEU_40.775601_-83.824619@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_57AU5rA7bihMyd6JsSfqEU_40.775601_-83.824619@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782737,
-    "wof:geomhash":"e597a4ee39c328ff4c792a2ec8c9eb81",
-    "wof:hierarchy":[],
-    "wof:id":689828339,
-    "wof:lastmodified":1472639897,
-    "wof:name":"Rescue Squad",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461782737,
+    "wof:geomhash": "26d6503ac361ef0fcfd826df09032ce1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689828339
+      }
+    ],
+    "wof:id": 689828339,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Rescue Squad",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.824619,
     40.775601,
     -83.824619,
     40.775601
-],
+  ],
   "geometry": {"coordinates":[-83.824619,40.775601],"type":"Point"}
 }

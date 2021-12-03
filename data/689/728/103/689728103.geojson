@@ -2,56 +2,60 @@
   "id": 689728103,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 Bellflower Rd NW Minerva OH 44657",
-    "addr:housenumber":"225",
-    "addr:postcode":"minerva;44657",
-    "addr:street":"Bellflower Rd Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.099827,40.66897,-81.099827,40.66897",
-    "geom:latitude":40.66897,
-    "geom:longitude":-81.099827,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"225 Bellflower Rd NW",
-    "sg:city":"Minerva",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Dairy Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "225 Bellflower Rd NW Minerva OH 44657",
+    "addr:housenumber": "225",
+    "addr:postcode": "minerva;44657",
+    "addr:street": "Bellflower Rd Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.099827,40.668970,-81.099827,40.668970",
+    "geom:latitude": 40.66897,
+    "geom:longitude": -81.099827,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "225 Bellflower Rd NW",
+    "sg:city": "Minerva",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Dairy Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 895 2801",
-    "sg:postcode":"44657",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1I2wH9EEgnURK1ycn1Kvtr_40.668970_-81.099827@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 895 2801",
+    "sg:postcode": "44657",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1I2wH9EEgnURK1ycn1Kvtr_40.668970_-81.099827@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779883,
-    "wof:geomhash":"280a3f882a923cb9f09a762d8adea3b1",
-    "wof:hierarchy":[],
-    "wof:id":689728103,
-    "wof:lastmodified":1472639724,
-    "wof:name":"Sun Valley Dairy Farm",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461779883,
+    "wof:geomhash": "9d27ec0cda7ca035c853f348c62ac80e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689728103
+      }
+    ],
+    "wof:id": 689728103,
+    "wof:lastmodified": 1638567030,
+    "wof:name": "Sun Valley Dairy Farm",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.099827,
     40.66897,
     -81.099827,
     40.66897
-],
+  ],
   "geometry": {"coordinates":[-81.099827,40.66897],"type":"Point"}
 }

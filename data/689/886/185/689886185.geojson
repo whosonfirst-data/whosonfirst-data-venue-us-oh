@@ -2,72 +2,76 @@
   "id": 689886185,
   "type": "Feature",
   "properties": {
-    "addr:full":"218 N Harrison St New Madison OH 45346",
-    "addr:housenumber":"218",
-    "addr:postcode":"45346",
-    "addr:street":"N Harrison St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.705748,39.969589,-84.705748,39.969589",
-    "geom:latitude":39.969589,
-    "geom:longitude":-84.705748,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"218 N Harrison St",
-    "sg:city":"New Madison",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        },
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "218 N Harrison St New Madison OH 45346",
+    "addr:housenumber": "218",
+    "addr:postcode": "45346",
+    "addr:street": "N Harrison St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.705748,39.969589,-84.705748,39.969589",
+    "geom:latitude": 39.969589,
+    "geom:longitude": -84.705748,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "218 N Harrison St",
+    "sg:city": "New Madison",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      },
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 996 8700",
-    "sg:postcode":"45346",
-    "sg:province":"OH",
-    "sg:tags":[
-        "building",
-        "nonresidential",
-        "hall",
-        "auditorium"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 996 8700",
+    "sg:postcode": "45346",
+    "sg:province": "OH",
+    "sg:tags": [
+      "building",
+      "nonresidential",
+      "hall",
+      "auditorium"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5MepJIz87Xg2ITcnd0soFV_39.969589_-84.705748@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5MepJIz87Xg2ITcnd0soFV_39.969589_-84.705748@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784206,
-    "wof:geomhash":"64d332320a426b27df84d9f3e74c9a5d",
-    "wof:hierarchy":[],
-    "wof:id":689886185,
-    "wof:lastmodified":1472640016,
-    "wof:name":"New Madison Community Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "building",
-        "nonresidential",
-        "hall",
-        "auditorium"
+    "wof:country": "US",
+    "wof:created": 1461784206,
+    "wof:geomhash": "f60d079bb68e2450f9e87b7360561aea",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689886185
+      }
+    ],
+    "wof:id": 689886185,
+    "wof:lastmodified": 1638567096,
+    "wof:name": "New Madison Community Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "building",
+      "nonresidential",
+      "hall",
+      "auditorium"
     ]
-},
+  },
   "bbox": [
     -84.705748,
     39.969589,
     -84.705748,
     39.969589
-],
+  ],
   "geometry": {"coordinates":[-84.705748,39.969589],"type":"Point"}
 }

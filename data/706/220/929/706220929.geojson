@@ -2,61 +2,65 @@
   "id": 706220929,
   "type": "Feature",
   "properties": {
-    "addr:full":"1884 N Ellsworth Ave Salem OH 44460",
-    "addr:housenumber":"1884",
-    "addr:postcode":"44460",
-    "addr:street":"N Ellsworth Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.856421,40.92244,-80.856421,40.92244",
-    "geom:latitude":40.92244,
-    "geom:longitude":-80.856421,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1884 N Ellsworth Ave",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "1884 N Ellsworth Ave Salem OH 44460",
+    "addr:housenumber": "1884",
+    "addr:postcode": "44460",
+    "addr:street": "N Ellsworth Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.856421,40.922440,-80.856421,40.922440",
+    "geom:latitude": 40.92244,
+    "geom:longitude": -80.856421,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1884 N Ellsworth Ave",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 337 6211",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "fraternal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 337 6211",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "fraternal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5BdjEu2GMFEiH9PgLMGPNE_40.922440_-80.856421@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5BdjEu2GMFEiH9PgLMGPNE_40.922440_-80.856421@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798521,
-    "wof:geomhash":"8733361ad725664458f8fd4fa062a04e",
-    "wof:hierarchy":[],
-    "wof:id":706220929,
-    "wof:lastmodified":1472639539,
-    "wof:name":"Eagles Fraternal Order",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fraternal"
+    "wof:country": "US",
+    "wof:created": 1461798521,
+    "wof:geomhash": "9d00825d0cf33625fde65ef93295b18b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706220929
+      }
+    ],
+    "wof:id": 706220929,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "Eagles Fraternal Order",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fraternal"
     ]
-},
+  },
   "bbox": [
     -80.856421,
     40.92244,
     -80.856421,
     40.92244
-],
+  ],
   "geometry": {"coordinates":[-80.856421,40.92244],"type":"Point"}
 }

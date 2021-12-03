@@ -2,61 +2,65 @@
   "id": 706392393,
   "type": "Feature",
   "properties": {
-    "addr:full":"2317 S Main St Findlay OH 45840",
-    "addr:housenumber":"2317",
-    "addr:postcode":"45840",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650295,41.011954,-83.650295,41.011954",
-    "geom:latitude":41.011954,
-    "geom:longitude":-83.650295,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2317 S Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2317 S Main St Findlay OH 45840",
+    "addr:housenumber": "2317",
+    "addr:postcode": "45840",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650295,41.011954,-83.650295,41.011954",
+    "geom:latitude": 41.011954,
+    "geom:longitude": -83.650295,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2317 S Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 422 0027",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "special"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 422 0027",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "special"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_680NGVPtzBJx7Ca4QseRmD_41.011954_-83.650295@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_680NGVPtzBJx7Ca4QseRmD_41.011954_-83.650295@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802247,
-    "wof:geomhash":"9eaf77a88715d3cf8a9ef2feed87770f",
-    "wof:hierarchy":[],
-    "wof:id":706392393,
-    "wof:lastmodified":1472639973,
-    "wof:name":"Bowmans Storage Closets",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "special"
+    "wof:country": "US",
+    "wof:created": 1461802247,
+    "wof:geomhash": "5b43b5e4b0ce4eebb0c394776581b26d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706392393
+      }
+    ],
+    "wof:id": 706392393,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Bowmans Storage Closets",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "special"
     ]
-},
+  },
   "bbox": [
     -83.650295,
     41.011954,
     -83.650295,
     41.011954
-],
+  ],
   "geometry": {"coordinates":[-83.650295,41.011954],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689576773,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 S Church St New Carlisle OH 45344",
-    "addr:housenumber":"315",
-    "addr:postcode":"45344",
-    "addr:street":"S Church St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.026642,39.933541,-84.026642,39.933541",
-    "geom:latitude":39.933541,
-    "geom:longitude":-84.026642,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"315 S Church St",
-    "sg:city":"New Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "315 S Church St New Carlisle OH 45344",
+    "addr:housenumber": "315",
+    "addr:postcode": "45344",
+    "addr:street": "S Church St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.026642,39.933541,-84.026642,39.933541",
+    "geom:latitude": 39.933541,
+    "geom:longitude": -84.026642,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "315 S Church St",
+    "sg:city": "New Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 845 3838",
-    "sg:postcode":"45344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 845 3838",
+    "sg:postcode": "45344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2EHKoyooVLvluBPqL4L1bD_39.933541_-84.026642@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2EHKoyooVLvluBPqL4L1bD_39.933541_-84.026642@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775497,
-    "wof:geomhash":"73cbbb1b7fcc25078595aeca8c5449e5",
-    "wof:hierarchy":[],
-    "wof:id":689576773,
-    "wof:lastmodified":1472639338,
-    "wof:name":"New Carlisle Ambulance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461775497,
+    "wof:geomhash": "edd105481f415e528ce62013b3e4ff0a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689576773
+      }
+    ],
+    "wof:id": 689576773,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "New Carlisle Ambulance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.026642,
     39.933541,
     -84.026642,
     39.933541
-],
+  ],
   "geometry": {"coordinates":[-84.026642,39.933541],"type":"Point"}
 }

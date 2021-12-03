@@ -2,65 +2,69 @@
   "id": 706573015,
   "type": "Feature",
   "properties": {
-    "addr:full":"1403 Wagner Ave Greenville OH 45331",
-    "addr:housenumber":"1403",
-    "addr:postcode":"45331",
-    "addr:street":"Wagner Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.620619,40.12464,-84.620619,40.12464",
-    "geom:latitude":40.12464,
-    "geom:longitude":-84.620619,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1403 Wagner Ave",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1403 Wagner Ave Greenville OH 45331",
+    "addr:housenumber": "1403",
+    "addr:postcode": "45331",
+    "addr:street": "Wagner Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.620619,40.124640,-84.620619,40.124640",
+    "geom:latitude": 40.12464,
+    "geom:longitude": -84.620619,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1403 Wagner Ave",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/greenville/44160-bob-evans/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 547 9193",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/greenville/44160-bob-evans/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 547 9193",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125148825,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61kHpja56jELSQWUUGaicF_40.124640_-84.620619@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125148825,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_61kHpja56jELSQWUUGaicF_40.124640_-84.620619@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806127,
-    "wof:geomhash":"444c695c8311680b77ae2085ec35342f",
-    "wof:hierarchy":[],
-    "wof:id":706573015,
-    "wof:lastmodified":1510877539,
-    "wof:name":"Bob Evans",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806127,
+    "wof:geomhash": "444c695c8311680b77ae2085ec35342f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706573015
+      }
+    ],
+    "wof:id": 706573015,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Bob Evans",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.620619,
     40.12464,
     -84.620619,
     40.12464
-],
+  ],
   "geometry": {"coordinates":[-84.620619,40.12464],"type":"Point"}
 }

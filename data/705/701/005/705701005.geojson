@@ -2,61 +2,65 @@
   "id": 705701005,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Fountain St Hicksville OH 43526",
-    "addr:housenumber":"401",
-    "addr:postcode":"43526",
-    "addr:street":"Fountain St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.763412,41.287835,-84.763412,41.287835",
-    "geom:latitude":41.287835,
-    "geom:longitude":-84.763412,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 Fountain St",
-    "sg:city":"Hicksville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "401 Fountain St Hicksville OH 43526",
+    "addr:housenumber": "401",
+    "addr:postcode": "43526",
+    "addr:street": "Fountain St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.763412,41.287835,-84.763412,41.287835",
+    "geom:latitude": 41.287835,
+    "geom:longitude": -84.763412,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "401 Fountain St",
+    "sg:city": "Hicksville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 542 7795",
-    "sg:postcode":"43526",
-    "sg:province":"OH",
-    "sg:tags":[
-        "skilled"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 542 7795",
+    "sg:postcode": "43526",
+    "sg:province": "OH",
+    "sg:tags": [
+      "skilled"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ZxROeG49XA4RoueRap0Xt_41.287835_-84.763412@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6ZxROeG49XA4RoueRap0Xt_41.287835_-84.763412@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786573,
-    "wof:geomhash":"e7e1f82a4fc2524f6da58954e0492989",
-    "wof:hierarchy":[],
-    "wof:id":705701005,
-    "wof:lastmodified":1472638249,
-    "wof:name":"Hickory Creek At Hicksville",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "skilled"
+    "wof:country": "US",
+    "wof:created": 1461786573,
+    "wof:geomhash": "d1139b6992daf44b1550a939977bf717",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705701005
+      }
+    ],
+    "wof:id": 705701005,
+    "wof:lastmodified": 1638566919,
+    "wof:name": "Hickory Creek At Hicksville",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "skilled"
     ]
-},
+  },
   "bbox": [
     -84.763412,
     41.287835,
     -84.763412,
     41.287835
-],
+  ],
   "geometry": {"coordinates":[-84.763412,41.287835],"type":"Point"}
 }

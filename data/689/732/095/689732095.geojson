@@ -2,61 +2,65 @@
   "id": 689732095,
   "type": "Feature",
   "properties": {
-    "addr:full":"741 Mill Rd Bellville OH 44813",
-    "addr:housenumber":"741",
-    "addr:postcode":"44813",
-    "addr:street":"Mill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.48487,40.609754,-82.48487,40.609754",
-    "geom:latitude":40.609754,
-    "geom:longitude":-82.48487,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"741 Mill Rd",
-    "sg:city":"Bellville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "741 Mill Rd Bellville OH 44813",
+    "addr:housenumber": "741",
+    "addr:postcode": "44813",
+    "addr:street": "Mill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.484870,40.609754,-82.484870,40.609754",
+    "geom:latitude": 40.609754,
+    "geom:longitude": -82.48487,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "741 Mill Rd",
+    "sg:city": "Bellville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 886 0200",
-    "sg:postcode":"44813",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 886 0200",
+    "sg:postcode": "44813",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0lnkaLYw5Ty4qF9jztB7qb_40.609754_-82.484870@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0lnkaLYw5Ty4qF9jztB7qb_40.609754_-82.484870@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779988,
-    "wof:geomhash":"15d2b3f81db8781bd208fc31457795e3",
-    "wof:hierarchy":[],
-    "wof:id":689732095,
-    "wof:lastmodified":1472639723,
-    "wof:name":"Clearfork Family Dentistry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461779988,
+    "wof:geomhash": "579ff8a92ed90372ec2befbde4c16f75",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689732095
+      }
+    ],
+    "wof:id": 689732095,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Clearfork Family Dentistry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.48487,
     40.609754,
     -82.48487,
     40.609754
-],
+  ],
   "geometry": {"coordinates":[-82.48487,40.609754],"type":"Point"}
 }

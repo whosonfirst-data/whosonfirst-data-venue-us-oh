@@ -2,61 +2,65 @@
   "id": 689751309,
   "type": "Feature",
   "properties": {
-    "addr:full":"7500 Armstrong Rd London OH 43140",
-    "addr:housenumber":"7500",
-    "addr:postcode":"43140",
-    "addr:street":"Armstrong Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.423266,39.825102,-83.423266,39.825102",
-    "geom:latitude":39.825102,
-    "geom:longitude":-83.423266,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7500 Armstrong Rd",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "7500 Armstrong Rd London OH 43140",
+    "addr:housenumber": "7500",
+    "addr:postcode": "43140",
+    "addr:street": "Armstrong Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.423266,39.825102,-83.423266,39.825102",
+    "geom:latitude": 39.825102,
+    "geom:longitude": -83.423266,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7500 Armstrong Rd",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 9040",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 9040",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_44JbmTPgxR5s5tquafneKk_39.825102_-83.423266@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_44JbmTPgxR5s5tquafneKk_39.825102_-83.423266@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780487,
-    "wof:geomhash":"4491c8f4ca84f6756a28eb09126e449c",
-    "wof:hierarchy":[],
-    "wof:id":689751309,
-    "wof:lastmodified":1472639777,
-    "wof:name":"Freeman & Sons Fencing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461780487,
+    "wof:geomhash": "1adfe7ede00238fd5e0183e8eaf098ab",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689751309
+      }
+    ],
+    "wof:id": 689751309,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Freeman \u0026 Sons Fencing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.423266,
     39.825102,
     -83.423266,
     39.825102
-],
+  ],
   "geometry": {"coordinates":[-83.423266,39.825102],"type":"Point"}
 }

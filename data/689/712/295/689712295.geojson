@@ -2,63 +2,67 @@
   "id": 689712295,
   "type": "Feature",
   "properties": {
-    "addr:full":"98 E Franklin St Dayton OH 45459",
-    "addr:housenumber":"98",
-    "addr:postcode":"45459",
-    "addr:street":"E Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.154123,39.628504,-84.154123,39.628504",
-    "geom:latitude":39.628504,
-    "geom:longitude":-84.154123,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"98 E Franklin St",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "98 E Franklin St Dayton OH 45459",
+    "addr:housenumber": "98",
+    "addr:postcode": "45459",
+    "addr:street": "E Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.154123,39.628504,-84.154123,39.628504",
+    "geom:latitude": 39.628504,
+    "geom:longitude": -84.154123,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "98 E Franklin St",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 312 0544",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "childbirth",
-        "education"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 312 0544",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "childbirth",
+      "education"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0eGVLtw8q6i5j46zd18ogM_39.628504_-84.154123@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0eGVLtw8q6i5j46zd18ogM_39.628504_-84.154123@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779455,
-    "wof:geomhash":"4f543e6c865130ddf4ac229bac92d0ed",
-    "wof:hierarchy":[],
-    "wof:id":689712295,
-    "wof:lastmodified":1472639709,
-    "wof:name":"Perinatal Education Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "childbirth",
-        "education"
+    "wof:country": "US",
+    "wof:created": 1461779455,
+    "wof:geomhash": "908d6876c7e38f631a896d4fd66ebd65",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689712295
+      }
+    ],
+    "wof:id": 689712295,
+    "wof:lastmodified": 1638567021,
+    "wof:name": "Perinatal Education Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "childbirth",
+      "education"
     ]
-},
+  },
   "bbox": [
     -84.154123,
     39.628504,
     -84.154123,
     39.628504
-],
+  ],
   "geometry": {"coordinates":[-84.154123,39.628504],"type":"Point"}
 }

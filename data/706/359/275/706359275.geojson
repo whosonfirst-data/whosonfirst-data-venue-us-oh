@@ -2,63 +2,67 @@
   "id": 706359275,
   "type": "Feature",
   "properties": {
-    "addr:full":"310 S Main St Bellefontaine OH 43311",
-    "addr:housenumber":"310",
-    "addr:postcode":"43311",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.760133,40.35796,-83.760133,40.35796",
-    "geom:latitude":40.35796,
-    "geom:longitude":-83.760133,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"310 S Main St",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "310 S Main St Bellefontaine OH 43311",
+    "addr:housenumber": "310",
+    "addr:postcode": "43311",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.760133,40.357960,-83.760133,40.357960",
+    "geom:latitude": 40.35796,
+    "geom:longitude": -83.760133,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "310 S Main St",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 599 3345",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county",
-        "resource"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 599 3345",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county",
+      "resource"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_68OpMwnFxtp3RXbOAvLYi9_40.357960_-83.760133@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_68OpMwnFxtp3RXbOAvLYi9_40.357960_-83.760133@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801595,
-    "wof:geomhash":"32a11c19de0428bf8d1d005b1ddcdc9e",
-    "wof:hierarchy":[],
-    "wof:id":706359275,
-    "wof:lastmodified":1472639907,
-    "wof:name":"Logan County WIC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county",
-        "resource"
+    "wof:country": "US",
+    "wof:created": 1461801595,
+    "wof:geomhash": "cc2ecdccae3fe42f6240fcdac5cbeca2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706359275
+      }
+    ],
+    "wof:id": 706359275,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "Logan County WIC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county",
+      "resource"
     ]
-},
+  },
   "bbox": [
     -83.760133,
     40.35796,
     -83.760133,
     40.35796
-],
+  ],
   "geometry": {"coordinates":[-83.760133,40.35796],"type":"Point"}
 }

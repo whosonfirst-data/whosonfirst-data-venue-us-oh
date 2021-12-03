@@ -2,57 +2,61 @@
   "id": 689615101,
   "type": "Feature",
   "properties": {
-    "addr:full":"6901 Rockside Rd Cleveland OH 44131",
-    "addr:housenumber":"6901",
-    "addr:postcode":"44131",
-    "addr:street":"Rockside Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.641981,41.394509,-81.641981,41.394509",
-    "geom:latitude":41.394509,
-    "geom:longitude":-81.641981,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6901 Rockside Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6901 Rockside Rd Cleveland OH 44131",
+    "addr:housenumber": "6901",
+    "addr:postcode": "44131",
+    "addr:street": "Rockside Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.641981,41.394509,-81.641981,41.394509",
+    "geom:latitude": 41.394509,
+    "geom:longitude": -81.641981,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6901 Rockside Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 524 2226",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "sg:website":"www.winkinglizard.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4tVVC8SyLb5J6dtSMaPfwX_41.394509_-81.641981@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 524 2226",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "sg:website": "www.winkinglizard.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4tVVC8SyLb5J6dtSMaPfwX_41.394509_-81.641981@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776766,
-    "wof:geomhash":"4626fe562216a9bbca9b0d283702b711",
-    "wof:hierarchy":[],
-    "wof:id":689615101,
-    "wof:lastmodified":1472639440,
-    "wof:name":"Winking Lizard Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461776766,
+    "wof:geomhash": "de9bb03dab35b31d72d9450afd111687",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689615101
+      }
+    ],
+    "wof:id": 689615101,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "Winking Lizard Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.641981,
     41.394509,
     -81.641981,
     41.394509
-],
+  ],
   "geometry": {"coordinates":[-81.641981,41.394509],"type":"Point"}
 }

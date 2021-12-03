@@ -2,61 +2,65 @@
   "id": 689921985,
   "type": "Feature",
   "properties": {
-    "addr:full":"5 W 4th St Cincinnati OH 45202",
-    "addr:housenumber":"5",
-    "addr:postcode":"45202",
-    "addr:street":"W 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.51422,39.09965,-84.51422,39.09965",
-    "geom:latitude":39.09965,
-    "geom:longitude":-84.51422,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5 W 4th St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5 W 4th St Cincinnati OH 45202",
+    "addr:housenumber": "5",
+    "addr:postcode": "45202",
+    "addr:street": "W 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.514220,39.099650,-84.514220,39.099650",
+    "geom:latitude": 39.09965,
+    "geom:longitude": -84.51422,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5 W 4th St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 381 1273",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 381 1273",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dBYd552oDgsxYxGc0jTUU_39.099650_-84.514220@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3dBYd552oDgsxYxGc0jTUU_39.099650_-84.514220@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785166,
-    "wof:geomhash":"adda77cb333d3507a90c3680807a11c5",
-    "wof:hierarchy":[],
-    "wof:id":689921985,
-    "wof:lastmodified":1472640088,
-    "wof:name":"Dwight D Dessart Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461785166,
+    "wof:geomhash": "4ef5ec40ae023e8320559ea2dcfaa39a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689921985
+      }
+    ],
+    "wof:id": 689921985,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Dwight D Dessart Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.51422,
     39.09965,
     -84.51422,
     39.09965
-],
-  "geometry": {"coordinates":[-84.51421999999999,39.09965],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.51422,39.09965],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689467823,
   "type": "Feature",
   "properties": {
-    "addr:full":"901 Ohio Pike Cincinnati OH 45245",
-    "addr:housenumber":"901",
-    "addr:postcode":"45245",
-    "addr:street":"Ohio Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.270195,39.06077,-84.270195,39.06077",
-    "geom:latitude":39.06077,
-    "geom:longitude":-84.270195,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"901 Ohio Pike",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "901 Ohio Pike Cincinnati OH 45245",
+    "addr:housenumber": "901",
+    "addr:postcode": "45245",
+    "addr:street": "Ohio Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.270195,39.060770,-84.270195,39.060770",
+    "geom:latitude": 39.06077,
+    "geom:longitude": -84.270195,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "901 Ohio Pike",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 752 3331",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appraiser"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 752 3331",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appraiser"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0BUE6nQ0kENA23sj3iR04U_39.060770_-84.270195@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0BUE6nQ0kENA23sj3iR04U_39.060770_-84.270195@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772141,
-    "wof:geomhash":"ab13c94b9a8724d32b0058a4d1d2cd2d",
-    "wof:hierarchy":[],
-    "wof:id":689467823,
-    "wof:lastmodified":1472638352,
-    "wof:name":"Shannon Real Estate Appraisal",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appraiser"
+    "wof:country": "US",
+    "wof:created": 1461772141,
+    "wof:geomhash": "eef5c305d9c6c1ab3e1779034e93fa35",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689467823
+      }
+    ],
+    "wof:id": 689467823,
+    "wof:lastmodified": 1638566915,
+    "wof:name": "Shannon Real Estate Appraisal",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appraiser"
     ]
-},
+  },
   "bbox": [
     -84.270195,
     39.06077,
     -84.270195,
     39.06077
-],
+  ],
   "geometry": {"coordinates":[-84.270195,39.06077],"type":"Point"}
 }

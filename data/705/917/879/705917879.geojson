@@ -2,63 +2,67 @@
   "id": 705917879,
   "type": "Feature",
   "properties": {
-    "addr:full":"16 E 6th St Dresden OH 43821",
-    "addr:housenumber":"16",
-    "addr:postcode":"43821",
-    "addr:street":"E 6Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.01094,40.12361,-82.01094,40.12361",
-    "geom:latitude":40.12361,
-    "geom:longitude":-82.01094,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16 E 6th St",
-    "sg:city":"Dresden",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "16 E 6th St Dresden OH 43821",
+    "addr:housenumber": "16",
+    "addr:postcode": "43821",
+    "addr:street": "E 6Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.010940,40.123610,-82.010940,40.123610",
+    "geom:latitude": 40.12361,
+    "geom:longitude": -82.01094,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16 E 6th St",
+    "sg:city": "Dresden",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 754 2181",
-    "sg:postcode":"43821",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 754 2181",
+    "sg:postcode": "43821",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_49eGFCpsEBkwfrjk53VDhp_40.123610_-82.010940@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_49eGFCpsEBkwfrjk53VDhp_40.123610_-82.010940@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791805,
-    "wof:geomhash":"7f31275e44332b9c7af8a131bc2fc3c1",
-    "wof:hierarchy":[],
-    "wof:id":705917879,
-    "wof:lastmodified":1472639638,
-    "wof:name":"Roosters On Main",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:country": "US",
+    "wof:created": 1461791805,
+    "wof:geomhash": "d78af1a73ebeaefa858355ef13dba209",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705917879
+      }
+    ],
+    "wof:id": 705917879,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Roosters On Main",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -82.01094,
     40.12361,
     -82.01094,
     40.12361
-],
-  "geometry": {"coordinates":[-82.01094000000001,40.12361],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.01094,40.12361],"type":"Point"}
 }

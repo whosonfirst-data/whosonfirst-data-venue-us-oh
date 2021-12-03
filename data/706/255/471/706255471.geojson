@@ -2,63 +2,67 @@
   "id": 706255471,
   "type": "Feature",
   "properties": {
-    "addr:full":"231 Main St Milford OH 45150",
-    "addr:housenumber":"231",
-    "addr:postcode":"45150",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.2955,39.174544,-84.2955,39.174544",
-    "geom:latitude":39.174544,
-    "geom:longitude":-84.2955,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"231 Main St",
-    "sg:city":"Milford",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "231 Main St Milford OH 45150",
+    "addr:housenumber": "231",
+    "addr:postcode": "45150",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.295500,39.174544,-84.295500,39.174544",
+    "geom:latitude": 39.174544,
+    "geom:longitude": -84.2955,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "231 Main St",
+    "sg:city": "Milford",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 831 3003",
-    "sg:postcode":"45150",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 831 3003",
+    "sg:postcode": "45150",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4gVkjHP1eciY2xB9IwhS6F_39.174544_-84.295500@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4gVkjHP1eciY2xB9IwhS6F_39.174544_-84.295500@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799317,
-    "wof:geomhash":"7d282cd6fbec719a153f27ba013323f7",
-    "wof:hierarchy":[],
-    "wof:id":706255471,
-    "wof:lastmodified":1472639608,
-    "wof:name":"Fixler Dermatology",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461799317,
+    "wof:geomhash": "2c4e83cc72d27e42ee7cac25040f9abd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706255471
+      }
+    ],
+    "wof:id": 706255471,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Fixler Dermatology",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.2955,
     39.174544,
     -84.2955,
     39.174544
-],
+  ],
   "geometry": {"coordinates":[-84.2955,39.174544],"type":"Point"}
 }

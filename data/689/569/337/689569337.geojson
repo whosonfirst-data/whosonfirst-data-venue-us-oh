@@ -2,67 +2,71 @@
   "id": 689569337,
   "type": "Feature",
   "properties": {
-    "addr:full":"1260 E Central Ave Miamisburg OH 45342",
-    "addr:housenumber":"1260",
-    "addr:postcode":"45342",
-    "addr:street":"E Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.2649,39.639973,-84.2649,39.639973",
-    "geom:latitude":39.639973,
-    "geom:longitude":-84.2649,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1260 E Central Ave",
-    "sg:city":"Miamisburg",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1260 E Central Ave Miamisburg OH 45342",
+    "addr:housenumber": "1260",
+    "addr:postcode": "45342",
+    "addr:street": "E Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.264900,39.639973,-84.264900,39.639973",
+    "geom:latitude": 39.639973,
+    "geom:longitude": -84.2649,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1260 E Central Ave",
+    "sg:city": "Miamisburg",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 859 3258",
-    "sg:postcode":"45342",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photofinishing",
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 859 3258",
+    "sg:postcode": "45342",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photofinishing",
+      "laboratory"
     ],
-    "sg:website":"www.walgreens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4HhYaJIsab5DHabFqd26T6_39.639973_-84.264900@1294180530"
+    "sg:website": "www.walgreens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4HhYaJIsab5DHabFqd26T6_39.639973_-84.264900@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775271,
-    "wof:geomhash":"d959e5a7f7767cf676612bd3137d6efc",
-    "wof:hierarchy":[],
-    "wof:id":689569337,
-    "wof:lastmodified":1511322343,
-    "wof:name":"Walgreens",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photofinishing",
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461775271,
+    "wof:geomhash": "d959e5a7f7767cf676612bd3137d6efc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689569337
+      }
+    ],
+    "wof:id": 689569337,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Walgreens",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photofinishing",
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -84.2649,
     39.639973,
     -84.2649,
     39.639973
-],
+  ],
   "geometry": {"coordinates":[-84.2649,39.639973],"type":"Point"}
 }

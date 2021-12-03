@@ -2,65 +2,69 @@
   "id": 706571753,
   "type": "Feature",
   "properties": {
-    "addr:full":"12000 Lebanon Rd Cincinnati OH 45241",
-    "addr:housenumber":"12000",
-    "addr:postcode":"45241",
-    "addr:street":"Lebanon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.39318,39.29376,-84.39318,39.29376",
-    "geom:latitude":39.29376,
-    "geom:longitude":-84.39318,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"12000 Lebanon Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "12000 Lebanon Rd Cincinnati OH 45241",
+    "addr:housenumber": "12000",
+    "addr:postcode": "45241",
+    "addr:street": "Lebanon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.393180,39.293760,-84.393180,39.293760",
+    "geom:latitude": 39.29376,
+    "geom:longitude": -84.39318,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "12000 Lebanon Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/sharonville/163789-skyline-chili/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 733 0605",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/oh/sharonville/163789-skyline-chili/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 733 0605",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125151701,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7JySuSWhoewzMATINAYqgH_39.293760_-84.393180@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125151701,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7JySuSWhoewzMATINAYqgH_39.293760_-84.393180@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806095,
-    "wof:geomhash":"74bab48d435728fac382480bdbf7048f",
-    "wof:hierarchy":[],
-    "wof:id":706571753,
-    "wof:lastmodified":1510693982,
-    "wof:name":"Skyline Chili",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461806095,
+    "wof:geomhash": "74bab48d435728fac382480bdbf7048f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706571753
+      }
+    ],
+    "wof:id": 706571753,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Skyline Chili",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -84.39318,
     39.29376,
     -84.39318,
     39.29376
-],
+  ],
   "geometry": {"coordinates":[-84.39318,39.29376],"type":"Point"}
 }

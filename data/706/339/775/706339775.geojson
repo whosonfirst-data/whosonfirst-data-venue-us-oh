@@ -2,65 +2,69 @@
   "id": 706339775,
   "type": "Feature",
   "properties": {
-    "addr:full":"11532 Church Rd Orrville OH 44667",
-    "addr:housenumber":"11532",
-    "addr:postcode":"44667",
-    "addr:street":"Church Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.773141,40.822201,-81.773141,40.822201",
-    "geom:latitude":40.822201,
-    "geom:longitude":-81.773141,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11532 Church Rd",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "11532 Church Rd Orrville OH 44667",
+    "addr:housenumber": "11532",
+    "addr:postcode": "44667",
+    "addr:street": "Church Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.773141,40.822201,-81.773141,40.822201",
+    "geom:latitude": 40.822201,
+    "geom:longitude": -81.773141,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11532 Church Rd",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 683 6103",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 683 6103",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_42ptyDLIF5rk2Iqjzg4iUk_40.822201_-81.773141@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_42ptyDLIF5rk2Iqjzg4iUk_40.822201_-81.773141@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801196,
-    "wof:geomhash":"328055a74dcb0b50ca1888cff300c517",
-    "wof:hierarchy":[],
-    "wof:id":706339775,
-    "wof:lastmodified":1472639854,
-    "wof:name":"Grays Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461801196,
+    "wof:geomhash": "decf294da3594b6706ed0ddf2dd8c95f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706339775
+      }
+    ],
+    "wof:id": 706339775,
+    "wof:lastmodified": 1638567091,
+    "wof:name": "Grays Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.773141,
     40.822201,
     -81.773141,
     40.822201
-],
+  ],
   "geometry": {"coordinates":[-81.773141,40.822201],"type":"Point"}
 }

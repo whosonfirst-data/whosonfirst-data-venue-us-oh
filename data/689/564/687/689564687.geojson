@@ -2,61 +2,65 @@
   "id": 689564687,
   "type": "Feature",
   "properties": {
-    "addr:full":"1849 West Ave NW Warren OH 44483",
-    "addr:housenumber":"1849",
-    "addr:postcode":"44483",
-    "addr:street":"West Ave Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.824636,41.253361,-80.824636,41.253361",
-    "geom:latitude":41.253361,
-    "geom:longitude":-80.824636,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1849 West Ave NW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1849 West Ave NW Warren OH 44483",
+    "addr:housenumber": "1849",
+    "addr:postcode": "44483",
+    "addr:street": "West Ave Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.824636,41.253361,-80.824636,41.253361",
+    "geom:latitude": 41.253361,
+    "geom:longitude": -80.824636,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1849 West Ave NW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 856 6026",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 856 6026",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_21ROGkMQeeck0NQDXx4t9w_41.253361_-80.824636@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_21ROGkMQeeck0NQDXx4t9w_41.253361_-80.824636@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775152,
-    "wof:geomhash":"002c94ee700d33adc8e7cfda156acfae",
-    "wof:hierarchy":[],
-    "wof:id":689564687,
-    "wof:lastmodified":1472639294,
-    "wof:name":"Gathering Ground Community Inc",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461775152,
+    "wof:geomhash": "1da145b3a59e8c7639cc15b1e7c21ca4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689564687
+      }
+    ],
+    "wof:id": 689564687,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Gathering Ground Community Inc",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -80.824636,
     41.253361,
     -80.824636,
     41.253361
-],
+  ],
   "geometry": {"coordinates":[-80.824636,41.253361],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705881531,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Ohio Ave SE Girard OH 44420",
-    "addr:housenumber":"201",
-    "addr:postcode":"44420",
-    "addr:street":"Ohio Ave Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.6861,41.143845,-80.6861,41.143845",
-    "geom:latitude":41.143845,
-    "geom:longitude":-80.6861,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"201 Ohio Ave SE",
-    "sg:city":"Girard",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "201 Ohio Ave SE Girard OH 44420",
+    "addr:housenumber": "201",
+    "addr:postcode": "44420",
+    "addr:street": "Ohio Ave Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.686100,41.143845,-80.686100,41.143845",
+    "geom:latitude": 41.143845,
+    "geom:longitude": -80.6861,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "201 Ohio Ave SE",
+    "sg:city": "Girard",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 530 1907",
-    "sg:postcode":"44420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 530 1907",
+    "sg:postcode": "44420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Xn3YkByp1oGSLFBFCGP3u_41.143845_-80.686100@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Xn3YkByp1oGSLFBFCGP3u_41.143845_-80.686100@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790961,
-    "wof:geomhash":"87ae04c6be8c5152d1a53e80226edeb2",
-    "wof:hierarchy":[],
-    "wof:id":705881531,
-    "wof:lastmodified":1472639521,
-    "wof:name":"Performing Arts Dance Studio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:country": "US",
+    "wof:created": 1461790961,
+    "wof:geomhash": "74893c78f58db05f570deafa2bddc38d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705881531
+      }
+    ],
+    "wof:id": 705881531,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Performing Arts Dance Studio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -80.6861,
     41.143845,
     -80.6861,
     41.143845
-],
+  ],
   "geometry": {"coordinates":[-80.6861,41.143845],"type":"Point"}
 }

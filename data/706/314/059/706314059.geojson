@@ -2,61 +2,65 @@
   "id": 706314059,
   "type": "Feature",
   "properties": {
-    "addr:full":"81 E Pike St Fayetteville OH 45118",
-    "addr:housenumber":"81",
-    "addr:postcode":"45118",
-    "addr:street":"E Pike St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.929929,39.186827,-83.929929,39.186827",
-    "geom:latitude":39.186827,
-    "geom:longitude":-83.929929,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"81 E Pike St",
-    "sg:city":"Fayetteville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Electric",
-            "type":"Services"
-        }
+    "addr:full": "81 E Pike St Fayetteville OH 45118",
+    "addr:housenumber": "81",
+    "addr:postcode": "45118",
+    "addr:street": "E Pike St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.929929,39.186827,-83.929929,39.186827",
+    "geom:latitude": 39.186827,
+    "geom:longitude": -83.929929,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "81 E Pike St",
+    "sg:city": "Fayetteville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Electric",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 875 3656",
-    "sg:postcode":"45118",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 875 3656",
+    "sg:postcode": "45118",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dVJA42RDYevIigOAGiiCm_39.186827_-83.929929@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3dVJA42RDYevIigOAGiiCm_39.186827_-83.929929@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800595,
-    "wof:geomhash":"dde21a81554bbedfdaed31dc8f99816a",
-    "wof:hierarchy":[],
-    "wof:id":706314059,
-    "wof:lastmodified":1472639771,
-    "wof:name":"Fayetteville Utililties",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company"
+    "wof:country": "US",
+    "wof:created": 1461800595,
+    "wof:geomhash": "7d6b7037a1affa62b7a9f6f9e61250f0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706314059
+      }
+    ],
+    "wof:id": 706314059,
+    "wof:lastmodified": 1638567082,
+    "wof:name": "Fayetteville Utililties",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company"
     ]
-},
+  },
   "bbox": [
     -83.929929,
     39.186827,
     -83.929929,
     39.186827
-],
+  ],
   "geometry": {"coordinates":[-83.929929,39.186827],"type":"Point"}
 }

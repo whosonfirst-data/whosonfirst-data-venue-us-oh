@@ -2,65 +2,69 @@
   "id": 689766559,
   "type": "Feature",
   "properties": {
-    "addr:full":"5395 N Park Ave Bristolville OH 44402",
-    "addr:housenumber":"5395",
-    "addr:postcode":"44402",
-    "addr:street":"N Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.810878,41.36853,-80.810878,41.36853",
-    "geom:latitude":41.36853,
-    "geom:longitude":-80.810878,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5395 N Park Ave",
-    "sg:city":"Bristolville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5395 N Park Ave Bristolville OH 44402",
+    "addr:housenumber": "5395",
+    "addr:postcode": "44402",
+    "addr:street": "N Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.810878,41.368530,-80.810878,41.368530",
+    "geom:latitude": 41.36853,
+    "geom:longitude": -80.810878,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5395 N Park Ave",
+    "sg:city": "Bristolville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 889 3699",
-    "sg:postcode":"44402",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 889 3699",
+    "sg:postcode": "44402",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Ds7jlkrueeRTj5MKbTkeJ_41.368530_-80.810878@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Ds7jlkrueeRTj5MKbTkeJ_41.368530_-80.810878@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780947,
-    "wof:geomhash":"a839a3f750a09ee166cb6eca24ca0ecc",
-    "wof:hierarchy":[],
-    "wof:id":689766559,
-    "wof:lastmodified":1472639808,
-    "wof:name":"Ferry Trucking Inc",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461780947,
+    "wof:geomhash": "e1f455b93eeb0eed33aec84e10690cbf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689766559
+      }
+    ],
+    "wof:id": 689766559,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Ferry Trucking Inc",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.810878,
     41.36853,
     -80.810878,
     41.36853
-],
+  ],
   "geometry": {"coordinates":[-80.810878,41.36853],"type":"Point"}
 }

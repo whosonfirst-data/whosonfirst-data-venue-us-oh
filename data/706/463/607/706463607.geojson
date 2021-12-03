@@ -2,61 +2,65 @@
   "id": 706463607,
   "type": "Feature",
   "properties": {
-    "addr:full":"12080 Lick Rd Cincinnati OH 45251",
-    "addr:housenumber":"",
-    "addr:postcode":"12080;45251",
-    "addr:street":"Lick Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.600539,39.303643,-84.600539,39.303643",
-    "geom:latitude":39.303643,
-    "geom:longitude":-84.600539,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12080 Lick Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "12080 Lick Rd Cincinnati OH 45251",
+    "addr:housenumber": "",
+    "addr:postcode": "12080;45251",
+    "addr:street": "Lick Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.600539,39.303643,-84.600539,39.303643",
+    "geom:latitude": 39.303643,
+    "geom:longitude": -84.600539,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12080 Lick Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 825 2297",
-    "sg:postcode":"45251",
-    "sg:province":"OH",
-    "sg:tags":[
-        "stable"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 825 2297",
+    "sg:postcode": "45251",
+    "sg:province": "OH",
+    "sg:tags": [
+      "stable"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4j8aB7JGhgiNO1YY4SHbJB_39.303643_-84.600539@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4j8aB7JGhgiNO1YY4SHbJB_39.303643_-84.600539@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803724,
-    "wof:geomhash":"50044f273c58830cbd616cdb4d61c91a",
-    "wof:hierarchy":[],
-    "wof:id":706463607,
-    "wof:lastmodified":1472640060,
-    "wof:name":"Walnut Creek Stables",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "stable"
+    "wof:country": "US",
+    "wof:created": 1461803724,
+    "wof:geomhash": "00ba78748ecd57e15e772a6b3a17577d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706463607
+      }
+    ],
+    "wof:id": 706463607,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "Walnut Creek Stables",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "stable"
     ]
-},
+  },
   "bbox": [
     -84.600539,
     39.303643,
     -84.600539,
     39.303643
-],
+  ],
   "geometry": {"coordinates":[-84.600539,39.303643],"type":"Point"}
 }

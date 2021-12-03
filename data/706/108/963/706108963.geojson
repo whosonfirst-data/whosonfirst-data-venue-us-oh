@@ -2,63 +2,67 @@
   "id": 706108963,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Main St Wintersville OH 43953",
-    "addr:housenumber":"500",
-    "addr:postcode":"43953",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.695839,40.374539,-80.695839,40.374539",
-    "geom:latitude":40.374539,
-    "geom:longitude":-80.695839,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 Main St",
-    "sg:city":"Wintersville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "500 Main St Wintersville OH 43953",
+    "addr:housenumber": "500",
+    "addr:postcode": "43953",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.695839,40.374539,-80.695839,40.374539",
+    "geom:latitude": 40.374539,
+    "geom:longitude": -80.695839,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 Main St",
+    "sg:city": "Wintersville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 266 9169",
-    "sg:postcode":"43953",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 266 9169",
+    "sg:postcode": "43953",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4rFESkYo8sKTVsBeqW8eaM_40.374539_-80.695839@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4rFESkYo8sKTVsBeqW8eaM_40.374539_-80.695839@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795963,
-    "wof:geomhash":"de42c2293d1b2210f3987135b2ddee3d",
-    "wof:hierarchy":[],
-    "wof:id":706108963,
-    "wof:lastmodified":1472639268,
-    "wof:name":"Heart Care Cardiology",
-    "wof:parent_id":420534923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461795963,
+    "wof:geomhash": "b193deaf461fceac1d3a2548b9b56951",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706108963
+      }
+    ],
+    "wof:id": 706108963,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Heart Care Cardiology",
+    "wof:parent_id": 420534923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.695839,
     40.374539,
     -80.695839,
     40.374539
-],
-  "geometry": {"coordinates":[-80.69583900000001,40.374539],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.695839,40.374539],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706417937,
   "type": "Feature",
   "properties": {
-    "addr:full":"172 N Main St Peebles OH 45660",
-    "addr:housenumber":"172",
-    "addr:postcode":"45660",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.404476,38.950813,-83.404476,38.950813",
-    "geom:latitude":38.950813,
-    "geom:longitude":-83.404476,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"172 N Main St",
-    "sg:city":"Peebles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "172 N Main St Peebles OH 45660",
+    "addr:housenumber": "172",
+    "addr:postcode": "45660",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.404476,38.950813,-83.404476,38.950813",
+    "geom:latitude": 38.950813,
+    "geom:longitude": -83.404476,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "172 N Main St",
+    "sg:city": "Peebles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 587 2210",
-    "sg:postcode":"45660",
-    "sg:province":"OH",
-    "sg:tags":[
-        "monument"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 587 2210",
+    "sg:postcode": "45660",
+    "sg:province": "OH",
+    "sg:tags": [
+      "monument"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5D5eh3JXMdPi8vvkONceko_38.950813_-83.404476@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5D5eh3JXMdPi8vvkONceko_38.950813_-83.404476@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802753,
-    "wof:geomhash":"b189930dddf158c4e07a4e34a88d8843",
-    "wof:hierarchy":[],
-    "wof:id":706417937,
-    "wof:lastmodified":1472640012,
-    "wof:name":"Peebles Monument Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "monument"
+    "wof:country": "US",
+    "wof:created": 1461802753,
+    "wof:geomhash": "463c9cff412f9e55e07cdb2a3ff8ef5b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706417937
+      }
+    ],
+    "wof:id": 706417937,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Peebles Monument Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "monument"
     ]
-},
+  },
   "bbox": [
     -83.404476,
     38.950813,
     -83.404476,
     38.950813
-],
+  ],
   "geometry": {"coordinates":[-83.404476,38.950813],"type":"Point"}
 }

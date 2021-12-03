@@ -2,63 +2,67 @@
   "id": 705895075,
   "type": "Feature",
   "properties": {
-    "addr:full":"409 London Ave Marysville OH 43040",
-    "addr:housenumber":"409",
-    "addr:postcode":"43040",
-    "addr:street":"London Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.36846,40.232542,-83.36846,40.232542",
-    "geom:latitude":40.232542,
-    "geom:longitude":-83.36846,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"409 London Ave",
-    "sg:city":"Marysville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "409 London Ave Marysville OH 43040",
+    "addr:housenumber": "409",
+    "addr:postcode": "43040",
+    "addr:street": "London Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.368460,40.232542,-83.368460,40.232542",
+    "geom:latitude": 40.232542,
+    "geom:longitude": -83.36846,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "409 London Ave",
+    "sg:city": "Marysville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 578 4004",
-    "sg:postcode":"43040",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 578 4004",
+    "sg:postcode": "43040",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_12boV1XadNlD3N99WOu1ga_40.232542_-83.368460@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_12boV1XadNlD3N99WOu1ga_40.232542_-83.368460@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791294,
-    "wof:geomhash":"19f62aa0c15502d8e87d09766d2d5937",
-    "wof:hierarchy":[],
-    "wof:id":705895075,
-    "wof:lastmodified":1472639545,
-    "wof:name":"Warthog Family Medicine",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461791294,
+    "wof:geomhash": "7d71d7b0b2cfa83d91739ff2755275f5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705895075
+      }
+    ],
+    "wof:id": 705895075,
+    "wof:lastmodified": 1638567029,
+    "wof:name": "Warthog Family Medicine",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.36846,
     40.232542,
     -83.36846,
     40.232542
-],
+  ],
   "geometry": {"coordinates":[-83.36846,40.232542],"type":"Point"}
 }

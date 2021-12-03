@@ -2,74 +2,78 @@
   "id": 706503655,
   "type": "Feature",
   "properties": {
-    "addr:full":"28801 Chagrin Blvd Woodmere OH 44122",
-    "addr:housenumber":"28801",
-    "addr:postcode":"44122",
-    "addr:street":"Chagrin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.475127,41.462354,-81.475127,41.462354",
-    "geom:latitude":41.462354,
-    "geom:longitude":-81.475127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"28801 Chagrin Blvd",
-    "sg:city":"Woodmere",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "28801 Chagrin Blvd Woodmere OH 44122",
+    "addr:housenumber": "28801",
+    "addr:postcode": "44122",
+    "addr:street": "Chagrin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.475127,41.462354,-81.475127,41.462354",
+    "geom:latitude": 41.462354,
+    "geom:longitude": -81.475127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "28801 Chagrin Blvd",
+    "sg:city": "Woodmere",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 765 7520",
-    "sg:postcode":"44122",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mags",
-        "video",
-        "books",
-        "music",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 765 7520",
+    "sg:postcode": "44122",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mags",
+      "video",
+      "books",
+      "music",
+      "store"
     ],
-    "sg:website":"www.barnesandnoble.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574789,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2501937356,
-        "sg:id":"SG_16EmWi5DOXiKUDBJdJbdBH_41.462429_-81.474384@1293134755"
+    "sg:website": "www.barnesandnoble.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574789,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2501937356,
+      "sg:id": "SG_16EmWi5DOXiKUDBJdJbdBH_41.462429_-81.474384@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461804721,
-    "wof:geomhash":"e2608d591447a30cd60650bd5f514cb0",
-    "wof:hierarchy":[],
-    "wof:id":706503655,
-    "wof:lastmodified":1511996591,
-    "wof:name":"Barnes & Noble",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mags",
-        "video",
-        "books",
-        "music",
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461804721,
+    "wof:geomhash": "e2608d591447a30cd60650bd5f514cb0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706503655
+      }
+    ],
+    "wof:id": 706503655,
+    "wof:lastmodified": 1638567132,
+    "wof:name": "Barnes \u0026 Noble",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mags",
+      "video",
+      "books",
+      "music",
+      "store"
     ]
-},
+  },
   "bbox": [
     -81.475127,
     41.462354,
     -81.475127,
     41.462354
-],
+  ],
   "geometry": {"coordinates":[-81.475127,41.462354],"type":"Point"}
 }

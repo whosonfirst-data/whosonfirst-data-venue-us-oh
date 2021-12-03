@@ -2,61 +2,65 @@
   "id": 705727531,
   "type": "Feature",
   "properties": {
-    "addr:full":"28 N Main St Columbiana OH 44408",
-    "addr:housenumber":"28",
-    "addr:postcode":"44408",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.693487,40.889749,-80.693487,40.889749",
-    "geom:latitude":40.889749,
-    "geom:longitude":-80.693487,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"28 N Main St",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "28 N Main St Columbiana OH 44408",
+    "addr:housenumber": "28",
+    "addr:postcode": "44408",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.693487,40.889749,-80.693487,40.889749",
+    "geom:latitude": 40.889749,
+    "geom:longitude": -80.693487,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "28 N Main St",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 482 3621",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 482 3621",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61KMh2JEi0mvLpi9r3HdtJ_40.889749_-80.693487@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_61KMh2JEi0mvLpi9r3HdtJ_40.889749_-80.693487@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787344,
-    "wof:geomhash":"751bb5d5c55e9793cedc568f53b6b622",
-    "wof:hierarchy":[],
-    "wof:id":705727531,
-    "wof:lastmodified":1472638734,
-    "wof:name":"Family Care Svc",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461787344,
+    "wof:geomhash": "53995c9445d79a1ad1f616c4486b4972",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705727531
+      }
+    ],
+    "wof:id": 705727531,
+    "wof:lastmodified": 1638566943,
+    "wof:name": "Family Care Svc",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -80.693487,
     40.889749,
     -80.693487,
     40.889749
-],
+  ],
   "geometry": {"coordinates":[-80.693487,40.889749],"type":"Point"}
 }

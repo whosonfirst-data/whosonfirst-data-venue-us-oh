@@ -2,57 +2,61 @@
   "id": 706414493,
   "type": "Feature",
   "properties": {
-    "addr:full":"3512 Cleveland Ave Columbus OH 43224",
-    "addr:housenumber":"3512",
-    "addr:postcode":"43224",
-    "addr:street":"Cleveland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.962482,40.03741,-82.962482,40.03741",
-    "geom:latitude":40.03741,
-    "geom:longitude":-82.962482,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3512 Cleveland Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "3512 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber": "3512",
+    "addr:postcode": "43224",
+    "addr:street": "Cleveland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.962482,40.037410,-82.962482,40.037410",
+    "geom:latitude": 40.03741,
+    "geom:longitude": -82.962482,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3512 Cleveland Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 268 8972",
-    "sg:postcode":"43224",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2njBgUqY8yo981W6c8rCFH_40.037410_-82.962482@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 268 8972",
+    "sg:postcode": "43224",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2njBgUqY8yo981W6c8rCFH_40.037410_-82.962482@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802685,
-    "wof:geomhash":"1cd770320cf3c986a59e3e120582177c",
-    "wof:hierarchy":[],
-    "wof:id":706414493,
-    "wof:lastmodified":1491926707,
-    "wof:name":"Royalty Design Studio Inc",
-    "wof:parent_id":85811437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461802685,
+    "wof:geomhash": "c274e979b10b8d1b0ca6e6a9bd62dc6b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706414493
+      }
+    ],
+    "wof:id": 706414493,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Royalty Design Studio Inc",
+    "wof:parent_id": 85811437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.962482,
     40.03741,
     -82.962482,
     40.03741
-],
-  "geometry": {"coordinates":[-82.96248199999999,40.03741],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.962482,40.03741],"type":"Point"}
 }

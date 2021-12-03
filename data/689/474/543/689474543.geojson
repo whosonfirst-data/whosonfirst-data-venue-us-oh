@@ -2,61 +2,65 @@
   "id": 689474543,
   "type": "Feature",
   "properties": {
-    "addr:full":"38500 State Rte 160 Hamden OH 45634",
-    "addr:housenumber":"38500",
-    "addr:postcode":"45634",
-    "addr:street":"State Rte 160",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.48344,39.159507,-82.48344,39.159507",
-    "geom:latitude":39.159507,
-    "geom:longitude":-82.48344,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"38500 State Rte 160",
-    "sg:city":"Hamden",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "38500 State Rte 160 Hamden OH 45634",
+    "addr:housenumber": "38500",
+    "addr:postcode": "45634",
+    "addr:street": "State Rte 160",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.483440,39.159507,-82.483440,39.159507",
+    "geom:latitude": 39.159507,
+    "geom:longitude": -82.48344,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "38500 State Rte 160",
+    "sg:city": "Hamden",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 384 3485",
-    "sg:postcode":"45634",
-    "sg:province":"OH",
-    "sg:tags":[
-        "skilled"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 384 3485",
+    "sg:postcode": "45634",
+    "sg:province": "OH",
+    "sg:tags": [
+      "skilled"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2CMqG2RjomUPUMepnIOWJs_39.159507_-82.483440@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2CMqG2RjomUPUMepnIOWJs_39.159507_-82.483440@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772366,
-    "wof:geomhash":"51a34f102609442a43dfaab9201b79ab",
-    "wof:hierarchy":[],
-    "wof:id":689474543,
-    "wof:lastmodified":1472638401,
-    "wof:name":"Huston Nursing Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "skilled"
+    "wof:country": "US",
+    "wof:created": 1461772366,
+    "wof:geomhash": "da72cfd100be7db87236d908367d23b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689474543
+      }
+    ],
+    "wof:id": 689474543,
+    "wof:lastmodified": 1638566921,
+    "wof:name": "Huston Nursing Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "skilled"
     ]
-},
+  },
   "bbox": [
     -82.48344,
     39.159507,
     -82.48344,
     39.159507
-],
+  ],
   "geometry": {"coordinates":[-82.48344,39.159507],"type":"Point"}
 }

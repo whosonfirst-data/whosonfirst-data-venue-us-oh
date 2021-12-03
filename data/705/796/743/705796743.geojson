@@ -2,61 +2,65 @@
   "id": 705796743,
   "type": "Feature",
   "properties": {
-    "addr:full":"12593 Fruit Ridge Dr Defiance OH 43512",
-    "addr:housenumber":"12593",
-    "addr:postcode":"43512",
-    "addr:street":"Fruit Ridge Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.29134,41.25826,-84.29134,41.25826",
-    "geom:latitude":41.25826,
-    "geom:longitude":-84.29134,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12593 Fruit Ridge Dr",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "12593 Fruit Ridge Dr Defiance OH 43512",
+    "addr:housenumber": "12593",
+    "addr:postcode": "43512",
+    "addr:street": "Fruit Ridge Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.291340,41.258260,-84.291340,41.258260",
+    "geom:latitude": 41.25826,
+    "geom:longitude": -84.29134,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12593 Fruit Ridge Dr",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 395 1028",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 395 1028",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6px1TLg0gcdUC5eaV5trh7_41.258260_-84.291340@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6px1TLg0gcdUC5eaV5trh7_41.258260_-84.291340@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788938,
-    "wof:geomhash":"ec1729162e877fd71ace37d63aeba6b8",
-    "wof:hierarchy":[],
-    "wof:id":705796743,
-    "wof:lastmodified":1472639304,
-    "wof:name":"Michael Gerken Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461788938,
+    "wof:geomhash": "e06ad4aabce33d09c0191c1df2ab7b6b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705796743
+      }
+    ],
+    "wof:id": 705796743,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Michael Gerken Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -84.29134,
     41.25826,
     -84.29134,
     41.25826
-],
-  "geometry": {"coordinates":[-84.29134000000001,41.25826],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.29134,41.25826],"type":"Point"}
 }

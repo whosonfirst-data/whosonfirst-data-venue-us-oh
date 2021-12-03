@@ -2,65 +2,69 @@
   "id": 689581967,
   "type": "Feature",
   "properties": {
-    "addr:full":"1120 W Logan St Celina OH 45822",
-    "addr:housenumber":"1120",
-    "addr:postcode":"45822",
-    "addr:street":"W Logan St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.585908,40.545481,-84.585908,40.545481",
-    "geom:latitude":40.545481,
-    "geom:longitude":-84.585908,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1120 W Logan St",
-    "sg:city":"Celina",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "1120 W Logan St Celina OH 45822",
+    "addr:housenumber": "1120",
+    "addr:postcode": "45822",
+    "addr:street": "W Logan St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.585908,40.545481,-84.585908,40.545481",
+    "geom:latitude": 40.545481,
+    "geom:longitude": -84.585908,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1120 W Logan St",
+    "sg:city": "Celina",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 586 3140",
-    "sg:postcode":"45822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "military"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 586 3140",
+    "sg:postcode": "45822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "military"
     ],
-    "sg:website":"www.vfw.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125149581,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3zSq5noICpS6M58s9f9dhX_40.545481_-84.585908@1294180530"
+    "sg:website": "www.vfw.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125149581,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3zSq5noICpS6M58s9f9dhX_40.545481_-84.585908@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775674,
-    "wof:geomhash":"9a5ec4d1e1c7bbdbe3c92e85399b8c92",
-    "wof:hierarchy":[],
-    "wof:id":689581967,
-    "wof:lastmodified":1512001449,
-    "wof:name":"Veterans Of Foreign Wars",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "military"
+    "wof:country": "US",
+    "wof:created": 1461775674,
+    "wof:geomhash": "9a5ec4d1e1c7bbdbe3c92e85399b8c92",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689581967
+      }
+    ],
+    "wof:id": 689581967,
+    "wof:lastmodified": 1638566992,
+    "wof:name": "Veterans Of Foreign Wars",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "military"
     ]
-},
+  },
   "bbox": [
     -84.585908,
     40.545481,
     -84.585908,
     40.545481
-],
+  ],
   "geometry": {"coordinates":[-84.585908,40.545481],"type":"Point"}
 }

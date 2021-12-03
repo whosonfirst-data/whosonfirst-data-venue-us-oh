@@ -2,61 +2,65 @@
   "id": 706221435,
   "type": "Feature",
   "properties": {
-    "addr:full":"58 E Main St Amelia OH 45102",
-    "addr:housenumber":"58",
-    "addr:postcode":"45102",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.212825,39.024549,-84.212825,39.024549",
-    "geom:latitude":39.024549,
-    "geom:longitude":-84.212825,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"58 E Main St",
-    "sg:city":"Amelia",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "58 E Main St Amelia OH 45102",
+    "addr:housenumber": "58",
+    "addr:postcode": "45102",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.212825,39.024549,-84.212825,39.024549",
+    "geom:latitude": 39.024549,
+    "geom:longitude": -84.212825,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "58 E Main St",
+    "sg:city": "Amelia",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 859 746 3258",
-    "sg:postcode":"45102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 859 746 3258",
+    "sg:postcode": "45102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ScL9a5wkA5j1zCwO5D1Is_39.024549_-84.212825@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ScL9a5wkA5j1zCwO5D1Is_39.024549_-84.212825@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798530,
-    "wof:geomhash":"b19c162250f663614bbc0e406e343c25",
-    "wof:hierarchy":[],
-    "wof:id":706221435,
-    "wof:lastmodified":1472639523,
-    "wof:name":"Deluces Magic Touch Tanning",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461798530,
+    "wof:geomhash": "8dcf8a946f890837a6462617524db722",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706221435
+      }
+    ],
+    "wof:id": 706221435,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "Deluces Magic Touch Tanning",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -84.212825,
     39.024549,
     -84.212825,
     39.024549
-],
+  ],
   "geometry": {"coordinates":[-84.212825,39.024549],"type":"Point"}
 }

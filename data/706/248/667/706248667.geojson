@@ -2,61 +2,65 @@
   "id": 706248667,
   "type": "Feature",
   "properties": {
-    "addr:full":"7168 Saint Albans Way Hamilton OH 45011",
-    "addr:housenumber":"7168",
-    "addr:postcode":"45011",
-    "addr:street":"Saint Albans Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.432275,39.373896,-84.432275,39.373896",
-    "geom:latitude":39.373896,
-    "geom:longitude":-84.432275,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7168 Saint Albans Way",
-    "sg:city":"Hamilton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "7168 Saint Albans Way Hamilton OH 45011",
+    "addr:housenumber": "7168",
+    "addr:postcode": "45011",
+    "addr:street": "Saint Albans Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.432275,39.373896,-84.432275,39.373896",
+    "geom:latitude": 39.373896,
+    "geom:longitude": -84.432275,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7168 Saint Albans Way",
+    "sg:city": "Hamilton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 779 3367",
-    "sg:postcode":"45011",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 779 3367",
+    "sg:postcode": "45011",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1LDPbUtBxPCM2NYDX1FlBT_39.373896_-84.432275@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1LDPbUtBxPCM2NYDX1FlBT_39.373896_-84.432275@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799164,
-    "wof:geomhash":"3745115c2b8d254108b301f52cdfac54",
-    "wof:hierarchy":[],
-    "wof:id":706248667,
-    "wof:lastmodified":1472639588,
-    "wof:name":"Terry Smith",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461799164,
+    "wof:geomhash": "c2b58eacd8151f18e97cfefd97a0632b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706248667
+      }
+    ],
+    "wof:id": 706248667,
+    "wof:lastmodified": 1638567061,
+    "wof:name": "Terry Smith",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -84.432275,
     39.373896,
     -84.432275,
     39.373896
-],
+  ],
   "geometry": {"coordinates":[-84.432275,39.373896],"type":"Point"}
 }

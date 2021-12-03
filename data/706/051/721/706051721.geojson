@@ -2,61 +2,65 @@
   "id": 706051721,
   "type": "Feature",
   "properties": {
-    "addr:full":"245 Main St Gilboa OH 45875",
-    "addr:housenumber":"245",
-    "addr:postcode":"45875",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.923147,41.016959,-83.923147,41.016959",
-    "geom:latitude":41.016959,
-    "geom:longitude":-83.923147,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"245 Main St",
-    "sg:city":"Gilboa",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "245 Main St Gilboa OH 45875",
+    "addr:housenumber": "245",
+    "addr:postcode": "45875",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.923147,41.016959,-83.923147,41.016959",
+    "geom:latitude": 41.016959,
+    "geom:longitude": -83.923147,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "245 Main St",
+    "sg:city": "Gilboa",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 3009",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "landfill"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 3009",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "landfill"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Heocg9Wc82YVlRHnN9PCA_41.016959_-83.923147@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Heocg9Wc82YVlRHnN9PCA_41.016959_-83.923147@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794633,
-    "wof:geomhash":"95adc5f6cb2be466d5370e68492d5f5b",
-    "wof:hierarchy":[],
-    "wof:id":706051721,
-    "wof:lastmodified":1472639141,
-    "wof:name":"Putnam Co Land Fill",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "landfill"
+    "wof:country": "US",
+    "wof:created": 1461794633,
+    "wof:geomhash": "ceddb114776dc975db551d33a3339186",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706051721
+      }
+    ],
+    "wof:id": 706051721,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Putnam Co Land Fill",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "landfill"
     ]
-},
+  },
   "bbox": [
     -83.923147,
     41.016959,
     -83.923147,
     41.016959
-],
+  ],
   "geometry": {"coordinates":[-83.923147,41.016959],"type":"Point"}
 }

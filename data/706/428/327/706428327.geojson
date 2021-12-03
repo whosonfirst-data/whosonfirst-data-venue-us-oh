@@ -2,61 +2,65 @@
   "id": 706428327,
   "type": "Feature",
   "properties": {
-    "addr:full":"4566 Edgarton Dr Grove City OH 43123",
-    "addr:housenumber":"4566",
-    "addr:postcode":"43123",
-    "addr:street":"Edgarton Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.095162,39.870796,-83.095162,39.870796",
-    "geom:latitude":39.870796,
-    "geom:longitude":-83.095162,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4566 Edgarton Dr",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "4566 Edgarton Dr Grove City OH 43123",
+    "addr:housenumber": "4566",
+    "addr:postcode": "43123",
+    "addr:street": "Edgarton Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.095162,39.870796,-83.095162,39.870796",
+    "geom:latitude": 39.870796,
+    "geom:longitude": -83.095162,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4566 Edgarton Dr",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 871 9934",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 871 9934",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_02t9YyhvQhWAe4s4svjbyG_39.870796_-83.095162@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_02t9YyhvQhWAe4s4svjbyG_39.870796_-83.095162@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802949,
-    "wof:geomhash":"98930d9c846b405f08c60d415b7e7589",
-    "wof:hierarchy":[],
-    "wof:id":706428327,
-    "wof:lastmodified":1472640009,
-    "wof:name":"Joshua L Powell Sr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461802949,
+    "wof:geomhash": "da0ea0ca5448a4133642cbc5935f0bf1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706428327
+      }
+    ],
+    "wof:id": 706428327,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "Joshua L Powell Sr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -83.095162,
     39.870796,
     -83.095162,
     39.870796
-],
+  ],
   "geometry": {"coordinates":[-83.095162,39.870796],"type":"Point"}
 }

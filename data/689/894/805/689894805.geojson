@@ -2,61 +2,65 @@
   "id": 689894805,
   "type": "Feature",
   "properties": {
-    "addr:full":"109 Mulberry St Junction City OH 43748",
-    "addr:housenumber":"109",
-    "addr:postcode":"43748",
-    "addr:street":"Mulberry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.300943,39.721971,-82.300943,39.721971",
-    "geom:latitude":39.721971,
-    "geom:longitude":-82.300943,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"109 Mulberry St",
-    "sg:city":"Junction City",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "109 Mulberry St Junction City OH 43748",
+    "addr:housenumber": "109",
+    "addr:postcode": "43748",
+    "addr:street": "Mulberry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.300943,39.721971,-82.300943,39.721971",
+    "geom:latitude": 39.721971,
+    "geom:longitude": -82.300943,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "109 Mulberry St",
+    "sg:city": "Junction City",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 987 3001",
-    "sg:postcode":"43748",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 987 3001",
+    "sg:postcode": "43748",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4qVY32C2iT9nFc4Z0rticq_39.721971_-82.300943@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4qVY32C2iT9nFc4Z0rticq_39.721971_-82.300943@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784434,
-    "wof:geomhash":"ef783cbe32820c58013b712acf86a5fd",
-    "wof:hierarchy":[],
-    "wof:id":689894805,
-    "wof:lastmodified":1472640054,
-    "wof:name":"Junction City Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461784434,
+    "wof:geomhash": "0a74c4cffe66e1680e1846450ad0e77b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689894805
+      }
+    ],
+    "wof:id": 689894805,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Junction City Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.300943,
     39.721971,
     -82.300943,
     39.721971
-],
+  ],
   "geometry": {"coordinates":[-82.300943,39.721971],"type":"Point"}
 }

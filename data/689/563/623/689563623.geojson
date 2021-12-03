@@ -2,61 +2,65 @@
   "id": 689563623,
   "type": "Feature",
   "properties": {
-    "addr:full":"12604 Co Rd G Bryan OH 43506",
-    "addr:housenumber":"12604",
-    "addr:postcode":"43506",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.579266,41.513915,-84.579266,41.513915",
-    "geom:latitude":41.513915,
-    "geom:longitude":-84.579266,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12604 Co Rd G",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "12604 Co Rd G Bryan OH 43506",
+    "addr:housenumber": "12604",
+    "addr:postcode": "43506",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.579266,41.513915,-84.579266,41.513915",
+    "geom:latitude": 41.513915,
+    "geom:longitude": -84.579266,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12604 Co Rd G",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 2242",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "landfill"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 2242",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "landfill"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Y4nA3xIOCtu3xB0QjSXFT_41.513915_-84.579266@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Y4nA3xIOCtu3xB0QjSXFT_41.513915_-84.579266@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775118,
-    "wof:geomhash":"8bfdcf6f0a56ae7cd2f762c429560d5b",
-    "wof:hierarchy":[],
-    "wof:id":689563623,
-    "wof:lastmodified":1472639295,
-    "wof:name":"Williams County Landfill Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "landfill"
+    "wof:country": "US",
+    "wof:created": 1461775118,
+    "wof:geomhash": "a9ace32bb7d46a23f8378c714dd62f41",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689563623
+      }
+    ],
+    "wof:id": 689563623,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "Williams County Landfill Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "landfill"
     ]
-},
+  },
   "bbox": [
     -84.579266,
     41.513915,
     -84.579266,
     41.513915
-],
+  ],
   "geometry": {"coordinates":[-84.579266,41.513915],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705949027,
   "type": "Feature",
   "properties": {
-    "addr:full":"1783 N Main St Urbana OH 43078",
-    "addr:housenumber":"1783",
-    "addr:postcode":"43078",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.748009,40.132185,-83.748009,40.132185",
-    "geom:latitude":40.132185,
-    "geom:longitude":-83.748009,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1783 N Main St",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "1783 N Main St Urbana OH 43078",
+    "addr:housenumber": "1783",
+    "addr:postcode": "43078",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.748009,40.132185,-83.748009,40.132185",
+    "geom:latitude": 40.132185,
+    "geom:longitude": -83.748009,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1783 N Main St",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 653 3953",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "breeder",
-        "horse"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 653 3953",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "breeder",
+      "horse"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XoUjW98LxDsQOwd5ospGo_40.132185_-83.748009@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5XoUjW98LxDsQOwd5ospGo_40.132185_-83.748009@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792506,
-    "wof:geomhash":"d4bd616b896d8536a344f392d65a8466",
-    "wof:hierarchy":[],
-    "wof:id":705949027,
-    "wof:lastmodified":1472639666,
-    "wof:name":"Murphy's Stables",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "breeder",
-        "horse"
+    "wof:country": "US",
+    "wof:created": 1461792506,
+    "wof:geomhash": "4e427e219c0d0dce4775ba1660a3dc8c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705949027
+      }
+    ],
+    "wof:id": 705949027,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Murphy's Stables",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "breeder",
+      "horse"
     ]
-},
+  },
   "bbox": [
     -83.748009,
     40.132185,
     -83.748009,
     40.132185
-],
+  ],
   "geometry": {"coordinates":[-83.748009,40.132185],"type":"Point"}
 }

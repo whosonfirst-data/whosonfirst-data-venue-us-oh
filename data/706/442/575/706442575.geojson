@@ -2,61 +2,65 @@
   "id": 706442575,
   "type": "Feature",
   "properties": {
-    "addr:full":"13725 Broad St SW Pataskala OH 43062",
-    "addr:housenumber":"13725",
-    "addr:postcode":"43062",
-    "addr:street":"Broad St Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.744654,39.991471,-82.744654,39.991471",
-    "geom:latitude":39.991471,
-    "geom:longitude":-82.744654,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13725 Broad St SW",
-    "sg:city":"Pataskala",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "13725 Broad St SW Pataskala OH 43062",
+    "addr:housenumber": "13725",
+    "addr:postcode": "43062",
+    "addr:street": "Broad St Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.744654,39.991471,-82.744654,39.991471",
+    "geom:latitude": 39.991471,
+    "geom:longitude": -82.744654,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13725 Broad St SW",
+    "sg:city": "Pataskala",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 927 0334",
-    "sg:postcode":"43062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 927 0334",
+    "sg:postcode": "43062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0dIo86tV4ydQymeWuGcdea_39.991471_-82.744654@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0dIo86tV4ydQymeWuGcdea_39.991471_-82.744654@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803277,
-    "wof:geomhash":"3486581beb25cab6e6e869149cfbfd76",
-    "wof:hierarchy":[],
-    "wof:id":706442575,
-    "wof:lastmodified":1472640033,
-    "wof:name":"KARZ R Us",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461803277,
+    "wof:geomhash": "dd04e741752b68e7043fb30ba4928467",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706442575
+      }
+    ],
+    "wof:id": 706442575,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "KARZ R Us",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -82.744654,
     39.991471,
     -82.744654,
     39.991471
-],
+  ],
   "geometry": {"coordinates":[-82.744654,39.991471],"type":"Point"}
 }

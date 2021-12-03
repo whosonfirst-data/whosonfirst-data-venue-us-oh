@@ -2,61 +2,65 @@
   "id": 706040557,
   "type": "Feature",
   "properties": {
-    "addr:full":"2521 Madison Ave Painesville OH 44077",
-    "addr:housenumber":"2521",
-    "addr:postcode":"44077",
-    "addr:street":"Madison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.191322,41.72694,-81.191322,41.72694",
-    "geom:latitude":41.72694,
-    "geom:longitude":-81.191322,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2521 Madison Ave",
-    "sg:city":"Painesville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "2521 Madison Ave Painesville OH 44077",
+    "addr:housenumber": "2521",
+    "addr:postcode": "44077",
+    "addr:street": "Madison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.191322,41.726940,-81.191322,41.726940",
+    "geom:latitude": 41.72694,
+    "geom:longitude": -81.191322,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2521 Madison Ave",
+    "sg:city": "Painesville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 357 2913",
-    "sg:postcode":"44077",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 357 2913",
+    "sg:postcode": "44077",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6xwsD5GJEZGqQM70beMOcp_41.726940_-81.191322@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6xwsD5GJEZGqQM70beMOcp_41.726940_-81.191322@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794416,
-    "wof:geomhash":"d21eee5b059c97ad97a438af76e430e4",
-    "wof:hierarchy":[],
-    "wof:id":706040557,
-    "wof:lastmodified":1472638932,
-    "wof:name":"Welch Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461794416,
+    "wof:geomhash": "857ac83bc3b08894399cd8da6d8b63f7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706040557
+      }
+    ],
+    "wof:id": 706040557,
+    "wof:lastmodified": 1638566961,
+    "wof:name": "Welch Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -81.191322,
     41.72694,
     -81.191322,
     41.72694
-],
+  ],
   "geometry": {"coordinates":[-81.191322,41.72694],"type":"Point"}
 }

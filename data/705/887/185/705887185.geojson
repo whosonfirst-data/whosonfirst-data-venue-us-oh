@@ -2,61 +2,65 @@
   "id": 705887185,
   "type": "Feature",
   "properties": {
-    "addr:full":"3900 Sunset Blvd Steubenville OH 43952",
-    "addr:housenumber":"3900",
-    "addr:postcode":"43952",
-    "addr:street":"Sunset Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.668906,40.377671,-80.668906,40.377671",
-    "geom:latitude":40.377671,
-    "geom:longitude":-80.668906,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3900 Sunset Blvd",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "3900 Sunset Blvd Steubenville OH 43952",
+    "addr:housenumber": "3900",
+    "addr:postcode": "43952",
+    "addr:street": "Sunset Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.668906,40.377671,-80.668906,40.377671",
+    "geom:latitude": 40.377671,
+    "geom:longitude": -80.668906,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3900 Sunset Blvd",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 264 3161",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 264 3161",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_36eIx64MwRzLJQs7mN7oj2_40.377671_-80.668906@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_36eIx64MwRzLJQs7mN7oj2_40.377671_-80.668906@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791111,
-    "wof:geomhash":"6f2d88ce0c2663905ea2f551e8445b6a",
-    "wof:hierarchy":[],
-    "wof:id":705887185,
-    "wof:lastmodified":1472639516,
-    "wof:name":"Steubenville Fire Dept",
-    "wof:parent_id":420534923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461791111,
+    "wof:geomhash": "bbddd24ceca0bbfa9923c3d1ecd342be",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705887185
+      }
+    ],
+    "wof:id": 705887185,
+    "wof:lastmodified": 1638567030,
+    "wof:name": "Steubenville Fire Dept",
+    "wof:parent_id": 420534923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.668906,
     40.377671,
     -80.668906,
     40.377671
-],
-  "geometry": {"coordinates":[-80.66890600000001,40.377671],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.668906,40.377671],"type":"Point"}
 }

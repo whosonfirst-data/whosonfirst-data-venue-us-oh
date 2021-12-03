@@ -2,61 +2,65 @@
   "id": 706540893,
   "type": "Feature",
   "properties": {
-    "addr:full":"2333 W Monroe St Sandusky OH 44870",
-    "addr:housenumber":"2333",
-    "addr:postcode":"44870",
-    "addr:street":"W Monroe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.731844,41.446484,-82.731844,41.446484",
-    "geom:latitude":41.446484,
-    "geom:longitude":-82.731844,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2333 W Monroe St",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "2333 W Monroe St Sandusky OH 44870",
+    "addr:housenumber": "2333",
+    "addr:postcode": "44870",
+    "addr:street": "W Monroe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.731844,41.446484,-82.731844,41.446484",
+    "geom:latitude": 41.446484,
+    "geom:longitude": -82.731844,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2333 W Monroe St",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 609 0905",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 609 0905",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6RerkWvUNJgcgga9ii2sZg_41.446414_-82.731805@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6RerkWvUNJgcgga9ii2sZg_41.446414_-82.731805@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461805481,
-    "wof:geomhash":"cd79860570184143025d19b135e0c3fe",
-    "wof:hierarchy":[],
-    "wof:id":706540893,
-    "wof:lastmodified":1472640187,
-    "wof:name":"Heartland Tanning",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461805481,
+    "wof:geomhash": "7d4f14f3a7513a3881aa9f688b55201d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706540893
+      }
+    ],
+    "wof:id": 706540893,
+    "wof:lastmodified": 1638567134,
+    "wof:name": "Heartland Tanning",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -82.731844,
     41.446484,
     -82.731844,
     41.446484
-],
+  ],
   "geometry": {"coordinates":[-82.731844,41.446484],"type":"Point"}
 }

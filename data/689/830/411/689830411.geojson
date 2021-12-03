@@ -2,63 +2,67 @@
   "id": 689830411,
   "type": "Feature",
   "properties": {
-    "addr:full":"3218 Parkway St NW Canton OH 44708",
-    "addr:housenumber":"3218",
-    "addr:postcode":"44708",
-    "addr:street":"Parkway St Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.412469,40.81355,-81.412469,40.81355",
-    "geom:latitude":40.81355,
-    "geom:longitude":-81.412469,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3218 Parkway St NW",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "3218 Parkway St NW Canton OH 44708",
+    "addr:housenumber": "3218",
+    "addr:postcode": "44708",
+    "addr:street": "Parkway St Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.412469,40.813550,-81.412469,40.813550",
+    "geom:latitude": 40.81355,
+    "geom:longitude": -81.412469,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3218 Parkway St NW",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 455 5900",
-    "sg:postcode":"44708",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hall",
-        "auditorium"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 455 5900",
+    "sg:postcode": "44708",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hall",
+      "auditorium"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3LW42o5cl9cs3ALgDRGkug_40.813550_-81.412469@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3LW42o5cl9cs3ALgDRGkug_40.813550_-81.412469@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782826,
-    "wof:geomhash":"9082eba47a7adad20cb36b94bce7a408",
-    "wof:hierarchy":[],
-    "wof:id":689830411,
-    "wof:lastmodified":1472639902,
-    "wof:name":"Meyer's Lake Ballroom",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hall",
-        "auditorium"
+    "wof:country": "US",
+    "wof:created": 1461782826,
+    "wof:geomhash": "53beded68c9d742cfb7951b6d8fcde4f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689830411
+      }
+    ],
+    "wof:id": 689830411,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Meyer's Lake Ballroom",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hall",
+      "auditorium"
     ]
-},
+  },
   "bbox": [
     -81.412469,
     40.81355,
     -81.412469,
     40.81355
-],
+  ],
   "geometry": {"coordinates":[-81.412469,40.81355],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689547505,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Howard Dr Dover OH 44622",
-    "addr:housenumber":"101",
-    "addr:postcode":"44622",
-    "addr:street":"Howard Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.478985,40.54098,-81.478985,40.54098",
-    "geom:latitude":40.54098,
-    "geom:longitude":-81.478985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 Howard Dr",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Computer Services",
-            "type":"Services"
-        }
+    "addr:full": "101 Howard Dr Dover OH 44622",
+    "addr:housenumber": "101",
+    "addr:postcode": "44622",
+    "addr:street": "Howard Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.478985,40.540980,-81.478985,40.540980",
+    "geom:latitude": 40.54098,
+    "geom:longitude": -81.478985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 Howard Dr",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 364 9700",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "consultant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 364 9700",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "consultant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2zg8nQ9ythz9SZXIl9y3KP_40.540980_-81.478985@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2zg8nQ9ythz9SZXIl9y3KP_40.540980_-81.478985@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774633,
-    "wof:geomhash":"145fa62d3f31c74fb84863fde4fa5750",
-    "wof:hierarchy":[],
-    "wof:id":689547505,
-    "wof:lastmodified":1472639239,
-    "wof:name":"GCS Consulting Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "consultant"
+    "wof:country": "US",
+    "wof:created": 1461774633,
+    "wof:geomhash": "28c195af11a84eebdcdc8092a687db07",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689547505
+      }
+    ],
+    "wof:id": 689547505,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "GCS Consulting Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant"
     ]
-},
+  },
   "bbox": [
     -81.478985,
     40.54098,
     -81.478985,
     40.54098
-],
-  "geometry": {"coordinates":[-81.47898499999999,40.54098],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.478985,40.54098],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 706602889,
   "type": "Feature",
   "properties": {
-    "addr:full":"3695 Orange Pl Beachwood OH 44122",
-    "addr:housenumber":"3695",
-    "addr:postcode":"44122",
-    "addr:street":"Orange Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.488013,41.458909,-81.488013,41.458909",
-    "geom:latitude":41.458909,
-    "geom:longitude":-81.488013,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3695 Orange Pl",
-    "sg:city":"Beachwood",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "3695 Orange Pl Beachwood OH 44122",
+    "addr:housenumber": "3695",
+    "addr:postcode": "44122",
+    "addr:street": "Orange Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.488013,41.458909,-81.488013,41.458909",
+    "geom:latitude": 41.458909,
+    "geom:longitude": -81.488013,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3695 Orange Pl",
+    "sg:city": "Beachwood",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 765 1900",
-    "sg:postcode":"44122",
-    "sg:province":"OH",
-    "sg:website":"www.marriott.com/clebw",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7XVhatvI2Wqd4pSrEnEtDF_41.458909_-81.488013@1303262754"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 765 1900",
+    "sg:postcode": "44122",
+    "sg:province": "OH",
+    "sg:website": "www.marriott.com/clebw",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7XVhatvI2Wqd4pSrEnEtDF_41.458909_-81.488013@1303262754"
     },
-    "wof:country":"US",
-    "wof:created":1461806784,
-    "wof:geomhash":"6563bf8afb3291314135e18bb701517f",
-    "wof:hierarchy":[],
-    "wof:id":706602889,
-    "wof:lastmodified":1472640235,
-    "wof:name":"Courtyard Marriott",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806784,
+    "wof:geomhash": "9c852fdc7834aeed94d21559240dc559",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706602889
+      }
+    ],
+    "wof:id": 706602889,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Courtyard Marriott",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.488013,
     41.458909,
     -81.488013,
     41.458909
-],
+  ],
   "geometry": {"coordinates":[-81.488013,41.458909],"type":"Point"}
 }

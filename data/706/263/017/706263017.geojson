@@ -2,65 +2,69 @@
   "id": 706263017,
   "type": "Feature",
   "properties": {
-    "addr:full":"224 W Main St Leesburg OH 45135",
-    "addr:housenumber":"224",
-    "addr:postcode":"45135",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.559857,39.345753,-83.559857,39.345753",
-    "geom:latitude":39.345753,
-    "geom:longitude":-83.559857,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"224 W Main St",
-    "sg:city":"Leesburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "224 W Main St Leesburg OH 45135",
+    "addr:housenumber": "224",
+    "addr:postcode": "45135",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.559857,39.345753,-83.559857,39.345753",
+    "geom:latitude": 39.345753,
+    "geom:longitude": -83.559857,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "224 W Main St",
+    "sg:city": "Leesburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 780 6909",
-    "sg:postcode":"45135",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical",
-        "surgical",
-        "emergency"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 780 6909",
+    "sg:postcode": "45135",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical",
+      "surgical",
+      "emergency"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16HcjcF9ugT2oTcC9CePfb_39.345753_-83.559857@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_16HcjcF9ugT2oTcC9CePfb_39.345753_-83.559857@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799467,
-    "wof:geomhash":"d327c84ba255af0f4bc6c71a12d778ba",
-    "wof:hierarchy":[],
-    "wof:id":706263017,
-    "wof:lastmodified":1472639594,
-    "wof:name":"Highland County N Joint Fire",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical",
-        "surgical",
-        "emergency"
+    "wof:country": "US",
+    "wof:created": 1461799467,
+    "wof:geomhash": "9da6932074b1b996a4a1ace8a188ad54",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706263017
+      }
+    ],
+    "wof:id": 706263017,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Highland County N Joint Fire",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical",
+      "surgical",
+      "emergency"
     ]
-},
+  },
   "bbox": [
     -83.559857,
     39.345753,
     -83.559857,
     39.345753
-],
-  "geometry": {"coordinates":[-83.55985699999999,39.345753],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.559857,39.345753],"type":"Point"}
 }

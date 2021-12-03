@@ -2,61 +2,65 @@
   "id": 706152993,
   "type": "Feature",
   "properties": {
-    "addr:full":"3660 Yellowstone Dr Cincinnati OH 45251",
-    "addr:housenumber":"3660",
-    "addr:postcode":"45251",
-    "addr:street":"Yellowstone Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.598038,39.249422,-84.598038,39.249422",
-    "geom:latitude":39.249422,
-    "geom:longitude":-84.598038,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3660 Yellowstone Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3660 Yellowstone Dr Cincinnati OH 45251",
+    "addr:housenumber": "3660",
+    "addr:postcode": "45251",
+    "addr:street": "Yellowstone Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.598038,39.249422,-84.598038,39.249422",
+    "geom:latitude": 39.249422,
+    "geom:longitude": -84.598038,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3660 Yellowstone Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 923 1818",
-    "sg:postcode":"45251",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 923 1818",
+    "sg:postcode": "45251",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1kKqZRA502tpDruTZbf53I_39.249422_-84.598038@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1kKqZRA502tpDruTZbf53I_39.249422_-84.598038@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797046,
-    "wof:geomhash":"f2e42bb7952bd9d6d15ed3a507dba93d",
-    "wof:hierarchy":[],
-    "wof:id":706152993,
-    "wof:lastmodified":1472639377,
-    "wof:name":"Rainbow Enterprises Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461797046,
+    "wof:geomhash": "debef19c7fbb8c0f5680c8efb40a554e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706152993
+      }
+    ],
+    "wof:id": 706152993,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Rainbow Enterprises Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -84.598038,
     39.249422,
     -84.598038,
     39.249422
-],
+  ],
   "geometry": {"coordinates":[-84.598038,39.249422],"type":"Point"}
 }

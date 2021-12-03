@@ -2,61 +2,65 @@
   "id": 706190083,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 Main St Mc Guffey OH 45859",
-    "addr:housenumber":"205",
-    "addr:postcode":"45859",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.783942,40.692563,-83.783942,40.692563",
-    "geom:latitude":40.692563,
-    "geom:longitude":-83.783942,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"205 Main St",
-    "sg:city":"Mc Guffey",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "205 Main St Mc Guffey OH 45859",
+    "addr:housenumber": "205",
+    "addr:postcode": "45859",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.783942,40.692563,-83.783942,40.692563",
+    "geom:latitude": 40.692563,
+    "geom:longitude": -83.783942,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "205 Main St",
+    "sg:city": "Mc Guffey",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 000 1111",
-    "sg:postcode":"45859",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 000 1111",
+    "sg:postcode": "45859",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4k5eqoRNE3VcqBR6SDfJUD_40.692563_-83.783942@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4k5eqoRNE3VcqBR6SDfJUD_40.692563_-83.783942@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797862,
-    "wof:geomhash":"c8575f9f5921b6fe26549fc72dc9deba",
-    "wof:hierarchy":[],
-    "wof:id":706190083,
-    "wof:lastmodified":1472639448,
-    "wof:name":"Mc Guffey Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461797862,
+    "wof:geomhash": "689aca69bd7220c63de21ec05ed5f1c3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706190083
+      }
+    ],
+    "wof:id": 706190083,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Mc Guffey Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.783942,
     40.692563,
     -83.783942,
     40.692563
-],
+  ],
   "geometry": {"coordinates":[-83.783942,40.692563],"type":"Point"}
 }

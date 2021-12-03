@@ -2,61 +2,65 @@
   "id": 706071101,
   "type": "Feature",
   "properties": {
-    "addr:full":"131 S Main St Marion OH 43302",
-    "addr:housenumber":"131",
-    "addr:postcode":"43302",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.12889,40.58821,-83.12889,40.58821",
-    "geom:latitude":40.58821,
-    "geom:longitude":-83.12889,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"131 S Main St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "131 S Main St Marion OH 43302",
+    "addr:housenumber": "131",
+    "addr:postcode": "43302",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.128890,40.588210,-83.128890,40.588210",
+    "geom:latitude": 40.58821,
+    "geom:longitude": -83.12889,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "131 S Main St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 382 4044",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 382 4044",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45NoZf9Jdo9IV1h0T4Noyy_40.588210_-83.128890@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_45NoZf9Jdo9IV1h0T4Noyy_40.588210_-83.128890@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795056,
-    "wof:geomhash":"cdf168f7e9cc3c2aca1702b0d6270917",
-    "wof:hierarchy":[],
-    "wof:id":706071101,
-    "wof:lastmodified":1472639156,
-    "wof:name":"Court Grille",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461795056,
+    "wof:geomhash": "e540240e48927d9ea09edbc5c82a38b7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706071101
+      }
+    ],
+    "wof:id": 706071101,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Court Grille",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.12889,
     40.58821,
     -83.12889,
     40.58821
-],
+  ],
   "geometry": {"coordinates":[-83.12889,40.58821],"type":"Point"}
 }

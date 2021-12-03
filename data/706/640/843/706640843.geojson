@@ -2,80 +2,84 @@
   "id": 706640843,
   "type": "Feature",
   "properties": {
-    "addr:full":"3800 Struble Rd Cincinnati OH 45251",
-    "addr:housenumber":"",
-    "addr:postcode":"3800;45251",
-    "addr:street":"Struble Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.601739,39.264721,-84.601739,39.264721",
-    "geom:latitude":39.264721,
-    "geom:longitude":-84.601739,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3800 Struble Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        },
-        {
-            "category":"Utilities",
-            "subcategory":"Recycling",
-            "type":"Services"
-        },
-        {
-            "category":"Building & Trades",
-            "subcategory":"Landfill",
-            "type":"Services"
-        }
+    "addr:full": "3800 Struble Rd Cincinnati OH 45251",
+    "addr:housenumber": "",
+    "addr:postcode": "3800;45251",
+    "addr:street": "Struble Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.601739,39.264721,-84.601739,39.264721",
+    "geom:latitude": 39.264721,
+    "geom:longitude": -84.601739,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3800 Struble Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      },
+      {
+        "category": "Utilities",
+        "subcategory": "Recycling",
+        "type": "Services"
+      },
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Landfill",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 742 2900",
-    "sg:postcode":"45251",
-    "sg:province":"OH",
-    "sg:tags":[
-        "rubbish",
-        "container",
-        "collection",
-        "garbage",
-        "removal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 742 2900",
+    "sg:postcode": "45251",
+    "sg:province": "OH",
+    "sg:tags": [
+      "rubbish",
+      "container",
+      "collection",
+      "garbage",
+      "removal"
     ],
-    "sg:website":"http://www.rumpke.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3wng1oh85IDz6zSBOzNgQ7_39.264721_-84.601739@1303262759"
+    "sg:website": "http://www.rumpke.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3wng1oh85IDz6zSBOzNgQ7_39.264721_-84.601739@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807593,
-    "wof:geomhash":"4da9b907029ca857d598095b0d9a03ca",
-    "wof:hierarchy":[],
-    "wof:id":706640843,
-    "wof:lastmodified":1472640257,
-    "wof:name":"Rumpke",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "rubbish",
-        "container",
-        "collection",
-        "garbage",
-        "removal"
+    "wof:country": "US",
+    "wof:created": 1461807593,
+    "wof:geomhash": "8eefeca9fe55873dd1899099a6e2163d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706640843
+      }
+    ],
+    "wof:id": 706640843,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Rumpke",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "rubbish",
+      "container",
+      "collection",
+      "garbage",
+      "removal"
     ]
-},
+  },
   "bbox": [
     -84.601739,
     39.264721,
     -84.601739,
     39.264721
-],
-  "geometry": {"coordinates":[-84.60173899999999,39.264721],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.601739,39.264721],"type":"Point"}
 }

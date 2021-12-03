@@ -2,61 +2,65 @@
   "id": 705721343,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 State Rte 119 Fort Recovery OH 45846",
-    "addr:housenumber":"119",
-    "addr:postcode":"45846",
-    "addr:street":"State Rte 119 Fort",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.781323,40.413074,-84.781323,40.413074",
-    "geom:latitude":40.413074,
-    "geom:longitude":-84.781323,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"119 State Rte 119",
-    "sg:city":"Fort Recovery",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "119 State Rte 119 Fort Recovery OH 45846",
+    "addr:housenumber": "119",
+    "addr:postcode": "45846",
+    "addr:street": "State Rte 119 Fort",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.781323,40.413074,-84.781323,40.413074",
+    "geom:latitude": 40.413074,
+    "geom:longitude": -84.781323,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "119 State Rte 119",
+    "sg:city": "Fort Recovery",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 375 2684",
-    "sg:postcode":"45846",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 375 2684",
+    "sg:postcode": "45846",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1z5NNZMnO5H3GGzhDgJtxh_40.413074_-84.781323@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1z5NNZMnO5H3GGzhDgJtxh_40.413074_-84.781323@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787196,
-    "wof:geomhash":"0dd0a593dea8087fc0c0fbd50ef129ae",
-    "wof:hierarchy":[],
-    "wof:id":705721343,
-    "wof:lastmodified":1472638500,
-    "wof:name":"Fort Recovery Veterinary Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461787196,
+    "wof:geomhash": "d626f62ff52d5db478248f0e2c67fa71",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705721343
+      }
+    ],
+    "wof:id": 705721343,
+    "wof:lastmodified": 1638566937,
+    "wof:name": "Fort Recovery Veterinary Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.781323,
     40.413074,
     -84.781323,
     40.413074
-],
+  ],
   "geometry": {"coordinates":[-84.781323,40.413074],"type":"Point"}
 }

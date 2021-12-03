@@ -2,61 +2,65 @@
   "id": 706070001,
   "type": "Feature",
   "properties": {
-    "addr:full":"8688 Oak Village Blvd Lewis Center OH 43035",
-    "addr:housenumber":"8688",
-    "addr:postcode":"43035",
-    "addr:street":"Oak Village Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.005121,40.158331,-83.005121,40.158331",
-    "geom:latitude":40.158331,
-    "geom:longitude":-83.005121,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8688 Oak Village Blvd",
-    "sg:city":"Lewis Center",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8688 Oak Village Blvd Lewis Center OH 43035",
+    "addr:housenumber": "8688",
+    "addr:postcode": "43035",
+    "addr:street": "Oak Village Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.005121,40.158331,-83.005121,40.158331",
+    "geom:latitude": 40.158331,
+    "geom:longitude": -83.005121,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8688 Oak Village Blvd",
+    "sg:city": "Lewis Center",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 888 2711",
-    "sg:postcode":"43035",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 888 2711",
+    "sg:postcode": "43035",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ajnOY3eT2iQltztSVQoOW_40.158331_-83.005121@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ajnOY3eT2iQltztSVQoOW_40.158331_-83.005121@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795034,
-    "wof:geomhash":"b9944f71922a015876a4952c19529d6a",
-    "wof:hierarchy":[],
-    "wof:id":706070001,
-    "wof:lastmodified":1472639149,
-    "wof:name":"Bob Evans Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461795034,
+    "wof:geomhash": "a628af9bef7cd1f512609dc4de4b602f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706070001
+      }
+    ],
+    "wof:id": 706070001,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Bob Evans Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.005121,
     40.158331,
     -83.005121,
     40.158331
-],
+  ],
   "geometry": {"coordinates":[-83.005121,40.158331],"type":"Point"}
 }

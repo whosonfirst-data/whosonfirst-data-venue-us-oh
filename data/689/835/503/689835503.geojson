@@ -2,61 +2,65 @@
   "id": 689835503,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 E Main St Mc Arthur OH 45651",
-    "addr:housenumber":"200",
-    "addr:postcode":"45651",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.47767,39.246559,-82.47767,39.246559",
-    "geom:latitude":39.246559,
-    "geom:longitude":-82.47767,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 E Main St",
-    "sg:city":"Mc Arthur",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "200 E Main St Mc Arthur OH 45651",
+    "addr:housenumber": "200",
+    "addr:postcode": "45651",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.477670,39.246559,-82.477670,39.246559",
+    "geom:latitude": 39.246559,
+    "geom:longitude": -82.47767,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 E Main St",
+    "sg:city": "Mc Arthur",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 596 1837",
-    "sg:postcode":"45651",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 596 1837",
+    "sg:postcode": "45651",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2FnWFqad6vnBsK9o0Yq1iZ_39.246559_-82.477670@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2FnWFqad6vnBsK9o0Yq1iZ_39.246559_-82.477670@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783011,
-    "wof:geomhash":"34626517501178418e3169240d7c5c0b",
-    "wof:hierarchy":[],
-    "wof:id":689835503,
-    "wof:lastmodified":1472639913,
-    "wof:name":"Garden Gate Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operation"
+    "wof:country": "US",
+    "wof:created": 1461783011,
+    "wof:geomhash": "5c1e8205b5784572cb492a92c827b5bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689835503
+      }
+    ],
+    "wof:id": 689835503,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Garden Gate Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operation"
     ]
-},
+  },
   "bbox": [
     -82.47767,
     39.246559,
     -82.47767,
     39.246559
-],
+  ],
   "geometry": {"coordinates":[-82.47767,39.246559],"type":"Point"}
 }

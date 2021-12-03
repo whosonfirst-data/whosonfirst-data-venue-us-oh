@@ -2,61 +2,65 @@
   "id": 705807811,
   "type": "Feature",
   "properties": {
-    "addr:full":"13353 Lincoln St SE Minerva OH 44657",
-    "addr:housenumber":"13353",
-    "addr:postcode":"44657",
-    "addr:street":"Lincoln St Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.151684,40.747036,-81.151684,40.747036",
-    "geom:latitude":40.747036,
-    "geom:longitude":-81.151684,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13353 Lincoln St SE",
-    "sg:city":"Minerva",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "13353 Lincoln St SE Minerva OH 44657",
+    "addr:housenumber": "13353",
+    "addr:postcode": "44657",
+    "addr:street": "Lincoln St Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.151684,40.747036,-81.151684,40.747036",
+    "geom:latitude": 40.747036,
+    "geom:longitude": -81.151684,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13353 Lincoln St SE",
+    "sg:city": "Minerva",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 868 4959",
-    "sg:postcode":"44657",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 868 4959",
+    "sg:postcode": "44657",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43aiuYOPJW0GhUSePDgrWH_40.747036_-81.151684@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_43aiuYOPJW0GhUSePDgrWH_40.747036_-81.151684@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789186,
-    "wof:geomhash":"1aa3a0673ae1f7679d5c877c49994593",
-    "wof:hierarchy":[],
-    "wof:id":705807811,
-    "wof:lastmodified":1472639311,
-    "wof:name":"Mt Zion Church Of God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461789186,
+    "wof:geomhash": "7cdf43822a352c8d4f67dad62e1bb208",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705807811
+      }
+    ],
+    "wof:id": 705807811,
+    "wof:lastmodified": 1638566999,
+    "wof:name": "Mt Zion Church Of God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.151684,
     40.747036,
     -81.151684,
     40.747036
-],
+  ],
   "geometry": {"coordinates":[-81.151684,40.747036],"type":"Point"}
 }

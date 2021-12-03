@@ -2,65 +2,69 @@
   "id": 705998371,
   "type": "Feature",
   "properties": {
-    "addr:full":"7605 Center Rd Valley City OH 44280",
-    "addr:housenumber":"7605",
-    "addr:postcode":"44280",
-    "addr:street":"Center Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.962912,41.237771,-81.962912,41.237771",
-    "geom:latitude":41.237771,
-    "geom:longitude":-81.962912,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7605 Center Rd",
-    "sg:city":"Valley City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "7605 Center Rd Valley City OH 44280",
+    "addr:housenumber": "7605",
+    "addr:postcode": "44280",
+    "addr:street": "Center Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.962912,41.237771,-81.962912,41.237771",
+    "geom:latitude": 41.237771,
+    "geom:longitude": -81.962912,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7605 Center Rd",
+    "sg:city": "Valley City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 483 3007",
-    "sg:postcode":"44280",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pet",
-        "boarding",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 483 3007",
+    "sg:postcode": "44280",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pet",
+      "boarding",
+      "sitting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Ac82xuIeuKAG735kYGsVN_41.237771_-81.962912@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Ac82xuIeuKAG735kYGsVN_41.237771_-81.962912@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793546,
-    "wof:geomhash":"6be85893e817241a6d1e82182de1e56b",
-    "wof:hierarchy":[],
-    "wof:id":705998371,
-    "wof:lastmodified":1472639823,
-    "wof:name":"Valley Kennels",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet",
-        "boarding",
-        "sitting"
+    "wof:country": "US",
+    "wof:created": 1461793546,
+    "wof:geomhash": "ac32bc47dfd6fdb81c6994fdcdfb3aaa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705998371
+      }
+    ],
+    "wof:id": 705998371,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Valley Kennels",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet",
+      "boarding",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -81.962912,
     41.237771,
     -81.962912,
     41.237771
-],
+  ],
   "geometry": {"coordinates":[-81.962912,41.237771],"type":"Point"}
 }

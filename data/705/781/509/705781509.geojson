@@ -2,61 +2,65 @@
   "id": 705781509,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 Water St Chardon OH 44024",
-    "addr:housenumber":"105",
-    "addr:postcode":"44024",
-    "addr:street":"Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.204404,41.580877,-81.204404,41.580877",
-    "geom:latitude":41.580877,
-    "geom:longitude":-81.204404,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 Water St",
-    "sg:city":"Chardon",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "105 Water St Chardon OH 44024",
+    "addr:housenumber": "105",
+    "addr:postcode": "44024",
+    "addr:street": "Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.204404,41.580877,-81.204404,41.580877",
+    "geom:latitude": 41.580877,
+    "geom:longitude": -81.204404,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 Water St",
+    "sg:city": "Chardon",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 285 8608",
-    "sg:postcode":"44024",
-    "sg:province":"OH",
-    "sg:tags":[
-        "upholsterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 285 8608",
+    "sg:postcode": "44024",
+    "sg:province": "OH",
+    "sg:tags": [
+      "upholsterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2OWZX68dAf75P03ZtTnM7X_41.580877_-81.204404@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2OWZX68dAf75P03ZtTnM7X_41.580877_-81.204404@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788589,
-    "wof:geomhash":"001f9efa60526708c1d7b34a63512290",
-    "wof:hierarchy":[],
-    "wof:id":705781509,
-    "wof:lastmodified":1472639245,
-    "wof:name":"Discover Upholstery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "upholsterer"
+    "wof:country": "US",
+    "wof:created": 1461788589,
+    "wof:geomhash": "b3b1519332273625dc1084645fb8e206",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705781509
+      }
+    ],
+    "wof:id": 705781509,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Discover Upholstery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "upholsterer"
     ]
-},
+  },
   "bbox": [
     -81.204404,
     41.580877,
     -81.204404,
     41.580877
-],
+  ],
   "geometry": {"coordinates":[-81.204404,41.580877],"type":"Point"}
 }

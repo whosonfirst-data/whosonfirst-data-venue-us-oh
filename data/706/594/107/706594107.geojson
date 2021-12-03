@@ -2,57 +2,61 @@
   "id": 706594107,
   "type": "Feature",
   "properties": {
-    "addr:full":"79 West Street Chagrin Falls OH 44022",
-    "addr:housenumber":"79",
-    "addr:postcode":"44022",
-    "addr:street":"West Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.393378,41.431433,-81.393378,41.431433",
-    "geom:latitude":41.431433,
-    "geom:longitude":-81.393378,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"79 West Street",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "79 West Street Chagrin Falls OH 44022",
+    "addr:housenumber": "79",
+    "addr:postcode": "44022",
+    "addr:street": "West Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.393378,41.431433,-81.393378,41.431433",
+    "geom:latitude": 41.431433,
+    "geom:longitude": -81.393378,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "79 West Street",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 247 3460",
-    "sg:postcode":"44022",
-    "sg:province":"OH",
-    "sg:website":"www.westendchagrin.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3b2dilOZ1HP61wdu9uKNHu_41.431433_-81.393378@1303262753"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 247 3460",
+    "sg:postcode": "44022",
+    "sg:province": "OH",
+    "sg:website": "www.westendchagrin.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3b2dilOZ1HP61wdu9uKNHu_41.431433_-81.393378@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806602,
-    "wof:geomhash":"5dc5c3f8686d3d5620cb644d73f6f07d",
-    "wof:hierarchy":[],
-    "wof:id":706594107,
-    "wof:lastmodified":1472640206,
-    "wof:name":"West End Bistro",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806602,
+    "wof:geomhash": "c1d8a3ca5d6910d44d1c43b28a55f2c3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706594107
+      }
+    ],
+    "wof:id": 706594107,
+    "wof:lastmodified": 1638567141,
+    "wof:name": "West End Bistro",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.393378,
     41.431433,
     -81.393378,
     41.431433
-],
+  ],
   "geometry": {"coordinates":[-81.393378,41.431433],"type":"Point"}
 }

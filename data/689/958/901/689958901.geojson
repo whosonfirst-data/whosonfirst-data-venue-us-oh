@@ -2,61 +2,65 @@
   "id": 689958901,
   "type": "Feature",
   "properties": {
-    "addr:full":"11975 Johnson Rd Beloit OH 44609",
-    "addr:housenumber":"11975",
-    "addr:postcode":"44609",
-    "addr:street":"Johnson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.031722,40.945617,-81.031722,40.945617",
-    "geom:latitude":40.945617,
-    "geom:longitude":-81.031722,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11975 Johnson Rd",
-    "sg:city":"Beloit",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Computer Services",
-            "type":"Services"
-        }
+    "addr:full": "11975 Johnson Rd Beloit OH 44609",
+    "addr:housenumber": "11975",
+    "addr:postcode": "44609",
+    "addr:street": "Johnson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.031722,40.945617,-81.031722,40.945617",
+    "geom:latitude": 40.945617,
+    "geom:longitude": -81.031722,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11975 Johnson Rd",
+    "sg:city": "Beloit",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 584 8332",
-    "sg:postcode":"44609",
-    "sg:province":"OH",
-    "sg:tags":[
-        "consultant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 584 8332",
+    "sg:postcode": "44609",
+    "sg:province": "OH",
+    "sg:tags": [
+      "consultant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7TvT0VxICScF7hCzlECJer_40.945617_-81.031722@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7TvT0VxICScF7hCzlECJer_40.945617_-81.031722@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786102,
-    "wof:geomhash":"9fd13bc4a5defd37b6ca0e73e7fdbd79",
-    "wof:hierarchy":[],
-    "wof:id":689958901,
-    "wof:lastmodified":1472640128,
-    "wof:name":"Phantom-Data",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "consultant"
+    "wof:country": "US",
+    "wof:created": 1461786102,
+    "wof:geomhash": "197d20f9587d804deb4ec787d27cda08",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689958901
+      }
+    ],
+    "wof:id": 689958901,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Phantom-Data",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant"
     ]
-},
+  },
   "bbox": [
     -81.031722,
     40.945617,
     -81.031722,
     40.945617
-],
+  ],
   "geometry": {"coordinates":[-81.031722,40.945617],"type":"Point"}
 }

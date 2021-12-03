@@ -2,64 +2,68 @@
   "id": 706331577,
   "type": "Feature",
   "properties": {
-    "addr:full":"1270 Lexington Ave Mansfield OH 44907",
-    "addr:housenumber":"1270",
-    "addr:postcode":"44907",
-    "addr:street":"Lexington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.542653,40.722473,-82.542653,40.722473",
-    "geom:latitude":40.722473,
-    "geom:longitude":-82.542653,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1270 Lexington Ave",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1270 Lexington Ave Mansfield OH 44907",
+    "addr:housenumber": "1270",
+    "addr:postcode": "44907",
+    "addr:street": "Lexington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.542653,40.722473,-82.542653,40.722473",
+    "geom:latitude": 40.722473,
+    "geom:longitude": -82.542653,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1270 Lexington Ave",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 747 6735",
-    "sg:postcode":"44907",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 747 6735",
+    "sg:postcode": "44907",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574447,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_07kteNEF92gpeb8xMOvDT2_40.722473_-82.542653@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574447,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_07kteNEF92gpeb8xMOvDT2_40.722473_-82.542653@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801017,
-    "wof:geomhash":"30ee15b25a100438de0ad279455b2eea",
-    "wof:hierarchy":[],
-    "wof:id":706331577,
-    "wof:lastmodified":1510604650,
-    "wof:name":"Save-A-Lot",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461801017,
+    "wof:geomhash": "30ee15b25a100438de0ad279455b2eea",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706331577
+      }
+    ],
+    "wof:id": 706331577,
+    "wof:lastmodified": 1638567089,
+    "wof:name": "Save-A-Lot",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -82.542653,
     40.722473,
     -82.542653,
     40.722473
-],
+  ],
   "geometry": {"coordinates":[-82.542653,40.722473],"type":"Point"}
 }

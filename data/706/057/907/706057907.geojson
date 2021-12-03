@@ -2,61 +2,65 @@
   "id": 706057907,
   "type": "Feature",
   "properties": {
-    "addr:full":"384 State St St Paris OH 43031",
-    "addr:housenumber":"384",
-    "addr:postcode":"43031",
-    "addr:street":"State St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.690342,40.159493,-82.690342,40.159493",
-    "geom:latitude":40.159493,
-    "geom:longitude":-82.690342,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"384 State St",
-    "sg:city":"St Paris",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Farm Supplies",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "384 State St St Paris OH 43031",
+    "addr:housenumber": "384",
+    "addr:postcode": "43031",
+    "addr:street": "State St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.690342,40.159493,-82.690342,40.159493",
+    "geom:latitude": 40.159493,
+    "geom:longitude": -82.690342,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "384 State St",
+    "sg:city": "St Paris",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Farm Supplies",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 663 4112",
-    "sg:postcode":"43031",
-    "sg:province":"OH",
-    "sg:tags":[
-        "fertilizer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 663 4112",
+    "sg:postcode": "43031",
+    "sg:province": "OH",
+    "sg:tags": [
+      "fertilizer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3nywzH0oFyLNRM6kLaoRzT_40.159493_-82.690342@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3nywzH0oFyLNRM6kLaoRzT_40.159493_-82.690342@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794769,
-    "wof:geomhash":"8468fde365feb46f1b7e5bc90b6c8774",
-    "wof:hierarchy":[],
-    "wof:id":706057907,
-    "wof:lastmodified":1472639147,
-    "wof:name":"Terra International Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fertilizer"
+    "wof:country": "US",
+    "wof:created": 1461794769,
+    "wof:geomhash": "6e28f916030f0b315dbda2da3a188707",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706057907
+      }
+    ],
+    "wof:id": 706057907,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "Terra International Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fertilizer"
     ]
-},
+  },
   "bbox": [
     -82.690342,
     40.159493,
     -82.690342,
     40.159493
-],
+  ],
   "geometry": {"coordinates":[-82.690342,40.159493],"type":"Point"}
 }

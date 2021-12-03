@@ -2,63 +2,67 @@
   "id": 689870067,
   "type": "Feature",
   "properties": {
-    "addr:full":"3355 S Co Rd 25A Troy OH 45373",
-    "addr:housenumber":"3355;25a",
-    "addr:postcode":"45373",
-    "addr:street":"S Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.200342,39.990231,-84.200342,39.990231",
-    "geom:latitude":39.990231,
-    "geom:longitude":-84.200342,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3355 S Co Rd 25A",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3355 S Co Rd 25A Troy OH 45373",
+    "addr:housenumber": "3355;25a",
+    "addr:postcode": "45373",
+    "addr:street": "S Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.200342,39.990231,-84.200342,39.990231",
+    "geom:latitude": 39.990231,
+    "geom:longitude": -84.200342,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3355 S Co Rd 25A",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 393 9497",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 393 9497",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4CQhxLr6v3VhTK7zxDcTlx_39.990231_-84.200342@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4CQhxLr6v3VhTK7zxDcTlx_39.990231_-84.200342@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783788,
-    "wof:geomhash":"1310ac2af6008f397b3fc085a03ddae2",
-    "wof:hierarchy":[],
-    "wof:id":689870067,
-    "wof:lastmodified":1472639946,
-    "wof:name":"A C Bishop Transportation Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461783788,
+    "wof:geomhash": "e1e9403f3faa99c5b23fe3257ed37048",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689870067
+      }
+    ],
+    "wof:id": 689870067,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "A C Bishop Transportation Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.200342,
     39.990231,
     -84.200342,
     39.990231
-],
-  "geometry": {"coordinates":[-84.20034200000001,39.990231],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.200342,39.990231],"type":"Point"}
 }

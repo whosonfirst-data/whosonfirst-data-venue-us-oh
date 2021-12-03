@@ -2,61 +2,65 @@
   "id": 706174431,
   "type": "Feature",
   "properties": {
-    "addr:full":"10000 Miles Ave Cleveland OH 44105",
-    "addr:housenumber":"10000",
-    "addr:postcode":"44105",
-    "addr:street":"Miles Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.613993,41.445153,-81.613993,41.445153",
-    "geom:latitude":41.445153,
-    "geom:longitude":-81.613993,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10000 Miles Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "10000 Miles Ave Cleveland OH 44105",
+    "addr:housenumber": "10000",
+    "addr:postcode": "44105",
+    "addr:street": "Miles Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.613993,41.445153,-81.613993,41.445153",
+    "geom:latitude": 41.445153,
+    "geom:longitude": -81.613993,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10000 Miles Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 641 0212",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 641 0212",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2c2ZxOTSswUzaotXN5nvCX_41.445153_-81.613993@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2c2ZxOTSswUzaotXN5nvCX_41.445153_-81.613993@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797520,
-    "wof:geomhash":"c29364a6a8afb9fcb009f2a14cfcaf40",
-    "wof:hierarchy":[],
-    "wof:id":706174431,
-    "wof:lastmodified":1472639419,
-    "wof:name":"St Joseph Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461797520,
+    "wof:geomhash": "71fcd2a62192222fe620281134037118",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706174431
+      }
+    ],
+    "wof:id": 706174431,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "St Joseph Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -81.613993,
     41.445153,
     -81.613993,
     41.445153
-],
-  "geometry": {"coordinates":[-81.61399299999999,41.445153],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.613993,41.445153],"type":"Point"}
 }

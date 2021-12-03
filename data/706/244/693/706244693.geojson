@@ -2,61 +2,65 @@
   "id": 706244693,
   "type": "Feature",
   "properties": {
-    "addr:full":"3011 Tremainsville Rd Toledo OH 43613",
-    "addr:housenumber":"3011",
-    "addr:postcode":"43613",
-    "addr:street":"Tremainsville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.617542,41.717577,-83.617542,41.717577",
-    "geom:latitude":41.717577,
-    "geom:longitude":-83.617542,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3011 Tremainsville Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3011 Tremainsville Rd Toledo OH 43613",
+    "addr:housenumber": "3011",
+    "addr:postcode": "43613",
+    "addr:street": "Tremainsville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.617542,41.717577,-83.617542,41.717577",
+    "geom:latitude": 41.717577,
+    "geom:longitude": -83.617542,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3011 Tremainsville Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 473 1240",
-    "sg:postcode":"43613",
-    "sg:province":"OH",
-    "sg:tags":[
-        "special"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 473 1240",
+    "sg:postcode": "43613",
+    "sg:province": "OH",
+    "sg:tags": [
+      "special"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2qMHG2FSkoCWLDq99jcvHk_41.717577_-83.617542@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2qMHG2FSkoCWLDq99jcvHk_41.717577_-83.617542@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799065,
-    "wof:geomhash":"e0523fe17e9f65f3683ce5d0c8cf39a7",
-    "wof:hierarchy":[],
-    "wof:id":706244693,
-    "wof:lastmodified":1472639582,
-    "wof:name":"Lock Well Self Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "special"
+    "wof:country": "US",
+    "wof:created": 1461799065,
+    "wof:geomhash": "a70e092c56c70752ddb2d399441e5e8f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706244693
+      }
+    ],
+    "wof:id": 706244693,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Lock Well Self Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "special"
     ]
-},
+  },
   "bbox": [
     -83.617542,
     41.717577,
     -83.617542,
     41.717577
-],
+  ],
   "geometry": {"coordinates":[-83.617542,41.717577],"type":"Point"}
 }

@@ -2,59 +2,63 @@
   "id": 705973085,
   "type": "Feature",
   "properties": {
-    "addr:full":"1929 Buckland Ave Fremont OH 43420",
-    "addr:housenumber":"1929",
-    "addr:postcode":"43420",
-    "addr:street":"Buckland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.141259,41.33246,-83.141259,41.33246",
-    "geom:latitude":41.33246,
-    "geom:longitude":-83.141259,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"1929 Buckland Ave",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1929 Buckland Ave Fremont OH 43420",
+    "addr:housenumber": "1929",
+    "addr:postcode": "43420",
+    "addr:street": "Buckland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.141259,41.332460,-83.141259,41.332460",
+    "geom:latitude": 41.33246,
+    "geom:longitude": -83.141259,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "1929 Buckland Ave",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 0091",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":321108037,
-        "sg:id":"SG_2klJGtaJCpC41ClWSXzYrn_41.332460_-83.141259@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 0091",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 321108037,
+      "sg:id": "SG_2klJGtaJCpC41ClWSXzYrn_41.332460_-83.141259@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793031,
-    "wof:geomhash":"983d07ed3f3c61ea814b5b786b3e8f70",
-    "wof:hierarchy":[],
-    "wof:id":705973085,
-    "wof:lastmodified":1510941463,
-    "wof:name":"Lutz Elementary School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461793031,
+    "wof:geomhash": "983d07ed3f3c61ea814b5b786b3e8f70",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705973085
+      }
+    ],
+    "wof:id": 705973085,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Lutz Elementary School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.141259,
     41.33246,
     -83.141259,
     41.33246
-],
-  "geometry": {"coordinates":[-83.14125900000001,41.33246],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.141259,41.33246],"type":"Point"}
 }

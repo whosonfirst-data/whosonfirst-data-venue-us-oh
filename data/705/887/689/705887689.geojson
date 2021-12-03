@@ -2,61 +2,65 @@
   "id": 705887689,
   "type": "Feature",
   "properties": {
-    "addr:full":"19706 Echo Dr Strongsville OH 44149",
-    "addr:housenumber":"19706",
-    "addr:postcode":"44149",
-    "addr:street":"Echo Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.843723,41.297757,-81.843723,41.297757",
-    "geom:latitude":41.297757,
-    "geom:longitude":-81.843723,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"19706 Echo Dr",
-    "sg:city":"Strongsville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "19706 Echo Dr Strongsville OH 44149",
+    "addr:housenumber": "19706",
+    "addr:postcode": "44149",
+    "addr:street": "Echo Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.843723,41.297757,-81.843723,41.297757",
+    "geom:latitude": 41.297757,
+    "geom:longitude": -81.843723,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "19706 Echo Dr",
+    "sg:city": "Strongsville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 572 3523",
-    "sg:postcode":"44149",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 572 3523",
+    "sg:postcode": "44149",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1cNgVsopm7g9pr0f6IfJnM_41.297757_-81.843723@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1cNgVsopm7g9pr0f6IfJnM_41.297757_-81.843723@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791121,
-    "wof:geomhash":"8fef0dfecd0bf0d12d90ec9a930321bc",
-    "wof:hierarchy":[],
-    "wof:id":705887689,
-    "wof:lastmodified":1472639533,
-    "wof:name":"Joe Parente",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461791121,
+    "wof:geomhash": "9697e4e1f36a8ecd089ab47ca5bbdaeb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705887689
+      }
+    ],
+    "wof:id": 705887689,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "Joe Parente",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -81.843723,
     41.297757,
     -81.843723,
     41.297757
-],
+  ],
   "geometry": {"coordinates":[-81.843723,41.297757],"type":"Point"}
 }

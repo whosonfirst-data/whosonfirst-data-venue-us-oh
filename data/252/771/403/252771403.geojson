@@ -2,86 +2,87 @@
   "id": 252771403,
   "type": "Feature",
   "properties": {
-    "addr:full":"3530 Irwin Simpson Rd Mason OH 45040",
-    "addr:housenumber":"3530",
-    "addr:postcode":"45040",
-    "addr:street":"Irwin Simpson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.28529,39.314545,-84.28529,39.314545",
-    "geom:latitude":39.314545,
-    "geom:longitude":-84.28529,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3530 Irwin Simpson Rd",
-    "sg:city":"Mason",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Tools & Machinery",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "3530 Irwin Simpson Rd Mason OH 45040",
+    "addr:housenumber": "3530",
+    "addr:postcode": "45040",
+    "addr:street": "Irwin Simpson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.285290,39.314545,-84.285290,39.314545",
+    "geom:latitude": 39.314545,
+    "geom:longitude": -84.28529,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3530 Irwin Simpson Rd",
+    "sg:city": "Mason",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Tools \u0026 Machinery",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 398 2500",
-    "sg:postcode":"45040",
-    "sg:province":"OH",
-    "sg:tags":[
-        "temperature",
-        "aeration",
-        "system",
-        "detection",
-        "mfr",
-        "grain"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 398 2500",
+    "sg:postcode": "45040",
+    "sg:province": "OH",
+    "sg:tags": [
+      "temperature",
+      "aeration",
+      "system",
+      "detection",
+      "mfr",
+      "grain"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101713163,
-        102082423,
-        85849243
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101713163,
+      102082423,
+      85849243
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0N7Wlic7bi0wPwo4yNXWyb_39.314545_-84.285290@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0N7Wlic7bi0wPwo4yNXWyb_39.314545_-84.285290@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"17fd45d4b1af3ba3e03a15be4f161449",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082423,
-            "locality_id":101713163,
-            "neighbourhood_id":85849243,
-            "region_id":85688485,
-            "venue_id":252771403
-        }
+    "wof:country": "US",
+    "wof:created": 1638566855,
+    "wof:geomhash": "1a5e77f90c261555bd79453fc073f929",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082423,
+        "locality_id": 101713163,
+        "neighbourhood_id": 85849243,
+        "region_id": 85688485,
+        "venue_id": 252771403
+      }
     ],
-    "wof:id":252771403,
-    "wof:lastmodified":1472638258,
-    "wof:name":"Safe-Grain Incorporated",
-    "wof:parent_id":85849243,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "temperature",
-        "aeration",
-        "system",
-        "detection",
-        "mfr",
-        "grain"
+    "wof:id": 252771403,
+    "wof:lastmodified": 1638566855,
+    "wof:name": "Safe-Grain Incorporated",
+    "wof:parent_id": 85849243,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "temperature",
+      "aeration",
+      "system",
+      "detection",
+      "mfr",
+      "grain"
     ]
-},
+  },
   "bbox": [
     -84.28529,
     39.314545,
     -84.28529,
     39.314545
-],
+  ],
   "geometry": {"coordinates":[-84.28529,39.314545],"type":"Point"}
 }

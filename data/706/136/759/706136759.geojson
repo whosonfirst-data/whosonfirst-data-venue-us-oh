@@ -2,63 +2,67 @@
   "id": 706136759,
   "type": "Feature",
   "properties": {
-    "addr:full":"610 Sunset Ave Spencerville OH 45887",
-    "addr:housenumber":"610",
-    "addr:postcode":"45887",
-    "addr:street":"Sunset Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.34262,40.706112,-84.34262,40.706112",
-    "geom:latitude":40.706112,
-    "geom:longitude":-84.34262,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"610 Sunset Ave",
-    "sg:city":"Spencerville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "610 Sunset Ave Spencerville OH 45887",
+    "addr:housenumber": "610",
+    "addr:postcode": "45887",
+    "addr:street": "Sunset Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.342620,40.706112,-84.342620,40.706112",
+    "geom:latitude": 40.706112,
+    "geom:longitude": -84.34262,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "610 Sunset Ave",
+    "sg:city": "Spencerville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 647 4117",
-    "sg:postcode":"45887",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 647 4117",
+    "sg:postcode": "45887",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_37YAJ7YI3bJXuHbhwHnCF8_40.706112_-84.342620@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37YAJ7YI3bJXuHbhwHnCF8_40.706112_-84.342620@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796685,
-    "wof:geomhash":"d2cc1658a6079edd6de291bbf595ce9c",
-    "wof:hierarchy":[],
-    "wof:id":706136759,
-    "wof:lastmodified":1472639362,
-    "wof:name":"William T Wright MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461796685,
+    "wof:geomhash": "f25b38231e2e295101cd2a7f167a7722",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706136759
+      }
+    ],
+    "wof:id": 706136759,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "William T Wright MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.34262,
     40.706112,
     -84.34262,
     40.706112
-],
+  ],
   "geometry": {"coordinates":[-84.34262,40.706112],"type":"Point"}
 }

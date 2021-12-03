@@ -2,63 +2,67 @@
   "id": 706440101,
   "type": "Feature",
   "properties": {
-    "addr:full":"7391 Co Rd 203 Millersburg OH 44654",
-    "addr:housenumber":"7391",
-    "addr:postcode":"203;44654",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.89256,40.573671,-81.89256,40.573671",
-    "geom:latitude":40.573671,
-    "geom:longitude":-81.89256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7391 Co Rd 203",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "7391 Co Rd 203 Millersburg OH 44654",
+    "addr:housenumber": "7391",
+    "addr:postcode": "203;44654",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.892560,40.573671,-81.892560,40.573671",
+    "geom:latitude": 40.573671,
+    "geom:longitude": -81.89256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7391 Co Rd 203",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 893 4509",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "concrete",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 893 4509",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "concrete",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7CHa2HTJgxZ9Mr6RAqPHyn_40.573671_-81.892560@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7CHa2HTJgxZ9Mr6RAqPHyn_40.573671_-81.892560@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803210,
-    "wof:geomhash":"30c526131b78f8487e9181781376348b",
-    "wof:hierarchy":[],
-    "wof:id":706440101,
-    "wof:lastmodified":1472640019,
-    "wof:name":"Yoder Laser Concrete",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "concrete",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461803210,
+    "wof:geomhash": "a359d2c82d338c0b18d29cdccc142830",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706440101
+      }
+    ],
+    "wof:id": 706440101,
+    "wof:lastmodified": 1638567120,
+    "wof:name": "Yoder Laser Concrete",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "concrete",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.89256,
     40.573671,
     -81.89256,
     40.573671
-],
+  ],
   "geometry": {"coordinates":[-81.89256,40.573671],"type":"Point"}
 }

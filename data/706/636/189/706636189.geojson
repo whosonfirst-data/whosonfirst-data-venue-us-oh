@@ -2,89 +2,93 @@
   "id": 706636189,
   "type": "Feature",
   "properties": {
-    "addr:full":"1865 Lewiston Ct Cincinnati OH 45240",
-    "addr:housenumber":"1865",
-    "addr:postcode":"45240",
-    "addr:street":"Lewiston Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.551577,39.295104,-84.551577,39.295104",
-    "geom:latitude":39.295104,
-    "geom:longitude":-84.551577,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1865 Lewiston Ct",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Transit Center",
-            "subcategory":"Freight",
-            "type":"Transportation"
-        },
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        },
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1865 Lewiston Ct Cincinnati OH 45240",
+    "addr:housenumber": "1865",
+    "addr:postcode": "45240",
+    "addr:street": "Lewiston Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.551577,39.295104,-84.551577,39.295104",
+    "geom:latitude": 39.295104,
+    "geom:longitude": -84.551577,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1865 Lewiston Ct",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Transit Center",
+        "subcategory": "Freight",
+        "type": "Transportation"
+      },
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      },
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 263 0982",
-    "sg:postcode":"45240",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cargo",
-        "courier",
-        "package",
-        "express",
-        "air",
-        "delivery",
-        "messenger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 263 0982",
+    "sg:postcode": "45240",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cargo",
+      "courier",
+      "package",
+      "express",
+      "air",
+      "delivery",
+      "messenger"
     ],
-    "sg:website":"http://www.demaristransportation.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0vxriXfDNEsMOBeh3w1ovJ_39.295104_-84.551577@1303262759"
+    "sg:website": "http://www.demaristransportation.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0vxriXfDNEsMOBeh3w1ovJ_39.295104_-84.551577@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807499,
-    "wof:geomhash":"76a341946209c32501a82263890d0009",
-    "wof:hierarchy":[],
-    "wof:id":706636189,
-    "wof:lastmodified":1472640245,
-    "wof:name":"DeMaris Transportation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cargo",
-        "courier",
-        "package",
-        "express",
-        "air",
-        "delivery",
-        "messenger"
+    "wof:country": "US",
+    "wof:created": 1461807499,
+    "wof:geomhash": "1f2b64fca1a847af90282914282c3c1c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706636189
+      }
+    ],
+    "wof:id": 706636189,
+    "wof:lastmodified": 1638567150,
+    "wof:name": "DeMaris Transportation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cargo",
+      "courier",
+      "package",
+      "express",
+      "air",
+      "delivery",
+      "messenger"
     ]
-},
+  },
   "bbox": [
     -84.551577,
     39.295104,
     -84.551577,
     39.295104
-],
-  "geometry": {"coordinates":[-84.55157699999999,39.295104],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.551577,39.295104],"type":"Point"}
 }

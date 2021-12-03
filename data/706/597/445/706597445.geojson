@@ -2,61 +2,65 @@
   "id": 706597445,
   "type": "Feature",
   "properties": {
-    "addr:full":"10333 Northfield Rd Northfield OH 44067",
-    "addr:housenumber":"10333",
-    "addr:postcode":"44067",
-    "addr:street":"Northfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.52919,41.341782,-81.52919,41.341782",
-    "geom:latitude":41.341782,
-    "geom:longitude":-81.52919,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10333 Northfield Rd",
-    "sg:city":"Northfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10333 Northfield Rd Northfield OH 44067",
+    "addr:housenumber": "10333",
+    "addr:postcode": "44067",
+    "addr:street": "Northfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.529190,41.341782,-81.529190,41.341782",
+    "geom:latitude": 41.341782,
+    "geom:longitude": -81.52919,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10333 Northfield Rd",
+    "sg:city": "Northfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 908 0320",
-    "sg:postcode":"44067",
-    "sg:province":"OH",
-    "sg:tags":[
-        "seafood"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 908 0320",
+    "sg:postcode": "44067",
+    "sg:province": "OH",
+    "sg:tags": [
+      "seafood"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6X9E1Hz2XVzJ6Wi6m8C67B_41.341782_-81.529190@1303262753"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6X9E1Hz2XVzJ6Wi6m8C67B_41.341782_-81.529190@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806663,
-    "wof:geomhash":"a56bdce511afcf548a7dd32756c6efc5",
-    "wof:hierarchy":[],
-    "wof:id":706597445,
-    "wof:lastmodified":1472640221,
-    "wof:name":"Lunas Krusty Krab",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood"
+    "wof:country": "US",
+    "wof:created": 1461806663,
+    "wof:geomhash": "48c9eaaa1e79f0067307c4d97b9835f4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706597445
+      }
+    ],
+    "wof:id": 706597445,
+    "wof:lastmodified": 1638567144,
+    "wof:name": "Lunas Krusty Krab",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood"
     ]
-},
+  },
   "bbox": [
     -81.52919,
     41.341782,
     -81.52919,
     41.341782
-],
+  ],
   "geometry": {"coordinates":[-81.52919,41.341782],"type":"Point"}
 }

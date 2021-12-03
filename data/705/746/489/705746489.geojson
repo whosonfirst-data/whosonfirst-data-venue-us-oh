@@ -2,61 +2,65 @@
   "id": 705746489,
   "type": "Feature",
   "properties": {
-    "addr:full":"2 E Park Ave Columbiana OH 44408",
-    "addr:housenumber":"2",
-    "addr:postcode":"44408",
-    "addr:street":"E Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.692788,40.888643,-80.692788,40.888643",
-    "geom:latitude":40.888643,
-    "geom:longitude":-80.692788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2 E Park Ave",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2 E Park Ave Columbiana OH 44408",
+    "addr:housenumber": "2",
+    "addr:postcode": "44408",
+    "addr:street": "E Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.692788,40.888643,-80.692788,40.888643",
+    "geom:latitude": 40.888643,
+    "geom:longitude": -80.692788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2 E Park Ave",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 482 1888",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 482 1888",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1qkKGa4P0e36qJbVNJkewu_40.888643_-80.692788@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1qkKGa4P0e36qJbVNJkewu_40.888643_-80.692788@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787780,
-    "wof:geomhash":"8197f6c31053aa5bffc35f21511e650b",
-    "wof:hierarchy":[],
-    "wof:id":705746489,
-    "wof:lastmodified":1472639165,
-    "wof:name":"Way Station",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461787780,
+    "wof:geomhash": "95ef09e5070165cad714ed80de1e1854",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705746489
+      }
+    ],
+    "wof:id": 705746489,
+    "wof:lastmodified": 1638566961,
+    "wof:name": "Way Station",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -80.692788,
     40.888643,
     -80.692788,
     40.888643
-],
-  "geometry": {"coordinates":[-80.69278799999999,40.888643],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.692788,40.888643],"type":"Point"}
 }

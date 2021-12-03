@@ -2,61 +2,65 @@
   "id": 706251819,
   "type": "Feature",
   "properties": {
-    "addr:full":"2695 Maysville Pike Zanesville OH 43701",
-    "addr:housenumber":"2695",
-    "addr:postcode":"43701",
-    "addr:street":"Maysville Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.040637,39.895739,-82.040637,39.895739",
-    "geom:latitude":39.895739,
-    "geom:longitude":-82.040637,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2695 Maysville Pike",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2695 Maysville Pike Zanesville OH 43701",
+    "addr:housenumber": "2695",
+    "addr:postcode": "43701",
+    "addr:street": "Maysville Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.040637,39.895739,-82.040637,39.895739",
+    "geom:latitude": 39.895739,
+    "geom:longitude": -82.040637,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2695 Maysville Pike",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 6784",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 6784",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1INB0mldUBfgPT5HWcYYUC_39.895739_-82.040637@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1INB0mldUBfgPT5HWcYYUC_39.895739_-82.040637@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799236,
-    "wof:geomhash":"c2a8b964bc8ea860cc9417fa05db5870",
-    "wof:hierarchy":[],
-    "wof:id":706251819,
-    "wof:lastmodified":1472639603,
-    "wof:name":"Gregory Anderson DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461799236,
+    "wof:geomhash": "a06d35573983e772726738c53ae6c01d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706251819
+      }
+    ],
+    "wof:id": 706251819,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Gregory Anderson DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.040637,
     39.895739,
     -82.040637,
     39.895739
-],
+  ],
   "geometry": {"coordinates":[-82.040637,39.895739],"type":"Point"}
 }

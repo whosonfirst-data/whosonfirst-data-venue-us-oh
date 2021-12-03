@@ -2,61 +2,65 @@
   "id": 706004467,
   "type": "Feature",
   "properties": {
-    "addr:full":"6850 Monroe St Sylvania OH 43560",
-    "addr:housenumber":"6850",
-    "addr:postcode":"43560",
-    "addr:street":"Monroe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.71013,41.716177,-83.71013,41.716177",
-    "geom:latitude":41.716177,
-    "geom:longitude":-83.71013,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6850 Monroe St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Court House",
-            "type":"Public Place"
-        }
+    "addr:full": "6850 Monroe St Sylvania OH 43560",
+    "addr:housenumber": "6850",
+    "addr:postcode": "43560",
+    "addr:street": "Monroe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.710130,41.716177,-83.710130,41.716177",
+    "geom:latitude": 41.716177,
+    "geom:longitude": -83.71013,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6850 Monroe St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Court House",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 9000",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 9000",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2T4ymZHHndFhsKIfZnnDv1_41.716177_-83.710130@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2T4ymZHHndFhsKIfZnnDv1_41.716177_-83.710130@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793671,
-    "wof:geomhash":"0edbc891c64eb1c2ce787d773022d5be",
-    "wof:hierarchy":[],
-    "wof:id":706004467,
-    "wof:lastmodified":1472638327,
-    "wof:name":"Suburban Court Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county"
+    "wof:country": "US",
+    "wof:created": 1461793671,
+    "wof:geomhash": "34dc97df7d6c2913f0ebe41a83ea4ba9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706004467
+      }
+    ],
+    "wof:id": 706004467,
+    "wof:lastmodified": 1638566928,
+    "wof:name": "Suburban Court Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county"
     ]
-},
+  },
   "bbox": [
     -83.71013,
     41.716177,
     -83.71013,
     41.716177
-],
-  "geometry": {"coordinates":[-83.71013000000001,41.716177],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.71013,41.716177],"type":"Point"}
 }

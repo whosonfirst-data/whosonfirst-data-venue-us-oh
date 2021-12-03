@@ -2,61 +2,65 @@
   "id": 706339085,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 E Main St Blanchester OH 45107",
-    "addr:housenumber":"318",
-    "addr:postcode":"45107",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.984585,39.295634,-83.984585,39.295634",
-    "geom:latitude":39.295634,
-    "geom:longitude":-83.984585,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"318 E Main St",
-    "sg:city":"Blanchester",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "318 E Main St Blanchester OH 45107",
+    "addr:housenumber": "318",
+    "addr:postcode": "45107",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.984585,39.295634,-83.984585,39.295634",
+    "geom:latitude": 39.295634,
+    "geom:longitude": -83.984585,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "318 E Main St",
+    "sg:city": "Blanchester",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 783 2431",
-    "sg:postcode":"45107",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 783 2431",
+    "sg:postcode": "45107",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4z4jlzoRhYASufSAQFiYEV_39.295634_-83.984585@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4z4jlzoRhYASufSAQFiYEV_39.295634_-83.984585@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801180,
-    "wof:geomhash":"a156d6e44d7f1b86eb0d6839cb6f4719",
-    "wof:hierarchy":[],
-    "wof:id":706339085,
-    "wof:lastmodified":1472639837,
-    "wof:name":"Blanchester City Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461801180,
+    "wof:geomhash": "c57a3068911ed490c2e9845ac51ed99f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706339085
+      }
+    ],
+    "wof:id": 706339085,
+    "wof:lastmodified": 1638567090,
+    "wof:name": "Blanchester City Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.984585,
     39.295634,
     -83.984585,
     39.295634
-],
+  ],
   "geometry": {"coordinates":[-83.984585,39.295634],"type":"Point"}
 }

@@ -2,67 +2,71 @@
   "id": 689961071,
   "type": "Feature",
   "properties": {
-    "addr:full":"17 W Main St Wakeman OH 44889",
-    "addr:housenumber":"17",
-    "addr:postcode":"44889",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.402294,41.254645,-82.402294,41.254645",
-    "geom:latitude":41.254645,
-    "geom:longitude":-82.402294,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17 W Main St",
-    "sg:city":"Wakeman",
-    "sg:classifiers":[
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Rental",
-            "type":"Entertainment"
-        }
+    "addr:full": "17 W Main St Wakeman OH 44889",
+    "addr:housenumber": "17",
+    "addr:postcode": "44889",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.402294,41.254645,-82.402294,41.254645",
+    "geom:latitude": 41.254645,
+    "geom:longitude": -82.402294,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17 W Main St",
+    "sg:city": "Wakeman",
+    "sg:classifiers": [
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Rental",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 839 2954",
-    "sg:postcode":"44889",
-    "sg:province":"OH",
-    "sg:tags":[
-        "leasing",
-        "video",
-        "disc",
-        "tape"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 839 2954",
+    "sg:postcode": "44889",
+    "sg:province": "OH",
+    "sg:tags": [
+      "leasing",
+      "video",
+      "disc",
+      "tape"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6r2LXWeVU7N6jTiZ8FdL3U_41.254645_-82.402294@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6r2LXWeVU7N6jTiZ8FdL3U_41.254645_-82.402294@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786163,
-    "wof:geomhash":"ff8bceb50693c6e3ce642ddfe085cd9e",
-    "wof:hierarchy":[],
-    "wof:id":689961071,
-    "wof:lastmodified":1472640119,
-    "wof:name":"Box Office Movies",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "leasing",
-        "video",
-        "disc",
-        "tape"
+    "wof:country": "US",
+    "wof:created": 1461786163,
+    "wof:geomhash": "d54cf6d2a4db6c86b3cff71fe4d882cb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689961071
+      }
+    ],
+    "wof:id": 689961071,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Box Office Movies",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "leasing",
+      "video",
+      "disc",
+      "tape"
     ]
-},
+  },
   "bbox": [
     -82.402294,
     41.254645,
     -82.402294,
     41.254645
-],
+  ],
   "geometry": {"coordinates":[-82.402294,41.254645],"type":"Point"}
 }

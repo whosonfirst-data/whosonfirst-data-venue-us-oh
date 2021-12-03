@@ -2,61 +2,65 @@
   "id": 705951557,
   "type": "Feature",
   "properties": {
-    "addr:full":"17599 Whitney Rd Cleveland OH 44136",
-    "addr:housenumber":"17599",
-    "addr:postcode":"44136",
-    "addr:street":"Whitney Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.826345,41.342862,-81.826345,41.342862",
-    "geom:latitude":41.342862,
-    "geom:longitude":-81.826345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17599 Whitney Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "17599 Whitney Rd Cleveland OH 44136",
+    "addr:housenumber": "17599",
+    "addr:postcode": "44136",
+    "addr:street": "Whitney Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.826345,41.342862,-81.826345,41.342862",
+    "geom:latitude": 41.342862,
+    "geom:longitude": -81.826345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17599 Whitney Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 243 3215",
-    "sg:postcode":"44136",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mover"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 243 3215",
+    "sg:postcode": "44136",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mover"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_25pMDLHvo5SgCHYHDJYyQQ_41.342862_-81.826345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_25pMDLHvo5SgCHYHDJYyQQ_41.342862_-81.826345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792565,
-    "wof:geomhash":"146a65e8382c56fa8476f2d8c2845b8c",
-    "wof:hierarchy":[],
-    "wof:id":705951557,
-    "wof:lastmodified":1472639691,
-    "wof:name":"A To Z Movers",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mover"
+    "wof:country": "US",
+    "wof:created": 1461792565,
+    "wof:geomhash": "8d3e4bb428ff77a84566d5ab3f1e4c6c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705951557
+      }
+    ],
+    "wof:id": 705951557,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "A To Z Movers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mover"
     ]
-},
+  },
   "bbox": [
     -81.826345,
     41.342862,
     -81.826345,
     41.342862
-],
+  ],
   "geometry": {"coordinates":[-81.826345,41.342862],"type":"Point"}
 }

@@ -2,70 +2,74 @@
   "id": 706615755,
   "type": "Feature",
   "properties": {
-    "addr:full":"567 Dorchester Dr Hubbard OH 44425",
-    "addr:housenumber":"567",
-    "addr:postcode":"44425",
-    "addr:street":"Dorchester Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.57284,41.145425,-80.57284,41.145425",
-    "geom:latitude":41.145425,
-    "geom:longitude":-80.57284,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"567 Dorchester Dr",
-    "sg:city":"Hubbard",
-    "sg:classifiers":[
-        {
-            "category":"Transit Center",
-            "subcategory":"Freight",
-            "type":"Transportation"
-        },
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "567 Dorchester Dr Hubbard OH 44425",
+    "addr:housenumber": "567",
+    "addr:postcode": "44425",
+    "addr:street": "Dorchester Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.572840,41.145425,-80.572840,41.145425",
+    "geom:latitude": 41.145425,
+    "geom:longitude": -80.57284,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "567 Dorchester Dr",
+    "sg:city": "Hubbard",
+    "sg:classifiers": [
+      {
+        "category": "Transit Center",
+        "subcategory": "Freight",
+        "type": "Transportation"
+      },
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 534 7786",
-    "sg:postcode":"44425",
-    "sg:province":"OH",
-    "sg:tags":[
-        "local",
-        "trucking-motor",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 534 7786",
+    "sg:postcode": "44425",
+    "sg:province": "OH",
+    "sg:tags": [
+      "local",
+      "trucking-motor",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2CzjnlA4UjXevi7AYFPGAG_41.145425_-80.572840@1303262756"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2CzjnlA4UjXevi7AYFPGAG_41.145425_-80.572840@1303262756"
     },
-    "wof:country":"US",
-    "wof:created":1461807065,
-    "wof:geomhash":"15b5c35a783b36acf203a3fc2609ef24",
-    "wof:hierarchy":[],
-    "wof:id":706615755,
-    "wof:lastmodified":1472640236,
-    "wof:name":"Decker Truck Line Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "local",
-        "trucking-motor",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461807065,
+    "wof:geomhash": "be5b99acb05c9075b59295777cd95d88",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706615755
+      }
+    ],
+    "wof:id": 706615755,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Decker Truck Line Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "trucking-motor",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.57284,
     41.145425,
     -80.57284,
     41.145425
-],
+  ],
   "geometry": {"coordinates":[-80.57284,41.145425],"type":"Point"}
 }

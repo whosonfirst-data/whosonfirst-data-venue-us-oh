@@ -2,61 +2,65 @@
   "id": 689809033,
   "type": "Feature",
   "properties": {
-    "addr:full":"7253 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7253",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.384303,39.320778,-84.384303,39.320778",
-    "geom:latitude":39.320778,
-    "geom:longitude":-84.384303,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7253 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "7253 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7253",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.384303,39.320778,-84.384303,39.320778",
+    "geom:latitude": 39.320778,
+    "geom:longitude": -84.384303,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7253 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 777 0080",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photo"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 777 0080",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photo"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5BzhAEYepckAE8bu4ozyPu_39.320778_-84.384303@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5BzhAEYepckAE8bu4ozyPu_39.320778_-84.384303@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782153,
-    "wof:geomhash":"6f1da25d59b930292cddc7fb958698b0",
-    "wof:hierarchy":[],
-    "wof:id":689809033,
-    "wof:lastmodified":1472639876,
-    "wof:name":"Mc Laughlin Studio Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photo"
+    "wof:country": "US",
+    "wof:created": 1461782153,
+    "wof:geomhash": "e6296dde06bb4eae1f39f38fe755b33f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689809033
+      }
+    ],
+    "wof:id": 689809033,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Mc Laughlin Studio Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photo"
     ]
-},
+  },
   "bbox": [
     -84.384303,
     39.320778,
     -84.384303,
     39.320778
-],
+  ],
   "geometry": {"coordinates":[-84.384303,39.320778],"type":"Point"}
 }

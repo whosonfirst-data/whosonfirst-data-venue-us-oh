@@ -2,57 +2,61 @@
   "id": 706603517,
   "type": "Feature",
   "properties": {
-    "addr:full":"3820 Orange pl Beachwood OH 44122",
-    "addr:housenumber":"3820",
-    "addr:postcode":"44122",
-    "addr:street":"Orange Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.488748,41.456827,-81.488748,41.456827",
-    "geom:latitude":41.456827,
-    "geom:longitude":-81.488748,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3820 Orange pl",
-    "sg:city":"Beachwood",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3820 Orange pl Beachwood OH 44122",
+    "addr:housenumber": "3820",
+    "addr:postcode": "44122",
+    "addr:street": "Orange Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.488748,41.456827,-81.488748,41.456827",
+    "geom:latitude": 41.456827,
+    "geom:longitude": -81.488748,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3820 Orange pl",
+    "sg:city": "Beachwood",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 256 2972",
-    "sg:postcode":"44122",
-    "sg:province":"OH",
-    "sg:website":"frontlinetransportation.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6wEoZqOwlGXKyfFc5QJdSO_41.456827_-81.488748@1303262754"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 256 2972",
+    "sg:postcode": "44122",
+    "sg:province": "OH",
+    "sg:website": "frontlinetransportation.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6wEoZqOwlGXKyfFc5QJdSO_41.456827_-81.488748@1303262754"
     },
-    "wof:country":"US",
-    "wof:created":1461806796,
-    "wof:geomhash":"c272383d0b04b8aba036bfb4479db9a8",
-    "wof:hierarchy":[],
-    "wof:id":706603517,
-    "wof:lastmodified":1472640221,
-    "wof:name":"Cleveland Orange Cab",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806796,
+    "wof:geomhash": "7835f86fbe229478c0016f1ef09d9c13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706603517
+      }
+    ],
+    "wof:id": 706603517,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Cleveland Orange Cab",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.488748,
     41.456827,
     -81.488748,
     41.456827
-],
+  ],
   "geometry": {"coordinates":[-81.488748,41.456827],"type":"Point"}
 }

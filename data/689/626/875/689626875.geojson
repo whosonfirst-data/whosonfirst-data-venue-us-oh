@@ -2,63 +2,67 @@
   "id": 689626875,
   "type": "Feature",
   "properties": {
-    "addr:full":"2204 Sunset Blvd Steubenville OH 43952",
-    "addr:housenumber":"2204",
-    "addr:postcode":"43952",
-    "addr:street":"Sunset Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.640928,40.369196,-80.640928,40.369196",
-    "geom:latitude":40.369196,
-    "geom:longitude":-80.640928,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2204 Sunset Blvd",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2204 Sunset Blvd Steubenville OH 43952",
+    "addr:housenumber": "2204",
+    "addr:postcode": "43952",
+    "addr:street": "Sunset Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.640928,40.369196,-80.640928,40.369196",
+    "geom:latitude": 40.369196,
+    "geom:longitude": -80.640928,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2204 Sunset Blvd",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 282 3888",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 282 3888",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4uQ6kmVGdCxs6qFL8Zi1gX_40.369196_-80.640928@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4uQ6kmVGdCxs6qFL8Zi1gX_40.369196_-80.640928@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777079,
-    "wof:geomhash":"ff0fbc90458e95516c245480f3175809",
-    "wof:hierarchy":[],
-    "wof:id":689626875,
-    "wof:lastmodified":1472639477,
-    "wof:name":"Sunset Podiatry Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461777079,
+    "wof:geomhash": "237f43cac44a1edca82d4311791b7517",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689626875
+      }
+    ],
+    "wof:id": 689626875,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Sunset Podiatry Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.640928,
     40.369196,
     -80.640928,
     40.369196
-],
+  ],
   "geometry": {"coordinates":[-80.640928,40.369196],"type":"Point"}
 }

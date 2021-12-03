@@ -2,63 +2,67 @@
   "id": 706276081,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 College St Wadsworth OH 44281",
-    "addr:housenumber":"123",
-    "addr:postcode":"44281",
-    "addr:street":"College St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.73023,41.025366,-81.73023,41.025366",
-    "geom:latitude":41.025366,
-    "geom:longitude":-81.73023,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 College St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Plumbing",
-            "type":"Services"
-        }
+    "addr:full": "123 College St Wadsworth OH 44281",
+    "addr:housenumber": "123",
+    "addr:postcode": "44281",
+    "addr:street": "College St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.730230,41.025366,-81.730230,41.025366",
+    "geom:latitude": 41.025366,
+    "geom:longitude": -81.73023,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 College St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 336 1907",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "plumbing",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 336 1907",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "plumbing",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2jYcjVBmFQPaw2T7eZd4fn_41.025366_-81.730230@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2jYcjVBmFQPaw2T7eZd4fn_41.025366_-81.730230@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799755,
-    "wof:geomhash":"6ad166c90235a5476fb4e1ea79b346b9",
-    "wof:hierarchy":[],
-    "wof:id":706276081,
-    "wof:lastmodified":1472639614,
-    "wof:name":"Little Trucks Express",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "plumbing",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461799755,
+    "wof:geomhash": "3b1b9219f302b9d5c98f4890d3965c61",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706276081
+      }
+    ],
+    "wof:id": 706276081,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Little Trucks Express",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "plumbing",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.73023,
     41.025366,
     -81.73023,
     41.025366
-],
-  "geometry": {"coordinates":[-81.73023000000001,41.025366],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.73023,41.025366],"type":"Point"}
 }

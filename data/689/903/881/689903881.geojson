@@ -2,63 +2,67 @@
   "id": 689903881,
   "type": "Feature",
   "properties": {
-    "addr:full":"10210 State Rte 534 Beloit OH 44609",
-    "addr:housenumber":"10210",
-    "addr:postcode":"44609",
-    "addr:street":"State Rte 534",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.954915,40.960712,-80.954915,40.960712",
-    "geom:latitude":40.960712,
-    "geom:longitude":-80.954915,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10210 State Rte 534",
-    "sg:city":"Beloit",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10210 State Rte 534 Beloit OH 44609",
+    "addr:housenumber": "10210",
+    "addr:postcode": "44609",
+    "addr:street": "State Rte 534",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.954915,40.960712,-80.954915,40.960712",
+    "geom:latitude": 40.960712,
+    "geom:longitude": -80.954915,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10210 State Rte 534",
+    "sg:city": "Beloit",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 584 7135",
-    "sg:postcode":"44609",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 584 7135",
+    "sg:postcode": "44609",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_10KEzqSq138Fp8kasUmzMg_40.960712_-80.954915@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_10KEzqSq138Fp8kasUmzMg_40.960712_-80.954915@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784687,
-    "wof:geomhash":"019f50a867131898447ad75876fea90d",
-    "wof:hierarchy":[],
-    "wof:id":689903881,
-    "wof:lastmodified":1472640067,
-    "wof:name":"Martig Farms Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461784687,
+    "wof:geomhash": "f208d92769b6a9d1a9d98babbd27feb3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689903881
+      }
+    ],
+    "wof:id": 689903881,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "Martig Farms Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -80.954915,
     40.960712,
     -80.954915,
     40.960712
-],
+  ],
   "geometry": {"coordinates":[-80.954915,40.960712],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689740139,
   "type": "Feature",
   "properties": {
-    "addr:full":"54 S Main St Niles OH 44446",
-    "addr:housenumber":"54",
-    "addr:postcode":"44446",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.765301,41.179785,-80.765301,41.179785",
-    "geom:latitude":41.179785,
-    "geom:longitude":-80.765301,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"54 S Main St",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "54 S Main St Niles OH 44446",
+    "addr:housenumber": "54",
+    "addr:postcode": "44446",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.765301,41.179785,-80.765301,41.179785",
+    "geom:latitude": 41.179785,
+    "geom:longitude": -80.765301,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "54 S Main St",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 652 9419",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 652 9419",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2su6by61Pds8rrTQ2rhWJZ_41.179785_-80.765301@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2su6by61Pds8rrTQ2rhWJZ_41.179785_-80.765301@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780197,
-    "wof:geomhash":"dc7f2a129a5fb056a783e51d4ebf2087",
-    "wof:hierarchy":[],
-    "wof:id":689740139,
-    "wof:lastmodified":1472639765,
-    "wof:name":"Racks Cafe",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461780197,
+    "wof:geomhash": "57c3a0821dd42747646eb7fa402200a8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689740139
+      }
+    ],
+    "wof:id": 689740139,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Racks Cafe",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.765301,
     41.179785,
     -80.765301,
     41.179785
-],
-  "geometry": {"coordinates":[-80.76530099999999,41.179785],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.765301,41.179785],"type":"Point"}
 }

@@ -2,69 +2,73 @@
   "id": 706324865,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 Shillito Pl Cincinnati OH 45202",
-    "addr:housenumber":"110",
-    "addr:postcode":"45202",
-    "addr:street":"Shillito Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.515916,39.102773,-84.515916,39.102773",
-    "geom:latitude":39.102773,
-    "geom:longitude":-84.515916,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 Shillito Pl",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Advertising",
-            "type":"Services"
-        },
-        {
-            "category":"Professional",
-            "subcategory":"Art Services",
-            "type":"Services"
-        }
+    "addr:full": "110 Shillito Pl Cincinnati OH 45202",
+    "addr:housenumber": "110",
+    "addr:postcode": "45202",
+    "addr:street": "Shillito Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.515916,39.102773,-84.515916,39.102773",
+    "geom:latitude": 39.102773,
+    "geom:longitude": -84.515916,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "110 Shillito Pl",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Advertising",
+        "type": "Services"
+      },
+      {
+        "category": "Professional",
+        "subcategory": "Art Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 221 3600",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "counselor",
-        "artist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 221 3600",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "counselor",
+      "artist"
     ],
-    "sg:website":"www.landor.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0crsH385AumKWDSZyUIjMX_39.102773_-84.515916@1294180530"
+    "sg:website": "www.landor.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0crsH385AumKWDSZyUIjMX_39.102773_-84.515916@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800855,
-    "wof:geomhash":"0d3913f84fb15cec0b9057471c64fc78",
-    "wof:hierarchy":[],
-    "wof:id":706324865,
-    "wof:lastmodified":1472639816,
-    "wof:name":"Landors Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counselor",
-        "artist"
+    "wof:country": "US",
+    "wof:created": 1461800855,
+    "wof:geomhash": "451c5e197b302920e4956069fe2dc21c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706324865
+      }
+    ],
+    "wof:id": 706324865,
+    "wof:lastmodified": 1638567088,
+    "wof:name": "Landors Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counselor",
+      "artist"
     ]
-},
+  },
   "bbox": [
     -84.515916,
     39.102773,
     -84.515916,
     39.102773
-],
+  ],
   "geometry": {"coordinates":[-84.515916,39.102773],"type":"Point"}
 }

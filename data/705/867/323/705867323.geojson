@@ -2,56 +2,60 @@
   "id": 705867323,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 New St Cincinnati OH 45202",
-    "addr:housenumber":"318",
-    "addr:postcode":"45202",
-    "addr:street":"New St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.506929,39.104063,-84.506929,39.104063",
-    "geom:latitude":39.104063,
-    "geom:longitude":-84.506929,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"318 New St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "318 New St Cincinnati OH 45202",
+    "addr:housenumber": "318",
+    "addr:postcode": "45202",
+    "addr:street": "New St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.506929,39.104063,-84.506929,39.104063",
+    "geom:latitude": 39.104063,
+    "geom:longitude": -84.506929,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "318 New St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 381 8226",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VdHq4XNUach2aL2uacE3z_39.104063_-84.506929@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 381 8226",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5VdHq4XNUach2aL2uacE3z_39.104063_-84.506929@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790613,
-    "wof:geomhash":"87bdb8c76b1445da35817881d2a87159",
-    "wof:hierarchy":[],
-    "wof:id":705867323,
-    "wof:lastmodified":1472639452,
-    "wof:name":"Taco Casa Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461790613,
+    "wof:geomhash": "dfcbe487ba1980a0dda6fd0fe3251876",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705867323
+      }
+    ],
+    "wof:id": 705867323,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Taco Casa Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.506929,
     39.104063,
     -84.506929,
     39.104063
-],
+  ],
   "geometry": {"coordinates":[-84.506929,39.104063],"type":"Point"}
 }

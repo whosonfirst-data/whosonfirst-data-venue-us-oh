@@ -2,61 +2,65 @@
   "id": 705837379,
   "type": "Feature",
   "properties": {
-    "addr:full":"2533 N Main Ave Sidney OH 45365",
-    "addr:housenumber":"2533",
-    "addr:postcode":"45365",
-    "addr:street":"N Main Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.156136,40.315195,-84.156136,40.315195",
-    "geom:latitude":40.315195,
-    "geom:longitude":-84.156136,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2533 N Main Ave",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Cleaning & Sanitation",
-            "type":"Services"
-        }
+    "addr:full": "2533 N Main Ave Sidney OH 45365",
+    "addr:housenumber": "2533",
+    "addr:postcode": "45365",
+    "addr:street": "N Main Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.156136,40.315195,-84.156136,40.315195",
+    "geom:latitude": 40.315195,
+    "geom:longitude": -84.156136,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2533 N Main Ave",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Cleaning \u0026 Sanitation",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 492 6558",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "janitor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 492 6558",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "janitor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4J819EcxvouyvM4yMn92bT_40.315195_-84.156136@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4J819EcxvouyvM4yMn92bT_40.315195_-84.156136@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789895,
-    "wof:geomhash":"9933640d02911df490408f042bd490e3",
-    "wof:hierarchy":[],
-    "wof:id":705837379,
-    "wof:lastmodified":1472639372,
-    "wof:name":"Cleaning Cruz Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "janitor"
+    "wof:country": "US",
+    "wof:created": 1461789895,
+    "wof:geomhash": "8b6e414c9ff2eb917aa07c0eb134891e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705837379
+      }
+    ],
+    "wof:id": 705837379,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Cleaning Cruz Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "janitor"
     ]
-},
+  },
   "bbox": [
     -84.156136,
     40.315195,
     -84.156136,
     40.315195
-],
+  ],
   "geometry": {"coordinates":[-84.156136,40.315195],"type":"Point"}
 }

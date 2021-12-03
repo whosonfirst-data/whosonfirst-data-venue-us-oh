@@ -2,61 +2,65 @@
   "id": 689775297,
   "type": "Feature",
   "properties": {
-    "addr:full":"274 W 2nd St Springfield OH 45504",
-    "addr:housenumber":"274",
-    "addr:postcode":"45504",
-    "addr:street":"W 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.814623,39.941657,-83.814623,39.941657",
-    "geom:latitude":39.941657,
-    "geom:longitude":-83.814623,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"274 W 2nd St",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "274 W 2nd St Springfield OH 45504",
+    "addr:housenumber": "274",
+    "addr:postcode": "45504",
+    "addr:street": "W 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.814623,39.941657,-83.814623,39.941657",
+    "geom:latitude": 39.941657,
+    "geom:longitude": -83.814623,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "274 W 2nd St",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 399 2484",
-    "sg:postcode":"45504",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 399 2484",
+    "sg:postcode": "45504",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2eLVb3RSbHEgNMR0GvxWFj_39.941657_-83.814623@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2eLVb3RSbHEgNMR0GvxWFj_39.941657_-83.814623@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781135,
-    "wof:geomhash":"920d3b6a6094b43b7b155383e68a6a81",
-    "wof:hierarchy":[],
-    "wof:id":689775297,
-    "wof:lastmodified":1472639830,
-    "wof:name":"White & White",
-    "wof:parent_id":420559033,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461781135,
+    "wof:geomhash": "ab9a6664d8debe3164d08ac9983d70e2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689775297
+      }
+    ],
+    "wof:id": 689775297,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "White \u0026 White",
+    "wof:parent_id": 420559033,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -83.814623,
     39.941657,
     -83.814623,
     39.941657
-],
+  ],
   "geometry": {"coordinates":[-83.814623,39.941657],"type":"Point"}
 }

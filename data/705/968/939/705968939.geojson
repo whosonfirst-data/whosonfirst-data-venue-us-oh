@@ -2,61 +2,65 @@
   "id": 705968939,
   "type": "Feature",
   "properties": {
-    "addr:full":"2156 Collier Rd Springfield OH 45506",
-    "addr:housenumber":"2156",
-    "addr:postcode":"45506",
-    "addr:street":"Collier Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.856379,39.861285,-83.856379,39.861285",
-    "geom:latitude":39.861285,
-    "geom:longitude":-83.856379,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2156 Collier Rd",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "2156 Collier Rd Springfield OH 45506",
+    "addr:housenumber": "2156",
+    "addr:postcode": "45506",
+    "addr:street": "Collier Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.856379,39.861285,-83.856379,39.861285",
+    "geom:latitude": 39.861285,
+    "geom:longitude": -83.856379,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2156 Collier Rd",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 325 0392",
-    "sg:postcode":"45506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "taxidermist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 325 0392",
+    "sg:postcode": "45506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "taxidermist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1UvyOFmSTVpwziwyf8cfif_39.861285_-83.856379@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1UvyOFmSTVpwziwyf8cfif_39.861285_-83.856379@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792945,
-    "wof:geomhash":"73e142504db26df36366d296b4778582",
-    "wof:hierarchy":[],
-    "wof:id":705968939,
-    "wof:lastmodified":1472639761,
-    "wof:name":"Anderson Taxidermy",
-    "wof:parent_id":420534579,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxidermist"
+    "wof:country": "US",
+    "wof:created": 1461792945,
+    "wof:geomhash": "f542ccd5661d2c4b91c8b5940eea7542",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705968939
+      }
+    ],
+    "wof:id": 705968939,
+    "wof:lastmodified": 1638567064,
+    "wof:name": "Anderson Taxidermy",
+    "wof:parent_id": 420534579,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxidermist"
     ]
-},
+  },
   "bbox": [
     -83.856379,
     39.861285,
     -83.856379,
     39.861285
-],
+  ],
   "geometry": {"coordinates":[-83.856379,39.861285],"type":"Point"}
 }

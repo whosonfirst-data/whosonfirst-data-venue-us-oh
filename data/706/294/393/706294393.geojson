@@ -2,63 +2,67 @@
   "id": 706294393,
   "type": "Feature",
   "properties": {
-    "addr:full":"622 N Main St Ada OH 45810",
-    "addr:housenumber":"622",
-    "addr:postcode":"45810",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.823152,40.777695,-83.823152,40.777695",
-    "geom:latitude":40.777695,
-    "geom:longitude":-83.823152,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"622 N Main St",
-    "sg:city":"Ada",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "622 N Main St Ada OH 45810",
+    "addr:housenumber": "622",
+    "addr:postcode": "45810",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.823152,40.777695,-83.823152,40.777695",
+    "geom:latitude": 40.777695,
+    "geom:longitude": -83.823152,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "622 N Main St",
+    "sg:city": "Ada",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 634 5625",
-    "sg:postcode":"45810",
-    "sg:province":"OH",
-    "sg:tags":[
-        "lock",
-        "locksmith"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 634 5625",
+    "sg:postcode": "45810",
+    "sg:province": "OH",
+    "sg:tags": [
+      "lock",
+      "locksmith"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_03Ip363KvTa6qYZvmHtWIR_40.777695_-83.823152@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_03Ip363KvTa6qYZvmHtWIR_40.777695_-83.823152@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800186,
-    "wof:geomhash":"5dd7273cf2e62e40760bf3b09d0bd2c7",
-    "wof:hierarchy":[],
-    "wof:id":706294393,
-    "wof:lastmodified":1472639684,
-    "wof:name":"Ada Locksmith Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lock",
-        "locksmith"
+    "wof:country": "US",
+    "wof:created": 1461800186,
+    "wof:geomhash": "718fb7300588546a434f054f3d0898d0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706294393
+      }
+    ],
+    "wof:id": 706294393,
+    "wof:lastmodified": 1638567076,
+    "wof:name": "Ada Locksmith Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lock",
+      "locksmith"
     ]
-},
+  },
   "bbox": [
     -83.823152,
     40.777695,
     -83.823152,
     40.777695
-],
-  "geometry": {"coordinates":[-83.82315199999999,40.777695],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.823152,40.777695],"type":"Point"}
 }

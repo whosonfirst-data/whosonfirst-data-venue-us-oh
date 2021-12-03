@@ -2,61 +2,65 @@
   "id": 706360447,
   "type": "Feature",
   "properties": {
-    "addr:full":"3163 Abrams Dr Twinsburg OH 44087",
-    "addr:housenumber":"3163",
-    "addr:postcode":"44087",
-    "addr:street":"Abrams Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.422712,41.322678,-81.422712,41.322678",
-    "geom:latitude":41.322678,
-    "geom:longitude":-81.422712,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3163 Abrams Dr",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3163 Abrams Dr Twinsburg OH 44087",
+    "addr:housenumber": "3163",
+    "addr:postcode": "44087",
+    "addr:street": "Abrams Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.422712,41.322678,-81.422712,41.322678",
+    "geom:latitude": 41.322678,
+    "geom:longitude": -81.422712,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3163 Abrams Dr",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 405 1414",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "sg:tags":[
-        "delivery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 405 1414",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "sg:tags": [
+      "delivery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16wHpICi2WR6rOEybh5f5U_41.322678_-81.422712@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_16wHpICi2WR6rOEybh5f5U_41.322678_-81.422712@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801618,
-    "wof:geomhash":"e646f624aabf91971957e7e8e65bd883",
-    "wof:hierarchy":[],
-    "wof:id":706360447,
-    "wof:lastmodified":1472639908,
-    "wof:name":"S & R Services Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delivery"
+    "wof:country": "US",
+    "wof:created": 1461801618,
+    "wof:geomhash": "1cea403a9abe88c7fa469faeca6243be",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706360447
+      }
+    ],
+    "wof:id": 706360447,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "S \u0026 R Services Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delivery"
     ]
-},
+  },
   "bbox": [
     -81.422712,
     41.322678,
     -81.422712,
     41.322678
-],
+  ],
   "geometry": {"coordinates":[-81.422712,41.322678],"type":"Point"}
 }

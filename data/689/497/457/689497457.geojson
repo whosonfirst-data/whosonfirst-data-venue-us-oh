@@ -2,61 +2,65 @@
   "id": 689497457,
   "type": "Feature",
   "properties": {
-    "addr:full":"515 N Main St North Baltimore OH 45872",
-    "addr:housenumber":"515",
-    "addr:postcode":"45872",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.678546,41.187982,-83.678546,41.187982",
-    "geom:latitude":41.187982,
-    "geom:longitude":-83.678546,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"515 N Main St",
-    "sg:city":"North Baltimore",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "515 N Main St North Baltimore OH 45872",
+    "addr:housenumber": "515",
+    "addr:postcode": "45872",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.678546,41.187982,-83.678546,41.187982",
+    "geom:latitude": 41.187982,
+    "geom:longitude": -83.678546,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "515 N Main St",
+    "sg:city": "North Baltimore",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 257 2651",
-    "sg:postcode":"45872",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 257 2651",
+    "sg:postcode": "45872",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_51GNEYJjgvTC1JiOSlEg0D_41.187982_-83.678546@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_51GNEYJjgvTC1JiOSlEg0D_41.187982_-83.678546@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773025,
-    "wof:geomhash":"28587e30cd27676fcdd348710a11f88a",
-    "wof:hierarchy":[],
-    "wof:id":689497457,
-    "wof:lastmodified":1472638986,
-    "wof:name":"Smith-Crates Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461773025,
+    "wof:geomhash": "1fb3f436edb07ff9f9de2dd82c6aa599",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689497457
+      }
+    ],
+    "wof:id": 689497457,
+    "wof:lastmodified": 1638566943,
+    "wof:name": "Smith-Crates Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -83.678546,
     41.187982,
     -83.678546,
     41.187982
-],
+  ],
   "geometry": {"coordinates":[-83.678546,41.187982],"type":"Point"}
 }

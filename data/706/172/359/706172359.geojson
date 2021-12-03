@@ -2,61 +2,65 @@
   "id": 706172359,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 S Main St London OH 43140",
-    "addr:housenumber":"123",
-    "addr:postcode":"43140",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.446299,39.884372,-83.446299,39.884372",
-    "geom:latitude":39.884372,
-    "geom:longitude":-83.446299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 S Main St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "123 S Main St London OH 43140",
+    "addr:housenumber": "123",
+    "addr:postcode": "43140",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.446299,39.884372,-83.446299,39.884372",
+    "geom:latitude": 39.884372,
+    "geom:longitude": -83.446299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 S Main St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 4835",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "out"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 4835",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "out"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_777zHuRIR0j1nZJ2Jkw4lv_39.884372_-83.446299@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_777zHuRIR0j1nZJ2Jkw4lv_39.884372_-83.446299@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797479,
-    "wof:geomhash":"7004da22f849b97aee4995a96f0c4364",
-    "wof:hierarchy":[],
-    "wof:id":706172359,
-    "wof:lastmodified":1472639404,
-    "wof:name":"Casey's Carryout Of London",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "out"
+    "wof:country": "US",
+    "wof:created": 1461797479,
+    "wof:geomhash": "2925346fe7b27011cb9c145783895787",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706172359
+      }
+    ],
+    "wof:id": 706172359,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Casey's Carryout Of London",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "out"
     ]
-},
+  },
   "bbox": [
     -83.446299,
     39.884372,
     -83.446299,
     39.884372
-],
+  ],
   "geometry": {"coordinates":[-83.446299,39.884372],"type":"Point"}
 }

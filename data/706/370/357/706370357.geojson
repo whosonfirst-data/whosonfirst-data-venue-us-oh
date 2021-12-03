@@ -2,63 +2,67 @@
   "id": 706370357,
   "type": "Feature",
   "properties": {
-    "addr:full":"399 E Main St Batavia OH 45103",
-    "addr:housenumber":"399",
-    "addr:postcode":"45103",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.175247,39.07535,-84.175247,39.07535",
-    "geom:latitude":39.07535,
-    "geom:longitude":-84.175247,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"399 E Main St",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "399 E Main St Batavia OH 45103",
+    "addr:housenumber": "399",
+    "addr:postcode": "45103",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.175247,39.075350,-84.175247,39.075350",
+    "geom:latitude": 39.07535,
+    "geom:longitude": -84.175247,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "399 E Main St",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 732 7057",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county",
-        "taxation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 732 7057",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county",
+      "taxation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_56dz4kXsWm58WAjXrobpwB_39.075350_-84.175247@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_56dz4kXsWm58WAjXrobpwB_39.075350_-84.175247@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801815,
-    "wof:geomhash":"b863b6f32536cdeda17b6b5c383c035a",
-    "wof:hierarchy":[],
-    "wof:id":706370357,
-    "wof:lastmodified":1472639942,
-    "wof:name":"Clermont County Tax Map Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county",
-        "taxation"
+    "wof:country": "US",
+    "wof:created": 1461801815,
+    "wof:geomhash": "6f7cabc2afe43a272c56ccd0bfa75678",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706370357
+      }
+    ],
+    "wof:id": 706370357,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Clermont County Tax Map Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county",
+      "taxation"
     ]
-},
+  },
   "bbox": [
     -84.175247,
     39.07535,
     -84.175247,
     39.07535
-],
+  ],
   "geometry": {"coordinates":[-84.175247,39.07535],"type":"Point"}
 }

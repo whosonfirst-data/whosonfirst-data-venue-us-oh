@@ -2,61 +2,65 @@
   "id": 689822821,
   "type": "Feature",
   "properties": {
-    "addr:full":"3133 US Rte 33 Rockford OH 45882",
-    "addr:housenumber":"3133",
-    "addr:postcode":"45882",
-    "addr:street":"Us Rte 33",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.684133,40.708068,-84.684133,40.708068",
-    "geom:latitude":40.708068,
-    "geom:longitude":-84.684133,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3133 US Rte 33",
-    "sg:city":"Rockford",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "3133 US Rte 33 Rockford OH 45882",
+    "addr:housenumber": "3133",
+    "addr:postcode": "45882",
+    "addr:street": "Us Rte 33",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.684133,40.708068,-84.684133,40.708068",
+    "geom:latitude": 40.708068,
+    "geom:longitude": -84.684133,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3133 US Rte 33",
+    "sg:city": "Rockford",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 363 2074",
-    "sg:postcode":"45882",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 363 2074",
+    "sg:postcode": "45882",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4jEuWeQLWyvzrsKowPY2vg_40.708068_-84.684133@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4jEuWeQLWyvzrsKowPY2vg_40.708068_-84.684133@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782593,
-    "wof:geomhash":"59bd482991dfe6647078c72271cd12fd",
-    "wof:hierarchy":[],
-    "wof:id":689822821,
-    "wof:lastmodified":1472639902,
-    "wof:name":"Riverside Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461782593,
+    "wof:geomhash": "cfe7e0715b80dd1fbe86b5999a52395f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689822821
+      }
+    ],
+    "wof:id": 689822821,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Riverside Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -84.684133,
     40.708068,
     -84.684133,
     40.708068
-],
+  ],
   "geometry": {"coordinates":[-84.684133,40.708068],"type":"Point"}
 }

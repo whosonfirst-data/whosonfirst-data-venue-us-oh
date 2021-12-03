@@ -2,56 +2,60 @@
   "id": 706041181,
   "type": "Feature",
   "properties": {
-    "addr:full":"7800 Upper Miamisburg Rd Miamisburg OH 45342",
-    "addr:housenumber":"7800",
-    "addr:postcode":"45342",
-    "addr:street":"Upper Miamisburg Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.326544,39.6435,-84.326544,39.6435",
-    "geom:latitude":39.6435,
-    "geom:longitude":-84.326544,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7800 Upper Miamisburg Rd",
-    "sg:city":"Miamisburg",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7800 Upper Miamisburg Rd Miamisburg OH 45342",
+    "addr:housenumber": "7800",
+    "addr:postcode": "45342",
+    "addr:street": "Upper Miamisburg Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.326544,39.643500,-84.326544,39.643500",
+    "geom:latitude": 39.6435,
+    "geom:longitude": -84.326544,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7800 Upper Miamisburg Rd",
+    "sg:city": "Miamisburg",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 866 7736",
-    "sg:postcode":"45342",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1suBx9yyUaJHR27tegLt6o_39.643500_-84.326544@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 866 7736",
+    "sg:postcode": "45342",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1suBx9yyUaJHR27tegLt6o_39.643500_-84.326544@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794427,
-    "wof:geomhash":"0786fadda77dc92e5006e83d79a69c92",
-    "wof:hierarchy":[],
-    "wof:id":706041181,
-    "wof:lastmodified":1472638910,
-    "wof:name":"Palmers Farm Market",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461794427,
+    "wof:geomhash": "9efcac3fa233544a43f088e3e92073f8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706041181
+      }
+    ],
+    "wof:id": 706041181,
+    "wof:lastmodified": 1638566962,
+    "wof:name": "Palmers Farm Market",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.326544,
     39.6435,
     -84.326544,
     39.6435
-],
+  ],
   "geometry": {"coordinates":[-84.326544,39.6435],"type":"Point"}
 }

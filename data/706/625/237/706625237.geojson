@@ -2,56 +2,60 @@
   "id": 706625237,
   "type": "Feature",
   "properties": {
-    "addr:full":"1809 Winona Dr Middletown OH 45042",
-    "addr:housenumber":"1809",
-    "addr:postcode":"45042",
-    "addr:street":"Winona Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.380566,39.533167,-84.380566,39.533167",
-    "geom:latitude":39.533167,
-    "geom:longitude":-84.380566,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1809 Winona Dr",
-    "sg:city":"Middletown",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1809 Winona Dr Middletown OH 45042",
+    "addr:housenumber": "1809",
+    "addr:postcode": "45042",
+    "addr:street": "Winona Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.380566,39.533167,-84.380566,39.533167",
+    "geom:latitude": 39.533167,
+    "geom:longitude": -84.380566,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1809 Winona Dr",
+    "sg:city": "Middletown",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 424 3080",
-    "sg:postcode":"45042",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5sYEiuXCVFHQMTdFVQPs1v_39.533167_-84.380566@1303262757"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 424 3080",
+    "sg:postcode": "45042",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5sYEiuXCVFHQMTdFVQPs1v_39.533167_-84.380566@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807256,
-    "wof:geomhash":"a47e3c424af51dddb7e38c01ac2cc5f6",
-    "wof:hierarchy":[],
-    "wof:id":706625237,
-    "wof:lastmodified":1472640240,
-    "wof:name":"Larrys Sporting Goods",
-    "wof:parent_id":420534569,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461807256,
+    "wof:geomhash": "6dfe3dc33563a2c6ab47caf0ae88f9f9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706625237
+      }
+    ],
+    "wof:id": 706625237,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Larrys Sporting Goods",
+    "wof:parent_id": 420534569,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.380566,
     39.533167,
     -84.380566,
     39.533167
-],
+  ],
   "geometry": {"coordinates":[-84.380566,39.533167],"type":"Point"}
 }

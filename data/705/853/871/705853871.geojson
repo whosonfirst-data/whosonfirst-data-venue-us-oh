@@ -2,61 +2,65 @@
   "id": 705853871,
   "type": "Feature",
   "properties": {
-    "addr:full":"4260 Harrisburg Pike Grove City OH 43123",
-    "addr:housenumber":"4260",
-    "addr:postcode":"43123",
-    "addr:street":"Harrisburg Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.097531,39.877576,-83.097531,39.877576",
-    "geom:latitude":39.877576,
-    "geom:longitude":-83.097531,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4260 Harrisburg Pike",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4260 Harrisburg Pike Grove City OH 43123",
+    "addr:housenumber": "4260",
+    "addr:postcode": "43123",
+    "addr:street": "Harrisburg Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.097531,39.877576,-83.097531,39.877576",
+    "geom:latitude": 39.877576,
+    "geom:longitude": -83.097531,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4260 Harrisburg Pike",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 871 1230",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 871 1230",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0LcTDRdLq7xWVG1d3M427X_39.877576_-83.097531@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0LcTDRdLq7xWVG1d3M427X_39.877576_-83.097531@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790279,
-    "wof:geomhash":"922d301022ae579add2c300114cbb0ab",
-    "wof:hierarchy":[],
-    "wof:id":705853871,
-    "wof:lastmodified":1472639428,
-    "wof:name":"Grove City Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461790279,
+    "wof:geomhash": "3f21fdab5e776d82dbd214e073654e0a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705853871
+      }
+    ],
+    "wof:id": 705853871,
+    "wof:lastmodified": 1638567011,
+    "wof:name": "Grove City Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -83.097531,
     39.877576,
     -83.097531,
     39.877576
-],
+  ],
   "geometry": {"coordinates":[-83.097531,39.877576],"type":"Point"}
 }

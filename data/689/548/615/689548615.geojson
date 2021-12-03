@@ -2,61 +2,65 @@
   "id": 689548615,
   "type": "Feature",
   "properties": {
-    "addr:full":"21701 Main St Raymond OH 43067",
-    "addr:housenumber":"21701",
-    "addr:postcode":"43067",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.467407,40.335067,-83.467407,40.335067",
-    "geom:latitude":40.335067,
-    "geom:longitude":-83.467407,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21701 Main St",
-    "sg:city":"Raymond",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "21701 Main St Raymond OH 43067",
+    "addr:housenumber": "21701",
+    "addr:postcode": "43067",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.467407,40.335067,-83.467407,40.335067",
+    "geom:latitude": 40.335067,
+    "geom:longitude": -83.467407,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21701 Main St",
+    "sg:city": "Raymond",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 246 3772",
-    "sg:postcode":"43067",
-    "sg:province":"OH",
-    "sg:tags":[
-        "delicatessen"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 246 3772",
+    "sg:postcode": "43067",
+    "sg:province": "OH",
+    "sg:tags": [
+      "delicatessen"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0zlRdlfaQ1Z7N6G7Fzgkbh_40.335067_-83.467407@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0zlRdlfaQ1Z7N6G7Fzgkbh_40.335067_-83.467407@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774670,
-    "wof:geomhash":"3f0c76a03e7621622c523d98b336f08a",
-    "wof:hierarchy":[],
-    "wof:id":689548615,
-    "wof:lastmodified":1472639243,
-    "wof:name":"Mosier's IGA",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delicatessen"
+    "wof:country": "US",
+    "wof:created": 1461774670,
+    "wof:geomhash": "21880fc68484a8b75ae6c06ce80eac26",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689548615
+      }
+    ],
+    "wof:id": 689548615,
+    "wof:lastmodified": 1638566981,
+    "wof:name": "Mosier's IGA",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delicatessen"
     ]
-},
+  },
   "bbox": [
     -83.467407,
     40.335067,
     -83.467407,
     40.335067
-],
-  "geometry": {"coordinates":[-83.46740699999999,40.335067],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.467407,40.335067],"type":"Point"}
 }

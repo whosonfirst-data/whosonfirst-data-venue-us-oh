@@ -2,63 +2,67 @@
   "id": 705840935,
   "type": "Feature",
   "properties": {
-    "addr:full":"51 Spring Valley Pike Dayton OH 45458",
-    "addr:housenumber":"51",
-    "addr:postcode":"45458",
-    "addr:street":"Spring Valley Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.157737,39.613681,-84.157737,39.613681",
-    "geom:latitude":39.613681,
-    "geom:longitude":-84.157737,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"51 Spring Valley Pike",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "51 Spring Valley Pike Dayton OH 45458",
+    "addr:housenumber": "51",
+    "addr:postcode": "45458",
+    "addr:street": "Spring Valley Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.157737,39.613681,-84.157737,39.613681",
+    "geom:latitude": 39.613681,
+    "geom:longitude": -84.157737,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "51 Spring Valley Pike",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 291 1158",
-    "sg:postcode":"45458",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 291 1158",
+    "sg:postcode": "45458",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1mQKCFK3YmJpqPLKqajjQQ_39.613681_-84.157737@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1mQKCFK3YmJpqPLKqajjQQ_39.613681_-84.157737@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789974,
-    "wof:geomhash":"6c1ae7381481cd69683b9c445aeb5d8f",
-    "wof:hierarchy":[],
-    "wof:id":705840935,
-    "wof:lastmodified":1472639382,
-    "wof:name":"James Apesos MD Skin Health",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461789974,
+    "wof:geomhash": "abbf8dfda60d7c081bdc54969233214c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705840935
+      }
+    ],
+    "wof:id": 705840935,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "James Apesos MD Skin Health",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.157737,
     39.613681,
     -84.157737,
     39.613681
-],
+  ],
   "geometry": {"coordinates":[-84.157737,39.613681],"type":"Point"}
 }

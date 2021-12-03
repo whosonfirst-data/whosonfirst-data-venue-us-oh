@@ -2,61 +2,65 @@
   "id": 706506353,
   "type": "Feature",
   "properties": {
-    "addr:full":"43 Pleasant Dr Chagrin Falls OH 44022",
-    "addr:housenumber":"43",
-    "addr:postcode":"44022",
-    "addr:street":"Pleasant Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.3909,41.430698,-81.3909,41.430698",
-    "geom:latitude":41.430698,
-    "geom:longitude":-81.3909,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"43 Pleasant Dr",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "43 Pleasant Dr Chagrin Falls OH 44022",
+    "addr:housenumber": "43",
+    "addr:postcode": "44022",
+    "addr:street": "Pleasant Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.390900,41.430698,-81.390900,41.430698",
+    "geom:latitude": 41.430698,
+    "geom:longitude": -81.3909,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "43 Pleasant Dr",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 247 9977",
-    "sg:postcode":"44022",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 247 9977",
+    "sg:postcode": "44022",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1l72PjiTtPPv3rEhEheA4h_41.430925_-81.390990@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1l72PjiTtPPv3rEhEheA4h_41.430925_-81.390990@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461804773,
-    "wof:geomhash":"4e64465167ee72b82b2de4c7366b1e03",
-    "wof:hierarchy":[],
-    "wof:id":706506353,
-    "wof:lastmodified":1472640140,
-    "wof:name":"Key West Tanning Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461804773,
+    "wof:geomhash": "65a641577e07e16d7e7b64115946a536",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706506353
+      }
+    ],
+    "wof:id": 706506353,
+    "wof:lastmodified": 1638567128,
+    "wof:name": "Key West Tanning Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.3909,
     41.430698,
     -81.3909,
     41.430698
-],
+  ],
   "geometry": {"coordinates":[-81.3909,41.430698],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689900243,
   "type": "Feature",
   "properties": {
-    "addr:full":"21999 US Hwy 52 Stout OH 45684",
-    "addr:housenumber":"",
-    "addr:postcode":"21999;45684",
-    "addr:street":"Us Hwy 52",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.350313,38.655294,-83.350313,38.655294",
-    "geom:latitude":38.655294,
-    "geom:longitude":-83.350313,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21999 US Hwy 52",
-    "sg:city":"Stout",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "21999 US Hwy 52 Stout OH 45684",
+    "addr:housenumber": "",
+    "addr:postcode": "21999;45684",
+    "addr:street": "Us Hwy 52",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.350313,38.655294,-83.350313,38.655294",
+    "geom:latitude": 38.655294,
+    "geom:longitude": -83.350313,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21999 US Hwy 52",
+    "sg:city": "Stout",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 549 8218",
-    "sg:postcode":"45684",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 549 8218",
+    "sg:postcode": "45684",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4h4yDFS9LGYH3IvMRvVC50_38.655294_-83.350313@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4h4yDFS9LGYH3IvMRvVC50_38.655294_-83.350313@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784579,
-    "wof:geomhash":"66b111a3d8c5cc6c152d46a32fff8e59",
-    "wof:hierarchy":[],
-    "wof:id":689900243,
-    "wof:lastmodified":1472640045,
-    "wof:name":"Billie's Place",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461784579,
+    "wof:geomhash": "262863e71081058e76878b9ebc1af6db",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689900243
+      }
+    ],
+    "wof:id": 689900243,
+    "wof:lastmodified": 1638567096,
+    "wof:name": "Billie's Place",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -83.350313,
     38.655294,
     -83.350313,
     38.655294
-],
+  ],
   "geometry": {"coordinates":[-83.350313,38.655294],"type":"Point"}
 }

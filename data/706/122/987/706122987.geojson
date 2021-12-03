@@ -2,61 +2,65 @@
   "id": 706122987,
   "type": "Feature",
   "properties": {
-    "addr:full":"3328 State Rte 132 Amelia OH 45102",
-    "addr:housenumber":"3328",
-    "addr:postcode":"45102",
-    "addr:street":"State Rte 132",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.206565,39.01308,-84.206565,39.01308",
-    "geom:latitude":39.01308,
-    "geom:longitude":-84.206565,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3328 State Rte 132",
-    "sg:city":"Amelia",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "3328 State Rte 132 Amelia OH 45102",
+    "addr:housenumber": "3328",
+    "addr:postcode": "45102",
+    "addr:street": "State Rte 132",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.206565,39.013080,-84.206565,39.013080",
+    "geom:latitude": 39.01308,
+    "geom:longitude": -84.206565,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3328 State Rte 132",
+    "sg:city": "Amelia",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 797 8066",
-    "sg:postcode":"45102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 797 8066",
+    "sg:postcode": "45102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3KMMEuGCxuya8caaitRlt4_39.013080_-84.206565@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3KMMEuGCxuya8caaitRlt4_39.013080_-84.206565@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796330,
-    "wof:geomhash":"450d5bbe3bc69507147714c34597abc8",
-    "wof:hierarchy":[],
-    "wof:id":706122987,
-    "wof:lastmodified":1472639316,
-    "wof:name":"Nixon Towing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1461796330,
+    "wof:geomhash": "3a0477e63037551641437e986499890f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706122987
+      }
+    ],
+    "wof:id": 706122987,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Nixon Towing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -84.206565,
     39.01308,
     -84.206565,
     39.01308
-],
+  ],
   "geometry": {"coordinates":[-84.206565,39.01308],"type":"Point"}
 }

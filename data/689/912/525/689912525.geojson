@@ -2,61 +2,65 @@
   "id": 689912525,
   "type": "Feature",
   "properties": {
-    "addr:full":"6825 County Line Rd Galion OH 44818",
-    "addr:housenumber":"6825",
-    "addr:postcode":"44818",
-    "addr:street":"County Line Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.043973,40.9937,-83.043973,40.9937",
-    "geom:latitude":40.9937,
-    "geom:longitude":-83.043973,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6825 County Line Rd",
-    "sg:city":"Galion",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6825 County Line Rd Galion OH 44818",
+    "addr:housenumber": "6825",
+    "addr:postcode": "44818",
+    "addr:street": "County Line Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.043973,40.993700,-83.043973,40.993700",
+    "geom:latitude": 40.9937,
+    "geom:longitude": -83.043973,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6825 County Line Rd",
+    "sg:city": "Galion",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 462 5223",
-    "sg:postcode":"44818",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 462 5223",
+    "sg:postcode": "44818",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6al16Zm8zoVbYzhLQbaswm_40.993700_-83.043973@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6al16Zm8zoVbYzhLQbaswm_40.993700_-83.043973@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784923,
-    "wof:geomhash":"8a20f236ae75ae9965c3ced16313de10",
-    "wof:hierarchy":[],
-    "wof:id":689912525,
-    "wof:lastmodified":1472640071,
-    "wof:name":"Huntsman Trucking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461784923,
+    "wof:geomhash": "fdf8c1ae4d6391754398d9c398bf8d55",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689912525
+      }
+    ],
+    "wof:id": 689912525,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Huntsman Trucking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -83.043973,
     40.9937,
     -83.043973,
     40.9937
-],
-  "geometry": {"coordinates":[-83.04397299999999,40.9937],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.043973,40.9937],"type":"Point"}
 }

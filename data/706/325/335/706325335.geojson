@@ -2,61 +2,65 @@
   "id": 706325335,
   "type": "Feature",
   "properties": {
-    "addr:full":"730 Orange St Chillicothe OH 45601",
-    "addr:housenumber":"730",
-    "addr:postcode":"45601",
-    "addr:street":"Orange St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.003534,39.349559,-83.003534,39.349559",
-    "geom:latitude":39.349559,
-    "geom:longitude":-83.003534,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"730 Orange St",
-    "sg:city":"Chillicothe",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "730 Orange St Chillicothe OH 45601",
+    "addr:housenumber": "730",
+    "addr:postcode": "45601",
+    "addr:street": "Orange St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.003534,39.349559,-83.003534,39.349559",
+    "geom:latitude": 39.349559,
+    "geom:longitude": -83.003534,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "730 Orange St",
+    "sg:city": "Chillicothe",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 773 1526",
-    "sg:postcode":"45601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 773 1526",
+    "sg:postcode": "45601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5V9gqlSnAe3ZoEiWguCBea_39.349559_-83.003534@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5V9gqlSnAe3ZoEiWguCBea_39.349559_-83.003534@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800864,
-    "wof:geomhash":"b4308bfb42d6ecdf870e092d4d581d3b",
-    "wof:hierarchy":[],
-    "wof:id":706325335,
-    "wof:lastmodified":1472639803,
-    "wof:name":"Westside Church-The Nazarene",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461800864,
+    "wof:geomhash": "f7ff8b1e36ee785c5c1909e767d95655",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706325335
+      }
+    ],
+    "wof:id": 706325335,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Westside Church-The Nazarene",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.003534,
     39.349559,
     -83.003534,
     39.349559
-],
+  ],
   "geometry": {"coordinates":[-83.003534,39.349559],"type":"Point"}
 }

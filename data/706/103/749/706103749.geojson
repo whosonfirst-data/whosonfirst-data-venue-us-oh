@@ -2,63 +2,67 @@
   "id": 706103749,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 N Walnut St Celina OH 45822",
-    "addr:housenumber":"111",
-    "addr:postcode":"45822",
-    "addr:street":"N Walnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.572434,40.549997,-84.572434,40.549997",
-    "geom:latitude":40.549997,
-    "geom:longitude":-84.572434,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 N Walnut St",
-    "sg:city":"Celina",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "111 N Walnut St Celina OH 45822",
+    "addr:housenumber": "111",
+    "addr:postcode": "45822",
+    "addr:street": "N Walnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.572434,40.549997,-84.572434,40.549997",
+    "geom:latitude": 40.549997,
+    "geom:longitude": -84.572434,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 N Walnut St",
+    "sg:city": "Celina",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 586 2377",
-    "sg:postcode":"45822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 586 2377",
+    "sg:postcode": "45822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XNdDMKXPi7bSalyQm5wIy_40.549997_-84.572434@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5XNdDMKXPi7bSalyQm5wIy_40.549997_-84.572434@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795861,
-    "wof:geomhash":"81a566769d966221eb83ba9cf2a50ca6",
-    "wof:hierarchy":[],
-    "wof:id":706103749,
-    "wof:lastmodified":1472639266,
-    "wof:name":"James J Otis MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461795861,
+    "wof:geomhash": "4f7dc21823d68829a8b521c17bb30d5e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706103749
+      }
+    ],
+    "wof:id": 706103749,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "James J Otis MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.572434,
     40.549997,
     -84.572434,
     40.549997
-],
+  ],
   "geometry": {"coordinates":[-84.572434,40.549997],"type":"Point"}
 }

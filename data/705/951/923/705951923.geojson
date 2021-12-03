@@ -2,61 +2,65 @@
   "id": 705951923,
   "type": "Feature",
   "properties": {
-    "addr:full":"515 E Main St Van Wert OH 45891",
-    "addr:housenumber":"515",
-    "addr:postcode":"45891",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.576775,40.869722,-84.576775,40.869722",
-    "geom:latitude":40.869722,
-    "geom:longitude":-84.576775,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"515 E Main St",
-    "sg:city":"Van Wert",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "515 E Main St Van Wert OH 45891",
+    "addr:housenumber": "515",
+    "addr:postcode": "45891",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.576775,40.869722,-84.576775,40.869722",
+    "geom:latitude": 40.869722,
+    "geom:longitude": -84.576775,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "515 E Main St",
+    "sg:city": "Van Wert",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 238 1989",
-    "sg:postcode":"45891",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 238 1989",
+    "sg:postcode": "45891",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0j4P21hlB0HaFGnjEkvjWL_40.869722_-84.576775@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0j4P21hlB0HaFGnjEkvjWL_40.869722_-84.576775@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792574,
-    "wof:geomhash":"952fb5b083b9c4873bb0285b6e2f02fe",
-    "wof:hierarchy":[],
-    "wof:id":705951923,
-    "wof:lastmodified":1472639701,
-    "wof:name":"Van WERT Police Records Bureau",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461792574,
+    "wof:geomhash": "631d8d94918effd2116652328d324ace",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705951923
+      }
+    ],
+    "wof:id": 705951923,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Van WERT Police Records Bureau",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.576775,
     40.869722,
     -84.576775,
     40.869722
-],
+  ],
   "geometry": {"coordinates":[-84.576775,40.869722],"type":"Point"}
 }

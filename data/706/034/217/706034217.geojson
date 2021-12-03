@@ -2,61 +2,65 @@
   "id": 706034217,
   "type": "Feature",
   "properties": {
-    "addr:full":"7100 Corporate Way Dayton OH 45459",
-    "addr:housenumber":"7100",
-    "addr:postcode":"45459",
-    "addr:street":"Corporate Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.163261,39.640823,-84.163261,39.640823",
-    "geom:latitude":39.640823,
-    "geom:longitude":-84.163261,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7100 Corporate Way",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "7100 Corporate Way Dayton OH 45459",
+    "addr:housenumber": "7100",
+    "addr:postcode": "45459",
+    "addr:street": "Corporate Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.163261,39.640823,-84.163261,39.640823",
+    "geom:latitude": 39.640823,
+    "geom:longitude": -84.163261,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7100 Corporate Way",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 435 0220",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 435 0220",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4dOEaKw0U5DRljzXsNHapo_39.640823_-84.163261@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4dOEaKw0U5DRljzXsNHapo_39.640823_-84.163261@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794293,
-    "wof:geomhash":"3bcde4059556dc761137868a56773012",
-    "wof:hierarchy":[],
-    "wof:id":706034217,
-    "wof:lastmodified":1472638772,
-    "wof:name":"Health Appraisal Systems Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461794293,
+    "wof:geomhash": "17ce9e61e7ce00a8ec3e32e629be38b1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706034217
+      }
+    ],
+    "wof:id": 706034217,
+    "wof:lastmodified": 1638566955,
+    "wof:name": "Health Appraisal Systems Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -84.163261,
     39.640823,
     -84.163261,
     39.640823
-],
-  "geometry": {"coordinates":[-84.16326100000001,39.640823],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.163261,39.640823],"type":"Point"}
 }

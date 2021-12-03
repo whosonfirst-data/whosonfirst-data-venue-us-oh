@@ -2,63 +2,67 @@
   "id": 689942949,
   "type": "Feature",
   "properties": {
-    "addr:full":"3830 Woodridge Blvd Fairfield OH 45014",
-    "addr:housenumber":"3830",
-    "addr:postcode":"45014",
-    "addr:street":"Woodridge Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.494679,39.308221,-84.494679,39.308221",
-    "geom:latitude":39.308221,
-    "geom:longitude":-84.494679,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3830 Woodridge Blvd",
-    "sg:city":"Fairfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "3830 Woodridge Blvd Fairfield OH 45014",
+    "addr:housenumber": "3830",
+    "addr:postcode": "45014",
+    "addr:street": "Woodridge Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.494679,39.308221,-84.494679,39.308221",
+    "geom:latitude": 39.308221,
+    "geom:longitude": -84.494679,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3830 Woodridge Blvd",
+    "sg:city": "Fairfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 942 1904",
-    "sg:postcode":"45014",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 942 1904",
+    "sg:postcode": "45014",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2VkEQw6ABWJzBATnVTRu2Y_39.308221_-84.494679@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2VkEQw6ABWJzBATnVTRu2Y_39.308221_-84.494679@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785684,
-    "wof:geomhash":"d3065ec9344706d3dcaa396d6dfa750d",
-    "wof:hierarchy":[],
-    "wof:id":689942949,
-    "wof:lastmodified":1472640116,
-    "wof:name":"Independent Medical Specialist",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461785684,
+    "wof:geomhash": "4c706de5fa5b9d34a85455492ab88f8f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689942949
+      }
+    ],
+    "wof:id": 689942949,
+    "wof:lastmodified": 1638567119,
+    "wof:name": "Independent Medical Specialist",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.494679,
     39.308221,
     -84.494679,
     39.308221
-],
+  ],
   "geometry": {"coordinates":[-84.494679,39.308221],"type":"Point"}
 }

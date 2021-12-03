@@ -2,56 +2,60 @@
   "id": 689733115,
   "type": "Feature",
   "properties": {
-    "addr:full":"1234 E Central Ave Miamisburg OH 45342",
-    "addr:housenumber":"1234",
-    "addr:postcode":"45342",
-    "addr:street":"E Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.269939,39.640829,-84.269939,39.640829",
-    "geom:latitude":39.640829,
-    "geom:longitude":-84.269939,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1234 E Central Ave",
-    "sg:city":"Miamisburg",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1234 E Central Ave Miamisburg OH 45342",
+    "addr:housenumber": "1234",
+    "addr:postcode": "45342",
+    "addr:street": "E Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.269939,39.640829,-84.269939,39.640829",
+    "geom:latitude": 39.640829,
+    "geom:longitude": -84.269939,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1234 E Central Ave",
+    "sg:city": "Miamisburg",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 847 9696",
-    "sg:postcode":"45342",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4LFM0t5hrEvvKONM0xPZ1O_39.640829_-84.269939@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 847 9696",
+    "sg:postcode": "45342",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4LFM0t5hrEvvKONM0xPZ1O_39.640829_-84.269939@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780018,
-    "wof:geomhash":"3d85a74c80e998c2902fc0a998fc3c32",
-    "wof:hierarchy":[],
-    "wof:id":689733115,
-    "wof:lastmodified":1472639738,
-    "wof:name":"Miamisburg Meats Inc",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461780018,
+    "wof:geomhash": "97255513ffe4be3f4edca8b36a96b3e2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689733115
+      }
+    ],
+    "wof:id": 689733115,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Miamisburg Meats Inc",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.269939,
     39.640829,
     -84.269939,
     39.640829
-],
-  "geometry": {"coordinates":[-84.26993899999999,39.640829],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.269939,39.640829],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706446265,
   "type": "Feature",
   "properties": {
-    "addr:full":"2530 Circle Dr Lima OH 45806",
-    "addr:housenumber":"2530",
-    "addr:postcode":"45806",
-    "addr:street":"Circle Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.147416,40.684158,-84.147416,40.684158",
-    "geom:latitude":40.684158,
-    "geom:longitude":-84.147416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2530 Circle Dr",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "2530 Circle Dr Lima OH 45806",
+    "addr:housenumber": "2530",
+    "addr:postcode": "45806",
+    "addr:street": "Circle Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.147416,40.684158,-84.147416,40.684158",
+    "geom:latitude": 40.684158,
+    "geom:longitude": -84.147416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2530 Circle Dr",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 991 0667",
-    "sg:postcode":"45806",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 991 0667",
+    "sg:postcode": "45806",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0TjqhOJZ1T6GRJitFycB8i_40.684158_-84.147416@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0TjqhOJZ1T6GRJitFycB8i_40.684158_-84.147416@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803358,
-    "wof:geomhash":"7507f9cae348b2dc461a32458fe29855",
-    "wof:hierarchy":[],
-    "wof:id":706446265,
-    "wof:lastmodified":1472640026,
-    "wof:name":"Pete D Miller Auctioneer",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461803358,
+    "wof:geomhash": "a18d5e6149bbac96e499252b45bda289",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706446265
+      }
+    ],
+    "wof:id": 706446265,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Pete D Miller Auctioneer",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.147416,
     40.684158,
     -84.147416,
     40.684158
-],
-  "geometry": {"coordinates":[-84.14741600000001,40.684158],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.147416,40.684158],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689707517,
   "type": "Feature",
   "properties": {
-    "addr:full":"327 Pearl Rd Brunswick OH 44212",
-    "addr:housenumber":"327",
-    "addr:postcode":"44212",
-    "addr:street":"Pearl Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.8404,41.268009,-81.8404,41.268009",
-    "geom:latitude":41.268009,
-    "geom:longitude":-81.8404,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"327 Pearl Rd",
-    "sg:city":"Brunswick",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "327 Pearl Rd Brunswick OH 44212",
+    "addr:housenumber": "327",
+    "addr:postcode": "44212",
+    "addr:street": "Pearl Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.840400,41.268009,-81.840400,41.268009",
+    "geom:latitude": 41.268009,
+    "geom:longitude": -81.8404,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "327 Pearl Rd",
+    "sg:city": "Brunswick",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 225 1919",
-    "sg:postcode":"44212",
-    "sg:province":"OH",
-    "sg:tags":[
-        "delicatessen"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 225 1919",
+    "sg:postcode": "44212",
+    "sg:province": "OH",
+    "sg:tags": [
+      "delicatessen"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6B4nWACWvyOBCjubnWKeHm_41.268009_-81.840400@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6B4nWACWvyOBCjubnWKeHm_41.268009_-81.840400@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779337,
-    "wof:geomhash":"e2dcf53eb498f9c88815a4cbc807f51a",
-    "wof:hierarchy":[],
-    "wof:id":689707517,
-    "wof:lastmodified":1472639683,
-    "wof:name":"Michael's Mini Mart",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delicatessen"
+    "wof:country": "US",
+    "wof:created": 1461779337,
+    "wof:geomhash": "07a6acda5ec9eeab5101956e6048b912",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689707517
+      }
+    ],
+    "wof:id": 689707517,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Michael's Mini Mart",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delicatessen"
     ]
-},
+  },
   "bbox": [
     -81.8404,
     41.268009,
     -81.8404,
     41.268009
-],
+  ],
   "geometry": {"coordinates":[-81.8404,41.268009],"type":"Point"}
 }

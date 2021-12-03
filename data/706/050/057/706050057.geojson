@@ -2,63 +2,67 @@
   "id": 706050057,
   "type": "Feature",
   "properties": {
-    "addr:full":"2478 River Rd Cincinnati OH 45204",
-    "addr:housenumber":"2478",
-    "addr:postcode":"45204",
-    "addr:street":"River Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.55725,39.097598,-84.55725,39.097598",
-    "geom:latitude":39.097598,
-    "geom:longitude":-84.55725,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2478 River Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2478 River Rd Cincinnati OH 45204",
+    "addr:housenumber": "2478",
+    "addr:postcode": "45204",
+    "addr:street": "River Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.557250,39.097598,-84.557250,39.097598",
+    "geom:latitude": 39.097598,
+    "geom:longitude": -84.55725,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2478 River Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 921 9905",
-    "sg:postcode":"45204",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 921 9905",
+    "sg:postcode": "45204",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0H3B2vwbhk0aahXpcS2s9c_39.097598_-84.557250@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0H3B2vwbhk0aahXpcS2s9c_39.097598_-84.557250@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794600,
-    "wof:geomhash":"d70706ed6baa0c10aa48bfc540a04b53",
-    "wof:hierarchy":[],
-    "wof:id":706050057,
-    "wof:lastmodified":1472639016,
-    "wof:name":"Radels Cafe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking",
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461794600,
+    "wof:geomhash": "1722bcdc542161773ac3327784619ebe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706050057
+      }
+    ],
+    "wof:id": 706050057,
+    "wof:lastmodified": 1638566968,
+    "wof:name": "Radels Cafe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.55725,
     39.097598,
     -84.55725,
     39.097598
-],
+  ],
   "geometry": {"coordinates":[-84.55725,39.097598],"type":"Point"}
 }

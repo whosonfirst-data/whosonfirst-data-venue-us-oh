@@ -2,61 +2,65 @@
   "id": 689548183,
   "type": "Feature",
   "properties": {
-    "addr:full":"233 Gay St Plain City OH 43064",
-    "addr:housenumber":"233",
-    "addr:postcode":"43064",
-    "addr:street":"Gay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.267045,40.106988,-83.267045,40.106988",
-    "geom:latitude":40.106988,
-    "geom:longitude":-83.267045,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"233 Gay St",
-    "sg:city":"Plain City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "233 Gay St Plain City OH 43064",
+    "addr:housenumber": "233",
+    "addr:postcode": "43064",
+    "addr:street": "Gay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.267045,40.106988,-83.267045,40.106988",
+    "geom:latitude": 40.106988,
+    "geom:longitude": -83.267045,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "233 Gay St",
+    "sg:city": "Plain City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 873 4020",
-    "sg:postcode":"43064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 873 4020",
+    "sg:postcode": "43064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Vd2iSAZoD7e2oCN4lnucZ_40.106988_-83.267045@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Vd2iSAZoD7e2oCN4lnucZ_40.106988_-83.267045@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774654,
-    "wof:geomhash":"692d21aa096f21e987e55a2dc44ca9e8",
-    "wof:hierarchy":[],
-    "wof:id":689548183,
-    "wof:lastmodified":1472639226,
-    "wof:name":"Pleasant Valley Veterinary",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461774654,
+    "wof:geomhash": "84c2efe3cdd29ae895768e0d41511c66",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689548183
+      }
+    ],
+    "wof:id": 689548183,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Pleasant Valley Veterinary",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -83.267045,
     40.106988,
     -83.267045,
     40.106988
-],
+  ],
   "geometry": {"coordinates":[-83.267045,40.106988],"type":"Point"}
 }

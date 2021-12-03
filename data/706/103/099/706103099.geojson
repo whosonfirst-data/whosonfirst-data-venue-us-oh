@@ -2,61 +2,65 @@
   "id": 706103099,
   "type": "Feature",
   "properties": {
-    "addr:full":"655 W Madison St Gibsonburg OH 43431",
-    "addr:housenumber":"655",
-    "addr:postcode":"43431",
-    "addr:street":"W Madison St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.332722,41.38445,-83.332722,41.38445",
-    "geom:latitude":41.38445,
-    "geom:longitude":-83.332722,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"655 W Madison St",
-    "sg:city":"Gibsonburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "655 W Madison St Gibsonburg OH 43431",
+    "addr:housenumber": "655",
+    "addr:postcode": "43431",
+    "addr:street": "W Madison St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.332722,41.384450,-83.332722,41.384450",
+    "geom:latitude": 41.38445,
+    "geom:longitude": -83.332722,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "655 W Madison St",
+    "sg:city": "Gibsonburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 637 2165",
-    "sg:postcode":"43431",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 637 2165",
+    "sg:postcode": "43431",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2WjdFUVAquOTjk5BCVDEwZ_41.384450_-83.332722@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2WjdFUVAquOTjk5BCVDEwZ_41.384450_-83.332722@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795849,
-    "wof:geomhash":"b30220b36520bb3d917a93b908450406",
-    "wof:hierarchy":[],
-    "wof:id":706103099,
-    "wof:lastmodified":1472639232,
-    "wof:name":"Julius V Toth DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461795849,
+    "wof:geomhash": "3a270d21a87f61713b0d0f74184b9980",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706103099
+      }
+    ],
+    "wof:id": 706103099,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Julius V Toth DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.332722,
     41.38445,
     -83.332722,
     41.38445
-],
+  ],
   "geometry": {"coordinates":[-83.332722,41.38445],"type":"Point"}
 }

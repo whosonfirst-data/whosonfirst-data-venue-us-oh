@@ -2,66 +2,70 @@
   "id": 706582005,
   "type": "Feature",
   "properties": {
-    "addr:full":"428 N Main St Niles OH 44446",
-    "addr:housenumber":"428",
-    "addr:postcode":"44446",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-80.765017,41.185344,-80.765017,41.185344",
-    "geom:latitude":41.185344,
-    "geom:longitude":-80.765017,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"428 N Main St",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "428 N Main St Niles OH 44446",
+    "addr:housenumber": "428",
+    "addr:postcode": "44446",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-80.765017,41.185344,-80.765017,41.185344",
+    "geom:latitude": 41.185344,
+    "geom:longitude": -80.765017,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "428 N Main St",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/weathersfield/195271-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/weathersfield/195271-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1WluyxksLQaiYWH3N9RQCB_41.185831_-80.765084@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1WluyxksLQaiYWH3N9RQCB_41.185831_-80.765084@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806364,
-    "wof:geomhash":"c2a313a5d5ff0ebb147b4d134b8fce6e",
-    "wof:hierarchy":[],
-    "wof:id":706582005,
-    "wof:lastmodified":1512142993,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806364,
+    "wof:geomhash": "c2a313a5d5ff0ebb147b4d134b8fce6e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706582005
+      }
+    ],
+    "wof:id": 706582005,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -80.765017,
     41.185344,
     -80.765017,
     41.185344
-],
+  ],
   "geometry": {"coordinates":[-80.765017,41.185344],"type":"Point"}
 }

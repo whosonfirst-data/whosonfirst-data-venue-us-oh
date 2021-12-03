@@ -2,63 +2,67 @@
   "id": 706283381,
   "type": "Feature",
   "properties": {
-    "addr:full":"67 E Clark St East Palestine OH 44413",
-    "addr:housenumber":"67",
-    "addr:postcode":"44413",
-    "addr:street":"E Clark St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.539047,40.83607,-80.539047,40.83607",
-    "geom:latitude":40.83607,
-    "geom:longitude":-80.539047,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"67 E Clark St",
-    "sg:city":"East Palestine",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "67 E Clark St East Palestine OH 44413",
+    "addr:housenumber": "67",
+    "addr:postcode": "44413",
+    "addr:street": "E Clark St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.539047,40.836070,-80.539047,40.836070",
+    "geom:latitude": 40.83607,
+    "geom:longitude": -80.539047,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "67 E Clark St",
+    "sg:city": "East Palestine",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 4341",
-    "sg:postcode":"44413",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department",
-        "volunteer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 4341",
+    "sg:postcode": "44413",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department",
+      "volunteer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0v9dWYMABC5EZWAuqwFuRR_40.836070_-80.539047@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0v9dWYMABC5EZWAuqwFuRR_40.836070_-80.539047@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799925,
-    "wof:geomhash":"c8c8b0bbbd59ee425a416339c20863b2",
-    "wof:hierarchy":[],
-    "wof:id":706283381,
-    "wof:lastmodified":1472639665,
-    "wof:name":"East Palestine Fire Department",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "volunteer"
+    "wof:country": "US",
+    "wof:created": 1461799925,
+    "wof:geomhash": "f8af64b1904b39a15ceb7c5e9662f262",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706283381
+      }
+    ],
+    "wof:id": 706283381,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "East Palestine Fire Department",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "volunteer"
     ]
-},
+  },
   "bbox": [
     -80.539047,
     40.83607,
     -80.539047,
     40.83607
-],
+  ],
   "geometry": {"coordinates":[-80.539047,40.83607],"type":"Point"}
 }

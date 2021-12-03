@@ -2,61 +2,65 @@
   "id": 689552301,
   "type": "Feature",
   "properties": {
-    "addr:full":"1306 Mary St Portsmouth OH 45662",
-    "addr:housenumber":"1306",
-    "addr:postcode":"45662",
-    "addr:street":"Mary St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.978286,38.78822,-82.978286,38.78822",
-    "geom:latitude":38.78822,
-    "geom:longitude":-82.978286,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1306 Mary St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "1306 Mary St Portsmouth OH 45662",
+    "addr:housenumber": "1306",
+    "addr:postcode": "45662",
+    "addr:street": "Mary St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.978286,38.788220,-82.978286,38.788220",
+    "geom:latitude": 38.78822,
+    "geom:longitude": -82.978286,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1306 Mary St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 776 2865",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appliance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 776 2865",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appliance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6w92Cd3mgoBIi8pDNQbeQZ_38.788220_-82.978286@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6w92Cd3mgoBIi8pDNQbeQZ_38.788220_-82.978286@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774786,
-    "wof:geomhash":"17c776e47e462ec35d123dffcf81cda6",
-    "wof:hierarchy":[],
-    "wof:id":689552301,
-    "wof:lastmodified":1472639247,
-    "wof:name":"Literal Appliance Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appliance"
+    "wof:country": "US",
+    "wof:created": 1461774786,
+    "wof:geomhash": "574532fafc5ccdb3ab129306a9a80e10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689552301
+      }
+    ],
+    "wof:id": 689552301,
+    "wof:lastmodified": 1638566983,
+    "wof:name": "Literal Appliance Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appliance"
     ]
-},
+  },
   "bbox": [
     -82.978286,
     38.78822,
     -82.978286,
     38.78822
-],
+  ],
   "geometry": {"coordinates":[-82.978286,38.78822],"type":"Point"}
 }

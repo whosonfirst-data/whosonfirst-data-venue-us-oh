@@ -2,61 +2,65 @@
   "id": 689801223,
   "type": "Feature",
   "properties": {
-    "addr:full":"33033 Seneca Dr Solon OH 44139",
-    "addr:housenumber":"",
-    "addr:postcode":"33033;44139",
-    "addr:street":"Seneca Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.446876,41.352098,-81.446876,41.352098",
-    "geom:latitude":41.352098,
-    "geom:longitude":-81.446876,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33033 Seneca Dr",
-    "sg:city":"Solon",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "33033 Seneca Dr Solon OH 44139",
+    "addr:housenumber": "",
+    "addr:postcode": "33033;44139",
+    "addr:street": "Seneca Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.446876,41.352098,-81.446876,41.352098",
+    "geom:latitude": 41.352098,
+    "geom:longitude": -81.446876,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "33033 Seneca Dr",
+    "sg:city": "Solon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 498 0987",
-    "sg:postcode":"44139",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 498 0987",
+    "sg:postcode": "44139",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3snDMaHDsP3D3cKwjEzRbM_41.352098_-81.446876@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3snDMaHDsP3D3cKwjEzRbM_41.352098_-81.446876@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781910,
-    "wof:geomhash":"3e6b1bb215110566978b9712efabc7f7",
-    "wof:hierarchy":[],
-    "wof:id":689801223,
-    "wof:lastmodified":1472639853,
-    "wof:name":"Joe Grille",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461781910,
+    "wof:geomhash": "cf15f54ccff7d050ed914f9017554656",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689801223
+      }
+    ],
+    "wof:id": 689801223,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Joe Grille",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.446876,
     41.352098,
     -81.446876,
     41.352098
-],
+  ],
   "geometry": {"coordinates":[-81.446876,41.352098],"type":"Point"}
 }

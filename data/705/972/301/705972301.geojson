@@ -2,63 +2,67 @@
   "id": 705972301,
   "type": "Feature",
   "properties": {
-    "addr:full":"623 John St Crestline OH 44827",
-    "addr:housenumber":"623",
-    "addr:postcode":"44827",
-    "addr:street":"John St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.744742,40.787489,-82.744742,40.787489",
-    "geom:latitude":40.787489,
-    "geom:longitude":-82.744742,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"623 John St",
-    "sg:city":"Crestline",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "623 John St Crestline OH 44827",
+    "addr:housenumber": "623",
+    "addr:postcode": "44827",
+    "addr:street": "John St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.744742,40.787489,-82.744742,40.787489",
+    "geom:latitude": 40.787489,
+    "geom:longitude": -82.744742,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "623 John St",
+    "sg:city": "Crestline",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 683 2885",
-    "sg:postcode":"44827",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 683 2885",
+    "sg:postcode": "44827",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4qpBCKuQ24VI4TgvV87sPx_40.787489_-82.744742@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4qpBCKuQ24VI4TgvV87sPx_40.787489_-82.744742@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793012,
-    "wof:geomhash":"33afbb8f01c936f9403956a0c56d9a47",
-    "wof:hierarchy":[],
-    "wof:id":705972301,
-    "wof:lastmodified":1472639739,
-    "wof:name":"Shep's Auto Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461793012,
+    "wof:geomhash": "7f75845e89d539b6ebdc6c6095d711e5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705972301
+      }
+    ],
+    "wof:id": 705972301,
+    "wof:lastmodified": 1638567064,
+    "wof:name": "Shep's Auto Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -82.744742,
     40.787489,
     -82.744742,
     40.787489
-],
+  ],
   "geometry": {"coordinates":[-82.744742,40.787489],"type":"Point"}
 }

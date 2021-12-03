@@ -2,61 +2,65 @@
   "id": 689656281,
   "type": "Feature",
   "properties": {
-    "addr:full":"491 Olde Mill Dr Westerville OH 43082",
-    "addr:housenumber":"491",
-    "addr:postcode":"43082",
-    "addr:street":"Olde Mill Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.905513,40.137909,-82.905513,40.137909",
-    "geom:latitude":40.137909,
-    "geom:longitude":-82.905513,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"491 Olde Mill Dr",
-    "sg:city":"Westerville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "491 Olde Mill Dr Westerville OH 43082",
+    "addr:housenumber": "491",
+    "addr:postcode": "43082",
+    "addr:street": "Olde Mill Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.905513,40.137909,-82.905513,40.137909",
+    "geom:latitude": 40.137909,
+    "geom:longitude": -82.905513,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "491 Olde Mill Dr",
+    "sg:city": "Westerville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 794 9997",
-    "sg:postcode":"43082",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 794 9997",
+    "sg:postcode": "43082",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_74S84we1qW757jTFzT8538_40.137909_-82.905513@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_74S84we1qW757jTFzT8538_40.137909_-82.905513@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778028,
-    "wof:geomhash":"8d78dc9d81c7d7915e9df5c7caa165f7",
-    "wof:hierarchy":[],
-    "wof:id":689656281,
-    "wof:lastmodified":1472639562,
-    "wof:name":"Custom Foto Fantasies",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461778028,
+    "wof:geomhash": "d12370a2fa886bea884322516bb7b489",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689656281
+      }
+    ],
+    "wof:id": 689656281,
+    "wof:lastmodified": 1638567004,
+    "wof:name": "Custom Foto Fantasies",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -82.905513,
     40.137909,
     -82.905513,
     40.137909
-],
+  ],
   "geometry": {"coordinates":[-82.905513,40.137909],"type":"Point"}
 }

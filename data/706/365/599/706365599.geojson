@@ -2,61 +2,65 @@
   "id": 706365599,
   "type": "Feature",
   "properties": {
-    "addr:full":"2450 Mandolin Dr Lima OH 45801",
-    "addr:housenumber":"",
-    "addr:postcode":"2450;45801",
-    "addr:street":"Mandolin Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.12267,40.772721,-84.12267,40.772721",
-    "geom:latitude":40.772721,
-    "geom:longitude":-84.12267,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2450 Mandolin Dr",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Adult Care",
-            "type":"Services"
-        }
+    "addr:full": "2450 Mandolin Dr Lima OH 45801",
+    "addr:housenumber": "",
+    "addr:postcode": "2450;45801",
+    "addr:street": "Mandolin Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.122670,40.772721,-84.122670,40.772721",
+    "geom:latitude": 40.772721,
+    "geom:longitude": -84.12267,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2450 Mandolin Dr",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 229 3200",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 229 3200",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "residential"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_21HsMKMnSPCcm43mq7WbXg_40.772721_-84.122670@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_21HsMKMnSPCcm43mq7WbXg_40.772721_-84.122670@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801724,
-    "wof:geomhash":"69f7e3d93e678d0063984807769513d7",
-    "wof:hierarchy":[],
-    "wof:id":706365599,
-    "wof:lastmodified":1472639929,
-    "wof:name":"Mary Ann Brown Facility",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461801724,
+    "wof:geomhash": "30595339e4bd6fe5c45a0d77aa34447a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706365599
+      }
+    ],
+    "wof:id": 706365599,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Mary Ann Brown Facility",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential"
     ]
-},
+  },
   "bbox": [
     -84.12267,
     40.772721,
     -84.12267,
     40.772721
-],
+  ],
   "geometry": {"coordinates":[-84.12267,40.772721],"type":"Point"}
 }

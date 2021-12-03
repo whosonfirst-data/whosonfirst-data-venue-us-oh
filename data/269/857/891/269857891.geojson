@@ -2,78 +2,79 @@
   "id": 269857891,
   "type": "Feature",
   "properties": {
-    "addr:full":"72 W 3rd Ave Columbus OH 43201",
-    "addr:housenumber":"72",
-    "addr:postcode":"43201",
-    "addr:street":"W 3Rd Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.006136,39.98409,-83.006136,39.98409",
-    "geom:latitude":39.98409,
-    "geom:longitude":-83.006136,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"72 W 3rd Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "72 W 3rd Ave Columbus OH 43201",
+    "addr:housenumber": "72",
+    "addr:postcode": "43201",
+    "addr:street": "W 3Rd Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.006136,39.984090,-83.006136,39.984090",
+    "geom:latitude": 39.98409,
+    "geom:longitude": -83.006136,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "72 W 3rd Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 453 9999",
-    "sg:postcode":"43201",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 453 9999",
+    "sg:postcode": "43201",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870281
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712381,
+      102080969,
+      85870281
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5WyUtYIyXM18q8cMU9OnZk_39.984090_-83.006136@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5WyUtYIyXM18q8cMU9OnZk_39.984090_-83.006136@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"277371872aa07ebcadf076e43fc4857b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870281,
-            "region_id":85688485,
-            "venue_id":269857891
-        }
+    "wof:country": "US",
+    "wof:created": 1638566918,
+    "wof:geomhash": "d44679157f3b0b9adcdc90147083a815",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080969,
+        "locality_id": 101712381,
+        "neighbourhood_id": 85870281,
+        "region_id": 85688485,
+        "venue_id": 269857891
+      }
     ],
-    "wof:id":269857891,
-    "wof:lastmodified":1472638859,
-    "wof:name":"Endocrinology Associates",
-    "wof:parent_id":85870281,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 269857891,
+    "wof:lastmodified": 1638566918,
+    "wof:name": "Endocrinology Associates",
+    "wof:parent_id": 85870281,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.006136,
     39.98409,
     -83.006136,
     39.98409
-],
+  ],
   "geometry": {"coordinates":[-83.006136,39.98409],"type":"Point"}
 }

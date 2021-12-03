@@ -2,61 +2,65 @@
   "id": 706164067,
   "type": "Feature",
   "properties": {
-    "addr:full":"29 Skyview Dr Cleveland OH 44131",
-    "addr:housenumber":"29",
-    "addr:postcode":"44131",
-    "addr:street":"Skyview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.681145,41.389087,-81.681145,41.389087",
-    "geom:latitude":41.389087,
-    "geom:longitude":-81.681145,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"29 Skyview Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Investment Brokerage",
-            "type":"Services"
-        }
+    "addr:full": "29 Skyview Dr Cleveland OH 44131",
+    "addr:housenumber": "29",
+    "addr:postcode": "44131",
+    "addr:street": "Skyview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.681145,41.389087,-81.681145,41.389087",
+    "geom:latitude": 41.389087,
+    "geom:longitude": -81.681145,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "29 Skyview Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Investment Brokerage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 524 5639",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "sg:tags":[
-        "security"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 524 5639",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "sg:tags": [
+      "security"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_716zBgnJtb9Gzq7DXBgikc_41.389087_-81.681145@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_716zBgnJtb9Gzq7DXBgikc_41.389087_-81.681145@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797303,
-    "wof:geomhash":"e8a999f7f8cbc031417fab2059dc1ae6",
-    "wof:hierarchy":[],
-    "wof:id":706164067,
-    "wof:lastmodified":1472639386,
-    "wof:name":"Simple Investments",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "security"
+    "wof:country": "US",
+    "wof:created": 1461797303,
+    "wof:geomhash": "ae97a521079887a8ba95ddae5743fdda",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706164067
+      }
+    ],
+    "wof:id": 706164067,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Simple Investments",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "security"
     ]
-},
+  },
   "bbox": [
     -81.681145,
     41.389087,
     -81.681145,
     41.389087
-],
+  ],
   "geometry": {"coordinates":[-81.681145,41.389087],"type":"Point"}
 }

@@ -2,56 +2,60 @@
   "id": 689632699,
   "type": "Feature",
   "properties": {
-    "addr:full":"2615 US Hwy 50 Hillsboro OH 45142",
-    "addr:housenumber":"2615",
-    "addr:postcode":"45142",
-    "addr:street":"Us Hwy 50",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.785586,39.204569,-83.785586,39.204569",
-    "geom:latitude":39.204569,
-    "geom:longitude":-83.785586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2615 US Hwy 50",
-    "sg:city":"Hillsboro",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2615 US Hwy 50 Hillsboro OH 45142",
+    "addr:housenumber": "2615",
+    "addr:postcode": "45142",
+    "addr:street": "Us Hwy 50",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.785586,39.204569,-83.785586,39.204569",
+    "geom:latitude": 39.204569,
+    "geom:longitude": -83.785586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2615 US Hwy 50",
+    "sg:city": "Hillsboro",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 364 2919",
-    "sg:postcode":"45142",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1aQEfCGgh9pglOLXYp2Wvs_39.204569_-83.785586@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 364 2919",
+    "sg:postcode": "45142",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1aQEfCGgh9pglOLXYp2Wvs_39.204569_-83.785586@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777219,
-    "wof:geomhash":"6e7e4385d1a8fe667ed078baeb7d7ee2",
-    "wof:hierarchy":[],
-    "wof:id":689632699,
-    "wof:lastmodified":1472639482,
-    "wof:name":"Fireside Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461777219,
+    "wof:geomhash": "cbc25e8d95c0eb3cc2bf4289c305a649",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689632699
+      }
+    ],
+    "wof:id": 689632699,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Fireside Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.785586,
     39.204569,
     -83.785586,
     39.204569
-],
+  ],
   "geometry": {"coordinates":[-83.785586,39.204569],"type":"Point"}
 }

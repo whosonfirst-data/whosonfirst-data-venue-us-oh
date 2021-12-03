@@ -2,61 +2,65 @@
   "id": 689597959,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 Mound St Marion OH 43302",
-    "addr:housenumber":"318",
-    "addr:postcode":"43302",
-    "addr:street":"Mound St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.141762,40.583893,-83.141762,40.583893",
-    "geom:latitude":40.583893,
-    "geom:longitude":-83.141762,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"318 Mound St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "318 Mound St Marion OH 43302",
+    "addr:housenumber": "318",
+    "addr:postcode": "43302",
+    "addr:street": "Mound St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.141762,40.583893,-83.141762,40.583893",
+    "geom:latitude": 40.583893,
+    "geom:longitude": -83.141762,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "318 Mound St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 387 1188",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "crematory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 387 1188",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "crematory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3zMiRv5AL12A2DczLlvUeY_40.583893_-83.141762@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3zMiRv5AL12A2DczLlvUeY_40.583893_-83.141762@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776166,
-    "wof:geomhash":"feac5319633a9cec41df9f6053bd1e3c",
-    "wof:hierarchy":[],
-    "wof:id":689597959,
-    "wof:lastmodified":1472639424,
-    "wof:name":"Hughes-Allen Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "crematory"
+    "wof:country": "US",
+    "wof:created": 1461776166,
+    "wof:geomhash": "b2bc24dbd885ac1c77e952cd4cba67de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689597959
+      }
+    ],
+    "wof:id": 689597959,
+    "wof:lastmodified": 1638566995,
+    "wof:name": "Hughes-Allen Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "crematory"
     ]
-},
+  },
   "bbox": [
     -83.141762,
     40.583893,
     -83.141762,
     40.583893
-],
+  ],
   "geometry": {"coordinates":[-83.141762,40.583893],"type":"Point"}
 }

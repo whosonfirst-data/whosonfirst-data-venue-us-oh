@@ -2,61 +2,65 @@
   "id": 689555127,
   "type": "Feature",
   "properties": {
-    "addr:full":"124 W Erie St Creston OH 44217",
-    "addr:housenumber":"124",
-    "addr:postcode":"44217",
-    "addr:street":"W Erie St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.899149,40.984348,-81.899149,40.984348",
-    "geom:latitude":40.984348,
-    "geom:longitude":-81.899149,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"124 W Erie St",
-    "sg:city":"Creston",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "124 W Erie St Creston OH 44217",
+    "addr:housenumber": "124",
+    "addr:postcode": "44217",
+    "addr:street": "W Erie St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.899149,40.984348,-81.899149,40.984348",
+    "geom:latitude": 40.984348,
+    "geom:longitude": -81.899149,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "124 W Erie St",
+    "sg:city": "Creston",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 466 1344",
-    "sg:postcode":"44217",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 466 1344",
+    "sg:postcode": "44217",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45ss51HZgpUHLTgsAFMaht_40.984348_-81.899149@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_45ss51HZgpUHLTgsAFMaht_40.984348_-81.899149@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774884,
-    "wof:geomhash":"6bbabf221c640de7bce86e6079cefc35",
-    "wof:hierarchy":[],
-    "wof:id":689555127,
-    "wof:lastmodified":1472639241,
-    "wof:name":"Gimpy's Towing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1461774884,
+    "wof:geomhash": "df4fbcf0c808842898fc507f8e1164c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689555127
+      }
+    ],
+    "wof:id": 689555127,
+    "wof:lastmodified": 1638566983,
+    "wof:name": "Gimpy's Towing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -81.899149,
     40.984348,
     -81.899149,
     40.984348
-],
-  "geometry": {"coordinates":[-81.89914899999999,40.984348],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.899149,40.984348],"type":"Point"}
 }

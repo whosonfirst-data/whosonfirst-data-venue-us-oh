@@ -2,63 +2,67 @@
   "id": 705692551,
   "type": "Feature",
   "properties": {
-    "addr:full":"34960 Martin Rd Willoughby OH 44094",
-    "addr:housenumber":"34960",
-    "addr:postcode":"44094",
-    "addr:street":"Martin Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.433008,41.581878,-81.433008,41.581878",
-    "geom:latitude":41.581878,
-    "geom:longitude":-81.433008,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"34960 Martin Rd",
-    "sg:city":"Willoughby",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "34960 Martin Rd Willoughby OH 44094",
+    "addr:housenumber": "34960",
+    "addr:postcode": "44094",
+    "addr:street": "Martin Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.433008,41.581878,-81.433008,41.581878",
+    "geom:latitude": 41.581878,
+    "geom:longitude": -81.433008,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "34960 Martin Rd",
+    "sg:city": "Willoughby",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 531 2350",
-    "sg:postcode":"44094",
-    "sg:province":"OH",
-    "sg:tags":[
-        "intrastate",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 531 2350",
+    "sg:postcode": "44094",
+    "sg:province": "OH",
+    "sg:tags": [
+      "intrastate",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6HTnuSzHo2ykWiJu5xP4th_41.581878_-81.433008@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6HTnuSzHo2ykWiJu5xP4th_41.581878_-81.433008@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786226,
-    "wof:geomhash":"e49027a8cbe38555182eb4be12dfb372",
-    "wof:hierarchy":[],
-    "wof:id":705692551,
-    "wof:lastmodified":1472638213,
-    "wof:name":"Dietrick Trucking Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "intrastate",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461786226,
+    "wof:geomhash": "bfa70d01773bdca2ffb5ad6501d862b7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705692551
+      }
+    ],
+    "wof:id": 705692551,
+    "wof:lastmodified": 1638566911,
+    "wof:name": "Dietrick Trucking Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "intrastate",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.433008,
     41.581878,
     -81.433008,
     41.581878
-],
+  ],
   "geometry": {"coordinates":[-81.433008,41.581878],"type":"Point"}
 }

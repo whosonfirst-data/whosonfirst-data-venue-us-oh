@@ -2,61 +2,65 @@
   "id": 706322657,
   "type": "Feature",
   "properties": {
-    "addr:full":"309 S Chapel St Louisville OH 44641",
-    "addr:housenumber":"309",
-    "addr:postcode":"44641",
-    "addr:street":"S Chapel St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.259808,40.835795,-81.259808,40.835795",
-    "geom:latitude":40.835795,
-    "geom:longitude":-81.259808,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"309 S Chapel St",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "309 S Chapel St Louisville OH 44641",
+    "addr:housenumber": "309",
+    "addr:postcode": "44641",
+    "addr:street": "S Chapel St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.259808,40.835795,-81.259808,40.835795",
+    "geom:latitude": 40.835795,
+    "geom:longitude": -81.259808,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "309 S Chapel St",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 875 2200",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 875 2200",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ufcitWwtq3IK8wTBvImPe_40.835795_-81.259808@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6ufcitWwtq3IK8wTBvImPe_40.835795_-81.259808@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800794,
-    "wof:geomhash":"fa71a407140598f8faa8e4189735f494",
-    "wof:hierarchy":[],
-    "wof:id":706322657,
-    "wof:lastmodified":1472639812,
-    "wof:name":"Steven F Peters DDS",
-    "wof:parent_id":420535239,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461800794,
+    "wof:geomhash": "fc1d3303593ee8c3df866fb562edb88c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706322657
+      }
+    ],
+    "wof:id": 706322657,
+    "wof:lastmodified": 1638567087,
+    "wof:name": "Steven F Peters DDS",
+    "wof:parent_id": 420535239,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.259808,
     40.835795,
     -81.259808,
     40.835795
-],
-  "geometry": {"coordinates":[-81.25980800000001,40.835795],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.259808,40.835795],"type":"Point"}
 }

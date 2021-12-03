@@ -2,61 +2,65 @@
   "id": 706046335,
   "type": "Feature",
   "properties": {
-    "addr:full":"543 N High St Cortland OH 44410",
-    "addr:housenumber":"543",
-    "addr:postcode":"44410",
-    "addr:street":"N High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.722505,41.341186,-80.722505,41.341186",
-    "geom:latitude":41.341186,
-    "geom:longitude":-80.722505,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"543 N High St",
-    "sg:city":"Cortland",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "543 N High St Cortland OH 44410",
+    "addr:housenumber": "543",
+    "addr:postcode": "44410",
+    "addr:street": "N High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.722505,41.341186,-80.722505,41.341186",
+    "geom:latitude": 41.341186,
+    "geom:longitude": -80.722505,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "543 N High St",
+    "sg:city": "Cortland",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 637 8287",
-    "sg:postcode":"44410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 637 8287",
+    "sg:postcode": "44410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6VaN9Tvxk1XlH0d7WNQ6jg_41.341186_-80.722505@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6VaN9Tvxk1XlH0d7WNQ6jg_41.341186_-80.722505@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794523,
-    "wof:geomhash":"38eabe4904a0e7bcd82fdc258485b68a",
-    "wof:hierarchy":[],
-    "wof:id":706046335,
-    "wof:lastmodified":1472638972,
-    "wof:name":"Jimmy Digiacobbe Auctioneer",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461794523,
+    "wof:geomhash": "d876e3caab142e65aaa98c11ed29b52f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706046335
+      }
+    ],
+    "wof:id": 706046335,
+    "wof:lastmodified": 1638566967,
+    "wof:name": "Jimmy Digiacobbe Auctioneer",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -80.722505,
     41.341186,
     -80.722505,
     41.341186
-],
+  ],
   "geometry": {"coordinates":[-80.722505,41.341186],"type":"Point"}
 }

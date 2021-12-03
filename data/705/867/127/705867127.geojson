@@ -2,61 +2,65 @@
   "id": 705867127,
   "type": "Feature",
   "properties": {
-    "addr:full":"112 W Arthur St Hicksville OH 43526",
-    "addr:housenumber":"112",
-    "addr:postcode":"43526",
-    "addr:street":"W Arthur St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.766271,41.295421,-84.766271,41.295421",
-    "geom:latitude":41.295421,
-    "geom:longitude":-84.766271,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"112 W Arthur St",
-    "sg:city":"Hicksville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Telephone",
-            "type":"Services"
-        }
+    "addr:full": "112 W Arthur St Hicksville OH 43526",
+    "addr:housenumber": "112",
+    "addr:postcode": "43526",
+    "addr:street": "W Arthur St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.766271,41.295421,-84.766271,41.295421",
+    "geom:latitude": 41.295421,
+    "geom:longitude": -84.766271,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "112 W Arthur St",
+    "sg:city": "Hicksville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Telephone",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 542 5261",
-    "sg:postcode":"43526",
-    "sg:province":"OH",
-    "sg:tags":[
-        "communications"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 542 5261",
+    "sg:postcode": "43526",
+    "sg:province": "OH",
+    "sg:tags": [
+      "communications"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1UjyiTD2yF1hwWQPmnlQiN_41.295421_-84.766271@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1UjyiTD2yF1hwWQPmnlQiN_41.295421_-84.766271@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790607,
-    "wof:geomhash":"3cf9d5b140781e7b74465e8e8ef3d5b4",
-    "wof:hierarchy":[],
-    "wof:id":705867127,
-    "wof:lastmodified":1472639443,
-    "wof:name":"Xpressaccess",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "communications"
+    "wof:country": "US",
+    "wof:created": 1461790607,
+    "wof:geomhash": "edb7c70107972f10432022aeb86dec8c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705867127
+      }
+    ],
+    "wof:id": 705867127,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Xpressaccess",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "communications"
     ]
-},
+  },
   "bbox": [
     -84.766271,
     41.295421,
     -84.766271,
     41.295421
-],
+  ],
   "geometry": {"coordinates":[-84.766271,41.295421],"type":"Point"}
 }

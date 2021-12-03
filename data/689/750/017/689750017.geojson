@@ -2,61 +2,65 @@
   "id": 689750017,
   "type": "Feature",
   "properties": {
-    "addr:full":"23802 Lake Shore Blvd Cleveland OH 44123",
-    "addr:housenumber":"23802",
-    "addr:postcode":"44123",
-    "addr:street":"Lake Shore Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.515717,41.615542,-81.515717,41.615542",
-    "geom:latitude":41.615542,
-    "geom:longitude":-81.515717,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"23802 Lake Shore Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "23802 Lake Shore Blvd Cleveland OH 44123",
+    "addr:housenumber": "23802",
+    "addr:postcode": "44123",
+    "addr:street": "Lake Shore Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.515717,41.615542,-81.515717,41.615542",
+    "geom:latitude": 41.615542,
+    "geom:longitude": -81.515717,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "23802 Lake Shore Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 731 2606",
-    "sg:postcode":"44123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 731 2606",
+    "sg:postcode": "44123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1t0VlRBcZujPwtMThZVK7w_41.615542_-81.515717@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1t0VlRBcZujPwtMThZVK7w_41.615542_-81.515717@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780450,
-    "wof:geomhash":"e9e8ca3d99d8d65dd71977da0a5cff37",
-    "wof:hierarchy":[],
-    "wof:id":689750017,
-    "wof:lastmodified":1472639767,
-    "wof:name":"St Robert's Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461780450,
+    "wof:geomhash": "f9040fdd69f0b79e96ce2301aa03439f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689750017
+      }
+    ],
+    "wof:id": 689750017,
+    "wof:lastmodified": 1638567041,
+    "wof:name": "St Robert's Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.515717,
     41.615542,
     -81.515717,
     41.615542
-],
+  ],
   "geometry": {"coordinates":[-81.515717,41.615542],"type":"Point"}
 }

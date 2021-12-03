@@ -2,61 +2,65 @@
   "id": 706049079,
   "type": "Feature",
   "properties": {
-    "addr:full":"213 W Cherry St Liberty Center OH 43532",
-    "addr:housenumber":"213",
-    "addr:postcode":"43532",
-    "addr:street":"W Cherry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.01569,41.446671,-84.01569,41.446671",
-    "geom:latitude":41.446671,
-    "geom:longitude":-84.01569,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"213 W Cherry St",
-    "sg:city":"Liberty Center",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "213 W Cherry St Liberty Center OH 43532",
+    "addr:housenumber": "213",
+    "addr:postcode": "43532",
+    "addr:street": "W Cherry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.015690,41.446671,-84.015690,41.446671",
+    "geom:latitude": 41.446671,
+    "geom:longitude": -84.01569,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "213 W Cherry St",
+    "sg:city": "Liberty Center",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 533 6755",
-    "sg:postcode":"43532",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 533 6755",
+    "sg:postcode": "43532",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4acIelCjCVboXxql03gGd0_41.446671_-84.015690@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4acIelCjCVboXxql03gGd0_41.446671_-84.015690@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794579,
-    "wof:geomhash":"9b389d64fc52be773e9664a14075caf5",
-    "wof:hierarchy":[],
-    "wof:id":706049079,
-    "wof:lastmodified":1472639026,
-    "wof:name":"Street Maintenance Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461794579,
+    "wof:geomhash": "3ce56d7de873429afba90b7e0b9bcdd2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706049079
+      }
+    ],
+    "wof:id": 706049079,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Street Maintenance Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.01569,
     41.446671,
     -84.01569,
     41.446671
-],
-  "geometry": {"coordinates":[-84.01569000000001,41.446671],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.01569,41.446671],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689949257,
   "type": "Feature",
   "properties": {
-    "addr:full":"276 W Center St Marion OH 43302",
-    "addr:housenumber":"276",
-    "addr:postcode":"43302",
-    "addr:street":"W Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.13357,40.588549,-83.13357,40.588549",
-    "geom:latitude":40.588549,
-    "geom:longitude":-83.13357,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"276 W Center St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "276 W Center St Marion OH 43302",
+    "addr:housenumber": "276",
+    "addr:postcode": "43302",
+    "addr:street": "W Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.133570,40.588549,-83.133570,40.588549",
+    "geom:latitude": 40.588549,
+    "geom:longitude": -83.13357,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "276 W Center St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 383 2101",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "production",
-        "community"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 383 2101",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "production",
+      "community"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2srnHdEAKAWXyjJorNtloz_40.588549_-83.133570@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2srnHdEAKAWXyjJorNtloz_40.588549_-83.133570@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785838,
-    "wof:geomhash":"31d1462d72b1ebaaa9e60e643bf01f2c",
-    "wof:hierarchy":[],
-    "wof:id":689949257,
-    "wof:lastmodified":1472640102,
-    "wof:name":"Palace Theater",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "production",
-        "community"
+    "wof:country": "US",
+    "wof:created": 1461785838,
+    "wof:geomhash": "6b470e5a45f4ab9cf152d5054b952f77",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689949257
+      }
+    ],
+    "wof:id": 689949257,
+    "wof:lastmodified": 1638567119,
+    "wof:name": "Palace Theater",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "production",
+      "community"
     ]
-},
+  },
   "bbox": [
     -83.13357,
     40.588549,
     -83.13357,
     40.588549
-],
-  "geometry": {"coordinates":[-83.13357000000001,40.588549],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.13357,40.588549],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706252501,
   "type": "Feature",
   "properties": {
-    "addr:full":"6569 State Rte 305 Hartford OH 44424",
-    "addr:housenumber":"6569",
-    "addr:postcode":"44424",
-    "addr:street":"State Rte 305",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.573362,41.311626,-80.573362,41.311626",
-    "geom:latitude":41.311626,
-    "geom:longitude":-80.573362,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6569 State Rte 305",
-    "sg:city":"Hartford",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "6569 State Rte 305 Hartford OH 44424",
+    "addr:housenumber": "6569",
+    "addr:postcode": "44424",
+    "addr:street": "State Rte 305",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.573362,41.311626,-80.573362,41.311626",
+    "geom:latitude": 41.311626,
+    "geom:longitude": -80.573362,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6569 State Rte 305",
+    "sg:city": "Hartford",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 772 2211",
-    "sg:postcode":"44424",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 772 2211",
+    "sg:postcode": "44424",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ItaYEXOynhi9mIdvevuaN_41.311626_-80.573362@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6ItaYEXOynhi9mIdvevuaN_41.311626_-80.573362@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799249,
-    "wof:geomhash":"79a3c08ac933951c484cebd640830c7b",
-    "wof:hierarchy":[],
-    "wof:id":706252501,
-    "wof:lastmodified":1472639598,
-    "wof:name":"Hartford Fire Dept",
-    "wof:parent_id":420535301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461799249,
+    "wof:geomhash": "8df7c7ccaf743dce1c683881032055c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706252501
+      }
+    ],
+    "wof:id": 706252501,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Hartford Fire Dept",
+    "wof:parent_id": 420535301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.573362,
     41.311626,
     -80.573362,
     41.311626
-],
+  ],
   "geometry": {"coordinates":[-80.573362,41.311626],"type":"Point"}
 }

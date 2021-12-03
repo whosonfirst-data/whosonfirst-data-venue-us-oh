@@ -2,63 +2,67 @@
   "id": 706422479,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 Hospital Dr Batavia OH 45103",
-    "addr:housenumber":"1100",
-    "addr:postcode":"45103",
-    "addr:street":"Hospital Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.146546,39.080274,-84.146546,39.080274",
-    "geom:latitude":39.080274,
-    "geom:longitude":-84.146546,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1100 Hospital Dr",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1100 Hospital Dr Batavia OH 45103",
+    "addr:housenumber": "1100",
+    "addr:postcode": "45103",
+    "addr:street": "Hospital Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.146546,39.080274,-84.146546,39.080274",
+    "geom:latitude": 39.080274,
+    "geom:longitude": -84.146546,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1100 Hospital Dr",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 475 8690",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 475 8690",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6JUHiz62ANz7E2FcYsEkzY_39.080274_-84.146546@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6JUHiz62ANz7E2FcYsEkzY_39.080274_-84.146546@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802839,
-    "wof:geomhash":"4899d80f6cf9d4ebe1e1364810548cad",
-    "wof:hierarchy":[],
-    "wof:id":706422479,
-    "wof:lastmodified":1472640006,
-    "wof:name":"Anthony F Guanciale MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802839,
+    "wof:geomhash": "b26699275f87fd2a1bee15e3cf7ffb3f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706422479
+      }
+    ],
+    "wof:id": 706422479,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Anthony F Guanciale MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.146546,
     39.080274,
     -84.146546,
     39.080274
-],
+  ],
   "geometry": {"coordinates":[-84.146546,39.080274],"type":"Point"}
 }

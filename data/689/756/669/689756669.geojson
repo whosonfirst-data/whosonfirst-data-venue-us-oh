@@ -2,61 +2,65 @@
   "id": 689756669,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 E Main St Mc Arthur OH 45651",
-    "addr:housenumber":"105",
-    "addr:postcode":"45651",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.478925,39.246713,-82.478925,39.246713",
-    "geom:latitude":39.246713,
-    "geom:longitude":-82.478925,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 E Main St",
-    "sg:city":"Mc Arthur",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "105 E Main St Mc Arthur OH 45651",
+    "addr:housenumber": "105",
+    "addr:postcode": "45651",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.478925,39.246713,-82.478925,39.246713",
+    "geom:latitude": 39.246713,
+    "geom:longitude": -82.478925,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 E Main St",
+    "sg:city": "Mc Arthur",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 596 2500",
-    "sg:postcode":"45651",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 596 2500",
+    "sg:postcode": "45651",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7AYSb1LOvz77aV7F2iWmQ3_39.246713_-82.478925@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7AYSb1LOvz77aV7F2iWmQ3_39.246713_-82.478925@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780628,
-    "wof:geomhash":"11adb0b56e86decdd54b6d7f2453c312",
-    "wof:hierarchy":[],
-    "wof:id":689756669,
-    "wof:lastmodified":1472639798,
-    "wof:name":"Main Street Diner",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461780628,
+    "wof:geomhash": "c741aac727b36b4cd81a9b0f4320f216",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689756669
+      }
+    ],
+    "wof:id": 689756669,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "Main Street Diner",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.478925,
     39.246713,
     -82.478925,
     39.246713
-],
+  ],
   "geometry": {"coordinates":[-82.478925,39.246713],"type":"Point"}
 }

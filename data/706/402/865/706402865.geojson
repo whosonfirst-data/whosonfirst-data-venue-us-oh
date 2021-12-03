@@ -2,63 +2,67 @@
   "id": 706402865,
   "type": "Feature",
   "properties": {
-    "addr:full":"203 Eileen St Rayland OH 43943",
-    "addr:housenumber":"203",
-    "addr:postcode":"43943",
-    "addr:street":"Eileen St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.723738,40.158935,-80.723738,40.158935",
-    "geom:latitude":40.158935,
-    "geom:longitude":-80.723738,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"203 Eileen St",
-    "sg:city":"Rayland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "203 Eileen St Rayland OH 43943",
+    "addr:housenumber": "203",
+    "addr:postcode": "43943",
+    "addr:street": "Eileen St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.723738,40.158935,-80.723738,40.158935",
+    "geom:latitude": 40.158935,
+    "geom:longitude": -80.723738,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "203 Eileen St",
+    "sg:city": "Rayland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 859 1122",
-    "sg:postcode":"43943",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 859 1122",
+    "sg:postcode": "43943",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_54PmB90klquhIzvIpQJpbV_40.158935_-80.723738@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_54PmB90klquhIzvIpQJpbV_40.158935_-80.723738@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802456,
-    "wof:geomhash":"3bd800d852216cbf639a366b746cd007",
-    "wof:hierarchy":[],
-    "wof:id":706402865,
-    "wof:lastmodified":1472639999,
-    "wof:name":"Attic Storage",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461802456,
+    "wof:geomhash": "6340a2e740bd3d79cac1ae1f1a0424bf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706402865
+      }
+    ],
+    "wof:id": 706402865,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Attic Storage",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -80.723738,
     40.158935,
     -80.723738,
     40.158935
-],
+  ],
   "geometry": {"coordinates":[-80.723738,40.158935],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689735965,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Lincoln Ave Swanton OH 43558",
-    "addr:housenumber":"123",
-    "addr:postcode":"43558",
-    "addr:street":"Lincoln Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.890804,41.590559,-83.890804,41.590559",
-    "geom:latitude":41.590559,
-    "geom:longitude":-83.890804,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Lincoln Ave",
-    "sg:city":"Swanton",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "123 Lincoln Ave Swanton OH 43558",
+    "addr:housenumber": "123",
+    "addr:postcode": "43558",
+    "addr:street": "Lincoln Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.890804,41.590559,-83.890804,41.590559",
+    "geom:latitude": 41.590559,
+    "geom:longitude": -83.890804,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Lincoln Ave",
+    "sg:city": "Swanton",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 825 1709",
-    "sg:postcode":"43558",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 825 1709",
+    "sg:postcode": "43558",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1RqtVC4qzDCOSi6Ko8uYZ8_41.590559_-83.890804@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1RqtVC4qzDCOSi6Ko8uYZ8_41.590559_-83.890804@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780097,
-    "wof:geomhash":"7a7abdf4e773dc48909049402597d8f8",
-    "wof:hierarchy":[],
-    "wof:id":689735965,
-    "wof:lastmodified":1472639760,
-    "wof:name":"Scott Haselman",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461780097,
+    "wof:geomhash": "5885a5c31b4027f58382882bb47c8903",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689735965
+      }
+    ],
+    "wof:id": 689735965,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Scott Haselman",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.890804,
     41.590559,
     -83.890804,
     41.590559
-],
+  ],
   "geometry": {"coordinates":[-83.890804,41.590559],"type":"Point"}
 }

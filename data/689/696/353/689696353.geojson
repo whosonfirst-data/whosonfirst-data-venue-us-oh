@@ -2,61 +2,65 @@
   "id": 689696353,
   "type": "Feature",
   "properties": {
-    "addr:full":"768 Spruce Ave Sidney OH 45365",
-    "addr:housenumber":"768",
-    "addr:postcode":"45365",
-    "addr:street":"Spruce Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.164146,40.276999,-84.164146,40.276999",
-    "geom:latitude":40.276999,
-    "geom:longitude":-84.164146,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"768 Spruce Ave",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "768 Spruce Ave Sidney OH 45365",
+    "addr:housenumber": "768",
+    "addr:postcode": "45365",
+    "addr:street": "Spruce Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.164146,40.276999,-84.164146,40.276999",
+    "geom:latitude": 40.276999,
+    "geom:longitude": -84.164146,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "768 Spruce Ave",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 498 0007",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 498 0007",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3iRUVgC4FaZ1sPgPLHfepc_40.276999_-84.164146@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3iRUVgC4FaZ1sPgPLHfepc_40.276999_-84.164146@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779014,
-    "wof:geomhash":"c650119ed6e427dc1e5c03ee4cf98517",
-    "wof:hierarchy":[],
-    "wof:id":689696353,
-    "wof:lastmodified":1472639660,
-    "wof:name":"Frohne Enterprises Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461779014,
+    "wof:geomhash": "71abafda6e300a6f0e7c6dcd617515d5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689696353
+      }
+    ],
+    "wof:id": 689696353,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Frohne Enterprises Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.164146,
     40.276999,
     -84.164146,
     40.276999
-],
+  ],
   "geometry": {"coordinates":[-84.164146,40.276999],"type":"Point"}
 }

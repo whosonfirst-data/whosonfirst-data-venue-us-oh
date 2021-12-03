@@ -2,56 +2,60 @@
   "id": 705910885,
   "type": "Feature",
   "properties": {
-    "addr:full":"1314 Alliance Rd NW Minerva OH 44657",
-    "addr:housenumber":"1314",
-    "addr:postcode":"minerva;44657",
-    "addr:street":"Alliance Rd Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.12247,40.716942,-81.12247,40.716942",
-    "geom:latitude":40.716942,
-    "geom:longitude":-81.12247,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1314 Alliance Rd NW",
-    "sg:city":"Minerva",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1314 Alliance Rd NW Minerva OH 44657",
+    "addr:housenumber": "1314",
+    "addr:postcode": "minerva;44657",
+    "addr:street": "Alliance Rd Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.122470,40.716942,-81.122470,40.716942",
+    "geom:latitude": 40.716942,
+    "geom:longitude": -81.12247,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1314 Alliance Rd NW",
+    "sg:city": "Minerva",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 868 6740",
-    "sg:postcode":"44657",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5vGKlfnHqv3Z3qzpUDzjEK_40.716942_-81.122470@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 868 6740",
+    "sg:postcode": "44657",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5vGKlfnHqv3Z3qzpUDzjEK_40.716942_-81.122470@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791652,
-    "wof:geomhash":"6f9468c5bfd5a2bae212fac214bd4469",
-    "wof:hierarchy":[],
-    "wof:id":705910885,
-    "wof:lastmodified":1472639629,
-    "wof:name":"Minerva Veterinary Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461791652,
+    "wof:geomhash": "062a58fce9192c5448b9c1f3f1571126",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705910885
+      }
+    ],
+    "wof:id": 705910885,
+    "wof:lastmodified": 1638567038,
+    "wof:name": "Minerva Veterinary Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.12247,
     40.716942,
     -81.12247,
     40.716942
-],
-  "geometry": {"coordinates":[-81.12247000000001,40.716942],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.12247,40.716942],"type":"Point"}
 }

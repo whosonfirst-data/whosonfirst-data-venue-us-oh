@@ -2,84 +2,88 @@
   "id": 706568721,
   "type": "Feature",
   "properties": {
-    "addr:full":"2094 Park Ave W Mansfield OH 44906",
-    "addr:housenumber":"2094",
-    "addr:postcode":"44906",
-    "addr:street":"Park Ave W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.589846,40.759724,-82.589846,40.759724",
-    "geom:latitude":40.759724,
-    "geom:longitude":-82.589846,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2094 Park Ave W",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bagels",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2094 Park Ave W Mansfield OH 44906",
+    "addr:housenumber": "2094",
+    "addr:postcode": "44906",
+    "addr:street": "Park Ave W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.589846,40.759724,-82.589846,40.759724",
+    "geom:latitude": 40.759724,
+    "geom:longitude": -82.589846,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2094 Park Ave W",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bagels",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/five-corners/143947-dunkin-donuts/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 6740",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "diner",
-        "pastry"
+    "sg:menulink": "http://www.allmenus.com/oh/five-corners/143947-dunkin-donuts/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 6740",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "diner",
+      "pastry"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420575881,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2U6SNIfr2bXS7LXgGC4waA_40.759724_-82.589846@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420575881,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2U6SNIfr2bXS7LXgGC4waA_40.759724_-82.589846@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806030,
-    "wof:geomhash":"bc3c171f90d6703447326340081e6bea",
-    "wof:hierarchy":[],
-    "wof:id":706568721,
-    "wof:lastmodified":1511319117,
-    "wof:name":"Dunkin' Donuts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "diner",
-        "pastry"
+    "wof:country": "US",
+    "wof:created": 1461806030,
+    "wof:geomhash": "bc3c171f90d6703447326340081e6bea",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706568721
+      }
+    ],
+    "wof:id": 706568721,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Dunkin' Donuts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "diner",
+      "pastry"
     ]
-},
+  },
   "bbox": [
     -82.589846,
     40.759724,
     -82.589846,
     40.759724
-],
-  "geometry": {"coordinates":[-82.58984599999999,40.759724],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.589846,40.759724],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706101893,
   "type": "Feature",
   "properties": {
-    "addr:full":"1028 E Lincoln Way Minerva OH 44657",
-    "addr:housenumber":"1028",
-    "addr:postcode":"44657",
-    "addr:street":"E Lincoln Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.088449,40.738179,-81.088449,40.738179",
-    "geom:latitude":40.738179,
-    "geom:longitude":-81.088449,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1028 E Lincoln Way",
-    "sg:city":"Minerva",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1028 E Lincoln Way Minerva OH 44657",
+    "addr:housenumber": "1028",
+    "addr:postcode": "44657",
+    "addr:street": "E Lincoln Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.088449,40.738179,-81.088449,40.738179",
+    "geom:latitude": 40.738179,
+    "geom:longitude": -81.088449,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1028 E Lincoln Way",
+    "sg:city": "Minerva",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 868 6044",
-    "sg:postcode":"44657",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 868 6044",
+    "sg:postcode": "44657",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3bsKs90zcSGemK2PUiWI6G_40.738179_-81.088449@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3bsKs90zcSGemK2PUiWI6G_40.738179_-81.088449@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795823,
-    "wof:geomhash":"0bfc48ad33efeb255c6ee63b0cc2285a",
-    "wof:hierarchy":[],
-    "wof:id":706101893,
-    "wof:lastmodified":1472639264,
-    "wof:name":"Great Trail Family Practice",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461795823,
+    "wof:geomhash": "d30b1547968cecbd19d5c6b690df3b7f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706101893
+      }
+    ],
+    "wof:id": 706101893,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Great Trail Family Practice",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.088449,
     40.738179,
     -81.088449,
     40.738179
-],
+  ],
   "geometry": {"coordinates":[-81.088449,40.738179],"type":"Point"}
 }

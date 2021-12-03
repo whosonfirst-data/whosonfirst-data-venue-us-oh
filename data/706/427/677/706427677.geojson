@@ -2,63 +2,67 @@
   "id": 706427677,
   "type": "Feature",
   "properties": {
-    "addr:full":"21248 US Hwy 20 Fayette OH 43521",
-    "addr:housenumber":"21248",
-    "addr:postcode":"43521",
-    "addr:street":"Us Hwy 20",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.279269,41.674373,-84.279269,41.674373",
-    "geom:latitude":41.674373,
-    "geom:longitude":-84.279269,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21248 US Hwy 20",
-    "sg:city":"Fayette",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "21248 US Hwy 20 Fayette OH 43521",
+    "addr:housenumber": "21248",
+    "addr:postcode": "43521",
+    "addr:street": "Us Hwy 20",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.279269,41.674373,-84.279269,41.674373",
+    "geom:latitude": 41.674373,
+    "geom:longitude": -84.279269,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21248 US Hwy 20",
+    "sg:city": "Fayette",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 237 2673",
-    "sg:postcode":"43521",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 237 2673",
+    "sg:postcode": "43521",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_40naaIh6OgNzxzXuTV91N4_41.674373_-84.279269@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_40naaIh6OgNzxzXuTV91N4_41.674373_-84.279269@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802933,
-    "wof:geomhash":"6d539375a3ace8aba7a71ef0ab3e984f",
-    "wof:hierarchy":[],
-    "wof:id":706427677,
-    "wof:lastmodified":1472640015,
-    "wof:name":"H & S Transport",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461802933,
+    "wof:geomhash": "2ac2935b8061050fc34ddcedef03b3d1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706427677
+      }
+    ],
+    "wof:id": 706427677,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "H \u0026 S Transport",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.279269,
     41.674373,
     -84.279269,
     41.674373
-],
+  ],
   "geometry": {"coordinates":[-84.279269,41.674373],"type":"Point"}
 }

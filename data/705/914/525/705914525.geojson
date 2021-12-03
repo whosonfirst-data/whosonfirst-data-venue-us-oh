@@ -2,63 +2,67 @@
   "id": 705914525,
   "type": "Feature",
   "properties": {
-    "addr:full":"917 Main St Delta OH 43515",
-    "addr:housenumber":"917",
-    "addr:postcode":"43515",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.997061,41.57411,-83.997061,41.57411",
-    "geom:latitude":41.57411,
-    "geom:longitude":-83.997061,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"917 Main St",
-    "sg:city":"Delta",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "917 Main St Delta OH 43515",
+    "addr:housenumber": "917",
+    "addr:postcode": "43515",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.997061,41.574110,-83.997061,41.574110",
+    "geom:latitude": 41.57411,
+    "geom:longitude": -83.997061,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "917 Main St",
+    "sg:city": "Delta",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 822 9786",
-    "sg:postcode":"43515",
-    "sg:province":"OH",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 822 9786",
+    "sg:postcode": "43515",
+    "sg:province": "OH",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_73eYr8YlYDxAoUrLUYjOSe_41.574110_-83.997061@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_73eYr8YlYDxAoUrLUYjOSe_41.574110_-83.997061@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791736,
-    "wof:geomhash":"61cc3eb5956a8f0741e70c155579ea17",
-    "wof:hierarchy":[],
-    "wof:id":705914525,
-    "wof:lastmodified":1472639604,
-    "wof:name":"Delta Super Wash",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:country": "US",
+    "wof:created": 1461791736,
+    "wof:geomhash": "f0d5955549792d97473a6b5bfec3be12",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705914525
+      }
+    ],
+    "wof:id": 705914525,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Delta Super Wash",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -83.997061,
     41.57411,
     -83.997061,
     41.57411
-],
+  ],
   "geometry": {"coordinates":[-83.997061,41.57411],"type":"Point"}
 }

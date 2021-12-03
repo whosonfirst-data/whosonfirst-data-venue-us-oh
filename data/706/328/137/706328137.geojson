@@ -2,63 +2,67 @@
   "id": 706328137,
   "type": "Feature",
   "properties": {
-    "addr:full":"620 Elm St Portsmouth OH 45662",
-    "addr:housenumber":"620",
-    "addr:postcode":"45662",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.970798,38.735637,-82.970798,38.735637",
-    "geom:latitude":38.735637,
-    "geom:longitude":-82.970798,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"620 Elm St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "620 Elm St Portsmouth OH 45662",
+    "addr:housenumber": "620",
+    "addr:postcode": "45662",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.970798,38.735637,-82.970798,38.735637",
+    "geom:latitude": 38.735637,
+    "geom:longitude": -82.970798,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "620 Elm St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 353 6303",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "city",
-        "program"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 353 6303",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "city",
+      "program"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2D7040nBL0wBKbm8qIUf4Z_38.735637_-82.970798@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2D7040nBL0wBKbm8qIUf4Z_38.735637_-82.970798@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800949,
-    "wof:geomhash":"02bf8f0ccbbec925dd393156759e9c7c",
-    "wof:hierarchy":[],
-    "wof:id":706328137,
-    "wof:lastmodified":1472639814,
-    "wof:name":"Portsmouth Solid Waste Trnsfr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city",
-        "program"
+    "wof:country": "US",
+    "wof:created": 1461800949,
+    "wof:geomhash": "88fc1b353f4a2f634a49f0745271d9ae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706328137
+      }
+    ],
+    "wof:id": 706328137,
+    "wof:lastmodified": 1638567088,
+    "wof:name": "Portsmouth Solid Waste Trnsfr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city",
+      "program"
     ]
-},
+  },
   "bbox": [
     -82.970798,
     38.735637,
     -82.970798,
     38.735637
-],
+  ],
   "geometry": {"coordinates":[-82.970798,38.735637],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706244987,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 N Church St New Carlisle OH 45344",
-    "addr:housenumber":"315",
-    "addr:postcode":"45344",
-    "addr:street":"N Church St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.026095,39.93953,-84.026095,39.93953",
-    "geom:latitude":39.93953,
-    "geom:longitude":-84.026095,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"315 N Church St",
-    "sg:city":"New Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "315 N Church St New Carlisle OH 45344",
+    "addr:housenumber": "315",
+    "addr:postcode": "45344",
+    "addr:street": "N Church St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.026095,39.939530,-84.026095,39.939530",
+    "geom:latitude": 39.93953,
+    "geom:longitude": -84.026095,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "315 N Church St",
+    "sg:city": "New Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 845 8401",
-    "sg:postcode":"45344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 845 8401",
+    "sg:postcode": "45344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1DzbV7UA3rMTkvmK3AhqAI_39.939530_-84.026095@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1DzbV7UA3rMTkvmK3AhqAI_39.939530_-84.026095@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799070,
-    "wof:geomhash":"cf6dd9c9debf741c9d02e26f9e213069",
-    "wof:hierarchy":[],
-    "wof:id":706244987,
-    "wof:lastmodified":1472639587,
-    "wof:name":"New Carlisle Fire Division",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461799070,
+    "wof:geomhash": "772ee01d6dde500300233b7d80b940ba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706244987
+      }
+    ],
+    "wof:id": 706244987,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "New Carlisle Fire Division",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.026095,
     39.93953,
     -84.026095,
     39.93953
-],
+  ],
   "geometry": {"coordinates":[-84.026095,39.93953],"type":"Point"}
 }

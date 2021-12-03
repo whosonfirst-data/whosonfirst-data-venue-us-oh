@@ -2,61 +2,65 @@
   "id": 706362599,
   "type": "Feature",
   "properties": {
-    "addr:full":"335 N Chestnut St St Marys OH 45885",
-    "addr:housenumber":"335",
-    "addr:postcode":"45885",
-    "addr:street":"N Chestnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.387523,40.54575,-84.387523,40.54575",
-    "geom:latitude":40.54575,
-    "geom:longitude":-84.387523,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"335 N Chestnut St",
-    "sg:city":"St Marys",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Electric",
-            "type":"Services"
-        }
+    "addr:full": "335 N Chestnut St St Marys OH 45885",
+    "addr:housenumber": "335",
+    "addr:postcode": "45885",
+    "addr:street": "N Chestnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.387523,40.545750,-84.387523,40.545750",
+    "geom:latitude": 40.54575,
+    "geom:longitude": -84.387523,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "335 N Chestnut St",
+    "sg:city": "St Marys",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Electric",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 394 5332",
-    "sg:postcode":"45885",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 394 5332",
+    "sg:postcode": "45885",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5xRasCbb3CtHdL3q4MYMbi_40.545750_-84.387523@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5xRasCbb3CtHdL3q4MYMbi_40.545750_-84.387523@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801662,
-    "wof:geomhash":"4daed430ea43dd35629509745c179788",
-    "wof:hierarchy":[],
-    "wof:id":706362599,
-    "wof:lastmodified":1472639929,
-    "wof:name":"Power Plant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company"
+    "wof:country": "US",
+    "wof:created": 1461801662,
+    "wof:geomhash": "333b642cbca5a98eeb50a65dff7bcfd7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706362599
+      }
+    ],
+    "wof:id": 706362599,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Power Plant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company"
     ]
-},
+  },
   "bbox": [
     -84.387523,
     40.54575,
     -84.387523,
     40.54575
-],
+  ],
   "geometry": {"coordinates":[-84.387523,40.54575],"type":"Point"}
 }

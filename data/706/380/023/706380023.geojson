@@ -2,61 +2,65 @@
   "id": 706380023,
   "type": "Feature",
   "properties": {
-    "addr:full":"4120 Manchester Ave Perry OH 44081",
-    "addr:housenumber":"4120",
-    "addr:postcode":"44081",
-    "addr:street":"Manchester Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.141079,41.769039,-81.141079,41.769039",
-    "geom:latitude":41.769039,
-    "geom:longitude":-81.141079,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4120 Manchester Ave",
-    "sg:city":"Perry",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "4120 Manchester Ave Perry OH 44081",
+    "addr:housenumber": "4120",
+    "addr:postcode": "44081",
+    "addr:street": "Manchester Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.141079,41.769039,-81.141079,41.769039",
+    "geom:latitude": 41.769039,
+    "geom:longitude": -81.141079,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4120 Manchester Ave",
+    "sg:city": "Perry",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 259 0040",
-    "sg:postcode":"44081",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appraiser"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 259 0040",
+    "sg:postcode": "44081",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appraiser"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2MieK9EbCLlCvAGpb62fAz_41.769039_-81.141079@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2MieK9EbCLlCvAGpb62fAz_41.769039_-81.141079@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802007,
-    "wof:geomhash":"699d5f826b9e45c4ff272c0a2504b59d",
-    "wof:hierarchy":[],
-    "wof:id":706380023,
-    "wof:lastmodified":1472639943,
-    "wof:name":"Allen Real Estate Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appraiser"
+    "wof:country": "US",
+    "wof:created": 1461802007,
+    "wof:geomhash": "92b6fb2fea01ab4919a0780d9736f2f3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706380023
+      }
+    ],
+    "wof:id": 706380023,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Allen Real Estate Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appraiser"
     ]
-},
+  },
   "bbox": [
     -81.141079,
     41.769039,
     -81.141079,
     41.769039
-],
+  ],
   "geometry": {"coordinates":[-81.141079,41.769039],"type":"Point"}
 }

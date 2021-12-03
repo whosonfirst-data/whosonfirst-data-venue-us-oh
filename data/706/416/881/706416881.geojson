@@ -2,61 +2,65 @@
   "id": 706416881,
   "type": "Feature",
   "properties": {
-    "addr:full":"32 N Front St Burbank OH 44270",
-    "addr:housenumber":"32",
-    "addr:postcode":"44270",
-    "addr:street":"N Front St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.994881,40.98852,-81.994881,40.98852",
-    "geom:latitude":40.98852,
-    "geom:longitude":-81.994881,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"32 N Front St",
-    "sg:city":"Burbank",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "32 N Front St Burbank OH 44270",
+    "addr:housenumber": "32",
+    "addr:postcode": "44270",
+    "addr:street": "N Front St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.994881,40.988520,-81.994881,40.988520",
+    "geom:latitude": 40.98852,
+    "geom:longitude": -81.994881,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "32 N Front St",
+    "sg:city": "Burbank",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 624 9200",
-    "sg:postcode":"44270",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 624 9200",
+    "sg:postcode": "44270",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_77jKkiXbfK7b5OzFfoXNPL_40.988520_-81.994881@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_77jKkiXbfK7b5OzFfoXNPL_40.988520_-81.994881@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802732,
-    "wof:geomhash":"89780484048798240b642a3c36769679",
-    "wof:hierarchy":[],
-    "wof:id":706416881,
-    "wof:lastmodified":1472640006,
-    "wof:name":"Burbank Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461802732,
+    "wof:geomhash": "d33d54207cc5c873c0a01719e96f5b56",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706416881
+      }
+    ],
+    "wof:id": 706416881,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Burbank Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -81.994881,
     40.98852,
     -81.994881,
     40.98852
-],
-  "geometry": {"coordinates":[-81.99488100000001,40.98852],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.994881,40.98852],"type":"Point"}
 }

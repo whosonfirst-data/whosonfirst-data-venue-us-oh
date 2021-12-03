@@ -2,61 +2,65 @@
   "id": 689868087,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Van Gundy Dr Bryan OH 43506",
-    "addr:housenumber":"201",
-    "addr:postcode":"43506",
-    "addr:street":"Van Gundy Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.571691,41.476464,-84.571691,41.476464",
-    "geom:latitude":41.476464,
-    "geom:longitude":-84.571691,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"201 Van Gundy Dr",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "201 Van Gundy Dr Bryan OH 43506",
+    "addr:housenumber": "201",
+    "addr:postcode": "43506",
+    "addr:street": "Van Gundy Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.571691,41.476464,-84.571691,41.476464",
+    "geom:latitude": 41.476464,
+    "geom:longitude": -84.571691,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "201 Van Gundy Dr",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 4202",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 4202",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0e8Kr41VMNnK1csevjNekz_41.476464_-84.571691@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0e8Kr41VMNnK1csevjNekz_41.476464_-84.571691@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783740,
-    "wof:geomhash":"96efb5640c2906b76d7b9c9e883bc9e1",
-    "wof:hierarchy":[],
-    "wof:id":689868087,
-    "wof:lastmodified":1472639940,
-    "wof:name":"Family Dental Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461783740,
+    "wof:geomhash": "b874b0b563ed7a0e4abdf26273d17131",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689868087
+      }
+    ],
+    "wof:id": 689868087,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Family Dental Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.571691,
     41.476464,
     -84.571691,
     41.476464
-],
+  ],
   "geometry": {"coordinates":[-84.571691,41.476464],"type":"Point"}
 }

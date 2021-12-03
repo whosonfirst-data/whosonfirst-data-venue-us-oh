@@ -2,61 +2,65 @@
   "id": 689553237,
   "type": "Feature",
   "properties": {
-    "addr:full":"108 Main St Glenmont OH 44628",
-    "addr:housenumber":"108",
-    "addr:postcode":"44628",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.098276,40.519991,-82.098276,40.519991",
-    "geom:latitude":40.519991,
-    "geom:longitude":-82.098276,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"108 Main St",
-    "sg:city":"Glenmont",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "108 Main St Glenmont OH 44628",
+    "addr:housenumber": "108",
+    "addr:postcode": "44628",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.098276,40.519991,-82.098276,40.519991",
+    "geom:latitude": 40.519991,
+    "geom:longitude": -82.098276,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "108 Main St",
+    "sg:city": "Glenmont",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 377 4179",
-    "sg:postcode":"44628",
-    "sg:province":"OH",
-    "sg:tags":[
-        "city"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 377 4179",
+    "sg:postcode": "44628",
+    "sg:province": "OH",
+    "sg:tags": [
+      "city"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6m0ILrGxhdmKXEyOJX2vn5_40.519991_-82.098276@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6m0ILrGxhdmKXEyOJX2vn5_40.519991_-82.098276@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774826,
-    "wof:geomhash":"2e6160d34302431138e3f2a192ad8d9c",
-    "wof:hierarchy":[],
-    "wof:id":689553237,
-    "wof:lastmodified":1472639229,
-    "wof:name":"Glenmont Town Hall",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city"
+    "wof:country": "US",
+    "wof:created": 1461774826,
+    "wof:geomhash": "efe5c288a5367fb4978cd9b1783f81f2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689553237
+      }
+    ],
+    "wof:id": 689553237,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "Glenmont Town Hall",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city"
     ]
-},
+  },
   "bbox": [
     -82.098276,
     40.519991,
     -82.098276,
     40.519991
-],
+  ],
   "geometry": {"coordinates":[-82.098276,40.519991],"type":"Point"}
 }

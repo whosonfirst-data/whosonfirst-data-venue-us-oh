@@ -2,65 +2,69 @@
   "id": 706131433,
   "type": "Feature",
   "properties": {
-    "addr:full":"1201 S Portland St Bryan OH 43506",
-    "addr:housenumber":"1201",
-    "addr:postcode":"43506",
-    "addr:street":"S Portland St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.555861,41.4622,-84.555861,41.4622",
-    "geom:latitude":41.4622,
-    "geom:longitude":-84.555861,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1201 S Portland St",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Adult Care",
-            "type":"Services"
-        }
+    "addr:full": "1201 S Portland St Bryan OH 43506",
+    "addr:housenumber": "1201",
+    "addr:postcode": "43506",
+    "addr:street": "S Portland St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.555861,41.462200,-84.555861,41.462200",
+    "geom:latitude": 41.4622,
+    "geom:longitude": -84.555861,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1201 S Portland St",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 4047",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "organization",
-        "senior",
-        "citizen"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 4047",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "organization",
+      "senior",
+      "citizen"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5bMxtvwC6LrAd5gtig6WKX_41.462200_-84.555861@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5bMxtvwC6LrAd5gtig6WKX_41.462200_-84.555861@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796555,
-    "wof:geomhash":"9f0ec45150d5da9f9f2c43c74592a095",
-    "wof:hierarchy":[],
-    "wof:id":706131433,
-    "wof:lastmodified":1472639311,
-    "wof:name":"Bryan Senior Dining Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "organization",
-        "senior",
-        "citizen"
+    "wof:country": "US",
+    "wof:created": 1461796555,
+    "wof:geomhash": "debef2a5a66a90b26c6f6870a9ca68e0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706131433
+      }
+    ],
+    "wof:id": 706131433,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Bryan Senior Dining Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organization",
+      "senior",
+      "citizen"
     ]
-},
+  },
   "bbox": [
     -84.555861,
     41.4622,
     -84.555861,
     41.4622
-],
-  "geometry": {"coordinates":[-84.55586099999999,41.4622],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.555861,41.4622],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689648177,
   "type": "Feature",
   "properties": {
-    "addr:full":"920 Wapakoneta Ave Sidney OH 45365",
-    "addr:housenumber":"920",
-    "addr:postcode":"45365",
-    "addr:street":"Wapakoneta Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.157173,40.295368,-84.157173,40.295368",
-    "geom:latitude":40.295368,
-    "geom:longitude":-84.157173,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"920 Wapakoneta Ave",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Travel Agent",
-            "type":"Entertainment"
-        }
+    "addr:full": "920 Wapakoneta Ave Sidney OH 45365",
+    "addr:housenumber": "920",
+    "addr:postcode": "45365",
+    "addr:street": "Wapakoneta Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.157173,40.295368,-84.157173,40.295368",
+    "geom:latitude": 40.295368,
+    "geom:longitude": -84.157173,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "920 Wapakoneta Ave",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Travel Agent",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 498 1375",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "agency"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 498 1375",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "agency"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3le2wvNLWEKJSV01qOlFZ8_40.295368_-84.157173@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3le2wvNLWEKJSV01qOlFZ8_40.295368_-84.157173@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777818,
-    "wof:geomhash":"1a8cb177ece8a1a32e98f6a0025bf086",
-    "wof:hierarchy":[],
-    "wof:id":689648177,
-    "wof:lastmodified":1472639513,
-    "wof:name":"Travel To Paradise",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "agency"
+    "wof:country": "US",
+    "wof:created": 1461777818,
+    "wof:geomhash": "b1645abd3911f0876d7f5fe0157035dc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689648177
+      }
+    ],
+    "wof:id": 689648177,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Travel To Paradise",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "agency"
     ]
-},
+  },
   "bbox": [
     -84.157173,
     40.295368,
     -84.157173,
     40.295368
-],
+  ],
   "geometry": {"coordinates":[-84.157173,40.295368],"type":"Point"}
 }

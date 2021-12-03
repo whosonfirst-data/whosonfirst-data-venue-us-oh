@@ -2,61 +2,65 @@
   "id": 705793237,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Jefferson St Greenfield OH 45123",
-    "addr:housenumber":"300",
-    "addr:postcode":"45123",
-    "addr:street":"Jefferson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.382978,39.3516,-83.382978,39.3516",
-    "geom:latitude":39.3516,
-    "geom:longitude":-83.382978,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"300 Jefferson St",
-    "sg:city":"Greenfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "300 Jefferson St Greenfield OH 45123",
+    "addr:housenumber": "300",
+    "addr:postcode": "45123",
+    "addr:street": "Jefferson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.382978,39.351600,-83.382978,39.351600",
+    "geom:latitude": 39.3516,
+    "geom:longitude": -83.382978,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "300 Jefferson St",
+    "sg:city": "Greenfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 981 3500",
-    "sg:postcode":"45123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "city"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 981 3500",
+    "sg:postcode": "45123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "city"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3OxA3KWUVpGqpKCN2UGbw5_39.351600_-83.382978@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3OxA3KWUVpGqpKCN2UGbw5_39.351600_-83.382978@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788862,
-    "wof:geomhash":"a1cb80cf07e6859617f1b834fccd9e92",
-    "wof:hierarchy":[],
-    "wof:id":705793237,
-    "wof:lastmodified":1472639239,
-    "wof:name":"Greenfield Mayor's Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city"
+    "wof:country": "US",
+    "wof:created": 1461788862,
+    "wof:geomhash": "3d28d95169208cd6d7e9dedb3c9680bf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705793237
+      }
+    ],
+    "wof:id": 705793237,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Greenfield Mayor's Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city"
     ]
-},
+  },
   "bbox": [
     -83.382978,
     39.3516,
     -83.382978,
     39.3516
-],
-  "geometry": {"coordinates":[-83.38297799999999,39.3516],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.382978,39.3516],"type":"Point"}
 }

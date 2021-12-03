@@ -2,56 +2,60 @@
   "id": 689833193,
   "type": "Feature",
   "properties": {
-    "addr:full":"5264 US Hwy 40 Tipp City OH 45371",
-    "addr:housenumber":"5264",
-    "addr:postcode":"45371",
-    "addr:street":"Us Hwy 40",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.120756,39.898639,-84.120756,39.898639",
-    "geom:latitude":39.898639,
-    "geom:longitude":-84.120756,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5264 US Hwy 40",
-    "sg:city":"Tipp City",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5264 US Hwy 40 Tipp City OH 45371",
+    "addr:housenumber": "5264",
+    "addr:postcode": "45371",
+    "addr:street": "Us Hwy 40",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.120756,39.898639,-84.120756,39.898639",
+    "geom:latitude": 39.898639,
+    "geom:longitude": -84.120756,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5264 US Hwy 40",
+    "sg:city": "Tipp City",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 667 8267",
-    "sg:postcode":"45371",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3KA7gjwNuWyVXpShX5mGp2_39.898639_-84.120756@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 667 8267",
+    "sg:postcode": "45371",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3KA7gjwNuWyVXpShX5mGp2_39.898639_-84.120756@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782936,
-    "wof:geomhash":"d8c0cf06f1b8dfc2ba5142528506f406",
-    "wof:hierarchy":[],
-    "wof:id":689833193,
-    "wof:lastmodified":1472639901,
-    "wof:name":"Joe's Little Bike Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461782936,
+    "wof:geomhash": "3e52cd525d288a2995f87bb60eebf4f5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689833193
+      }
+    ],
+    "wof:id": 689833193,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Joe's Little Bike Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.120756,
     39.898639,
     -84.120756,
     39.898639
-],
+  ],
   "geometry": {"coordinates":[-84.120756,39.898639],"type":"Point"}
 }

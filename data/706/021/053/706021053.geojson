@@ -2,61 +2,65 @@
   "id": 706021053,
   "type": "Feature",
   "properties": {
-    "addr:full":"373 Enterprise Dr Westerville OH 43081",
-    "addr:housenumber":"373",
-    "addr:postcode":"43081",
-    "addr:street":"Enterprise Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.012309,40.155971,-83.012309,40.155971",
-    "geom:latitude":40.155971,
-    "geom:longitude":-83.012309,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"373 Enterprise Dr",
-    "sg:city":"Westerville",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "373 Enterprise Dr Westerville OH 43081",
+    "addr:housenumber": "373",
+    "addr:postcode": "43081",
+    "addr:street": "Enterprise Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.012309,40.155971,-83.012309,40.155971",
+    "geom:latitude": 40.155971,
+    "geom:longitude": -83.012309,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "373 Enterprise Dr",
+    "sg:city": "Westerville",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 848 4888",
-    "sg:postcode":"43081",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 848 4888",
+    "sg:postcode": "43081",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1g8Fp19ZjwRzWd68zL7PN0_40.155971_-83.012309@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1g8Fp19ZjwRzWd68zL7PN0_40.155971_-83.012309@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794030,
-    "wof:geomhash":"9691d998e78787259639831582ac53f4",
-    "wof:hierarchy":[],
-    "wof:id":706021053,
-    "wof:lastmodified":1472638598,
-    "wof:name":"Odyssey Press Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial"
+    "wof:country": "US",
+    "wof:created": 1461794030,
+    "wof:geomhash": "5a50bb95a4c71409c86b0e937497194d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706021053
+      }
+    ],
+    "wof:id": 706021053,
+    "wof:lastmodified": 1638566944,
+    "wof:name": "Odyssey Press Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -83.012309,
     40.155971,
     -83.012309,
     40.155971
-],
+  ],
   "geometry": {"coordinates":[-83.012309,40.155971],"type":"Point"}
 }

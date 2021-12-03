@@ -2,61 +2,65 @@
   "id": 705760953,
   "type": "Feature",
   "properties": {
-    "addr:full":"3940 Martin Luther King Jr Dr Cleveland OH 44105",
-    "addr:housenumber":"3940",
-    "addr:postcode":"44105",
-    "addr:street":"Martin Luther King Jr Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.602853,41.452225,-81.602853,41.452225",
-    "geom:latitude":41.452225,
-    "geom:longitude":-81.602853,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3940 Martin Luther King Jr Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3940 Martin Luther King Jr Dr Cleveland OH 44105",
+    "addr:housenumber": "3940",
+    "addr:postcode": "44105",
+    "addr:street": "Martin Luther King Jr Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.602853,41.452225,-81.602853,41.452225",
+    "geom:latitude": 41.452225,
+    "geom:longitude": -81.602853,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3940 Martin Luther King Jr Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 341 1132",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 341 1132",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2DcGFl6cj5J56FdjEkDyRP_41.452225_-81.602853@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2DcGFl6cj5J56FdjEkDyRP_41.452225_-81.602853@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788106,
-    "wof:geomhash":"11f2696d53954e59918f500d1459b62c",
-    "wof:hierarchy":[],
-    "wof:id":705760953,
-    "wof:lastmodified":1472639208,
-    "wof:name":"Bethany Christian Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461788106,
+    "wof:geomhash": "083446baed69988d0a7ec03bfdbb8aa0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705760953
+      }
+    ],
+    "wof:id": 705760953,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Bethany Christian Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.602853,
     41.452225,
     -81.602853,
     41.452225
-],
+  ],
   "geometry": {"coordinates":[-81.602853,41.452225],"type":"Point"}
 }

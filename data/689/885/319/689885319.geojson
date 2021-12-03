@@ -2,61 +2,65 @@
   "id": 689885319,
   "type": "Feature",
   "properties": {
-    "addr:full":"113 S Scioto St Circleville OH 43113",
-    "addr:housenumber":"113",
-    "addr:postcode":"43113",
-    "addr:street":"S Scioto St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.947885,39.602602,-82.947885,39.602602",
-    "geom:latitude":39.602602,
-    "geom:longitude":-82.947885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"113 S Scioto St",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "113 S Scioto St Circleville OH 43113",
+    "addr:housenumber": "113",
+    "addr:postcode": "43113",
+    "addr:street": "S Scioto St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.947885,39.602602,-82.947885,39.602602",
+    "geom:latitude": 39.602602,
+    "geom:longitude": -82.947885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "113 S Scioto St",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 420 3261",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 420 3261",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4UUgf9n0ag8uMgpWRIiBFm_39.602602_-82.947885@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4UUgf9n0ag8uMgpWRIiBFm_39.602602_-82.947885@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784181,
-    "wof:geomhash":"09984526ad729e72096099c8d511331f",
-    "wof:hierarchy":[],
-    "wof:id":689885319,
-    "wof:lastmodified":1472640060,
-    "wof:name":"Bygone Discovery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461784181,
+    "wof:geomhash": "07d78ed9a6133f88b59fa8694ce0e676",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689885319
+      }
+    ],
+    "wof:id": 689885319,
+    "wof:lastmodified": 1638567096,
+    "wof:name": "Bygone Discovery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -82.947885,
     39.602602,
     -82.947885,
     39.602602
-],
+  ],
   "geometry": {"coordinates":[-82.947885,39.602602],"type":"Point"}
 }

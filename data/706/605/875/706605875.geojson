@@ -2,61 +2,65 @@
   "id": 706605875,
   "type": "Feature",
   "properties": {
-    "addr:full":"30619 Pinetree Rd Cleveland OH 44124",
-    "addr:housenumber":"30619",
-    "addr:postcode":"44124",
-    "addr:street":"Pinetree Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.461197,41.462399,-81.461197,41.462399",
-    "geom:latitude":41.462399,
-    "geom:longitude":-81.461197,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30619 Pinetree Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Shoes",
-            "type":"Retail Goods"
-        }
+    "addr:full": "30619 Pinetree Rd Cleveland OH 44124",
+    "addr:housenumber": "30619",
+    "addr:postcode": "44124",
+    "addr:street": "Pinetree Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.461197,41.462399,-81.461197,41.462399",
+    "geom:latitude": 41.462399,
+    "geom:longitude": -81.461197,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "30619 Pinetree Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Shoes",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 831 9606",
-    "sg:postcode":"44124",
-    "sg:province":"OH",
-    "sg:tags":[
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 831 9606",
+    "sg:postcode": "44124",
+    "sg:province": "OH",
+    "sg:tags": [
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2LA55pk2aeRly7QgE0iNdR_41.462399_-81.461197@1303262754"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2LA55pk2aeRly7QgE0iNdR_41.462399_-81.461197@1303262754"
     },
-    "wof:country":"US",
-    "wof:created":1461806848,
-    "wof:geomhash":"29ee762f5de97f9d2f1a147f89ddbfe0",
-    "wof:hierarchy":[],
-    "wof:id":706605875,
-    "wof:lastmodified":1472640231,
-    "wof:name":"Knuth Shoes",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "store"
+    "wof:country": "US",
+    "wof:created": 1461806848,
+    "wof:geomhash": "e43eeb96ec9d13c21649f19571104936",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706605875
+      }
+    ],
+    "wof:id": 706605875,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Knuth Shoes",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "store"
     ]
-},
+  },
   "bbox": [
     -81.461197,
     41.462399,
     -81.461197,
     41.462399
-],
+  ],
   "geometry": {"coordinates":[-81.461197,41.462399],"type":"Point"}
 }

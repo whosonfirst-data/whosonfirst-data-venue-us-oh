@@ -2,63 +2,67 @@
   "id": 706419321,
   "type": "Feature",
   "properties": {
-    "addr:full":"130 Hill St Bucyrus OH 44820",
-    "addr:housenumber":"130",
-    "addr:postcode":"44820",
-    "addr:street":"Hill St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.97604,40.815612,-82.97604,40.815612",
-    "geom:latitude":40.815612,
-    "geom:longitude":-82.97604,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"130 Hill St",
-    "sg:city":"Bucyrus",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "130 Hill St Bucyrus OH 44820",
+    "addr:housenumber": "130",
+    "addr:postcode": "44820",
+    "addr:street": "Hill St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.976040,40.815612,-82.976040,40.815612",
+    "geom:latitude": 40.815612,
+    "geom:longitude": -82.97604,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "130 Hill St",
+    "sg:city": "Bucyrus",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 562 4675",
-    "sg:postcode":"44820",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 562 4675",
+    "sg:postcode": "44820",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3GfXWhzdzcXrpSnbvrki1u_40.815612_-82.976040@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3GfXWhzdzcXrpSnbvrki1u_40.815612_-82.976040@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802778,
-    "wof:geomhash":"cb0826980d32b7e2c2261828fb11d114",
-    "wof:hierarchy":[],
-    "wof:id":706419321,
-    "wof:lastmodified":1472640000,
-    "wof:name":"Bucyrus Family Medicine",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802778,
+    "wof:geomhash": "775ca427bda0e262ee9f44e9ff43fa31",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706419321
+      }
+    ],
+    "wof:id": 706419321,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Bucyrus Family Medicine",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.97604,
     40.815612,
     -82.97604,
     40.815612
-],
+  ],
   "geometry": {"coordinates":[-82.97604,40.815612],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706343579,
   "type": "Feature",
   "properties": {
-    "addr:full":"104 S Elm St Prospect OH 43342",
-    "addr:housenumber":"104",
-    "addr:postcode":"43342",
-    "addr:street":"S Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.188158,40.450485,-83.188158,40.450485",
-    "geom:latitude":40.450485,
-    "geom:longitude":-83.188158,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"104 S Elm St",
-    "sg:city":"Prospect",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "104 S Elm St Prospect OH 43342",
+    "addr:housenumber": "104",
+    "addr:postcode": "43342",
+    "addr:street": "S Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.188158,40.450485,-83.188158,40.450485",
+    "geom:latitude": 40.450485,
+    "geom:longitude": -83.188158,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "104 S Elm St",
+    "sg:city": "Prospect",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 494 9966",
-    "sg:postcode":"43342",
-    "sg:province":"OH",
-    "sg:tags":[
-        "monument"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 494 9966",
+    "sg:postcode": "43342",
+    "sg:province": "OH",
+    "sg:tags": [
+      "monument"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6kxwoXRYblAp2S8ViK686o_40.450485_-83.188158@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6kxwoXRYblAp2S8ViK686o_40.450485_-83.188158@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801275,
-    "wof:geomhash":"87235d4b1b93c55f52d9acb11eacc3a0",
-    "wof:hierarchy":[],
-    "wof:id":706343579,
-    "wof:lastmodified":1472639853,
-    "wof:name":"Delphos Granite Works",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "monument"
+    "wof:country": "US",
+    "wof:created": 1461801275,
+    "wof:geomhash": "79016bb7d196dab38d295657f6b8cdf4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706343579
+      }
+    ],
+    "wof:id": 706343579,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Delphos Granite Works",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "monument"
     ]
-},
+  },
   "bbox": [
     -83.188158,
     40.450485,
     -83.188158,
     40.450485
-],
+  ],
   "geometry": {"coordinates":[-83.188158,40.450485],"type":"Point"}
 }

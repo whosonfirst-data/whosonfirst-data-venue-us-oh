@@ -2,61 +2,65 @@
   "id": 689885491,
   "type": "Feature",
   "properties": {
-    "addr:full":"7000 S Edgerton Rd Brecksville OH 44141",
-    "addr:housenumber":"7000",
-    "addr:postcode":"44141",
-    "addr:street":"S Edgerton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.640552,41.291714,-81.640552,41.291714",
-    "geom:latitude":41.291714,
-    "geom:longitude":-81.640552,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7000 S Edgerton Rd",
-    "sg:city":"Brecksville",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Life Insurance",
-            "type":"Services"
-        }
+    "addr:full": "7000 S Edgerton Rd Brecksville OH 44141",
+    "addr:housenumber": "7000",
+    "addr:postcode": "44141",
+    "addr:street": "S Edgerton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.640552,41.291714,-81.640552,41.291714",
+    "geom:latitude": 41.291714,
+    "geom:longitude": -81.640552,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7000 S Edgerton Rd",
+    "sg:city": "Brecksville",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Life Insurance",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 838 1200",
-    "sg:postcode":"44141",
-    "sg:province":"OH",
-    "sg:tags":[
-        "carrier"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 838 1200",
+    "sg:postcode": "44141",
+    "sg:province": "OH",
+    "sg:tags": [
+      "carrier"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6oqt9gMuBXY6Okpu9ugGiS_41.291714_-81.640552@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6oqt9gMuBXY6Okpu9ugGiS_41.291714_-81.640552@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784186,
-    "wof:geomhash":"727011e4ed09fecce04c9fa048856981",
-    "wof:hierarchy":[],
-    "wof:id":689885491,
-    "wof:lastmodified":1472640092,
-    "wof:name":"William Penn Association",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "carrier"
+    "wof:country": "US",
+    "wof:created": 1461784186,
+    "wof:geomhash": "ecc590dcfbbe4a3a00ff32141973fff8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689885491
+      }
+    ],
+    "wof:id": 689885491,
+    "wof:lastmodified": 1638567096,
+    "wof:name": "William Penn Association",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "carrier"
     ]
-},
+  },
   "bbox": [
     -81.640552,
     41.291714,
     -81.640552,
     41.291714
-],
+  ],
   "geometry": {"coordinates":[-81.640552,41.291714],"type":"Point"}
 }

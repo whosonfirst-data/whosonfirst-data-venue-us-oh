@@ -2,60 +2,64 @@
   "id": 706469545,
   "type": "Feature",
   "properties": {
-    "addr:full":"143 Main St Benton Ridge OH 45816",
-    "addr:housenumber":"143",
-    "addr:postcode":"45816",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.794409,41.004633,-83.794409,41.004633",
-    "geom:latitude":41.004633,
-    "geom:longitude":-83.794409,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"143 Main St",
-    "sg:city":"Benton Ridge",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "143 Main St Benton Ridge OH 45816",
+    "addr:housenumber": "143",
+    "addr:postcode": "45816",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.794409,41.004633,-83.794409,41.004633",
+    "geom:latitude": 41.004633,
+    "geom:longitude": -83.794409,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "143 Main St",
+    "sg:city": "Benton Ridge",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 859 2151",
-    "sg:postcode":"45816",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573749,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3633569006,
-        "sg:id":"SG_4vvWkkCgSbAOY7OgnwHzcu_41.004633_-83.794409@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 859 2151",
+    "sg:postcode": "45816",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573749,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3633569006,
+      "sg:id": "SG_4vvWkkCgSbAOY7OgnwHzcu_41.004633_-83.794409@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803839,
-    "wof:geomhash":"9c5d34eeee98338181c4741c1c274b74",
-    "wof:hierarchy":[],
-    "wof:id":706469545,
-    "wof:lastmodified":1511320734,
-    "wof:name":"US Post Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461803839,
+    "wof:geomhash": "9c5d34eeee98338181c4741c1c274b74",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706469545
+      }
+    ],
+    "wof:id": 706469545,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "US Post Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.794409,
     41.004633,
     -83.794409,
     41.004633
-],
+  ],
   "geometry": {"coordinates":[-83.794409,41.004633],"type":"Point"}
 }

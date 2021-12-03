@@ -2,63 +2,67 @@
   "id": 706040315,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Oak St Marion OH 43302",
-    "addr:housenumber":"200",
-    "addr:postcode":"43302",
-    "addr:street":"Oak St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.131953,40.59017,-83.131953,40.59017",
-    "geom:latitude":40.59017,
-    "geom:longitude":-83.131953,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 Oak St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "200 Oak St Marion OH 43302",
+    "addr:housenumber": "200",
+    "addr:postcode": "43302",
+    "addr:street": "Oak St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.131953,40.590170,-83.131953,40.590170",
+    "geom:latitude": 40.59017,
+    "geom:longitude": -83.131953,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 Oak St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 375 5925",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 375 5925",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_777bLs6ZuQ47bmTG3TWhEC_40.590170_-83.131953@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_777bLs6ZuQ47bmTG3TWhEC_40.590170_-83.131953@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794412,
-    "wof:geomhash":"79cb9041e995cb88f94f14254a6d2d68",
-    "wof:hierarchy":[],
-    "wof:id":706040315,
-    "wof:lastmodified":1472638926,
-    "wof:name":"Kevin's Auto Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461794412,
+    "wof:geomhash": "45e4f0d2bf56b239dbffb2919402eac8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706040315
+      }
+    ],
+    "wof:id": 706040315,
+    "wof:lastmodified": 1638566961,
+    "wof:name": "Kevin's Auto Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.131953,
     40.59017,
     -83.131953,
     40.59017
-],
+  ],
   "geometry": {"coordinates":[-83.131953,40.59017],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706013783,
   "type": "Feature",
   "properties": {
-    "addr:full":"146 12th St NE New Philadelphia OH 44663",
-    "addr:housenumber":"146",
-    "addr:postcode":"44663",
-    "addr:street":"12Th St Ne",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.427316,40.480887,-81.427316,40.480887",
-    "geom:latitude":40.480887,
-    "geom:longitude":-81.427316,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"146 12th St NE",
-    "sg:city":"New Philadelphia",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "146 12th St NE New Philadelphia OH 44663",
+    "addr:housenumber": "146",
+    "addr:postcode": "44663",
+    "addr:street": "12Th St Ne",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.427316,40.480887,-81.427316,40.480887",
+    "geom:latitude": 40.480887,
+    "geom:longitude": -81.427316,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "146 12th St NE",
+    "sg:city": "New Philadelphia",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 343 6134",
-    "sg:postcode":"44663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 343 6134",
+    "sg:postcode": "44663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6g9g074IEzoG4q8H2D2lHT_40.480887_-81.427316@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6g9g074IEzoG4q8H2D2lHT_40.480887_-81.427316@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793873,
-    "wof:geomhash":"e8544245be1f58aa1f7d63bf0f2effd2",
-    "wof:hierarchy":[],
-    "wof:id":706013783,
-    "wof:lastmodified":1472638483,
-    "wof:name":"Potters House Christian Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793873,
+    "wof:geomhash": "0826229c982720bd928e8338705428e5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706013783
+      }
+    ],
+    "wof:id": 706013783,
+    "wof:lastmodified": 1638566936,
+    "wof:name": "Potters House Christian Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.427316,
     40.480887,
     -81.427316,
     40.480887
-],
+  ],
   "geometry": {"coordinates":[-81.427316,40.480887],"type":"Point"}
 }

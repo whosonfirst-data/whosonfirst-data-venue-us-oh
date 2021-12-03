@@ -2,61 +2,65 @@
   "id": 689483055,
   "type": "Feature",
   "properties": {
-    "addr:full":"60201 Christian Hill Rd Cambridge OH 43725",
-    "addr:housenumber":"60201",
-    "addr:postcode":"43725",
-    "addr:street":"Christian Hill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.617694,39.958626,-81.617694,39.958626",
-    "geom:latitude":39.958626,
-    "geom:longitude":-81.617694,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"60201 Christian Hill Rd",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Plumbing",
-            "type":"Services"
-        }
+    "addr:full": "60201 Christian Hill Rd Cambridge OH 43725",
+    "addr:housenumber": "60201",
+    "addr:postcode": "43725",
+    "addr:street": "Christian Hill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.617694,39.958626,-81.617694,39.958626",
+    "geom:latitude": 39.958626,
+    "geom:longitude": -81.617694,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "60201 Christian Hill Rd",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 432 1785",
-    "sg:postcode":"43725",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 432 1785",
+    "sg:postcode": "43725",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_35unQUrngNN8xjHb40c7KB_39.958626_-81.617694@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_35unQUrngNN8xjHb40c7KB_39.958626_-81.617694@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772611,
-    "wof:geomhash":"c4014a9abb0279dca46692921a3ecf87",
-    "wof:hierarchy":[],
-    "wof:id":689483055,
-    "wof:lastmodified":1472638492,
-    "wof:name":"Gregg Services",
-    "wof:parent_id":420534845,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461772611,
+    "wof:geomhash": "915cf6d3cc811c1b193457ab668e4277",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689483055
+      }
+    ],
+    "wof:id": 689483055,
+    "wof:lastmodified": 1638566929,
+    "wof:name": "Gregg Services",
+    "wof:parent_id": 420534845,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.617694,
     39.958626,
     -81.617694,
     39.958626
-],
+  ],
   "geometry": {"coordinates":[-81.617694,39.958626],"type":"Point"}
 }

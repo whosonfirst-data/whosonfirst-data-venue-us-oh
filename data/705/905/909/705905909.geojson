@@ -2,65 +2,69 @@
   "id": 705905909,
   "type": "Feature",
   "properties": {
-    "addr:full":"2119 Echo Rd Stow OH 44224",
-    "addr:housenumber":"2119",
-    "addr:postcode":"44224",
-    "addr:street":"Echo Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.437623,41.153139,-81.437623,41.153139",
-    "geom:latitude":41.153139,
-    "geom:longitude":-81.437623,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2119 Echo Rd",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2119 Echo Rd Stow OH 44224",
+    "addr:housenumber": "2119",
+    "addr:postcode": "44224",
+    "addr:street": "Echo Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.437623,41.153139,-81.437623,41.153139",
+    "geom:latitude": 41.153139,
+    "geom:longitude": -81.437623,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2119 Echo Rd",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 688 0689",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 688 0689",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Q7HEthAn1Iqv5MvK2sZK5_41.153139_-81.437623@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Q7HEthAn1Iqv5MvK2sZK5_41.153139_-81.437623@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791542,
-    "wof:geomhash":"0b0496ca05867bd5492dd43d5adcb23c",
-    "wof:hierarchy":[],
-    "wof:id":705905909,
-    "wof:lastmodified":1472639572,
-    "wof:name":"Gary Haney Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461791542,
+    "wof:geomhash": "352c1c6075f572efd9d2cad0ecee4145",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705905909
+      }
+    ],
+    "wof:id": 705905909,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Gary Haney Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.437623,
     41.153139,
     -81.437623,
     41.153139
-],
+  ],
   "geometry": {"coordinates":[-81.437623,41.153139],"type":"Point"}
 }

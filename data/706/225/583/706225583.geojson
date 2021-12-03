@@ -2,68 +2,72 @@
   "id": 706225583,
   "type": "Feature",
   "properties": {
-    "addr:full":"5321 Lee Rd Cleveland OH 44137",
-    "addr:housenumber":"5321",
-    "addr:postcode":"44137",
-    "addr:street":"Lee Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.565905,41.416643,-81.565905,41.416643",
-    "geom:latitude":41.416643,
-    "geom:longitude":-81.565905,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5321 Lee Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5321 Lee Rd Cleveland OH 44137",
+    "addr:housenumber": "5321",
+    "addr:postcode": "44137",
+    "addr:street": "Lee Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.565905,41.416643,-81.565905,41.416643",
+    "geom:latitude": 41.416643,
+    "geom:longitude": -81.565905,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5321 Lee Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 663 3950",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 663 3950",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ZfclVhdqI4Ig8xoHHvzfK_41.416643_-81.565905@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ZfclVhdqI4Ig8xoHHvzfK_41.416643_-81.565905@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798616,
-    "wof:geomhash":"e9f1c339695aa2d84ca7a2868246cb1b",
-    "wof:hierarchy":[],
-    "wof:id":706225583,
-    "wof:lastmodified":1472639532,
-    "wof:name":"United Petroleum Marketing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461798616,
+    "wof:geomhash": "f7a826b835ef2e5d780b4c8ae6b11c58",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706225583
+      }
+    ],
+    "wof:id": 706225583,
+    "wof:lastmodified": 1638567050,
+    "wof:name": "United Petroleum Marketing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -81.565905,
     41.416643,
     -81.565905,
     41.416643
-],
+  ],
   "geometry": {"coordinates":[-81.565905,41.416643],"type":"Point"}
 }

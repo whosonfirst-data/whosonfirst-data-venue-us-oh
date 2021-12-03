@@ -2,61 +2,65 @@
   "id": 705730529,
   "type": "Feature",
   "properties": {
-    "addr:full":"525 N Diamond St Ravenna OH 44266",
-    "addr:housenumber":"525",
-    "addr:postcode":"44266",
-    "addr:street":"N Diamond St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.253101,41.164247,-81.253101,41.164247",
-    "geom:latitude":41.164247,
-    "geom:longitude":-81.253101,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"525 N Diamond St",
-    "sg:city":"Ravenna",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "525 N Diamond St Ravenna OH 44266",
+    "addr:housenumber": "525",
+    "addr:postcode": "44266",
+    "addr:street": "N Diamond St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.253101,41.164247,-81.253101,41.164247",
+    "geom:latitude": 41.164247,
+    "geom:longitude": -81.253101,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "525 N Diamond St",
+    "sg:city": "Ravenna",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 296 5774",
-    "sg:postcode":"44266",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 296 5774",
+    "sg:postcode": "44266",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3zfsSFLrPBIz5Vrd8GI2dR_41.164247_-81.253101@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3zfsSFLrPBIz5Vrd8GI2dR_41.164247_-81.253101@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787419,
-    "wof:geomhash":"5118080b18c905bb70c08fd8b71e877a",
-    "wof:hierarchy":[],
-    "wof:id":705730529,
-    "wof:lastmodified":1472638904,
-    "wof:name":"City Of Refuge Warehouse",
-    "wof:parent_id":420535149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461787419,
+    "wof:geomhash": "b1fac3d2c165064afc94a49e83d6882d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705730529
+      }
+    ],
+    "wof:id": 705730529,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "City Of Refuge Warehouse",
+    "wof:parent_id": 420535149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.253101,
     41.164247,
     -81.253101,
     41.164247
-],
+  ],
   "geometry": {"coordinates":[-81.253101,41.164247],"type":"Point"}
 }

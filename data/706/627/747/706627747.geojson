@@ -2,63 +2,67 @@
   "id": 706627747,
   "type": "Feature",
   "properties": {
-    "addr:full":"635 W 7th St Ste 309 Cincinnati OH 45203",
-    "addr:housenumber":"635",
-    "addr:postcode":"45203",
-    "addr:street":"W 7Th St Ste 309",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.525667,39.102376,-84.525667,39.102376",
-    "geom:latitude":39.102376,
-    "geom:longitude":-84.525667,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"635 W 7th St Ste 309",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Dentist",
-            "type":"Services"
-        }
+    "addr:full": "635 W 7th St Ste 309 Cincinnati OH 45203",
+    "addr:housenumber": "635",
+    "addr:postcode": "45203",
+    "addr:street": "W 7Th St Ste 309",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.525667,39.102376,-84.525667,39.102376",
+    "geom:latitude": 39.102376,
+    "geom:longitude": -84.525667,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "635 W 7th St Ste 309",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Dentist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 621 2517",
-    "sg:postcode":"45203",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dental",
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 621 2517",
+    "sg:postcode": "45203",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dental",
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1WncW6oECygXZi9on8flta_39.102376_-84.525667@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1WncW6oECygXZi9on8flta_39.102376_-84.525667@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807304,
-    "wof:geomhash":"a461617dfe378545a9f7ea4b7454ea9b",
-    "wof:hierarchy":[],
-    "wof:id":706627747,
-    "wof:lastmodified":1472640253,
-    "wof:name":"Donated Dental Services",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dental",
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461807304,
+    "wof:geomhash": "34dd18250f36ba97ae5041eecd83cc1b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706627747
+      }
+    ],
+    "wof:id": 706627747,
+    "wof:lastmodified": 1638567148,
+    "wof:name": "Donated Dental Services",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dental",
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -84.525667,
     39.102376,
     -84.525667,
     39.102376
-],
+  ],
   "geometry": {"coordinates":[-84.525667,39.102376],"type":"Point"}
 }

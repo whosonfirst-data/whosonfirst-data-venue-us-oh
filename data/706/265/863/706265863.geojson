@@ -2,63 +2,67 @@
   "id": 706265863,
   "type": "Feature",
   "properties": {
-    "addr:full":"247 W Washington St Sabina OH 45169",
-    "addr:housenumber":"247",
-    "addr:postcode":"45169",
-    "addr:street":"W Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.640564,39.487943,-83.640564,39.487943",
-    "geom:latitude":39.487943,
-    "geom:longitude":-83.640564,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"247 W Washington St",
-    "sg:city":"Sabina",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "247 W Washington St Sabina OH 45169",
+    "addr:housenumber": "247",
+    "addr:postcode": "45169",
+    "addr:street": "W Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.640564,39.487943,-83.640564,39.487943",
+    "geom:latitude": 39.487943,
+    "geom:longitude": -83.640564,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "247 W Washington St",
+    "sg:city": "Sabina",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 584 9246",
-    "sg:postcode":"45169",
-    "sg:province":"OH",
-    "sg:tags":[
-        "lock",
-        "locksmith"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 584 9246",
+    "sg:postcode": "45169",
+    "sg:province": "OH",
+    "sg:tags": [
+      "lock",
+      "locksmith"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5SkfOvUraxMgAPN9P3S21s_39.487943_-83.640564@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5SkfOvUraxMgAPN9P3S21s_39.487943_-83.640564@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799518,
-    "wof:geomhash":"ed423d0701d14f25520314da9d9e6759",
-    "wof:hierarchy":[],
-    "wof:id":706265863,
-    "wof:lastmodified":1472639626,
-    "wof:name":"Wilmington Lock Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lock",
-        "locksmith"
+    "wof:country": "US",
+    "wof:created": 1461799518,
+    "wof:geomhash": "4fca6622797e3f3e38e25d120e237503",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706265863
+      }
+    ],
+    "wof:id": 706265863,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Wilmington Lock Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lock",
+      "locksmith"
     ]
-},
+  },
   "bbox": [
     -83.640564,
     39.487943,
     -83.640564,
     39.487943
-],
+  ],
   "geometry": {"coordinates":[-83.640564,39.487943],"type":"Point"}
 }

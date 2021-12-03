@@ -2,61 +2,65 @@
   "id": 706440211,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 Mock St SE Hubbard OH 44425",
-    "addr:housenumber":"20",
-    "addr:postcode":"44425",
-    "addr:street":"Mock St Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.567868,41.162595,-80.567868,41.162595",
-    "geom:latitude":41.162595,
-    "geom:longitude":-80.567868,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 Mock St SE",
-    "sg:city":"Hubbard",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "20 Mock St SE Hubbard OH 44425",
+    "addr:housenumber": "20",
+    "addr:postcode": "44425",
+    "addr:street": "Mock St Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.567868,41.162595,-80.567868,41.162595",
+    "geom:latitude": 41.162595,
+    "geom:longitude": -80.567868,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20 Mock St SE",
+    "sg:city": "Hubbard",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 534 1155",
-    "sg:postcode":"44425",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 534 1155",
+    "sg:postcode": "44425",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6hf33jsfYII2OOVj4z6q3I_41.162595_-80.567868@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6hf33jsfYII2OOVj4z6q3I_41.162595_-80.567868@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803213,
-    "wof:geomhash":"535f88a7d0481a076ca5cbed2f5abfd6",
-    "wof:hierarchy":[],
-    "wof:id":706440211,
-    "wof:lastmodified":1472640019,
-    "wof:name":"Patrick C Thomas Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461803213,
+    "wof:geomhash": "b0e39952c0f398322c6b1ab94b89ec8b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706440211
+      }
+    ],
+    "wof:id": 706440211,
+    "wof:lastmodified": 1638567120,
+    "wof:name": "Patrick C Thomas Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -80.567868,
     41.162595,
     -80.567868,
     41.162595
-],
+  ],
   "geometry": {"coordinates":[-80.567868,41.162595],"type":"Point"}
 }

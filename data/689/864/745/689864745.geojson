@@ -2,61 +2,65 @@
   "id": 689864745,
   "type": "Feature",
   "properties": {
-    "addr:full":"3225 Harding Hwy Lima OH 45804",
-    "addr:housenumber":"3225",
-    "addr:postcode":"45804",
-    "addr:street":"Harding Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.046283,40.73104,-84.046283,40.73104",
-    "geom:latitude":40.73104,
-    "geom:longitude":-84.046283,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3225 Harding Hwy",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "3225 Harding Hwy Lima OH 45804",
+    "addr:housenumber": "3225",
+    "addr:postcode": "45804",
+    "addr:street": "Harding Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.046283,40.731040,-84.046283,40.731040",
+    "geom:latitude": 40.73104,
+    "geom:longitude": -84.046283,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3225 Harding Hwy",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 222 7378",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 222 7378",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6OSxKJdedSafYETsg4Dab3_40.731040_-84.046283@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6OSxKJdedSafYETsg4Dab3_40.731040_-84.046283@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783641,
-    "wof:geomhash":"4c40a27cf203d1093f9848c57ec8e931",
-    "wof:hierarchy":[],
-    "wof:id":689864745,
-    "wof:lastmodified":1472639960,
-    "wof:name":"Adaptive Sleep Diagnostic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461783641,
+    "wof:geomhash": "40efc7565698b3ba33e594a60263a413",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689864745
+      }
+    ],
+    "wof:id": 689864745,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Adaptive Sleep Diagnostic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -84.046283,
     40.73104,
     -84.046283,
     40.73104
-],
+  ],
   "geometry": {"coordinates":[-84.046283,40.73104],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706623167,
   "type": "Feature",
   "properties": {
-    "addr:full":"2220 Marion Avenue Rd Mansfield OH 44903",
-    "addr:housenumber":"2220",
-    "addr:postcode":"44903",
-    "addr:street":"Marion Avenue Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.621743,40.716558,-82.621743,40.716558",
-    "geom:latitude":40.716558,
-    "geom:longitude":-82.621743,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2220 Marion Avenue Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Golf",
-            "type":"Entertainment"
-        }
+    "addr:full": "2220 Marion Avenue Rd Mansfield OH 44903",
+    "addr:housenumber": "2220",
+    "addr:postcode": "44903",
+    "addr:street": "Marion Avenue Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.621743,40.716558,-82.621743,40.716558",
+    "geom:latitude": 40.716558,
+    "geom:longitude": -82.621743,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2220 Marion Avenue Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Golf",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 3777",
-    "sg:postcode":"44903",
-    "sg:province":"OH",
-    "sg:tags":[
-        "course"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 3777",
+    "sg:postcode": "44903",
+    "sg:province": "OH",
+    "sg:tags": [
+      "course"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ftyeiEyz02qgio9kUhuEs_40.716558_-82.621743@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ftyeiEyz02qgio9kUhuEs_40.716558_-82.621743@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807218,
-    "wof:geomhash":"7ce7e5ec9ca084e8101c236a315590b0",
-    "wof:hierarchy":[],
-    "wof:id":706623167,
-    "wof:lastmodified":1472640239,
-    "wof:name":"Twin Lakes Golf Course",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "course"
+    "wof:country": "US",
+    "wof:created": 1461807218,
+    "wof:geomhash": "9b86b47b4c74d89f1f2cc059f7414108",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706623167
+      }
+    ],
+    "wof:id": 706623167,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Twin Lakes Golf Course",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "course"
     ]
-},
+  },
   "bbox": [
     -82.621743,
     40.716558,
     -82.621743,
     40.716558
-],
+  ],
   "geometry": {"coordinates":[-82.621743,40.716558],"type":"Point"}
 }

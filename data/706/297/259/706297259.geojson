@@ -2,63 +2,67 @@
   "id": 706297259,
   "type": "Feature",
   "properties": {
-    "addr:full":"33030 W Main St Piedmont OH 43977",
-    "addr:housenumber":"33030",
-    "addr:postcode":"43977",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.209808,40.188538,-81.209808,40.188538",
-    "geom:latitude":40.188538,
-    "geom:longitude":-81.209808,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33030 W Main St",
-    "sg:city":"Piedmont",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "33030 W Main St Piedmont OH 43977",
+    "addr:housenumber": "33030",
+    "addr:postcode": "43977",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.209808,40.188538,-81.209808,40.188538",
+    "geom:latitude": 40.188538,
+    "geom:longitude": -81.209808,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "33030 W Main St",
+    "sg:city": "Piedmont",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 968 4603",
-    "sg:postcode":"43977",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hall",
-        "auditorium"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 968 4603",
+    "sg:postcode": "43977",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hall",
+      "auditorium"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6hGraVGXIkpHBV50xh83j5_40.188538_-81.209808@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6hGraVGXIkpHBV50xh83j5_40.188538_-81.209808@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800246,
-    "wof:geomhash":"9b75adae0aa6bf2e63d1992ba6016d1b",
-    "wof:hierarchy":[],
-    "wof:id":706297259,
-    "wof:lastmodified":1472639677,
-    "wof:name":"Piedmont Social Hall",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hall",
-        "auditorium"
+    "wof:country": "US",
+    "wof:created": 1461800246,
+    "wof:geomhash": "481006118e69bb879bc92f89b7231766",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706297259
+      }
+    ],
+    "wof:id": 706297259,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Piedmont Social Hall",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hall",
+      "auditorium"
     ]
-},
+  },
   "bbox": [
     -81.209808,
     40.188538,
     -81.209808,
     40.188538
-],
+  ],
   "geometry": {"coordinates":[-81.209808,40.188538],"type":"Point"}
 }

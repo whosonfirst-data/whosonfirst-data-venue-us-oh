@@ -2,65 +2,69 @@
   "id": 706514619,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 Westwind Dr Norwalk OH 44857",
-    "addr:housenumber":"340",
-    "addr:postcode":"44857",
-    "addr:street":"Westwind Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.611931,41.261436,-82.611931,41.261436",
-    "geom:latitude":41.261436,
-    "geom:longitude":-82.611931,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"340 Westwind Dr",
-    "sg:city":"Norwalk",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "340 Westwind Dr Norwalk OH 44857",
+    "addr:housenumber": "340",
+    "addr:postcode": "44857",
+    "addr:street": "Westwind Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.611931,41.261436,-82.611931,41.261436",
+    "geom:latitude": 41.261436,
+    "geom:longitude": -82.611931,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "340 Westwind Dr",
+    "sg:city": "Norwalk",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 663 2212",
-    "sg:postcode":"44857",
-    "sg:province":"OH",
-    "sg:tags":[
-        "discount"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 663 2212",
+    "sg:postcode": "44857",
+    "sg:province": "OH",
+    "sg:tags": [
+      "discount"
     ],
-    "sg:website":"http://www.walmart.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573871,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2tU4JCmENpl5aSxyP1IyOj_41.261366_-82.611852@1293134755"
+    "sg:website": "http://www.walmart.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573871,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2tU4JCmENpl5aSxyP1IyOj_41.261366_-82.611852@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461804932,
-    "wof:geomhash":"6df09ed300dac389f8e960b74514d139",
-    "wof:hierarchy":[],
-    "wof:id":706514619,
-    "wof:lastmodified":1511321829,
-    "wof:name":"Wal-Mart",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "discount"
+    "wof:country": "US",
+    "wof:created": 1461804932,
+    "wof:geomhash": "6df09ed300dac389f8e960b74514d139",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706514619
+      }
+    ],
+    "wof:id": 706514619,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "Wal-Mart",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "discount"
     ]
-},
+  },
   "bbox": [
     -82.611931,
     41.261436,
     -82.611931,
     41.261436
-],
+  ],
   "geometry": {"coordinates":[-82.611931,41.261436],"type":"Point"}
 }

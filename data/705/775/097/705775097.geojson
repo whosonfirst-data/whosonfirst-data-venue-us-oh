@@ -2,61 +2,65 @@
   "id": 705775097,
   "type": "Feature",
   "properties": {
-    "addr:full":"222 S Main St Woodsfield OH 43793",
-    "addr:housenumber":"222",
-    "addr:postcode":"43793",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.11682,39.760792,-81.11682,39.760792",
-    "geom:latitude":39.760792,
-    "geom:longitude":-81.11682,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"222 S Main St",
-    "sg:city":"Woodsfield",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "222 S Main St Woodsfield OH 43793",
+    "addr:housenumber": "222",
+    "addr:postcode": "43793",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.116820,39.760792,-81.116820,39.760792",
+    "geom:latitude": 39.760792,
+    "geom:longitude": -81.11682,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "222 S Main St",
+    "sg:city": "Woodsfield",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 472 1124",
-    "sg:postcode":"43793",
-    "sg:province":"OH",
-    "sg:tags":[
-        "news"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 472 1124",
+    "sg:postcode": "43793",
+    "sg:province": "OH",
+    "sg:tags": [
+      "news"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6V0z1ZIgOf6XPRq7Y9ERT0_39.760792_-81.116820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6V0z1ZIgOf6XPRq7Y9ERT0_39.760792_-81.116820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788430,
-    "wof:geomhash":"c2055cd67cd4a81d333fd1aacb576922",
-    "wof:hierarchy":[],
-    "wof:id":705775097,
-    "wof:lastmodified":1472639214,
-    "wof:name":"Jacksons Newstand",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "news"
+    "wof:country": "US",
+    "wof:created": 1461788430,
+    "wof:geomhash": "569bf3815753cf50358819f4bfec1fef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705775097
+      }
+    ],
+    "wof:id": 705775097,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "Jacksons Newstand",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "news"
     ]
-},
+  },
   "bbox": [
     -81.11682,
     39.760792,
     -81.11682,
     39.760792
-],
+  ],
   "geometry": {"coordinates":[-81.11682,39.760792],"type":"Point"}
 }

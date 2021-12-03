@@ -2,61 +2,65 @@
   "id": 705789611,
   "type": "Feature",
   "properties": {
-    "addr:full":"4400 Rockside Rd Cleveland OH 44131",
-    "addr:housenumber":"4400",
-    "addr:postcode":"44131",
-    "addr:street":"Rockside Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.66349,41.399992,-81.66349,41.399992",
-    "geom:latitude":41.399992,
-    "geom:longitude":-81.66349,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4400 Rockside Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4400 Rockside Rd Cleveland OH 44131",
+    "addr:housenumber": "4400",
+    "addr:postcode": "44131",
+    "addr:street": "Rockside Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.663490,41.399992,-81.663490,41.399992",
+    "geom:latitude": 41.399992,
+    "geom:longitude": -81.66349,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4400 Rockside Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 573 1300",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 573 1300",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6C213ggwPRoTHPeuRVfKgM_41.399992_-81.663490@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6C213ggwPRoTHPeuRVfKgM_41.399992_-81.663490@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788793,
-    "wof:geomhash":"b2a7819ac13ebb63208a8f5e918bbd43",
-    "wof:hierarchy":[],
-    "wof:id":705789611,
-    "wof:lastmodified":1472639260,
-    "wof:name":"Independence Urgent Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461788793,
+    "wof:geomhash": "88e333b6ab1aa3fd24d2ada3dfe39284",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705789611
+      }
+    ],
+    "wof:id": 705789611,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Independence Urgent Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -81.66349,
     41.399992,
     -81.66349,
     41.399992
-],
+  ],
   "geometry": {"coordinates":[-81.66349,41.399992],"type":"Point"}
 }

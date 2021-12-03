@@ -2,65 +2,69 @@
   "id": 705820249,
   "type": "Feature",
   "properties": {
-    "addr:full":"9902 Way Ave Cleveland OH 44105",
-    "addr:housenumber":"9902",
-    "addr:postcode":"44105",
-    "addr:street":"Way Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.615299,41.455791,-81.615299,41.455791",
-    "geom:latitude":41.455791,
-    "geom:longitude":-81.615299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9902 Way Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "9902 Way Ave Cleveland OH 44105",
+    "addr:housenumber": "9902",
+    "addr:postcode": "44105",
+    "addr:street": "Way Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.615299,41.455791,-81.615299,41.455791",
+    "geom:latitude": 41.455791,
+    "geom:longitude": -81.615299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9902 Way Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 341 9656",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 341 9656",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Nm5sPEjzkj87Xx1mXZyS9_41.455791_-81.615299@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Nm5sPEjzkj87Xx1mXZyS9_41.455791_-81.615299@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789490,
-    "wof:geomhash":"20e048561d01841324a67206c8e16b86",
-    "wof:hierarchy":[],
-    "wof:id":705820249,
-    "wof:lastmodified":1472639337,
-    "wof:name":"L & B Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461789490,
+    "wof:geomhash": "0ac7626642b9eb65678beec8897b46fe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705820249
+      }
+    ],
+    "wof:id": 705820249,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "L \u0026 B Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.615299,
     41.455791,
     -81.615299,
     41.455791
-],
-  "geometry": {"coordinates":[-81.61529899999999,41.455791],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.615299,41.455791],"type":"Point"}
 }

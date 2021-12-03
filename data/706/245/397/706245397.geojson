@@ -2,72 +2,76 @@
   "id": 706245397,
   "type": "Feature",
   "properties": {
-    "addr:full":"11914 Winchester Rd Ashville OH 43103",
-    "addr:housenumber":"11914",
-    "addr:postcode":"43103",
-    "addr:street":"Winchester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.86717,39.765561,-82.86717,39.765561",
-    "geom:latitude":39.765561,
-    "geom:longitude":-82.86717,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11914 Winchester Rd",
-    "sg:city":"Ashville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "11914 Winchester Rd Ashville OH 43103",
+    "addr:housenumber": "11914",
+    "addr:postcode": "43103",
+    "addr:street": "Winchester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.867170,39.765561,-82.867170,39.765561",
+    "geom:latitude": 39.765561,
+    "geom:longitude": -82.86717,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11914 Winchester Rd",
+    "sg:city": "Ashville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 983 4481",
-    "sg:postcode":"43103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "excavating",
-        "local",
-        "hauling",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 983 4481",
+    "sg:postcode": "43103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "excavating",
+      "local",
+      "hauling",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6jZLocnd7lRrqKEfUpvpjf_39.765561_-82.867170@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6jZLocnd7lRrqKEfUpvpjf_39.765561_-82.867170@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799079,
-    "wof:geomhash":"c3136f16f16143ac58bfb78add530670",
-    "wof:hierarchy":[],
-    "wof:id":706245397,
-    "wof:lastmodified":1472639578,
-    "wof:name":"Bob's Hauling & Excavating",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "excavating",
-        "local",
-        "hauling",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461799079,
+    "wof:geomhash": "34449db128126dd9299eccd6c13bcd95",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706245397
+      }
+    ],
+    "wof:id": 706245397,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "Bob's Hauling \u0026 Excavating",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "excavating",
+      "local",
+      "hauling",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -82.86717,
     39.765561,
     -82.86717,
     39.765561
-],
+  ],
   "geometry": {"coordinates":[-82.86717,39.765561],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705735471,
   "type": "Feature",
   "properties": {
-    "addr:full":"4215 Main Ave Ashtabula OH 44004",
-    "addr:housenumber":"4215",
-    "addr:postcode":"44004",
-    "addr:street":"Main Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.780927,41.869204,-80.780927,41.869204",
-    "geom:latitude":41.869204,
-    "geom:longitude":-80.780927,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4215 Main Ave",
-    "sg:city":"Ashtabula",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "4215 Main Ave Ashtabula OH 44004",
+    "addr:housenumber": "4215",
+    "addr:postcode": "44004",
+    "addr:street": "Main Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.780927,41.869204,-80.780927,41.869204",
+    "geom:latitude": 41.869204,
+    "geom:longitude": -80.780927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4215 Main Ave",
+    "sg:city": "Ashtabula",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 997 8196",
-    "sg:postcode":"44004",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 997 8196",
+    "sg:postcode": "44004",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7QexBK4j9ZOTdLBt210IJ0_41.869204_-80.780927@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7QexBK4j9ZOTdLBt210IJ0_41.869204_-80.780927@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787542,
-    "wof:geomhash":"12aeb37d91062b9e20d0142ab711c169",
-    "wof:hierarchy":[],
-    "wof:id":705735471,
-    "wof:lastmodified":1472638998,
-    "wof:name":"Mostello Dental Lab",
-    "wof:parent_id":420534553,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461787542,
+    "wof:geomhash": "3e0736ce72ecff9371034ca2c196c86c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705735471
+      }
+    ],
+    "wof:id": 705735471,
+    "wof:lastmodified": 1638566951,
+    "wof:name": "Mostello Dental Lab",
+    "wof:parent_id": 420534553,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -80.780927,
     41.869204,
     -80.780927,
     41.869204
-],
-  "geometry": {"coordinates":[-80.78092700000001,41.869204],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.780927,41.869204],"type":"Point"}
 }

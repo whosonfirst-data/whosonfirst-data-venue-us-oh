@@ -2,63 +2,67 @@
   "id": 705976279,
   "type": "Feature",
   "properties": {
-    "addr:full":"3130 N Co Rd 25A Troy OH 45373",
-    "addr:housenumber":"3130;25a",
-    "addr:postcode":"45373",
-    "addr:street":"N Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.224111,40.089297,-84.224111,40.089297",
-    "geom:latitude":40.089297,
-    "geom:longitude":-84.224111,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3130 N Co Rd 25A",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "3130 N Co Rd 25A Troy OH 45373",
+    "addr:housenumber": "3130;25a",
+    "addr:postcode": "45373",
+    "addr:street": "N Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.224111,40.089297,-84.224111,40.089297",
+    "geom:latitude": 40.089297,
+    "geom:longitude": -84.224111,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3130 N Co Rd 25A",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 335 9633",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 335 9633",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2OIzdxuYxxmzH2IUDYILue_40.089297_-84.224111@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2OIzdxuYxxmzH2IUDYILue_40.089297_-84.224111@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793092,
-    "wof:geomhash":"6a64d128737c7840fa0e7f3b2a5a32a7",
-    "wof:hierarchy":[],
-    "wof:id":705976279,
-    "wof:lastmodified":1472639741,
-    "wof:name":"Upper Valley Kidney Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461793092,
+    "wof:geomhash": "bb179aab40f210bc9b33bdd526414e8a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705976279
+      }
+    ],
+    "wof:id": 705976279,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Upper Valley Kidney Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.224111,
     40.089297,
     -84.224111,
     40.089297
-],
-  "geometry": {"coordinates":[-84.22411099999999,40.089297],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.224111,40.089297],"type":"Point"}
 }

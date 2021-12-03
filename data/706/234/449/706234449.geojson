@@ -2,63 +2,67 @@
   "id": 706234449,
   "type": "Feature",
   "properties": {
-    "addr:full":"254 Chicago Ave Marion OH 43302",
-    "addr:housenumber":"254",
-    "addr:postcode":"43302",
-    "addr:street":"Chicago Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.10545,40.59271,-83.10545,40.59271",
-    "geom:latitude":40.59271,
-    "geom:longitude":-83.10545,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"254 Chicago Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "254 Chicago Ave Marion OH 43302",
+    "addr:housenumber": "254",
+    "addr:postcode": "43302",
+    "addr:street": "Chicago Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.105450,40.592710,-83.105450,40.592710",
+    "geom:latitude": 40.59271,
+    "geom:longitude": -83.10545,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "254 Chicago Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 383 9088",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 383 9088",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_03iYH8FYPrC4G4IqIuJS8Y_40.592710_-83.105450@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_03iYH8FYPrC4G4IqIuJS8Y_40.592710_-83.105450@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798800,
-    "wof:geomhash":"55e5aaad002dbbfaa8c9d40a0b7c6fee",
-    "wof:hierarchy":[],
-    "wof:id":706234449,
-    "wof:lastmodified":1472639571,
-    "wof:name":"S & S Auto Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461798800,
+    "wof:geomhash": "ad1d44b5c1b82f04a0b43a243d9b5302",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706234449
+      }
+    ],
+    "wof:id": 706234449,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "S \u0026 S Auto Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.10545,
     40.59271,
     -83.10545,
     40.59271
-],
+  ],
   "geometry": {"coordinates":[-83.10545,40.59271],"type":"Point"}
 }

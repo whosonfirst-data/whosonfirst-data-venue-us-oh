@@ -2,61 +2,65 @@
   "id": 706244839,
   "type": "Feature",
   "properties": {
-    "addr:full":"496 S Broadway Ave Salem OH 44460",
-    "addr:housenumber":"496",
-    "addr:postcode":"44460",
-    "addr:street":"S Broadway Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.855345,40.896533,-80.855345,40.896533",
-    "geom:latitude":40.896533,
-    "geom:longitude":-80.855345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"496 S Broadway Ave",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "496 S Broadway Ave Salem OH 44460",
+    "addr:housenumber": "496",
+    "addr:postcode": "44460",
+    "addr:street": "S Broadway Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.855345,40.896533,-80.855345,40.896533",
+    "geom:latitude": 40.896533,
+    "geom:longitude": -80.855345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "496 S Broadway Ave",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 337 8074",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 337 8074",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4c5VEC3XeEJziWikb6owMS_40.896533_-80.855345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4c5VEC3XeEJziWikb6owMS_40.896533_-80.855345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799068,
-    "wof:geomhash":"1ae9c9a64f7bfc91807b037ad81d4112",
-    "wof:hierarchy":[],
-    "wof:id":706244839,
-    "wof:lastmodified":1472639584,
-    "wof:name":"Fernengels Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461799068,
+    "wof:geomhash": "148ae3366505697ec86ee0c8a598209c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706244839
+      }
+    ],
+    "wof:id": 706244839,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "Fernengels Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -80.855345,
     40.896533,
     -80.855345,
     40.896533
-],
+  ],
   "geometry": {"coordinates":[-80.855345,40.896533],"type":"Point"}
 }

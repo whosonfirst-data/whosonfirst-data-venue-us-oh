@@ -2,72 +2,76 @@
   "id": 706616911,
   "type": "Feature",
   "properties": {
-    "addr:full":"149 Center St E Warren OH 44481",
-    "addr:housenumber":"149",
-    "addr:postcode":"44481",
-    "addr:street":"Center St E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.847741,41.308419,-80.847741,41.308419",
-    "geom:latitude":41.308419,
-    "geom:longitude":-80.847741,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"149 Center St E",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "149 Center St E Warren OH 44481",
+    "addr:housenumber": "149",
+    "addr:postcode": "44481",
+    "addr:street": "Center St E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.847741,41.308419,-80.847741,41.308419",
+    "geom:latitude": 41.308419,
+    "geom:longitude": -80.847741,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "149 Center St E",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 847 9363",
-    "sg:postcode":"44481",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department",
-        "township",
-        "government-city",
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 847 9363",
+    "sg:postcode": "44481",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department",
+      "township",
+      "government-city",
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0GEkg7kUnZlpkWie895XJw_41.308419_-80.847741@1303262756"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0GEkg7kUnZlpkWie895XJw_41.308419_-80.847741@1303262756"
     },
-    "wof:country":"US",
-    "wof:created":1461807089,
-    "wof:geomhash":"40548ffae7225593f203530b272e4c27",
-    "wof:hierarchy":[],
-    "wof:id":706616911,
-    "wof:lastmodified":1472640236,
-    "wof:name":"Champion Township Police Department",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "township",
-        "government-city",
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461807089,
+    "wof:geomhash": "9d3d8c79761f5f93a5cf343e66ddfc5c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706616911
+      }
+    ],
+    "wof:id": 706616911,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Champion Township Police Department",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "township",
+      "government-city",
+      "village"
     ]
-},
+  },
   "bbox": [
     -80.847741,
     41.308419,
     -80.847741,
     41.308419
-],
+  ],
   "geometry": {"coordinates":[-80.847741,41.308419],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 706465529,
   "type": "Feature",
   "properties": {
-    "addr:full":"915 N Union Ave Alliance OH 44601",
-    "addr:housenumber":"915",
-    "addr:postcode":"44601",
-    "addr:street":"N Union Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.10572,40.932992,-81.10572,40.932992",
-    "geom:latitude":40.932992,
-    "geom:longitude":-81.10572,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"915 N Union Ave",
-    "sg:city":"Alliance",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "915 N Union Ave Alliance OH 44601",
+    "addr:housenumber": "915",
+    "addr:postcode": "44601",
+    "addr:street": "N Union Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.105720,40.932992,-81.105720,40.932992",
+    "geom:latitude": 40.932992,
+    "geom:longitude": -81.10572,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "915 N Union Ave",
+    "sg:city": "Alliance",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 821 9804",
-    "sg:postcode":"44601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop",
-        "coffee",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 821 9804",
+    "sg:postcode": "44601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop",
+      "coffee",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Mqxypl2trO7X4z97KG1oC_40.932992_-81.105720@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Mqxypl2trO7X4z97KG1oC_40.932992_-81.105720@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803759,
-    "wof:geomhash":"bfb783f0e3c7db1d452edab3795129d8",
-    "wof:hierarchy":[],
-    "wof:id":706465529,
-    "wof:lastmodified":1472640076,
-    "wof:name":"Pony Espresso",
-    "wof:parent_id":420535235,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee",
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461803759,
+    "wof:geomhash": "4245a585b7625176e77f2cc7151d0901",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706465529
+      }
+    ],
+    "wof:id": 706465529,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Pony Espresso",
+    "wof:parent_id": 420535235,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.10572,
     40.932992,
     -81.10572,
     40.932992
-],
-  "geometry": {"coordinates":[-81.10572000000001,40.932992],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.10572,40.932992],"type":"Point"}
 }

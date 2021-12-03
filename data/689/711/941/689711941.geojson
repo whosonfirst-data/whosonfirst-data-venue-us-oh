@@ -2,64 +2,68 @@
   "id": 689711941,
   "type": "Feature",
   "properties": {
-    "addr:full":"5109 W Broad St Columbus OH 43228",
-    "addr:housenumber":"5109",
-    "addr:postcode":"43228",
-    "addr:street":"W Broad St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.139383,39.951671,-83.139383,39.951671",
-    "geom:latitude":39.951671,
-    "geom:longitude":-83.139383,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5109 W Broad St",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5109 W Broad St Columbus OH 43228",
+    "addr:housenumber": "5109",
+    "addr:postcode": "43228",
+    "addr:street": "W Broad St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.139383,39.951671,-83.139383,39.951671",
+    "geom:latitude": 39.951671,
+    "geom:longitude": -83.139383,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5109 W Broad St",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 851 3285",
-    "sg:postcode":"43228",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 851 3285",
+    "sg:postcode": "43228",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4uO5r6THiQSb1l8GRTx99t_39.951671_-83.139383@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4uO5r6THiQSb1l8GRTx99t_39.951671_-83.139383@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779447,
-    "wof:geomhash":"2ff076bdca4b28ec54059b89ceb1e53e",
-    "wof:hierarchy":[],
-    "wof:id":689711941,
-    "wof:lastmodified":1491899831,
-    "wof:name":"Doctor's West Expansion",
-    "wof:parent_id":85870293,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461779447,
+    "wof:geomhash": "cb71c5601986e9e1418e1d4e081ab821",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689711941
+      }
+    ],
+    "wof:id": 689711941,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Doctor's West Expansion",
+    "wof:parent_id": 85870293,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.139383,
     39.951671,
     -83.139383,
     39.951671
-],
+  ],
   "geometry": {"coordinates":[-83.139383,39.951671],"type":"Point"}
 }

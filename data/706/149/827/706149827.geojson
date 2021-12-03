@@ -2,65 +2,69 @@
   "id": 706149827,
   "type": "Feature",
   "properties": {
-    "addr:full":"1500 N Ellsworth Ave Salem OH 44460",
-    "addr:housenumber":"1500",
-    "addr:postcode":"44460",
-    "addr:street":"N Ellsworth Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.856529,40.917335,-80.856529,40.917335",
-    "geom:latitude":40.917335,
-    "geom:longitude":-80.856529,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1500 N Ellsworth Ave",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1500 N Ellsworth Ave Salem OH 44460",
+    "addr:housenumber": "1500",
+    "addr:postcode": "44460",
+    "addr:street": "N Ellsworth Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.856529,40.917335,-80.856529,40.917335",
+    "geom:latitude": 40.917335,
+    "geom:longitude": -80.856529,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1500 N Ellsworth Ave",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 337 3774",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 337 3774",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7KksAKpwBJSSFncu56lsyN_40.917335_-80.856529@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7KksAKpwBJSSFncu56lsyN_40.917335_-80.856529@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796981,
-    "wof:geomhash":"3523128194bd77a0c5ff3f9d02ae6699",
-    "wof:hierarchy":[],
-    "wof:id":706149827,
-    "wof:lastmodified":1472639382,
-    "wof:name":"R Kuntzman Trucking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461796981,
+    "wof:geomhash": "1bee566ff1df423a7d0e6710c6630f13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706149827
+      }
+    ],
+    "wof:id": 706149827,
+    "wof:lastmodified": 1638567015,
+    "wof:name": "R Kuntzman Trucking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.856529,
     40.917335,
     -80.856529,
     40.917335
-],
-  "geometry": {"coordinates":[-80.85652899999999,40.917335],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.856529,40.917335],"type":"Point"}
 }

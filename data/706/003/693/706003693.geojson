@@ -2,61 +2,65 @@
   "id": 706003693,
   "type": "Feature",
   "properties": {
-    "addr:full":"529 Kimball Pl Columbus OH 43205",
-    "addr:housenumber":"529",
-    "addr:postcode":"43205",
-    "addr:street":"Kimball Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.963442,39.956375,-82.963442,39.956375",
-    "geom:latitude":39.956375,
-    "geom:longitude":-82.963442,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"529 Kimball Pl",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "529 Kimball Pl Columbus OH 43205",
+    "addr:housenumber": "529",
+    "addr:postcode": "43205",
+    "addr:street": "Kimball Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.963442,39.956375,-82.963442,39.956375",
+    "geom:latitude": 39.956375,
+    "geom:longitude": -82.963442,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "529 Kimball Pl",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 252 7216",
-    "sg:postcode":"43205",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 252 7216",
+    "sg:postcode": "43205",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7HaWnlqEpd5daaYxtBCglr_39.956375_-82.963442@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7HaWnlqEpd5daaYxtBCglr_39.956375_-82.963442@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793650,
-    "wof:geomhash":"287d55dd3864942ebc27c803d44848ba",
-    "wof:hierarchy":[],
-    "wof:id":706003693,
-    "wof:lastmodified":1472638351,
-    "wof:name":"Calvary Faith Mission",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793650,
+    "wof:geomhash": "84f29dee30dd6c122b827229dafd0cc6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706003693
+      }
+    ],
+    "wof:id": 706003693,
+    "wof:lastmodified": 1638566927,
+    "wof:name": "Calvary Faith Mission",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.963442,
     39.956375,
     -82.963442,
     39.956375
-],
+  ],
   "geometry": {"coordinates":[-82.963442,39.956375],"type":"Point"}
 }

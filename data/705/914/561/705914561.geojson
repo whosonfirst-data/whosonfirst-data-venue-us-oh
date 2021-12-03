@@ -2,61 +2,65 @@
   "id": 705914561,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 E Main St Eaton OH 45320",
-    "addr:housenumber":"225",
-    "addr:postcode":"45320",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.63425,39.743884,-84.63425,39.743884",
-    "geom:latitude":39.743884,
-    "geom:longitude":-84.63425,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"225 E Main St",
-    "sg:city":"Eaton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "225 E Main St Eaton OH 45320",
+    "addr:housenumber": "225",
+    "addr:postcode": "45320",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.634250,39.743884,-84.634250,39.743884",
+    "geom:latitude": 39.743884,
+    "geom:longitude": -84.63425,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "225 E Main St",
+    "sg:city": "Eaton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 456 4977",
-    "sg:postcode":"45320",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 456 4977",
+    "sg:postcode": "45320",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5KAUHO82fMkAFWw40ckXnc_39.743884_-84.634250@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5KAUHO82fMkAFWw40ckXnc_39.743884_-84.634250@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791737,
-    "wof:geomhash":"e497e4e91d0c11810e2e086ebe000488",
-    "wof:hierarchy":[],
-    "wof:id":705914561,
-    "wof:lastmodified":1472639612,
-    "wof:name":"Eagles Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:country": "US",
+    "wof:created": 1461791737,
+    "wof:geomhash": "b5327c1691d3bc8df20a7ba7f6c1fda0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705914561
+      }
+    ],
+    "wof:id": 705914561,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Eagles Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -84.63425,
     39.743884,
     -84.63425,
     39.743884
-],
-  "geometry": {"coordinates":[-84.63424999999999,39.743884],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.63425,39.743884],"type":"Point"}
 }

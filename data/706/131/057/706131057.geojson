@@ -2,61 +2,65 @@
   "id": 706131057,
   "type": "Feature",
   "properties": {
-    "addr:full":"917 E Lincoln Way Minerva OH 44657",
-    "addr:housenumber":"917",
-    "addr:postcode":"44657",
-    "addr:street":"E Lincoln Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.090024,40.736944,-81.090024,40.736944",
-    "geom:latitude":40.736944,
-    "geom:longitude":-81.090024,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"917 E Lincoln Way",
-    "sg:city":"Minerva",
-    "sg:classifiers":[
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Bowling",
-            "type":"Entertainment"
-        }
+    "addr:full": "917 E Lincoln Way Minerva OH 44657",
+    "addr:housenumber": "917",
+    "addr:postcode": "44657",
+    "addr:street": "E Lincoln Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.090024,40.736944,-81.090024,40.736944",
+    "geom:latitude": 40.736944,
+    "geom:longitude": -81.090024,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "917 E Lincoln Way",
+    "sg:city": "Minerva",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Bowling",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 868 5210",
-    "sg:postcode":"44657",
-    "sg:province":"OH",
-    "sg:tags":[
-        "alley"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 868 5210",
+    "sg:postcode": "44657",
+    "sg:province": "OH",
+    "sg:tags": [
+      "alley"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4OPaUHVoz7qBryDe41MKJB_40.736944_-81.090024@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4OPaUHVoz7qBryDe41MKJB_40.736944_-81.090024@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796545,
-    "wof:geomhash":"d56989717c61bb65496bad03dcd15e97",
-    "wof:hierarchy":[],
-    "wof:id":706131057,
-    "wof:lastmodified":1472639296,
-    "wof:name":"Minerva Bowl",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "alley"
+    "wof:country": "US",
+    "wof:created": 1461796545,
+    "wof:geomhash": "7f6a015395a74286907d99fa0dbd67cc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706131057
+      }
+    ],
+    "wof:id": 706131057,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Minerva Bowl",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "alley"
     ]
-},
+  },
   "bbox": [
     -81.090024,
     40.736944,
     -81.090024,
     40.736944
-],
+  ],
   "geometry": {"coordinates":[-81.090024,40.736944],"type":"Point"}
 }

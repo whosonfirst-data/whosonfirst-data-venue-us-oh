@@ -2,56 +2,60 @@
   "id": 706245415,
   "type": "Feature",
   "properties": {
-    "addr:full":"2000 N Dayton-Lakeview Rd New Carlisle OH 45344",
-    "addr:housenumber":"2000",
-    "addr:postcode":"45344",
-    "addr:street":"N Dayton-Lakeview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.016907,39.960678,-84.016907,39.960678",
-    "geom:latitude":39.960678,
-    "geom:longitude":-84.016907,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2000 N Dayton-Lakeview Rd",
-    "sg:city":"New Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Chiropractor",
-            "type":"Services"
-        }
+    "addr:full": "2000 N Dayton-Lakeview Rd New Carlisle OH 45344",
+    "addr:housenumber": "2000",
+    "addr:postcode": "45344",
+    "addr:street": "N Dayton-Lakeview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.016907,39.960678,-84.016907,39.960678",
+    "geom:latitude": 39.960678,
+    "geom:longitude": -84.016907,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2000 N Dayton-Lakeview Rd",
+    "sg:city": "New Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Chiropractor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 845 1000",
-    "sg:postcode":"45344",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1q0URg4viiIdJWmdzGVQ4q_39.960678_-84.016907@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 845 1000",
+    "sg:postcode": "45344",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1q0URg4viiIdJWmdzGVQ4q_39.960678_-84.016907@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799080,
-    "wof:geomhash":"d187096831962ac37577bd0948df499c",
-    "wof:hierarchy":[],
-    "wof:id":706245415,
-    "wof:lastmodified":1472639578,
-    "wof:name":"Shore Chiropractic Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461799080,
+    "wof:geomhash": "22137215c88dcc43f67f781555157b91",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706245415
+      }
+    ],
+    "wof:id": 706245415,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "Shore Chiropractic Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.016907,
     39.960678,
     -84.016907,
     39.960678
-],
+  ],
   "geometry": {"coordinates":[-84.016907,39.960678],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706300251,
   "type": "Feature",
   "properties": {
-    "addr:full":"5712 Main St Sylvania OH 43560",
-    "addr:housenumber":"5712",
-    "addr:postcode":"43560",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.703166,41.719128,-83.703166,41.719128",
-    "geom:latitude":41.719128,
-    "geom:longitude":-83.703166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5712 Main St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "5712 Main St Sylvania OH 43560",
+    "addr:housenumber": "5712",
+    "addr:postcode": "43560",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.703166,41.719128,-83.703166,41.719128",
+    "geom:latitude": 41.719128,
+    "geom:longitude": -83.703166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5712 Main St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 2033",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director",
-        "home"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 2033",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director",
+      "home"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_39Y4EmsjtUIPDmdtDCflwh_41.719128_-83.703166@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_39Y4EmsjtUIPDmdtDCflwh_41.719128_-83.703166@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800300,
-    "wof:geomhash":"7c7fcb4731731577a4c409b281a2871d",
-    "wof:hierarchy":[],
-    "wof:id":706300251,
-    "wof:lastmodified":1472639725,
-    "wof:name":"Reeb Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director",
-        "home"
+    "wof:country": "US",
+    "wof:created": 1461800300,
+    "wof:geomhash": "4d70dee2dc5609e10dfe7444b00fb662",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706300251
+      }
+    ],
+    "wof:id": 706300251,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Reeb Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director",
+      "home"
     ]
-},
+  },
   "bbox": [
     -83.703166,
     41.719128,
     -83.703166,
     41.719128
-],
+  ],
   "geometry": {"coordinates":[-83.703166,41.719128],"type":"Point"}
 }

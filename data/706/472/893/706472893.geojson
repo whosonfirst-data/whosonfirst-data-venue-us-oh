@@ -2,63 +2,67 @@
   "id": 706472893,
   "type": "Feature",
   "properties": {
-    "addr:full":"10860 N Shore Dr Hillsboro OH 45133",
-    "addr:housenumber":"10860",
-    "addr:postcode":"45133",
-    "addr:street":"N Shore Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.489107,39.196576,-83.489107,39.196576",
-    "geom:latitude":39.196576,
-    "geom:longitude":-83.489107,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10860 N Shore Dr",
-    "sg:city":"Hillsboro",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "10860 N Shore Dr Hillsboro OH 45133",
+    "addr:housenumber": "10860",
+    "addr:postcode": "45133",
+    "addr:street": "N Shore Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.489107,39.196576,-83.489107,39.196576",
+    "geom:latitude": 39.196576,
+    "geom:longitude": -83.489107,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10860 N Shore Dr",
+    "sg:city": "Hillsboro",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 393 6718",
-    "sg:postcode":"45133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 393 6718",
+    "sg:postcode": "45133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1b2fyvHR60wHkI06yA14FK_39.196576_-83.489107@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1b2fyvHR60wHkI06yA14FK_39.196576_-83.489107@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803905,
-    "wof:geomhash":"2dfb2bd67b7e52d292f5ac96976d85a2",
-    "wof:hierarchy":[],
-    "wof:id":706472893,
-    "wof:lastmodified":1472640110,
-    "wof:name":"North Shore Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461803905,
+    "wof:geomhash": "6c714e599cbfcad42276104cbdda9848",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706472893
+      }
+    ],
+    "wof:id": 706472893,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "North Shore Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -83.489107,
     39.196576,
     -83.489107,
     39.196576
-],
+  ],
   "geometry": {"coordinates":[-83.489107,39.196576],"type":"Point"}
 }

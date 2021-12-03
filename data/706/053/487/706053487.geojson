@@ -2,61 +2,65 @@
   "id": 706053487,
   "type": "Feature",
   "properties": {
-    "addr:full":"4488 Hartman Ln Batavia OH 45103",
-    "addr:housenumber":"4488",
-    "addr:postcode":"45103",
-    "addr:street":"Hartman Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.158232,39.086934,-84.158232,39.086934",
-    "geom:latitude":39.086934,
-    "geom:longitude":-84.158232,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4488 Hartman Ln",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Computer Services",
-            "type":"Services"
-        }
+    "addr:full": "4488 Hartman Ln Batavia OH 45103",
+    "addr:housenumber": "4488",
+    "addr:postcode": "45103",
+    "addr:street": "Hartman Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.158232,39.086934,-84.158232,39.086934",
+    "geom:latitude": 39.086934,
+    "geom:longitude": -84.158232,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4488 Hartman Ln",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 732 1321",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "consultant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 732 1321",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "consultant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3scuGB4aeectMgCDsXSj4D_39.086934_-84.158232@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3scuGB4aeectMgCDsXSj4D_39.086934_-84.158232@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794679,
-    "wof:geomhash":"427c21a130a87072218773ced329148c",
-    "wof:hierarchy":[],
-    "wof:id":706053487,
-    "wof:lastmodified":1472639138,
-    "wof:name":"Custom Computer Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "consultant"
+    "wof:country": "US",
+    "wof:created": 1461794679,
+    "wof:geomhash": "706c7882e622bffccd965b720f721f49",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706053487
+      }
+    ],
+    "wof:id": 706053487,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Custom Computer Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant"
     ]
-},
+  },
   "bbox": [
     -84.158232,
     39.086934,
     -84.158232,
     39.086934
-],
+  ],
   "geometry": {"coordinates":[-84.158232,39.086934],"type":"Point"}
 }

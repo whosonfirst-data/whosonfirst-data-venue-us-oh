@@ -2,65 +2,69 @@
   "id": 706582309,
   "type": "Feature",
   "properties": {
-    "addr:full":"718 Boulevard St Dover OH 44622",
-    "addr:housenumber":"718",
-    "addr:postcode":"44622",
-    "addr:street":"Boulevard St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.455691,40.513419,-81.455691,40.513419",
-    "geom:latitude":40.513419,
-    "geom:longitude":-81.455691,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"718 Boulevard St",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "718 Boulevard St Dover OH 44622",
+    "addr:housenumber": "718",
+    "addr:postcode": "44622",
+    "addr:street": "Boulevard St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.455691,40.513419,-81.455691,40.513419",
+    "geom:latitude": 40.513419,
+    "geom:longitude": -81.455691,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "718 Boulevard St",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/dover/213168-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 343 5148",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/oh/dover/213168-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 343 5148",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5bPLQlxbTptyiiWOU0D9P1_40.513331_-81.455779@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5bPLQlxbTptyiiWOU0D9P1_40.513331_-81.455779@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806370,
-    "wof:geomhash":"009a41adf0b43c1d41728a212c63c3b7",
-    "wof:hierarchy":[],
-    "wof:id":706582309,
-    "wof:lastmodified":1511321265,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461806370,
+    "wof:geomhash": "009a41adf0b43c1d41728a212c63c3b7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706582309
+      }
+    ],
+    "wof:id": 706582309,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -81.455691,
     40.513419,
     -81.455691,
     40.513419
-],
+  ],
   "geometry": {"coordinates":[-81.455691,40.513419],"type":"Point"}
 }

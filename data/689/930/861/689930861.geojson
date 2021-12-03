@@ -2,65 +2,69 @@
   "id": 689930861,
   "type": "Feature",
   "properties": {
-    "addr:full":"131 E 4th St Greenville OH 45331",
-    "addr:housenumber":"131",
-    "addr:postcode":"45331",
-    "addr:street":"E 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.631156,40.10083,-84.631156,40.10083",
-    "geom:latitude":40.10083,
-    "geom:longitude":-84.631156,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"131 E 4th St",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "131 E 4th St Greenville OH 45331",
+    "addr:housenumber": "131",
+    "addr:postcode": "45331",
+    "addr:street": "E 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.631156,40.100830,-84.631156,40.100830",
+    "geom:latitude": 40.10083,
+    "geom:longitude": -84.631156,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "131 E 4th St",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 548 5770",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 548 5770",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"www.stpaulsluth.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125149055,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6leWamrCLgr66q8gTcoOfk_40.100830_-84.631156@1294180530"
+    "sg:website": "www.stpaulsluth.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125149055,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6leWamrCLgr66q8gTcoOfk_40.100830_-84.631156@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785388,
-    "wof:geomhash":"04258e357e8f29fc3219545759da2929",
-    "wof:hierarchy":[],
-    "wof:id":689930861,
-    "wof:lastmodified":1510874545,
-    "wof:name":"St Paul's Lutheran Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461785388,
+    "wof:geomhash": "04258e357e8f29fc3219545759da2929",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689930861
+      }
+    ],
+    "wof:id": 689930861,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "St Paul's Lutheran Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.631156,
     40.10083,
     -84.631156,
     40.10083
-],
+  ],
   "geometry": {"coordinates":[-84.631156,40.10083],"type":"Point"}
 }

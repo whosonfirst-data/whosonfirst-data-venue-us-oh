@@ -2,63 +2,67 @@
   "id": 706284613,
   "type": "Feature",
   "properties": {
-    "addr:full":"2579 Michigan St Sidney OH 45365",
-    "addr:housenumber":"2579",
-    "addr:postcode":"45365",
-    "addr:street":"Michigan St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.19245,40.2877,-84.19245,40.2877",
-    "geom:latitude":40.2877,
-    "geom:longitude":-84.19245,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2579 Michigan St",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2579 Michigan St Sidney OH 45365",
+    "addr:housenumber": "2579",
+    "addr:postcode": "45365",
+    "addr:street": "Michigan St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.192450,40.287700,-84.192450,40.287700",
+    "geom:latitude": 40.2877,
+    "geom:longitude": -84.19245,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2579 Michigan St",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 492 6674",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 492 6674",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3XTDe80m8EiVxt8pYRZtOV_40.287700_-84.192450@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3XTDe80m8EiVxt8pYRZtOV_40.287700_-84.192450@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799950,
-    "wof:geomhash":"d947fb1a95001faa9e5dc3cbc1b91b6d",
-    "wof:hierarchy":[],
-    "wof:id":706284613,
-    "wof:lastmodified":1472639666,
-    "wof:name":"Sidney Open Mri & X Ray",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461799950,
+    "wof:geomhash": "6247ead01cf4856c33fcd4d025fc5d68",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706284613
+      }
+    ],
+    "wof:id": 706284613,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Sidney Open Mri \u0026 X Ray",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.19245,
     40.2877,
     -84.19245,
     40.2877
-],
-  "geometry": {"coordinates":[-84.19244999999999,40.2877],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.19245,40.2877],"type":"Point"}
 }

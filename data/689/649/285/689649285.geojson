@@ -2,63 +2,67 @@
   "id": 689649285,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 W Alex Bell Rd Dayton OH 45459",
-    "addr:housenumber":"45",
-    "addr:postcode":"45459",
-    "addr:street":"W Alex Bell Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.159567,39.643945,-84.159567,39.643945",
-    "geom:latitude":39.643945,
-    "geom:longitude":-84.159567,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45 W Alex Bell Rd",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "45 W Alex Bell Rd Dayton OH 45459",
+    "addr:housenumber": "45",
+    "addr:postcode": "45459",
+    "addr:street": "W Alex Bell Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.159567,39.643945,-84.159567,39.643945",
+    "geom:latitude": 39.643945,
+    "geom:longitude": -84.159567,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "45 W Alex Bell Rd",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 438 8081",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 438 8081",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0IIdA0zpgIXTX5eMSp2ehY_39.643945_-84.159567@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0IIdA0zpgIXTX5eMSp2ehY_39.643945_-84.159567@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777852,
-    "wof:geomhash":"b5c623b67b1ab73470fd9d27ef2c9711",
-    "wof:hierarchy":[],
-    "wof:id":689649285,
-    "wof:lastmodified":1472639511,
-    "wof:name":"Thirsty Dog Brewing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking",
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461777852,
+    "wof:geomhash": "c8bf341217d978a76e8dacf0d16dda59",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689649285
+      }
+    ],
+    "wof:id": 689649285,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Thirsty Dog Brewing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.159567,
     39.643945,
     -84.159567,
     39.643945
-],
+  ],
   "geometry": {"coordinates":[-84.159567,39.643945],"type":"Point"}
 }

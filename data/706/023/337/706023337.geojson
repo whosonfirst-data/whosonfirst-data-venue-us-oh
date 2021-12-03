@@ -2,70 +2,74 @@
   "id": 706023337,
   "type": "Feature",
   "properties": {
-    "addr:full":"179 S Main St London OH 43140",
-    "addr:housenumber":"179",
-    "addr:postcode":"43140",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.444401,39.88252,-83.444401,39.88252",
-    "geom:latitude":39.88252,
-    "geom:longitude":-83.444401,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"179 S Main St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "179 S Main St London OH 43140",
+    "addr:housenumber": "179",
+    "addr:postcode": "43140",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.444401,39.882520,-83.444401,39.882520",
+    "geom:latitude": 39.88252,
+    "geom:longitude": -83.444401,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "179 S Main St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 1888",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "authorities",
-        "housing",
-        "program"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 1888",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "authorities",
+      "housing",
+      "program"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2LwcX5dBSLiaJo28th5wL7_39.882520_-83.444401@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2LwcX5dBSLiaJo28th5wL7_39.882520_-83.444401@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794074,
-    "wof:geomhash":"23493a4901752cce1736dddc92dad0dc",
-    "wof:hierarchy":[],
-    "wof:id":706023337,
-    "wof:lastmodified":1472638623,
-    "wof:name":"London Metropolitan Hsing Auth",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "authorities",
-        "housing",
-        "program"
+    "wof:country": "US",
+    "wof:created": 1461794074,
+    "wof:geomhash": "5062bbc68ea326fbab03edf364b669b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706023337
+      }
+    ],
+    "wof:id": 706023337,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "London Metropolitan Hsing Auth",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "authorities",
+      "housing",
+      "program"
     ]
-},
+  },
   "bbox": [
     -83.444401,
     39.88252,
     -83.444401,
     39.88252
-],
+  ],
   "geometry": {"coordinates":[-83.444401,39.88252],"type":"Point"}
 }

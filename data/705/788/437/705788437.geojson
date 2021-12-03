@@ -2,61 +2,65 @@
   "id": 705788437,
   "type": "Feature",
   "properties": {
-    "addr:full":"70 Woodard Ave West Alexandria OH 45381",
-    "addr:housenumber":"70",
-    "addr:postcode":"45381",
-    "addr:street":"Woodard Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.529776,39.740276,-84.529776,39.740276",
-    "geom:latitude":39.740276,
-    "geom:longitude":-84.529776,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"70 Woodard Ave",
-    "sg:city":"West Alexandria",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "70 Woodard Ave West Alexandria OH 45381",
+    "addr:housenumber": "70",
+    "addr:postcode": "45381",
+    "addr:street": "Woodard Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.529776,39.740276,-84.529776,39.740276",
+    "geom:latitude": 39.740276,
+    "geom:longitude": -84.529776,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "70 Woodard Ave",
+    "sg:city": "West Alexandria",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 839 5603",
-    "sg:postcode":"45381",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 839 5603",
+    "sg:postcode": "45381",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Z1N4h7Pw66gwQ8edKo3iq_39.740276_-84.529776@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Z1N4h7Pw66gwQ8edKo3iq_39.740276_-84.529776@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788769,
-    "wof:geomhash":"389b046c22a17aa8a7d4a4061ee68cff",
-    "wof:hierarchy":[],
-    "wof:id":705788437,
-    "wof:lastmodified":1472639260,
-    "wof:name":"West Alexandria Pentecostal",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461788769,
+    "wof:geomhash": "d97cf94b3f8c469166d631a868de0e75",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705788437
+      }
+    ],
+    "wof:id": 705788437,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "West Alexandria Pentecostal",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.529776,
     39.740276,
     -84.529776,
     39.740276
-],
+  ],
   "geometry": {"coordinates":[-84.529776,39.740276],"type":"Point"}
 }

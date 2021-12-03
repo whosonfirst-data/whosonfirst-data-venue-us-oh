@@ -2,63 +2,67 @@
   "id": 706269395,
   "type": "Feature",
   "properties": {
-    "addr:full":"16022 E High St Middlefield OH 44062",
-    "addr:housenumber":"16022",
-    "addr:postcode":"44062",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.070421,41.461896,-81.070421,41.461896",
-    "geom:latitude":41.461896,
-    "geom:longitude":-81.070421,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16022 E High St",
-    "sg:city":"Middlefield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "16022 E High St Middlefield OH 44062",
+    "addr:housenumber": "16022",
+    "addr:postcode": "44062",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.070421,41.461896,-81.070421,41.461896",
+    "geom:latitude": 41.461896,
+    "geom:longitude": -81.070421,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16022 E High St",
+    "sg:city": "Middlefield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 632 1998",
-    "sg:postcode":"44062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 632 1998",
+    "sg:postcode": "44062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4yOpLPOpUD10r0BnH9NYez_41.461896_-81.070421@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4yOpLPOpUD10r0BnH9NYez_41.461896_-81.070421@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799600,
-    "wof:geomhash":"7b70adaa57824e0b4a3e8bfd8322b499",
-    "wof:hierarchy":[],
-    "wof:id":706269395,
-    "wof:lastmodified":1472639625,
-    "wof:name":"Chesterland Pediatrics",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461799600,
+    "wof:geomhash": "7a4d8d85c5fa4b0150c27e4e57aad8bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706269395
+      }
+    ],
+    "wof:id": 706269395,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Chesterland Pediatrics",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.070421,
     41.461896,
     -81.070421,
     41.461896
-],
+  ],
   "geometry": {"coordinates":[-81.070421,41.461896],"type":"Point"}
 }

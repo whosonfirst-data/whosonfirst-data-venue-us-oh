@@ -2,61 +2,65 @@
   "id": 706338501,
   "type": "Feature",
   "properties": {
-    "addr:full":"6633 Monroe St Sylvania OH 43560",
-    "addr:housenumber":"6633",
-    "addr:postcode":"43560",
-    "addr:street":"Monroe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.707512,41.715384,-83.707512,41.715384",
-    "geom:latitude":41.715384,
-    "geom:longitude":-83.707512,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6633 Monroe St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "6633 Monroe St Sylvania OH 43560",
+    "addr:housenumber": "6633",
+    "addr:postcode": "43560",
+    "addr:street": "Monroe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.707512,41.715384,-83.707512,41.715384",
+    "geom:latitude": 41.715384,
+    "geom:longitude": -83.707512,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6633 Monroe St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 885 8995",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 885 8995",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7KEZejL9uSwly6ld7yGNTO_41.715384_-83.707512@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7KEZejL9uSwly6ld7yGNTO_41.715384_-83.707512@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801166,
-    "wof:geomhash":"019fb9ce08977f65cec4c6e60de254c1",
-    "wof:hierarchy":[],
-    "wof:id":706338501,
-    "wof:lastmodified":1472639840,
-    "wof:name":"Sylvania Township Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461801166,
+    "wof:geomhash": "db577b65f4e72a6f44139d973f935ab9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706338501
+      }
+    ],
+    "wof:id": 706338501,
+    "wof:lastmodified": 1638567090,
+    "wof:name": "Sylvania Township Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.707512,
     41.715384,
     -83.707512,
     41.715384
-],
-  "geometry": {"coordinates":[-83.70751199999999,41.715384],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.707512,41.715384],"type":"Point"}
 }

@@ -2,78 +2,79 @@
   "id": 203004285,
   "type": "Feature",
   "properties": {
-    "addr:full":"2710 E Kemper Rd Cincinnati OH 45241",
-    "addr:housenumber":"2710",
-    "addr:postcode":"45241",
-    "addr:street":"E Kemper Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.421961,39.283841,-84.421961,39.283841",
-    "geom:latitude":39.283841,
-    "geom:longitude":-84.421961,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2710 E Kemper Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "2710 E Kemper Rd Cincinnati OH 45241",
+    "addr:housenumber": "2710",
+    "addr:postcode": "45241",
+    "addr:street": "E Kemper Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.421961,39.283841,-84.421961,39.283841",
+    "geom:latitude": 39.283841,
+    "geom:longitude": -84.421961,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2710 E Kemper Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 618 9200",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "lock",
-        "locksmith"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 618 9200",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "lock",
+      "locksmith"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712271,
-        102083687,
-        85812865
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712271,
+      102083687,
+      85812865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76drQl8iz3dFdEN4eeZohk_39.283841_-84.421961@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_76drQl8iz3dFdEN4eeZohk_39.283841_-84.421961@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fbc023380c5d924d2eb38df8ad93138a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083687,
-            "locality_id":101712271,
-            "neighbourhood_id":85812865,
-            "region_id":85688485,
-            "venue_id":203004285
-        }
+    "wof:country": "US",
+    "wof:created": 1638566937,
+    "wof:geomhash": "fc15740d78da79c95bcdf6e0ef21d081",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083687,
+        "locality_id": 101712271,
+        "neighbourhood_id": 85812865,
+        "region_id": 85688485,
+        "venue_id": 203004285
+      }
     ],
-    "wof:id":203004285,
-    "wof:lastmodified":1472638122,
-    "wof:name":"Sentri Lock LLC",
-    "wof:parent_id":85812865,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lock",
-        "locksmith"
+    "wof:id": 203004285,
+    "wof:lastmodified": 1638566937,
+    "wof:name": "Sentri Lock LLC",
+    "wof:parent_id": 85812865,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lock",
+      "locksmith"
     ]
-},
+  },
   "bbox": [
     -84.421961,
     39.283841,
     -84.421961,
     39.283841
-],
+  ],
   "geometry": {"coordinates":[-84.421961,39.283841],"type":"Point"}
 }

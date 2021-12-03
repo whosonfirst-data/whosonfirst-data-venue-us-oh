@@ -2,61 +2,65 @@
   "id": 706225299,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 W State St Fremont OH 43420",
-    "addr:housenumber":"500",
-    "addr:postcode":"43420",
-    "addr:street":"W State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.116614,41.348566,-83.116614,41.348566",
-    "geom:latitude":41.348566,
-    "geom:longitude":-83.116614,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 W State St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "500 W State St Fremont OH 43420",
+    "addr:housenumber": "500",
+    "addr:postcode": "43420",
+    "addr:street": "W State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.116614,41.348566,-83.116614,41.348566",
+    "geom:latitude": 41.348566,
+    "geom:longitude": -83.116614,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 W State St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 334 2012",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "transportation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 334 2012",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "transportation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0DKTy0FonvJ0oRaWi2gpTN_41.348566_-83.116614@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0DKTy0FonvJ0oRaWi2gpTN_41.348566_-83.116614@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798611,
-    "wof:geomhash":"50a6a07c43554228f0b3c25cc59bb55e",
-    "wof:hierarchy":[],
-    "wof:id":706225299,
-    "wof:lastmodified":1472639515,
-    "wof:name":"Driver Exam Station",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transportation"
+    "wof:country": "US",
+    "wof:created": 1461798611,
+    "wof:geomhash": "a4d1ee0314804cc34a3b9efa66e1483d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706225299
+      }
+    ],
+    "wof:id": 706225299,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Driver Exam Station",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transportation"
     ]
-},
+  },
   "bbox": [
     -83.116614,
     41.348566,
     -83.116614,
     41.348566
-],
+  ],
   "geometry": {"coordinates":[-83.116614,41.348566],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705865445,
   "type": "Feature",
   "properties": {
-    "addr:full":"8440 Troy Rd New Carlisle OH 45344",
-    "addr:housenumber":"8440",
-    "addr:postcode":"45344",
-    "addr:street":"Troy Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.958766,39.991528,-83.958766,39.991528",
-    "geom:latitude":39.991528,
-    "geom:longitude":-83.958766,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8440 Troy Rd",
-    "sg:city":"New Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "8440 Troy Rd New Carlisle OH 45344",
+    "addr:housenumber": "8440",
+    "addr:postcode": "45344",
+    "addr:street": "Troy Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.958766,39.991528,-83.958766,39.991528",
+    "geom:latitude": 39.991528,
+    "geom:longitude": -83.958766,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8440 Troy Rd",
+    "sg:city": "New Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 964 8958",
-    "sg:postcode":"45344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 964 8958",
+    "sg:postcode": "45344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xulrCEKOtxVyBFydNnMly_39.991528_-83.958766@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xulrCEKOtxVyBFydNnMly_39.991528_-83.958766@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790564,
-    "wof:geomhash":"b5d107525b98ea74890ebc379349c65f",
-    "wof:hierarchy":[],
-    "wof:id":705865445,
-    "wof:lastmodified":1472639455,
-    "wof:name":"Pike Township Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461790564,
+    "wof:geomhash": "a2187f1768f097c866fcd7d3666547ff",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705865445
+      }
+    ],
+    "wof:id": 705865445,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Pike Township Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.958766,
     39.991528,
     -83.958766,
     39.991528
-],
+  ],
   "geometry": {"coordinates":[-83.958766,39.991528],"type":"Point"}
 }

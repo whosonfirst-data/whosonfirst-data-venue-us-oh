@@ -2,63 +2,67 @@
   "id": 689691395,
   "type": "Feature",
   "properties": {
-    "addr:full":"5485 State Rte 128 Cleves OH 45002",
-    "addr:housenumber":"5485",
-    "addr:postcode":"45002",
-    "addr:street":"State Rte 128",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.72723,39.203632,-84.72723,39.203632",
-    "geom:latitude":39.203632,
-    "geom:longitude":-84.72723,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5485 State Rte 128",
-    "sg:city":"Cleves",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "5485 State Rte 128 Cleves OH 45002",
+    "addr:housenumber": "5485",
+    "addr:postcode": "45002",
+    "addr:street": "State Rte 128",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.727230,39.203632,-84.727230,39.203632",
+    "geom:latitude": 39.203632,
+    "geom:longitude": -84.72723,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5485 State Rte 128",
+    "sg:city": "Cleves",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 353 2900",
-    "sg:postcode":"45002",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "convalescent"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 353 2900",
+    "sg:postcode": "45002",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "convalescent"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4A7qWuN9k503XxedB0F3uP_39.203632_-84.727230@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4A7qWuN9k503XxedB0F3uP_39.203632_-84.727230@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778908,
-    "wof:geomhash":"6ce55946f82ee3e90491113602e1ab55",
-    "wof:hierarchy":[],
-    "wof:id":689691395,
-    "wof:lastmodified":1472639665,
-    "wof:name":"Miami Haven Nursing Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "convalescent"
+    "wof:country": "US",
+    "wof:created": 1461778908,
+    "wof:geomhash": "8e3345658e72ce5d25a8da9b7ed425cf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689691395
+      }
+    ],
+    "wof:id": 689691395,
+    "wof:lastmodified": 1638567021,
+    "wof:name": "Miami Haven Nursing Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "convalescent"
     ]
-},
+  },
   "bbox": [
     -84.72723,
     39.203632,
     -84.72723,
     39.203632
-],
-  "geometry": {"coordinates":[-84.72723000000001,39.203632],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.72723,39.203632],"type":"Point"}
 }

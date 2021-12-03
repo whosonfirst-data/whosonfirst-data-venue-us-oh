@@ -2,63 +2,67 @@
   "id": 706407415,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Wakefield Dr Cortland OH 44410",
-    "addr:housenumber":"500",
-    "addr:postcode":"44410",
-    "addr:street":"Wakefield Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.729668,41.317116,-80.729668,41.317116",
-    "geom:latitude":41.317116,
-    "geom:longitude":-80.729668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 Wakefield Dr",
-    "sg:city":"Cortland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "500 Wakefield Dr Cortland OH 44410",
+    "addr:housenumber": "500",
+    "addr:postcode": "44410",
+    "addr:street": "Wakefield Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.729668,41.317116,-80.729668,41.317116",
+    "geom:latitude": 41.317116,
+    "geom:longitude": -80.729668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 Wakefield Dr",
+    "sg:city": "Cortland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 638 3808",
-    "sg:postcode":"44410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 638 3808",
+    "sg:postcode": "44410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2d93AUPe8E3tEgNmfzYTfy_41.317116_-80.729668@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2d93AUPe8E3tEgNmfzYTfy_41.317116_-80.729668@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802546,
-    "wof:geomhash":"69bcc3480cab5959dce79260baa8ab63",
-    "wof:hierarchy":[],
-    "wof:id":706407415,
-    "wof:lastmodified":1472639991,
-    "wof:name":"Peter Barnovsky DO",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802546,
+    "wof:geomhash": "d96a22388972c962d30600e14ed64689",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706407415
+      }
+    ],
+    "wof:id": 706407415,
+    "wof:lastmodified": 1638567112,
+    "wof:name": "Peter Barnovsky DO",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.729668,
     41.317116,
     -80.729668,
     41.317116
-],
+  ],
   "geometry": {"coordinates":[-80.729668,41.317116],"type":"Point"}
 }

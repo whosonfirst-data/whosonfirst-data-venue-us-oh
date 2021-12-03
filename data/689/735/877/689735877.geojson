@@ -2,61 +2,65 @@
   "id": 689735877,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 Lakeview Dr Napoleon OH 43545",
-    "addr:housenumber":"22",
-    "addr:postcode":"43545",
-    "addr:street":"Lakeview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.12233,41.405192,-84.12233,41.405192",
-    "geom:latitude":41.405192,
-    "geom:longitude":-84.12233,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"22 Lakeview Dr",
-    "sg:city":"Napoleon",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "22 Lakeview Dr Napoleon OH 43545",
+    "addr:housenumber": "22",
+    "addr:postcode": "43545",
+    "addr:street": "Lakeview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.122330,41.405192,-84.122330,41.405192",
+    "geom:latitude": 41.405192,
+    "geom:longitude": -84.12233,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "22 Lakeview Dr",
+    "sg:city": "Napoleon",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 592 5540",
-    "sg:postcode":"43545",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 592 5540",
+    "sg:postcode": "43545",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uR3XpAciPqqENoTR0D1TV_41.405192_-84.122330@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1uR3XpAciPqqENoTR0D1TV_41.405192_-84.122330@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780092,
-    "wof:geomhash":"c31e33e35fb3c3eb28888ede1347fd83",
-    "wof:hierarchy":[],
-    "wof:id":689735877,
-    "wof:lastmodified":1472639757,
-    "wof:name":"David Lutz",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461780092,
+    "wof:geomhash": "38e33205d6929dbb7748901deea46340",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689735877
+      }
+    ],
+    "wof:id": 689735877,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "David Lutz",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -84.12233,
     41.405192,
     -84.12233,
     41.405192
-],
-  "geometry": {"coordinates":[-84.12233000000001,41.405192],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.12233,41.405192],"type":"Point"}
 }

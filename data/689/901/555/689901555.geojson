@@ -2,63 +2,67 @@
   "id": 689901555,
   "type": "Feature",
   "properties": {
-    "addr:full":"345 Martin Dr Gallipolis OH 45631",
-    "addr:housenumber":"345",
-    "addr:postcode":"45631",
-    "addr:street":"Martin Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.224638,38.841074,-82.224638,38.841074",
-    "geom:latitude":38.841074,
-    "geom:longitude":-82.224638,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"345 Martin Dr",
-    "sg:city":"Gallipolis",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "345 Martin Dr Gallipolis OH 45631",
+    "addr:housenumber": "345",
+    "addr:postcode": "45631",
+    "addr:street": "Martin Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.224638,38.841074,-82.224638,38.841074",
+    "geom:latitude": 38.841074,
+    "geom:longitude": -82.224638,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "345 Martin Dr",
+    "sg:city": "Gallipolis",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 6665",
-    "sg:postcode":"45631",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 6665",
+    "sg:postcode": "45631",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1aTZf8QpueNDTEhI7M3Y0T_38.841074_-82.224638@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1aTZf8QpueNDTEhI7M3Y0T_38.841074_-82.224638@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784612,
-    "wof:geomhash":"859ce7c96675244d81ff45fe09d8f56f",
-    "wof:hierarchy":[],
-    "wof:id":689901555,
-    "wof:lastmodified":1472640049,
-    "wof:name":"H J Eyecare Inc",
-    "wof:parent_id":420534827,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461784612,
+    "wof:geomhash": "b4de50333065e4248a7d40cf9469705e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689901555
+      }
+    ],
+    "wof:id": 689901555,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "H J Eyecare Inc",
+    "wof:parent_id": 420534827,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.224638,
     38.841074,
     -82.224638,
     38.841074
-],
+  ],
   "geometry": {"coordinates":[-82.224638,38.841074],"type":"Point"}
 }

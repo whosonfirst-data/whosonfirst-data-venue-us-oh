@@ -2,61 +2,65 @@
   "id": 705967625,
   "type": "Feature",
   "properties": {
-    "addr:full":"224 S Fulton St Wauseon OH 43567",
-    "addr:housenumber":"224",
-    "addr:postcode":"43567",
-    "addr:street":"S Fulton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.140689,41.54593,-84.140689,41.54593",
-    "geom:latitude":41.54593,
-    "geom:longitude":-84.140689,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"224 S Fulton St",
-    "sg:city":"Wauseon",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Court House",
-            "type":"Public Place"
-        }
+    "addr:full": "224 S Fulton St Wauseon OH 43567",
+    "addr:housenumber": "224",
+    "addr:postcode": "43567",
+    "addr:street": "S Fulton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.140689,41.545930,-84.140689,41.545930",
+    "geom:latitude": 41.54593,
+    "geom:longitude": -84.140689,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "224 S Fulton St",
+    "sg:city": "Wauseon",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Court House",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 337 9212",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 337 9212",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4VorADFMfiV4BYxjV7qhEK_41.545930_-84.140689@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4VorADFMfiV4BYxjV7qhEK_41.545930_-84.140689@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792919,
-    "wof:geomhash":"32895ff033fc8dd0d2b3a394b5399084",
-    "wof:hierarchy":[],
-    "wof:id":705967625,
-    "wof:lastmodified":1472639749,
-    "wof:name":"Fulton Court Western District",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county"
+    "wof:country": "US",
+    "wof:created": 1461792919,
+    "wof:geomhash": "2dc12f53e627c946395c8776852a09e0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705967625
+      }
+    ],
+    "wof:id": 705967625,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Fulton Court Western District",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county"
     ]
-},
+  },
   "bbox": [
     -84.140689,
     41.54593,
     -84.140689,
     41.54593
-],
-  "geometry": {"coordinates":[-84.14068899999999,41.54593],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.140689,41.54593],"type":"Point"}
 }

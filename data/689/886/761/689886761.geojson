@@ -2,63 +2,67 @@
   "id": 689886761,
   "type": "Feature",
   "properties": {
-    "addr:full":"17101 Rockside Rd Cleveland OH 44137",
-    "addr:housenumber":"17101",
-    "addr:postcode":"44137",
-    "addr:street":"Rockside Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.557938,41.402256,-81.557938,41.402256",
-    "geom:latitude":41.402256,
-    "geom:longitude":-81.557938,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17101 Rockside Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "17101 Rockside Rd Cleveland OH 44137",
+    "addr:housenumber": "17101",
+    "addr:postcode": "44137",
+    "addr:street": "Rockside Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.557938,41.402256,-81.557938,41.402256",
+    "geom:latitude": 41.402256,
+    "geom:longitude": -81.557938,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17101 Rockside Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 662 6610",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 662 6610",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4XqBonSjwtNe73fR7Wosfc_41.402256_-81.557938@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4XqBonSjwtNe73fR7Wosfc_41.402256_-81.557938@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784221,
-    "wof:geomhash":"10076d1901cf1fa0e90931353650248c",
-    "wof:hierarchy":[],
-    "wof:id":689886761,
-    "wof:lastmodified":1472640040,
-    "wof:name":"A Redi Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461784221,
+    "wof:geomhash": "784488ec2383caf57d6bdec46554a831",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689886761
+      }
+    ],
+    "wof:id": 689886761,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "A Redi Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -81.557938,
     41.402256,
     -81.557938,
     41.402256
-],
-  "geometry": {"coordinates":[-81.55793799999999,41.402256],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.557938,41.402256],"type":"Point"}
 }

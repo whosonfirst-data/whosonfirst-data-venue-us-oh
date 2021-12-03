@@ -2,61 +2,65 @@
   "id": 689772585,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Wilson Pl Steubenville OH 43952",
-    "addr:housenumber":"401",
-    "addr:postcode":"43952",
-    "addr:street":"Wilson Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.624532,40.361304,-80.624532,40.361304",
-    "geom:latitude":40.361304,
-    "geom:longitude":-80.624532,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 Wilson Pl",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "401 Wilson Pl Steubenville OH 43952",
+    "addr:housenumber": "401",
+    "addr:postcode": "43952",
+    "addr:street": "Wilson Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.624532,40.361304,-80.624532,40.361304",
+    "geom:latitude": 40.361304,
+    "geom:longitude": -80.624532,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "401 Wilson Pl",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 282 2016",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 282 2016",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5YzFP7c57Uxea1hRpiItaO_40.361304_-80.624532@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5YzFP7c57Uxea1hRpiItaO_40.361304_-80.624532@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781070,
-    "wof:geomhash":"8846f3187f2430a4a9c70dbb7ccc8872",
-    "wof:hierarchy":[],
-    "wof:id":689772585,
-    "wof:lastmodified":1472639830,
-    "wof:name":"Township Trustees",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461781070,
+    "wof:geomhash": "81257ffbf34c288f94a5176e1e787d76",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689772585
+      }
+    ],
+    "wof:id": 689772585,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Township Trustees",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -80.624532,
     40.361304,
     -80.624532,
     40.361304
-],
+  ],
   "geometry": {"coordinates":[-80.624532,40.361304],"type":"Point"}
 }

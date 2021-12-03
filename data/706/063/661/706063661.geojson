@@ -2,61 +2,65 @@
   "id": 706063661,
   "type": "Feature",
   "properties": {
-    "addr:full":"284 Lovers Ln Wintersville OH 43953",
-    "addr:housenumber":"284",
-    "addr:postcode":"43953",
-    "addr:street":"Lovers Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.676716,40.366456,-80.676716,40.366456",
-    "geom:latitude":40.366456,
-    "geom:longitude":-80.676716,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"284 Lovers Ln",
-    "sg:city":"Wintersville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "284 Lovers Ln Wintersville OH 43953",
+    "addr:housenumber": "284",
+    "addr:postcode": "43953",
+    "addr:street": "Lovers Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.676716,40.366456,-80.676716,40.366456",
+    "geom:latitude": 40.366456,
+    "geom:longitude": -80.676716,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "284 Lovers Ln",
+    "sg:city": "Wintersville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 264 5005",
-    "sg:postcode":"43953",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 264 5005",
+    "sg:postcode": "43953",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ISM4gdVkCk4NLsHVritTP_40.366456_-80.676716@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ISM4gdVkCk4NLsHVritTP_40.366456_-80.676716@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794887,
-    "wof:geomhash":"04d882e00b5600f3d7d15a3a248b0ed7",
-    "wof:hierarchy":[],
-    "wof:id":706063661,
-    "wof:lastmodified":1472639172,
-    "wof:name":"St Stephen's Episcopal Church",
-    "wof:parent_id":420534923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461794887,
+    "wof:geomhash": "317fcf7521bce00188ad71e2ddfc5f74",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706063661
+      }
+    ],
+    "wof:id": 706063661,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "St Stephen's Episcopal Church",
+    "wof:parent_id": 420534923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -80.676716,
     40.366456,
     -80.676716,
     40.366456
-],
+  ],
   "geometry": {"coordinates":[-80.676716,40.366456],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706380013,
   "type": "Feature",
   "properties": {
-    "addr:full":"6020 Broadview Rd Cleveland OH 44134",
-    "addr:housenumber":"6020",
-    "addr:postcode":"44134",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.688946,41.399981,-81.688946,41.399981",
-    "geom:latitude":41.399981,
-    "geom:longitude":-81.688946,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6020 Broadview Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "6020 Broadview Rd Cleveland OH 44134",
+    "addr:housenumber": "6020",
+    "addr:postcode": "44134",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.688946,41.399981,-81.688946,41.399981",
+    "geom:latitude": 41.399981,
+    "geom:longitude": -81.688946,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6020 Broadview Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 631 4888",
-    "sg:postcode":"44134",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 631 4888",
+    "sg:postcode": "44134",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Lzup3udDrJvEdV80DotO1_41.399981_-81.688946@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Lzup3udDrJvEdV80DotO1_41.399981_-81.688946@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802007,
-    "wof:geomhash":"d3f58e9568751e46ca63c276dc9b8857",
-    "wof:hierarchy":[],
-    "wof:id":706380013,
-    "wof:lastmodified":1472639943,
-    "wof:name":"Hopko Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461802007,
+    "wof:geomhash": "992d8b5ea9e6a33997d46bb87d117718",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706380013
+      }
+    ],
+    "wof:id": 706380013,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Hopko Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -81.688946,
     41.399981,
     -81.688946,
     41.399981
-],
+  ],
   "geometry": {"coordinates":[-81.688946,41.399981],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689629079,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 W Main St Alexandria OH 43001",
-    "addr:housenumber":"100",
-    "addr:postcode":"43001",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.614142,40.090014,-82.614142,40.090014",
-    "geom:latitude":40.090014,
-    "geom:longitude":-82.614142,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 W Main St",
-    "sg:city":"Alexandria",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "100 W Main St Alexandria OH 43001",
+    "addr:housenumber": "100",
+    "addr:postcode": "43001",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.614142,40.090014,-82.614142,40.090014",
+    "geom:latitude": 40.090014,
+    "geom:longitude": -82.614142,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 W Main St",
+    "sg:city": "Alexandria",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 964 3500",
-    "sg:postcode":"43001",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 964 3500",
+    "sg:postcode": "43001",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_37FKOEnHGEDurXeUEhE14B_40.090014_-82.614142@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37FKOEnHGEDurXeUEhE14B_40.090014_-82.614142@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777132,
-    "wof:geomhash":"3496026bdf5d56641a5de5f805b99727",
-    "wof:hierarchy":[],
-    "wof:id":689629079,
-    "wof:lastmodified":1472639450,
-    "wof:name":"Rudy's Pizza & Subs",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461777132,
+    "wof:geomhash": "1abae2d4933977b53e466d12bd740e7e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689629079
+      }
+    ],
+    "wof:id": 689629079,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Rudy's Pizza \u0026 Subs",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -82.614142,
     40.090014,
     -82.614142,
     40.090014
-],
+  ],
   "geometry": {"coordinates":[-82.614142,40.090014],"type":"Point"}
 }

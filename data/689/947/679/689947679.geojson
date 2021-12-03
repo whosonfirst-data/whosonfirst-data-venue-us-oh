@@ -2,63 +2,67 @@
   "id": 689947679,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 W High St Orrville OH 44667",
-    "addr:housenumber":"401",
-    "addr:postcode":"44667",
-    "addr:street":"W High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.769695,40.843636,-81.769695,40.843636",
-    "geom:latitude":40.843636,
-    "geom:longitude":-81.769695,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 W High St",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "401 W High St Orrville OH 44667",
+    "addr:housenumber": "401",
+    "addr:postcode": "44667",
+    "addr:street": "W High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.769695,40.843636,-81.769695,40.843636",
+    "geom:latitude": 40.843636,
+    "geom:longitude": -81.769695,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "401 W High St",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 683 6662",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "driving"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 683 6662",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "driving"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3TEgeZkBiqSbD443QZhT84_40.843636_-81.769695@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3TEgeZkBiqSbD443QZhT84_40.843636_-81.769695@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785803,
-    "wof:geomhash":"dec8caac275c4115a91d42e17297aea3",
-    "wof:hierarchy":[],
-    "wof:id":689947679,
-    "wof:lastmodified":1472640113,
-    "wof:name":"Wendell's Advantage Driving",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "driving"
+    "wof:country": "US",
+    "wof:created": 1461785803,
+    "wof:geomhash": "e0327f14213ec9e7bca269ae31aff8fa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689947679
+      }
+    ],
+    "wof:id": 689947679,
+    "wof:lastmodified": 1638567119,
+    "wof:name": "Wendell's Advantage Driving",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "driving"
     ]
-},
+  },
   "bbox": [
     -81.769695,
     40.843636,
     -81.769695,
     40.843636
-],
+  ],
   "geometry": {"coordinates":[-81.769695,40.843636],"type":"Point"}
 }

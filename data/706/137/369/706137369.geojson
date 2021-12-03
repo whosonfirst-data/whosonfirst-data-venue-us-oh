@@ -2,63 +2,67 @@
   "id": 706137369,
   "type": "Feature",
   "properties": {
-    "addr:full":"21721 Co Rd 15 Bluffton OH 45817",
-    "addr:housenumber":"21721;15",
-    "addr:postcode":"45817",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.880134,40.851322,-83.880134,40.851322",
-    "geom:latitude":40.851322,
-    "geom:longitude":-83.880134,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21721 Co Rd 15",
-    "sg:city":"Bluffton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "21721 Co Rd 15 Bluffton OH 45817",
+    "addr:housenumber": "21721;15",
+    "addr:postcode": "45817",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.880134,40.851322,-83.880134,40.851322",
+    "geom:latitude": 40.851322,
+    "geom:longitude": -83.880134,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21721 Co Rd 15",
+    "sg:city": "Bluffton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 358 0086",
-    "sg:postcode":"45817",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 358 0086",
+    "sg:postcode": "45817",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0eojqLvRSCChY4dYDjo61U_40.851322_-83.880134@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0eojqLvRSCChY4dYDjo61U_40.851322_-83.880134@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796698,
-    "wof:geomhash":"12d8a6603c5fb2bfd3bd5e9aab8c863b",
-    "wof:hierarchy":[],
-    "wof:id":706137369,
-    "wof:lastmodified":1472639339,
-    "wof:name":"Lewis James MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461796698,
+    "wof:geomhash": "150b7ee53527edadb61d956aa7434aa2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706137369
+      }
+    ],
+    "wof:id": 706137369,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Lewis James MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.880134,
     40.851322,
     -83.880134,
     40.851322
-],
+  ],
   "geometry": {"coordinates":[-83.880134,40.851322],"type":"Point"}
 }

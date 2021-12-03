@@ -2,63 +2,67 @@
   "id": 689716655,
   "type": "Feature",
   "properties": {
-    "addr:full":"11053 Archer St Rosewood OH 43070",
-    "addr:housenumber":"11053",
-    "addr:postcode":"43070",
-    "addr:street":"Archer St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.961871,40.21791,-83.961871,40.21791",
-    "geom:latitude":40.21791,
-    "geom:longitude":-83.961871,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11053 Archer St",
-    "sg:city":"Rosewood",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "11053 Archer St Rosewood OH 43070",
+    "addr:housenumber": "11053",
+    "addr:postcode": "43070",
+    "addr:street": "Archer St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.961871,40.217910,-83.961871,40.217910",
+    "geom:latitude": 40.21791,
+    "geom:longitude": -83.961871,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11053 Archer St",
+    "sg:city": "Rosewood",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 362 2331",
-    "sg:postcode":"43070",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 362 2331",
+    "sg:postcode": "43070",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4BLk5kBfq8zx6EnGpbaWkF_40.217910_-83.961871@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4BLk5kBfq8zx6EnGpbaWkF_40.217910_-83.961871@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779571,
-    "wof:geomhash":"3c3d16aecd44392faa82c284a12815ae",
-    "wof:hierarchy":[],
-    "wof:id":689716655,
-    "wof:lastmodified":1472639728,
-    "wof:name":"Ford's Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461779571,
+    "wof:geomhash": "e3a929c35330fa9de508ad83a7922790",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689716655
+      }
+    ],
+    "wof:id": 689716655,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Ford's Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.961871,
     40.21791,
     -83.961871,
     40.21791
-],
+  ],
   "geometry": {"coordinates":[-83.961871,40.21791],"type":"Point"}
 }

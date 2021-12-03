@@ -2,61 +2,65 @@
   "id": 689726031,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 N Main St Eldorado OH 45321",
-    "addr:housenumber":"311",
-    "addr:postcode":"45321",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.675586,39.904582,-84.675586,39.904582",
-    "geom:latitude":39.904582,
-    "geom:longitude":-84.675586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"311 N Main St",
-    "sg:city":"Eldorado",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "311 N Main St Eldorado OH 45321",
+    "addr:housenumber": "311",
+    "addr:postcode": "45321",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.675586,39.904582,-84.675586,39.904582",
+    "geom:latitude": 39.904582,
+    "geom:longitude": -84.675586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "311 N Main St",
+    "sg:city": "Eldorado",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 273 2321",
-    "sg:postcode":"45321",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 273 2321",
+    "sg:postcode": "45321",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1lPF6720RAEOJCDSE3jro3_39.904582_-84.675586@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1lPF6720RAEOJCDSE3jro3_39.904582_-84.675586@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779824,
-    "wof:geomhash":"20ed372f52f03799b8889ff032947ab2",
-    "wof:hierarchy":[],
-    "wof:id":689726031,
-    "wof:lastmodified":1472639717,
-    "wof:name":"Buzzard Vaniman Barnes Funeral",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461779824,
+    "wof:geomhash": "0c644cdd2e095d6174d226ab7aed1812",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689726031
+      }
+    ],
+    "wof:id": 689726031,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Buzzard Vaniman Barnes Funeral",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -84.675586,
     39.904582,
     -84.675586,
     39.904582
-],
+  ],
   "geometry": {"coordinates":[-84.675586,39.904582],"type":"Point"}
 }

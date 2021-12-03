@@ -2,61 +2,65 @@
   "id": 705929989,
   "type": "Feature",
   "properties": {
-    "addr:full":"603 S Main St New Carlisle OH 45344",
-    "addr:housenumber":"603",
-    "addr:postcode":"45344",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.028485,39.930575,-84.028485,39.930575",
-    "geom:latitude":39.930575,
-    "geom:longitude":-84.028485,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"603 S Main St",
-    "sg:city":"New Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "603 S Main St New Carlisle OH 45344",
+    "addr:housenumber": "603",
+    "addr:postcode": "45344",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.028485,39.930575,-84.028485,39.930575",
+    "geom:latitude": 39.930575,
+    "geom:longitude": -84.028485,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "603 S Main St",
+    "sg:city": "New Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 845 3663",
-    "sg:postcode":"45344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 845 3663",
+    "sg:postcode": "45344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_37mEWZPxsBniQxIPcOs3ql_39.930575_-84.028485@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37mEWZPxsBniQxIPcOs3ql_39.930575_-84.028485@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792060,
-    "wof:geomhash":"a10cc3258428685728b5ff129f9eb502",
-    "wof:hierarchy":[],
-    "wof:id":705929989,
-    "wof:lastmodified":1472639698,
-    "wof:name":"Wot-A-Dog Drive-In Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461792060,
+    "wof:geomhash": "396eb7b79003ecb3a2c1461f7873aeb2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705929989
+      }
+    ],
+    "wof:id": 705929989,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "Wot-A-Dog Drive-In Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.028485,
     39.930575,
     -84.028485,
     39.930575
-],
+  ],
   "geometry": {"coordinates":[-84.028485,39.930575],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706272151,
   "type": "Feature",
   "properties": {
-    "addr:full":"6231 Valley Park Dr Toledo OH 43623",
-    "addr:housenumber":"6231",
-    "addr:postcode":"43623",
-    "addr:street":"Valley Park Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.690956,41.688837,-83.690956,41.688837",
-    "geom:latitude":41.688837,
-    "geom:longitude":-83.690956,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6231 Valley Park Dr",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "6231 Valley Park Dr Toledo OH 43623",
+    "addr:housenumber": "6231",
+    "addr:postcode": "43623",
+    "addr:street": "Valley Park Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.690956,41.688837,-83.690956,41.688837",
+    "geom:latitude": 41.688837,
+    "geom:longitude": -83.690956,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6231 Valley Park Dr",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 885 3867",
-    "sg:postcode":"43623",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 885 3867",
+    "sg:postcode": "43623",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_62tIga4FvMYuOkpAZEXMLU_41.688837_-83.690956@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_62tIga4FvMYuOkpAZEXMLU_41.688837_-83.690956@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799663,
-    "wof:geomhash":"38d1ed3774761bdb6f65cf1a2fed9353",
-    "wof:hierarchy":[],
-    "wof:id":706272151,
-    "wof:lastmodified":1472639612,
-    "wof:name":"Residents of Oak Valley Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461799663,
+    "wof:geomhash": "ed371d752af297b1c4334d4c131dc082",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706272151
+      }
+    ],
+    "wof:id": 706272151,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Residents of Oak Valley Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.690956,
     41.688837,
     -83.690956,
     41.688837
-],
+  ],
   "geometry": {"coordinates":[-83.690956,41.688837],"type":"Point"}
 }

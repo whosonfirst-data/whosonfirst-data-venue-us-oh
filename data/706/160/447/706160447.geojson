@@ -2,61 +2,65 @@
   "id": 706160447,
   "type": "Feature",
   "properties": {
-    "addr:full":"549 2nd St NW Carrollton OH 44615",
-    "addr:housenumber":"549",
-    "addr:postcode":"44615",
-    "addr:street":"2Nd St Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.09201,40.576988,-81.09201,40.576988",
-    "geom:latitude":40.576988,
-    "geom:longitude":-81.09201,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"549 2nd St NW",
-    "sg:city":"Carrollton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "549 2nd St NW Carrollton OH 44615",
+    "addr:housenumber": "549",
+    "addr:postcode": "44615",
+    "addr:street": "2Nd St Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.092010,40.576988,-81.092010,40.576988",
+    "geom:latitude": 40.576988,
+    "geom:longitude": -81.09201,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "549 2nd St NW",
+    "sg:city": "Carrollton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 627 5005",
-    "sg:postcode":"44615",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 627 5005",
+    "sg:postcode": "44615",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2W1rvhA92n6M2hNUSOZzjp_40.576988_-81.092010@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2W1rvhA92n6M2hNUSOZzjp_40.576988_-81.092010@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797218,
-    "wof:geomhash":"32fe08cee0d8d34c852930d49cb4702a",
-    "wof:hierarchy":[],
-    "wof:id":706160447,
-    "wof:lastmodified":1472639401,
-    "wof:name":"Stephen Dowell DDS Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461797218,
+    "wof:geomhash": "4c3b7cb687d929376a398a756442b80e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706160447
+      }
+    ],
+    "wof:id": 706160447,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "Stephen Dowell DDS Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.09201,
     40.576988,
     -81.09201,
     40.576988
-],
+  ],
   "geometry": {"coordinates":[-81.09201,40.576988],"type":"Point"}
 }

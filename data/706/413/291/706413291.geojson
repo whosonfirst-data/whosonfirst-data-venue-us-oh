@@ -2,61 +2,65 @@
   "id": 706413291,
   "type": "Feature",
   "properties": {
-    "addr:full":"10905 Union Ave Cleveland OH 44105",
-    "addr:housenumber":"10905",
-    "addr:postcode":"44105",
-    "addr:street":"Union Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.608892,41.46368,-81.608892,41.46368",
-    "geom:latitude":41.46368,
-    "geom:longitude":-81.608892,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10905 Union Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Florist",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10905 Union Ave Cleveland OH 44105",
+    "addr:housenumber": "10905",
+    "addr:postcode": "44105",
+    "addr:street": "Union Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.608892,41.463680,-81.608892,41.463680",
+    "geom:latitude": 41.46368,
+    "geom:longitude": -81.608892,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10905 Union Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Florist",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 883 8208",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0PCq7HESiRFcqOUkqCwiRU_41.463680_-81.608892@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 883 8208",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0PCq7HESiRFcqOUkqCwiRU_41.463680_-81.608892@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802660,
-    "wof:geomhash":"643330ae0a3afe79a9b97bf635dd2818",
-    "wof:hierarchy":[],
-    "wof:id":706413291,
-    "wof:lastmodified":1472639994,
-    "wof:name":"House of Faith Floral Design",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461802660,
+    "wof:geomhash": "28cc66908c74ce726ed1402089eb372f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706413291
+      }
+    ],
+    "wof:id": 706413291,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "House of Faith Floral Design",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.608892,
     41.46368,
     -81.608892,
     41.46368
-],
+  ],
   "geometry": {"coordinates":[-81.608892,41.46368],"type":"Point"}
 }

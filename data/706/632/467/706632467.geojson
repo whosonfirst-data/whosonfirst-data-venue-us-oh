@@ -2,63 +2,67 @@
   "id": 706632467,
   "type": "Feature",
   "properties": {
-    "addr:full":"8000 5 Mile Rd Ste 340 Cincinnati OH 45230",
-    "addr:housenumber":"8000",
-    "addr:postcode":"45230",
-    "addr:street":"5 Mile Rd Ste 340",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.351318,39.084538,-84.351318,39.084538",
-    "geom:latitude":39.084538,
-    "geom:longitude":-84.351318,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8000 5 Mile Rd Ste 340",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "8000 5 Mile Rd Ste 340 Cincinnati OH 45230",
+    "addr:housenumber": "8000",
+    "addr:postcode": "45230",
+    "addr:street": "5 Mile Rd Ste 340",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.351318,39.084538,-84.351318,39.084538",
+    "geom:latitude": 39.084538,
+    "geom:longitude": -84.351318,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8000 5 Mile Rd Ste 340",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 232 8800",
-    "sg:postcode":"45230",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 232 8800",
+    "sg:postcode": "45230",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43ezKSSYwa2hCBmNQTmTzR_39.084538_-84.351318@1303262758"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_43ezKSSYwa2hCBmNQTmTzR_39.084538_-84.351318@1303262758"
     },
-    "wof:country":"US",
-    "wof:created":1461807417,
-    "wof:geomhash":"401b2658143caaf8def65293823fd118",
-    "wof:hierarchy":[],
-    "wof:id":706632467,
-    "wof:lastmodified":1472640244,
-    "wof:name":"Watson Richard J",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461807417,
+    "wof:geomhash": "29b76288d74fcf0ee0d392fc052797e8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706632467
+      }
+    ],
+    "wof:id": 706632467,
+    "wof:lastmodified": 1638567150,
+    "wof:name": "Watson Richard J",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.351318,
     39.084538,
     -84.351318,
     39.084538
-],
-  "geometry": {"coordinates":[-84.35131800000001,39.084538],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.351318,39.084538],"type":"Point"}
 }

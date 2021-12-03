@@ -2,63 +2,67 @@
   "id": 705837869,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 E Main St West Lafayette OH 43845",
-    "addr:housenumber":"600",
-    "addr:postcode":"43845",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.74542,40.274369,-81.74542,40.274369",
-    "geom:latitude":40.274369,
-    "geom:longitude":-81.74542,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"600 E Main St",
-    "sg:city":"West Lafayette",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "600 E Main St West Lafayette OH 43845",
+    "addr:housenumber": "600",
+    "addr:postcode": "43845",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.745420,40.274369,-81.745420,40.274369",
+    "geom:latitude": 40.274369,
+    "geom:longitude": -81.74542,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "600 E Main St",
+    "sg:city": "West Lafayette",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 545 7900",
-    "sg:postcode":"43845",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 545 7900",
+    "sg:postcode": "43845",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BMFUXoIExEqYW8Wnghakg_40.274369_-81.745420@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3BMFUXoIExEqYW8Wnghakg_40.274369_-81.745420@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789905,
-    "wof:geomhash":"0032cba1d4f791d87a013a5eca003bec",
-    "wof:hierarchy":[],
-    "wof:id":705837869,
-    "wof:lastmodified":1472639385,
-    "wof:name":"Medical Services-W Lafayette",
-    "wof:parent_id":420534607,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461789905,
+    "wof:geomhash": "ee1387a296ef7e7c27055747d9301db8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705837869
+      }
+    ],
+    "wof:id": 705837869,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Medical Services-W Lafayette",
+    "wof:parent_id": 420534607,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.74542,
     40.274369,
     -81.74542,
     40.274369
-],
+  ],
   "geometry": {"coordinates":[-81.74542,40.274369],"type":"Point"}
 }

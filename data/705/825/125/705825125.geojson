@@ -2,69 +2,73 @@
   "id": 705825125,
   "type": "Feature",
   "properties": {
-    "addr:full":"1445 Co Rd 32 Gibsonburg OH 43431",
-    "addr:housenumber":"1445;32",
-    "addr:postcode":"43431",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.358735,41.374702,-83.358735,41.374702",
-    "geom:latitude":41.374702,
-    "geom:longitude":-83.358735,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1445 Co Rd 32",
-    "sg:city":"Gibsonburg",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Livestock Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1445 Co Rd 32 Gibsonburg OH 43431",
+    "addr:housenumber": "1445;32",
+    "addr:postcode": "43431",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.358735,41.374702,-83.358735,41.374702",
+    "geom:latitude": 41.374702,
+    "geom:longitude": -83.358735,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1445 Co Rd 32",
+    "sg:city": "Gibsonburg",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Livestock Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 637 2480",
-    "sg:postcode":"43431",
-    "sg:province":"OH",
-    "sg:tags":[
-        "feedlot",
-        "cattle",
-        "crop",
-        "beef",
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 637 2480",
+    "sg:postcode": "43431",
+    "sg:province": "OH",
+    "sg:tags": [
+      "feedlot",
+      "cattle",
+      "crop",
+      "beef",
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4bpfkq04tWRyYRBGuEqZoQ_41.374702_-83.358735@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4bpfkq04tWRyYRBGuEqZoQ_41.374702_-83.358735@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789612,
-    "wof:geomhash":"2ef9c7e3d198b05528d8c5438440655b",
-    "wof:hierarchy":[],
-    "wof:id":705825125,
-    "wof:lastmodified":1472639333,
-    "wof:name":"Burmeister Farm",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "feedlot",
-        "cattle",
-        "crop",
-        "beef",
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461789612,
+    "wof:geomhash": "2c709f50abf38348be3700525f4235f3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705825125
+      }
+    ],
+    "wof:id": 705825125,
+    "wof:lastmodified": 1638567002,
+    "wof:name": "Burmeister Farm",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "feedlot",
+      "cattle",
+      "crop",
+      "beef",
+      "general"
     ]
-},
+  },
   "bbox": [
     -83.358735,
     41.374702,
     -83.358735,
     41.374702
-],
+  ],
   "geometry": {"coordinates":[-83.358735,41.374702],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705956293,
   "type": "Feature",
   "properties": {
-    "addr:full":"657 Main St Groveport OH 43125",
-    "addr:housenumber":"657",
-    "addr:postcode":"43125",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.881754,39.851095,-82.881754,39.851095",
-    "geom:latitude":39.851095,
-    "geom:longitude":-82.881754,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"657 Main St",
-    "sg:city":"Groveport",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "657 Main St Groveport OH 43125",
+    "addr:housenumber": "657",
+    "addr:postcode": "43125",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.881754,39.851095,-82.881754,39.851095",
+    "geom:latitude": 39.851095,
+    "geom:longitude": -82.881754,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "657 Main St",
+    "sg:city": "Groveport",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 830 0910",
-    "sg:postcode":"43125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "comic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 830 0910",
+    "sg:postcode": "43125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "comic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_12OhZQJ4iE9pNNjZezBN5w_39.851095_-82.881754@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_12OhZQJ4iE9pNNjZezBN5w_39.851095_-82.881754@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792674,
-    "wof:geomhash":"a8df733b6db00edf5225b91548e9ee38",
-    "wof:hierarchy":[],
-    "wof:id":705956293,
-    "wof:lastmodified":1472639711,
-    "wof:name":"Groveport Comics LLC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "comic"
+    "wof:country": "US",
+    "wof:created": 1461792674,
+    "wof:geomhash": "5c9384a8214cd5d39eda5dcf4df00177",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705956293
+      }
+    ],
+    "wof:id": 705956293,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Groveport Comics LLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "comic"
     ]
-},
+  },
   "bbox": [
     -82.881754,
     39.851095,
     -82.881754,
     39.851095
-],
+  ],
   "geometry": {"coordinates":[-82.881754,39.851095],"type":"Point"}
 }

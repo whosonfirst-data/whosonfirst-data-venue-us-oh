@@ -2,63 +2,67 @@
   "id": 689630179,
   "type": "Feature",
   "properties": {
-    "addr:full":"203 Park Ave London OH 43140",
-    "addr:housenumber":"203",
-    "addr:postcode":"43140",
-    "addr:street":"Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.447025,39.893347,-83.447025,39.893347",
-    "geom:latitude":39.893347,
-    "geom:longitude":-83.447025,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"203 Park Ave",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "203 Park Ave London OH 43140",
+    "addr:housenumber": "203",
+    "addr:postcode": "43140",
+    "addr:street": "Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.447025,39.893347,-83.447025,39.893347",
+    "geom:latitude": 39.893347,
+    "geom:longitude": -83.447025,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "203 Park Ave",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 9051",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pool",
-        "swimming"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 9051",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pool",
+      "swimming"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0m30WPfWp2UzSlb2EJNPhj_39.893347_-83.447025@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0m30WPfWp2UzSlb2EJNPhj_39.893347_-83.447025@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777159,
-    "wof:geomhash":"b3dba2315a78110f3162cc821ff93715",
-    "wof:hierarchy":[],
-    "wof:id":689630179,
-    "wof:lastmodified":1472639455,
-    "wof:name":"London Municipal Swimming Pool",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pool",
-        "swimming"
+    "wof:country": "US",
+    "wof:created": 1461777159,
+    "wof:geomhash": "ee6e608a85bfd9783d3b6d97634af43b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689630179
+      }
+    ],
+    "wof:id": 689630179,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "London Municipal Swimming Pool",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pool",
+      "swimming"
     ]
-},
+  },
   "bbox": [
     -83.447025,
     39.893347,
     -83.447025,
     39.893347
-],
+  ],
   "geometry": {"coordinates":[-83.447025,39.893347],"type":"Point"}
 }

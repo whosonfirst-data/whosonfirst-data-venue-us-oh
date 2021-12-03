@@ -2,61 +2,66 @@
   "id": 203147773,
   "type": "Feature",
   "properties": {
-    "addr:full":"3534 Greenwich St Columbus OH 43224",
-    "addr:housenumber":"3534",
-    "addr:postcode":"43224",
-    "addr:street":"Greenwich St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.966639,40.039642,-82.966639,40.039642",
-    "geom:latitude":40.039642,
-    "geom:longitude":-82.966639,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3534 Greenwich St",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Computer Services",
-            "type":"Services"
-        }
+    "addr:full": "3534 Greenwich St Columbus OH 43224",
+    "addr:housenumber": "3534",
+    "addr:postcode": "43224",
+    "addr:street": "Greenwich St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.966639,40.039642,-82.966639,40.039642",
+    "geom:latitude": 40.039642,
+    "geom:longitude": -82.966639,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3534 Greenwich St",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 564 0555",
-    "sg:postcode":"43224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repair"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 564 0555",
+    "sg:postcode": "43224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repair"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_027sX6QP7f055jIc1elh81_40.039642_-82.966639@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_027sX6QP7f055jIc1elh81_40.039642_-82.966639@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"06cc4a3ecc13ea8a32b9426239b5f13c",
-    "wof:hierarchy":[],
-    "wof:id":203147773,
-    "wof:lastmodified":1491926689,
-    "wof:name":"Columbus Media Services",
-    "wof:parent_id":85811437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repair"
+    "wof:country": "US",
+    "wof:created": 1638566965,
+    "wof:geomhash": "ccd0bef03e9f88340d00907fe7971942",
+    "wof:hierarchy": [
+      {
+        "venue_id": 203147773
+      }
+    ],
+    "wof:id": 203147773,
+    "wof:lastmodified": 1638566965,
+    "wof:name": "Columbus Media Services",
+    "wof:parent_id": 85811437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repair"
     ]
-},
+  },
   "bbox": [
     -82.966639,
     40.039642,
     -82.966639,
     40.039642
-],
+  ],
   "geometry": {"coordinates":[-82.966639,40.039642],"type":"Point"}
 }

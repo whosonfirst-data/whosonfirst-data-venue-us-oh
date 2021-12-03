@@ -2,65 +2,69 @@
   "id": 706175371,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Peters Ave Troy OH 45373",
-    "addr:housenumber":"200",
-    "addr:postcode":"45373",
-    "addr:street":"Peters Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.210429,40.03135,-84.210429,40.03135",
-    "geom:latitude":40.03135,
-    "geom:longitude":-84.210429,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 Peters Ave",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "200 Peters Ave Troy OH 45373",
+    "addr:housenumber": "200",
+    "addr:postcode": "45373",
+    "addr:street": "Peters Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.210429,40.031350,-84.210429,40.031350",
+    "geom:latitude": 40.03135,
+    "geom:longitude": -84.210429,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 Peters Ave",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 335 1764",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 335 1764",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4WqcnVQHGhkI1FkhxkQyCB_40.031350_-84.210429@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4WqcnVQHGhkI1FkhxkQyCB_40.031350_-84.210429@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797536,
-    "wof:geomhash":"1c68f34dfefdafe9bbc1bfc201b9d4f8",
-    "wof:hierarchy":[],
-    "wof:id":706175371,
-    "wof:lastmodified":1472639416,
-    "wof:name":"Chaney's Body Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:country": "US",
+    "wof:created": 1461797536,
+    "wof:geomhash": "a8ed92f5574eb8ef76765c8d6dc7f106",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706175371
+      }
+    ],
+    "wof:id": 706175371,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Chaney's Body Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -84.210429,
     40.03135,
     -84.210429,
     40.03135
-],
+  ],
   "geometry": {"coordinates":[-84.210429,40.03135],"type":"Point"}
 }

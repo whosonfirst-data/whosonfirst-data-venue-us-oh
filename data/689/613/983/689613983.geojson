@@ -2,61 +2,65 @@
   "id": 689613983,
   "type": "Feature",
   "properties": {
-    "addr:full":"425 Taylor St Zanesville OH 43701",
-    "addr:housenumber":"425",
-    "addr:postcode":"43701",
-    "addr:street":"Taylor St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.004943,39.96685,-82.004943,39.96685",
-    "geom:latitude":39.96685,
-    "geom:longitude":-82.004943,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"425 Taylor St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "425 Taylor St Zanesville OH 43701",
+    "addr:housenumber": "425",
+    "addr:postcode": "43701",
+    "addr:street": "Taylor St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.004943,39.966850,-82.004943,39.966850",
+    "geom:latitude": 39.96685,
+    "geom:longitude": -82.004943,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "425 Taylor St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 8739",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 8739",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6YpPeAFfg8KW0qBmrITXAR_39.966850_-82.004943@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6YpPeAFfg8KW0qBmrITXAR_39.966850_-82.004943@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776738,
-    "wof:geomhash":"f7cef7338d88f5a7224eea9c83b1c700",
-    "wof:hierarchy":[],
-    "wof:id":689613983,
-    "wof:lastmodified":1472639465,
-    "wof:name":"Juanitas Family Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461776738,
+    "wof:geomhash": "d2fb213c70a520ad79380149a375e4b1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689613983
+      }
+    ],
+    "wof:id": 689613983,
+    "wof:lastmodified": 1638566999,
+    "wof:name": "Juanitas Family Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.004943,
     39.96685,
     -82.004943,
     39.96685
-],
+  ],
   "geometry": {"coordinates":[-82.004943,39.96685],"type":"Point"}
 }

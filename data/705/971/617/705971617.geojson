@@ -2,63 +2,67 @@
   "id": 705971617,
   "type": "Feature",
   "properties": {
-    "addr:full":"4805 Suder Ave Toledo OH 43611",
-    "addr:housenumber":"4805",
-    "addr:postcode":"43611",
-    "addr:street":"Suder Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.498947,41.705753,-83.498947,41.705753",
-    "geom:latitude":41.705753,
-    "geom:longitude":-83.498947,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4805 Suder Ave",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4805 Suder Ave Toledo OH 43611",
+    "addr:housenumber": "4805",
+    "addr:postcode": "43611",
+    "addr:street": "Suder Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.498947,41.705753,-83.498947,41.705753",
+    "geom:latitude": 41.705753,
+    "geom:longitude": -83.498947,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4805 Suder Ave",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 726 1585",
-    "sg:postcode":"43611",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 726 1585",
+    "sg:postcode": "43611",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16tfrDI8z25FLgq93rCfSd_41.705753_-83.498947@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_16tfrDI8z25FLgq93rCfSd_41.705753_-83.498947@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792999,
-    "wof:geomhash":"b90aed9b6bd2e7047cf7ea5eb6724ca8",
-    "wof:hierarchy":[],
-    "wof:id":705971617,
-    "wof:lastmodified":1472639756,
-    "wof:name":"Comprehensive Family Practice",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461792999,
+    "wof:geomhash": "0915eeb3f282ab8231f29a14de67c84b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705971617
+      }
+    ],
+    "wof:id": 705971617,
+    "wof:lastmodified": 1638567064,
+    "wof:name": "Comprehensive Family Practice",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.498947,
     41.705753,
     -83.498947,
     41.705753
-],
+  ],
   "geometry": {"coordinates":[-83.498947,41.705753],"type":"Point"}
 }

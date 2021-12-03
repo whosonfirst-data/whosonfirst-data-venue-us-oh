@@ -2,61 +2,65 @@
   "id": 706624483,
   "type": "Feature",
   "properties": {
-    "addr:full":"1150 Harrison Ave 203D Harrison OH 45030",
-    "addr:housenumber":"1150;203d",
-    "addr:postcode":"45030",
-    "addr:street":"Harrison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.799446,39.255733,-84.799446,39.255733",
-    "geom:latitude":39.255733,
-    "geom:longitude":-84.799446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1150 Harrison Ave 203D",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Shopping Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "1150 Harrison Ave 203D Harrison OH 45030",
+    "addr:housenumber": "1150;203d",
+    "addr:postcode": "45030",
+    "addr:street": "Harrison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.799446,39.255733,-84.799446,39.255733",
+    "geom:latitude": 39.255733,
+    "geom:longitude": -84.799446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1150 Harrison Ave 203D",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Shopping Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 367 0003",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mall"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 367 0003",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mall"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4z9RiHRleSjqSSbngNYPLa_39.255733_-84.799446@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4z9RiHRleSjqSSbngNYPLa_39.255733_-84.799446@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807241,
-    "wof:geomhash":"0e21ec60c032460d7c041a8b5e4d527c",
-    "wof:hierarchy":[],
-    "wof:id":706624483,
-    "wof:lastmodified":1472640245,
-    "wof:name":"Tall Oaks Shopping Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mall"
+    "wof:country": "US",
+    "wof:created": 1461807241,
+    "wof:geomhash": "394ce507f4a875d05b412581f0fb8403",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706624483
+      }
+    ],
+    "wof:id": 706624483,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Tall Oaks Shopping Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mall"
     ]
-},
+  },
   "bbox": [
     -84.799446,
     39.255733,
     -84.799446,
     39.255733
-],
+  ],
   "geometry": {"coordinates":[-84.799446,39.255733],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705868747,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 N Downing St Piqua OH 45356",
-    "addr:housenumber":"500",
-    "addr:postcode":"45356",
-    "addr:street":"N Downing St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.242417,40.150749,-84.242417,40.150749",
-    "geom:latitude":40.150749,
-    "geom:longitude":-84.242417,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 N Downing St",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "500 N Downing St Piqua OH 45356",
+    "addr:housenumber": "500",
+    "addr:postcode": "45356",
+    "addr:street": "N Downing St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.242417,40.150749,-84.242417,40.150749",
+    "geom:latitude": 40.150749,
+    "geom:longitude": -84.242417,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 N Downing St",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 773 5151",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 773 5151",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2cuDoHJHTmJOaZ8IXQilbJ_40.150749_-84.242417@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2cuDoHJHTmJOaZ8IXQilbJ_40.150749_-84.242417@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790664,
-    "wof:geomhash":"365fd1cb8b0fcd13c509178abdc1d6af",
-    "wof:hierarchy":[],
-    "wof:id":705868747,
-    "wof:lastmodified":1472639469,
-    "wof:name":"Saint Pauls United Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461790664,
+    "wof:geomhash": "3bf7aa91c118c013ec36658b419d5321",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705868747
+      }
+    ],
+    "wof:id": 705868747,
+    "wof:lastmodified": 1638567021,
+    "wof:name": "Saint Pauls United Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.242417,
     40.150749,
     -84.242417,
     40.150749
-],
+  ],
   "geometry": {"coordinates":[-84.242417,40.150749],"type":"Point"}
 }

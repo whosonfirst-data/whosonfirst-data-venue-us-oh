@@ -2,86 +2,87 @@
   "id": 269498543,
   "type": "Feature",
   "properties": {
-    "addr:full":"14 Acme St Marietta OH 45750",
-    "addr:housenumber":"14",
-    "addr:postcode":"45750",
-    "addr:street":"Acme St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.42843,39.414401,-81.42843,39.414401",
-    "geom:latitude":39.414401,
-    "geom:longitude":-81.42843,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14 Acme St",
-    "sg:city":"Marietta",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "14 Acme St Marietta OH 45750",
+    "addr:housenumber": "14",
+    "addr:postcode": "45750",
+    "addr:street": "Acme St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.428430,39.414401,-81.428430,39.414401",
+    "geom:latitude": 39.414401,
+    "geom:longitude": -81.42843,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14 Acme St",
+    "sg:city": "Marietta",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 376 0045",
-    "sg:postcode":"45750",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical",
-        "kidney",
-        "dialysis",
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 376 0045",
+    "sg:postcode": "45750",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical",
+      "kidney",
+      "dialysis",
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        102084767,
-        85835283
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      102084767,
+      85835283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4vjayFwbJHCEOlRE9DVbUV_39.414401_-81.428430@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4vjayFwbJHCEOlRE9DVbUV_39.414401_-81.428430@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0b49a7f31bdd476f65aa9c6eca1e8a90",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084767,
-            "locality_id":-1,
-            "neighbourhood_id":85835283,
-            "region_id":85688485,
-            "venue_id":269498543
-        }
+    "wof:country": "US",
+    "wof:created": 1638566869,
+    "wof:geomhash": "978bf1dcf86bec3effa60c024b624593",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084767,
+        "locality_id": -1,
+        "neighbourhood_id": 85835283,
+        "region_id": 85688485,
+        "venue_id": 269498543
+      }
     ],
-    "wof:id":269498543,
-    "wof:lastmodified":1472638149,
-    "wof:name":"Dialysis Specialists",
-    "wof:parent_id":85835283,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical",
-        "kidney",
-        "dialysis",
-        "center"
+    "wof:id": 269498543,
+    "wof:lastmodified": 1638566869,
+    "wof:name": "Dialysis Specialists",
+    "wof:parent_id": 85835283,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical",
+      "kidney",
+      "dialysis",
+      "center"
     ]
-},
+  },
   "bbox": [
     -81.42843,
     39.414401,
     -81.42843,
     39.414401
-],
-  "geometry": {"coordinates":[-81.42843000000001,39.414401],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.42843,39.414401],"type":"Point"}
 }

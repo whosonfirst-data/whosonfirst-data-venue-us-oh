@@ -2,66 +2,70 @@
   "id": 706580211,
   "type": "Feature",
   "properties": {
-    "addr:full":"7575 Auburn Rd Painesville OH 44077",
-    "addr:housenumber":"7575",
-    "addr:postcode":"44077",
-    "addr:street":"Auburn Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.245115,41.664913,-81.245115,41.664913",
-    "geom:latitude":41.664913,
-    "geom:longitude":-81.245115,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"7575 Auburn Rd",
-    "sg:city":"Painesville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7575 Auburn Rd Painesville OH 44077",
+    "addr:housenumber": "7575",
+    "addr:postcode": "44077",
+    "addr:street": "Auburn Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.245115,41.664913,-81.245115,41.664913",
+    "geom:latitude": 41.664913,
+    "geom:longitude": -81.245115,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "7575 Auburn Rd",
+    "sg:city": "Painesville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/concord/195449-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44077",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/concord/195449-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44077",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3667TjSItTAYTjg3YYn5GQ_41.664446_-81.244871@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3667TjSItTAYTjg3YYn5GQ_41.664446_-81.244871@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806328,
-    "wof:geomhash":"cadb5d6e593d119b848337a6757e5881",
-    "wof:hierarchy":[],
-    "wof:id":706580211,
-    "wof:lastmodified":1512142942,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806328,
+    "wof:geomhash": "cadb5d6e593d119b848337a6757e5881",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706580211
+      }
+    ],
+    "wof:id": 706580211,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -81.245115,
     41.664913,
     -81.245115,
     41.664913
-],
+  ],
   "geometry": {"coordinates":[-81.245115,41.664913],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705882433,
   "type": "Feature",
   "properties": {
-    "addr:full":"5562 Massillon Rd Dalton OH 44618",
-    "addr:housenumber":"5562",
-    "addr:postcode":"44618",
-    "addr:street":"Massillon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.658573,40.731014,-81.658573,40.731014",
-    "geom:latitude":40.731014,
-    "geom:longitude":-81.658573,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5562 Massillon Rd",
-    "sg:city":"Dalton",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5562 Massillon Rd Dalton OH 44618",
+    "addr:housenumber": "5562",
+    "addr:postcode": "44618",
+    "addr:street": "Massillon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.658573,40.731014,-81.658573,40.731014",
+    "geom:latitude": 40.731014,
+    "geom:longitude": -81.658573,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5562 Massillon Rd",
+    "sg:city": "Dalton",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 833 9262",
-    "sg:postcode":"44618",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5lHLe4NvVweUq7LLQD7uLh_40.731014_-81.658573@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 833 9262",
+    "sg:postcode": "44618",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5lHLe4NvVweUq7LLQD7uLh_40.731014_-81.658573@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790980,
-    "wof:geomhash":"f392ce9a999daf62091ef102010fab1f",
-    "wof:hierarchy":[],
-    "wof:id":705882433,
-    "wof:lastmodified":1472639514,
-    "wof:name":"Rob's Transportation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461790980,
+    "wof:geomhash": "7125f566ffe30c1fc5d410de581b2e86",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705882433
+      }
+    ],
+    "wof:id": 705882433,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Rob's Transportation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.658573,
     40.731014,
     -81.658573,
     40.731014
-],
+  ],
   "geometry": {"coordinates":[-81.658573,40.731014],"type":"Point"}
 }

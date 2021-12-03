@@ -2,63 +2,67 @@
   "id": 706626735,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 Main St Cincinnati OH 45202",
-    "addr:housenumber":"900",
-    "addr:postcode":"45202",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.510818,39.105869,-84.510818,39.105869",
-    "geom:latitude":39.105869,
-    "geom:longitude":-84.510818,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"900 Main St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "900 Main St Cincinnati OH 45202",
+    "addr:housenumber": "900",
+    "addr:postcode": "45202",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.510818,39.105869,-84.510818,39.105869",
+    "geom:latitude": 39.105869,
+    "geom:longitude": -84.510818,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "900 Main St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 421 0835",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "style",
-        "family"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 421 0835",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "style",
+      "family"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Mp4GQOj3qJgnX7SRQcZm7_39.105869_-84.510818@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Mp4GQOj3qJgnX7SRQcZm7_39.105869_-84.510818@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807283,
-    "wof:geomhash":"decb949cedeae0adaacab7dcee13536d",
-    "wof:hierarchy":[],
-    "wof:id":706626735,
-    "wof:lastmodified":1472640245,
-    "wof:name":"B-G Restrnts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "style",
-        "family"
+    "wof:country": "US",
+    "wof:created": 1461807283,
+    "wof:geomhash": "29fa801347e590d2516e8c2c2f401ee0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706626735
+      }
+    ],
+    "wof:id": 706626735,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "B-G Restrnts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "style",
+      "family"
     ]
-},
+  },
   "bbox": [
     -84.510818,
     39.105869,
     -84.510818,
     39.105869
-],
+  ],
   "geometry": {"coordinates":[-84.510818,39.105869],"type":"Point"}
 }

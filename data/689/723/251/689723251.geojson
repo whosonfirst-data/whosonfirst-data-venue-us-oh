@@ -2,61 +2,65 @@
   "id": 689723251,
   "type": "Feature",
   "properties": {
-    "addr:full":"586 Park Ave E Mansfield OH 44905",
-    "addr:housenumber":"586",
-    "addr:postcode":"44905",
-    "addr:street":"Park Ave E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.491665,40.758108,-82.491665,40.758108",
-    "geom:latitude":40.758108,
-    "geom:longitude":-82.491665,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"586 Park Ave E",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "586 Park Ave E Mansfield OH 44905",
+    "addr:housenumber": "586",
+    "addr:postcode": "44905",
+    "addr:street": "Park Ave E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.491665,40.758108,-82.491665,40.758108",
+    "geom:latitude": 40.758108,
+    "geom:longitude": -82.491665,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "586 Park Ave E",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 526 5000",
-    "sg:postcode":"44905",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 526 5000",
+    "sg:postcode": "44905",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4BsAHqwIDgtrB0ILM48gQo_40.758108_-82.491665@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4BsAHqwIDgtrB0ILM48gQo_40.758108_-82.491665@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779752,
-    "wof:geomhash":"f64377c05e35884ff5c0f81cdd5378e2",
-    "wof:hierarchy":[],
-    "wof:id":689723251,
-    "wof:lastmodified":1472639713,
-    "wof:name":"Paganis Little Italy Rest",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461779752,
+    "wof:geomhash": "3024aa20d1b05e63299b9e046217c7cb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689723251
+      }
+    ],
+    "wof:id": 689723251,
+    "wof:lastmodified": 1638567025,
+    "wof:name": "Paganis Little Italy Rest",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.491665,
     40.758108,
     -82.491665,
     40.758108
-],
+  ],
   "geometry": {"coordinates":[-82.491665,40.758108],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706208707,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 2nd St NW Strasburg OH 44680",
-    "addr:housenumber":"206",
-    "addr:postcode":"44680",
-    "addr:street":"2Nd St Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.52945,40.597919,-81.52945,40.597919",
-    "geom:latitude":40.597919,
-    "geom:longitude":-81.52945,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"206 2nd St NW",
-    "sg:city":"Strasburg",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "206 2nd St NW Strasburg OH 44680",
+    "addr:housenumber": "206",
+    "addr:postcode": "44680",
+    "addr:street": "2Nd St Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.529450,40.597919,-81.529450,40.597919",
+    "geom:latitude": 40.597919,
+    "geom:longitude": -81.52945,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "206 2nd St NW",
+    "sg:city": "Strasburg",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 878 5179",
-    "sg:postcode":"44680",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 878 5179",
+    "sg:postcode": "44680",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_276AZEvli8irfbGk8C7AME_40.597919_-81.529450@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_276AZEvli8irfbGk8C7AME_40.597919_-81.529450@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798257,
-    "wof:geomhash":"0d6cfb8742ec37dbf28bd56287f19acc",
-    "wof:hierarchy":[],
-    "wof:id":706208707,
-    "wof:lastmodified":1472639519,
-    "wof:name":"Strasburg United Methodist",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461798257,
+    "wof:geomhash": "3843f32e559a017d140afc23186a3a74",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706208707
+      }
+    ],
+    "wof:id": 706208707,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "Strasburg United Methodist",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.52945,
     40.597919,
     -81.52945,
     40.597919
-],
+  ],
   "geometry": {"coordinates":[-81.52945,40.597919],"type":"Point"}
 }

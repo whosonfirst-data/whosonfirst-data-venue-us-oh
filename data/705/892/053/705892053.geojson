@@ -2,65 +2,69 @@
   "id": 705892053,
   "type": "Feature",
   "properties": {
-    "addr:full":"4023 Beck Rd Medina OH 44256",
-    "addr:housenumber":"4023",
-    "addr:postcode":"44256",
-    "addr:street":"Beck Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.951975,41.15867,-81.951975,41.15867",
-    "geom:latitude":41.15867,
-    "geom:longitude":-81.951975,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4023 Beck Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "4023 Beck Rd Medina OH 44256",
+    "addr:housenumber": "4023",
+    "addr:postcode": "44256",
+    "addr:street": "Beck Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.951975,41.158670,-81.951975,41.158670",
+    "geom:latitude": 41.15867,
+    "geom:longitude": -81.951975,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4023 Beck Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 722 1036",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 722 1036",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_144UQGStpsQ3ypFZFnyIot_41.158670_-81.951975@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_144UQGStpsQ3ypFZFnyIot_41.158670_-81.951975@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791227,
-    "wof:geomhash":"c2bfdb18b09fbdaef8b0909f4e0d2d8d",
-    "wof:hierarchy":[],
-    "wof:id":705892053,
-    "wof:lastmodified":1472639511,
-    "wof:name":"E K Recycle",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461791227,
+    "wof:geomhash": "bec4427e43188091a3eb4e19d9ea3e13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705892053
+      }
+    ],
+    "wof:id": 705892053,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "E K Recycle",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.951975,
     41.15867,
     -81.951975,
     41.15867
-],
+  ],
   "geometry": {"coordinates":[-81.951975,41.15867],"type":"Point"}
 }

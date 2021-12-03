@@ -2,61 +2,65 @@
   "id": 689936929,
   "type": "Feature",
   "properties": {
-    "addr:full":"1009 Browns Chapel Rd Clarksburg OH 43115",
-    "addr:housenumber":"1009",
-    "addr:postcode":"43115",
-    "addr:street":"Browns Chapel Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.121323,39.488927,-83.121323,39.488927",
-    "geom:latitude":39.488927,
-    "geom:longitude":-83.121323,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1009 Browns Chapel Rd",
-    "sg:city":"Clarksburg",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1009 Browns Chapel Rd Clarksburg OH 43115",
+    "addr:housenumber": "1009",
+    "addr:postcode": "43115",
+    "addr:street": "Browns Chapel Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.121323,39.488927,-83.121323,39.488927",
+    "geom:latitude": 39.488927,
+    "geom:longitude": -83.121323,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1009 Browns Chapel Rd",
+    "sg:city": "Clarksburg",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 993 2382",
-    "sg:postcode":"43115",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 993 2382",
+    "sg:postcode": "43115",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2aTiv96AFvnll0PZ8H07IR_39.488927_-83.121323@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2aTiv96AFvnll0PZ8H07IR_39.488927_-83.121323@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785537,
-    "wof:geomhash":"544fda94281199272990358e561305d6",
-    "wof:hierarchy":[],
-    "wof:id":689936929,
-    "wof:lastmodified":1472640116,
-    "wof:name":"Browns Chapel United Methodist",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461785537,
+    "wof:geomhash": "d8ecab8d69736d947c1d7be7e287618d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689936929
+      }
+    ],
+    "wof:id": 689936929,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "Browns Chapel United Methodist",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.121323,
     39.488927,
     -83.121323,
     39.488927
-],
+  ],
   "geometry": {"coordinates":[-83.121323,39.488927],"type":"Point"}
 }

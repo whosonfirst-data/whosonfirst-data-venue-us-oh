@@ -2,61 +2,65 @@
   "id": 705934581,
   "type": "Feature",
   "properties": {
-    "addr:full":"13247 Edison St NE Alliance OH 44601",
-    "addr:housenumber":"13247",
-    "addr:postcode":"44601",
-    "addr:street":"Edison St Ne",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.152161,40.945396,-81.152161,40.945396",
-    "geom:latitude":40.945396,
-    "geom:longitude":-81.152161,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13247 Edison St NE",
-    "sg:city":"Alliance",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "13247 Edison St NE Alliance OH 44601",
+    "addr:housenumber": "13247",
+    "addr:postcode": "44601",
+    "addr:street": "Edison St Ne",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.152161,40.945396,-81.152161,40.945396",
+    "geom:latitude": 40.945396,
+    "geom:longitude": -81.152161,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13247 Edison St NE",
+    "sg:city": "Alliance",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 823 2770",
-    "sg:postcode":"44601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 823 2770",
+    "sg:postcode": "44601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6hT1cnMd1Jcj6vz4Ickxug_40.945396_-81.152161@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6hT1cnMd1Jcj6vz4Ickxug_40.945396_-81.152161@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792170,
-    "wof:geomhash":"26ad0df6238bc59ed2fbd28b48dc375f",
-    "wof:hierarchy":[],
-    "wof:id":705934581,
-    "wof:lastmodified":1472639665,
-    "wof:name":"SWA Photoworks",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461792170,
+    "wof:geomhash": "c4244dafb8138f9d8417099efdc98a6d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705934581
+      }
+    ],
+    "wof:id": 705934581,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "SWA Photoworks",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -81.152161,
     40.945396,
     -81.152161,
     40.945396
-],
-  "geometry": {"coordinates":[-81.15216100000001,40.945396],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.152161,40.945396],"type":"Point"}
 }

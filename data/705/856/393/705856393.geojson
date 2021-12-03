@@ -2,61 +2,65 @@
   "id": 705856393,
   "type": "Feature",
   "properties": {
-    "addr:full":"5224 Ridge Ave SE Canton OH 44707",
-    "addr:housenumber":"5224",
-    "addr:postcode":"44707",
-    "addr:street":"Ridge Ave Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.366941,40.739755,-81.366941,40.739755",
-    "geom:latitude":40.739755,
-    "geom:longitude":-81.366941,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5224 Ridge Ave SE",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5224 Ridge Ave SE Canton OH 44707",
+    "addr:housenumber": "5224",
+    "addr:postcode": "44707",
+    "addr:street": "Ridge Ave Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.366941,40.739755,-81.366941,40.739755",
+    "geom:latitude": 40.739755,
+    "geom:longitude": -81.366941,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5224 Ridge Ave SE",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 484 9477",
-    "sg:postcode":"44707",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 484 9477",
+    "sg:postcode": "44707",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5d5IxE2eUt3DN7sCnoOnKr_40.739755_-81.366941@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5d5IxE2eUt3DN7sCnoOnKr_40.739755_-81.366941@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790337,
-    "wof:geomhash":"4c6c9834939cd5dc75ed1c0289324d1d",
-    "wof:hierarchy":[],
-    "wof:id":705856393,
-    "wof:lastmodified":1472639420,
-    "wof:name":"Old Landmark Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461790337,
+    "wof:geomhash": "005838d9e421e492122f84aa40d212a3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705856393
+      }
+    ],
+    "wof:id": 705856393,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Old Landmark Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -81.366941,
     40.739755,
     -81.366941,
     40.739755
-],
+  ],
   "geometry": {"coordinates":[-81.366941,40.739755],"type":"Point"}
 }

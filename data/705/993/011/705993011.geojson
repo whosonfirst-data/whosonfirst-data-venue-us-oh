@@ -2,61 +2,65 @@
   "id": 705993011,
   "type": "Feature",
   "properties": {
-    "addr:full":"10220 Wooster Pike Creston OH 44217",
-    "addr:housenumber":"10220",
-    "addr:postcode":"44217",
-    "addr:street":"Wooster Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.889831,40.994498,-81.889831,40.994498",
-    "geom:latitude":40.994498,
-    "geom:longitude":-81.889831,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10220 Wooster Pike",
-    "sg:city":"Creston",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "10220 Wooster Pike Creston OH 44217",
+    "addr:housenumber": "10220",
+    "addr:postcode": "44217",
+    "addr:street": "Wooster Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.889831,40.994498,-81.889831,40.994498",
+    "geom:latitude": 40.994498,
+    "geom:longitude": -81.889831,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10220 Wooster Pike",
+    "sg:city": "Creston",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 435 4330",
-    "sg:postcode":"44217",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 435 4330",
+    "sg:postcode": "44217",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0yF4efgnPu0S950CNCPSRT_40.994498_-81.889831@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0yF4efgnPu0S950CNCPSRT_40.994498_-81.889831@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793426,
-    "wof:geomhash":"2f46f1ac8fd593926d9bdd75be5d56c4",
-    "wof:hierarchy":[],
-    "wof:id":705993011,
-    "wof:lastmodified":1472639784,
-    "wof:name":"Crossroads Assembly Of God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793426,
+    "wof:geomhash": "2e168a7b60f16375e95c50168a0dd5de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705993011
+      }
+    ],
+    "wof:id": 705993011,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Crossroads Assembly Of God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.889831,
     40.994498,
     -81.889831,
     40.994498
-],
+  ],
   "geometry": {"coordinates":[-81.889831,40.994498],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706268621,
   "type": "Feature",
   "properties": {
-    "addr:full":"12882 Heath Rd Chesterland OH 44026",
-    "addr:housenumber":"12882",
-    "addr:postcode":"44026",
-    "addr:street":"Heath Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.296997,41.519325,-81.296997,41.519325",
-    "geom:latitude":41.519325,
-    "geom:longitude":-81.296997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12882 Heath Rd",
-    "sg:city":"Chesterland",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "12882 Heath Rd Chesterland OH 44026",
+    "addr:housenumber": "12882",
+    "addr:postcode": "44026",
+    "addr:street": "Heath Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.296997,41.519325,-81.296997,41.519325",
+    "geom:latitude": 41.519325,
+    "geom:longitude": -81.296997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12882 Heath Rd",
+    "sg:city": "Chesterland",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 729 2648",
-    "sg:postcode":"44026",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 729 2648",
+    "sg:postcode": "44026",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5PAr1nrFk6hGALF5QzrhAd_41.519325_-81.296997@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5PAr1nrFk6hGALF5QzrhAd_41.519325_-81.296997@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799574,
-    "wof:geomhash":"27a45caa83f44f43957e1bcfbc504128",
-    "wof:hierarchy":[],
-    "wof:id":706268621,
-    "wof:lastmodified":1472639614,
-    "wof:name":"Hoverround Corp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461799574,
+    "wof:geomhash": "af1eb2b66dd6ab32403b54aaf2be7543",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706268621
+      }
+    ],
+    "wof:id": 706268621,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Hoverround Corp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -81.296997,
     41.519325,
     -81.296997,
     41.519325
-],
+  ],
   "geometry": {"coordinates":[-81.296997,41.519325],"type":"Point"}
 }

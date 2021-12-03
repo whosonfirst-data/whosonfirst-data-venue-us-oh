@@ -2,64 +2,68 @@
   "id": 705945379,
   "type": "Feature",
   "properties": {
-    "addr:full":"2096 Enterprise Dr Fremont OH 43420",
-    "addr:housenumber":"2096",
-    "addr:postcode":"43420",
-    "addr:street":"Enterprise Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.11519,41.373486,-83.11519,41.373486",
-    "geom:latitude":41.373486,
-    "geom:longitude":-83.11519,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2096 Enterprise Dr",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2096 Enterprise Dr Fremont OH 43420",
+    "addr:housenumber": "2096",
+    "addr:postcode": "43420",
+    "addr:street": "Enterprise Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.115190,41.373486,-83.115190,41.373486",
+    "geom:latitude": 41.373486,
+    "geom:longitude": -83.11519,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2096 Enterprise Dr",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 000 1111",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 000 1111",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574567,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5davUDtSVijeVQeedZMSoB_41.373486_-83.115190@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574567,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5davUDtSVijeVQeedZMSoB_41.373486_-83.115190@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792432,
-    "wof:geomhash":"30dd8c94c10995a3f79e5d47f5ca23f0",
-    "wof:hierarchy":[],
-    "wof:id":705945379,
-    "wof:lastmodified":1511324309,
-    "wof:name":"Aldi",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461792432,
+    "wof:geomhash": "30dd8c94c10995a3f79e5d47f5ca23f0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705945379
+      }
+    ],
+    "wof:id": 705945379,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Aldi",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -83.11519,
     41.373486,
     -83.11519,
     41.373486
-],
+  ],
   "geometry": {"coordinates":[-83.11519,41.373486],"type":"Point"}
 }

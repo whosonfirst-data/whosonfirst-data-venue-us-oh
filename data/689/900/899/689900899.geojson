@@ -2,63 +2,67 @@
   "id": 689900899,
   "type": "Feature",
   "properties": {
-    "addr:full":"1901 State Rte 134 Wilmington OH 45177",
-    "addr:housenumber":"1901",
-    "addr:postcode":"45177",
-    "addr:street":"State Rte 134",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.828422,39.428456,-83.828422,39.428456",
-    "geom:latitude":39.428456,
-    "geom:longitude":-83.828422,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1901 State Rte 134",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1901 State Rte 134 Wilmington OH 45177",
+    "addr:housenumber": "1901",
+    "addr:postcode": "45177",
+    "addr:street": "State Rte 134",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.828422,39.428456,-83.828422,39.428456",
+    "geom:latitude": 39.428456,
+    "geom:longitude": -83.828422,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1901 State Rte 134",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 684 2371",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "national",
-        "weather"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 684 2371",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "national",
+      "weather"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1gsfKQooBQKmiP6aYLrKcW_39.428456_-83.828422@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1gsfKQooBQKmiP6aYLrKcW_39.428456_-83.828422@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784598,
-    "wof:geomhash":"d2b78f9d791ac9684ebda7e5d4500a7b",
-    "wof:hierarchy":[],
-    "wof:id":689900899,
-    "wof:lastmodified":1472640055,
-    "wof:name":"National Weather Service",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "national",
-        "weather"
+    "wof:country": "US",
+    "wof:created": 1461784598,
+    "wof:geomhash": "c80a6cce6790b962d6089530a599e184",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689900899
+      }
+    ],
+    "wof:id": 689900899,
+    "wof:lastmodified": 1638567097,
+    "wof:name": "National Weather Service",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "national",
+      "weather"
     ]
-},
+  },
   "bbox": [
     -83.828422,
     39.428456,
     -83.828422,
     39.428456
-],
+  ],
   "geometry": {"coordinates":[-83.828422,39.428456],"type":"Point"}
 }

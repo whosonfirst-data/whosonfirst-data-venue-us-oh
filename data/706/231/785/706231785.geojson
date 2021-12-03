@@ -2,61 +2,65 @@
   "id": 706231785,
   "type": "Feature",
   "properties": {
-    "addr:full":"6152 Co Rd 17 Bryan OH 43506",
-    "addr:housenumber":"6152;17",
-    "addr:postcode":"43506",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.497019,41.500824,-84.497019,41.500824",
-    "geom:latitude":41.500824,
-    "geom:longitude":-84.497019,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6152 Co Rd 17",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6152 Co Rd 17 Bryan OH 43506",
+    "addr:housenumber": "6152;17",
+    "addr:postcode": "43506",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.497019,41.500824,-84.497019,41.500824",
+    "geom:latitude": 41.500824,
+    "geom:longitude": -84.497019,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6152 Co Rd 17",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 5766",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "special"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 5766",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "special"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5hsbj87sMn2iqpv1FqpBuc_41.500824_-84.497019@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5hsbj87sMn2iqpv1FqpBuc_41.500824_-84.497019@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798737,
-    "wof:geomhash":"78b1c72c82f786a0fc22f7a62a1777a9",
-    "wof:hierarchy":[],
-    "wof:id":706231785,
-    "wof:lastmodified":1472639572,
-    "wof:name":"Self Service Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "special"
+    "wof:country": "US",
+    "wof:created": 1461798737,
+    "wof:geomhash": "cdac11f349ac4e286fa8fe9db70e7db7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706231785
+      }
+    ],
+    "wof:id": 706231785,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "Self Service Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "special"
     ]
-},
+  },
   "bbox": [
     -84.497019,
     41.500824,
     -84.497019,
     41.500824
-],
-  "geometry": {"coordinates":[-84.49701899999999,41.500824],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.497019,41.500824],"type":"Point"}
 }

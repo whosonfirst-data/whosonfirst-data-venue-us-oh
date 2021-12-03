@@ -2,63 +2,67 @@
   "id": 705705059,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 East St Liberty Center OH 43532",
-    "addr:housenumber":"111",
-    "addr:postcode":"43532",
-    "addr:street":"East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.00755,41.443788,-84.00755,41.443788",
-    "geom:latitude":41.443788,
-    "geom:longitude":-84.00755,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 East St",
-    "sg:city":"Liberty Center",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "111 East St Liberty Center OH 43532",
+    "addr:housenumber": "111",
+    "addr:postcode": "43532",
+    "addr:street": "East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.007550,41.443788,-84.007550,41.443788",
+    "geom:latitude": 41.443788,
+    "geom:longitude": -84.00755,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 East St",
+    "sg:city": "Liberty Center",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 533 0990",
-    "sg:postcode":"43532",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "music"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 533 0990",
+    "sg:postcode": "43532",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "music"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5eqD3xKkYPrgGSPIotjlek_41.443788_-84.007550@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5eqD3xKkYPrgGSPIotjlek_41.443788_-84.007550@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786730,
-    "wof:geomhash":"1c149ebd766a9ea34a8a687ad32ee39b",
-    "wof:hierarchy":[],
-    "wof:id":705705059,
-    "wof:lastmodified":1472638268,
-    "wof:name":"Karin's Music Teaching Studio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "music"
+    "wof:country": "US",
+    "wof:created": 1461786730,
+    "wof:geomhash": "c89feeb2833c39305d5aec2cbd1cd9a7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705705059
+      }
+    ],
+    "wof:id": 705705059,
+    "wof:lastmodified": 1638566922,
+    "wof:name": "Karin's Music Teaching Studio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "music"
     ]
-},
+  },
   "bbox": [
     -84.00755,
     41.443788,
     -84.00755,
     41.443788
-],
-  "geometry": {"coordinates":[-84.00754999999999,41.443788],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.00755,41.443788],"type":"Point"}
 }

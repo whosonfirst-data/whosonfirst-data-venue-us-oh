@@ -2,61 +2,65 @@
   "id": 689776481,
   "type": "Feature",
   "properties": {
-    "addr:full":"2390 Parkman Rd NW Warren OH 44485",
-    "addr:housenumber":"2390",
-    "addr:postcode":"44485",
-    "addr:street":"Parkman Rd Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.85572,41.252251,-80.85572,41.252251",
-    "geom:latitude":41.252251,
-    "geom:longitude":-80.85572,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2390 Parkman Rd NW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2390 Parkman Rd NW Warren OH 44485",
+    "addr:housenumber": "2390",
+    "addr:postcode": "44485",
+    "addr:street": "Parkman Rd Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.855720,41.252251,-80.855720,41.252251",
+    "geom:latitude": 41.252251,
+    "geom:longitude": -80.85572,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2390 Parkman Rd NW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 373 1414",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 373 1414",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4AbmvUIADTXJjR7nMEmAdj_41.252251_-80.855720@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4AbmvUIADTXJjR7nMEmAdj_41.252251_-80.855720@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781157,
-    "wof:geomhash":"ead7aa9f930648c6dda228d8eb65a897",
-    "wof:hierarchy":[],
-    "wof:id":689776481,
-    "wof:lastmodified":1472639836,
-    "wof:name":"Mehta Paresh G MD",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461781157,
+    "wof:geomhash": "b9b91d09946108fe8286e1d109fdfe9e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689776481
+      }
+    ],
+    "wof:id": 689776481,
+    "wof:lastmodified": 1638567050,
+    "wof:name": "Mehta Paresh G MD",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -80.85572,
     41.252251,
     -80.85572,
     41.252251
-],
-  "geometry": {"coordinates":[-80.85572000000001,41.252251],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.85572,41.252251],"type":"Point"}
 }

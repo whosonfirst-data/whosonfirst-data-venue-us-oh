@@ -2,80 +2,81 @@
   "id": 186382301,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 E Main St Springfield OH 45503",
-    "addr:housenumber":"204",
-    "addr:postcode":"45503",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.804469,39.92432,-83.804469,39.92432",
-    "geom:latitude":39.92432,
-    "geom:longitude":-83.804469,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"204 E Main St",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "204 E Main St Springfield OH 45503",
+    "addr:housenumber": "204",
+    "addr:postcode": "45503",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.804469,39.924320,-83.804469,39.924320",
+    "geom:latitude": 39.92432,
+    "geom:longitude": -83.804469,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "204 E Main St",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 323 1190",
-    "sg:postcode":"45503",
-    "sg:province":"OH",
-    "sg:tags":[
-        "personal",
-        "drinking",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 323 1190",
+    "sg:postcode": "45503",
+    "sg:province": "OH",
+    "sg:tags": [
+      "personal",
+      "drinking",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        85982959,
-        102083685,
-        85837711
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      85982959,
+      102083685,
+      85837711
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3O4siGqfKYadQf01pmG2or_39.924320_-83.804469@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3O4siGqfKYadQf01pmG2or_39.924320_-83.804469@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d836d6ea9a208d7bb9bad65925a6d7fb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083685,
-            "locality_id":85982959,
-            "neighbourhood_id":85837711,
-            "region_id":85688485,
-            "venue_id":186382301
-        }
+    "wof:country": "US",
+    "wof:created": 1638566867,
+    "wof:geomhash": "0b85aa7de4a672b0ba4d648d6bee401d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083685,
+        "locality_id": 85982959,
+        "neighbourhood_id": 85837711,
+        "region_id": 85688485,
+        "venue_id": 186382301
+      }
     ],
-    "wof:id":186382301,
-    "wof:lastmodified":1472638633,
-    "wof:name":"Old Town Tavern",
-    "wof:parent_id":85837711,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "personal",
-        "drinking",
-        "eating"
+    "wof:id": 186382301,
+    "wof:lastmodified": 1638566867,
+    "wof:name": "Old Town Tavern",
+    "wof:parent_id": 85837711,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "personal",
+      "drinking",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.804469,
     39.92432,
     -83.804469,
     39.92432
-],
+  ],
   "geometry": {"coordinates":[-83.804469,39.92432],"type":"Point"}
 }

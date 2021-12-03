@@ -2,61 +2,65 @@
   "id": 705706477,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 E 2nd St Manchester OH 45144",
-    "addr:housenumber":"206",
-    "addr:postcode":"45144",
-    "addr:street":"E 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.606955,38.68749,-83.606955,38.68749",
-    "geom:latitude":38.68749,
-    "geom:longitude":-83.606955,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"206 E 2nd St",
-    "sg:city":"Manchester",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "206 E 2nd St Manchester OH 45144",
+    "addr:housenumber": "206",
+    "addr:postcode": "45144",
+    "addr:street": "E 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.606955,38.687490,-83.606955,38.687490",
+    "geom:latitude": 38.68749,
+    "geom:longitude": -83.606955,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "206 E 2nd St",
+    "sg:city": "Manchester",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 549 1843",
-    "sg:postcode":"45144",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 549 1843",
+    "sg:postcode": "45144",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5t3JZnA2OXjiT2A6Pa5QQD_38.687490_-83.606955@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5t3JZnA2OXjiT2A6Pa5QQD_38.687490_-83.606955@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786778,
-    "wof:geomhash":"3683957894c091c505081e55fbf56bf8",
-    "wof:hierarchy":[],
-    "wof:id":705706477,
-    "wof:lastmodified":1472638350,
-    "wof:name":"Special Touch Homecare",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home"
+    "wof:country": "US",
+    "wof:created": 1461786778,
+    "wof:geomhash": "1c9bd50f41ca892397952166f04c70bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705706477
+      }
+    ],
+    "wof:id": 705706477,
+    "wof:lastmodified": 1638566923,
+    "wof:name": "Special Touch Homecare",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home"
     ]
-},
+  },
   "bbox": [
     -83.606955,
     38.68749,
     -83.606955,
     38.68749
-],
+  ],
   "geometry": {"coordinates":[-83.606955,38.68749],"type":"Point"}
 }

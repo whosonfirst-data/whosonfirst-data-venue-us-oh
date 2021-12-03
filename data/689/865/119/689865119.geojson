@@ -2,61 +2,65 @@
   "id": 689865119,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 E Franklin St Kenton OH 43326",
-    "addr:housenumber":"900",
-    "addr:postcode":"43326",
-    "addr:street":"E Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.596082,40.645532,-83.596082,40.645532",
-    "geom:latitude":40.645532,
-    "geom:longitude":-83.596082,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"900 E Franklin St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "900 E Franklin St Kenton OH 43326",
+    "addr:housenumber": "900",
+    "addr:postcode": "43326",
+    "addr:street": "E Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.596082,40.645532,-83.596082,40.645532",
+    "geom:latitude": 40.645532,
+    "geom:longitude": -83.596082,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "900 E Franklin St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 673 0597",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 673 0597",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7d4BjZHemNOtsM5XQyVEY7_40.645532_-83.596082@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7d4BjZHemNOtsM5XQyVEY7_40.645532_-83.596082@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783654,
-    "wof:geomhash":"6384665076081e0e44a949f4be952253",
-    "wof:hierarchy":[],
-    "wof:id":689865119,
-    "wof:lastmodified":1472639943,
-    "wof:name":"Kenton Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461783654,
+    "wof:geomhash": "5f9de5b00a4eb4f249f39a27268ad43b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689865119
+      }
+    ],
+    "wof:id": 689865119,
+    "wof:lastmodified": 1638567091,
+    "wof:name": "Kenton Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -83.596082,
     40.645532,
     -83.596082,
     40.645532
-],
+  ],
   "geometry": {"coordinates":[-83.596082,40.645532],"type":"Point"}
 }

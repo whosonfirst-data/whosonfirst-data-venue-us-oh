@@ -2,63 +2,67 @@
   "id": 706096421,
   "type": "Feature",
   "properties": {
-    "addr:full":"324 Perry St Defiance OH 43512",
-    "addr:housenumber":"324",
-    "addr:postcode":"43512",
-    "addr:street":"Perry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.363561,41.28696,-84.363561,41.28696",
-    "geom:latitude":41.28696,
-    "geom:longitude":-84.363561,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"324 Perry St",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "324 Perry St Defiance OH 43512",
+    "addr:housenumber": "324",
+    "addr:postcode": "43512",
+    "addr:street": "Perry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.363561,41.286960,-84.363561,41.286960",
+    "geom:latitude": 41.28696,
+    "geom:longitude": -84.363561,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "324 Perry St",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 784 2117",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "city",
-        "taxation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 784 2117",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "city",
+      "taxation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4zUS8AguOe5unWBplEsEXw_41.286960_-84.363561@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4zUS8AguOe5unWBplEsEXw_41.286960_-84.363561@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795703,
-    "wof:geomhash":"0def1ad05b286adb562108fe9d0649bc",
-    "wof:hierarchy":[],
-    "wof:id":706096421,
-    "wof:lastmodified":1472639232,
-    "wof:name":"Defiance Income Tax",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city",
-        "taxation"
+    "wof:country": "US",
+    "wof:created": 1461795703,
+    "wof:geomhash": "d26c2cedaac3ebb795d85d5a924c05a3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706096421
+      }
+    ],
+    "wof:id": 706096421,
+    "wof:lastmodified": 1638566986,
+    "wof:name": "Defiance Income Tax",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city",
+      "taxation"
     ]
-},
+  },
   "bbox": [
     -84.363561,
     41.28696,
     -84.363561,
     41.28696
-],
+  ],
   "geometry": {"coordinates":[-84.363561,41.28696],"type":"Point"}
 }

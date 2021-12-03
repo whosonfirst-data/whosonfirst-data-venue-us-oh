@@ -2,61 +2,65 @@
   "id": 705831043,
   "type": "Feature",
   "properties": {
-    "addr:full":"7987 Broadview Rd Cleveland OH 44147",
-    "addr:housenumber":"7987",
-    "addr:postcode":"44147",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.684523,41.347667,-81.684523,41.347667",
-    "geom:latitude":41.347667,
-    "geom:longitude":-81.684523,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7987 Broadview Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "7987 Broadview Rd Cleveland OH 44147",
+    "addr:housenumber": "7987",
+    "addr:postcode": "44147",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.684523,41.347667,-81.684523,41.347667",
+    "geom:latitude": 41.347667,
+    "geom:longitude": -81.684523,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7987 Broadview Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 717 1788",
-    "sg:postcode":"44147",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 717 1788",
+    "sg:postcode": "44147",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7gRUK8kWUouU01V4xBDNls_41.347667_-81.684523@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7gRUK8kWUouU01V4xBDNls_41.347667_-81.684523@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789758,
-    "wof:geomhash":"bd4ac3fc2cad84a974f8c6efa3938460",
-    "wof:hierarchy":[],
-    "wof:id":705831043,
-    "wof:lastmodified":1472639341,
-    "wof:name":"Super Tan",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461789758,
+    "wof:geomhash": "b7e59576ca63efc1c594ecfdf2c9fc4e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705831043
+      }
+    ],
+    "wof:id": 705831043,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Super Tan",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.684523,
     41.347667,
     -81.684523,
     41.347667
-],
+  ],
   "geometry": {"coordinates":[-81.684523,41.347667],"type":"Point"}
 }

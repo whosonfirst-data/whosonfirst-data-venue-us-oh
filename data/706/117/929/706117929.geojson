@@ -2,61 +2,65 @@
   "id": 706117929,
   "type": "Feature",
   "properties": {
-    "addr:full":"13760 Madison Rd Middlefield OH 44062",
-    "addr:housenumber":"13760",
-    "addr:postcode":"44062",
-    "addr:street":"Madison Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.051472,41.499632,-81.051472,41.499632",
-    "geom:latitude":41.499632,
-    "geom:longitude":-81.051472,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13760 Madison Rd",
-    "sg:city":"Middlefield",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "13760 Madison Rd Middlefield OH 44062",
+    "addr:housenumber": "13760",
+    "addr:postcode": "44062",
+    "addr:street": "Madison Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.051472,41.499632,-81.051472,41.499632",
+    "geom:latitude": 41.499632,
+    "geom:longitude": -81.051472,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13760 Madison Rd",
+    "sg:city": "Middlefield",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 632 5609",
-    "sg:postcode":"44062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "taxicab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 632 5609",
+    "sg:postcode": "44062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "taxicab"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5GQVR9uVsadxHvmbKVNjwC_41.499632_-81.051472@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5GQVR9uVsadxHvmbKVNjwC_41.499632_-81.051472@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796220,
-    "wof:geomhash":"187e0fb353bf103ecb338cb3bd36a56a",
-    "wof:hierarchy":[],
-    "wof:id":706117929,
-    "wof:lastmodified":1472639302,
-    "wof:name":"Amish Taxi",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxicab"
+    "wof:country": "US",
+    "wof:created": 1461796220,
+    "wof:geomhash": "46cc4eb486fb8bd36b0c8fee5ef1e51f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706117929
+      }
+    ],
+    "wof:id": 706117929,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Amish Taxi",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxicab"
     ]
-},
+  },
   "bbox": [
     -81.051472,
     41.499632,
     -81.051472,
     41.499632
-],
+  ],
   "geometry": {"coordinates":[-81.051472,41.499632],"type":"Point"}
 }

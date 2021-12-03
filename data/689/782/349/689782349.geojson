@@ -2,63 +2,67 @@
   "id": 689782349,
   "type": "Feature",
   "properties": {
-    "addr:full":"3722 Hommon Rd Ravenna OH 44266",
-    "addr:housenumber":"3722",
-    "addr:postcode":"44266",
-    "addr:street":"Hommon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.257065,41.148818,-81.257065,41.148818",
-    "geom:latitude":41.148818,
-    "geom:longitude":-81.257065,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3722 Hommon Rd",
-    "sg:city":"Ravenna",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Sewage",
-            "type":"Services"
-        }
+    "addr:full": "3722 Hommon Rd Ravenna OH 44266",
+    "addr:housenumber": "3722",
+    "addr:postcode": "44266",
+    "addr:street": "Hommon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.257065,41.148818,-81.257065,41.148818",
+    "geom:latitude": 41.148818,
+    "geom:longitude": -81.257065,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3722 Hommon Rd",
+    "sg:city": "Ravenna",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Sewage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 296 5214",
-    "sg:postcode":"44266",
-    "sg:province":"OH",
-    "sg:tags":[
-        "equipment",
-        "treatment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 296 5214",
+    "sg:postcode": "44266",
+    "sg:province": "OH",
+    "sg:tags": [
+      "equipment",
+      "treatment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_403rFkQXsANqZ8wzuhpbVj_41.148818_-81.257065@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_403rFkQXsANqZ8wzuhpbVj_41.148818_-81.257065@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781324,
-    "wof:geomhash":"0a73a5ce07fb9fe218aa6d1d5da634e2",
-    "wof:hierarchy":[],
-    "wof:id":689782349,
-    "wof:lastmodified":1472639845,
-    "wof:name":"City-Ravenna Waste Water",
-    "wof:parent_id":420535149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "equipment",
-        "treatment"
+    "wof:country": "US",
+    "wof:created": 1461781324,
+    "wof:geomhash": "51617d57f2c0a536817ef63435171dbf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689782349
+      }
+    ],
+    "wof:id": 689782349,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "City-Ravenna Waste Water",
+    "wof:parent_id": 420535149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "equipment",
+      "treatment"
     ]
-},
+  },
   "bbox": [
     -81.257065,
     41.148818,
     -81.257065,
     41.148818
-],
+  ],
   "geometry": {"coordinates":[-81.257065,41.148818],"type":"Point"}
 }

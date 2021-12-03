@@ -2,61 +2,65 @@
   "id": 689715267,
   "type": "Feature",
   "properties": {
-    "addr:full":"6875 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"6875",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.399407,39.324486,-84.399407,39.324486",
-    "geom:latitude":39.324486,
-    "geom:longitude":-84.399407,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6875 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "6875 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "6875",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.399407,39.324486,-84.399407,39.324486",
+    "geom:latitude": 39.324486,
+    "geom:longitude": -84.399407,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6875 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 755 9999",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 755 9999",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0JcRz7vgYsIjdXscbZ1Ipy_39.324486_-84.399407@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0JcRz7vgYsIjdXscbZ1Ipy_39.324486_-84.399407@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779534,
-    "wof:geomhash":"1f2aec984a1dce64777700d2aafaf276",
-    "wof:hierarchy":[],
-    "wof:id":689715267,
-    "wof:lastmodified":1472639710,
-    "wof:name":"Pfister Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461779534,
+    "wof:geomhash": "3d965ebed1dad158e44e8932f0145371",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689715267
+      }
+    ],
+    "wof:id": 689715267,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Pfister Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.399407,
     39.324486,
     -84.399407,
     39.324486
-],
+  ],
   "geometry": {"coordinates":[-84.399407,39.324486],"type":"Point"}
 }

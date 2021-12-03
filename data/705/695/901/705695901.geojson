@@ -2,61 +2,65 @@
   "id": 705695901,
   "type": "Feature",
   "properties": {
-    "addr:full":"241 1st St SW Warren OH 44485",
-    "addr:housenumber":"241",
-    "addr:postcode":"44485",
-    "addr:street":"1St St Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.820525,41.22604,-80.820525,41.22604",
-    "geom:latitude":41.22604,
-    "geom:longitude":-80.820525,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"241 1st St SW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "241 1st St SW Warren OH 44485",
+    "addr:housenumber": "241",
+    "addr:postcode": "44485",
+    "addr:street": "1St St Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.820525,41.226040,-80.820525,41.226040",
+    "geom:latitude": 41.22604,
+    "geom:longitude": -80.820525,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "241 1st St SW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 393 4296",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 393 4296",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0diJkWobnMJa4IFLtICA7D_41.226040_-80.820525@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0diJkWobnMJa4IFLtICA7D_41.226040_-80.820525@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786334,
-    "wof:geomhash":"63c44d71258616a7a9fba61a9f3ae10b",
-    "wof:hierarchy":[],
-    "wof:id":705695901,
-    "wof:lastmodified":1472638227,
-    "wof:name":"Third Christian Church",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461786334,
+    "wof:geomhash": "85ac3f18a09632f96ed7826517c56f56",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705695901
+      }
+    ],
+    "wof:id": 705695901,
+    "wof:lastmodified": 1638566914,
+    "wof:name": "Third Christian Church",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -80.820525,
     41.22604,
     -80.820525,
     41.22604
-],
+  ],
   "geometry": {"coordinates":[-80.820525,41.22604],"type":"Point"}
 }

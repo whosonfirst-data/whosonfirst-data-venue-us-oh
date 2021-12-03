@@ -2,63 +2,67 @@
   "id": 706201121,
   "type": "Feature",
   "properties": {
-    "addr:full":"702 N Main St Arcanum OH 45304",
-    "addr:housenumber":"702",
-    "addr:postcode":"45304",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.553682,40.000376,-84.553682,40.000376",
-    "geom:latitude":40.000376,
-    "geom:longitude":-84.553682,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"702 N Main St",
-    "sg:city":"Arcanum",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "702 N Main St Arcanum OH 45304",
+    "addr:housenumber": "702",
+    "addr:postcode": "45304",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.553682,40.000376,-84.553682,40.000376",
+    "geom:latitude": 40.000376,
+    "geom:longitude": -84.553682,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "702 N Main St",
+    "sg:city": "Arcanum",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 692 6601",
-    "sg:postcode":"45304",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 692 6601",
+    "sg:postcode": "45304",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uEyBbdFKlBoY7nKoHp1uO_40.000376_-84.553682@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1uEyBbdFKlBoY7nKoHp1uO_40.000376_-84.553682@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798098,
-    "wof:geomhash":"8584f2db176828db26371f1dfa8e2aad",
-    "wof:hierarchy":[],
-    "wof:id":706201121,
-    "wof:lastmodified":1472639488,
-    "wof:name":"Family Health Svc-Dark County",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461798098,
+    "wof:geomhash": "4a5d84bff3ebe7e1a84168c3b590aa60",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706201121
+      }
+    ],
+    "wof:id": 706201121,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Family Health Svc-Dark County",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.553682,
     40.000376,
     -84.553682,
     40.000376
-],
-  "geometry": {"coordinates":[-84.55368199999999,40.000376],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.553682,40.000376],"type":"Point"}
 }

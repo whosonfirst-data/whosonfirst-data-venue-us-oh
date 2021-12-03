@@ -2,61 +2,65 @@
   "id": 706351719,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 Main St Cincinnati OH 45202",
-    "addr:housenumber":"301",
-    "addr:postcode":"45202",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.509262,39.09968,-84.509262,39.09968",
-    "geom:latitude":39.09968,
-    "geom:longitude":-84.509262,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"301 Main St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Parking",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "301 Main St Cincinnati OH 45202",
+    "addr:housenumber": "301",
+    "addr:postcode": "45202",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.509262,39.099680,-84.509262,39.099680",
+    "geom:latitude": 39.09968,
+    "geom:longitude": -84.509262,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "301 Main St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Parking",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 684 9341",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 684 9341",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4o6OBcIkIVU5ZtYCDmc9xU_39.099680_-84.509262@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4o6OBcIkIVU5ZtYCDmc9xU_39.099680_-84.509262@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801441,
-    "wof:geomhash":"4fcc1fbc0865f5fac4e146b6461c0f3a",
-    "wof:hierarchy":[],
-    "wof:id":706351719,
-    "wof:lastmodified":1472639895,
-    "wof:name":"Imperial Parking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garage"
+    "wof:country": "US",
+    "wof:created": 1461801441,
+    "wof:geomhash": "7084d28134afdf5944f12a90ef7c9609",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706351719
+      }
+    ],
+    "wof:id": 706351719,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Imperial Parking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garage"
     ]
-},
+  },
   "bbox": [
     -84.509262,
     39.09968,
     -84.509262,
     39.09968
-],
-  "geometry": {"coordinates":[-84.50926200000001,39.09968],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.509262,39.09968],"type":"Point"}
 }

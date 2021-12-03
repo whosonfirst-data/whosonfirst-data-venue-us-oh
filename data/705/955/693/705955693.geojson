@@ -2,63 +2,67 @@
   "id": 705955693,
   "type": "Feature",
   "properties": {
-    "addr:full":"2795 Old Columbus Rd London OH 43140",
-    "addr:housenumber":"2795",
-    "addr:postcode":"43140",
-    "addr:street":"Old Columbus Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.489368,39.948581,-83.489368,39.948581",
-    "geom:latitude":39.948581,
-    "geom:longitude":-83.489368,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2795 Old Columbus Rd",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Sewage",
-            "type":"Services"
-        }
+    "addr:full": "2795 Old Columbus Rd London OH 43140",
+    "addr:housenumber": "2795",
+    "addr:postcode": "43140",
+    "addr:street": "Old Columbus Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.489368,39.948581,-83.489368,39.948581",
+    "geom:latitude": 39.948581,
+    "geom:longitude": -83.489368,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2795 Old Columbus Rd",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Sewage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 845 1284",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "disposal",
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 845 1284",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "disposal",
+      "system"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7BihSnsp5Iu5im76QgooWF_39.948581_-83.489368@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7BihSnsp5Iu5im76QgooWF_39.948581_-83.489368@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792664,
-    "wof:geomhash":"a0ee1618d2d3d851f04db5258de8fa66",
-    "wof:hierarchy":[],
-    "wof:id":705955693,
-    "wof:lastmodified":1472639726,
-    "wof:name":"Madison County Sewer District",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "disposal",
-        "system"
+    "wof:country": "US",
+    "wof:created": 1461792664,
+    "wof:geomhash": "fb44bde1986a77fdd4929c672b39ff11",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705955693
+      }
+    ],
+    "wof:id": 705955693,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Madison County Sewer District",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "disposal",
+      "system"
     ]
-},
+  },
   "bbox": [
     -83.489368,
     39.948581,
     -83.489368,
     39.948581
-],
+  ],
   "geometry": {"coordinates":[-83.489368,39.948581],"type":"Point"}
 }

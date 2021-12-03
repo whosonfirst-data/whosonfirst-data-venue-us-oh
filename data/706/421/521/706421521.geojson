@@ -2,65 +2,69 @@
   "id": 706421521,
   "type": "Feature",
   "properties": {
-    "addr:full":"4802 Osborn Rd Cleveland OH 44128",
-    "addr:housenumber":"4802",
-    "addr:postcode":"44128",
-    "addr:street":"Osborn Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.581857,41.429557,-81.581857,41.429557",
-    "geom:latitude":41.429557,
-    "geom:longitude":-81.581857,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4802 Osborn Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "4802 Osborn Rd Cleveland OH 44128",
+    "addr:housenumber": "4802",
+    "addr:postcode": "44128",
+    "addr:street": "Osborn Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.581857,41.429557,-81.581857,41.429557",
+    "geom:latitude": 41.429557,
+    "geom:longitude": -81.581857,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4802 Osborn Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 662 6042",
-    "sg:postcode":"44128",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 662 6042",
+    "sg:postcode": "44128",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4RzciAZac5gkhrmviepptD_41.429557_-81.581857@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4RzciAZac5gkhrmviepptD_41.429557_-81.581857@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802823,
-    "wof:geomhash":"461e0e0d4bbeb9ba1a4c77284a268b32",
-    "wof:hierarchy":[],
-    "wof:id":706421521,
-    "wof:lastmodified":1472640006,
-    "wof:name":"Joe Vince Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461802823,
+    "wof:geomhash": "66ba14801fd2cd74da8dea34beb84b01",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706421521
+      }
+    ],
+    "wof:id": 706421521,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Joe Vince Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.581857,
     41.429557,
     -81.581857,
     41.429557
-],
+  ],
   "geometry": {"coordinates":[-81.581857,41.429557],"type":"Point"}
 }

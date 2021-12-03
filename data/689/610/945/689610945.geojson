@@ -2,61 +2,65 @@
   "id": 689610945,
   "type": "Feature",
   "properties": {
-    "addr:full":"134 Maple Ave Andover OH 44003",
-    "addr:housenumber":"134",
-    "addr:postcode":"44003",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.572872,41.612186,-80.572872,41.612186",
-    "geom:latitude":41.612186,
-    "geom:longitude":-80.572872,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"134 Maple Ave",
-    "sg:city":"Andover",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "134 Maple Ave Andover OH 44003",
+    "addr:housenumber": "134",
+    "addr:postcode": "44003",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.572872,41.612186,-80.572872,41.612186",
+    "geom:latitude": 41.612186,
+    "geom:longitude": -80.572872,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "134 Maple Ave",
+    "sg:city": "Andover",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 293 4555",
-    "sg:postcode":"44003",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 293 4555",
+    "sg:postcode": "44003",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2HlshcjwdwxRBmbTUOw7zt_41.612186_-80.572872@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2HlshcjwdwxRBmbTUOw7zt_41.612186_-80.572872@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776637,
-    "wof:geomhash":"480d501f241f96d174bbb4ac2bbc3a48",
-    "wof:hierarchy":[],
-    "wof:id":689610945,
-    "wof:lastmodified":1472639437,
-    "wof:name":"Andover Village Police Dept",
-    "wof:parent_id":420534555,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461776637,
+    "wof:geomhash": "5c7346b12ae31507ceb12d3f765cf1ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689610945
+      }
+    ],
+    "wof:id": 689610945,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "Andover Village Police Dept",
+    "wof:parent_id": 420534555,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -80.572872,
     41.612186,
     -80.572872,
     41.612186
-],
+  ],
   "geometry": {"coordinates":[-80.572872,41.612186],"type":"Point"}
 }

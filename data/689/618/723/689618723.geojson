@@ -2,61 +2,65 @@
   "id": 689618723,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Eastlake Dr Ashland OH 44805",
-    "addr:housenumber":"400",
-    "addr:postcode":"44805",
-    "addr:street":"Eastlake Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.306405,40.889875,-82.306405,40.889875",
-    "geom:latitude":40.889875,
-    "geom:longitude":-82.306405,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"400 Eastlake Dr",
-    "sg:city":"Ashland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "400 Eastlake Dr Ashland OH 44805",
+    "addr:housenumber": "400",
+    "addr:postcode": "44805",
+    "addr:street": "Eastlake Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.306405,40.889875,-82.306405,40.889875",
+    "geom:latitude": 40.889875,
+    "geom:longitude": -82.306405,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "400 Eastlake Dr",
+    "sg:city": "Ashland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 281 6001",
-    "sg:postcode":"44805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "fraternal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 281 6001",
+    "sg:postcode": "44805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "fraternal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3N7W97iUjZVM9jm8igJTo4_40.889875_-82.306405@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3N7W97iUjZVM9jm8igJTo4_40.889875_-82.306405@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776858,
-    "wof:geomhash":"c664bc110c5967450ab27eb90d348b6a",
-    "wof:hierarchy":[],
-    "wof:id":689618723,
-    "wof:lastmodified":1472639469,
-    "wof:name":"Eagle's Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fraternal"
+    "wof:country": "US",
+    "wof:created": 1461776858,
+    "wof:geomhash": "c863990e8ce1ab01ce89c5ecd469a96c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689618723
+      }
+    ],
+    "wof:id": 689618723,
+    "wof:lastmodified": 1638567000,
+    "wof:name": "Eagle's Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fraternal"
     ]
-},
+  },
   "bbox": [
     -82.306405,
     40.889875,
     -82.306405,
     40.889875
-],
+  ],
   "geometry": {"coordinates":[-82.306405,40.889875],"type":"Point"}
 }

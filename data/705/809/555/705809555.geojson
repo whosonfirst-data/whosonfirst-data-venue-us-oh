@@ -2,61 +2,65 @@
   "id": 705809555,
   "type": "Feature",
   "properties": {
-    "addr:full":"16280 Dresden Ave East Liverpool OH 43920",
-    "addr:housenumber":"",
-    "addr:postcode":"16280;43920",
-    "addr:street":"Dresden Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.58768,40.658746,-80.58768,40.658746",
-    "geom:latitude":40.658746,
-    "geom:longitude":-80.58768,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16280 Dresden Ave",
-    "sg:city":"East Liverpool",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Jewelry",
-            "type":"Retail Goods"
-        }
+    "addr:full": "16280 Dresden Ave East Liverpool OH 43920",
+    "addr:housenumber": "",
+    "addr:postcode": "16280;43920",
+    "addr:street": "Dresden Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.587680,40.658746,-80.587680,40.658746",
+    "geom:latitude": 40.658746,
+    "geom:longitude": -80.58768,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16280 Dresden Ave",
+    "sg:city": "East Liverpool",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Jewelry",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 382 1101",
-    "sg:postcode":"43920",
-    "sg:province":"OH",
-    "sg:tags":[
-        "jeweler"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 382 1101",
+    "sg:postcode": "43920",
+    "sg:province": "OH",
+    "sg:tags": [
+      "jeweler"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7AK4L72BrbNOgzHSJjhPh6_40.658746_-80.587680@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7AK4L72BrbNOgzHSJjhPh6_40.658746_-80.587680@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789221,
-    "wof:geomhash":"d879cdad0ad7621b4e70548668e1ae57",
-    "wof:hierarchy":[],
-    "wof:id":705809555,
-    "wof:lastmodified":1472639303,
-    "wof:name":"King's Jewelry",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "jeweler"
+    "wof:country": "US",
+    "wof:created": 1461789221,
+    "wof:geomhash": "4b392f4487d0d8ac3ff23f70f307f3ed",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705809555
+      }
+    ],
+    "wof:id": 705809555,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "King's Jewelry",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "jeweler"
     ]
-},
+  },
   "bbox": [
     -80.58768,
     40.658746,
     -80.58768,
     40.658746
-],
-  "geometry": {"coordinates":[-80.58768000000001,40.658746],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.58768,40.658746],"type":"Point"}
 }

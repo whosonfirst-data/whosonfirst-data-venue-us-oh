@@ -2,61 +2,65 @@
   "id": 705818003,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 W Lake Ave New Carlisle OH 45344",
-    "addr:housenumber":"101",
-    "addr:postcode":"45344",
-    "addr:street":"W Lake Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.02466,39.94076,-84.02466,39.94076",
-    "geom:latitude":39.94076,
-    "geom:longitude":-84.02466,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 W Lake Ave",
-    "sg:city":"New Carlisle",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "101 W Lake Ave New Carlisle OH 45344",
+    "addr:housenumber": "101",
+    "addr:postcode": "45344",
+    "addr:street": "W Lake Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.024660,39.940760,-84.024660,39.940760",
+    "geom:latitude": 39.94076,
+    "geom:longitude": -84.02466,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 W Lake Ave",
+    "sg:city": "New Carlisle",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 845 3777",
-    "sg:postcode":"45344",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 845 3777",
+    "sg:postcode": "45344",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2T3Uho3qaaJL9y66cJFbEh_39.940760_-84.024660@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2T3Uho3qaaJL9y66cJFbEh_39.940760_-84.024660@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789435,
-    "wof:geomhash":"b8433d5c6970df75c85ca9f3de137f60",
-    "wof:hierarchy":[],
-    "wof:id":705818003,
-    "wof:lastmodified":1472639284,
-    "wof:name":"Absolutely Tan & Gift Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461789435,
+    "wof:geomhash": "1f3adb08c86ec92a2c7a45687367cd1c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705818003
+      }
+    ],
+    "wof:id": 705818003,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "Absolutely Tan \u0026 Gift Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -84.02466,
     39.94076,
     -84.02466,
     39.94076
-],
+  ],
   "geometry": {"coordinates":[-84.02466,39.94076],"type":"Point"}
 }

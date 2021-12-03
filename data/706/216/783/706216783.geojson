@@ -2,61 +2,65 @@
   "id": 706216783,
   "type": "Feature",
   "properties": {
-    "addr:full":"3365 Silica Rd Sylvania OH 43560",
-    "addr:housenumber":"3365",
-    "addr:postcode":"43560",
-    "addr:street":"Silica Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.733001,41.682902,-83.733001,41.682902",
-    "geom:latitude":41.682902,
-    "geom:longitude":-83.733001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3365 Silica Rd",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3365 Silica Rd Sylvania OH 43560",
+    "addr:housenumber": "3365",
+    "addr:postcode": "43560",
+    "addr:street": "Silica Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.733001,41.682902,-83.733001,41.682902",
+    "geom:latitude": 41.682902,
+    "geom:longitude": -83.733001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3365 Silica Rd",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 843 7736",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "delivery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 843 7736",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "delivery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4RTT2c1r0DkgypDF5Yq7H8_41.682902_-83.733001@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4RTT2c1r0DkgypDF5Yq7H8_41.682902_-83.733001@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798434,
-    "wof:geomhash":"5a3b27c939102f76998a7b97df10b470",
-    "wof:hierarchy":[],
-    "wof:id":706216783,
-    "wof:lastmodified":1472639540,
-    "wof:name":"As Soon As Needed Delivery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "delivery"
+    "wof:country": "US",
+    "wof:created": 1461798434,
+    "wof:geomhash": "6037c632b7ace25389e9ba48f5d0c962",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706216783
+      }
+    ],
+    "wof:id": 706216783,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "As Soon As Needed Delivery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "delivery"
     ]
-},
+  },
   "bbox": [
     -83.733001,
     41.682902,
     -83.733001,
     41.682902
-],
+  ],
   "geometry": {"coordinates":[-83.733001,41.682902],"type":"Point"}
 }

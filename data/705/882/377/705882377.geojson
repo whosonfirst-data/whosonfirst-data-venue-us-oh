@@ -2,61 +2,65 @@
   "id": 705882377,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 Allentown Rd Lima OH 45805",
-    "addr:housenumber":"1800",
-    "addr:postcode":"45805",
-    "addr:street":"Allentown Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.142595,40.74731,-84.142595,40.74731",
-    "geom:latitude":40.74731,
-    "geom:longitude":-84.142595,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1800 Allentown Rd",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Electric",
-            "type":"Services"
-        }
+    "addr:full": "1800 Allentown Rd Lima OH 45805",
+    "addr:housenumber": "1800",
+    "addr:postcode": "45805",
+    "addr:street": "Allentown Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.142595,40.747310,-84.142595,40.747310",
+    "geom:latitude": 40.74731,
+    "geom:longitude": -84.142595,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1800 Allentown Rd",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Electric",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 222 8937",
-    "sg:postcode":"45805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 222 8937",
+    "sg:postcode": "45805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7YOLrfs10xyexFofEelrI1_40.747310_-84.142595@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7YOLrfs10xyexFofEelrI1_40.747310_-84.142595@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790979,
-    "wof:geomhash":"6ca5f7fdff22f84f59f3ed8adc9b38ac",
-    "wof:hierarchy":[],
-    "wof:id":705882377,
-    "wof:lastmodified":1472639507,
-    "wof:name":"Aspen Electric Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company"
+    "wof:country": "US",
+    "wof:created": 1461790979,
+    "wof:geomhash": "5da556c05d3667cb185e98163a621957",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705882377
+      }
+    ],
+    "wof:id": 705882377,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Aspen Electric Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company"
     ]
-},
+  },
   "bbox": [
     -84.142595,
     40.74731,
     -84.142595,
     40.74731
-],
+  ],
   "geometry": {"coordinates":[-84.142595,40.74731],"type":"Point"}
 }

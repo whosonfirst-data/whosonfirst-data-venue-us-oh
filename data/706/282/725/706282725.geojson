@@ -2,63 +2,67 @@
   "id": 706282725,
   "type": "Feature",
   "properties": {
-    "addr:full":"17752 Blazing Star Dr Cleveland OH 44136",
-    "addr:housenumber":"17752",
-    "addr:postcode":"44136",
-    "addr:street":"Blazing Star Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.8125,41.288636,-81.8125,41.288636",
-    "geom:latitude":41.288636,
-    "geom:longitude":-81.8125,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17752 Blazing Star Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "17752 Blazing Star Dr Cleveland OH 44136",
+    "addr:housenumber": "17752",
+    "addr:postcode": "44136",
+    "addr:street": "Blazing Star Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.812500,41.288636,-81.812500,41.288636",
+    "geom:latitude": 41.288636,
+    "geom:longitude": -81.8125,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17752 Blazing Star Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 846 2900",
-    "sg:postcode":"44136",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 846 2900",
+    "sg:postcode": "44136",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0PeVl32u08zDR8aAhntKVB_41.288636_-81.812500@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0PeVl32u08zDR8aAhntKVB_41.288636_-81.812500@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799910,
-    "wof:geomhash":"3de84b05e0aebd6320ae3081a34c348a",
-    "wof:hierarchy":[],
-    "wof:id":706282725,
-    "wof:lastmodified":1472639677,
-    "wof:name":"Inway Transportation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461799910,
+    "wof:geomhash": "99c60bc93c5574eae2fa9c4c111f1ba9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706282725
+      }
+    ],
+    "wof:id": 706282725,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Inway Transportation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.8125,
     41.288636,
     -81.8125,
     41.288636
-],
+  ],
   "geometry": {"coordinates":[-81.8125,41.288636],"type":"Point"}
 }

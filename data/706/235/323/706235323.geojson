@@ -2,61 +2,65 @@
   "id": 706235323,
   "type": "Feature",
   "properties": {
-    "addr:full":"314 W Plane St Bethel OH 45106",
-    "addr:housenumber":"314",
-    "addr:postcode":"45106",
-    "addr:street":"W Plane St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.081267,38.963669,-84.081267,38.963669",
-    "geom:latitude":38.963669,
-    "geom:longitude":-84.081267,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"314 W Plane St",
-    "sg:city":"Bethel",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Adult Care",
-            "type":"Services"
-        }
+    "addr:full": "314 W Plane St Bethel OH 45106",
+    "addr:housenumber": "314",
+    "addr:postcode": "45106",
+    "addr:street": "W Plane St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.081267,38.963669,-84.081267,38.963669",
+    "geom:latitude": 38.963669,
+    "geom:longitude": -84.081267,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "314 W Plane St",
+    "sg:city": "Bethel",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 734 2662",
-    "sg:postcode":"45106",
-    "sg:province":"OH",
-    "sg:tags":[
-        "residential"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 734 2662",
+    "sg:postcode": "45106",
+    "sg:province": "OH",
+    "sg:tags": [
+      "residential"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5L7BKF75it8IfE0r1WnOi6_38.963669_-84.081267@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5L7BKF75it8IfE0r1WnOi6_38.963669_-84.081267@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798838,
-    "wof:geomhash":"812b14cbd4c7474de78f1bebd1117f09",
-    "wof:hierarchy":[],
-    "wof:id":706235323,
-    "wof:lastmodified":1472639564,
-    "wof:name":"Bastin Home Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential"
+    "wof:country": "US",
+    "wof:created": 1461798838,
+    "wof:geomhash": "747d1a9fefcc81357b368b46c701f382",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706235323
+      }
+    ],
+    "wof:id": 706235323,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Bastin Home Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential"
     ]
-},
+  },
   "bbox": [
     -84.081267,
     38.963669,
     -84.081267,
     38.963669
-],
+  ],
   "geometry": {"coordinates":[-84.081267,38.963669],"type":"Point"}
 }

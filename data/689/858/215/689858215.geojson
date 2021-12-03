@@ -2,61 +2,65 @@
   "id": 689858215,
   "type": "Feature",
   "properties": {
-    "addr:full":"29530 White Rd Perrysburg OH 43551",
-    "addr:housenumber":"29530",
-    "addr:postcode":"43551",
-    "addr:street":"White Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.596436,41.580204,-83.596436,41.580204",
-    "geom:latitude":41.580204,
-    "geom:longitude":-83.596436,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"29530 White Rd",
-    "sg:city":"Perrysburg",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "29530 White Rd Perrysburg OH 43551",
+    "addr:housenumber": "29530",
+    "addr:postcode": "43551",
+    "addr:street": "White Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.596436,41.580204,-83.596436,41.580204",
+    "geom:latitude": 41.580204,
+    "geom:longitude": -83.596436,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "29530 White Rd",
+    "sg:city": "Perrysburg",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 661 1697",
-    "sg:postcode":"43551",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 661 1697",
+    "sg:postcode": "43551",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_65AqDnfKRsFK90yLP6zzUz_41.580204_-83.596436@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_65AqDnfKRsFK90yLP6zzUz_41.580204_-83.596436@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783497,
-    "wof:geomhash":"e17d33d4f7cfd7ecca97c73c9201bb84",
-    "wof:hierarchy":[],
-    "wof:id":689858215,
-    "wof:lastmodified":1472639942,
-    "wof:name":"Wood County Park District",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461783497,
+    "wof:geomhash": "4656d52d7f8cd46bc4b99eebd5153cf8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689858215
+      }
+    ],
+    "wof:id": 689858215,
+    "wof:lastmodified": 1638567091,
+    "wof:name": "Wood County Park District",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -83.596436,
     41.580204,
     -83.596436,
     41.580204
-],
+  ],
   "geometry": {"coordinates":[-83.596436,41.580204],"type":"Point"}
 }

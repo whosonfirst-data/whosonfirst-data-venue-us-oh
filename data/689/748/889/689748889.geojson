@@ -2,63 +2,67 @@
   "id": 689748889,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 E Washington St Napoleon OH 43545",
-    "addr:housenumber":"123",
-    "addr:postcode":"43545",
-    "addr:street":"E Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.124429,41.391104,-84.124429,41.391104",
-    "geom:latitude":41.391104,
-    "geom:longitude":-84.124429,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 E Washington St",
-    "sg:city":"Napoleon",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "123 E Washington St Napoleon OH 43545",
+    "addr:housenumber": "123",
+    "addr:postcode": "43545",
+    "addr:street": "E Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.124429,41.391104,-84.124429,41.391104",
+    "geom:latitude": 41.391104,
+    "geom:longitude": -84.124429,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 E Washington St",
+    "sg:city": "Napoleon",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 592 8010",
-    "sg:postcode":"43545",
-    "sg:province":"OH",
-    "sg:tags":[
-        "protection",
-        "sheriff"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 592 8010",
+    "sg:postcode": "43545",
+    "sg:province": "OH",
+    "sg:tags": [
+      "protection",
+      "sheriff"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ejRMTwY5zvIPsW3lMbjeq_41.391104_-84.124429@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0ejRMTwY5zvIPsW3lMbjeq_41.391104_-84.124429@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780425,
-    "wof:geomhash":"ef96818178bdb857ea1249068efd63d5",
-    "wof:hierarchy":[],
-    "wof:id":689748889,
-    "wof:lastmodified":1472639806,
-    "wof:name":"Henry County Sheriff's Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "protection",
-        "sheriff"
+    "wof:country": "US",
+    "wof:created": 1461780425,
+    "wof:geomhash": "48c9841acc64f79fdbb5f520a32aa2f0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689748889
+      }
+    ],
+    "wof:id": 689748889,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Henry County Sheriff's Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "protection",
+      "sheriff"
     ]
-},
+  },
   "bbox": [
     -84.124429,
     41.391104,
     -84.124429,
     41.391104
-],
-  "geometry": {"coordinates":[-84.12442900000001,41.391104],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.124429,41.391104],"type":"Point"}
 }

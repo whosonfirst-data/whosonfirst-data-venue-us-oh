@@ -2,61 +2,65 @@
   "id": 706276531,
   "type": "Feature",
   "properties": {
-    "addr:full":"10900 New Haven Rd Harrison OH 45030",
-    "addr:housenumber":"10900",
-    "addr:postcode":"45030",
-    "addr:street":"New Haven Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.802984,39.257819,-84.802984,39.257819",
-    "geom:latitude":39.257819,
-    "geom:longitude":-84.802984,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10900 New Haven Rd",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10900 New Haven Rd Harrison OH 45030",
+    "addr:housenumber": "10900",
+    "addr:postcode": "45030",
+    "addr:street": "New Haven Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.802984,39.257819,-84.802984,39.257819",
+    "geom:latitude": 39.257819,
+    "geom:longitude": -84.802984,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10900 New Haven Rd",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 202 9300",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 202 9300",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1gpPZiT19GqXsX6wIs7ODg_39.257819_-84.802984@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1gpPZiT19GqXsX6wIs7ODg_39.257819_-84.802984@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799766,
-    "wof:geomhash":"9c4abac8b913bcf2a4e4f6ded5c9bf91",
-    "wof:hierarchy":[],
-    "wof:id":706276531,
-    "wof:lastmodified":1472639637,
-    "wof:name":"Donna VS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461799766,
+    "wof:geomhash": "2cd08768ef505e8a323f158d0cdfb263",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706276531
+      }
+    ],
+    "wof:id": 706276531,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Donna VS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.802984,
     39.257819,
     -84.802984,
     39.257819
-],
+  ],
   "geometry": {"coordinates":[-84.802984,39.257819],"type":"Point"}
 }

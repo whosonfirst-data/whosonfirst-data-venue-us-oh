@@ -2,61 +2,65 @@
   "id": 706010273,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 N Main St Findlay OH 45840",
-    "addr:housenumber":"1000",
-    "addr:postcode":"45840",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650078,41.05289,-83.650078,41.05289",
-    "geom:latitude":41.05289,
-    "geom:longitude":-83.650078,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1000 N Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1000 N Main St Findlay OH 45840",
+    "addr:housenumber": "1000",
+    "addr:postcode": "45840",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650078,41.052890,-83.650078,41.052890",
+    "geom:latitude": 41.05289,
+    "geom:longitude": -83.650078,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1000 N Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 434 4645",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 434 4645",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5gLDI5r2G0dXtHSpcNWoJZ_41.052890_-83.650078@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5gLDI5r2G0dXtHSpcNWoJZ_41.052890_-83.650078@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793798,
-    "wof:geomhash":"a208cfaec2d2f77210beccfd4f6758c0",
-    "wof:hierarchy":[],
-    "wof:id":706010273,
-    "wof:lastmodified":1472638406,
-    "wof:name":"Catering By Sodexho",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461793798,
+    "wof:geomhash": "99474b839a5d723fa2028b85ee9b3fdd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706010273
+      }
+    ],
+    "wof:id": 706010273,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "Catering By Sodexho",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -83.650078,
     41.05289,
     -83.650078,
     41.05289
-],
-  "geometry": {"coordinates":[-83.65007799999999,41.05289],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.650078,41.05289],"type":"Point"}
 }

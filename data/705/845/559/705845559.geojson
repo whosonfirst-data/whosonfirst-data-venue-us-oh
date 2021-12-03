@@ -2,61 +2,65 @@
   "id": 705845559,
   "type": "Feature",
   "properties": {
-    "addr:full":"4014 Grace Dr Kent OH 44240",
-    "addr:housenumber":"4014",
-    "addr:postcode":"44240",
-    "addr:street":"Grace Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.359655,41.096385,-81.359655,41.096385",
-    "geom:latitude":41.096385,
-    "geom:longitude":-81.359655,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4014 Grace Dr",
-    "sg:city":"Kent",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Plumbing",
-            "type":"Services"
-        }
+    "addr:full": "4014 Grace Dr Kent OH 44240",
+    "addr:housenumber": "4014",
+    "addr:postcode": "44240",
+    "addr:street": "Grace Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.359655,41.096385,-81.359655,41.096385",
+    "geom:latitude": 41.096385,
+    "geom:longitude": -81.359655,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4014 Grace Dr",
+    "sg:city": "Kent",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 628 1157",
-    "sg:postcode":"44240",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 628 1157",
+    "sg:postcode": "44240",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0950C50LCHcupbVACWO1FA_41.096385_-81.359655@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0950C50LCHcupbVACWO1FA_41.096385_-81.359655@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790079,
-    "wof:geomhash":"4c32ac61270dc7111a44554d0e9bac42",
-    "wof:hierarchy":[],
-    "wof:id":705845559,
-    "wof:lastmodified":1472639412,
-    "wof:name":"Hayes Atha Company Inc",
-    "wof:parent_id":420535151,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461790079,
+    "wof:geomhash": "1c59058652e1662fae80188b4a1b6aaa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705845559
+      }
+    ],
+    "wof:id": 705845559,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Hayes Atha Company Inc",
+    "wof:parent_id": 420535151,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.359655,
     41.096385,
     -81.359655,
     41.096385
-],
+  ],
   "geometry": {"coordinates":[-81.359655,41.096385],"type":"Point"}
 }

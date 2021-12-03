@@ -2,61 +2,65 @@
   "id": 689604337,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 E Central Pkwy Cincinnati OH 45202",
-    "addr:housenumber":"100",
-    "addr:postcode":"45202",
-    "addr:street":"E Central Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.512109,39.107517,-84.512109,39.107517",
-    "geom:latitude":39.107517,
-    "geom:longitude":-84.512109,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 E Central Pkwy",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "100 E Central Pkwy Cincinnati OH 45202",
+    "addr:housenumber": "100",
+    "addr:postcode": "45202",
+    "addr:street": "E Central Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.512109,39.107517,-84.512109,39.107517",
+    "geom:latitude": 39.107517,
+    "geom:longitude": -84.512109,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 E Central Pkwy",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 762 9330",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photography"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 762 9330",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photography"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5O2N9ueFAF1mn40hLsUYmn_39.107517_-84.512109@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5O2N9ueFAF1mn40hLsUYmn_39.107517_-84.512109@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776385,
-    "wof:geomhash":"bee20d248684e02d236fa766c46cbc92",
-    "wof:hierarchy":[],
-    "wof:id":689604337,
-    "wof:lastmodified":1472639419,
-    "wof:name":"Artistic Shadows Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photography"
+    "wof:country": "US",
+    "wof:created": 1461776385,
+    "wof:geomhash": "9398faf0719f3d3cd18bb96615c42705",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689604337
+      }
+    ],
+    "wof:id": 689604337,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Artistic Shadows Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photography"
     ]
-},
+  },
   "bbox": [
     -84.512109,
     39.107517,
     -84.512109,
     39.107517
-],
+  ],
   "geometry": {"coordinates":[-84.512109,39.107517],"type":"Point"}
 }

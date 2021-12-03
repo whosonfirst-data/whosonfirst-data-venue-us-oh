@@ -2,61 +2,65 @@
   "id": 689493791,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 E Main St Cardington OH 43315",
-    "addr:housenumber":"111",
-    "addr:postcode":"43315",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.894214,40.500559,-82.894214,40.500559",
-    "geom:latitude":40.500559,
-    "geom:longitude":-82.894214,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 E Main St",
-    "sg:city":"Cardington",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "111 E Main St Cardington OH 43315",
+    "addr:housenumber": "111",
+    "addr:postcode": "43315",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.894214,40.500559,-82.894214,40.500559",
+    "geom:latitude": 40.500559,
+    "geom:longitude": -82.894214,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 E Main St",
+    "sg:city": "Cardington",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 864 9050",
-    "sg:postcode":"43315",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 864 9050",
+    "sg:postcode": "43315",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4cKWGthqhUrbS7tFYWIcDj_40.500559_-82.894214@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4cKWGthqhUrbS7tFYWIcDj_40.500559_-82.894214@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772921,
-    "wof:geomhash":"875f4bc0584dcdc93a9bd02fb0b0cc6e",
-    "wof:hierarchy":[],
-    "wof:id":689493791,
-    "wof:lastmodified":1472638870,
-    "wof:name":"David B Steck DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461772921,
+    "wof:geomhash": "b16ba19106c72dcdbafc177408c8b540",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689493791
+      }
+    ],
+    "wof:id": 689493791,
+    "wof:lastmodified": 1638566939,
+    "wof:name": "David B Steck DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.894214,
     40.500559,
     -82.894214,
     40.500559
-],
-  "geometry": {"coordinates":[-82.89421400000001,40.500559],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.894214,40.500559],"type":"Point"}
 }

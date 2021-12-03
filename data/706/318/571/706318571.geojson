@@ -2,61 +2,65 @@
   "id": 706318571,
   "type": "Feature",
   "properties": {
-    "addr:full":"890 S Main St New Lexington OH 43764",
-    "addr:housenumber":"890",
-    "addr:postcode":"43764",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.20787,39.703255,-82.20787,39.703255",
-    "geom:latitude":39.703255,
-    "geom:longitude":-82.20787,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"890 S Main St",
-    "sg:city":"New Lexington",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "890 S Main St New Lexington OH 43764",
+    "addr:housenumber": "890",
+    "addr:postcode": "43764",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.207870,39.703255,-82.207870,39.703255",
+    "geom:latitude": 39.703255,
+    "geom:longitude": -82.20787,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "890 S Main St",
+    "sg:city": "New Lexington",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 342 2260",
-    "sg:postcode":"43764",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 342 2260",
+    "sg:postcode": "43764",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5dKzMBGobKMRaVSJbxYzvK_39.703255_-82.207870@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5dKzMBGobKMRaVSJbxYzvK_39.703255_-82.207870@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800693,
-    "wof:geomhash":"921512f7f63fb957c993d0ddc14b0efc",
-    "wof:hierarchy":[],
-    "wof:id":706318571,
-    "wof:lastmodified":1472639800,
-    "wof:name":"New Lexington Baptist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461800693,
+    "wof:geomhash": "b0e9088ab5152972e595a58e2fec73fa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706318571
+      }
+    ],
+    "wof:id": 706318571,
+    "wof:lastmodified": 1638567087,
+    "wof:name": "New Lexington Baptist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.20787,
     39.703255,
     -82.20787,
     39.703255
-],
+  ],
   "geometry": {"coordinates":[-82.20787,39.703255],"type":"Point"}
 }

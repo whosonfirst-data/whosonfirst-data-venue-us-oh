@@ -2,63 +2,67 @@
   "id": 705898619,
   "type": "Feature",
   "properties": {
-    "addr:full":"277 9th Ave Mansfield OH 44905",
-    "addr:housenumber":"277",
-    "addr:postcode":"44905",
-    "addr:street":"9Th Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.492695,40.765058,-82.492695,40.765058",
-    "geom:latitude":40.765058,
-    "geom:longitude":-82.492695,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"277 9th Ave",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "277 9th Ave Mansfield OH 44905",
+    "addr:housenumber": "277",
+    "addr:postcode": "44905",
+    "addr:street": "9Th Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.492695,40.765058,-82.492695,40.765058",
+    "geom:latitude": 40.765058,
+    "geom:longitude": -82.492695,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "277 9th Ave",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 522 8339",
-    "sg:postcode":"44905",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 522 8339",
+    "sg:postcode": "44905",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2oByKjGFqs5Pcn5LUKww5e_40.765058_-82.492695@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2oByKjGFqs5Pcn5LUKww5e_40.765058_-82.492695@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791376,
-    "wof:geomhash":"a71f9655048295715ef958cd0ab0fb24",
-    "wof:hierarchy":[],
-    "wof:id":705898619,
-    "wof:lastmodified":1472639555,
-    "wof:name":"Trash Masters",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461791376,
+    "wof:geomhash": "74ec0a6bc19b2d160e1b84888e455569",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705898619
+      }
+    ],
+    "wof:id": 705898619,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Trash Masters",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -82.492695,
     40.765058,
     -82.492695,
     40.765058
-],
+  ],
   "geometry": {"coordinates":[-82.492695,40.765058],"type":"Point"}
 }

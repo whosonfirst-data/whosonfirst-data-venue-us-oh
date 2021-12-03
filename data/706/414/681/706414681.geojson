@@ -2,65 +2,69 @@
   "id": 706414681,
   "type": "Feature",
   "properties": {
-    "addr:full":"4810 Eschelman Ave Louisville OH 44641",
-    "addr:housenumber":"4810",
-    "addr:postcode":"44641",
-    "addr:street":"Eschelman Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.226181,40.845632,-81.226181,40.845632",
-    "geom:latitude":40.845632,
-    "geom:longitude":-81.226181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4810 Eschelman Ave",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "4810 Eschelman Ave Louisville OH 44641",
+    "addr:housenumber": "4810",
+    "addr:postcode": "44641",
+    "addr:street": "Eschelman Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.226181,40.845632,-81.226181,40.845632",
+    "geom:latitude": 40.845632,
+    "geom:longitude": -81.226181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4810 Eschelman Ave",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 875 4445",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pet",
-        "boarding",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 875 4445",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pet",
+      "boarding",
+      "sitting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xxY6CWSxBrpR7WHgP0AIy_40.845632_-81.226181@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0xxY6CWSxBrpR7WHgP0AIy_40.845632_-81.226181@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802691,
-    "wof:geomhash":"1dba2c937b0ed02c312bcacf706e37c5",
-    "wof:hierarchy":[],
-    "wof:id":706414681,
-    "wof:lastmodified":1472640005,
-    "wof:name":"Louisville Kennels",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet",
-        "boarding",
-        "sitting"
+    "wof:country": "US",
+    "wof:created": 1461802691,
+    "wof:geomhash": "a8bbced3e2b82cd6160dea2707c54678",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706414681
+      }
+    ],
+    "wof:id": 706414681,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Louisville Kennels",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet",
+      "boarding",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -81.226181,
     40.845632,
     -81.226181,
     40.845632
-],
+  ],
   "geometry": {"coordinates":[-81.226181,40.845632],"type":"Point"}
 }

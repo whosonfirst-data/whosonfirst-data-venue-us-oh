@@ -2,61 +2,65 @@
   "id": 706395443,
   "type": "Feature",
   "properties": {
-    "addr:full":"456 College St Wadsworth OH 44281",
-    "addr:housenumber":"456",
-    "addr:postcode":"44281",
-    "addr:street":"College St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.742597,41.025486,-81.742597,41.025486",
-    "geom:latitude":41.025486,
-    "geom:longitude":-81.742597,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"456 College St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Bowling",
-            "type":"Entertainment"
-        }
+    "addr:full": "456 College St Wadsworth OH 44281",
+    "addr:housenumber": "456",
+    "addr:postcode": "44281",
+    "addr:street": "College St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.742597,41.025486,-81.742597,41.025486",
+    "geom:latitude": 41.025486,
+    "geom:longitude": -81.742597,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "456 College St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Bowling",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 334 5656",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 334 5656",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3kMnoE9QCDftt1FHU3bwgQ_41.025486_-81.742597@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3kMnoE9QCDftt1FHU3bwgQ_41.025486_-81.742597@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802305,
-    "wof:geomhash":"fd8c9bebc948a34f0ab9215764d21dd6",
-    "wof:hierarchy":[],
-    "wof:id":706395443,
-    "wof:lastmodified":1472639977,
-    "wof:name":"Kolony Lanes",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "center"
+    "wof:country": "US",
+    "wof:created": 1461802305,
+    "wof:geomhash": "b8c81a5fa272ed8c101ad9deabb7a5d9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706395443
+      }
+    ],
+    "wof:id": 706395443,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Kolony Lanes",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "center"
     ]
-},
+  },
   "bbox": [
     -81.742597,
     41.025486,
     -81.742597,
     41.025486
-],
+  ],
   "geometry": {"coordinates":[-81.742597,41.025486],"type":"Point"}
 }

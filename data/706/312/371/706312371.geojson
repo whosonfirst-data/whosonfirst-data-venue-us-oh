@@ -2,61 +2,65 @@
   "id": 706312371,
   "type": "Feature",
   "properties": {
-    "addr:full":"1730 Atlas St Columbus OH 43228",
-    "addr:housenumber":"1730",
-    "addr:postcode":"43228",
-    "addr:street":"Atlas St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.142521,39.987793,-83.142521,39.987793",
-    "geom:latitude":39.987793,
-    "geom:longitude":-83.142521,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1730 Atlas St",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1730 Atlas St Columbus OH 43228",
+    "addr:housenumber": "1730",
+    "addr:postcode": "43228",
+    "addr:street": "Atlas St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.142521,39.987793,-83.142521,39.987793",
+    "geom:latitude": 39.987793,
+    "geom:longitude": -83.142521,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1730 Atlas St",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 850 0101",
-    "sg:postcode":"43228",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 850 0101",
+    "sg:postcode": "43228",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5uVLVZdKtBzySB7RxiJjkG_39.987793_-83.142521@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5uVLVZdKtBzySB7RxiJjkG_39.987793_-83.142521@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800564,
-    "wof:geomhash":"1f2cf19bf571ce0d828f4ff3974d8aac",
-    "wof:hierarchy":[],
-    "wof:id":706312371,
-    "wof:lastmodified":1472639776,
-    "wof:name":"Finest Hour Catering",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461800564,
+    "wof:geomhash": "995ab9b4461c01ff0bee33525808b74d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706312371
+      }
+    ],
+    "wof:id": 706312371,
+    "wof:lastmodified": 1638567083,
+    "wof:name": "Finest Hour Catering",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.142521,
     39.987793,
     -83.142521,
     39.987793
-],
+  ],
   "geometry": {"coordinates":[-83.142521,39.987793],"type":"Point"}
 }

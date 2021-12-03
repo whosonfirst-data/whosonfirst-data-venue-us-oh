@@ -2,63 +2,67 @@
   "id": 689699041,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 S Main St London OH 43140",
-    "addr:housenumber":"100",
-    "addr:postcode":"43140",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.446861,39.884862,-83.446861,39.884862",
-    "geom:latitude":39.884862,
-    "geom:longitude":-83.446861,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 S Main St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "100 S Main St London OH 43140",
+    "addr:housenumber": "100",
+    "addr:postcode": "43140",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.446861,39.884862,-83.446861,39.884862",
+    "geom:latitude": 39.884862,
+    "geom:longitude": -83.446861,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 S Main St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 1867",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company",
-        "sewage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 1867",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company",
+      "sewage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6yd29y5RYmJ3JwwXfyDLNb_39.884862_-83.446861@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6yd29y5RYmJ3JwwXfyDLNb_39.884862_-83.446861@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779080,
-    "wof:geomhash":"470394467f9ff82d052890be2a1f44af",
-    "wof:hierarchy":[],
-    "wof:id":689699041,
-    "wof:lastmodified":1472639654,
-    "wof:name":"London City Water Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company",
-        "sewage"
+    "wof:country": "US",
+    "wof:created": 1461779080,
+    "wof:geomhash": "02d92adc202090f6aa052c23861e89fb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689699041
+      }
+    ],
+    "wof:id": 689699041,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "London City Water Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company",
+      "sewage"
     ]
-},
+  },
   "bbox": [
     -83.446861,
     39.884862,
     -83.446861,
     39.884862
-],
+  ],
   "geometry": {"coordinates":[-83.446861,39.884862],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706049655,
   "type": "Feature",
   "properties": {
-    "addr:full":"37381 Davis Chapel Rd Logan OH 43138",
-    "addr:housenumber":"37381",
-    "addr:postcode":"43138",
-    "addr:street":"Davis Chapel Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.322636,39.52254,-82.322636,39.52254",
-    "geom:latitude":39.52254,
-    "geom:longitude":-82.322636,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"37381 Davis Chapel Rd",
-    "sg:city":"Logan",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Surveying",
-            "type":"Services"
-        }
+    "addr:full": "37381 Davis Chapel Rd Logan OH 43138",
+    "addr:housenumber": "37381",
+    "addr:postcode": "43138",
+    "addr:street": "Davis Chapel Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.322636,39.522540,-82.322636,39.522540",
+    "geom:latitude": 39.52254,
+    "geom:longitude": -82.322636,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "37381 Davis Chapel Rd",
+    "sg:city": "Logan",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Surveying",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 380 3884",
-    "sg:postcode":"43138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "surveyor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 380 3884",
+    "sg:postcode": "43138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "surveyor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_22YxcBiKZxLpAJhrqpkI7z_39.522540_-82.322636@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_22YxcBiKZxLpAJhrqpkI7z_39.522540_-82.322636@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794592,
-    "wof:geomhash":"e0622ba25cac65c22617a115155136e8",
-    "wof:hierarchy":[],
-    "wof:id":706049655,
-    "wof:lastmodified":1472639056,
-    "wof:name":"SVE Surveying",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "surveyor"
+    "wof:country": "US",
+    "wof:created": 1461794592,
+    "wof:geomhash": "c9a176b586782cdff81b707786af6162",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706049655
+      }
+    ],
+    "wof:id": 706049655,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "SVE Surveying",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "surveyor"
     ]
-},
+  },
   "bbox": [
     -82.322636,
     39.52254,
     -82.322636,
     39.52254
-],
+  ],
   "geometry": {"coordinates":[-82.322636,39.52254],"type":"Point"}
 }

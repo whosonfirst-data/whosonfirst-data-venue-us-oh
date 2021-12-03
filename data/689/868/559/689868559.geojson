@@ -2,59 +2,63 @@
   "id": 689868559,
   "type": "Feature",
   "properties": {
-    "addr:full":"708 Lima Ave Findlay OH 45840",
-    "addr:housenumber":"708",
-    "addr:postcode":"45840",
-    "addr:street":"Lima Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.660116,41.027519,-83.660116,41.027519",
-    "geom:latitude":41.027519,
-    "geom:longitude":-83.660116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "sg:address":"708 Lima Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "708 Lima Ave Findlay OH 45840",
+    "addr:housenumber": "708",
+    "addr:postcode": "45840",
+    "addr:street": "Lima Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.660116,41.027519,-83.660116,41.027519",
+    "geom:latitude": 41.027519,
+    "geom:longitude": -83.660116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sg:address": "708 Lima Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 423 2846",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":231719010,
-        "sg:id":"SG_45J6LOb4Phe8s9WwhncEvm_41.027519_-83.660116@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 423 2846",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 231719010,
+      "sg:id": "SG_45J6LOb4Phe8s9WwhncEvm_41.027519_-83.660116@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783756,
-    "wof:geomhash":"db431054e4c49223696099f98d80e8d1",
-    "wof:hierarchy":[],
-    "wof:id":689868559,
-    "wof:lastmodified":1510943315,
-    "wof:name":"Oler's Bar & Grill",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461783756,
+    "wof:geomhash": "db431054e4c49223696099f98d80e8d1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689868559
+      }
+    ],
+    "wof:id": 689868559,
+    "wof:lastmodified": 1638567093,
+    "wof:name": "Oler's Bar \u0026 Grill",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.660116,
     41.027519,
     -83.660116,
     41.027519
-],
+  ],
   "geometry": {"coordinates":[-83.660116,41.027519],"type":"Point"}
 }

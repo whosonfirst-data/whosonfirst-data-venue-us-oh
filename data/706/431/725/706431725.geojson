@@ -2,63 +2,67 @@
   "id": 706431725,
   "type": "Feature",
   "properties": {
-    "addr:full":"1021 Summer St Cincinnati OH 45204",
-    "addr:housenumber":"1021",
-    "addr:postcode":"45204",
-    "addr:street":"Summer St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.549694,39.10936,-84.549694,39.10936",
-    "geom:latitude":39.10936,
-    "geom:longitude":-84.549694,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1021 Summer St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "1021 Summer St Cincinnati OH 45204",
+    "addr:housenumber": "1021",
+    "addr:postcode": "45204",
+    "addr:street": "Summer St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.549694,39.109360,-84.549694,39.109360",
+    "geom:latitude": 39.10936,
+    "geom:longitude": -84.549694,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1021 Summer St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 921 3087",
-    "sg:postcode":"45204",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 921 3087",
+    "sg:postcode": "45204",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_53eMsRnjoElSshzeT44Wt9_39.109360_-84.549694@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_53eMsRnjoElSshzeT44Wt9_39.109360_-84.549694@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803013,
-    "wof:geomhash":"cf5293bbe06f07a7961e9345d831bda1",
-    "wof:hierarchy":[],
-    "wof:id":706431725,
-    "wof:lastmodified":1472640024,
-    "wof:name":"Paul Miniard Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461803013,
+    "wof:geomhash": "6d1c81cd6e9fbe5d0ded9c95074cd715",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706431725
+      }
+    ],
+    "wof:id": 706431725,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Paul Miniard Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -84.549694,
     39.10936,
     -84.549694,
     39.10936
-],
+  ],
   "geometry": {"coordinates":[-84.549694,39.10936],"type":"Point"}
 }

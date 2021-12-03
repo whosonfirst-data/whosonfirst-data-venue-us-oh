@@ -2,61 +2,65 @@
   "id": 705770087,
   "type": "Feature",
   "properties": {
-    "addr:full":"777 S Summit St Smithville OH 44677",
-    "addr:housenumber":"777",
-    "addr:postcode":"44677",
-    "addr:street":"S Summit St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.861618,40.851284,-81.861618,40.851284",
-    "geom:latitude":40.851284,
-    "geom:longitude":-81.861618,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"777 S Summit St",
-    "sg:city":"Smithville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "777 S Summit St Smithville OH 44677",
+    "addr:housenumber": "777",
+    "addr:postcode": "44677",
+    "addr:street": "S Summit St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.861618,40.851284,-81.861618,40.851284",
+    "geom:latitude": 40.851284,
+    "geom:longitude": -81.861618,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "777 S Summit St",
+    "sg:city": "Smithville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 669 2111",
-    "sg:postcode":"44677",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 669 2111",
+    "sg:postcode": "44677",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4k8rUPl92T3AWcO7RJLb9z_40.851284_-81.861618@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4k8rUPl92T3AWcO7RJLb9z_40.851284_-81.861618@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788300,
-    "wof:geomhash":"98c6e4d9f1c8c1575002d694704211b1",
-    "wof:hierarchy":[],
-    "wof:id":705770087,
-    "wof:lastmodified":1472639213,
-    "wof:name":"St Pauls Lutheran Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461788300,
+    "wof:geomhash": "d5f181a8a6ad05db928bb2642fd790fc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705770087
+      }
+    ],
+    "wof:id": 705770087,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "St Pauls Lutheran Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.861618,
     40.851284,
     -81.861618,
     40.851284
-],
-  "geometry": {"coordinates":[-81.86161800000001,40.851284],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.861618,40.851284],"type":"Point"}
 }

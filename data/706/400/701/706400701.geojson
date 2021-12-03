@@ -2,61 +2,65 @@
   "id": 706400701,
   "type": "Feature",
   "properties": {
-    "addr:full":"620 Central Center Chillicothe OH 45601",
-    "addr:housenumber":"620",
-    "addr:postcode":"45601",
-    "addr:street":"Central Center",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.001926,39.337319,-83.001926,39.337319",
-    "geom:latitude":39.337319,
-    "geom:longitude":-83.001926,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"620 Central Center",
-    "sg:city":"Chillicothe",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Podiatrist",
-            "type":"Services"
-        }
+    "addr:full": "620 Central Center Chillicothe OH 45601",
+    "addr:housenumber": "620",
+    "addr:postcode": "45601",
+    "addr:street": "Central Center",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.001926,39.337319,-83.001926,39.337319",
+    "geom:latitude": 39.337319,
+    "geom:longitude": -83.001926,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "620 Central Center",
+    "sg:city": "Chillicothe",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Podiatrist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 775 9000",
-    "sg:postcode":"45601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 775 9000",
+    "sg:postcode": "45601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2gsnKOne4jFttswoUgA3xG_39.337319_-83.001926@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2gsnKOne4jFttswoUgA3xG_39.337319_-83.001926@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802411,
-    "wof:geomhash":"a22fb3b78432050b7cb02276ac125c9e",
-    "wof:hierarchy":[],
-    "wof:id":706400701,
-    "wof:lastmodified":1472639992,
-    "wof:name":"Adna Foot Health Care",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461802411,
+    "wof:geomhash": "9c95c92667e942bdeb2c613fe0375b56",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706400701
+      }
+    ],
+    "wof:id": 706400701,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Adna Foot Health Care",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -83.001926,
     39.337319,
     -83.001926,
     39.337319
-],
+  ],
   "geometry": {"coordinates":[-83.001926,39.337319],"type":"Point"}
 }

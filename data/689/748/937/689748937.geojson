@@ -2,61 +2,65 @@
   "id": 689748937,
   "type": "Feature",
   "properties": {
-    "addr:full":"836 Massillon Rd Millersburg OH 44654",
-    "addr:housenumber":"836",
-    "addr:postcode":"44654",
-    "addr:street":"Massillon Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.909758,40.562653,-81.909758,40.562653",
-    "geom:latitude":40.562653,
-    "geom:longitude":-81.909758,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"836 Massillon Rd",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "836 Massillon Rd Millersburg OH 44654",
+    "addr:housenumber": "836",
+    "addr:postcode": "44654",
+    "addr:street": "Massillon Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.909758,40.562653,-81.909758,40.562653",
+    "geom:latitude": 40.562653,
+    "geom:longitude": -81.909758,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "836 Massillon Rd",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 674 5222",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 674 5222",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Dcaa1EPK1FMyx1lnwtPMj_40.562653_-81.909758@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Dcaa1EPK1FMyx1lnwtPMj_40.562653_-81.909758@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780426,
-    "wof:geomhash":"a5a4215846fb622a0000993b45acdf8d",
-    "wof:hierarchy":[],
-    "wof:id":689748937,
-    "wof:lastmodified":1472639807,
-    "wof:name":"Michael's Portraits",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461780426,
+    "wof:geomhash": "a4c3cb8b3b42a7509944a4a0dd702924",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689748937
+      }
+    ],
+    "wof:id": 689748937,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Michael's Portraits",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -81.909758,
     40.562653,
     -81.909758,
     40.562653
-],
+  ],
   "geometry": {"coordinates":[-81.909758,40.562653],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689866927,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 W Wayne St Paulding OH 45879",
-    "addr:housenumber":"1000",
-    "addr:postcode":"45879",
-    "addr:street":"W Wayne St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.601288,41.135352,-84.601288,41.135352",
-    "geom:latitude":41.135352,
-    "geom:longitude":-84.601288,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1000 W Wayne St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "1000 W Wayne St Paulding OH 45879",
+    "addr:housenumber": "1000",
+    "addr:postcode": "45879",
+    "addr:street": "W Wayne St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.601288,41.135352,-84.601288,41.135352",
+    "geom:latitude": 41.135352,
+    "geom:longitude": -84.601288,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1000 W Wayne St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 2866",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 2866",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nOW7VnNbuFGDF26g69muy_41.135352_-84.601288@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0nOW7VnNbuFGDF26g69muy_41.135352_-84.601288@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783711,
-    "wof:geomhash":"71dd2cd641db2fc1affdcb9af0965f75",
-    "wof:hierarchy":[],
-    "wof:id":689866927,
-    "wof:lastmodified":1472639961,
-    "wof:name":"Den Herder Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461783711,
+    "wof:geomhash": "7d650780eb1baacf75f6139349992a4e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689866927
+      }
+    ],
+    "wof:id": 689866927,
+    "wof:lastmodified": 1638567091,
+    "wof:name": "Den Herder Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -84.601288,
     41.135352,
     -84.601288,
     41.135352
-],
+  ],
   "geometry": {"coordinates":[-84.601288,41.135352],"type":"Point"}
 }

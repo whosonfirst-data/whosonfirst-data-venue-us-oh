@@ -2,61 +2,65 @@
   "id": 706206181,
   "type": "Feature",
   "properties": {
-    "addr:full":"10901 Mountview Ave Cleveland OH 44125",
-    "addr:housenumber":"10901",
-    "addr:postcode":"44125",
-    "addr:street":"Mountview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.607293,41.414891,-81.607293,41.414891",
-    "geom:latitude":41.414891,
-    "geom:longitude":-81.607293,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10901 Mountview Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "10901 Mountview Ave Cleveland OH 44125",
+    "addr:housenumber": "10901",
+    "addr:postcode": "44125",
+    "addr:street": "Mountview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.607293,41.414891,-81.607293,41.414891",
+    "geom:latitude": 41.414891,
+    "geom:longitude": -81.607293,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10901 Mountview Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 581 5300",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 581 5300",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Kb1hm7it2tped0KmoRxym_41.414891_-81.607293@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Kb1hm7it2tped0KmoRxym_41.414891_-81.607293@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798207,
-    "wof:geomhash":"d5e20cad7f7e9efb014c5ed7a1722ac1",
-    "wof:hierarchy":[],
-    "wof:id":706206181,
-    "wof:lastmodified":1472639491,
-    "wof:name":"Roman Porcelain Dental Studios",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461798207,
+    "wof:geomhash": "e2fae8e73658abbe5b96291178804172",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706206181
+      }
+    ],
+    "wof:id": 706206181,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Roman Porcelain Dental Studios",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -81.607293,
     41.414891,
     -81.607293,
     41.414891
-],
+  ],
   "geometry": {"coordinates":[-81.607293,41.414891],"type":"Point"}
 }

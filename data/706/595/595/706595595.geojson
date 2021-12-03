@@ -2,63 +2,67 @@
   "id": 706595595,
   "type": "Feature",
   "properties": {
-    "addr:full":"9432 E Washington St Chagrin Falls OH 44023",
-    "addr:housenumber":"9432",
-    "addr:postcode":"44023",
-    "addr:street":"E Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.308098,41.3997,-81.308098,41.3997",
-    "geom:latitude":41.3997,
-    "geom:longitude":-81.308098,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9432 E Washington St",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "9432 E Washington St Chagrin Falls OH 44023",
+    "addr:housenumber": "9432",
+    "addr:postcode": "44023",
+    "addr:street": "E Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.308098,41.399700,-81.308098,41.399700",
+    "geom:latitude": 41.3997,
+    "geom:longitude": -81.308098,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9432 E Washington St",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 543 9697",
-    "sg:postcode":"44023",
-    "sg:province":"OH",
-    "sg:tags":[
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 543 9697",
+    "sg:postcode": "44023",
+    "sg:province": "OH",
+    "sg:tags": [
+      "boarding/pet",
+      "sitting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7L9eFcy8qIunABYHZrKJ61_41.399700_-81.308098@1303262753"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7L9eFcy8qIunABYHZrKJ61_41.399700_-81.308098@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806629,
-    "wof:geomhash":"294fd620b9f10d35068fed376e6705f3",
-    "wof:hierarchy":[],
-    "wof:id":706595595,
-    "wof:lastmodified":1472640215,
-    "wof:name":"Alador Kennels",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "boarding/pet",
-        "sitting"
+    "wof:country": "US",
+    "wof:created": 1461806629,
+    "wof:geomhash": "9d1e7f8538ae0c47d5db943903c7e60f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706595595
+      }
+    ],
+    "wof:id": 706595595,
+    "wof:lastmodified": 1638567144,
+    "wof:name": "Alador Kennels",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -81.308098,
     41.3997,
     -81.308098,
     41.3997
-],
+  ],
   "geometry": {"coordinates":[-81.308098,41.3997],"type":"Point"}
 }

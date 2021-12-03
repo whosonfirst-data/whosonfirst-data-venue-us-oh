@@ -2,61 +2,65 @@
   "id": 705993677,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 N Columbus St Somerset OH 43783",
-    "addr:housenumber":"103",
-    "addr:postcode":"43783",
-    "addr:street":"N Columbus St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.299697,39.80736,-82.299697,39.80736",
-    "geom:latitude":39.80736,
-    "geom:longitude":-82.299697,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"103 N Columbus St",
-    "sg:city":"Somerset",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "103 N Columbus St Somerset OH 43783",
+    "addr:housenumber": "103",
+    "addr:postcode": "43783",
+    "addr:street": "N Columbus St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.299697,39.807360,-82.299697,39.807360",
+    "geom:latitude": 39.80736,
+    "geom:longitude": -82.299697,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "103 N Columbus St",
+    "sg:city": "Somerset",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 743 9244",
-    "sg:postcode":"43783",
-    "sg:province":"OH",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 743 9244",
+    "sg:postcode": "43783",
+    "sg:province": "OH",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0h6UKEoTUPUJQ3kWhhredI_39.807360_-82.299697@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0h6UKEoTUPUJQ3kWhhredI_39.807360_-82.299697@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793438,
-    "wof:geomhash":"55ab7f76f30f073658b467e20eadb9d9",
-    "wof:hierarchy":[],
-    "wof:id":705993677,
-    "wof:lastmodified":1472639817,
-    "wof:name":"Ole Stable Bakery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:country": "US",
+    "wof:created": 1461793438,
+    "wof:geomhash": "7cf3e18f8d54fd1228046ebfdd01c606",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705993677
+      }
+    ],
+    "wof:id": 705993677,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Ole Stable Bakery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -82.299697,
     39.80736,
     -82.299697,
     39.80736
-],
-  "geometry": {"coordinates":[-82.29969699999999,39.80736],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.299697,39.80736],"type":"Point"}
 }

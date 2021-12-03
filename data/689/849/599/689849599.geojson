@@ -2,63 +2,67 @@
   "id": 689849599,
   "type": "Feature",
   "properties": {
-    "addr:full":"1405 E Market St Warren OH 44483",
-    "addr:housenumber":"1405",
-    "addr:postcode":"44483",
-    "addr:street":"E Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.797733,41.236549,-80.797733,41.236549",
-    "geom:latitude":41.236549,
-    "geom:longitude":-80.797733,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1405 E Market St",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1405 E Market St Warren OH 44483",
+    "addr:housenumber": "1405",
+    "addr:postcode": "44483",
+    "addr:street": "E Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.797733,41.236549,-80.797733,41.236549",
+    "geom:latitude": 41.236549,
+    "geom:longitude": -80.797733,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1405 E Market St",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 373 1635",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 373 1635",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_15F97fP7JxRhhrf084WSIs_41.236549_-80.797733@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_15F97fP7JxRhhrf084WSIs_41.236549_-80.797733@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783304,
-    "wof:geomhash":"8282675f3338d93444ebc4ff9bc3bd61",
-    "wof:hierarchy":[],
-    "wof:id":689849599,
-    "wof:lastmodified":1472639931,
-    "wof:name":"Pedro Ballester MD",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461783304,
+    "wof:geomhash": "8731971a1981caf0e0a8be9c8554b40f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689849599
+      }
+    ],
+    "wof:id": 689849599,
+    "wof:lastmodified": 1638567090,
+    "wof:name": "Pedro Ballester MD",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.797733,
     41.236549,
     -80.797733,
     41.236549
-],
-  "geometry": {"coordinates":[-80.79773299999999,41.236549],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.797733,41.236549],"type":"Point"}
 }

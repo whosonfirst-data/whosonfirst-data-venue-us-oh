@@ -2,63 +2,67 @@
   "id": 705867613,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 W Main St Logan OH 43138",
-    "addr:housenumber":"119",
-    "addr:postcode":"43138",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.411883,39.540249,-82.411883,39.540249",
-    "geom:latitude":39.540249,
-    "geom:longitude":-82.411883,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"119 W Main St",
-    "sg:city":"Logan",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "119 W Main St Logan OH 43138",
+    "addr:housenumber": "119",
+    "addr:postcode": "43138",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.411883,39.540249,-82.411883,39.540249",
+    "geom:latitude": 39.540249,
+    "geom:longitude": -82.411883,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "119 W Main St",
+    "sg:city": "Logan",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 385 0350",
-    "sg:postcode":"43138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bus",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 385 0350",
+    "sg:postcode": "43138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bus",
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3qc4nTgqNJaMIu9cFBLSgi_39.540249_-82.411883@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3qc4nTgqNJaMIu9cFBLSgi_39.540249_-82.411883@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790630,
-    "wof:geomhash":"a5ec37b8c11490c0c0784dc41a149d54",
-    "wof:hierarchy":[],
-    "wof:id":705867613,
-    "wof:lastmodified":1472639467,
-    "wof:name":"Reedy Stage Lines",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus",
-        "line"
+    "wof:country": "US",
+    "wof:created": 1461790630,
+    "wof:geomhash": "d5e65076dd64e66824c116a67809aa7e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705867613
+      }
+    ],
+    "wof:id": 705867613,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Reedy Stage Lines",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus",
+      "line"
     ]
-},
+  },
   "bbox": [
     -82.411883,
     39.540249,
     -82.411883,
     39.540249
-],
+  ],
   "geometry": {"coordinates":[-82.411883,39.540249],"type":"Point"}
 }

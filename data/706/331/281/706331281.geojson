@@ -2,61 +2,65 @@
   "id": 706331281,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Yankee Rd Monroe OH 45050",
-    "addr:housenumber":"500",
-    "addr:postcode":"45050",
-    "addr:street":"Yankee Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.388966,39.452918,-84.388966,39.452918",
-    "geom:latitude":39.452918,
-    "geom:longitude":-84.388966,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 Yankee Rd",
-    "sg:city":"Monroe",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Landscaping Services",
-            "type":"Services"
-        }
+    "addr:full": "500 Yankee Rd Monroe OH 45050",
+    "addr:housenumber": "500",
+    "addr:postcode": "45050",
+    "addr:street": "Yankee Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.388966,39.452918,-84.388966,39.452918",
+    "geom:latitude": 39.452918,
+    "geom:longitude": -84.388966,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 Yankee Rd",
+    "sg:city": "Monroe",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Landscaping Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 539 5335",
-    "sg:postcode":"45050",
-    "sg:province":"OH",
-    "sg:tags":[
-        "landscape"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 539 5335",
+    "sg:postcode": "45050",
+    "sg:province": "OH",
+    "sg:tags": [
+      "landscape"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_008wjoI8znMALtsqpExGmr_39.452918_-84.388966@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_008wjoI8znMALtsqpExGmr_39.452918_-84.388966@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801011,
-    "wof:geomhash":"b6f5b55ac3799c79110ff182af32a4ed",
-    "wof:hierarchy":[],
-    "wof:id":706331281,
-    "wof:lastmodified":1472639832,
-    "wof:name":"Landscaping",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "landscape"
+    "wof:country": "US",
+    "wof:created": 1461801011,
+    "wof:geomhash": "92da352f933d50c9877dc4c8f55c7ea9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706331281
+      }
+    ],
+    "wof:id": 706331281,
+    "wof:lastmodified": 1638567089,
+    "wof:name": "Landscaping",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "landscape"
     ]
-},
+  },
   "bbox": [
     -84.388966,
     39.452918,
     -84.388966,
     39.452918
-],
+  ],
   "geometry": {"coordinates":[-84.388966,39.452918],"type":"Point"}
 }

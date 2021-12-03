@@ -2,63 +2,67 @@
   "id": 706440371,
   "type": "Feature",
   "properties": {
-    "addr:full":"1336 Palmyra Rd SW Warren OH 44485",
-    "addr:housenumber":"1336",
-    "addr:postcode":"44485",
-    "addr:street":"Palmyra Rd Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.836608,41.226541,-80.836608,41.226541",
-    "geom:latitude":41.226541,
-    "geom:longitude":-80.836608,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1336 Palmyra Rd SW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1336 Palmyra Rd SW Warren OH 44485",
+    "addr:housenumber": "1336",
+    "addr:postcode": "44485",
+    "addr:street": "Palmyra Rd Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.836608,41.226541,-80.836608,41.226541",
+    "geom:latitude": 41.226541,
+    "geom:longitude": -80.836608,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1336 Palmyra Rd SW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 395 9533",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 395 9533",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4murTkWjiBAAMCZIkVEvb5_41.226541_-80.836608@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4murTkWjiBAAMCZIkVEvb5_41.226541_-80.836608@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803217,
-    "wof:geomhash":"d1cf43ae8b1fccbb852b71b29f81f812",
-    "wof:hierarchy":[],
-    "wof:id":706440371,
-    "wof:lastmodified":1472640024,
-    "wof:name":"Palmyra Road Medical Ctr",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461803217,
+    "wof:geomhash": "5a755f469aafbda6db896da9dcfd7d1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706440371
+      }
+    ],
+    "wof:id": 706440371,
+    "wof:lastmodified": 1638567120,
+    "wof:name": "Palmyra Road Medical Ctr",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.836608,
     41.226541,
     -80.836608,
     41.226541
-],
+  ],
   "geometry": {"coordinates":[-80.836608,41.226541],"type":"Point"}
 }

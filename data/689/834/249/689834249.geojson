@@ -2,57 +2,61 @@
   "id": 689834249,
   "type": "Feature",
   "properties": {
-    "addr:full":"1011 N Defiance St Ottawa OH 45875",
-    "addr:housenumber":"1011",
-    "addr:postcode":"45875",
-    "addr:street":"N Defiance St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.048185,41.026515,-84.048185,41.026515",
-    "geom:latitude":41.026515,
-    "geom:longitude":-84.048185,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1011 N Defiance St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "1011 N Defiance St Ottawa OH 45875",
+    "addr:housenumber": "1011",
+    "addr:postcode": "45875",
+    "addr:street": "N Defiance St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.048185,41.026515,-84.048185,41.026515",
+    "geom:latitude": 41.026515,
+    "geom:longitude": -84.048185,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1011 N Defiance St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 5300",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:website":"www.ohfarmersunion.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Lw2UUXmn53PI146cGzHK6_41.026515_-84.048185@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 5300",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:website": "www.ohfarmersunion.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Lw2UUXmn53PI146cGzHK6_41.026515_-84.048185@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782962,
-    "wof:geomhash":"245f81b6f1a0b98195009e605dbe6f14",
-    "wof:hierarchy":[],
-    "wof:id":689834249,
-    "wof:lastmodified":1472639904,
-    "wof:name":"Ohio Farmer's Union",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461782962,
+    "wof:geomhash": "46160e2da088652c9da0b01c1c6b26c6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689834249
+      }
+    ],
+    "wof:id": 689834249,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Ohio Farmer's Union",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.048185,
     41.026515,
     -84.048185,
     41.026515
-],
+  ],
   "geometry": {"coordinates":[-84.048185,41.026515],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706389569,
   "type": "Feature",
   "properties": {
-    "addr:full":"1297 W Main St Lakeside Marblhd OH 43440",
-    "addr:housenumber":"1297",
-    "addr:postcode":"43440",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.739677,41.539517,-82.739677,41.539517",
-    "geom:latitude":41.539517,
-    "geom:longitude":-82.739677,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1297 W Main St",
-    "sg:city":"Lakeside Marblhd",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1297 W Main St Lakeside Marblhd OH 43440",
+    "addr:housenumber": "1297",
+    "addr:postcode": "43440",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.739677,41.539517,-82.739677,41.539517",
+    "geom:latitude": 41.539517,
+    "geom:longitude": -82.739677,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1297 W Main St",
+    "sg:city": "Lakeside Marblhd",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 798 4418",
-    "sg:postcode":"43440",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 798 4418",
+    "sg:postcode": "43440",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0p9SmQ0Htub6RTAmSEt5bI_41.539517_-82.739677@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0p9SmQ0Htub6RTAmSEt5bI_41.539517_-82.739677@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802199,
-    "wof:geomhash":"3be0e982b4dd99e9ac24970c89f445ff",
-    "wof:hierarchy":[],
-    "wof:id":706389569,
-    "wof:lastmodified":1472639975,
-    "wof:name":"Peninsula Medical Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802199,
+    "wof:geomhash": "9b5853b4902539255ba90157b75ca414",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706389569
+      }
+    ],
+    "wof:id": 706389569,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Peninsula Medical Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.739677,
     41.539517,
     -82.739677,
     41.539517
-],
+  ],
   "geometry": {"coordinates":[-82.739677,41.539517],"type":"Point"}
 }

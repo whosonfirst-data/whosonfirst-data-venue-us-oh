@@ -2,61 +2,65 @@
   "id": 689731669,
   "type": "Feature",
   "properties": {
-    "addr:full":"308 E Jackson St Paulding OH 45879",
-    "addr:housenumber":"308",
-    "addr:postcode":"45879",
-    "addr:street":"E Jackson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.57851,41.138338,-84.57851,41.138338",
-    "geom:latitude":41.138338,
-    "geom:longitude":-84.57851,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"308 E Jackson St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "308 E Jackson St Paulding OH 45879",
+    "addr:housenumber": "308",
+    "addr:postcode": "45879",
+    "addr:street": "E Jackson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.578510,41.138338,-84.578510,41.138338",
+    "geom:latitude": 41.138338,
+    "geom:longitude": -84.57851,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "308 E Jackson St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 2871",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 2871",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0KqMbZHSOGrktoVK2yyni0_41.138338_-84.578510@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0KqMbZHSOGrktoVK2yyni0_41.138338_-84.578510@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779973,
-    "wof:geomhash":"8165a4460f5bf50c2a7152bdc0ef6d79",
-    "wof:hierarchy":[],
-    "wof:id":689731669,
-    "wof:lastmodified":1472639748,
-    "wof:name":"Animal Clinic Of Paulding",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461779973,
+    "wof:geomhash": "5dc8bbab4dec0c57c98cad7bc684e0b9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689731669
+      }
+    ],
+    "wof:id": 689731669,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Animal Clinic Of Paulding",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.57851,
     41.138338,
     -84.57851,
     41.138338
-],
-  "geometry": {"coordinates":[-84.57850999999999,41.138338],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.57851,41.138338],"type":"Point"}
 }

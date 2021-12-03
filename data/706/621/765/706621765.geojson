@@ -2,63 +2,67 @@
   "id": 706621765,
   "type": "Feature",
   "properties": {
-    "addr:full":"420 Superior St Sandusky OH 44870",
-    "addr:housenumber":"420",
-    "addr:postcode":"44870",
-    "addr:street":"Superior St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.743698,41.447399,-82.743698,41.447399",
-    "geom:latitude":41.447399,
-    "geom:longitude":-82.743698,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"420 Superior St",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "420 Superior St Sandusky OH 44870",
+    "addr:housenumber": "420",
+    "addr:postcode": "44870",
+    "addr:street": "Superior St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.743698,41.447399,-82.743698,41.447399",
+    "geom:latitude": 41.447399,
+    "geom:longitude": -82.743698,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "420 Superior St",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 626 6171",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "practice",
-        "family"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 626 6171",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "practice",
+      "family"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5EqN08v16aX9yM9Ge0N68s_41.447399_-82.743698@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5EqN08v16aX9yM9Ge0N68s_41.447399_-82.743698@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807182,
-    "wof:geomhash":"22beb14bc06b4ed09b3c0a722862807f",
-    "wof:hierarchy":[],
-    "wof:id":706621765,
-    "wof:lastmodified":1472640238,
-    "wof:name":"Erie County Family Practice",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "practice",
-        "family"
+    "wof:country": "US",
+    "wof:created": 1461807182,
+    "wof:geomhash": "8511a202ab7925feb66b070c3956dd54",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706621765
+      }
+    ],
+    "wof:id": 706621765,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Erie County Family Practice",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "practice",
+      "family"
     ]
-},
+  },
   "bbox": [
     -82.743698,
     41.447399,
     -82.743698,
     41.447399
-],
-  "geometry": {"coordinates":[-82.74369799999999,41.447399],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.743698,41.447399],"type":"Point"}
 }

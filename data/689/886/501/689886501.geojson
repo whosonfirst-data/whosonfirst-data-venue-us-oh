@@ -2,56 +2,60 @@
   "id": 689886501,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Pennsylvania Ave Marion OH 43302",
-    "addr:housenumber":"400",
-    "addr:postcode":"43302",
-    "addr:street":"Pennsylvania Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.104815,40.583232,-83.104815,40.583232",
-    "geom:latitude":40.583232,
-    "geom:longitude":-83.104815,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"400 Pennsylvania Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "400 Pennsylvania Ave Marion OH 43302",
+    "addr:housenumber": "400",
+    "addr:postcode": "43302",
+    "addr:street": "Pennsylvania Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.104815,40.583232,-83.104815,40.583232",
+    "geom:latitude": 40.583232,
+    "geom:longitude": -83.104815,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "400 Pennsylvania Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 223 3883",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2civ0Vlh9K6G7ylYetqXef_40.583232_-83.104815@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 223 3883",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2civ0Vlh9K6G7ylYetqXef_40.583232_-83.104815@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784212,
-    "wof:geomhash":"1fb2880c39cc3a9f0ac008f0bb482ad5",
-    "wof:hierarchy":[],
-    "wof:id":689886501,
-    "wof:lastmodified":1472640025,
-    "wof:name":"George Washington Elementary",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461784212,
+    "wof:geomhash": "ebc1d37b4a51638456cabb809308be82",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689886501
+      }
+    ],
+    "wof:id": 689886501,
+    "wof:lastmodified": 1638567097,
+    "wof:name": "George Washington Elementary",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.104815,
     40.583232,
     -83.104815,
     40.583232
-],
+  ],
   "geometry": {"coordinates":[-83.104815,40.583232],"type":"Point"}
 }

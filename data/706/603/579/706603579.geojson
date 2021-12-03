@@ -2,56 +2,60 @@
   "id": 706603579,
   "type": "Feature",
   "properties": {
-    "addr:full":"27540 Chagrin Blvd Beachwood OH 44122",
-    "addr:housenumber":"27540",
-    "addr:postcode":"44122",
-    "addr:street":"Chagrin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.4841,41.4622,-81.4841,41.4622",
-    "geom:latitude":41.4622,
-    "geom:longitude":-81.4841,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"27540 Chagrin Blvd",
-    "sg:city":"Beachwood",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "27540 Chagrin Blvd Beachwood OH 44122",
+    "addr:housenumber": "27540",
+    "addr:postcode": "44122",
+    "addr:street": "Chagrin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.484100,41.462200,-81.484100,41.462200",
+    "geom:latitude": 41.4622,
+    "geom:longitude": -81.4841,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "27540 Chagrin Blvd",
+    "sg:city": "Beachwood",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 831 1183",
-    "sg:postcode":"44122",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_44wbrsCKv3f6zhouPgYiE6_41.462200_-81.484100@1303262754"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 831 1183",
+    "sg:postcode": "44122",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_44wbrsCKv3f6zhouPgYiE6_41.462200_-81.484100@1303262754"
     },
-    "wof:country":"US",
-    "wof:created":1461806797,
-    "wof:geomhash":"7cde635683c5f03cae0dbec0cae1ca28",
-    "wof:hierarchy":[],
-    "wof:id":706603579,
-    "wof:lastmodified":1472640222,
-    "wof:name":"Todd's Cleaners",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806797,
+    "wof:geomhash": "50a156eef2bd8e3676c961e55ec27608",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706603579
+      }
+    ],
+    "wof:id": 706603579,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Todd's Cleaners",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.4841,
     41.4622,
     -81.4841,
     41.4622
-],
+  ],
   "geometry": {"coordinates":[-81.4841,41.4622],"type":"Point"}
 }

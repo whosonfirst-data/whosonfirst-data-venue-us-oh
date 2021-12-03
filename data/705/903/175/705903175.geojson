@@ -2,61 +2,65 @@
   "id": 705903175,
   "type": "Feature",
   "properties": {
-    "addr:full":"2191 Park Ave W Mansfield OH 44906",
-    "addr:housenumber":"2191",
-    "addr:postcode":"44906",
-    "addr:street":"Park Ave W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.593873,40.759723,-82.593873,40.759723",
-    "geom:latitude":40.759723,
-    "geom:longitude":-82.593873,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2191 Park Ave W",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2191 Park Ave W Mansfield OH 44906",
+    "addr:housenumber": "2191",
+    "addr:postcode": "44906",
+    "addr:street": "Park Ave W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.593873,40.759723,-82.593873,40.759723",
+    "geom:latitude": 40.759723,
+    "geom:longitude": -82.593873,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2191 Park Ave W",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 9494",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 9494",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3bcjBQ5zhqwsbc8VtSwp8s_40.759723_-82.593873@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3bcjBQ5zhqwsbc8VtSwp8s_40.759723_-82.593873@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791479,
-    "wof:geomhash":"c946b414d895bfe02baf2de21a2d5ff3",
-    "wof:hierarchy":[],
-    "wof:id":705903175,
-    "wof:lastmodified":1472639550,
-    "wof:name":"Kenneth J Molnar DDS Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461791479,
+    "wof:geomhash": "f9b993cd8092b566ed3481f8f6aeeeaa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705903175
+      }
+    ],
+    "wof:id": 705903175,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Kenneth J Molnar DDS Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.593873,
     40.759723,
     -82.593873,
     40.759723
-],
+  ],
   "geometry": {"coordinates":[-82.593873,40.759723],"type":"Point"}
 }

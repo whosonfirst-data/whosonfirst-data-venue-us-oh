@@ -2,56 +2,60 @@
   "id": 706456221,
   "type": "Feature",
   "properties": {
-    "addr:full":"5530 Twp Rd 212 Bellefontaine OH 43311",
-    "addr:housenumber":"5530;212",
-    "addr:postcode":"43311",
-    "addr:street":"Twp Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.852622,40.396468,-83.852622,40.396468",
-    "geom:latitude":40.396468,
-    "geom:longitude":-83.852622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5530 Twp Rd 212",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "5530 Twp Rd 212 Bellefontaine OH 43311",
+    "addr:housenumber": "5530;212",
+    "addr:postcode": "43311",
+    "addr:street": "Twp Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.852622,40.396468,-83.852622,40.396468",
+    "geom:latitude": 40.396468,
+    "geom:longitude": -83.852622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5530 Twp Rd 212",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 593 4445",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2f15A7E0Z9CgrngO4MXOIZ_40.396468_-83.852622@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 593 4445",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2f15A7E0Z9CgrngO4MXOIZ_40.396468_-83.852622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803572,
-    "wof:geomhash":"960df72063d9b241749b0b0efe065f0d",
-    "wof:hierarchy":[],
-    "wof:id":706456221,
-    "wof:lastmodified":1472640039,
-    "wof:name":"Ohio Homesmakers and Cmnty Edu",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461803572,
+    "wof:geomhash": "be95ddff5cfc4ac5148c41731ffebdca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706456221
+      }
+    ],
+    "wof:id": 706456221,
+    "wof:lastmodified": 1638567123,
+    "wof:name": "Ohio Homesmakers and Cmnty Edu",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.852622,
     40.396468,
     -83.852622,
     40.396468
-],
+  ],
   "geometry": {"coordinates":[-83.852622,40.396468],"type":"Point"}
 }

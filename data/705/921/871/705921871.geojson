@@ -2,61 +2,65 @@
   "id": 705921871,
   "type": "Feature",
   "properties": {
-    "addr:full":"125 N Walnut St Chatfield OH 44820",
-    "addr:housenumber":"125",
-    "addr:postcode":"44820",
-    "addr:street":"N Walnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.974203,40.80945,-82.974203,40.80945",
-    "geom:latitude":40.80945,
-    "geom:longitude":-82.974203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"125 N Walnut St",
-    "sg:city":"Chatfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "125 N Walnut St Chatfield OH 44820",
+    "addr:housenumber": "125",
+    "addr:postcode": "44820",
+    "addr:street": "N Walnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.974203,40.809450,-82.974203,40.809450",
+    "geom:latitude": 40.80945,
+    "geom:longitude": -82.974203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "125 N Walnut St",
+    "sg:city": "Chatfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 000 1111",
-    "sg:postcode":"44820",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 000 1111",
+    "sg:postcode": "44820",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1buShClCLqi0SabjKjDpn1_40.809450_-82.974203@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1buShClCLqi0SabjKjDpn1_40.809450_-82.974203@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791888,
-    "wof:geomhash":"8aeb9fffbc3a831b3dca0684dca39ce9",
-    "wof:hierarchy":[],
-    "wof:id":705921871,
-    "wof:lastmodified":1472639641,
-    "wof:name":"Chatfield Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461791888,
+    "wof:geomhash": "52d4fbdd60f0e123344d25028b5ae4ef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705921871
+      }
+    ],
+    "wof:id": 705921871,
+    "wof:lastmodified": 1638567040,
+    "wof:name": "Chatfield Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.974203,
     40.80945,
     -82.974203,
     40.80945
-],
+  ],
   "geometry": {"coordinates":[-82.974203,40.80945],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705790707,
   "type": "Feature",
   "properties": {
-    "addr:full":"6666 Spencer Rd Spencer OH 44275",
-    "addr:housenumber":"6666",
-    "addr:postcode":"44275",
-    "addr:street":"Spencer Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.123526,41.092368,-82.123526,41.092368",
-    "geom:latitude":41.092368,
-    "geom:longitude":-82.123526,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6666 Spencer Rd",
-    "sg:city":"Spencer",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "6666 Spencer Rd Spencer OH 44275",
+    "addr:housenumber": "6666",
+    "addr:postcode": "44275",
+    "addr:street": "Spencer Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.123526,41.092368,-82.123526,41.092368",
+    "geom:latitude": 41.092368,
+    "geom:longitude": -82.123526,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6666 Spencer Rd",
+    "sg:city": "Spencer",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 648 2012",
-    "sg:postcode":"44275",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 648 2012",
+    "sg:postcode": "44275",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7YiARuzHsfEAqW5YV76GXE_41.092368_-82.123526@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7YiARuzHsfEAqW5YV76GXE_41.092368_-82.123526@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788814,
-    "wof:geomhash":"a16a8dafd16a0a0c480234861a985ac5",
-    "wof:hierarchy":[],
-    "wof:id":705790707,
-    "wof:lastmodified":1472639256,
-    "wof:name":"Ken's Auto Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461788814,
+    "wof:geomhash": "d1b028366d57f6e13acf7405a2c9e4b9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705790707
+      }
+    ],
+    "wof:id": 705790707,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "Ken's Auto Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -82.123526,
     41.092368,
     -82.123526,
     41.092368
-],
+  ],
   "geometry": {"coordinates":[-82.123526,41.092368],"type":"Point"}
 }

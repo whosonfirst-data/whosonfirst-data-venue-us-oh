@@ -2,63 +2,67 @@
   "id": 689953205,
   "type": "Feature",
   "properties": {
-    "addr:full":"46401 Carter Rd New Waterford OH 44445",
-    "addr:housenumber":"46401",
-    "addr:postcode":"44445",
-    "addr:street":"Carter Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.625604,40.813036,-80.625604,40.813036",
-    "geom:latitude":40.813036,
-    "geom:longitude":-80.625604,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"46401 Carter Rd",
-    "sg:city":"New Waterford",
-    "sg:classifiers":[
-        {
-            "category":"Railroad",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "46401 Carter Rd New Waterford OH 44445",
+    "addr:housenumber": "46401",
+    "addr:postcode": "44445",
+    "addr:street": "Carter Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.625604,40.813036,-80.625604,40.813036",
+    "geom:latitude": 40.813036,
+    "geom:longitude": -80.625604,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "46401 Carter Rd",
+    "sg:city": "New Waterford",
+    "sg:classifiers": [
+      {
+        "category": "Railroad",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 227 3124",
-    "sg:postcode":"44445",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 227 3124",
+    "sg:postcode": "44445",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7MfSrlai269s8HWPyaQgPX_40.813036_-80.625604@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7MfSrlai269s8HWPyaQgPX_40.813036_-80.625604@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785945,
-    "wof:geomhash":"d5300849e3e10efb727ecd98dd4a83e3",
-    "wof:hierarchy":[],
-    "wof:id":689953205,
-    "wof:lastmodified":1472640122,
-    "wof:name":"RR Construction",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "line"
+    "wof:country": "US",
+    "wof:created": 1461785945,
+    "wof:geomhash": "e56f598465257c86caba6a625508b36f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689953205
+      }
+    ],
+    "wof:id": 689953205,
+    "wof:lastmodified": 1638567120,
+    "wof:name": "RR Construction",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "line"
     ]
-},
+  },
   "bbox": [
     -80.625604,
     40.813036,
     -80.625604,
     40.813036
-],
+  ],
   "geometry": {"coordinates":[-80.625604,40.813036],"type":"Point"}
 }

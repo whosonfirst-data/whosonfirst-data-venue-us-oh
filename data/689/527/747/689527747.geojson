@@ -2,61 +2,65 @@
   "id": 689527747,
   "type": "Feature",
   "properties": {
-    "addr:full":"4552 Lockbourne Rd Columbus OH 43207",
-    "addr:housenumber":"4552",
-    "addr:postcode":"43207",
-    "addr:street":"Lockbourne Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.969539,39.869206,-82.969539,39.869206",
-    "geom:latitude":39.869206,
-    "geom:longitude":-82.969539,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4552 Lockbourne Rd",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "4552 Lockbourne Rd Columbus OH 43207",
+    "addr:housenumber": "4552",
+    "addr:postcode": "43207",
+    "addr:street": "Lockbourne Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.969539,39.869206,-82.969539,39.869206",
+    "geom:latitude": 39.869206,
+    "geom:longitude": -82.969539,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4552 Lockbourne Rd",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 497 6959",
-    "sg:postcode":"43207",
-    "sg:province":"OH",
-    "sg:tags":[
-        "special"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 497 6959",
+    "sg:postcode": "43207",
+    "sg:province": "OH",
+    "sg:tags": [
+      "special"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_695iIBDpH2Uy3te3aXyrLb_39.869206_-82.969539@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_695iIBDpH2Uy3te3aXyrLb_39.869206_-82.969539@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774013,
-    "wof:geomhash":"2dea3d0a9fe8b83aff9be0c27db16f27",
-    "wof:hierarchy":[],
-    "wof:id":689527747,
-    "wof:lastmodified":1472639195,
-    "wof:name":"Storage King",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "special"
+    "wof:country": "US",
+    "wof:created": 1461774013,
+    "wof:geomhash": "1c38e4e67cf35a8f9197c89ff5ca711e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689527747
+      }
+    ],
+    "wof:id": 689527747,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Storage King",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "special"
     ]
-},
+  },
   "bbox": [
     -82.969539,
     39.869206,
     -82.969539,
     39.869206
-],
+  ],
   "geometry": {"coordinates":[-82.969539,39.869206],"type":"Point"}
 }

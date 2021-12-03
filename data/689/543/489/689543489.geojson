@@ -2,61 +2,65 @@
   "id": 689543489,
   "type": "Feature",
   "properties": {
-    "addr:full":"8636 Gavinton Ct Dublin OH 43017",
-    "addr:housenumber":"8636",
-    "addr:postcode":"43017",
-    "addr:street":"Gavinton Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.149681,40.141959,-83.149681,40.141959",
-    "geom:latitude":40.141959,
-    "geom:longitude":-83.149681,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8636 Gavinton Ct",
-    "sg:city":"Dublin",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8636 Gavinton Ct Dublin OH 43017",
+    "addr:housenumber": "8636",
+    "addr:postcode": "43017",
+    "addr:street": "Gavinton Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.149681,40.141959,-83.149681,40.141959",
+    "geom:latitude": 40.141959,
+    "geom:longitude": -83.149681,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8636 Gavinton Ct",
+    "sg:city": "Dublin",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 764 9718",
-    "sg:postcode":"43017",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 764 9718",
+    "sg:postcode": "43017",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5QjADFuEMNACV2TeuB0mLe_40.141959_-83.149681@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5QjADFuEMNACV2TeuB0mLe_40.141959_-83.149681@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774470,
-    "wof:geomhash":"31243fa4fc1b872a802930afaa47513a",
-    "wof:hierarchy":[],
-    "wof:id":689543489,
-    "wof:lastmodified":1472639236,
-    "wof:name":"Meyer Gallery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461774470,
+    "wof:geomhash": "de45338fcf4af0df30752030704171e3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689543489
+      }
+    ],
+    "wof:id": 689543489,
+    "wof:lastmodified": 1638566979,
+    "wof:name": "Meyer Gallery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -83.149681,
     40.141959,
     -83.149681,
     40.141959
-],
+  ],
   "geometry": {"coordinates":[-83.149681,40.141959],"type":"Point"}
 }

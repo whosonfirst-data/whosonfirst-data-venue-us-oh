@@ -2,61 +2,65 @@
   "id": 706362833,
   "type": "Feature",
   "properties": {
-    "addr:full":"8025 2nd St West Chester OH 45069",
-    "addr:housenumber":"8025",
-    "addr:postcode":"45069",
-    "addr:street":"2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.389926,39.351962,-84.389926,39.351962",
-    "geom:latitude":39.351962,
-    "geom:longitude":-84.389926,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8025 2nd St",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "8025 2nd St West Chester OH 45069",
+    "addr:housenumber": "8025",
+    "addr:postcode": "45069",
+    "addr:street": "2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.389926,39.351962,-84.389926,39.351962",
+    "geom:latitude": 39.351962,
+    "geom:longitude": -84.389926,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8025 2nd St",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 752 6937",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 752 6937",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0DVyHiJqsXqbmCP0DZKGYA_39.351962_-84.389926@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0DVyHiJqsXqbmCP0DZKGYA_39.351962_-84.389926@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801666,
-    "wof:geomhash":"942fbd6c7745b27150d7db461edabf3d",
-    "wof:hierarchy":[],
-    "wof:id":706362833,
-    "wof:lastmodified":1472639935,
-    "wof:name":"Maud First Baptist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461801666,
+    "wof:geomhash": "ae00f867da5a42700c83d92d6af0c29e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706362833
+      }
+    ],
+    "wof:id": 706362833,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Maud First Baptist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.389926,
     39.351962,
     -84.389926,
     39.351962
-],
+  ],
   "geometry": {"coordinates":[-84.389926,39.351962],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706512025,
   "type": "Feature",
   "properties": {
-    "addr:full":"5730 Buckwheat Rd Milford OH 45150",
-    "addr:housenumber":"5730",
-    "addr:postcode":"45150",
-    "addr:street":"Buckwheat Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.213282,39.179618,-84.213282,39.179618",
-    "geom:latitude":39.179618,
-    "geom:longitude":-84.213282,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5730 Buckwheat Rd",
-    "sg:city":"Milford",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5730 Buckwheat Rd Milford OH 45150",
+    "addr:housenumber": "5730",
+    "addr:postcode": "45150",
+    "addr:street": "Buckwheat Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.213282,39.179618,-84.213282,39.179618",
+    "geom:latitude": 39.179618,
+    "geom:longitude": -84.213282,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5730 Buckwheat Rd",
+    "sg:city": "Milford",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 575 0721",
-    "sg:postcode":"45150",
-    "sg:province":"OH",
-    "sg:tags":[
-        "taxicab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 575 0721",
+    "sg:postcode": "45150",
+    "sg:province": "OH",
+    "sg:tags": [
+      "taxicab"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2gWGRfRSxrLqmNOmP0gvZz_39.179430_-84.213246@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2gWGRfRSxrLqmNOmP0gvZz_39.179430_-84.213246@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461804887,
-    "wof:geomhash":"d97560b0665474dd701fb0a50c465dc8",
-    "wof:hierarchy":[],
-    "wof:id":706512025,
-    "wof:lastmodified":1472640130,
-    "wof:name":"Express Cab",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxicab"
+    "wof:country": "US",
+    "wof:created": 1461804887,
+    "wof:geomhash": "3696f5df17a2576f0f4df6b142f632a9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706512025
+      }
+    ],
+    "wof:id": 706512025,
+    "wof:lastmodified": 1638567129,
+    "wof:name": "Express Cab",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxicab"
     ]
-},
+  },
   "bbox": [
     -84.213282,
     39.179618,
     -84.213282,
     39.179618
-],
-  "geometry": {"coordinates":[-84.21328200000001,39.179618],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.213282,39.179618],"type":"Point"}
 }

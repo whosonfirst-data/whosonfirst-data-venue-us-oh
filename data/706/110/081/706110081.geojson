@@ -2,63 +2,67 @@
   "id": 706110081,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 Main St Seaman OH 45679",
-    "addr:housenumber":"102",
-    "addr:postcode":"45679",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.571353,38.940453,-83.571353,38.940453",
-    "geom:latitude":38.940453,
-    "geom:longitude":-83.571353,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 Main St",
-    "sg:city":"Seaman",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"Radio Station",
-            "type":"Services"
-        }
+    "addr:full": "102 Main St Seaman OH 45679",
+    "addr:housenumber": "102",
+    "addr:postcode": "45679",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.571353,38.940453,-83.571353,38.940453",
+    "geom:latitude": 38.940453,
+    "geom:longitude": -83.571353,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 Main St",
+    "sg:city": "Seaman",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Radio Station",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 386 0232",
-    "sg:postcode":"45679",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company",
-        "broadcasting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 386 0232",
+    "sg:postcode": "45679",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company",
+      "broadcasting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5COl5gEnFAGunzQw060HiW_38.940453_-83.571353@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5COl5gEnFAGunzQw060HiW_38.940453_-83.571353@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795991,
-    "wof:geomhash":"6ab11f76f749d92214625d96b525efe3",
-    "wof:hierarchy":[],
-    "wof:id":706110081,
-    "wof:lastmodified":1472639270,
-    "wof:name":"WRAC Radio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company",
-        "broadcasting"
+    "wof:country": "US",
+    "wof:created": 1461795991,
+    "wof:geomhash": "16435606e1f1fbb23d8fc491c57dc3d8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706110081
+      }
+    ],
+    "wof:id": 706110081,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "WRAC Radio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company",
+      "broadcasting"
     ]
-},
+  },
   "bbox": [
     -83.571353,
     38.940453,
     -83.571353,
     38.940453
-],
+  ],
   "geometry": {"coordinates":[-83.571353,38.940453],"type":"Point"}
 }

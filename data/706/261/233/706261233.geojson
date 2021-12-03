@@ -2,61 +2,65 @@
   "id": 706261233,
   "type": "Feature",
   "properties": {
-    "addr:full":"782 Lexington Ave Mansfield OH 44907",
-    "addr:housenumber":"782",
-    "addr:postcode":"44907",
-    "addr:street":"Lexington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.532685,40.735269,-82.532685,40.735269",
-    "geom:latitude":40.735269,
-    "geom:longitude":-82.532685,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"782 Lexington Ave",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "782 Lexington Ave Mansfield OH 44907",
+    "addr:housenumber": "782",
+    "addr:postcode": "44907",
+    "addr:street": "Lexington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.532685,40.735269,-82.532685,40.735269",
+    "geom:latitude": 40.735269,
+    "geom:longitude": -82.532685,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "782 Lexington Ave",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 756 0010",
-    "sg:postcode":"44907",
-    "sg:province":"OH",
-    "sg:tags":[
-        "management"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 756 0010",
+    "sg:postcode": "44907",
+    "sg:province": "OH",
+    "sg:tags": [
+      "management"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1tN1mPqXdvJOK80h80jVKP_40.735269_-82.532685@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1tN1mPqXdvJOK80h80jVKP_40.735269_-82.532685@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799431,
-    "wof:geomhash":"eacb34abe336a0792f27c6228d094980",
-    "wof:hierarchy":[],
-    "wof:id":706261233,
-    "wof:lastmodified":1472639604,
-    "wof:name":"Starting Point Mortgage Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "management"
+    "wof:country": "US",
+    "wof:created": 1461799431,
+    "wof:geomhash": "60a4b8f474452da2414061909536f7fb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706261233
+      }
+    ],
+    "wof:id": 706261233,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Starting Point Mortgage Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "management"
     ]
-},
+  },
   "bbox": [
     -82.532685,
     40.735269,
     -82.532685,
     40.735269
-],
+  ],
   "geometry": {"coordinates":[-82.532685,40.735269],"type":"Point"}
 }

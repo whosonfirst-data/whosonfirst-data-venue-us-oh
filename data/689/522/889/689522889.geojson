@@ -2,63 +2,67 @@
   "id": 689522889,
   "type": "Feature",
   "properties": {
-    "addr:full":"418 Tod Ave SW Warren OH 44485",
-    "addr:housenumber":"418",
-    "addr:postcode":"44485",
-    "addr:street":"Tod Ave Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.829252,41.231209,-80.829252,41.231209",
-    "geom:latitude":41.231209,
-    "geom:longitude":-80.829252,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"418 Tod Ave SW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "418 Tod Ave SW Warren OH 44485",
+    "addr:housenumber": "418",
+    "addr:postcode": "44485",
+    "addr:street": "Tod Ave Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.829252,41.231209,-80.829252,41.231209",
+    "geom:latitude": 41.231209,
+    "geom:longitude": -80.829252,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "418 Tod Ave SW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 394 5977",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 394 5977",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ffYURX8nrU98z1E7nrb80_41.231209_-80.829252@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ffYURX8nrU98z1E7nrb80_41.231209_-80.829252@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773814,
-    "wof:geomhash":"4386c739820a24016d62880fdb16b6ef",
-    "wof:hierarchy":[],
-    "wof:id":689522889,
-    "wof:lastmodified":1472639196,
-    "wof:name":"Medical Choice",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461773814,
+    "wof:geomhash": "df26870acb09054e1202c4c45bb02d82",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689522889
+      }
+    ],
+    "wof:id": 689522889,
+    "wof:lastmodified": 1638566964,
+    "wof:name": "Medical Choice",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.829252,
     41.231209,
     -80.829252,
     41.231209
-],
+  ],
   "geometry": {"coordinates":[-80.829252,41.231209],"type":"Point"}
 }

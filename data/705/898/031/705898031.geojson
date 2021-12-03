@@ -2,63 +2,67 @@
   "id": 705898031,
   "type": "Feature",
   "properties": {
-    "addr:full":"8795 Edison St NE Louisville OH 44641",
-    "addr:housenumber":"8795",
-    "addr:postcode":"44641",
-    "addr:street":"Edison St Ne",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.228072,40.951372,-81.228072,40.951372",
-    "geom:latitude":40.951372,
-    "geom:longitude":-81.228072,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8795 Edison St NE",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "8795 Edison St NE Louisville OH 44641",
+    "addr:housenumber": "8795",
+    "addr:postcode": "44641",
+    "addr:street": "Edison St Ne",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.228072,40.951372,-81.228072,40.951372",
+    "geom:latitude": 40.951372,
+    "geom:longitude": -81.228072,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8795 Edison St NE",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 935 0372",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 935 0372",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3KEzv8WgrLS9lXIbs5n3i0_40.951372_-81.228072@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3KEzv8WgrLS9lXIbs5n3i0_40.951372_-81.228072@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791356,
-    "wof:geomhash":"bb352963d44075e6cae5f3e9192d0329",
-    "wof:hierarchy":[],
-    "wof:id":705898031,
-    "wof:lastmodified":1472639547,
-    "wof:name":"Baker Truck Service",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461791356,
+    "wof:geomhash": "464287799486615a344348de67831bfb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705898031
+      }
+    ],
+    "wof:id": 705898031,
+    "wof:lastmodified": 1638567031,
+    "wof:name": "Baker Truck Service",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.228072,
     40.951372,
     -81.228072,
     40.951372
-],
+  ],
   "geometry": {"coordinates":[-81.228072,40.951372],"type":"Point"}
 }

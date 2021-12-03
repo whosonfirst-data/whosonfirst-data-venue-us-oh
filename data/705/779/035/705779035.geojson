@@ -2,63 +2,67 @@
   "id": 705779035,
   "type": "Feature",
   "properties": {
-    "addr:full":"2705 Dickson Rd Lima OH 45806",
-    "addr:housenumber":"2705",
-    "addr:postcode":"45806",
-    "addr:street":"Dickson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.053752,40.654616,-84.053752,40.654616",
-    "geom:latitude":40.654616,
-    "geom:longitude":-84.053752,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2705 Dickson Rd",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "2705 Dickson Rd Lima OH 45806",
+    "addr:housenumber": "2705",
+    "addr:postcode": "45806",
+    "addr:street": "Dickson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.053752,40.654616,-84.053752,40.654616",
+    "geom:latitude": 40.654616,
+    "geom:longitude": -84.053752,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2705 Dickson Rd",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 221 3700",
-    "sg:postcode":"45806",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 221 3700",
+    "sg:postcode": "45806",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xVi9gBPFBGtDc0r2nSujy_40.654616_-84.053752@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0xVi9gBPFBGtDc0r2nSujy_40.654616_-84.053752@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788526,
-    "wof:geomhash":"811f408f46956c2f87daf8de7fe2c285",
-    "wof:hierarchy":[],
-    "wof:id":705779035,
-    "wof:lastmodified":1472639219,
-    "wof:name":"Norman Newfer Refuse Removal",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461788526,
+    "wof:geomhash": "eafe4053e22a77dfdc000a840cc8a2c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705779035
+      }
+    ],
+    "wof:id": 705779035,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Norman Newfer Refuse Removal",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -84.053752,
     40.654616,
     -84.053752,
     40.654616
-],
+  ],
   "geometry": {"coordinates":[-84.053752,40.654616],"type":"Point"}
 }

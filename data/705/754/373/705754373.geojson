@@ -2,61 +2,65 @@
   "id": 705754373,
   "type": "Feature",
   "properties": {
-    "addr:full":"402 W Wayne St Paulding OH 45879",
-    "addr:housenumber":"402",
-    "addr:postcode":"45879",
-    "addr:street":"W Wayne St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.584942,41.135356,-84.584942,41.135356",
-    "geom:latitude":41.135356,
-    "geom:longitude":-84.584942,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"402 W Wayne St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "402 W Wayne St Paulding OH 45879",
+    "addr:housenumber": "402",
+    "addr:postcode": "45879",
+    "addr:street": "W Wayne St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.584942,41.135356,-84.584942,41.135356",
+    "geom:latitude": 41.135356,
+    "geom:longitude": -84.584942,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "402 W Wayne St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 2322",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 2322",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_252jl30Sm9VSFQ4PAeFEEJ_41.135356_-84.584942@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_252jl30Sm9VSFQ4PAeFEEJ_41.135356_-84.584942@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787955,
-    "wof:geomhash":"bbb6e1e293c69b1a3c26411e6ad35c17",
-    "wof:hierarchy":[],
-    "wof:id":705754373,
-    "wof:lastmodified":1472639197,
-    "wof:name":"Grace Home Improvements",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461787955,
+    "wof:geomhash": "477e6441bdbb753217e48a06c6c1fc7c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705754373
+      }
+    ],
+    "wof:id": 705754373,
+    "wof:lastmodified": 1638566968,
+    "wof:name": "Grace Home Improvements",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -84.584942,
     41.135356,
     -84.584942,
     41.135356
-],
+  ],
   "geometry": {"coordinates":[-84.584942,41.135356],"type":"Point"}
 }

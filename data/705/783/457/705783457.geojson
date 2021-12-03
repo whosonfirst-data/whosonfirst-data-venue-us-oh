@@ -2,61 +2,65 @@
   "id": 705783457,
   "type": "Feature",
   "properties": {
-    "addr:full":"565 Richey Rd Zanesville OH 43701",
-    "addr:housenumber":"565",
-    "addr:postcode":"43701",
-    "addr:street":"Richey Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.006622,39.995347,-82.006622,39.995347",
-    "geom:latitude":39.995347,
-    "geom:longitude":-82.006622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"565 Richey Rd",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "565 Richey Rd Zanesville OH 43701",
+    "addr:housenumber": "565",
+    "addr:postcode": "43701",
+    "addr:street": "Richey Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.006622,39.995347,-82.006622,39.995347",
+    "geom:latitude": 39.995347,
+    "geom:longitude": -82.006622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "565 Richey Rd",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 9144",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 9144",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6K8QMN1ZCBHzFuAUFZH6Lh_39.995347_-82.006622@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6K8QMN1ZCBHzFuAUFZH6Lh_39.995347_-82.006622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788647,
-    "wof:geomhash":"a5b6f00bfbfa4029a77970d0c05fdd74",
-    "wof:hierarchy":[],
-    "wof:id":705783457,
-    "wof:lastmodified":1472639251,
-    "wof:name":"Falls Twp Fire",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461788647,
+    "wof:geomhash": "1a61cbe1e45c98081020fe6570c40302",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705783457
+      }
+    ],
+    "wof:id": 705783457,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Falls Twp Fire",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.006622,
     39.995347,
     -82.006622,
     39.995347
-],
-  "geometry": {"coordinates":[-82.00662199999999,39.995347],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.006622,39.995347],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706022061,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 N Main St New Knoxville OH 45871",
-    "addr:housenumber":"210",
-    "addr:postcode":"45871",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.316617,40.495467,-84.316617,40.495467",
-    "geom:latitude":40.495467,
-    "geom:longitude":-84.316617,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"210 N Main St",
-    "sg:city":"New Knoxville",
-    "sg:classifiers":[
-        {
-            "category":"Parking",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "210 N Main St New Knoxville OH 45871",
+    "addr:housenumber": "210",
+    "addr:postcode": "45871",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.316617,40.495467,-84.316617,40.495467",
+    "geom:latitude": 40.495467,
+    "geom:longitude": -84.316617,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "210 N Main St",
+    "sg:city": "New Knoxville",
+    "sg:classifiers": [
+      {
+        "category": "Parking",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 753 2543",
-    "sg:postcode":"45871",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 753 2543",
+    "sg:postcode": "45871",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0InVYo7NhSVDLl4ikxLLDr_40.495467_-84.316617@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0InVYo7NhSVDLl4ikxLLDr_40.495467_-84.316617@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794051,
-    "wof:geomhash":"e91a431308ec9cc6aa1d467dbab6bd06",
-    "wof:hierarchy":[],
-    "wof:id":706022061,
-    "wof:lastmodified":1472638590,
-    "wof:name":"Washington Township Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garage"
+    "wof:country": "US",
+    "wof:created": 1461794051,
+    "wof:geomhash": "3f28814aee3974686f48a68b0d4e6d10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706022061
+      }
+    ],
+    "wof:id": 706022061,
+    "wof:lastmodified": 1638566945,
+    "wof:name": "Washington Township Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garage"
     ]
-},
+  },
   "bbox": [
     -84.316617,
     40.495467,
     -84.316617,
     40.495467
-],
-  "geometry": {"coordinates":[-84.31661699999999,40.495467],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.316617,40.495467],"type":"Point"}
 }

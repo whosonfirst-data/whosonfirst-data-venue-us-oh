@@ -2,63 +2,67 @@
   "id": 705985361,
   "type": "Feature",
   "properties": {
-    "addr:full":"1104 Fremont Ave Sandusky OH 44870",
-    "addr:housenumber":"1104",
-    "addr:postcode":"44870",
-    "addr:street":"Fremont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.78209,41.440833,-82.78209,41.440833",
-    "geom:latitude":41.440833,
-    "geom:longitude":-82.78209,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1104 Fremont Ave",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "1104 Fremont Ave Sandusky OH 44870",
+    "addr:housenumber": "1104",
+    "addr:postcode": "44870",
+    "addr:street": "Fremont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.782090,41.440833,-82.782090,41.440833",
+    "geom:latitude": 41.440833,
+    "geom:longitude": -82.78209,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1104 Fremont Ave",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 625 8353",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "fishing",
-        "lake"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 625 8353",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "fishing",
+      "lake"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_407xaJB088C2NEl5qb17oF_41.440833_-82.782090@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_407xaJB088C2NEl5qb17oF_41.440833_-82.782090@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793279,
-    "wof:geomhash":"e69966f25377d501411fcc57dd9b106e",
-    "wof:hierarchy":[],
-    "wof:id":705985361,
-    "wof:lastmodified":1472639796,
-    "wof:name":"Sunnybrook Conference Ctr",
-    "wof:parent_id":420534771,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fishing",
-        "lake"
+    "wof:country": "US",
+    "wof:created": 1461793279,
+    "wof:geomhash": "7f67018e93f3c61a5ed926cbf9d46e07",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705985361
+      }
+    ],
+    "wof:id": 705985361,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Sunnybrook Conference Ctr",
+    "wof:parent_id": 420534771,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fishing",
+      "lake"
     ]
-},
+  },
   "bbox": [
     -82.78209,
     41.440833,
     -82.78209,
     41.440833
-],
+  ],
   "geometry": {"coordinates":[-82.78209,41.440833],"type":"Point"}
 }

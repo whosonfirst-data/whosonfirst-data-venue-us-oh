@@ -2,61 +2,65 @@
   "id": 705735655,
   "type": "Feature",
   "properties": {
-    "addr:full":"1135 E Main St Ashland OH 44805",
-    "addr:housenumber":"1135",
-    "addr:postcode":"44805",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.294994,40.865003,-82.294994,40.865003",
-    "geom:latitude":40.865003,
-    "geom:longitude":-82.294994,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1135 E Main St",
-    "sg:city":"Ashland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1135 E Main St Ashland OH 44805",
+    "addr:housenumber": "1135",
+    "addr:postcode": "44805",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.294994,40.865003,-82.294994,40.865003",
+    "geom:latitude": 40.865003,
+    "geom:longitude": -82.294994,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1135 E Main St",
+    "sg:city": "Ashland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 289 6699",
-    "sg:postcode":"44805",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 289 6699",
+    "sg:postcode": "44805",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7cnro1kPRx3eYfKV0H0RMI_40.865003_-82.294994@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7cnro1kPRx3eYfKV0H0RMI_40.865003_-82.294994@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787545,
-    "wof:geomhash":"78f5c91ba9e74ef233e8f4ad6107b207",
-    "wof:hierarchy":[],
-    "wof:id":705735655,
-    "wof:lastmodified":1472639006,
-    "wof:name":"Well Child & Prenatal Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461787545,
+    "wof:geomhash": "6775b34a666964efe5f45455fc64e45f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705735655
+      }
+    ],
+    "wof:id": 705735655,
+    "wof:lastmodified": 1638566951,
+    "wof:name": "Well Child \u0026 Prenatal Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -82.294994,
     40.865003,
     -82.294994,
     40.865003
-],
+  ],
   "geometry": {"coordinates":[-82.294994,40.865003],"type":"Point"}
 }

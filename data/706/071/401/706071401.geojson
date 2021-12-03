@@ -2,68 +2,72 @@
   "id": 706071401,
   "type": "Feature",
   "properties": {
-    "addr:full":"416 Vine St Cincinnati OH 45202",
-    "addr:housenumber":"416",
-    "addr:postcode":"45202",
-    "addr:street":"Vine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.512841,39.100921,-84.512841,39.100921",
-    "geom:latitude":39.100921,
-    "geom:longitude":-84.512841,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"416 Vine St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Parking",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "416 Vine St Cincinnati OH 45202",
+    "addr:housenumber": "416",
+    "addr:postcode": "45202",
+    "addr:street": "Vine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.512841,39.100921,-84.512841,39.100921",
+    "geom:latitude": 39.100921,
+    "geom:longitude": -84.512841,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "416 Vine St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Parking",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 352 4066",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garage",
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 352 4066",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garage",
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_24PV8biScJAyS5HDB8mlvm_39.100921_-84.512841@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_24PV8biScJAyS5HDB8mlvm_39.100921_-84.512841@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795063,
-    "wof:geomhash":"e119119cfd8541e5d8c7e9c4da6fa34c",
-    "wof:hierarchy":[],
-    "wof:id":706071401,
-    "wof:lastmodified":1472639170,
-    "wof:name":"Fountain Square South",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garage",
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461795063,
+    "wof:geomhash": "986632b118f18e4951faf5dcb3a621af",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706071401
+      }
+    ],
+    "wof:id": 706071401,
+    "wof:lastmodified": 1638566976,
+    "wof:name": "Fountain Square South",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garage",
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.512841,
     39.100921,
     -84.512841,
     39.100921
-],
-  "geometry": {"coordinates":[-84.51284099999999,39.100921],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.512841,39.100921],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689533385,
   "type": "Feature",
   "properties": {
-    "addr:full":"21890 State Rte 18 Defiance OH 43512",
-    "addr:housenumber":"21890",
-    "addr:postcode":"43512",
-    "addr:street":"State Rte 18",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.399495,41.308207,-84.399495,41.308207",
-    "geom:latitude":41.308207,
-    "geom:longitude":-84.399495,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21890 State Rte 18",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Medical Equipment & Supplies",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "21890 State Rte 18 Defiance OH 43512",
+    "addr:housenumber": "21890",
+    "addr:postcode": "43512",
+    "addr:street": "State Rte 18",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.399495,41.308207,-84.399495,41.308207",
+    "geom:latitude": 41.308207,
+    "geom:longitude": -84.399495,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21890 State Rte 18",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Medical Equipment \u0026 Supplies",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 782 0248",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 782 0248",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dCDHNCHYPYQxeFZ7qRuim_41.308207_-84.399495@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3dCDHNCHYPYQxeFZ7qRuim_41.308207_-84.399495@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774184,
-    "wof:geomhash":"785eb8c7f5c1b84a09bbce04de8098b6",
-    "wof:hierarchy":[],
-    "wof:id":689533385,
-    "wof:lastmodified":1472639179,
-    "wof:name":"Medcorp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461774184,
+    "wof:geomhash": "3a6d69747f79e640e2785a2d007389bf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689533385
+      }
+    ],
+    "wof:id": 689533385,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Medcorp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.399495,
     41.308207,
     -84.399495,
     41.308207
-],
+  ],
   "geometry": {"coordinates":[-84.399495,41.308207],"type":"Point"}
 }

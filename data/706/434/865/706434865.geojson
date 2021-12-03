@@ -2,65 +2,69 @@
   "id": 706434865,
   "type": "Feature",
   "properties": {
-    "addr:full":"2073 N Kansas Rd Orrville OH 44667",
-    "addr:housenumber":"2073",
-    "addr:postcode":"44667",
-    "addr:street":"N Kansas Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.774668,40.82234,-81.774668,40.82234",
-    "geom:latitude":40.82234,
-    "geom:longitude":-81.774668,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2073 N Kansas Rd",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2073 N Kansas Rd Orrville OH 44667",
+    "addr:housenumber": "2073",
+    "addr:postcode": "44667",
+    "addr:street": "N Kansas Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.774668,40.822340,-81.774668,40.822340",
+    "geom:latitude": 40.82234,
+    "geom:longitude": -81.774668,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2073 N Kansas Rd",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 682 0113",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage",
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 682 0113",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage",
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5fWlXBJbqezXMcwtjWfm6z_40.822340_-81.774668@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5fWlXBJbqezXMcwtjWfm6z_40.822340_-81.774668@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803082,
-    "wof:geomhash":"8f27f0a8f7e224457141ed9059edbb3d",
-    "wof:hierarchy":[],
-    "wof:id":706434865,
-    "wof:lastmodified":1472640030,
-    "wof:name":"Dave's Mini Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage",
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461803082,
+    "wof:geomhash": "225443ab2cfe4a59c34a7e1b694d866b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706434865
+      }
+    ],
+    "wof:id": 706434865,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Dave's Mini Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage",
+      "general"
     ]
-},
+  },
   "bbox": [
     -81.774668,
     40.82234,
     -81.774668,
     40.82234
-],
-  "geometry": {"coordinates":[-81.77466800000001,40.82234],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.774668,40.82234],"type":"Point"}
 }

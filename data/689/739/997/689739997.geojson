@@ -2,61 +2,65 @@
   "id": 689739997,
   "type": "Feature",
   "properties": {
-    "addr:full":"144 S Columbus St Russellville OH 45168",
-    "addr:housenumber":"144",
-    "addr:postcode":"45168",
-    "addr:street":"S Columbus St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.787001,38.863017,-83.787001,38.863017",
-    "geom:latitude":38.863017,
-    "geom:longitude":-83.787001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"144 S Columbus St",
-    "sg:city":"Russellville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "144 S Columbus St Russellville OH 45168",
+    "addr:housenumber": "144",
+    "addr:postcode": "45168",
+    "addr:street": "S Columbus St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.787001,38.863017,-83.787001,38.863017",
+    "geom:latitude": 38.863017,
+    "geom:longitude": -83.787001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "144 S Columbus St",
+    "sg:city": "Russellville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 377 5505",
-    "sg:postcode":"45168",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 377 5505",
+    "sg:postcode": "45168",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0AX3YbGhJbINzZvPdmt4GM_38.863017_-83.787001@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0AX3YbGhJbINzZvPdmt4GM_38.863017_-83.787001@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780194,
-    "wof:geomhash":"6ab0d593524e9e509ea32c5af3a09185",
-    "wof:hierarchy":[],
-    "wof:id":689739997,
-    "wof:lastmodified":1472639772,
-    "wof:name":"Russellville Church Of Christ",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461780194,
+    "wof:geomhash": "461232731a4be4ba6095f26e02f1803e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689739997
+      }
+    ],
+    "wof:id": 689739997,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Russellville Church Of Christ",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.787001,
     38.863017,
     -83.787001,
     38.863017
-],
+  ],
   "geometry": {"coordinates":[-83.787001,38.863017],"type":"Point"}
 }

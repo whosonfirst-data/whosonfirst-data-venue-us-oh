@@ -2,61 +2,65 @@
   "id": 706280641,
   "type": "Feature",
   "properties": {
-    "addr:full":"335 Blair Cir Aurora OH 44202",
-    "addr:housenumber":"335",
-    "addr:postcode":"44202",
-    "addr:street":"Blair Cir",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.374414,41.328486,-81.374414,41.328486",
-    "geom:latitude":41.328486,
-    "geom:longitude":-81.374414,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"335 Blair Cir",
-    "sg:city":"Aurora",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "335 Blair Cir Aurora OH 44202",
+    "addr:housenumber": "335",
+    "addr:postcode": "44202",
+    "addr:street": "Blair Cir",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.374414,41.328486,-81.374414,41.328486",
+    "geom:latitude": 41.328486,
+    "geom:longitude": -81.374414,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "335 Blair Cir",
+    "sg:city": "Aurora",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 995 0707",
-    "sg:postcode":"44202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 995 0707",
+    "sg:postcode": "44202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_17lX1iFDIWpQT2wV9ElPtK_41.328486_-81.374414@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_17lX1iFDIWpQT2wV9ElPtK_41.328486_-81.374414@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799861,
-    "wof:geomhash":"c316652a212f5b416c3026499e1aef3d",
-    "wof:hierarchy":[],
-    "wof:id":706280641,
-    "wof:lastmodified":1472639658,
-    "wof:name":"D'Marie",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461799861,
+    "wof:geomhash": "af09d7b30a42320ceb9bc6ea40846522",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706280641
+      }
+    ],
+    "wof:id": 706280641,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "D'Marie",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -81.374414,
     41.328486,
     -81.374414,
     41.328486
-],
+  ],
   "geometry": {"coordinates":[-81.374414,41.328486],"type":"Point"}
 }

@@ -2,56 +2,60 @@
   "id": 705900125,
   "type": "Feature",
   "properties": {
-    "addr:full":"2143 S 9th St Coshocton OH 43812",
-    "addr:housenumber":"2143",
-    "addr:postcode":"43812",
-    "addr:street":"S 9Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.8574,40.247516,-81.8574,40.247516",
-    "geom:latitude":40.247516,
-    "geom:longitude":-81.8574,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2143 S 9th St",
-    "sg:city":"Coshocton",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "2143 S 9th St Coshocton OH 43812",
+    "addr:housenumber": "2143",
+    "addr:postcode": "43812",
+    "addr:street": "S 9Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.857400,40.247516,-81.857400,40.247516",
+    "geom:latitude": 40.247516,
+    "geom:longitude": -81.8574,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2143 S 9th St",
+    "sg:city": "Coshocton",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 622 0700",
-    "sg:postcode":"43812",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Kq5l65ZJ0KBwuHdaK5rLe_40.247516_-81.857400@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 622 0700",
+    "sg:postcode": "43812",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Kq5l65ZJ0KBwuHdaK5rLe_40.247516_-81.857400@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791418,
-    "wof:geomhash":"645c0b6cc1ece64eee3e9b6b2dcca5e1",
-    "wof:hierarchy":[],
-    "wof:id":705900125,
-    "wof:lastmodified":1472639546,
-    "wof:name":"Agents Realty",
-    "wof:parent_id":420534609,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461791418,
+    "wof:geomhash": "c813bdc6eae3cd26b173c0cb00f39308",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705900125
+      }
+    ],
+    "wof:id": 705900125,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Agents Realty",
+    "wof:parent_id": 420534609,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.8574,
     40.247516,
     -81.8574,
     40.247516
-],
+  ],
   "geometry": {"coordinates":[-81.8574,40.247516],"type":"Point"}
 }

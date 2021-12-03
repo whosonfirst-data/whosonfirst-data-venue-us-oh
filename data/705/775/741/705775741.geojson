@@ -2,61 +2,65 @@
   "id": 705775741,
   "type": "Feature",
   "properties": {
-    "addr:full":"1130 Rainbow Dr Portsmouth OH 45662",
-    "addr:housenumber":"1130",
-    "addr:postcode":"45662",
-    "addr:street":"Rainbow Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.981666,38.781545,-82.981666,38.781545",
-    "geom:latitude":38.781545,
-    "geom:longitude":-82.981666,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1130 Rainbow Dr",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1130 Rainbow Dr Portsmouth OH 45662",
+    "addr:housenumber": "1130",
+    "addr:postcode": "45662",
+    "addr:street": "Rainbow Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.981666,38.781545,-82.981666,38.781545",
+    "geom:latitude": 38.781545,
+    "geom:longitude": -82.981666,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1130 Rainbow Dr",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 354 6653",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 354 6653",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_33j7UqKmynbQYinQ8JuCP1_38.781545_-82.981666@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_33j7UqKmynbQYinQ8JuCP1_38.781545_-82.981666@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788442,
-    "wof:geomhash":"c196ec868ba8c5707eedd3bc4ff68f7f",
-    "wof:hierarchy":[],
-    "wof:id":705775741,
-    "wof:lastmodified":1472639236,
-    "wof:name":"Susans Cake & Catering",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461788442,
+    "wof:geomhash": "297119a9f9d60bdd56572c40ed0dccf2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705775741
+      }
+    ],
+    "wof:id": 705775741,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Susans Cake \u0026 Catering",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.981666,
     38.781545,
     -82.981666,
     38.781545
-],
+  ],
   "geometry": {"coordinates":[-82.981666,38.781545],"type":"Point"}
 }

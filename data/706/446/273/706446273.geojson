@@ -2,65 +2,69 @@
   "id": 706446273,
   "type": "Feature",
   "properties": {
-    "addr:full":"3007 N Wooster Ave Dover OH 44622",
-    "addr:housenumber":"3007",
-    "addr:postcode":"44622",
-    "addr:street":"N Wooster Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.495018,40.550246,-81.495018,40.550246",
-    "geom:latitude":40.550246,
-    "geom:longitude":-81.495018,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3007 N Wooster Ave",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "3007 N Wooster Ave Dover OH 44622",
+    "addr:housenumber": "3007",
+    "addr:postcode": "44622",
+    "addr:street": "N Wooster Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.495018,40.550246,-81.495018,40.550246",
+    "geom:latitude": 40.550246,
+    "geom:longitude": -81.495018,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3007 N Wooster Ave",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 602 4401",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 602 4401",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "sg:website":"www.greatclips.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573895,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_26vcPTuIjuHaVWbV4ZmG9u_40.550246_-81.495018@1294180530"
+    "sg:website": "www.greatclips.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573895,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_26vcPTuIjuHaVWbV4ZmG9u_40.550246_-81.495018@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803358,
-    "wof:geomhash":"f9a454a7d82c94885062de97b6252a4e",
-    "wof:hierarchy":[],
-    "wof:id":706446273,
-    "wof:lastmodified":1510603089,
-    "wof:name":"Great Clips",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461803358,
+    "wof:geomhash": "f9a454a7d82c94885062de97b6252a4e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706446273
+      }
+    ],
+    "wof:id": 706446273,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Great Clips",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -81.495018,
     40.550246,
     -81.495018,
     40.550246
-],
+  ],
   "geometry": {"coordinates":[-81.495018,40.550246],"type":"Point"}
 }

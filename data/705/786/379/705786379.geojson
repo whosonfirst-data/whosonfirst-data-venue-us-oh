@@ -2,61 +2,65 @@
   "id": 705786379,
   "type": "Feature",
   "properties": {
-    "addr:full":"509 Riverside Ave Wellsville OH 43968",
-    "addr:housenumber":"509",
-    "addr:postcode":"43968",
-    "addr:street":"Riverside Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.643401,40.60742,-80.643401,40.60742",
-    "geom:latitude":40.60742,
-    "geom:longitude":-80.643401,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"509 Riverside Ave",
-    "sg:city":"Wellsville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "509 Riverside Ave Wellsville OH 43968",
+    "addr:housenumber": "509",
+    "addr:postcode": "43968",
+    "addr:street": "Riverside Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.643401,40.607420,-80.643401,40.607420",
+    "geom:latitude": 40.60742,
+    "geom:longitude": -80.643401,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "509 Riverside Ave",
+    "sg:city": "Wellsville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 532 1553",
-    "sg:postcode":"43968",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 532 1553",
+    "sg:postcode": "43968",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0uF1YiWM35nvcYRGzXSaiq_40.607420_-80.643401@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0uF1YiWM35nvcYRGzXSaiq_40.607420_-80.643401@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788719,
-    "wof:geomhash":"a97aa719badd095dca035ef5ed60db6b",
-    "wof:hierarchy":[],
-    "wof:id":705786379,
-    "wof:lastmodified":1472639245,
-    "wof:name":"Martin Mac Lean Altmeyer Homes",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461788719,
+    "wof:geomhash": "9efe60ab456995ac6855ccf054c1ceef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705786379
+      }
+    ],
+    "wof:id": 705786379,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Martin Mac Lean Altmeyer Homes",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -80.643401,
     40.60742,
     -80.643401,
     40.60742
-],
+  ],
   "geometry": {"coordinates":[-80.643401,40.60742],"type":"Point"}
 }

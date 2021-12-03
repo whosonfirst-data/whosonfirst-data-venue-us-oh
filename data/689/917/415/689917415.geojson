@@ -2,61 +2,65 @@
   "id": 689917415,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 S Mill St Massillon OH 44627",
-    "addr:housenumber":"216",
-    "addr:postcode":"44627",
-    "addr:street":"S Mill St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.86951,40.675505,-81.86951,40.675505",
-    "geom:latitude":40.675505,
-    "geom:longitude":-81.86951,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"216 S Mill St",
-    "sg:city":"Massillon",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "216 S Mill St Massillon OH 44627",
+    "addr:housenumber": "216",
+    "addr:postcode": "44627",
+    "addr:street": "S Mill St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.869510,40.675505,-81.869510,40.675505",
+    "geom:latitude": 40.675505,
+    "geom:longitude": -81.86951,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "216 S Mill St",
+    "sg:city": "Massillon",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 830 1724",
-    "sg:postcode":"44627",
-    "sg:province":"OH",
-    "sg:tags":[
-        "development"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 830 1724",
+    "sg:postcode": "44627",
+    "sg:province": "OH",
+    "sg:tags": [
+      "development"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6sicHt0eRjkIxBiVXAOeic_40.675505_-81.869510@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6sicHt0eRjkIxBiVXAOeic_40.675505_-81.869510@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785045,
-    "wof:geomhash":"9487f61c70b4c86fefdd88996e3af6b6",
-    "wof:hierarchy":[],
-    "wof:id":689917415,
-    "wof:lastmodified":1472640079,
-    "wof:name":"Housing & Zoning Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "development"
+    "wof:country": "US",
+    "wof:created": 1461785045,
+    "wof:geomhash": "fa48459d535ab6a156132ebe9ee90dbc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689917415
+      }
+    ],
+    "wof:id": 689917415,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Housing \u0026 Zoning Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "development"
     ]
-},
+  },
   "bbox": [
     -81.86951,
     40.675505,
     -81.86951,
     40.675505
-],
-  "geometry": {"coordinates":[-81.86951000000001,40.675505],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.86951,40.675505],"type":"Point"}
 }

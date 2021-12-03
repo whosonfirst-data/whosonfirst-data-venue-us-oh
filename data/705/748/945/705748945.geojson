@@ -2,61 +2,65 @@
   "id": 705748945,
   "type": "Feature",
   "properties": {
-    "addr:full":"3525 E 93rd St Cleveland OH 44105",
-    "addr:housenumber":"3525",
-    "addr:postcode":"44105",
-    "addr:street":"E 93Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.621376,41.462361,-81.621376,41.462361",
-    "geom:latitude":41.462361,
-    "geom:longitude":-81.621376,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3525 E 93rd St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3525 E 93rd St Cleveland OH 44105",
+    "addr:housenumber": "3525",
+    "addr:postcode": "44105",
+    "addr:street": "E 93Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.621376,41.462361,-81.621376,41.462361",
+    "geom:latitude": 41.462361,
+    "geom:longitude": -81.621376,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3525 E 93rd St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 271 0301",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 271 0301",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4MQ1dbzCb5KI6HOtPHkGG1_41.462361_-81.621376@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4MQ1dbzCb5KI6HOtPHkGG1_41.462361_-81.621376@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787826,
-    "wof:geomhash":"ae02a3d77fb2b26076d695f88dcace04",
-    "wof:hierarchy":[],
-    "wof:id":705748945,
-    "wof:lastmodified":1472639194,
-    "wof:name":"Glorious Church Of God-Christ",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461787826,
+    "wof:geomhash": "999cc585e87526fc660161aded9afae4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705748945
+      }
+    ],
+    "wof:id": 705748945,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Glorious Church Of God-Christ",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.621376,
     41.462361,
     -81.621376,
     41.462361
-],
+  ],
   "geometry": {"coordinates":[-81.621376,41.462361],"type":"Point"}
 }

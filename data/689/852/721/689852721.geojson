@@ -2,65 +2,69 @@
   "id": 689852721,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 North St Woodsfield OH 43793",
-    "addr:housenumber":"102",
-    "addr:postcode":"43793",
-    "addr:street":"North St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.113299,39.764414,-81.113299,39.764414",
-    "geom:latitude":39.764414,
-    "geom:longitude":-81.113299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 North St",
-    "sg:city":"Woodsfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "102 North St Woodsfield OH 43793",
+    "addr:housenumber": "102",
+    "addr:postcode": "43793",
+    "addr:street": "North St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.113299,39.764414,-81.113299,39.764414",
+    "geom:latitude": 39.764414,
+    "geom:longitude": -81.113299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 North St",
+    "sg:city": "Woodsfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 472 0900",
-    "sg:postcode":"43793",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hospital",
-        "veterinarian",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 472 0900",
+    "sg:postcode": "43793",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hospital",
+      "veterinarian",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4l89amPJWG3U5OJHMjS8g7_39.764414_-81.113299@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4l89amPJWG3U5OJHMjS8g7_39.764414_-81.113299@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783371,
-    "wof:geomhash":"8ca254b8c28804de08ab5af984dc9f73",
-    "wof:hierarchy":[],
-    "wof:id":689852721,
-    "wof:lastmodified":1472639935,
-    "wof:name":"Woodsfield Veterinary Services",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "veterinarian",
-        "animal"
+    "wof:country": "US",
+    "wof:created": 1461783371,
+    "wof:geomhash": "db7a6a7806d7edc7ebed954682dbad43",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689852721
+      }
+    ],
+    "wof:id": 689852721,
+    "wof:lastmodified": 1638567078,
+    "wof:name": "Woodsfield Veterinary Services",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "veterinarian",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -81.113299,
     39.764414,
     -81.113299,
     39.764414
-],
+  ],
   "geometry": {"coordinates":[-81.113299,39.764414],"type":"Point"}
 }

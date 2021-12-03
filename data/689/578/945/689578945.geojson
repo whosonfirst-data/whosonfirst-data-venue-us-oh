@@ -2,65 +2,69 @@
   "id": 689578945,
   "type": "Feature",
   "properties": {
-    "addr:full":"8140 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"8140",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.331495,39.073121,-84.331495,39.073121",
-    "geom:latitude":39.073121,
-    "geom:longitude":-84.331495,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"8140 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "8140 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "8140",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.331495,39.073121,-84.331495,39.073121",
+    "geom:latitude": 39.073121,
+    "geom:longitude": -84.331495,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "8140 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 231 5558",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 231 5558",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "sg:website":"www.regis.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574571,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Nid4rHLcrVUoqrCO7mLO7_39.073121_-84.331495@1294180530"
+    "sg:website": "www.regis.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574571,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Nid4rHLcrVUoqrCO7mLO7_39.073121_-84.331495@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775575,
-    "wof:geomhash":"c10637f1776f6d6175e818924ba32945",
-    "wof:hierarchy":[],
-    "wof:id":689578945,
-    "wof:lastmodified":1510604682,
-    "wof:name":"Regis Salons",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461775575,
+    "wof:geomhash": "c10637f1776f6d6175e818924ba32945",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689578945
+      }
+    ],
+    "wof:id": 689578945,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Regis Salons",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.331495,
     39.073121,
     -84.331495,
     39.073121
-],
+  ],
   "geometry": {"coordinates":[-84.331495,39.073121],"type":"Point"}
 }

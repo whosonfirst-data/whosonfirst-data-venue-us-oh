@@ -2,69 +2,73 @@
   "id": 706572109,
   "type": "Feature",
   "properties": {
-    "addr:full":"867 Eastgate North Dr Cincinnati OH 45245",
-    "addr:housenumber":"867",
-    "addr:postcode":"45245",
-    "addr:street":"Eastgate North Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.271856,39.10017,-84.271856,39.10017",
-    "geom:latitude":39.10017,
-    "geom:longitude":-84.271856,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"867 Eastgate North Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "867 Eastgate North Dr Cincinnati OH 45245",
+    "addr:housenumber": "867",
+    "addr:postcode": "45245",
+    "addr:street": "Eastgate North Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.271856,39.100170,-84.271856,39.100170",
+    "geom:latitude": 39.10017,
+    "geom:longitude": -84.271856,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "867 Eastgate North Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/union/90150-penn-station/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 752 3030",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/union/90150-penn-station/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 752 3030",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125150445,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6PNwSxaxZ7hVAQ8uHauHXR_39.100170_-84.271856@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125150445,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6PNwSxaxZ7hVAQ8uHauHXR_39.100170_-84.271856@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806102,
-    "wof:geomhash":"6f6798f604257b923f3e3625a24e4abd",
-    "wof:hierarchy":[],
-    "wof:id":706572109,
-    "wof:lastmodified":1511318625,
-    "wof:name":"Penn Station",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806102,
+    "wof:geomhash": "6f6798f604257b923f3e3625a24e4abd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706572109
+      }
+    ],
+    "wof:id": 706572109,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Penn Station",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -84.271856,
     39.10017,
     -84.271856,
     39.10017
-],
+  ],
   "geometry": {"coordinates":[-84.271856,39.10017],"type":"Point"}
 }

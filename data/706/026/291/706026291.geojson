@@ -2,61 +2,65 @@
   "id": 706026291,
   "type": "Feature",
   "properties": {
-    "addr:full":"615 S Johnson Rd Sebring OH 44672",
-    "addr:housenumber":"615",
-    "addr:postcode":"44672",
-    "addr:street":"S Johnson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.031826,40.916362,-81.031826,40.916362",
-    "geom:latitude":40.916362,
-    "geom:longitude":-81.031826,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"615 S Johnson Rd",
-    "sg:city":"Sebring",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "615 S Johnson Rd Sebring OH 44672",
+    "addr:housenumber": "615",
+    "addr:postcode": "44672",
+    "addr:street": "S Johnson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.031826,40.916362,-81.031826,40.916362",
+    "geom:latitude": 40.916362,
+    "geom:longitude": -81.031826,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "615 S Johnson Rd",
+    "sg:city": "Sebring",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 938 9360",
-    "sg:postcode":"44672",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 938 9360",
+    "sg:postcode": "44672",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1MAx1z0KyzbvN9Fw3jOrhe_40.916362_-81.031826@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1MAx1z0KyzbvN9Fw3jOrhe_40.916362_-81.031826@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794133,
-    "wof:geomhash":"6fdd530d1fede02ba7a14df95e0ae9dd",
-    "wof:hierarchy":[],
-    "wof:id":706026291,
-    "wof:lastmodified":1472638610,
-    "wof:name":"Sebring Friends Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461794133,
+    "wof:geomhash": "6adc022ac43670a1f4a7cecf80a30eae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706026291
+      }
+    ],
+    "wof:id": 706026291,
+    "wof:lastmodified": 1638566949,
+    "wof:name": "Sebring Friends Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.031826,
     40.916362,
     -81.031826,
     40.916362
-],
+  ],
   "geometry": {"coordinates":[-81.031826,40.916362],"type":"Point"}
 }

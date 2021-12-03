@@ -2,63 +2,67 @@
   "id": 689735265,
   "type": "Feature",
   "properties": {
-    "addr:full":"1601 E 4th St Lima OH 45804",
-    "addr:housenumber":"1601",
-    "addr:postcode":"45804",
-    "addr:street":"E 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.084985,40.716843,-84.084985,40.716843",
-    "geom:latitude":40.716843,
-    "geom:longitude":-84.084985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1601 E 4th St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "1601 E 4th St Lima OH 45804",
+    "addr:housenumber": "1601",
+    "addr:postcode": "45804",
+    "addr:street": "E 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.084985,40.716843,-84.084985,40.716843",
+    "geom:latitude": 40.716843,
+    "geom:longitude": -84.084985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1601 E 4th St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 224 3636",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 224 3636",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3kN0xFS6Rq67dSye5LA6s3_40.716843_-84.084985@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3kN0xFS6Rq67dSye5LA6s3_40.716843_-84.084985@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780080,
-    "wof:geomhash":"0ed4b423e6742a6fa7f1e53b6292a806",
-    "wof:hierarchy":[],
-    "wof:id":689735265,
-    "wof:lastmodified":1472639738,
-    "wof:name":"Allen County Refuse",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461780080,
+    "wof:geomhash": "d41b8aa76c2f0418c3722425661c3a62",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689735265
+      }
+    ],
+    "wof:id": 689735265,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Allen County Refuse",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -84.084985,
     40.716843,
     -84.084985,
     40.716843
-],
+  ],
   "geometry": {"coordinates":[-84.084985,40.716843],"type":"Point"}
 }

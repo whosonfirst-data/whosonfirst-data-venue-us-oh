@@ -2,61 +2,65 @@
   "id": 706213465,
   "type": "Feature",
   "properties": {
-    "addr:full":"3366 Coral Ave Toledo OH 43623",
-    "addr:housenumber":"3366",
-    "addr:postcode":"43623",
-    "addr:street":"Coral Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.625316,41.719145,-83.625316,41.719145",
-    "geom:latitude":41.719145,
-    "geom:longitude":-83.625316,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3366 Coral Ave",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3366 Coral Ave Toledo OH 43623",
+    "addr:housenumber": "3366",
+    "addr:postcode": "43623",
+    "addr:street": "Coral Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.625316,41.719145,-83.625316,41.719145",
+    "geom:latitude": 41.719145,
+    "geom:longitude": -83.625316,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3366 Coral Ave",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 474 9000",
-    "sg:postcode":"43623",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 474 9000",
+    "sg:postcode": "43623",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0QhJ6CHGBZ08YtTNBtJjSO_41.719145_-83.625316@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0QhJ6CHGBZ08YtTNBtJjSO_41.719145_-83.625316@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798363,
-    "wof:geomhash":"77e2daa279ceec20e5f2e036019a36e0",
-    "wof:hierarchy":[],
-    "wof:id":706213465,
-    "wof:lastmodified":1472639507,
-    "wof:name":"New Phase Construction LP",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461798363,
+    "wof:geomhash": "2c28609ea55f909caee1d8918e326b59",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706213465
+      }
+    ],
+    "wof:id": 706213465,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "New Phase Construction LP",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -83.625316,
     41.719145,
     -83.625316,
     41.719145
-],
+  ],
   "geometry": {"coordinates":[-83.625316,41.719145],"type":"Point"}
 }

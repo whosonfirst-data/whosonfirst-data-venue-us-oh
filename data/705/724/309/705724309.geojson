@@ -2,61 +2,65 @@
   "id": 705724309,
   "type": "Feature",
   "properties": {
-    "addr:full":"19345 Indian Hollow Rd Lagrange OH 44044",
-    "addr:housenumber":"19345",
-    "addr:postcode":"44044",
-    "addr:street":"Indian Hollow Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.097345,41.20206,-82.097345,41.20206",
-    "geom:latitude":41.20206,
-    "geom:longitude":-82.097345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"19345 Indian Hollow Rd",
-    "sg:city":"Lagrange",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "19345 Indian Hollow Rd Lagrange OH 44044",
+    "addr:housenumber": "19345",
+    "addr:postcode": "44044",
+    "addr:street": "Indian Hollow Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.097345,41.202060,-82.097345,41.202060",
+    "geom:latitude": 41.20206,
+    "geom:longitude": -82.097345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "19345 Indian Hollow Rd",
+    "sg:city": "Lagrange",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 355 5385",
-    "sg:postcode":"44044",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 355 5385",
+    "sg:postcode": "44044",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4S0pyzF6azUx7H2xygzPxp_41.202060_-82.097345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4S0pyzF6azUx7H2xygzPxp_41.202060_-82.097345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787265,
-    "wof:geomhash":"0751fffb6ef2aea930868a5d579f97cc",
-    "wof:hierarchy":[],
-    "wof:id":705724309,
-    "wof:lastmodified":1472638650,
-    "wof:name":"All American Wrestling Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:country": "US",
+    "wof:created": 1461787265,
+    "wof:geomhash": "1a06a45168941b5eb033ff2a50120cd4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705724309
+      }
+    ],
+    "wof:id": 705724309,
+    "wof:lastmodified": 1638566940,
+    "wof:name": "All American Wrestling Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -82.097345,
     41.20206,
     -82.097345,
     41.20206
-],
+  ],
   "geometry": {"coordinates":[-82.097345,41.20206],"type":"Point"}
 }

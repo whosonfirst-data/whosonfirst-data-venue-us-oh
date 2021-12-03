@@ -2,67 +2,71 @@
   "id": 689526277,
   "type": "Feature",
   "properties": {
-    "addr:full":"825 W Locust St Wilmington OH 45177",
-    "addr:housenumber":"825",
-    "addr:postcode":"45177",
-    "addr:street":"W Locust St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.843416,39.447381,-83.843416,39.447381",
-    "geom:latitude":39.447381,
-    "geom:longitude":-83.843416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"825 W Locust St",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "825 W Locust St Wilmington OH 45177",
+    "addr:housenumber": "825",
+    "addr:postcode": "45177",
+    "addr:street": "W Locust St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.843416,39.447381,-83.843416,39.447381",
+    "geom:latitude": 39.447381,
+    "geom:longitude": -83.843416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "825 W Locust St",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 383 3402",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 383 3402",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "sg:website":"www.cmhregional.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125158087,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_030X5GtCVe1XYcHk8gSR5t_39.447381_-83.843416@1294180530"
+    "sg:website": "www.cmhregional.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125158087,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_030X5GtCVe1XYcHk8gSR5t_39.447381_-83.843416@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773974,
-    "wof:geomhash":"56aa7aaf25c34404ce6a1fd19e2cef56",
-    "wof:hierarchy":[],
-    "wof:id":689526277,
-    "wof:lastmodified":1511317724,
-    "wof:name":"Family Health Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461773974,
+    "wof:geomhash": "56aa7aaf25c34404ce6a1fd19e2cef56",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689526277
+      }
+    ],
+    "wof:id": 689526277,
+    "wof:lastmodified": 1638566967,
+    "wof:name": "Family Health Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.843416,
     39.447381,
     -83.843416,
     39.447381
-],
+  ],
   "geometry": {"coordinates":[-83.843416,39.447381],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706268753,
   "type": "Feature",
   "properties": {
-    "addr:full":"1179 W Ohio Pike Amelia OH 45102",
-    "addr:housenumber":"1179",
-    "addr:postcode":"45102",
-    "addr:street":"W Ohio Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.231426,39.037938,-84.231426,39.037938",
-    "geom:latitude":39.037938,
-    "geom:longitude":-84.231426,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1179 W Ohio Pike",
-    "sg:city":"Amelia",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1179 W Ohio Pike Amelia OH 45102",
+    "addr:housenumber": "1179",
+    "addr:postcode": "45102",
+    "addr:street": "W Ohio Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.231426,39.037938,-84.231426,39.037938",
+    "geom:latitude": 39.037938,
+    "geom:longitude": -84.231426,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1179 W Ohio Pike",
+    "sg:city": "Amelia",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 753 5339",
-    "sg:postcode":"45102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "chicken"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 753 5339",
+    "sg:postcode": "45102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "chicken"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5C7RgnCmAJw84SCEDwzD7a_39.037938_-84.231426@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5C7RgnCmAJw84SCEDwzD7a_39.037938_-84.231426@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799580,
-    "wof:geomhash":"3934b46510ddfbc4d27f8154fe7eb947",
-    "wof:hierarchy":[],
-    "wof:id":706268753,
-    "wof:lastmodified":1472639617,
-    "wof:name":"Lees Famous Recipe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "chicken"
+    "wof:country": "US",
+    "wof:created": 1461799580,
+    "wof:geomhash": "d6038082762df866ae652d8262b91250",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706268753
+      }
+    ],
+    "wof:id": 706268753,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Lees Famous Recipe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "chicken"
     ]
-},
+  },
   "bbox": [
     -84.231426,
     39.037938,
     -84.231426,
     39.037938
-],
+  ],
   "geometry": {"coordinates":[-84.231426,39.037938],"type":"Point"}
 }

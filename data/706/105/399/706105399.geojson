@@ -2,56 +2,60 @@
   "id": 706105399,
   "type": "Feature",
   "properties": {
-    "addr:full":"5717 Main St Sylvania OH 43560",
-    "addr:housenumber":"5717",
-    "addr:postcode":"43560",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.703313,41.71903,-83.703313,41.71903",
-    "geom:latitude":41.71903,
-    "geom:longitude":-83.703313,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5717 Main St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "5717 Main St Sylvania OH 43560",
+    "addr:housenumber": "5717",
+    "addr:postcode": "43560",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.703313,41.719030,-83.703313,41.719030",
+    "geom:latitude": 41.71903,
+    "geom:longitude": -83.703313,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5717 Main St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 4976",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1rMeHj53gUKVVSIPSZnGBZ_41.719030_-83.703313@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 4976",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1rMeHj53gUKVVSIPSZnGBZ_41.719030_-83.703313@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795893,
-    "wof:geomhash":"38921fb63f8432146742950bd2abb921",
-    "wof:hierarchy":[],
-    "wof:id":706105399,
-    "wof:lastmodified":1472639249,
-    "wof:name":"Heritage Center Museum",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461795893,
+    "wof:geomhash": "42f97a04c87d0a5661f7508af251e430",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706105399
+      }
+    ],
+    "wof:id": 706105399,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Heritage Center Museum",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.703313,
     41.71903,
     -83.703313,
     41.71903
-],
-  "geometry": {"coordinates":[-83.70331299999999,41.71903],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.703313,41.71903],"type":"Point"}
 }

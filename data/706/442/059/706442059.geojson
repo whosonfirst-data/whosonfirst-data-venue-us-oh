@@ -2,61 +2,65 @@
   "id": 706442059,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 Front Ave SE New Philadelphia OH 44663",
-    "addr:housenumber":"111",
-    "addr:postcode":"44663",
-    "addr:street":"Front Ave Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.445673,40.487894,-81.445673,40.487894",
-    "geom:latitude":40.487894,
-    "geom:longitude":-81.445673,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 Front Ave SE",
-    "sg:city":"New Philadelphia",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "111 Front Ave SE New Philadelphia OH 44663",
+    "addr:housenumber": "111",
+    "addr:postcode": "44663",
+    "addr:street": "Front Ave Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.445673,40.487894,-81.445673,40.487894",
+    "geom:latitude": 40.487894,
+    "geom:longitude": -81.445673,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 Front Ave SE",
+    "sg:city": "New Philadelphia",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 343 8900",
-    "sg:postcode":"44663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "loan"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 343 8900",
+    "sg:postcode": "44663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "loan"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Zevh6Adl0E9h7yFJnt5eW_40.487894_-81.445673@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Zevh6Adl0E9h7yFJnt5eW_40.487894_-81.445673@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803267,
-    "wof:geomhash":"96695474ecdf710700b13229e6fd5881",
-    "wof:hierarchy":[],
-    "wof:id":706442059,
-    "wof:lastmodified":1472640020,
-    "wof:name":"Tusc Valley Financial Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "loan"
+    "wof:country": "US",
+    "wof:created": 1461803267,
+    "wof:geomhash": "c8b71541de16443ae622a741850b4a68",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706442059
+      }
+    ],
+    "wof:id": 706442059,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Tusc Valley Financial Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "loan"
     ]
-},
+  },
   "bbox": [
     -81.445673,
     40.487894,
     -81.445673,
     40.487894
-],
+  ],
   "geometry": {"coordinates":[-81.445673,40.487894],"type":"Point"}
 }

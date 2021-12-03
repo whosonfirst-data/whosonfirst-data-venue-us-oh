@@ -2,61 +2,65 @@
   "id": 705929495,
   "type": "Feature",
   "properties": {
-    "addr:full":"9050 N Country Club Rd Piqua OH 45356",
-    "addr:housenumber":"9050",
-    "addr:postcode":"45356",
-    "addr:street":"N Country Club Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.22505,40.167498,-84.22505,40.167498",
-    "geom:latitude":40.167498,
-    "geom:longitude":-84.22505,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9050 N Country Club Rd",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "9050 N Country Club Rd Piqua OH 45356",
+    "addr:housenumber": "9050",
+    "addr:postcode": "45356",
+    "addr:street": "N Country Club Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.225050,40.167498,-84.225050,40.167498",
+    "geom:latitude": 40.167498,
+    "geom:longitude": -84.22505,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9050 N Country Club Rd",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 615 0390",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 615 0390",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2obBpnOTA4zHqjvcznU8VR_40.167498_-84.225050@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2obBpnOTA4zHqjvcznU8VR_40.167498_-84.225050@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792049,
-    "wof:geomhash":"cb30c187d7005e985566d1df5cb0ae53",
-    "wof:hierarchy":[],
-    "wof:id":705929495,
-    "wof:lastmodified":1472639670,
-    "wof:name":"Brandts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461792049,
+    "wof:geomhash": "f6c1067f519a795abcd82327ba9324c5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705929495
+      }
+    ],
+    "wof:id": 705929495,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Brandts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.22505,
     40.167498,
     -84.22505,
     40.167498
-],
+  ],
   "geometry": {"coordinates":[-84.22505,40.167498],"type":"Point"}
 }

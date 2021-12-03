@@ -2,61 +2,65 @@
   "id": 689749357,
   "type": "Feature",
   "properties": {
-    "addr:full":"1690 S Main St Lima OH 45804",
-    "addr:housenumber":"1690",
-    "addr:postcode":"45804",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.105428,40.712649,-84.105428,40.712649",
-    "geom:latitude":40.712649,
-    "geom:longitude":-84.105428,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1690 S Main St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1690 S Main St Lima OH 45804",
+    "addr:housenumber": "1690",
+    "addr:postcode": "45804",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.105428,40.712649,-84.105428,40.712649",
+    "geom:latitude": 40.712649,
+    "geom:longitude": -84.105428,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1690 S Main St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 229 6578",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 229 6578",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1zzBs6idfy2r8R4gXOcsAk_40.712649_-84.105428@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1zzBs6idfy2r8R4gXOcsAk_40.712649_-84.105428@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780434,
-    "wof:geomhash":"bfe36a6dcad446ca8bf9eaa5435cc4ad",
-    "wof:hierarchy":[],
-    "wof:id":689749357,
-    "wof:lastmodified":1472639777,
-    "wof:name":"Mt Zion Holy Union Church-God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461780434,
+    "wof:geomhash": "c65127a570e3e51cc06a9d46e8547b8e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689749357
+      }
+    ],
+    "wof:id": 689749357,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Mt Zion Holy Union Church-God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.105428,
     40.712649,
     -84.105428,
     40.712649
-],
+  ],
   "geometry": {"coordinates":[-84.105428,40.712649],"type":"Point"}
 }

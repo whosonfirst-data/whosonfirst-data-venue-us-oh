@@ -2,61 +2,65 @@
   "id": 689544253,
   "type": "Feature",
   "properties": {
-    "addr:full":"3571 Old Airport Rd Wooster OH 44691",
-    "addr:housenumber":"3571",
-    "addr:postcode":"44691",
-    "addr:street":"Old Airport Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.910292,40.839521,-81.910292,40.839521",
-    "geom:latitude":40.839521,
-    "geom:longitude":-81.910292,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3571 Old Airport Rd",
-    "sg:city":"Wooster",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3571 Old Airport Rd Wooster OH 44691",
+    "addr:housenumber": "3571",
+    "addr:postcode": "44691",
+    "addr:street": "Old Airport Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.910292,40.839521,-81.910292,40.839521",
+    "geom:latitude": 40.839521,
+    "geom:longitude": -81.910292,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3571 Old Airport Rd",
+    "sg:city": "Wooster",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 262 3288",
-    "sg:postcode":"44691",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 262 3288",
+    "sg:postcode": "44691",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ABIvOLcmQYLQUXFrGSk8X_40.839521_-81.910292@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ABIvOLcmQYLQUXFrGSk8X_40.839521_-81.910292@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774502,
-    "wof:geomhash":"a09db4fbdb562bb1018aa88ef2c1239f",
-    "wof:hierarchy":[],
-    "wof:id":689544253,
-    "wof:lastmodified":1472639220,
-    "wof:name":"D & S Local Dispatch",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461774502,
+    "wof:geomhash": "ab38929d0e5dd3ba6e3b3d431b66d3bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689544253
+      }
+    ],
+    "wof:id": 689544253,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "D \u0026 S Local Dispatch",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.910292,
     40.839521,
     -81.910292,
     40.839521
-],
+  ],
   "geometry": {"coordinates":[-81.910292,40.839521],"type":"Point"}
 }

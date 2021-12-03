@@ -2,64 +2,68 @@
   "id": 705993679,
   "type": "Feature",
   "properties": {
-    "addr:full":"4307 State Rte 43 Kent OH 44240",
-    "addr:housenumber":"4307",
-    "addr:postcode":"44240",
-    "addr:street":"State Rte 43",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.347649,41.108461,-81.347649,41.108461",
-    "geom:latitude":41.108461,
-    "geom:longitude":-81.347649,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"4307 State Rte 43",
-    "sg:city":"Kent",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4307 State Rte 43 Kent OH 44240",
+    "addr:housenumber": "4307",
+    "addr:postcode": "44240",
+    "addr:street": "State Rte 43",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.347649,41.108461,-81.347649,41.108461",
+    "geom:latitude": 41.108461,
+    "geom:longitude": -81.347649,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "4307 State Rte 43",
+    "sg:city": "Kent",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 325 8351",
-    "sg:postcode":"44240",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 325 8351",
+    "sg:postcode": "44240",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5sZaifIlu11uyIUzdY9CmN_41.108461_-81.347649@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5sZaifIlu11uyIUzdY9CmN_41.108461_-81.347649@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793438,
-    "wof:geomhash":"affd2de7385212229ef271bf3b0801c2",
-    "wof:hierarchy":[],
-    "wof:id":705993679,
-    "wof:lastmodified":1511322312,
-    "wof:name":"Subway",
-    "wof:parent_id":420535151,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461793438,
+    "wof:geomhash": "affd2de7385212229ef271bf3b0801c2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705993679
+      }
+    ],
+    "wof:id": 705993679,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Subway",
+    "wof:parent_id": 420535151,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.347649,
     41.108461,
     -81.347649,
     41.108461
-],
+  ],
   "geometry": {"coordinates":[-81.347649,41.108461],"type":"Point"}
 }

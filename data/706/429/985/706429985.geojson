@@ -2,61 +2,65 @@
   "id": 706429985,
   "type": "Feature",
   "properties": {
-    "addr:full":"304 W Franklin St Kenton OH 43326",
-    "addr:housenumber":"304",
-    "addr:postcode":"43326",
-    "addr:street":"W Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.612481,40.647365,-83.612481,40.647365",
-    "geom:latitude":40.647365,
-    "geom:longitude":-83.612481,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"304 W Franklin St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "304 W Franklin St Kenton OH 43326",
+    "addr:housenumber": "304",
+    "addr:postcode": "43326",
+    "addr:street": "W Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.612481,40.647365,-83.612481,40.647365",
+    "geom:latitude": 40.647365,
+    "geom:longitude": -83.612481,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "304 W Franklin St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 675 2167",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 675 2167",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7YI4I5VAZ7zpMufHEPRxsE_40.647365_-83.612481@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7YI4I5VAZ7zpMufHEPRxsE_40.647365_-83.612481@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802977,
-    "wof:geomhash":"9d36cda8b8ebc927616fa1d337d66571",
-    "wof:hierarchy":[],
-    "wof:id":706429985,
-    "wof:lastmodified":1472640016,
-    "wof:name":"Hardin County Republican Exec",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county"
+    "wof:country": "US",
+    "wof:created": 1461802977,
+    "wof:geomhash": "33b266f26d36bca152f7b8c49c8c8c5d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706429985
+      }
+    ],
+    "wof:id": 706429985,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Hardin County Republican Exec",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county"
     ]
-},
+  },
   "bbox": [
     -83.612481,
     40.647365,
     -83.612481,
     40.647365
-],
+  ],
   "geometry": {"coordinates":[-83.612481,40.647365],"type":"Point"}
 }

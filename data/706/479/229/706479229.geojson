@@ -2,61 +2,65 @@
   "id": 706479229,
   "type": "Feature",
   "properties": {
-    "addr:full":"365 Johnson Rd Wadsworth OH 44281",
-    "addr:housenumber":"365",
-    "addr:postcode":"44281",
-    "addr:street":"Johnson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.700947,41.006416,-81.700947,41.006416",
-    "geom:latitude":41.006416,
-    "geom:longitude":-81.700947,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"365 Johnson Rd",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "365 Johnson Rd Wadsworth OH 44281",
+    "addr:housenumber": "365",
+    "addr:postcode": "44281",
+    "addr:street": "Johnson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.700947,41.006416,-81.700947,41.006416",
+    "geom:latitude": 41.006416,
+    "geom:longitude": -81.700947,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "365 Johnson Rd",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 334 5345",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 334 5345",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7JR9f9Ed5LpSiR0qCy3Rym_41.006416_-81.700947@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7JR9f9Ed5LpSiR0qCy3Rym_41.006416_-81.700947@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461804027,
-    "wof:geomhash":"e2eefc57217843efeb49894d2268d069",
-    "wof:hierarchy":[],
-    "wof:id":706479229,
-    "wof:lastmodified":1472640100,
-    "wof:name":"Select Medical",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461804027,
+    "wof:geomhash": "671ca841be1249d052f41b8fb859c6e1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706479229
+      }
+    ],
+    "wof:id": 706479229,
+    "wof:lastmodified": 1638567128,
+    "wof:name": "Select Medical",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -81.700947,
     41.006416,
     -81.700947,
     41.006416
-],
+  ],
   "geometry": {"coordinates":[-81.700947,41.006416],"type":"Point"}
 }

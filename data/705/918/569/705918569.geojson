@@ -2,63 +2,67 @@
   "id": 705918569,
   "type": "Feature",
   "properties": {
-    "addr:full":"31 Stanfield Rd Manchester OH 45144",
-    "addr:housenumber":"31",
-    "addr:postcode":"45144",
-    "addr:street":"Stanfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.645716,38.713797,-83.645716,38.713797",
-    "geom:latitude":38.713797,
-    "geom:longitude":-83.645716,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"31 Stanfield Rd",
-    "sg:city":"Manchester",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "31 Stanfield Rd Manchester OH 45144",
+    "addr:housenumber": "31",
+    "addr:postcode": "45144",
+    "addr:street": "Stanfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.645716,38.713797,-83.645716,38.713797",
+    "geom:latitude": 38.713797,
+    "geom:longitude": -83.645716,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "31 Stanfield Rd",
+    "sg:city": "Manchester",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 773 9004",
-    "sg:postcode":"45144",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 773 9004",
+    "sg:postcode": "45144",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3vByKH6v0zA0y6uGbia8nk_38.713797_-83.645716@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3vByKH6v0zA0y6uGbia8nk_38.713797_-83.645716@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791816,
-    "wof:geomhash":"5b91094686b09cd53869f3a2d66dce5a",
-    "wof:hierarchy":[],
-    "wof:id":705918569,
-    "wof:lastmodified":1472639617,
-    "wof:name":"Schlegel Urology",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461791816,
+    "wof:geomhash": "be3d29f9707483d7456b0970b69564ab",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705918569
+      }
+    ],
+    "wof:id": 705918569,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Schlegel Urology",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.645716,
     38.713797,
     -83.645716,
     38.713797
-],
-  "geometry": {"coordinates":[-83.64571599999999,38.713797],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.645716,38.713797],"type":"Point"}
 }

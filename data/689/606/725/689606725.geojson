@@ -2,61 +2,65 @@
   "id": 689606725,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 Martin Dr Shelby OH 44875",
-    "addr:housenumber":"150",
-    "addr:postcode":"44875",
-    "addr:street":"Martin Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.65053,40.868858,-82.65053,40.868858",
-    "geom:latitude":40.868858,
-    "geom:longitude":-82.65053,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"150 Martin Dr",
-    "sg:city":"Shelby",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "150 Martin Dr Shelby OH 44875",
+    "addr:housenumber": "150",
+    "addr:postcode": "44875",
+    "addr:street": "Martin Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.650530,40.868858,-82.650530,40.868858",
+    "geom:latitude": 40.868858,
+    "geom:longitude": -82.65053,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "150 Martin Dr",
+    "sg:city": "Shelby",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 347 5211",
-    "sg:postcode":"44875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "ambulance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 347 5211",
+    "sg:postcode": "44875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "ambulance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_593z3XXiiVYOqhzvXAwPxn_40.868858_-82.650530@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_593z3XXiiVYOqhzvXAwPxn_40.868858_-82.650530@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776462,
-    "wof:geomhash":"188b202edacf4e08fbe9882f756bc02c",
-    "wof:hierarchy":[],
-    "wof:id":689606725,
-    "wof:lastmodified":1472639421,
-    "wof:name":"Medic Response Ambulance Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ambulance"
+    "wof:country": "US",
+    "wof:created": 1461776462,
+    "wof:geomhash": "1462a726df99d2453880ba1948694b87",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689606725
+      }
+    ],
+    "wof:id": 689606725,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Medic Response Ambulance Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ambulance"
     ]
-},
+  },
   "bbox": [
     -82.65053,
     40.868858,
     -82.65053,
     40.868858
-],
+  ],
   "geometry": {"coordinates":[-82.65053,40.868858],"type":"Point"}
 }

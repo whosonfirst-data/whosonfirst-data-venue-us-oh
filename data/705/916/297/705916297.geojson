@@ -2,61 +2,65 @@
   "id": 705916297,
   "type": "Feature",
   "properties": {
-    "addr:full":"20934 Drake Rd Strongsville OH 44149",
-    "addr:housenumber":"20934",
-    "addr:postcode":"44149",
-    "addr:street":"Drake Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.856989,41.29026,-81.856989,41.29026",
-    "geom:latitude":41.29026,
-    "geom:longitude":-81.856989,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20934 Drake Rd",
-    "sg:city":"Strongsville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20934 Drake Rd Strongsville OH 44149",
+    "addr:housenumber": "20934",
+    "addr:postcode": "44149",
+    "addr:street": "Drake Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.856989,41.290260,-81.856989,41.290260",
+    "geom:latitude": 41.29026,
+    "geom:longitude": -81.856989,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20934 Drake Rd",
+    "sg:city": "Strongsville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 846 1111",
-    "sg:postcode":"44149",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 846 1111",
+    "sg:postcode": "44149",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1YfAGhRztScrFyGbl1SUEx_41.290260_-81.856989@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1YfAGhRztScrFyGbl1SUEx_41.290260_-81.856989@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791776,
-    "wof:geomhash":"aab77329893b6617c60c925e3f73d8a0",
-    "wof:hierarchy":[],
-    "wof:id":705916297,
-    "wof:lastmodified":1472639604,
-    "wof:name":"Antonios",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461791776,
+    "wof:geomhash": "ac22f70d1396c3c9ed85097a8f20bc71",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705916297
+      }
+    ],
+    "wof:id": 705916297,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Antonios",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.856989,
     41.29026,
     -81.856989,
     41.29026
-],
+  ],
   "geometry": {"coordinates":[-81.856989,41.29026],"type":"Point"}
 }

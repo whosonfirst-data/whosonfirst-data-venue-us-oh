@@ -2,80 +2,81 @@
   "id": 202492829,
   "type": "Feature",
   "properties": {
-    "addr:full":"4096 Lee Rd Cleveland OH 44128",
-    "addr:housenumber":"4096",
-    "addr:postcode":"44128",
-    "addr:street":"Lee Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.564904,41.44841,-81.564904,41.44841",
-    "geom:latitude":41.44841,
-    "geom:longitude":-81.564904,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4096 Lee Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "4096 Lee Rd Cleveland OH 44128",
+    "addr:housenumber": "4096",
+    "addr:postcode": "44128",
+    "addr:street": "Lee Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.564904,41.448410,-81.564904,41.448410",
+    "geom:latitude": 41.44841,
+    "geom:longitude": -81.564904,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4096 Lee Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 991 4008",
-    "sg:postcode":"44128",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cleaners",
-        "parts",
-        "vacuum"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 991 4008",
+    "sg:postcode": "44128",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cleaners",
+      "parts",
+      "vacuum"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712521,
-        102084837,
-        85897033
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712521,
+      102084837,
+      85897033
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4SHi8OU7G1lvVbN1z0RLft_41.448410_-81.564904@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4SHi8OU7G1lvVbN1z0RLft_41.448410_-81.564904@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f9983bd7d4b9fa52dfb06f0711041958",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084837,
-            "locality_id":101712521,
-            "neighbourhood_id":85897033,
-            "region_id":85688485,
-            "venue_id":202492829
-        }
+    "wof:country": "US",
+    "wof:created": 1638566966,
+    "wof:geomhash": "a23f35d7ee87812da3a7f1249ebdaf89",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084837,
+        "locality_id": 101712521,
+        "neighbourhood_id": 85897033,
+        "region_id": 85688485,
+        "venue_id": 202492829
+      }
     ],
-    "wof:id":202492829,
-    "wof:lastmodified":1472638474,
-    "wof:name":"Wils Vacuum Repair",
-    "wof:parent_id":85897033,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners",
-        "parts",
-        "vacuum"
+    "wof:id": 202492829,
+    "wof:lastmodified": 1638566966,
+    "wof:name": "Wils Vacuum Repair",
+    "wof:parent_id": 85897033,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners",
+      "parts",
+      "vacuum"
     ]
-},
+  },
   "bbox": [
     -81.564904,
     41.44841,
     -81.564904,
     41.44841
-],
+  ],
   "geometry": {"coordinates":[-81.564904,41.44841],"type":"Point"}
 }

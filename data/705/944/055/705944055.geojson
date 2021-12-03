@@ -2,63 +2,67 @@
   "id": 705944055,
   "type": "Feature",
   "properties": {
-    "addr:full":"1205 Fairington Dr Sidney OH 45365",
-    "addr:housenumber":"1205",
-    "addr:postcode":"45365",
-    "addr:street":"Fairington Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.174493,40.269486,-84.174493,40.269486",
-    "geom:latitude":40.269486,
-    "geom:longitude":-84.174493,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1205 Fairington Dr",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1205 Fairington Dr Sidney OH 45365",
+    "addr:housenumber": "1205",
+    "addr:postcode": "45365",
+    "addr:street": "Fairington Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.174493,40.269486,-84.174493,40.269486",
+    "geom:latitude": 40.269486,
+    "geom:longitude": -84.174493,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1205 Fairington Dr",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 497 1225",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 497 1225",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2rBlfFPABfQMfJBa0zfJP4_40.269486_-84.174493@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2rBlfFPABfQMfJBa0zfJP4_40.269486_-84.174493@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792398,
-    "wof:geomhash":"f2747f3143eb857975bfd1449c040156",
-    "wof:hierarchy":[],
-    "wof:id":705944055,
-    "wof:lastmodified":1472639658,
-    "wof:name":"Mark D Teets MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461792398,
+    "wof:geomhash": "98a0e1dc98c4a015999aa6e8243cf076",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705944055
+      }
+    ],
+    "wof:id": 705944055,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Mark D Teets MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.174493,
     40.269486,
     -84.174493,
     40.269486
-],
+  ],
   "geometry": {"coordinates":[-84.174493,40.269486],"type":"Point"}
 }

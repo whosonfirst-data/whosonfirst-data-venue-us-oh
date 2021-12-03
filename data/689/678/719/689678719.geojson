@@ -2,67 +2,71 @@
   "id": 689678719,
   "type": "Feature",
   "properties": {
-    "addr:full":"2980 Lamplight Ln Willoughby OH 44094",
-    "addr:housenumber":"",
-    "addr:postcode":"2980;44094",
-    "addr:street":"Lamplight Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.45225,41.579391,-81.45225,41.579391",
-    "geom:latitude":41.579391,
-    "geom:longitude":-81.45225,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2980 Lamplight Ln",
-    "sg:city":"Willoughby",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "2980 Lamplight Ln Willoughby OH 44094",
+    "addr:housenumber": "",
+    "addr:postcode": "2980;44094",
+    "addr:street": "Lamplight Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.452250,41.579391,-81.452250,41.579391",
+    "geom:latitude": 41.579391,
+    "geom:longitude": -81.45225,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2980 Lamplight Ln",
+    "sg:city": "Willoughby",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 585 7086",
-    "sg:postcode":"44094",
-    "sg:province":"OH",
-    "sg:tags":[
-        "nuclear",
-        "detector",
-        "radiation",
-        "mfg"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 585 7086",
+    "sg:postcode": "44094",
+    "sg:province": "OH",
+    "sg:tags": [
+      "nuclear",
+      "detector",
+      "radiation",
+      "mfg"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5oPZDiz0W6iM9xDldv4aYh_41.579391_-81.452250@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5oPZDiz0W6iM9xDldv4aYh_41.579391_-81.452250@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778587,
-    "wof:geomhash":"77c35a3d7e420c719492aceee5168b7c",
-    "wof:hierarchy":[],
-    "wof:id":689678719,
-    "wof:lastmodified":1472639633,
-    "wof:name":"Rexon Components Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "nuclear",
-        "detector",
-        "radiation",
-        "mfg"
+    "wof:country": "US",
+    "wof:created": 1461778587,
+    "wof:geomhash": "b25214ed358acce38390f7ca9aa507a4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689678719
+      }
+    ],
+    "wof:id": 689678719,
+    "wof:lastmodified": 1638567016,
+    "wof:name": "Rexon Components Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nuclear",
+      "detector",
+      "radiation",
+      "mfg"
     ]
-},
+  },
   "bbox": [
     -81.45225,
     41.579391,
     -81.45225,
     41.579391
-],
-  "geometry": {"coordinates":[-81.45225000000001,41.579391],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.45225,41.579391],"type":"Point"}
 }

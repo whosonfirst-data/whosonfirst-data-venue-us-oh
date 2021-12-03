@@ -2,61 +2,65 @@
   "id": 705814831,
   "type": "Feature",
   "properties": {
-    "addr:full":"737 Buckeye Orrville OH 44667",
-    "addr:housenumber":"737",
-    "addr:postcode":"44667",
-    "addr:street":"Buckeye",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.772166,40.834195,-81.772166,40.834195",
-    "geom:latitude":40.834195,
-    "geom:longitude":-81.772166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"737 Buckeye",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "737 Buckeye Orrville OH 44667",
+    "addr:housenumber": "737",
+    "addr:postcode": "44667",
+    "addr:street": "Buckeye",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.772166,40.834195,-81.772166,40.834195",
+    "geom:latitude": 40.834195,
+    "geom:longitude": -81.772166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "737 Buckeye",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 683 0497",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 683 0497",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0sMC9igEx3SRTjugIDJAOn_40.834195_-81.772166@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0sMC9igEx3SRTjugIDJAOn_40.834195_-81.772166@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789359,
-    "wof:geomhash":"a9b544b42e240f9c16e8caa791a510f7",
-    "wof:hierarchy":[],
-    "wof:id":705814831,
-    "wof:lastmodified":1472639322,
-    "wof:name":"Church House Of Prayer-True",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461789359,
+    "wof:geomhash": "a5a8805dc9743580e8129d4dcac3a559",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705814831
+      }
+    ],
+    "wof:id": 705814831,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Church House Of Prayer-True",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.772166,
     40.834195,
     -81.772166,
     40.834195
-],
+  ],
   "geometry": {"coordinates":[-81.772166,40.834195],"type":"Point"}
 }

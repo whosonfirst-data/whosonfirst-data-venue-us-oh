@@ -2,61 +2,65 @@
   "id": 706111613,
   "type": "Feature",
   "properties": {
-    "addr:full":"190 W Main St Williamsburg OH 45176",
-    "addr:housenumber":"190",
-    "addr:postcode":"45176",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.052008,39.053618,-84.052008,39.053618",
-    "geom:latitude":39.053618,
-    "geom:longitude":-84.052008,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"190 W Main St",
-    "sg:city":"Williamsburg",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "190 W Main St Williamsburg OH 45176",
+    "addr:housenumber": "190",
+    "addr:postcode": "45176",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.052008,39.053618,-84.052008,39.053618",
+    "geom:latitude": 39.053618,
+    "geom:longitude": -84.052008,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "190 W Main St",
+    "sg:city": "Williamsburg",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 724 8100",
-    "sg:postcode":"45176",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 724 8100",
+    "sg:postcode": "45176",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0OtWBMQBahhAPNzYNuM1Et_39.053618_-84.052008@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0OtWBMQBahhAPNzYNuM1Et_39.053618_-84.052008@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796026,
-    "wof:geomhash":"828c04cd45cf0c150bcbfe6c57f9e5e0",
-    "wof:hierarchy":[],
-    "wof:id":706111613,
-    "wof:lastmodified":1472639276,
-    "wof:name":"Jonis Hair With Style",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461796026,
+    "wof:geomhash": "7d1ba91ace054c8ee0d9f7d53bc70c89",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706111613
+      }
+    ],
+    "wof:id": 706111613,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Jonis Hair With Style",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.052008,
     39.053618,
     -84.052008,
     39.053618
-],
+  ],
   "geometry": {"coordinates":[-84.052008,39.053618],"type":"Point"}
 }

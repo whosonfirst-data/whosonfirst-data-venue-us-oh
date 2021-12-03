@@ -2,63 +2,67 @@
   "id": 706432133,
   "type": "Feature",
   "properties": {
-    "addr:full":"49305 Cadiz-Harrisville Rd Harrisville OH 43974",
-    "addr:housenumber":"",
-    "addr:postcode":"49305;43974",
-    "addr:street":"Cadiz-Harrisville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.898421,40.182129,-80.898421,40.182129",
-    "geom:latitude":40.182129,
-    "geom:longitude":-80.898421,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"49305 Cadiz-Harrisville Rd",
-    "sg:city":"Harrisville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "49305 Cadiz-Harrisville Rd Harrisville OH 43974",
+    "addr:housenumber": "",
+    "addr:postcode": "49305;43974",
+    "addr:street": "Cadiz-Harrisville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.898421,40.182129,-80.898421,40.182129",
+    "geom:latitude": 40.182129,
+    "geom:longitude": -80.898421,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "49305 Cadiz-Harrisville Rd",
+    "sg:city": "Harrisville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 546 4464",
-    "sg:postcode":"43974",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 546 4464",
+    "sg:postcode": "43974",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5fOykCmJ5yDMlL97Cx1yVL_40.182129_-80.898421@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5fOykCmJ5yDMlL97Cx1yVL_40.182129_-80.898421@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803021,
-    "wof:geomhash":"b5927979bc74640ea09a56abca0a2fbe",
-    "wof:hierarchy":[],
-    "wof:id":706432133,
-    "wof:lastmodified":1472640012,
-    "wof:name":"Harrison Community Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461803021,
+    "wof:geomhash": "fe668afbeb5f7db83a682e784710a76d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706432133
+      }
+    ],
+    "wof:id": 706432133,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Harrison Community Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.898421,
     40.182129,
     -80.898421,
     40.182129
-],
+  ],
   "geometry": {"coordinates":[-80.898421,40.182129],"type":"Point"}
 }

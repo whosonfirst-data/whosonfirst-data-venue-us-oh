@@ -2,61 +2,65 @@
   "id": 706232875,
   "type": "Feature",
   "properties": {
-    "addr:full":"213 S Broadway St Green Springs OH 44836",
-    "addr:housenumber":"213",
-    "addr:postcode":"44836",
-    "addr:street":"S Broadway St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.052181,41.254623,-83.052181,41.254623",
-    "geom:latitude":41.254623,
-    "geom:longitude":-83.052181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"213 S Broadway St",
-    "sg:city":"Green Springs",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "213 S Broadway St Green Springs OH 44836",
+    "addr:housenumber": "213",
+    "addr:postcode": "44836",
+    "addr:street": "S Broadway St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.052181,41.254623,-83.052181,41.254623",
+    "geom:latitude": 41.254623,
+    "geom:longitude": -83.052181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "213 S Broadway St",
+    "sg:city": "Green Springs",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 639 3246",
-    "sg:postcode":"44836",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 639 3246",
+    "sg:postcode": "44836",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0c6lHqNpPg06wdSazH70L6_41.254623_-83.052181@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0c6lHqNpPg06wdSazH70L6_41.254623_-83.052181@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798762,
-    "wof:geomhash":"10af5c451465a84c4ea044c30f0af65f",
-    "wof:hierarchy":[],
-    "wof:id":706232875,
-    "wof:lastmodified":1472639579,
-    "wof:name":"Echo Press",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial"
+    "wof:country": "US",
+    "wof:created": 1461798762,
+    "wof:geomhash": "a917b0228b8104a8d7e1ab2cd6c17b9c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706232875
+      }
+    ],
+    "wof:id": 706232875,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Echo Press",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -83.052181,
     41.254623,
     -83.052181,
     41.254623
-],
+  ],
   "geometry": {"coordinates":[-83.052181,41.254623],"type":"Point"}
 }

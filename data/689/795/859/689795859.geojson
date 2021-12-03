@@ -2,61 +2,65 @@
   "id": 689795859,
   "type": "Feature",
   "properties": {
-    "addr:full":"6008 Wilmington Pike Dayton OH 45459",
-    "addr:housenumber":"6008",
-    "addr:postcode":"45459",
-    "addr:street":"Wilmington Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.110299,39.634181,-84.110299,39.634181",
-    "geom:latitude":39.634181,
-    "geom:longitude":-84.110299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6008 Wilmington Pike",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6008 Wilmington Pike Dayton OH 45459",
+    "addr:housenumber": "6008",
+    "addr:postcode": "45459",
+    "addr:street": "Wilmington Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.110299,39.634181,-84.110299,39.634181",
+    "geom:latitude": 39.634181,
+    "geom:longitude": -84.110299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6008 Wilmington Pike",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 848 9250",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 848 9250",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6DhJrIDpLXvhPek1Waq0YX_39.634181_-84.110299@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6DhJrIDpLXvhPek1Waq0YX_39.634181_-84.110299@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781733,
-    "wof:geomhash":"182b28e7eb1493bcf749dec6e769d927",
-    "wof:hierarchy":[],
-    "wof:id":689795859,
-    "wof:lastmodified":1472639872,
-    "wof:name":"Taste Of India",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461781733,
+    "wof:geomhash": "dd69ee1e682f5f1a7aab182893685094",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689795859
+      }
+    ],
+    "wof:id": 689795859,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Taste Of India",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.110299,
     39.634181,
     -84.110299,
     39.634181
-],
+  ],
   "geometry": {"coordinates":[-84.110299,39.634181],"type":"Point"}
 }

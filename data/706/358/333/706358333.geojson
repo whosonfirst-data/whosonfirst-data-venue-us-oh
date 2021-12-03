@@ -2,61 +2,65 @@
   "id": 706358333,
   "type": "Feature",
   "properties": {
-    "addr:full":"4080 Raymond Dr Brunswick OH 44212",
-    "addr:housenumber":"4080",
-    "addr:postcode":"44212",
-    "addr:street":"Raymond Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.834582,41.224843,-81.834582,41.224843",
-    "geom:latitude":41.224843,
-    "geom:longitude":-81.834582,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4080 Raymond Dr",
-    "sg:city":"Brunswick",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "4080 Raymond Dr Brunswick OH 44212",
+    "addr:housenumber": "4080",
+    "addr:postcode": "44212",
+    "addr:street": "Raymond Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.834582,41.224843,-81.834582,41.224843",
+    "geom:latitude": 41.224843,
+    "geom:longitude": -81.834582,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4080 Raymond Dr",
+    "sg:city": "Brunswick",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 273 2435",
-    "sg:postcode":"44212",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 273 2435",
+    "sg:postcode": "44212",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dNkIDb4HoNtVoLa2mKWdt_41.224843_-81.834582@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3dNkIDb4HoNtVoLa2mKWdt_41.224843_-81.834582@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801577,
-    "wof:geomhash":"56198f5a5dd73e46a000f9798649fda2",
-    "wof:hierarchy":[],
-    "wof:id":706358333,
-    "wof:lastmodified":1472639906,
-    "wof:name":"T D C Drywall",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461801577,
+    "wof:geomhash": "f881d58f50e6aec8cb74c144ff02f770",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706358333
+      }
+    ],
+    "wof:id": 706358333,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "T D C Drywall",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.834582,
     41.224843,
     -81.834582,
     41.224843
-],
+  ],
   "geometry": {"coordinates":[-81.834582,41.224843],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706623359,
   "type": "Feature",
   "properties": {
-    "addr:full":"1629 Park Ave W Ontario OH 44906",
-    "addr:housenumber":"1629",
-    "addr:postcode":"44906",
-    "addr:street":"Park Ave W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.572636,40.759552,-82.572636,40.759552",
-    "geom:latitude":40.759552,
-    "geom:longitude":-82.572636,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1629 Park Ave W",
-    "sg:city":"Ontario",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1629 Park Ave W Ontario OH 44906",
+    "addr:housenumber": "1629",
+    "addr:postcode": "44906",
+    "addr:street": "Park Ave W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.572636,40.759552,-82.572636,40.759552",
+    "geom:latitude": 40.759552,
+    "geom:longitude": -82.572636,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1629 Park Ave W",
+    "sg:city": "Ontario",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 4161",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian",
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 4161",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian",
+      "specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xGkH2JiXU0tFXDR8ibPvL_40.759552_-82.572636@1303262757"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0xGkH2JiXU0tFXDR8ibPvL_40.759552_-82.572636@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807221,
-    "wof:geomhash":"db87ed6894b477eceda78ae5bb9381d6",
-    "wof:hierarchy":[],
-    "wof:id":706623359,
-    "wof:lastmodified":1472640238,
-    "wof:name":"Veterinary Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian",
-        "specialty"
+    "wof:country": "US",
+    "wof:created": 1461807221,
+    "wof:geomhash": "1c8747bb24f7cc2578574c9d62ecf3c3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706623359
+      }
+    ],
+    "wof:id": 706623359,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "Veterinary Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian",
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -82.572636,
     40.759552,
     -82.572636,
     40.759552
-],
+  ],
   "geometry": {"coordinates":[-82.572636,40.759552],"type":"Point"}
 }

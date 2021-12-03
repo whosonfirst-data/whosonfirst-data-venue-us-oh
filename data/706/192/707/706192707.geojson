@@ -2,61 +2,65 @@
   "id": 706192707,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 N Perry St Ottawa OH 45875",
-    "addr:housenumber":"1800",
-    "addr:postcode":"45875",
-    "addr:street":"N Perry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.034311,41.03743,-84.034311,41.03743",
-    "geom:latitude":41.03743,
-    "geom:longitude":-84.034311,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1800 N Perry St",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1800 N Perry St Ottawa OH 45875",
+    "addr:housenumber": "1800",
+    "addr:postcode": "45875",
+    "addr:street": "N Perry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.034311,41.037430,-84.034311,41.037430",
+    "geom:latitude": 41.03743,
+    "geom:longitude": -84.034311,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1800 N Perry St",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 4008",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 4008",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7V5gGBLrhNytj3jp41sL6F_41.037430_-84.034311@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7V5gGBLrhNytj3jp41sL6F_41.037430_-84.034311@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797916,
-    "wof:geomhash":"96ba4d561cc45758b9478a5fc4b72218",
-    "wof:hierarchy":[],
-    "wof:id":706192707,
-    "wof:lastmodified":1472639483,
-    "wof:name":"Oral/Maxillofacial Srgry-Nw Oh",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461797916,
+    "wof:geomhash": "a9cf793b31bd8f2319afd9bc1de19608",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706192707
+      }
+    ],
+    "wof:id": 706192707,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "Oral/Maxillofacial Srgry-Nw Oh",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.034311,
     41.03743,
     -84.034311,
     41.03743
-],
+  ],
   "geometry": {"coordinates":[-84.034311,41.03743],"type":"Point"}
 }

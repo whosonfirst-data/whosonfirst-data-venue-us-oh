@@ -2,61 +2,65 @@
   "id": 706271099,
   "type": "Feature",
   "properties": {
-    "addr:full":"3942 Paradise St SW Canton OH 44706",
-    "addr:housenumber":"3942",
-    "addr:postcode":"44706",
-    "addr:street":"Paradise St Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.427931,40.742508,-81.427931,40.742508",
-    "geom:latitude":40.742508,
-    "geom:longitude":-81.427931,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3942 Paradise St SW",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3942 Paradise St SW Canton OH 44706",
+    "addr:housenumber": "3942",
+    "addr:postcode": "44706",
+    "addr:street": "Paradise St Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.427931,40.742508,-81.427931,40.742508",
+    "geom:latitude": 40.742508,
+    "geom:longitude": -81.427931,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3942 Paradise St SW",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 484 1711",
-    "sg:postcode":"44706",
-    "sg:province":"OH",
-    "sg:tags":[
-        "handicapped"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 484 1711",
+    "sg:postcode": "44706",
+    "sg:province": "OH",
+    "sg:tags": [
+      "handicapped"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1y0fzVa1O0EnyQsGIvauHX_40.742508_-81.427931@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1y0fzVa1O0EnyQsGIvauHX_40.742508_-81.427931@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799642,
-    "wof:geomhash":"3ed3a86abe3f19af5049e4c3bb26189c",
-    "wof:hierarchy":[],
-    "wof:id":706271099,
-    "wof:lastmodified":1472639607,
-    "wof:name":"Let's Go 2",
-    "wof:parent_id":420535193,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "handicapped"
+    "wof:country": "US",
+    "wof:created": 1461799642,
+    "wof:geomhash": "35bb2ec9817ea4fa9cfaad32a5b4df99",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706271099
+      }
+    ],
+    "wof:id": 706271099,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Let's Go 2",
+    "wof:parent_id": 420535193,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "handicapped"
     ]
-},
+  },
   "bbox": [
     -81.427931,
     40.742508,
     -81.427931,
     40.742508
-],
+  ],
   "geometry": {"coordinates":[-81.427931,40.742508],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706101317,
   "type": "Feature",
   "properties": {
-    "addr:full":"318 E Main St Jewett OH 43986",
-    "addr:housenumber":"318",
-    "addr:postcode":"43986",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.998251,40.367133,-80.998251,40.367133",
-    "geom:latitude":40.367133,
-    "geom:longitude":-80.998251,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"318 E Main St",
-    "sg:city":"Jewett",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "318 E Main St Jewett OH 43986",
+    "addr:housenumber": "318",
+    "addr:postcode": "43986",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.998251,40.367133,-80.998251,40.367133",
+    "geom:latitude": 40.367133,
+    "geom:longitude": -80.998251,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "318 E Main St",
+    "sg:city": "Jewett",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 946 2411",
-    "sg:postcode":"43986",
-    "sg:province":"OH",
-    "sg:tags":[
-        "state"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 946 2411",
+    "sg:postcode": "43986",
+    "sg:province": "OH",
+    "sg:tags": [
+      "state"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_54ddqvCjq5ixlna0CrOUnk_40.367133_-80.998251@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_54ddqvCjq5ixlna0CrOUnk_40.367133_-80.998251@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795811,
-    "wof:geomhash":"f2cc91d8cb20833292e3fe7d115ba913",
-    "wof:hierarchy":[],
-    "wof:id":706101317,
-    "wof:lastmodified":1472639245,
-    "wof:name":"Citizens Savings Bank",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "state"
+    "wof:country": "US",
+    "wof:created": 1461795811,
+    "wof:geomhash": "ff48a0583d24c8f3217471665526c9aa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706101317
+      }
+    ],
+    "wof:id": 706101317,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Citizens Savings Bank",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "state"
     ]
-},
+  },
   "bbox": [
     -80.998251,
     40.367133,
     -80.998251,
     40.367133
-],
+  ],
   "geometry": {"coordinates":[-80.998251,40.367133],"type":"Point"}
 }

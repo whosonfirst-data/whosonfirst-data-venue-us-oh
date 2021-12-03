@@ -2,61 +2,65 @@
   "id": 705903701,
   "type": "Feature",
   "properties": {
-    "addr:full":"16161 Nash Rd Middlefield OH 44062",
-    "addr:housenumber":"16161",
-    "addr:postcode":"44062",
-    "addr:street":"Nash Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.064144,41.386231,-81.064144,41.386231",
-    "geom:latitude":41.386231,
-    "geom:longitude":-81.064144,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16161 Nash Rd",
-    "sg:city":"Middlefield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "16161 Nash Rd Middlefield OH 44062",
+    "addr:housenumber": "16161",
+    "addr:postcode": "44062",
+    "addr:street": "Nash Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.064144,41.386231,-81.064144,41.386231",
+    "geom:latitude": 41.386231,
+    "geom:longitude": -81.064144,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16161 Nash Rd",
+    "sg:city": "Middlefield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 548 2259",
-    "sg:postcode":"44062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "harness"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 548 2259",
+    "sg:postcode": "44062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "harness"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7JGWsnRVqdsDSQrTaf4Jhm_41.386231_-81.064144@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7JGWsnRVqdsDSQrTaf4Jhm_41.386231_-81.064144@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791489,
-    "wof:geomhash":"fe7897ebf90fcf55eaa186035df6dca0",
-    "wof:hierarchy":[],
-    "wof:id":705903701,
-    "wof:lastmodified":1472639558,
-    "wof:name":"Cross Cut Country Store",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "harness"
+    "wof:country": "US",
+    "wof:created": 1461791489,
+    "wof:geomhash": "a279703a4c23e9a49a5e8cbdf9242005",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705903701
+      }
+    ],
+    "wof:id": 705903701,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Cross Cut Country Store",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "harness"
     ]
-},
+  },
   "bbox": [
     -81.064144,
     41.386231,
     -81.064144,
     41.386231
-],
+  ],
   "geometry": {"coordinates":[-81.064144,41.386231],"type":"Point"}
 }

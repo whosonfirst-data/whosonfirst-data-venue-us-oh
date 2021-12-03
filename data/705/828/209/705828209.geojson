@@ -2,61 +2,65 @@
   "id": 705828209,
   "type": "Feature",
   "properties": {
-    "addr:full":"19 S Plum St Troy OH 45373",
-    "addr:housenumber":"19",
-    "addr:postcode":"45373",
-    "addr:street":"S Plum St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.205797,40.039573,-84.205797,40.039573",
-    "geom:latitude":40.039573,
-    "geom:longitude":-84.205797,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"19 S Plum St",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Engineering",
-            "type":"Services"
-        }
+    "addr:full": "19 S Plum St Troy OH 45373",
+    "addr:housenumber": "19",
+    "addr:postcode": "45373",
+    "addr:street": "S Plum St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.205797,40.039573,-84.205797,40.039573",
+    "geom:latitude": 40.039573,
+    "geom:longitude": -84.205797,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "19 S Plum St",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Engineering",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 335 8444",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "engineer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 335 8444",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "engineer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BgpK2GsjQ5fyRVmN4VfQT_40.039573_-84.205797@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3BgpK2GsjQ5fyRVmN4VfQT_40.039573_-84.205797@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789688,
-    "wof:geomhash":"ecb25a908e435272eddfbaf349a0adfd",
-    "wof:hierarchy":[],
-    "wof:id":705828209,
-    "wof:lastmodified":1472639337,
-    "wof:name":"Daniel D Turner & Assoc Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "engineer"
+    "wof:country": "US",
+    "wof:created": 1461789688,
+    "wof:geomhash": "ed319bf59c53f1598c4023c909bad763",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705828209
+      }
+    ],
+    "wof:id": 705828209,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Daniel D Turner \u0026 Assoc Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "engineer"
     ]
-},
+  },
   "bbox": [
     -84.205797,
     40.039573,
     -84.205797,
     40.039573
-],
+  ],
   "geometry": {"coordinates":[-84.205797,40.039573],"type":"Point"}
 }

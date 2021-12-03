@@ -2,61 +2,65 @@
   "id": 706263451,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 High Point Dr Medina OH 44256",
-    "addr:housenumber":"100",
-    "addr:postcode":"44256",
-    "addr:street":"High Point Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.868661,41.113051,-81.868661,41.113051",
-    "geom:latitude":41.113051,
-    "geom:longitude":-81.868661,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 High Point Dr",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "100 High Point Dr Medina OH 44256",
+    "addr:housenumber": "100",
+    "addr:postcode": "44256",
+    "addr:street": "High Point Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.868661,41.113051,-81.868661,41.113051",
+    "geom:latitude": 41.113051,
+    "geom:longitude": -81.868661,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 High Point Dr",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 722 0880",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hospice"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 722 0880",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hospice"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6N4WSwQsoK0FS7A5juqumE_41.113051_-81.868661@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6N4WSwQsoK0FS7A5juqumE_41.113051_-81.868661@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799475,
-    "wof:geomhash":"44133b1964dc6d09fa04589bc60bd485",
-    "wof:hierarchy":[],
-    "wof:id":706263451,
-    "wof:lastmodified":1472639616,
-    "wof:name":"Hospice At The Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospice"
+    "wof:country": "US",
+    "wof:created": 1461799475,
+    "wof:geomhash": "3d4e5a5f5234220304cdeea18bd6a58f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706263451
+      }
+    ],
+    "wof:id": 706263451,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Hospice At The Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospice"
     ]
-},
+  },
   "bbox": [
     -81.868661,
     41.113051,
     -81.868661,
     41.113051
-],
+  ],
   "geometry": {"coordinates":[-81.868661,41.113051],"type":"Point"}
 }

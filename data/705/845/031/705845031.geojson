@@ -2,63 +2,67 @@
   "id": 705845031,
   "type": "Feature",
   "properties": {
-    "addr:full":"420 S James St Dover OH 44622",
-    "addr:housenumber":"420",
-    "addr:postcode":"44622",
-    "addr:street":"S James St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.461522,40.510005,-81.461522,40.510005",
-    "geom:latitude":40.510005,
-    "geom:longitude":-81.461522,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"420 S James St",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "420 S James St Dover OH 44622",
+    "addr:housenumber": "420",
+    "addr:postcode": "44622",
+    "addr:street": "S James St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.461522,40.510005,-81.461522,40.510005",
+    "geom:latitude": 40.510005,
+    "geom:longitude": -81.461522,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "420 S James St",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 602 7707",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 602 7707",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_693uybTxInMEelb5Gv68Oz_40.510005_-81.461522@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_693uybTxInMEelb5Gv68Oz_40.510005_-81.461522@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790069,
-    "wof:geomhash":"e1cae162b99af2500f4c5162e7c21855",
-    "wof:hierarchy":[],
-    "wof:id":705845031,
-    "wof:lastmodified":1472639392,
-    "wof:name":"Surgical Associates Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461790069,
+    "wof:geomhash": "814aad79a60c8bd92981e8309b55bfe1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705845031
+      }
+    ],
+    "wof:id": 705845031,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Surgical Associates Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.461522,
     40.510005,
     -81.461522,
     40.510005
-],
+  ],
   "geometry": {"coordinates":[-81.461522,40.510005],"type":"Point"}
 }

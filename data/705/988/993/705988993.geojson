@@ -2,68 +2,72 @@
   "id": 705988993,
   "type": "Feature",
   "properties": {
-    "addr:full":"2214 Zuercher Rd Dalton OH 44618",
-    "addr:housenumber":"2214",
-    "addr:postcode":"44618",
-    "addr:street":"Zuercher Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.719183,40.77258,-81.719183,40.77258",
-    "geom:latitude":40.77258,
-    "geom:longitude":-81.719183,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2214 Zuercher Rd",
-    "sg:city":"Dalton",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Manufacturing",
-            "subcategory":"Pet Food",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "2214 Zuercher Rd Dalton OH 44618",
+    "addr:housenumber": "2214",
+    "addr:postcode": "44618",
+    "addr:street": "Zuercher Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.719183,40.772580,-81.719183,40.772580",
+    "geom:latitude": 40.77258,
+    "geom:longitude": -81.719183,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2214 Zuercher Rd",
+    "sg:city": "Dalton",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Manufacturing",
+        "subcategory": "Pet Food",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 857 5558",
-    "sg:postcode":"44618",
-    "sg:province":"OH",
-    "sg:tags":[
-        "feed",
-        "warehouse"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 857 5558",
+    "sg:postcode": "44618",
+    "sg:province": "OH",
+    "sg:tags": [
+      "feed",
+      "warehouse"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7B8TfUCwr84a46PCHY4pcB_40.772580_-81.719183@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7B8TfUCwr84a46PCHY4pcB_40.772580_-81.719183@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793349,
-    "wof:geomhash":"ae61165e67b80d2c3d006a8fb26bfdbc",
-    "wof:hierarchy":[],
-    "wof:id":705988993,
-    "wof:lastmodified":1472639814,
-    "wof:name":"L E Sommer & Sons Mill",
-    "wof:parent_id":420535331,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "feed",
-        "warehouse"
+    "wof:country": "US",
+    "wof:created": 1461793349,
+    "wof:geomhash": "93c83bf4a6a7a68d3a8008224e61aba8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705988993
+      }
+    ],
+    "wof:id": 705988993,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "L E Sommer \u0026 Sons Mill",
+    "wof:parent_id": 420535331,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "feed",
+      "warehouse"
     ]
-},
+  },
   "bbox": [
     -81.719183,
     40.77258,
     -81.719183,
     40.77258
-],
+  ],
   "geometry": {"coordinates":[-81.719183,40.77258],"type":"Point"}
 }

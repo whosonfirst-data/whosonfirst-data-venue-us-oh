@@ -2,61 +2,65 @@
   "id": 689888973,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 Stumbo Rd N Mansfield OH 44906",
-    "addr:housenumber":"555",
-    "addr:postcode":"44906",
-    "addr:street":"Stumbo Rd N",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.596941,40.766548,-82.596941,40.766548",
-    "geom:latitude":40.766548,
-    "geom:longitude":-82.596941,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"555 Stumbo Rd N",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "555 Stumbo Rd N Mansfield OH 44906",
+    "addr:housenumber": "555",
+    "addr:postcode": "44906",
+    "addr:street": "Stumbo Rd N",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.596941,40.766548,-82.596941,40.766548",
+    "geom:latitude": 40.766548,
+    "geom:longitude": -82.596941,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "555 Stumbo Rd N",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 529 2115",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 529 2115",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_78RpKtslYh9bDJVBnsMV4y_40.766548_-82.596941@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_78RpKtslYh9bDJVBnsMV4y_40.766548_-82.596941@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784276,
-    "wof:geomhash":"65c49e6b27e707e3fb06205938086734",
-    "wof:hierarchy":[],
-    "wof:id":689888973,
-    "wof:lastmodified":1472640054,
-    "wof:name":"Ontario Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461784276,
+    "wof:geomhash": "53edaaf7efd5f7da35a39c599dc36e0c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689888973
+      }
+    ],
+    "wof:id": 689888973,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Ontario Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.596941,
     40.766548,
     -82.596941,
     40.766548
-],
+  ],
   "geometry": {"coordinates":[-82.596941,40.766548],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705944699,
   "type": "Feature",
   "properties": {
-    "addr:full":"314 Patrick Ave Urbana OH 43078",
-    "addr:housenumber":"314",
-    "addr:postcode":"43078",
-    "addr:street":"Patrick Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.732502,40.100389,-83.732502,40.100389",
-    "geom:latitude":40.100389,
-    "geom:longitude":-83.732502,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"314 Patrick Ave",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "314 Patrick Ave Urbana OH 43078",
+    "addr:housenumber": "314",
+    "addr:postcode": "43078",
+    "addr:street": "Patrick Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.732502,40.100389,-83.732502,40.100389",
+    "geom:latitude": 40.100389,
+    "geom:longitude": -83.732502,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "314 Patrick Ave",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 653 5359",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 653 5359",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3afvjp3WbQxqIlE54sXdSd_40.100389_-83.732502@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3afvjp3WbQxqIlE54sXdSd_40.100389_-83.732502@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792415,
-    "wof:geomhash":"dadf46663eaacf36035edc0c56d50097",
-    "wof:hierarchy":[],
-    "wof:id":705944699,
-    "wof:lastmodified":1472639700,
-    "wof:name":"Richard D Dietz Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461792415,
+    "wof:geomhash": "752e361ebb209eff746e0540d8bfda9b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705944699
+      }
+    ],
+    "wof:id": 705944699,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Richard D Dietz Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.732502,
     40.100389,
     -83.732502,
     40.100389
-],
+  ],
   "geometry": {"coordinates":[-83.732502,40.100389],"type":"Point"}
 }

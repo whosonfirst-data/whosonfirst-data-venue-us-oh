@@ -2,63 +2,67 @@
   "id": 689657187,
   "type": "Feature",
   "properties": {
-    "addr:full":"8503 Main St Kinsman OH 44428",
-    "addr:housenumber":"8503",
-    "addr:postcode":"44428",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.584163,41.448998,-80.584163,41.448998",
-    "geom:latitude":41.448998,
-    "geom:longitude":-80.584163,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8503 Main St",
-    "sg:city":"Kinsman",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "8503 Main St Kinsman OH 44428",
+    "addr:housenumber": "8503",
+    "addr:postcode": "44428",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.584163,41.448998,-80.584163,41.448998",
+    "geom:latitude": 41.448998,
+    "geom:longitude": -80.584163,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8503 Main St",
+    "sg:city": "Kinsman",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 876 1345",
-    "sg:postcode":"44428",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 876 1345",
+    "sg:postcode": "44428",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0qST6HDovzG4nbnZSxdLau_41.448998_-80.584163@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0qST6HDovzG4nbnZSxdLau_41.448998_-80.584163@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778052,
-    "wof:geomhash":"32d5874f16f7d72c0074103f08f76ea3",
-    "wof:hierarchy":[],
-    "wof:id":689657187,
-    "wof:lastmodified":1472639561,
-    "wof:name":"Main Street Storage Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461778052,
+    "wof:geomhash": "a44ab047e2932ca9a41d29b9f0524013",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689657187
+      }
+    ],
+    "wof:id": 689657187,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Main Street Storage Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -80.584163,
     41.448998,
     -80.584163,
     41.448998
-],
+  ],
   "geometry": {"coordinates":[-80.584163,41.448998],"type":"Point"}
 }

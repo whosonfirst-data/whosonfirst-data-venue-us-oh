@@ -2,57 +2,61 @@
   "id": 706594863,
   "type": "Feature",
   "properties": {
-    "addr:full":"504 East Washington Street Chagrin Falls OH 44022",
-    "addr:housenumber":"504",
-    "addr:postcode":"44022",
-    "addr:street":"East Washington Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.374425,41.426724,-81.374425,41.426724",
-    "geom:latitude":41.426724,
-    "geom:longitude":-81.374425,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"504 East Washington Street",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "504 East Washington Street Chagrin Falls OH 44022",
+    "addr:housenumber": "504",
+    "addr:postcode": "44022",
+    "addr:street": "East Washington Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.374425,41.426724,-81.374425,41.426724",
+    "geom:latitude": 41.426724,
+    "geom:longitude": -81.374425,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "504 East Washington Street",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 893 9002",
-    "sg:postcode":"44022",
-    "sg:province":"OH",
-    "sg:website":"www.caballo-bayo.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Txe1r3I5XW9jYXe7smFTi_41.426724_-81.374425@1303262753"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 893 9002",
+    "sg:postcode": "44022",
+    "sg:province": "OH",
+    "sg:website": "www.caballo-bayo.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Txe1r3I5XW9jYXe7smFTi_41.426724_-81.374425@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806615,
-    "wof:geomhash":"0dddc890fc442d9dfd3ee17fa2a7ca5f",
-    "wof:hierarchy":[],
-    "wof:id":706594863,
-    "wof:lastmodified":1472640222,
-    "wof:name":"Caballo Bayo",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806615,
+    "wof:geomhash": "297caca348a6ad137c5ebe7cf37d4ba7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706594863
+      }
+    ],
+    "wof:id": 706594863,
+    "wof:lastmodified": 1638567144,
+    "wof:name": "Caballo Bayo",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.374425,
     41.426724,
     -81.374425,
     41.426724
-],
+  ],
   "geometry": {"coordinates":[-81.374425,41.426724],"type":"Point"}
 }

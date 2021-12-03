@@ -2,61 +2,65 @@
   "id": 689615851,
   "type": "Feature",
   "properties": {
-    "addr:full":"2213 Demi Dr Twinsburg OH 44087",
-    "addr:housenumber":"2213",
-    "addr:postcode":"44087",
-    "addr:street":"Demi Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.445185,41.344995,-81.445185,41.344995",
-    "geom:latitude":41.344995,
-    "geom:longitude":-81.445185,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2213 Demi Dr",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "2213 Demi Dr Twinsburg OH 44087",
+    "addr:housenumber": "2213",
+    "addr:postcode": "44087",
+    "addr:street": "Demi Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.445185,41.344995,-81.445185,41.344995",
+    "geom:latitude": 41.344995,
+    "geom:longitude": -81.445185,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2213 Demi Dr",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 405 6222",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "sg:tags":[
-        "ticket"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 405 6222",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "sg:tags": [
+      "ticket"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ifiz0ENqNWm89cbETySP0_41.344995_-81.445185@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ifiz0ENqNWm89cbETySP0_41.344995_-81.445185@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776784,
-    "wof:geomhash":"81f6d03a37b28dcf562ffedee55717f2",
-    "wof:hierarchy":[],
-    "wof:id":689615851,
-    "wof:lastmodified":1472639475,
-    "wof:name":"Afordable Ticket Agency",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ticket"
+    "wof:country": "US",
+    "wof:created": 1461776784,
+    "wof:geomhash": "67d5810b151fc5b4a7873d6b39a51139",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689615851
+      }
+    ],
+    "wof:id": 689615851,
+    "wof:lastmodified": 1638566999,
+    "wof:name": "Afordable Ticket Agency",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ticket"
     ]
-},
+  },
   "bbox": [
     -81.445185,
     41.344995,
     -81.445185,
     41.344995
-],
+  ],
   "geometry": {"coordinates":[-81.445185,41.344995],"type":"Point"}
 }

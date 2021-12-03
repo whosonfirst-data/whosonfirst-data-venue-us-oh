@@ -2,61 +2,65 @@
   "id": 706390601,
   "type": "Feature",
   "properties": {
-    "addr:full":"6041 Trinity Rd Defiance OH 43512",
-    "addr:housenumber":"6041",
-    "addr:postcode":"43512",
-    "addr:street":"Trinity Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.437917,41.352754,-84.437917,41.352754",
-    "geom:latitude":41.352754,
-    "geom:longitude":-84.437917,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6041 Trinity Rd",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "6041 Trinity Rd Defiance OH 43512",
+    "addr:housenumber": "6041",
+    "addr:postcode": "43512",
+    "addr:street": "Trinity Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.437917,41.352754,-84.437917,41.352754",
+    "geom:latitude": 41.352754,
+    "geom:longitude": -84.437917,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6041 Trinity Rd",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 658 2335",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 658 2335",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3nlS9wyenO5Jrd1Q1VWiti_41.352754_-84.437917@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3nlS9wyenO5Jrd1Q1VWiti_41.352754_-84.437917@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802217,
-    "wof:geomhash":"78d3f2ae724bab9f1e6fe5ab07f04c26",
-    "wof:hierarchy":[],
-    "wof:id":706390601,
-    "wof:lastmodified":1472639980,
-    "wof:name":"Rons Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461802217,
+    "wof:geomhash": "26fc175eabfed57d16230ec859ffa961",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706390601
+      }
+    ],
+    "wof:id": 706390601,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Rons Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -84.437917,
     41.352754,
     -84.437917,
     41.352754
-],
+  ],
   "geometry": {"coordinates":[-84.437917,41.352754],"type":"Point"}
 }

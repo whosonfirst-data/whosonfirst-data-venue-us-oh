@@ -2,61 +2,65 @@
   "id": 706044311,
   "type": "Feature",
   "properties": {
-    "addr:full":"13594 Hamilton St Millersport OH 43046",
-    "addr:housenumber":"13594",
-    "addr:postcode":"43046",
-    "addr:street":"Hamilton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.518435,39.920625,-82.518435,39.920625",
-    "geom:latitude":39.920625,
-    "geom:longitude":-82.518435,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"13594 Hamilton St",
-    "sg:city":"Millersport",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "13594 Hamilton St Millersport OH 43046",
+    "addr:housenumber": "13594",
+    "addr:postcode": "43046",
+    "addr:street": "Hamilton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.518435,39.920625,-82.518435,39.920625",
+    "geom:latitude": 39.920625,
+    "geom:longitude": -82.518435,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "13594 Hamilton St",
+    "sg:city": "Millersport",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 928 8300",
-    "sg:postcode":"43046",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 928 8300",
+    "sg:postcode": "43046",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1G6PSUXM3xt8NX5vTbp7Q4_39.920625_-82.518435@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1G6PSUXM3xt8NX5vTbp7Q4_39.920625_-82.518435@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794487,
-    "wof:geomhash":"3e76d912447a82fab6f3096b9d69d9eb",
-    "wof:hierarchy":[],
-    "wof:id":706044311,
-    "wof:lastmodified":1472638984,
-    "wof:name":"T & K Transportation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461794487,
+    "wof:geomhash": "e5e804567a50a147dc309af13a226ca7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706044311
+      }
+    ],
+    "wof:id": 706044311,
+    "wof:lastmodified": 1638566965,
+    "wof:name": "T \u0026 K Transportation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.518435,
     39.920625,
     -82.518435,
     39.920625
-],
+  ],
   "geometry": {"coordinates":[-82.518435,39.920625],"type":"Point"}
 }

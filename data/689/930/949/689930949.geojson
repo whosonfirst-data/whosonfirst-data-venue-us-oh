@@ -2,61 +2,65 @@
   "id": 689930949,
   "type": "Feature",
   "properties": {
-    "addr:full":"8185 Broadview Rd Cleveland OH 44147",
-    "addr:housenumber":"8185",
-    "addr:postcode":"44147",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.684494,41.340534,-81.684494,41.340534",
-    "geom:latitude":41.340534,
-    "geom:longitude":-81.684494,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8185 Broadview Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8185 Broadview Rd Cleveland OH 44147",
+    "addr:housenumber": "8185",
+    "addr:postcode": "44147",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.684494,41.340534,-81.684494,41.340534",
+    "geom:latitude": 41.340534,
+    "geom:longitude": -81.684494,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8185 Broadview Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 526 6930",
-    "sg:postcode":"44147",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 526 6930",
+    "sg:postcode": "44147",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_24o5GYrWCMBydBhPheHJvK_41.340534_-81.684494@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_24o5GYrWCMBydBhPheHJvK_41.340534_-81.684494@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785390,
-    "wof:geomhash":"c8f89568e3fee72e613471f5f4262308",
-    "wof:hierarchy":[],
-    "wof:id":689930949,
-    "wof:lastmodified":1472640102,
-    "wof:name":"Rosa's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461785390,
+    "wof:geomhash": "1a1b77f236e1b049b99862d3c36ab47c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689930949
+      }
+    ],
+    "wof:id": 689930949,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Rosa's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -81.684494,
     41.340534,
     -81.684494,
     41.340534
-],
+  ],
   "geometry": {"coordinates":[-81.684494,41.340534],"type":"Point"}
 }

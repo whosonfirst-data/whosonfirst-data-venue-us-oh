@@ -2,63 +2,67 @@
   "id": 706138977,
   "type": "Feature",
   "properties": {
-    "addr:full":"433 Lawnview Ave Springfield OH 45505",
-    "addr:housenumber":"433",
-    "addr:postcode":"45505",
-    "addr:street":"Lawnview Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.762584,39.914817,-83.762584,39.914817",
-    "geom:latitude":39.914817,
-    "geom:longitude":-83.762584,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"433 Lawnview Ave",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "433 Lawnview Ave Springfield OH 45505",
+    "addr:housenumber": "433",
+    "addr:postcode": "45505",
+    "addr:street": "Lawnview Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.762584,39.914817,-83.762584,39.914817",
+    "geom:latitude": 39.914817,
+    "geom:longitude": -83.762584,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "433 Lawnview Ave",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 323 3148",
-    "sg:postcode":"45505",
-    "sg:province":"OH",
-    "sg:tags":[
-        "carrier",
-        "contract"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 323 3148",
+    "sg:postcode": "45505",
+    "sg:province": "OH",
+    "sg:tags": [
+      "carrier",
+      "contract"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3MFJ9KKmcGaVUkWdnRXNAV_39.914817_-83.762584@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3MFJ9KKmcGaVUkWdnRXNAV_39.914817_-83.762584@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796736,
-    "wof:geomhash":"0129811d5f321c1fa7112ef1ad58057b",
-    "wof:hierarchy":[],
-    "wof:id":706138977,
-    "wof:lastmodified":1472639363,
-    "wof:name":"Robinson Transportation",
-    "wof:parent_id":420534587,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "carrier",
-        "contract"
+    "wof:country": "US",
+    "wof:created": 1461796736,
+    "wof:geomhash": "42efc51814dabbe17fec1fbb7cac291f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706138977
+      }
+    ],
+    "wof:id": 706138977,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Robinson Transportation",
+    "wof:parent_id": 420534587,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "carrier",
+      "contract"
     ]
-},
+  },
   "bbox": [
     -83.762584,
     39.914817,
     -83.762584,
     39.914817
-],
+  ],
   "geometry": {"coordinates":[-83.762584,39.914817],"type":"Point"}
 }

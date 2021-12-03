@@ -2,61 +2,65 @@
   "id": 705783647,
   "type": "Feature",
   "properties": {
-    "addr:full":"2203 Maple Ave Zanesville OH 43701",
-    "addr:housenumber":"2203",
-    "addr:postcode":"43701",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.010064,39.965145,-82.010064,39.965145",
-    "geom:latitude":39.965145,
-    "geom:longitude":-82.010064,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2203 Maple Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2203 Maple Ave Zanesville OH 43701",
+    "addr:housenumber": "2203",
+    "addr:postcode": "43701",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.010064,39.965145,-82.010064,39.965145",
+    "geom:latitude": 39.965145,
+    "geom:longitude": -82.010064,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2203 Maple Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 8148",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 8148",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4kmaPv8NWNUGdO4o5HWSrL_39.965145_-82.010064@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4kmaPv8NWNUGdO4o5HWSrL_39.965145_-82.010064@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788652,
-    "wof:geomhash":"365447c92a246327cf5bdf59ecd34916",
-    "wof:hierarchy":[],
-    "wof:id":705783647,
-    "wof:lastmodified":1472639258,
-    "wof:name":"Whitaker Dental",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461788652,
+    "wof:geomhash": "e8757a940e9ae00e6dcb0ecf10c53472",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705783647
+      }
+    ],
+    "wof:id": 705783647,
+    "wof:lastmodified": 1638566981,
+    "wof:name": "Whitaker Dental",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.010064,
     39.965145,
     -82.010064,
     39.965145
-],
+  ],
   "geometry": {"coordinates":[-82.010064,39.965145],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705702529,
   "type": "Feature",
   "properties": {
-    "addr:full":"1036 Main St Rayland OH 43943",
-    "addr:housenumber":"1036",
-    "addr:postcode":"43943",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.77853,40.274571,-80.77853,40.274571",
-    "geom:latitude":40.274571,
-    "geom:longitude":-80.77853,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1036 Main St",
-    "sg:city":"Rayland",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "1036 Main St Rayland OH 43943",
+    "addr:housenumber": "1036",
+    "addr:postcode": "43943",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.778530,40.274571,-80.778530,40.274571",
+    "geom:latitude": 40.274571,
+    "geom:longitude": -80.77853,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1036 Main St",
+    "sg:city": "Rayland",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 733 8018",
-    "sg:postcode":"43943",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 733 8018",
+    "sg:postcode": "43943",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wYPeoTtq0jzoxQ2TGDq5y_40.274571_-80.778530@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0wYPeoTtq0jzoxQ2TGDq5y_40.274571_-80.778530@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786642,
-    "wof:geomhash":"eb447c359abe64dd707feae22c3a360d",
-    "wof:hierarchy":[],
-    "wof:id":705702529,
-    "wof:lastmodified":1472638286,
-    "wof:name":"Belle Haven Apartments",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461786642,
+    "wof:geomhash": "2efe1bf152e09de88d6cfe47162ed361",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702529
+      }
+    ],
+    "wof:id": 705702529,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "Belle Haven Apartments",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -80.77853,
     40.274571,
     -80.77853,
     40.274571
-],
+  ],
   "geometry": {"coordinates":[-80.77853,40.274571],"type":"Point"}
 }

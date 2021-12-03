@@ -2,61 +2,65 @@
   "id": 689649301,
   "type": "Feature",
   "properties": {
-    "addr:full":"436 W Market St Germantown OH 45327",
-    "addr:housenumber":"436",
-    "addr:postcode":"45327",
-    "addr:street":"W Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.377127,39.624186,-84.377127,39.624186",
-    "geom:latitude":39.624186,
-    "geom:longitude":-84.377127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"436 W Market St",
-    "sg:city":"Germantown",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "436 W Market St Germantown OH 45327",
+    "addr:housenumber": "436",
+    "addr:postcode": "45327",
+    "addr:street": "W Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.377127,39.624186,-84.377127,39.624186",
+    "geom:latitude": 39.624186,
+    "geom:longitude": -84.377127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "436 W Market St",
+    "sg:city": "Germantown",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 855 6670",
-    "sg:postcode":"45327",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 855 6670",
+    "sg:postcode": "45327",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Z0KORhYZt8SBOtW9uha6Z_39.624186_-84.377127@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Z0KORhYZt8SBOtW9uha6Z_39.624186_-84.377127@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777852,
-    "wof:geomhash":"441f6cc9bc33aa7c39ab04b4c731e553",
-    "wof:hierarchy":[],
-    "wof:id":689649301,
-    "wof:lastmodified":1472639519,
-    "wof:name":"Carpenter's House Bapt Church",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461777852,
+    "wof:geomhash": "818e9c31671047c5eed31b368dd71e33",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689649301
+      }
+    ],
+    "wof:id": 689649301,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Carpenter's House Bapt Church",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.377127,
     39.624186,
     -84.377127,
     39.624186
-],
+  ],
   "geometry": {"coordinates":[-84.377127,39.624186],"type":"Point"}
 }

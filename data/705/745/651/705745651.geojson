@@ -2,63 +2,67 @@
   "id": 705745651,
   "type": "Feature",
   "properties": {
-    "addr:full":"126 N Ohio Ave Fremont OH 43420",
-    "addr:housenumber":"126",
-    "addr:postcode":"43420",
-    "addr:street":"N Ohio Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.106875,41.346657,-83.106875,41.346657",
-    "geom:latitude":41.346657,
-    "geom:longitude":-83.106875,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"126 N Ohio Ave",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "126 N Ohio Ave Fremont OH 43420",
+    "addr:housenumber": "126",
+    "addr:postcode": "43420",
+    "addr:street": "N Ohio Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.106875,41.346657,-83.106875,41.346657",
+    "geom:latitude": 41.346657,
+    "geom:longitude": -83.106875,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "126 N Ohio Ave",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 333 0374",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "beer",
-        "ale"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 333 0374",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "beer",
+      "ale"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3XlL08g3uz20nPU5wnabgU_41.346657_-83.106875@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3XlL08g3uz20nPU5wnabgU_41.346657_-83.106875@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787765,
-    "wof:geomhash":"4933a75da8a9cd821fd7caaf439d089c",
-    "wof:hierarchy":[],
-    "wof:id":705745651,
-    "wof:lastmodified":1472639142,
-    "wof:name":"Buckeye Beverage Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "ale"
+    "wof:country": "US",
+    "wof:created": 1461787765,
+    "wof:geomhash": "4fb3985c411135d9eb80c3adf94abca6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705745651
+      }
+    ],
+    "wof:id": 705745651,
+    "wof:lastmodified": 1638566959,
+    "wof:name": "Buckeye Beverage Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "ale"
     ]
-},
+  },
   "bbox": [
     -83.106875,
     41.346657,
     -83.106875,
     41.346657
-],
+  ],
   "geometry": {"coordinates":[-83.106875,41.346657],"type":"Point"}
 }

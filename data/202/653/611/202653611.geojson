@@ -2,80 +2,81 @@
   "id": 202653611,
   "type": "Feature",
   "properties": {
-    "addr:full":"2162 W 67th St Cleveland OH 44102",
-    "addr:housenumber":"2162",
-    "addr:postcode":"44102",
-    "addr:street":"W 67Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.731841,41.47251,-81.731841,41.47251",
-    "geom:latitude":41.47251,
-    "geom:longitude":-81.731841,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2162 W 67th St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2162 W 67th St Cleveland OH 44102",
+    "addr:housenumber": "2162",
+    "addr:postcode": "44102",
+    "addr:street": "W 67Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.731841,41.472510,-81.731841,41.472510",
+    "geom:latitude": 41.47251,
+    "geom:longitude": -81.731841,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2162 W 67th St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 939 2251",
-    "sg:postcode":"44102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 939 2251",
+    "sg:postcode": "44102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712563,
-        102084837,
-        85871795
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712563,
+      102084837,
+      85871795
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_35Nj5tTqv8GNf00m0fOYea_41.472510_-81.731841@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_35Nj5tTqv8GNf00m0fOYea_41.472510_-81.731841@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7e8fe8e12578990d161d0f13fc515bd9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084837,
-            "locality_id":101712563,
-            "neighbourhood_id":85871795,
-            "region_id":85688485,
-            "venue_id":202653611
-        }
+    "wof:country": "US",
+    "wof:created": 1638566861,
+    "wof:geomhash": "11568d07ce60aecd3ba444aa0186b2b4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084837,
+        "locality_id": 101712563,
+        "neighbourhood_id": 85871795,
+        "region_id": 85688485,
+        "venue_id": 202653611
+      }
     ],
-    "wof:id":202653611,
-    "wof:lastmodified":1472638756,
-    "wof:name":"Custom Speed Delivery Service",
-    "wof:parent_id":85871795,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:id": 202653611,
+    "wof:lastmodified": 1638566861,
+    "wof:name": "Custom Speed Delivery Service",
+    "wof:parent_id": 85871795,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.731841,
     41.47251,
     -81.731841,
     41.47251
-],
+  ],
   "geometry": {"coordinates":[-81.731841,41.47251],"type":"Point"}
 }

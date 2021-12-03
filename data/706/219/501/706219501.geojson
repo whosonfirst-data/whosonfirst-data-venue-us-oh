@@ -2,61 +2,65 @@
   "id": 706219501,
   "type": "Feature",
   "properties": {
-    "addr:full":"1400 Main St Rarden OH 45671",
-    "addr:housenumber":"1400",
-    "addr:postcode":"45671",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.245069,38.922875,-83.245069,38.922875",
-    "geom:latitude":38.922875,
-    "geom:longitude":-83.245069,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1400 Main St",
-    "sg:city":"Rarden",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1400 Main St Rarden OH 45671",
+    "addr:housenumber": "1400",
+    "addr:postcode": "45671",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.245069,38.922875,-83.245069,38.922875",
+    "geom:latitude": 38.922875,
+    "geom:longitude": -83.245069,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1400 Main St",
+    "sg:city": "Rarden",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 372 0303",
-    "sg:postcode":"45671",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 372 0303",
+    "sg:postcode": "45671",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0FI1OlhFQdvtiUXdAwtz3q_38.922875_-83.245069@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0FI1OlhFQdvtiUXdAwtz3q_38.922875_-83.245069@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798493,
-    "wof:geomhash":"6e02cb36a90e2aa1279fa68578bb6877",
-    "wof:hierarchy":[],
-    "wof:id":706219501,
-    "wof:lastmodified":1472639524,
-    "wof:name":"Rarden Fire Department",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461798493,
+    "wof:geomhash": "70f77e59e55d3a495f60634308558832",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706219501
+      }
+    ],
+    "wof:id": 706219501,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Rarden Fire Department",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.245069,
     38.922875,
     -83.245069,
     38.922875
-],
+  ],
   "geometry": {"coordinates":[-83.245069,38.922875],"type":"Point"}
 }

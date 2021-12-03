@@ -2,61 +2,65 @@
   "id": 706595917,
   "type": "Feature",
   "properties": {
-    "addr:full":"8500 Washington St Chagrin Falls OH 44023",
-    "addr:housenumber":"8500",
-    "addr:postcode":"44023",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.338095,41.4118,-81.338095,41.4118",
-    "geom:latitude":41.4118,
-    "geom:longitude":-81.338095,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8500 Washington St",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "8500 Washington St Chagrin Falls OH 44023",
+    "addr:housenumber": "8500",
+    "addr:postcode": "44023",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.338095,41.411800,-81.338095,41.411800",
+    "geom:latitude": 41.4118,
+    "geom:longitude": -81.338095,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8500 Washington St",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 543 3400",
-    "sg:postcode":"44023",
-    "sg:province":"OH",
-    "sg:tags":[
-        "psychiatrist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 543 3400",
+    "sg:postcode": "44023",
+    "sg:province": "OH",
+    "sg:tags": [
+      "psychiatrist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7MtlPzO8xOgpdZuVNS0DSd_41.411800_-81.338095@1303262753"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7MtlPzO8xOgpdZuVNS0DSd_41.411800_-81.338095@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806635,
-    "wof:geomhash":"beeb7b02290b42ace160879bd1483475",
-    "wof:hierarchy":[],
-    "wof:id":706595917,
-    "wof:lastmodified":1472640219,
-    "wof:name":"Rowane William A MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "psychiatrist"
+    "wof:country": "US",
+    "wof:created": 1461806635,
+    "wof:geomhash": "e0a83b4a377dace3f3499aa4de466dd7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706595917
+      }
+    ],
+    "wof:id": 706595917,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Rowane William A MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "psychiatrist"
     ]
-},
+  },
   "bbox": [
     -81.338095,
     41.4118,
     -81.338095,
     41.4118
-],
+  ],
   "geometry": {"coordinates":[-81.338095,41.4118],"type":"Point"}
 }

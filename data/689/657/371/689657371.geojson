@@ -2,61 +2,65 @@
   "id": 689657371,
   "type": "Feature",
   "properties": {
-    "addr:full":"305 E Main St Mansfield OH 44904",
-    "addr:housenumber":"305",
-    "addr:postcode":"44904",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.57007,40.680943,-82.57007,40.680943",
-    "geom:latitude":40.680943,
-    "geom:longitude":-82.57007,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"305 E Main St",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Beauty & Cosmetics",
-            "type":"Retail Goods"
-        }
+    "addr:full": "305 E Main St Mansfield OH 44904",
+    "addr:housenumber": "305",
+    "addr:postcode": "44904",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.570070,40.680943,-82.570070,40.680943",
+    "geom:latitude": 40.680943,
+    "geom:longitude": -82.57007,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "305 E Main St",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Beauty \u0026 Cosmetics",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 886 3832",
-    "sg:postcode":"44904",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 886 3832",
+    "sg:postcode": "44904",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2DmvcMEDP1DXqqRcy3sESS_40.680943_-82.570070@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2DmvcMEDP1DXqqRcy3sESS_40.680943_-82.570070@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778059,
-    "wof:geomhash":"7545fd95c433ab74eb8c4c1e85533f1f",
-    "wof:hierarchy":[],
-    "wof:id":689657371,
-    "wof:lastmodified":1472639568,
-    "wof:name":"Country Store The",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461778059,
+    "wof:geomhash": "1ea5d01238ba78abd3016b098a261d2d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689657371
+      }
+    ],
+    "wof:id": 689657371,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Country Store The",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -82.57007,
     40.680943,
     -82.57007,
     40.680943
-],
+  ],
   "geometry": {"coordinates":[-82.57007,40.680943],"type":"Point"}
 }

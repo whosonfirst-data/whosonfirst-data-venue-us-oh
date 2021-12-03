@@ -2,61 +2,65 @@
   "id": 706238657,
   "type": "Feature",
   "properties": {
-    "addr:full":"1210 Summit Dr Cleveland OH 44124",
-    "addr:housenumber":"1210",
-    "addr:postcode":"44124",
-    "addr:street":"Summit Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.471332,41.528556,-81.471332,41.528556",
-    "geom:latitude":41.528556,
-    "geom:longitude":-81.471332,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1210 Summit Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Landscaping Services",
-            "type":"Services"
-        }
+    "addr:full": "1210 Summit Dr Cleveland OH 44124",
+    "addr:housenumber": "1210",
+    "addr:postcode": "44124",
+    "addr:street": "Summit Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.471332,41.528556,-81.471332,41.528556",
+    "geom:latitude": 41.528556,
+    "geom:longitude": -81.471332,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1210 Summit Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Landscaping Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 442 5675",
-    "sg:postcode":"44124",
-    "sg:province":"OH",
-    "sg:tags":[
-        "landscape"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 442 5675",
+    "sg:postcode": "44124",
+    "sg:province": "OH",
+    "sg:tags": [
+      "landscape"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wQy0ow8kivSUdvuEAPbxY_41.528556_-81.471332@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0wQy0ow8kivSUdvuEAPbxY_41.528556_-81.471332@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798909,
-    "wof:geomhash":"d298b6417a9774876911088d42375462",
-    "wof:hierarchy":[],
-    "wof:id":706238657,
-    "wof:lastmodified":1472639580,
-    "wof:name":"VT Landscaping Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "landscape"
+    "wof:country": "US",
+    "wof:created": 1461798909,
+    "wof:geomhash": "6c4bc5eab98780bffda00b38d1c3fd2f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706238657
+      }
+    ],
+    "wof:id": 706238657,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "VT Landscaping Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "landscape"
     ]
-},
+  },
   "bbox": [
     -81.471332,
     41.528556,
     -81.471332,
     41.528556
-],
+  ],
   "geometry": {"coordinates":[-81.471332,41.528556],"type":"Point"}
 }

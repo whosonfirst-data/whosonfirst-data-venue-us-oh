@@ -2,61 +2,65 @@
   "id": 706156469,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 N Spring St New Paris OH 45347",
-    "addr:housenumber":"115",
-    "addr:postcode":"45347",
-    "addr:street":"N Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.789306,39.859843,-84.789306,39.859843",
-    "geom:latitude":39.859843,
-    "geom:longitude":-84.789306,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 N Spring St",
-    "sg:city":"New Paris",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "115 N Spring St New Paris OH 45347",
+    "addr:housenumber": "115",
+    "addr:postcode": "45347",
+    "addr:street": "N Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.789306,39.859843,-84.789306,39.859843",
+    "geom:latitude": 39.859843,
+    "geom:longitude": -84.789306,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "115 N Spring St",
+    "sg:city": "New Paris",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 437 3216",
-    "sg:postcode":"45347",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 437 3216",
+    "sg:postcode": "45347",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7UzOeZSazf9sWvq3rV72o9_39.859843_-84.789306@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7UzOeZSazf9sWvq3rV72o9_39.859843_-84.789306@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797119,
-    "wof:geomhash":"bea8e2ad0ab1c0c3f717e79980e7f843",
-    "wof:hierarchy":[],
-    "wof:id":706156469,
-    "wof:lastmodified":1472639397,
-    "wof:name":"New Paris Village City Bldg",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461797119,
+    "wof:geomhash": "ae02c12a92ed3e53a6606448a62e7ba6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706156469
+      }
+    ],
+    "wof:id": 706156469,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "New Paris Village City Bldg",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.789306,
     39.859843,
     -84.789306,
     39.859843
-],
+  ],
   "geometry": {"coordinates":[-84.789306,39.859843],"type":"Point"}
 }

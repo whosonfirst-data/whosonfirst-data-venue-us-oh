@@ -2,61 +2,65 @@
   "id": 705903825,
   "type": "Feature",
   "properties": {
-    "addr:full":"309 W Main St Lucas OH 44843",
-    "addr:housenumber":"309",
-    "addr:postcode":"44843",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.428056,40.704852,-82.428056,40.704852",
-    "geom:latitude":40.704852,
-    "geom:longitude":-82.428056,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"309 W Main St",
-    "sg:city":"Lucas",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "309 W Main St Lucas OH 44843",
+    "addr:housenumber": "309",
+    "addr:postcode": "44843",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.428056,40.704852,-82.428056,40.704852",
+    "geom:latitude": 40.704852,
+    "geom:longitude": -82.428056,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "309 W Main St",
+    "sg:city": "Lucas",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 892 3583",
-    "sg:postcode":"44843",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 892 3583",
+    "sg:postcode": "44843",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0qbyBozm2iN38HopbK0dGG_40.704852_-82.428056@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0qbyBozm2iN38HopbK0dGG_40.704852_-82.428056@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791491,
-    "wof:geomhash":"7969c9db7dd0ab5fda33a3ce77470333",
-    "wof:hierarchy":[],
-    "wof:id":705903825,
-    "wof:lastmodified":1472639556,
-    "wof:name":"Port-A-Cook-Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461791491,
+    "wof:geomhash": "affd2d4ded21098769503a711e41a512",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705903825
+      }
+    ],
+    "wof:id": 705903825,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Port-A-Cook-Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -82.428056,
     40.704852,
     -82.428056,
     40.704852
-],
+  ],
   "geometry": {"coordinates":[-82.428056,40.704852],"type":"Point"}
 }

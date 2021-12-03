@@ -2,61 +2,65 @@
   "id": 706014587,
   "type": "Feature",
   "properties": {
-    "addr:full":"118 N Main St Mendon OH 45862",
-    "addr:housenumber":"118",
-    "addr:postcode":"45862",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.518641,40.674408,-84.518641,40.674408",
-    "geom:latitude":40.674408,
-    "geom:longitude":-84.518641,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"118 N Main St",
-    "sg:city":"Mendon",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "118 N Main St Mendon OH 45862",
+    "addr:housenumber": "118",
+    "addr:postcode": "45862",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.518641,40.674408,-84.518641,40.674408",
+    "geom:latitude": 40.674408,
+    "geom:longitude": -84.518641,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "118 N Main St",
+    "sg:city": "Mendon",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 586 6455",
-    "sg:postcode":"45862",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 586 6455",
+    "sg:postcode": "45862",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6hZbX875EMceMzbo12pwRW_40.674408_-84.518641@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6hZbX875EMceMzbo12pwRW_40.674408_-84.518641@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793888,
-    "wof:geomhash":"9f52e0fe36212f2057b1df5c3abea6da",
-    "wof:hierarchy":[],
-    "wof:id":706014587,
-    "wof:lastmodified":1472638559,
-    "wof:name":"Mendon Village Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461793888,
+    "wof:geomhash": "65dbcda484ad60fb45f4a751b3abb6b5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706014587
+      }
+    ],
+    "wof:id": 706014587,
+    "wof:lastmodified": 1638566937,
+    "wof:name": "Mendon Village Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.518641,
     40.674408,
     -84.518641,
     40.674408
-],
+  ],
   "geometry": {"coordinates":[-84.518641,40.674408],"type":"Point"}
 }

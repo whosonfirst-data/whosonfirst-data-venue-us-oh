@@ -2,61 +2,65 @@
   "id": 706370821,
   "type": "Feature",
   "properties": {
-    "addr:full":"8080 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"8080",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.359994,39.317747,-84.359994,39.317747",
-    "geom:latitude":39.317747,
-    "geom:longitude":-84.359994,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8080 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "8080 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "8080",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.359994,39.317747,-84.359994,39.317747",
+    "geom:latitude": 39.317747,
+    "geom:longitude": -84.359994,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8080 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 755 5772",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 755 5772",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5gW6ermSDiNE5aED28u9KV_39.317747_-84.359994@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5gW6ermSDiNE5aED28u9KV_39.317747_-84.359994@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801825,
-    "wof:geomhash":"3de5215c55a1b2dec794465ced84b7a5",
-    "wof:hierarchy":[],
-    "wof:id":706370821,
-    "wof:lastmodified":1472639949,
-    "wof:name":"Money Learning Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "center"
+    "wof:country": "US",
+    "wof:created": 1461801825,
+    "wof:geomhash": "52dd3a158300f8abb7617037b6c3a8b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706370821
+      }
+    ],
+    "wof:id": 706370821,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Money Learning Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "center"
     ]
-},
+  },
   "bbox": [
     -84.359994,
     39.317747,
     -84.359994,
     39.317747
-],
+  ],
   "geometry": {"coordinates":[-84.359994,39.317747],"type":"Point"}
 }

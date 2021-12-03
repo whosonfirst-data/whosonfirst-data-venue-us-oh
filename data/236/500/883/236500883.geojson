@@ -2,78 +2,79 @@
   "id": 236500883,
   "type": "Feature",
   "properties": {
-    "addr:full":"1026 Cincinnati St Dayton OH 45408",
-    "addr:housenumber":"1026",
-    "addr:postcode":"45408",
-    "addr:street":"Cincinnati St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.204775,39.738198,-84.204775,39.738198",
-    "geom:latitude":39.738198,
-    "geom:longitude":-84.204775,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1026 Cincinnati St",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1026 Cincinnati St Dayton OH 45408",
+    "addr:housenumber": "1026",
+    "addr:postcode": "45408",
+    "addr:street": "Cincinnati St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.204775,39.738198,-84.204775,39.738198",
+    "geom:latitude": 39.738198,
+    "geom:longitude": -84.204775,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1026 Cincinnati St",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 223 8969",
-    "sg:postcode":"45408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 223 8969",
+    "sg:postcode": "45408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712161,
-        102083667,
-        85877005
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712161,
+      102083667,
+      85877005
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2rVa6ApszutmWViwVqQzxs_39.738198_-84.204775@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2rVa6ApszutmWViwVqQzxs_39.738198_-84.204775@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a83d9d734a5d0d9540d05b9410bf8e39",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083667,
-            "locality_id":101712161,
-            "neighbourhood_id":85877005,
-            "region_id":85688485,
-            "venue_id":236500883
-        }
+    "wof:country": "US",
+    "wof:created": 1638566899,
+    "wof:geomhash": "6acde55e2c8e954be9ad229ac78ad128",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083667,
+        "locality_id": 101712161,
+        "neighbourhood_id": 85877005,
+        "region_id": 85688485,
+        "venue_id": 236500883
+      }
     ],
-    "wof:id":236500883,
-    "wof:lastmodified":1472638792,
-    "wof:name":"One Stop Automotive Svc Inc",
-    "wof:parent_id":85877005,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 236500883,
+    "wof:lastmodified": 1638566899,
+    "wof:name": "One Stop Automotive Svc Inc",
+    "wof:parent_id": 85877005,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -84.204775,
     39.738198,
     -84.204775,
     39.738198
-],
+  ],
   "geometry": {"coordinates":[-84.204775,39.738198],"type":"Point"}
 }

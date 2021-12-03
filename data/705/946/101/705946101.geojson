@@ -2,63 +2,67 @@
   "id": 705946101,
   "type": "Feature",
   "properties": {
-    "addr:full":"4289 Manhattan Ave Brunswick OH 44212",
-    "addr:housenumber":"4289",
-    "addr:postcode":"44212",
-    "addr:street":"Manhattan Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.84037,41.236541,-81.84037,41.236541",
-    "geom:latitude":41.236541,
-    "geom:longitude":-81.84037,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4289 Manhattan Ave",
-    "sg:city":"Brunswick",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "4289 Manhattan Ave Brunswick OH 44212",
+    "addr:housenumber": "4289",
+    "addr:postcode": "44212",
+    "addr:street": "Manhattan Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.840370,41.236541,-81.840370,41.236541",
+    "geom:latitude": 41.236541,
+    "geom:longitude": -81.84037,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4289 Manhattan Ave",
+    "sg:city": "Brunswick",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 273 2772",
-    "sg:postcode":"44212",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "music"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 273 2772",
+    "sg:postcode": "44212",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "music"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_015HrwPaXv2BkJA0y8Q2aU_41.236541_-81.840370@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_015HrwPaXv2BkJA0y8Q2aU_41.236541_-81.840370@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792448,
-    "wof:geomhash":"fb17e0475326f72e1e1964a4a9929d8e",
-    "wof:hierarchy":[],
-    "wof:id":705946101,
-    "wof:lastmodified":1472639667,
-    "wof:name":"Brunswick Music Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "music"
+    "wof:country": "US",
+    "wof:created": 1461792448,
+    "wof:geomhash": "d313ce570d5d2c15f15683daab799512",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705946101
+      }
+    ],
+    "wof:id": 705946101,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Brunswick Music Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "music"
     ]
-},
+  },
   "bbox": [
     -81.84037,
     41.236541,
     -81.84037,
     41.236541
-],
-  "geometry": {"coordinates":[-81.84036999999999,41.236541],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.84037,41.236541],"type":"Point"}
 }

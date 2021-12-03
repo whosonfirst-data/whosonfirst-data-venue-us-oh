@@ -2,61 +2,65 @@
   "id": 689825543,
   "type": "Feature",
   "properties": {
-    "addr:full":"725 N 4th St Steubenville OH 43952",
-    "addr:housenumber":"725",
-    "addr:postcode":"43952",
-    "addr:street":"N 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.61087,40.368291,-80.61087,40.368291",
-    "geom:latitude":40.368291,
-    "geom:longitude":-80.61087,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"725 N 4th St",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "725 N 4th St Steubenville OH 43952",
+    "addr:housenumber": "725",
+    "addr:postcode": "43952",
+    "addr:street": "N 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.610870,40.368291,-80.610870,40.368291",
+    "geom:latitude": 40.368291,
+    "geom:longitude": -80.61087,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "725 N 4th St",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 283 2033",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:tags":[
-        "skilled"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 283 2033",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:tags": [
+      "skilled"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IjcbKLpte4RfqzDVJH5xZ_40.368291_-80.610870@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5IjcbKLpte4RfqzDVJH5xZ_40.368291_-80.610870@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782663,
-    "wof:geomhash":"1029dbe0eb45da95326f38d49287924f",
-    "wof:hierarchy":[],
-    "wof:id":689825543,
-    "wof:lastmodified":1472639897,
-    "wof:name":"Epicenter of Steubenville Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "skilled"
+    "wof:country": "US",
+    "wof:created": 1461782663,
+    "wof:geomhash": "e63fb03123448829e5c4bb476075fe0a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689825543
+      }
+    ],
+    "wof:id": 689825543,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Epicenter of Steubenville Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "skilled"
     ]
-},
+  },
   "bbox": [
     -80.61087,
     40.368291,
     -80.61087,
     40.368291
-],
-  "geometry": {"coordinates":[-80.61087000000001,40.368291],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.61087,40.368291],"type":"Point"}
 }

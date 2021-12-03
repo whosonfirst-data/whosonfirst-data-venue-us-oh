@@ -2,61 +2,65 @@
   "id": 705978663,
   "type": "Feature",
   "properties": {
-    "addr:full":"4940 Granger Rd Akron OH 44333",
-    "addr:housenumber":"4940",
-    "addr:postcode":"44333",
-    "addr:street":"Granger Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.681552,41.156017,-81.681552,41.156017",
-    "geom:latitude":41.156017,
-    "geom:longitude":-81.681552,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4940 Granger Rd",
-    "sg:city":"Akron",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "4940 Granger Rd Akron OH 44333",
+    "addr:housenumber": "4940",
+    "addr:postcode": "44333",
+    "addr:street": "Granger Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.681552,41.156017,-81.681552,41.156017",
+    "geom:latitude": 41.156017,
+    "geom:longitude": -81.681552,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4940 Granger Rd",
+    "sg:city": "Akron",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 666 6891",
-    "sg:postcode":"44333",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 666 6891",
+    "sg:postcode": "44333",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_11p8og8Ge1Y8A1T1cR5Aid_41.156017_-81.681552@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_11p8og8Ge1Y8A1T1cR5Aid_41.156017_-81.681552@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793139,
-    "wof:geomhash":"cd96c6665442dff50a81cfc01830c567",
-    "wof:hierarchy":[],
-    "wof:id":705978663,
-    "wof:lastmodified":1472639775,
-    "wof:name":"Thunder Mountain Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operation"
+    "wof:country": "US",
+    "wof:created": 1461793139,
+    "wof:geomhash": "373c2e78706319a0dd6a662c8fef7838",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705978663
+      }
+    ],
+    "wof:id": 705978663,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Thunder Mountain Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operation"
     ]
-},
+  },
   "bbox": [
     -81.681552,
     41.156017,
     -81.681552,
     41.156017
-],
+  ],
   "geometry": {"coordinates":[-81.681552,41.156017],"type":"Point"}
 }

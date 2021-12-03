@@ -2,66 +2,70 @@
   "id": 706025993,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 Woodview Dr Chillicothe OH 45601",
-    "addr:housenumber":"201",
-    "addr:postcode":"chillicothe;45601",
-    "addr:street":"Woodview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.009618,39.43619,-83.009618,39.43619",
-    "geom:latitude":39.43619,
-    "geom:longitude":-83.009618,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"201 Woodview Dr",
-    "sg:city":"Chillicothe",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "201 Woodview Dr Chillicothe OH 45601",
+    "addr:housenumber": "201",
+    "addr:postcode": "chillicothe;45601",
+    "addr:street": "Woodview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.009618,39.436190,-83.009618,39.436190",
+    "geom:latitude": 39.43619,
+    "geom:longitude": -83.009618,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "201 Woodview Dr",
+    "sg:city": "Chillicothe",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 775 2491",
-    "sg:postcode":"45601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 775 2491",
+    "sg:postcode": "45601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574309,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Vkp3C0SQTmiivk7hFJxdX_39.436190_-83.009618@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574309,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Vkp3C0SQTmiivk7hFJxdX_39.436190_-83.009618@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794127,
-    "wof:geomhash":"44b6462c6f33ad82c211b486e54db604",
-    "wof:hierarchy":[],
-    "wof:id":706025993,
-    "wof:lastmodified":1511324230,
-    "wof:name":"Exxon",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461794127,
+    "wof:geomhash": "44b6462c6f33ad82c211b486e54db604",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706025993
+      }
+    ],
+    "wof:id": 706025993,
+    "wof:lastmodified": 1638566948,
+    "wof:name": "Exxon",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -83.009618,
     39.43619,
     -83.009618,
     39.43619
-],
+  ],
   "geometry": {"coordinates":[-83.009618,39.43619],"type":"Point"}
 }

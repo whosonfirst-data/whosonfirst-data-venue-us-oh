@@ -2,65 +2,69 @@
   "id": 706579721,
   "type": "Feature",
   "properties": {
-    "addr:full":"2454 Maple Ave Zanesville OH 43701",
-    "addr:housenumber":"2454",
-    "addr:postcode":"43701",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.009651,39.968336,-82.009651,39.968336",
-    "geom:latitude":39.968336,
-    "geom:longitude":-82.009651,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2454 Maple Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2454 Maple Ave Zanesville OH 43701",
+    "addr:housenumber": "2454",
+    "addr:postcode": "43701",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.009651,39.968336,-82.009651,39.968336",
+    "geom:latitude": 39.968336,
+    "geom:longitude": -82.009651,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2454 Maple Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/zanesville/213984-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 0331",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/oh/zanesville/213984-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 0331",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6UQYb6MbSFEySGcgcvU0AU_39.968433_-82.009718@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6UQYb6MbSFEySGcgcvU0AU_39.968433_-82.009718@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806311,
-    "wof:geomhash":"248c698a37672ec9e809a5c950e337a4",
-    "wof:hierarchy":[],
-    "wof:id":706579721,
-    "wof:lastmodified":1510603178,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461806311,
+    "wof:geomhash": "248c698a37672ec9e809a5c950e337a4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706579721
+      }
+    ],
+    "wof:id": 706579721,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -82.009651,
     39.968336,
     -82.009651,
     39.968336
-],
-  "geometry": {"coordinates":[-82.00965100000001,39.968336],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.009651,39.968336],"type":"Point"}
 }

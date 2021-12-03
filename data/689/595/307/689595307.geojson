@@ -2,63 +2,67 @@
   "id": 689595307,
   "type": "Feature",
   "properties": {
-    "addr:full":"420 Broadway Wellsville OH 43968",
-    "addr:housenumber":"420",
-    "addr:postcode":"43968",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.643631,40.609508,-80.643631,40.609508",
-    "geom:latitude":40.609508,
-    "geom:longitude":-80.643631,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"420 Broadway",
-    "sg:city":"Wellsville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "420 Broadway Wellsville OH 43968",
+    "addr:housenumber": "420",
+    "addr:postcode": "43968",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.643631,40.609508,-80.643631,40.609508",
+    "geom:latitude": 40.609508,
+    "geom:longitude": -80.643631,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "420 Broadway",
+    "sg:city": "Wellsville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 532 4051",
-    "sg:postcode":"43968",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 532 4051",
+    "sg:postcode": "43968",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3bEHdLyikB8OfVB0jmIOPM_40.609508_-80.643631@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3bEHdLyikB8OfVB0jmIOPM_40.609508_-80.643631@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776070,
-    "wof:geomhash":"3e320630203d96209574eed4414d2e38",
-    "wof:hierarchy":[],
-    "wof:id":689595307,
-    "wof:lastmodified":1472639391,
-    "wof:name":"Riverside Surgery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461776070,
+    "wof:geomhash": "7f0b6511b21ddd0416589f8387d3ceaa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689595307
+      }
+    ],
+    "wof:id": 689595307,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "Riverside Surgery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.643631,
     40.609508,
     -80.643631,
     40.609508
-],
+  ],
   "geometry": {"coordinates":[-80.643631,40.609508],"type":"Point"}
 }

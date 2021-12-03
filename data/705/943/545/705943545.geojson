@@ -2,61 +2,65 @@
   "id": 705943545,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 E Main St Cridersville OH 45806",
-    "addr:housenumber":"100",
-    "addr:postcode":"45806",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.143746,40.654244,-84.143746,40.654244",
-    "geom:latitude":40.654244,
-    "geom:longitude":-84.143746,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 E Main St",
-    "sg:city":"Cridersville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "100 E Main St Cridersville OH 45806",
+    "addr:housenumber": "100",
+    "addr:postcode": "45806",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.143746,40.654244,-84.143746,40.654244",
+    "geom:latitude": 40.654244,
+    "geom:longitude": -84.143746,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 E Main St",
+    "sg:city": "Cridersville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 645 4000",
-    "sg:postcode":"45806",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 645 4000",
+    "sg:postcode": "45806",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5TuMEtsVRXwJnnllhAaDgF_40.654244_-84.143746@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5TuMEtsVRXwJnnllhAaDgF_40.654244_-84.143746@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792386,
-    "wof:geomhash":"c330e4a005a8e0682bbfdae4a39e248d",
-    "wof:hierarchy":[],
-    "wof:id":705943545,
-    "wof:lastmodified":1472639679,
-    "wof:name":"Cridersville Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461792386,
+    "wof:geomhash": "c318b48da7cafd4c070933b76c7a34cd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705943545
+      }
+    ],
+    "wof:id": 705943545,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "Cridersville Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.143746,
     40.654244,
     -84.143746,
     40.654244
-],
-  "geometry": {"coordinates":[-84.14374599999999,40.654244],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.143746,40.654244],"type":"Point"}
 }

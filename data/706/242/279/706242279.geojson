@@ -2,61 +2,65 @@
   "id": 706242279,
   "type": "Feature",
   "properties": {
-    "addr:full":"23 N Main St Attica OH 44807",
-    "addr:housenumber":"23",
-    "addr:postcode":"44807",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.886893,41.065742,-82.886893,41.065742",
-    "geom:latitude":41.065742,
-    "geom:longitude":-82.886893,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"23 N Main St",
-    "sg:city":"Attica",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "23 N Main St Attica OH 44807",
+    "addr:housenumber": "23",
+    "addr:postcode": "44807",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.886893,41.065742,-82.886893,41.065742",
+    "geom:latitude": 41.065742,
+    "geom:longitude": -82.886893,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "23 N Main St",
+    "sg:city": "Attica",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 426 5522",
-    "sg:postcode":"44807",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 426 5522",
+    "sg:postcode": "44807",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1SlSqlafD6TpC1qCDHKbz8_41.065742_-82.886893@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1SlSqlafD6TpC1qCDHKbz8_41.065742_-82.886893@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799000,
-    "wof:geomhash":"cd5f9116bfbf9ad22eaefbf7eb2573f5",
-    "wof:hierarchy":[],
-    "wof:id":706242279,
-    "wof:lastmodified":1472639571,
-    "wof:name":"Cheezees",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461799000,
+    "wof:geomhash": "ba319013c11d9714b064a16d42bc114d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706242279
+      }
+    ],
+    "wof:id": 706242279,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Cheezees",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.886893,
     41.065742,
     -82.886893,
     41.065742
-],
+  ],
   "geometry": {"coordinates":[-82.886893,41.065742],"type":"Point"}
 }

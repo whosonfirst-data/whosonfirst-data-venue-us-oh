@@ -2,61 +2,65 @@
   "id": 706264161,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 W Carrol St Kenton OH 43326",
-    "addr:housenumber":"123",
-    "addr:postcode":"43326",
-    "addr:street":"W Carrol St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.608963,40.649249,-83.608963,40.649249",
-    "geom:latitude":40.649249,
-    "geom:longitude":-83.608963,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 W Carrol St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Management & Consulting",
-            "type":"Services"
-        }
+    "addr:full": "123 W Carrol St Kenton OH 43326",
+    "addr:housenumber": "123",
+    "addr:postcode": "43326",
+    "addr:street": "W Carrol St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.608963,40.649249,-83.608963,40.649249",
+    "geom:latitude": 40.649249,
+    "geom:longitude": -83.608963,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 W Carrol St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Management \u0026 Consulting",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 675 9042",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "consultant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 675 9042",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "consultant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6wsJyOjYNumY9xgYAx5eCB_40.649249_-83.608963@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6wsJyOjYNumY9xgYAx5eCB_40.649249_-83.608963@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799487,
-    "wof:geomhash":"8d9c86a3141a6730b3a6b2740050354b",
-    "wof:hierarchy":[],
-    "wof:id":706264161,
-    "wof:lastmodified":1472639599,
-    "wof:name":"B & A Consulting",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "consultant"
+    "wof:country": "US",
+    "wof:created": 1461799487,
+    "wof:geomhash": "69afc0e4c76b8dc137f4869332e66355",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706264161
+      }
+    ],
+    "wof:id": 706264161,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "B \u0026 A Consulting",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant"
     ]
-},
+  },
   "bbox": [
     -83.608963,
     40.649249,
     -83.608963,
     40.649249
-],
+  ],
   "geometry": {"coordinates":[-83.608963,40.649249],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705807653,
   "type": "Feature",
   "properties": {
-    "addr:full":"210 S Fulton St Wauseon OH 43567",
-    "addr:housenumber":"210",
-    "addr:postcode":"43567",
-    "addr:street":"S Fulton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.140729,41.54613,-84.140729,41.54613",
-    "geom:latitude":41.54613,
-    "geom:longitude":-84.140729,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"210 S Fulton St",
-    "sg:city":"Wauseon",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "210 S Fulton St Wauseon OH 43567",
+    "addr:housenumber": "210",
+    "addr:postcode": "43567",
+    "addr:street": "S Fulton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.140729,41.546130,-84.140729,41.546130",
+    "geom:latitude": 41.54613,
+    "geom:longitude": -84.140729,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "210 S Fulton St",
+    "sg:city": "Wauseon",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 337 9236",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:tags":[
-        "probation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 337 9236",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:tags": [
+      "probation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2td9P0DTG43z4JrZ9KhQko_41.546130_-84.140729@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2td9P0DTG43z4JrZ9KhQko_41.546130_-84.140729@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789183,
-    "wof:geomhash":"5292486f85ccd49232b9a95632a36fb8",
-    "wof:hierarchy":[],
-    "wof:id":705807653,
-    "wof:lastmodified":1472639305,
-    "wof:name":"Fulton County Adult Probation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "probation"
+    "wof:country": "US",
+    "wof:created": 1461789183,
+    "wof:geomhash": "e1c4ec264387e44eab999d57ec0a8b7d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705807653
+      }
+    ],
+    "wof:id": 705807653,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Fulton County Adult Probation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "probation"
     ]
-},
+  },
   "bbox": [
     -84.140729,
     41.54613,
     -84.140729,
     41.54613
-],
-  "geometry": {"coordinates":[-84.14072899999999,41.54613],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.140729,41.54613],"type":"Point"}
 }

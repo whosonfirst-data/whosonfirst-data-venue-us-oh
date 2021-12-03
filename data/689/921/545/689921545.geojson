@@ -2,61 +2,65 @@
   "id": 689921545,
   "type": "Feature",
   "properties": {
-    "addr:full":"407 Washington Ave Greenville OH 45331",
-    "addr:housenumber":"407",
-    "addr:postcode":"45331",
-    "addr:street":"Washington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.630014,40.096871,-84.630014,40.096871",
-    "geom:latitude":40.096871,
-    "geom:longitude":-84.630014,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"407 Washington Ave",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "407 Washington Ave Greenville OH 45331",
+    "addr:housenumber": "407",
+    "addr:postcode": "45331",
+    "addr:street": "Washington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.630014,40.096871,-84.630014,40.096871",
+    "geom:latitude": 40.096871,
+    "geom:longitude": -84.630014,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "407 Washington Ave",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 547 1234",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 547 1234",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6J8D3j4V3eCRUNIRFepNz2_40.096871_-84.630014@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6J8D3j4V3eCRUNIRFepNz2_40.096871_-84.630014@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785156,
-    "wof:geomhash":"f080bcf991283e96dc6fb391bf6a0c9d",
-    "wof:hierarchy":[],
-    "wof:id":689921545,
-    "wof:lastmodified":1472640079,
-    "wof:name":"Quizno",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461785156,
+    "wof:geomhash": "9deabfe834f06b5de433a860d6e229b7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689921545
+      }
+    ],
+    "wof:id": 689921545,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Quizno",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -84.630014,
     40.096871,
     -84.630014,
     40.096871
-],
+  ],
   "geometry": {"coordinates":[-84.630014,40.096871],"type":"Point"}
 }

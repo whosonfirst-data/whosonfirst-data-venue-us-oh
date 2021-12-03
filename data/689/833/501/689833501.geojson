@@ -2,61 +2,65 @@
   "id": 689833501,
   "type": "Feature",
   "properties": {
-    "addr:full":"920 Washington St Portsmouth OH 45662",
-    "addr:housenumber":"920",
-    "addr:postcode":"45662",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.998369,38.738151,-82.998369,38.738151",
-    "geom:latitude":38.738151,
-    "geom:longitude":-82.998369,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"920 Washington St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        }
+    "addr:full": "920 Washington St Portsmouth OH 45662",
+    "addr:housenumber": "920",
+    "addr:postcode": "45662",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.998369,38.738151,-82.998369,38.738151",
+    "geom:latitude": 38.738151,
+    "geom:longitude": -82.998369,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "920 Washington St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 353 3345",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "used"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 353 3345",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "used"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Mn825qUZZzxOjUNJu5WBT_38.738151_-82.998369@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Mn825qUZZzxOjUNJu5WBT_38.738151_-82.998369@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782943,
-    "wof:geomhash":"b71dd4e866088da25079feda71c54a3e",
-    "wof:hierarchy":[],
-    "wof:id":689833501,
-    "wof:lastmodified":1472639906,
-    "wof:name":"Auto Credit Of Portsmouth",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "used"
+    "wof:country": "US",
+    "wof:created": 1461782943,
+    "wof:geomhash": "55e4a282321b6480e8555aaab1aabde0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689833501
+      }
+    ],
+    "wof:id": 689833501,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "Auto Credit Of Portsmouth",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "used"
     ]
-},
+  },
   "bbox": [
     -82.998369,
     38.738151,
     -82.998369,
     38.738151
-],
+  ],
   "geometry": {"coordinates":[-82.998369,38.738151],"type":"Point"}
 }

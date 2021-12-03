@@ -2,61 +2,65 @@
   "id": 705889021,
   "type": "Feature",
   "properties": {
-    "addr:full":"377 Rose Ln Zanesville OH 43701",
-    "addr:housenumber":"377",
-    "addr:postcode":"43701",
-    "addr:street":"Rose Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.005093,39.996966,-82.005093,39.996966",
-    "geom:latitude":39.996966,
-    "geom:longitude":-82.005093,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"377 Rose Ln",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "377 Rose Ln Zanesville OH 43701",
+    "addr:housenumber": "377",
+    "addr:postcode": "43701",
+    "addr:street": "Rose Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.005093,39.996966,-82.005093,39.996966",
+    "geom:latitude": 39.996966,
+    "geom:longitude": -82.005093,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "377 Rose Ln",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 4177",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "embroidery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 4177",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "embroidery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4rimmqW1aVUYcxat6ETFBV_39.996966_-82.005093@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4rimmqW1aVUYcxat6ETFBV_39.996966_-82.005093@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791156,
-    "wof:geomhash":"1331d983f393857a7b0e104881a511e5",
-    "wof:hierarchy":[],
-    "wof:id":705889021,
-    "wof:lastmodified":1472639502,
-    "wof:name":"Y City Embroidery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "embroidery"
+    "wof:country": "US",
+    "wof:created": 1461791156,
+    "wof:geomhash": "bddd75160df724dbabf82b2382d4dcb8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705889021
+      }
+    ],
+    "wof:id": 705889021,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "Y City Embroidery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "embroidery"
     ]
-},
+  },
   "bbox": [
     -82.005093,
     39.996966,
     -82.005093,
     39.996966
-],
+  ],
   "geometry": {"coordinates":[-82.005093,39.996966],"type":"Point"}
 }

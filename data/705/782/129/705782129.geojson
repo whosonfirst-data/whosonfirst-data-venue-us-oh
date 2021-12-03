@@ -2,61 +2,65 @@
   "id": 705782129,
   "type": "Feature",
   "properties": {
-    "addr:full":"124 E Main St Metamora OH 43540",
-    "addr:housenumber":"124",
-    "addr:postcode":"43540",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.909745,41.711473,-83.909745,41.711473",
-    "geom:latitude":41.711473,
-    "geom:longitude":-83.909745,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"124 E Main St",
-    "sg:city":"Metamora",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "124 E Main St Metamora OH 43540",
+    "addr:housenumber": "124",
+    "addr:postcode": "43540",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.909745,41.711473,-83.909745,41.711473",
+    "geom:latitude": 41.711473,
+    "geom:longitude": -83.909745,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "124 E Main St",
+    "sg:city": "Metamora",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 644 3211",
-    "sg:postcode":"43540",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 644 3211",
+    "sg:postcode": "43540",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0MYqQjLhzswdO5WyH6s6Km_41.711473_-83.909745@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0MYqQjLhzswdO5WyH6s6Km_41.711473_-83.909745@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788603,
-    "wof:geomhash":"18d425957067ee1d275d2e71a0275c3f",
-    "wof:hierarchy":[],
-    "wof:id":705782129,
-    "wof:lastmodified":1472639220,
-    "wof:name":"Metamora United Methodist Chr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461788603,
+    "wof:geomhash": "4c3e07bf21bb791343aeff9f0f488bf4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705782129
+      }
+    ],
+    "wof:id": 705782129,
+    "wof:lastmodified": 1638566979,
+    "wof:name": "Metamora United Methodist Chr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.909745,
     41.711473,
     -83.909745,
     41.711473
-],
+  ],
   "geometry": {"coordinates":[-83.909745,41.711473],"type":"Point"}
 }

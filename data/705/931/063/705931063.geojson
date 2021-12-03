@@ -2,61 +2,65 @@
   "id": 705931063,
   "type": "Feature",
   "properties": {
-    "addr:full":"787 N Main St Marion OH 43302",
-    "addr:housenumber":"787",
-    "addr:postcode":"43302",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.129777,40.601215,-83.129777,40.601215",
-    "geom:latitude":40.601215,
-    "geom:longitude":-83.129777,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"787 N Main St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "787 N Main St Marion OH 43302",
+    "addr:housenumber": "787",
+    "addr:postcode": "43302",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.129777,40.601215,-83.129777,40.601215",
+    "geom:latitude": 40.601215,
+    "geom:longitude": -83.129777,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "787 N Main St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 383 1450",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 383 1450",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_30RUOXaTFlUOOKMXghvHo3_40.601215_-83.129777@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_30RUOXaTFlUOOKMXghvHo3_40.601215_-83.129777@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792082,
-    "wof:geomhash":"ef331f5ee785fd13e892823d66353a27",
-    "wof:hierarchy":[],
-    "wof:id":705931063,
-    "wof:lastmodified":1472639649,
-    "wof:name":"Nickles Bakery Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:country": "US",
+    "wof:created": 1461792082,
+    "wof:geomhash": "5dcf73a3e5b2d6f23f5581bdd50ad299",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705931063
+      }
+    ],
+    "wof:id": 705931063,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Nickles Bakery Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -83.129777,
     40.601215,
     -83.129777,
     40.601215
-],
+  ],
   "geometry": {"coordinates":[-83.129777,40.601215],"type":"Point"}
 }

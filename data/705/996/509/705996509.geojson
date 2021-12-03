@@ -2,63 +2,67 @@
   "id": 705996509,
   "type": "Feature",
   "properties": {
-    "addr:full":"332 Stull Ave Akron OH 44312",
-    "addr:housenumber":"332",
-    "addr:postcode":"44312",
-    "addr:street":"Stull Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.424768,41.046621,-81.424768,41.046621",
-    "geom:latitude":41.046621,
-    "geom:longitude":-81.424768,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"332 Stull Ave",
-    "sg:city":"Akron",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "332 Stull Ave Akron OH 44312",
+    "addr:housenumber": "332",
+    "addr:postcode": "44312",
+    "addr:street": "Stull Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.424768,41.046621,-81.424768,41.046621",
+    "geom:latitude": 41.046621,
+    "geom:longitude": -81.424768,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "332 Stull Ave",
+    "sg:city": "Akron",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 733 6005",
-    "sg:postcode":"44312",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 733 6005",
+    "sg:postcode": "44312",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Tavkv2MlDRzLSCbGkilAb_41.046621_-81.424768@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Tavkv2MlDRzLSCbGkilAb_41.046621_-81.424768@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793496,
-    "wof:geomhash":"0484d47ad77a8406cf5110a7c4556bcb",
-    "wof:hierarchy":[],
-    "wof:id":705996509,
-    "wof:lastmodified":1472639829,
-    "wof:name":"Donald L Vannatter",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461793496,
+    "wof:geomhash": "c2c1f722dc264e0263408e9dbf06916b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705996509
+      }
+    ],
+    "wof:id": 705996509,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Donald L Vannatter",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.424768,
     41.046621,
     -81.424768,
     41.046621
-],
+  ],
   "geometry": {"coordinates":[-81.424768,41.046621],"type":"Point"}
 }

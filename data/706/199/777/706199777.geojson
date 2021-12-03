@@ -2,63 +2,67 @@
   "id": 706199777,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Bank St Lodi OH 44254",
-    "addr:housenumber":"123",
-    "addr:postcode":"44254",
-    "addr:street":"Bank St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.012771,41.033224,-82.012771,41.033224",
-    "geom:latitude":41.033224,
-    "geom:longitude":-82.012771,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Bank St",
-    "sg:city":"Lodi",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "123 Bank St Lodi OH 44254",
+    "addr:housenumber": "123",
+    "addr:postcode": "44254",
+    "addr:street": "Bank St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.012771,41.033224,-82.012771,41.033224",
+    "geom:latitude": 41.033224,
+    "geom:longitude": -82.012771,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Bank St",
+    "sg:city": "Lodi",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 948 7777",
-    "sg:postcode":"44254",
-    "sg:province":"OH",
-    "sg:tags":[
-        "organization",
-        "welfare"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 948 7777",
+    "sg:postcode": "44254",
+    "sg:province": "OH",
+    "sg:tags": [
+      "organization",
+      "welfare"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5wsXavELWI7fT76ro8CHt7_41.033224_-82.012771@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5wsXavELWI7fT76ro8CHt7_41.033224_-82.012771@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798069,
-    "wof:geomhash":"00199c21cbe65d06e476c3d94278006a",
-    "wof:hierarchy":[],
-    "wof:id":706199777,
-    "wof:lastmodified":1472639497,
-    "wof:name":"Oaks Family Care Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "organization",
-        "welfare"
+    "wof:country": "US",
+    "wof:created": 1461798069,
+    "wof:geomhash": "f040b75371c3bd8e27fd8dd77ba8e889",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706199777
+      }
+    ],
+    "wof:id": 706199777,
+    "wof:lastmodified": 1638567040,
+    "wof:name": "Oaks Family Care Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organization",
+      "welfare"
     ]
-},
+  },
   "bbox": [
     -82.012771,
     41.033224,
     -82.012771,
     41.033224
-],
+  ],
   "geometry": {"coordinates":[-82.012771,41.033224],"type":"Point"}
 }

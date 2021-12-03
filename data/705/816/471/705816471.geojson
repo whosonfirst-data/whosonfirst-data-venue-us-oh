@@ -2,61 +2,65 @@
   "id": 705816471,
   "type": "Feature",
   "properties": {
-    "addr:full":"7626 State Rte 45 Lisbon OH 44432",
-    "addr:housenumber":"7626",
-    "addr:postcode":"44432",
-    "addr:street":"State Rte 45",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.776679,40.789018,-80.776679,40.789018",
-    "geom:latitude":40.789018,
-    "geom:longitude":-80.776679,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7626 State Rte 45",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7626 State Rte 45 Lisbon OH 44432",
+    "addr:housenumber": "7626",
+    "addr:postcode": "44432",
+    "addr:street": "State Rte 45",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.776679,40.789018,-80.776679,40.789018",
+    "geom:latitude": 40.789018,
+    "geom:longitude": -80.776679,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7626 State Rte 45",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 4860",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "family"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 4860",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "family"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0NB1alj5l50dxVMriQRjV7_40.789018_-80.776679@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0NB1alj5l50dxVMriQRjV7_40.789018_-80.776679@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789397,
-    "wof:geomhash":"ee33a0ae8f452bf33a2ccdcbd2aa7313",
-    "wof:hierarchy":[],
-    "wof:id":705816471,
-    "wof:lastmodified":1472639306,
-    "wof:name":"Taste Of Country Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "family"
+    "wof:country": "US",
+    "wof:created": 1461789397,
+    "wof:geomhash": "8cd38e8d65444896065e332e92382813",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705816471
+      }
+    ],
+    "wof:id": 705816471,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Taste Of Country Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "family"
     ]
-},
+  },
   "bbox": [
     -80.776679,
     40.789018,
     -80.776679,
     40.789018
-],
+  ],
   "geometry": {"coordinates":[-80.776679,40.789018],"type":"Point"}
 }

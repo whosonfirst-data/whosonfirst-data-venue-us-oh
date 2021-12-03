@@ -2,61 +2,65 @@
   "id": 706641265,
   "type": "Feature",
   "properties": {
-    "addr:full":"7981 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"7981",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.334503,39.072899,-84.334503,39.072899",
-    "geom:latitude":39.072899,
-    "geom:longitude":-84.334503,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7981 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Adult",
-            "type":"Services"
-        }
+    "addr:full": "7981 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "7981",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.334503,39.072899,-84.334503,39.072899",
+    "geom:latitude": 39.072899,
+    "geom:longitude": -84.334503,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7981 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Adult",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 584 1130",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "midwife"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 584 1130",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "midwife"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6isdzoWlwsek5QyCPpXmGR_39.072899_-84.334503@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6isdzoWlwsek5QyCPpXmGR_39.072899_-84.334503@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807601,
-    "wof:geomhash":"b4f5331eb56cf26185f9278e30cc9fac",
-    "wof:hierarchy":[],
-    "wof:id":706641265,
-    "wof:lastmodified":1472640251,
-    "wof:name":"Nurse-Midwifery Associates",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "midwife"
+    "wof:country": "US",
+    "wof:created": 1461807601,
+    "wof:geomhash": "d279c81cdbc42a210d9bf040ed33e757",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706641265
+      }
+    ],
+    "wof:id": 706641265,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Nurse-Midwifery Associates",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "midwife"
     ]
-},
+  },
   "bbox": [
     -84.334503,
     39.072899,
     -84.334503,
     39.072899
-],
+  ],
   "geometry": {"coordinates":[-84.334503,39.072899],"type":"Point"}
 }

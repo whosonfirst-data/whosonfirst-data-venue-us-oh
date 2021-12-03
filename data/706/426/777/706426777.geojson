@@ -2,61 +2,65 @@
   "id": 706426777,
   "type": "Feature",
   "properties": {
-    "addr:full":"505 S Bryan St Hicksville OH 43526",
-    "addr:housenumber":"505",
-    "addr:postcode":"43526",
-    "addr:street":"S Bryan St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.760518,41.28819,-84.760518,41.28819",
-    "geom:latitude":41.28819,
-    "geom:longitude":-84.760518,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"505 S Bryan St",
-    "sg:city":"Hicksville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "505 S Bryan St Hicksville OH 43526",
+    "addr:housenumber": "505",
+    "addr:postcode": "43526",
+    "addr:street": "S Bryan St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.760518,41.288190,-84.760518,41.288190",
+    "geom:latitude": 41.28819,
+    "geom:longitude": -84.760518,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "505 S Bryan St",
+    "sg:city": "Hicksville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 542 7645",
-    "sg:postcode":"43526",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 542 7645",
+    "sg:postcode": "43526",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0YO2RXbR8a4nWHSdMH2xOV_41.288190_-84.760518@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0YO2RXbR8a4nWHSdMH2xOV_41.288190_-84.760518@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802918,
-    "wof:geomhash":"d8cd420b0011b5d07d27adf01909083f",
-    "wof:hierarchy":[],
-    "wof:id":706426777,
-    "wof:lastmodified":1472640018,
-    "wof:name":"Hicksville Disposal Plant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461802918,
+    "wof:geomhash": "c21cdd936111e4e9c4fd031ef216c808",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706426777
+      }
+    ],
+    "wof:id": 706426777,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "Hicksville Disposal Plant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.760518,
     41.28819,
     -84.760518,
     41.28819
-],
+  ],
   "geometry": {"coordinates":[-84.760518,41.28819],"type":"Point"}
 }

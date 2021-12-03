@@ -2,63 +2,67 @@
   "id": 705956603,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 S Main St Payne OH 45880",
-    "addr:housenumber":"301",
-    "addr:postcode":"45880",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.726693,41.077422,-84.726693,41.077422",
-    "geom:latitude":41.077422,
-    "geom:longitude":-84.726693,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"301 S Main St",
-    "sg:city":"Payne",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "301 S Main St Payne OH 45880",
+    "addr:housenumber": "301",
+    "addr:postcode": "45880",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.726693,41.077422,-84.726693,41.077422",
+    "geom:latitude": 41.077422,
+    "geom:longitude": -84.726693,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "301 S Main St",
+    "sg:city": "Payne",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 263 2947",
-    "sg:postcode":"45880",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 263 2947",
+    "sg:postcode": "45880",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0MLDZtghMkCsldISar2Ao1_41.077422_-84.726693@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0MLDZtghMkCsldISar2Ao1_41.077422_-84.726693@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792681,
-    "wof:geomhash":"7cd21497f82a42e05f5653ce2ad9b66f",
-    "wof:hierarchy":[],
-    "wof:id":705956603,
-    "wof:lastmodified":1472639719,
-    "wof:name":"Joseph M Kuhn DO",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461792681,
+    "wof:geomhash": "7213f39f4782fb04e02df174bf3b8e9f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705956603
+      }
+    ],
+    "wof:id": 705956603,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Joseph M Kuhn DO",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.726693,
     41.077422,
     -84.726693,
     41.077422
-],
+  ],
   "geometry": {"coordinates":[-84.726693,41.077422],"type":"Point"}
 }

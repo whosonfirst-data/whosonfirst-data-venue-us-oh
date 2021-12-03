@@ -2,61 +2,65 @@
   "id": 705742385,
   "type": "Feature",
   "properties": {
-    "addr:full":"16271 Sherman St Laurelville OH 43135",
-    "addr:housenumber":"16271",
-    "addr:postcode":"43135",
-    "addr:street":"Sherman St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.735207,39.469853,-82.735207,39.469853",
-    "geom:latitude":39.469853,
-    "geom:longitude":-82.735207,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16271 Sherman St",
-    "sg:city":"Laurelville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "16271 Sherman St Laurelville OH 43135",
+    "addr:housenumber": "16271",
+    "addr:postcode": "43135",
+    "addr:street": "Sherman St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.735207,39.469853,-82.735207,39.469853",
+    "geom:latitude": 39.469853,
+    "geom:longitude": -82.735207,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16271 Sherman St",
+    "sg:city": "Laurelville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 332 1711",
-    "sg:postcode":"43135",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 332 1711",
+    "sg:postcode": "43135",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Q32e3kZrqotm9Temx6X0c_39.469853_-82.735207@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Q32e3kZrqotm9Temx6X0c_39.469853_-82.735207@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787699,
-    "wof:geomhash":"5b834c530ac68c7cba2abab1bed05d01",
-    "wof:hierarchy":[],
-    "wof:id":705742385,
-    "wof:lastmodified":1472639079,
-    "wof:name":"Wellman Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461787699,
+    "wof:geomhash": "92dd76f0afb0348ce0008f8c7c31612e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705742385
+      }
+    ],
+    "wof:id": 705742385,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Wellman Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -82.735207,
     39.469853,
     -82.735207,
     39.469853
-],
+  ],
   "geometry": {"coordinates":[-82.735207,39.469853],"type":"Point"}
 }

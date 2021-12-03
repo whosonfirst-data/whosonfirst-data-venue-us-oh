@@ -2,61 +2,65 @@
   "id": 689598305,
   "type": "Feature",
   "properties": {
-    "addr:full":"4420 N King Rd Sylvania OH 43560",
-    "addr:housenumber":"4420",
-    "addr:postcode":"43560",
-    "addr:street":"N King Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.72335,41.694887,-83.72335,41.694887",
-    "geom:latitude":41.694887,
-    "geom:longitude":-83.72335,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4420 N King Rd",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "4420 N King Rd Sylvania OH 43560",
+    "addr:housenumber": "4420",
+    "addr:postcode": "43560",
+    "addr:street": "N King Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.723350,41.694887,-83.723350,41.694887",
+    "geom:latitude": 41.694887,
+    "geom:longitude": -83.72335,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4420 N King Rd",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 885 4962",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 885 4962",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0aHmbzGhxFpZXqYeLur1v0_41.694887_-83.723350@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0aHmbzGhxFpZXqYeLur1v0_41.694887_-83.723350@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776183,
-    "wof:geomhash":"07fd30d97482bb6895e0e2fb11dd931b",
-    "wof:hierarchy":[],
-    "wof:id":689598305,
-    "wof:lastmodified":1472639396,
-    "wof:name":"Sylvania Township Police",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461776183,
+    "wof:geomhash": "688e1f8663d67b37b8269fe013e5ade7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689598305
+      }
+    ],
+    "wof:id": 689598305,
+    "wof:lastmodified": 1638566995,
+    "wof:name": "Sylvania Township Police",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.72335,
     41.694887,
     -83.72335,
     41.694887
-],
+  ],
   "geometry": {"coordinates":[-83.72335,41.694887],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706414697,
   "type": "Feature",
   "properties": {
-    "addr:full":"7593 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7593",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.371711,39.318505,-84.371711,39.318505",
-    "geom:latitude":39.318505,
-    "geom:longitude":-84.371711,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7593 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "7593 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7593",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.371711,39.318505,-84.371711,39.318505",
+    "geom:latitude": 39.318505,
+    "geom:longitude": -84.371711,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7593 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 779 1496",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 779 1496",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1N7ZCB89m3u2Iicf4fmIez_39.318505_-84.371711@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1N7ZCB89m3u2Iicf4fmIez_39.318505_-84.371711@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802692,
-    "wof:geomhash":"3420bbfe7aedaa3ef490cffb9864da08",
-    "wof:hierarchy":[],
-    "wof:id":706414697,
-    "wof:lastmodified":1472640006,
-    "wof:name":"Signal Point Hematology",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802692,
+    "wof:geomhash": "196579f3e1baa3fea6213bf926ab5b71",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706414697
+      }
+    ],
+    "wof:id": 706414697,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Signal Point Hematology",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.371711,
     39.318505,
     -84.371711,
     39.318505
-],
+  ],
   "geometry": {"coordinates":[-84.371711,39.318505],"type":"Point"}
 }

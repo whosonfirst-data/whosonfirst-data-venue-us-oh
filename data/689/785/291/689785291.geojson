@@ -2,61 +2,65 @@
   "id": 689785291,
   "type": "Feature",
   "properties": {
-    "addr:full":"875 W Smith Rd Medina OH 44256",
-    "addr:housenumber":"875",
-    "addr:postcode":"44256",
-    "addr:street":"W Smith Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.887439,41.136217,-81.887439,41.136217",
-    "geom:latitude":41.136217,
-    "geom:longitude":-81.887439,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"875 W Smith Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "875 W Smith Rd Medina OH 44256",
+    "addr:housenumber": "875",
+    "addr:postcode": "44256",
+    "addr:street": "W Smith Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.887439,41.136217,-81.887439,41.136217",
+    "geom:latitude": 41.136217,
+    "geom:longitude": -81.887439,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "875 W Smith Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 725 7452",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "truck"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 725 7452",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "truck"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0LFMqpea6k0P7EKgQgOvR1_41.136217_-81.887439@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0LFMqpea6k0P7EKgQgOvR1_41.136217_-81.887439@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781406,
-    "wof:geomhash":"44d7610aa4680736cd17d077cfa4159e",
-    "wof:hierarchy":[],
-    "wof:id":689785291,
-    "wof:lastmodified":1472639855,
-    "wof:name":"General Maintenance & Svc Corp",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "truck"
+    "wof:country": "US",
+    "wof:created": 1461781406,
+    "wof:geomhash": "0737ce75b1de23b1b0c859468e0b4531",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689785291
+      }
+    ],
+    "wof:id": 689785291,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "General Maintenance \u0026 Svc Corp",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "truck"
     ]
-},
+  },
   "bbox": [
     -81.887439,
     41.136217,
     -81.887439,
     41.136217
-],
+  ],
   "geometry": {"coordinates":[-81.887439,41.136217],"type":"Point"}
 }

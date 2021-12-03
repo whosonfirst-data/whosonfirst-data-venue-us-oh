@@ -2,57 +2,61 @@
   "id": 706137301,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Goldenrod Dr Wellston OH 45601",
-    "addr:housenumber":"200",
-    "addr:postcode":"45601",
-    "addr:street":"Goldenrod Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.03398,39.371886,-83.03398,39.371886",
-    "geom:latitude":39.371886,
-    "geom:longitude":-83.03398,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 Goldenrod Dr",
-    "sg:city":"Wellston",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "200 Goldenrod Dr Wellston OH 45601",
+    "addr:housenumber": "200",
+    "addr:postcode": "45601",
+    "addr:street": "Goldenrod Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.033980,39.371886,-83.033980,39.371886",
+    "geom:latitude": 39.371886,
+    "geom:longitude": -83.03398,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 Goldenrod Dr",
+    "sg:city": "Wellston",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 384 2162",
-    "sg:postcode":"45601",
-    "sg:province":"OH",
-    "sg:website":"www.wcs.k12.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7FNHq9Ue06WN82uFVfR9Ga_39.371886_-83.033980@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 384 2162",
+    "sg:postcode": "45601",
+    "sg:province": "OH",
+    "sg:website": "www.wcs.k12.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7FNHq9Ue06WN82uFVfR9Ga_39.371886_-83.033980@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796697,
-    "wof:geomhash":"591921bfa486ccf14a9d1b317d39b551",
-    "wof:hierarchy":[],
-    "wof:id":706137301,
-    "wof:lastmodified":1472639336,
-    "wof:name":"Wellston High School",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461796697,
+    "wof:geomhash": "561274750f2b0afac12ffca5c7cbcc52",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706137301
+      }
+    ],
+    "wof:id": 706137301,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Wellston High School",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.03398,
     39.371886,
     -83.03398,
     39.371886
-],
+  ],
   "geometry": {"coordinates":[-83.03398,39.371886],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689848759,
   "type": "Feature",
   "properties": {
-    "addr:full":"4166 Manchester Ave Perry OH 44081",
-    "addr:housenumber":"4166",
-    "addr:postcode":"44081",
-    "addr:street":"Manchester Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.139183,41.769058,-81.139183,41.769058",
-    "geom:latitude":41.769058,
-    "geom:longitude":-81.139183,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4166 Manchester Ave",
-    "sg:city":"Perry",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "4166 Manchester Ave Perry OH 44081",
+    "addr:housenumber": "4166",
+    "addr:postcode": "44081",
+    "addr:street": "Manchester Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.139183,41.769058,-81.139183,41.769058",
+    "geom:latitude": 41.769058,
+    "geom:longitude": -81.139183,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4166 Manchester Ave",
+    "sg:city": "Perry",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 259 3275",
-    "sg:postcode":"44081",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club",
-        "membership"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 259 3275",
+    "sg:postcode": "44081",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club",
+      "membership"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4V9ysH3Z3WWlOLxJHDpmZk_41.769058_-81.139183@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4V9ysH3Z3WWlOLxJHDpmZk_41.769058_-81.139183@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783286,
-    "wof:geomhash":"fed88dc65ae60d616ecf98b1a213357c",
-    "wof:hierarchy":[],
-    "wof:id":689848759,
-    "wof:lastmodified":1472639937,
-    "wof:name":"National Exchange Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club",
-        "membership"
+    "wof:country": "US",
+    "wof:created": 1461783286,
+    "wof:geomhash": "6f3a6a2c11afd61973dca63a590de58f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689848759
+      }
+    ],
+    "wof:id": 689848759,
+    "wof:lastmodified": 1638567080,
+    "wof:name": "National Exchange Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club",
+      "membership"
     ]
-},
+  },
   "bbox": [
     -81.139183,
     41.769058,
     -81.139183,
     41.769058
-],
+  ],
   "geometry": {"coordinates":[-81.139183,41.769058],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689711539,
   "type": "Feature",
   "properties": {
-    "addr:full":"1716 N Cross St Dover OH 44622",
-    "addr:housenumber":"1716",
-    "addr:postcode":"44622",
-    "addr:street":"N Cross St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.484229,40.538686,-81.484229,40.538686",
-    "geom:latitude":40.538686,
-    "geom:longitude":-81.484229,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1716 N Cross St",
-    "sg:city":"Dover",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1716 N Cross St Dover OH 44622",
+    "addr:housenumber": "1716",
+    "addr:postcode": "44622",
+    "addr:street": "N Cross St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.484229,40.538686,-81.484229,40.538686",
+    "geom:latitude": 40.538686,
+    "geom:longitude": -81.484229,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1716 N Cross St",
+    "sg:city": "Dover",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 364 8868",
-    "sg:postcode":"44622",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 364 8868",
+    "sg:postcode": "44622",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5JmILGUcwXnfNL0CWqgIN0_40.538686_-81.484229@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5JmILGUcwXnfNL0CWqgIN0_40.538686_-81.484229@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779439,
-    "wof:geomhash":"e0673de9fef6ebcbe910ef28c11ca2b4",
-    "wof:hierarchy":[],
-    "wof:id":689711539,
-    "wof:lastmodified":1472639723,
-    "wof:name":"John S Burnham MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461779439,
+    "wof:geomhash": "667ddb79e3cea58e23e4e2f31cd58afd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689711539
+      }
+    ],
+    "wof:id": 689711539,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "John S Burnham MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.484229,
     40.538686,
     -81.484229,
     40.538686
-],
+  ],
   "geometry": {"coordinates":[-81.484229,40.538686],"type":"Point"}
 }

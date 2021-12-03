@@ -2,61 +2,65 @@
   "id": 706089545,
   "type": "Feature",
   "properties": {
-    "addr:full":"24197 Broadway Ave Cleveland OH 44146",
-    "addr:housenumber":"24197",
-    "addr:postcode":"44146",
-    "addr:street":"Broadway Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.503974,41.36219,-81.503974,41.36219",
-    "geom:latitude":41.36219,
-    "geom:longitude":-81.503974,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"24197 Broadway Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Furniture",
-            "type":"Retail Goods"
-        }
+    "addr:full": "24197 Broadway Ave Cleveland OH 44146",
+    "addr:housenumber": "24197",
+    "addr:postcode": "44146",
+    "addr:street": "Broadway Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.503974,41.362190,-81.503974,41.362190",
+    "geom:latitude": 41.36219,
+    "geom:longitude": -81.503974,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "24197 Broadway Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Furniture",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 786 1919",
-    "sg:postcode":"44146",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mattress"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 786 1919",
+    "sg:postcode": "44146",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mattress"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Out6Tqb1Laic6LNaiK3l8_41.362190_-81.503974@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Out6Tqb1Laic6LNaiK3l8_41.362190_-81.503974@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795563,
-    "wof:geomhash":"f38013dd84b5ff638e0f87384ef0b927",
-    "wof:hierarchy":[],
-    "wof:id":706089545,
-    "wof:lastmodified":1472639195,
-    "wof:name":"Mattress Showcase",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mattress"
+    "wof:country": "US",
+    "wof:created": 1461795563,
+    "wof:geomhash": "3e1a0fed19c994690a1bed1b53466271",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706089545
+      }
+    ],
+    "wof:id": 706089545,
+    "wof:lastmodified": 1638566984,
+    "wof:name": "Mattress Showcase",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mattress"
     ]
-},
+  },
   "bbox": [
     -81.503974,
     41.36219,
     -81.503974,
     41.36219
-],
+  ],
   "geometry": {"coordinates":[-81.503974,41.36219],"type":"Point"}
 }

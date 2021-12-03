@@ -2,61 +2,65 @@
   "id": 705899139,
   "type": "Feature",
   "properties": {
-    "addr:full":"851 Niles Rd SE Warren OH 44483",
-    "addr:housenumber":"851",
-    "addr:postcode":"44483",
-    "addr:street":"Niles Rd Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.806786,41.232487,-80.806786,41.232487",
-    "geom:latitude":41.232487,
-    "geom:longitude":-80.806786,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"851 Niles Rd SE",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "851 Niles Rd SE Warren OH 44483",
+    "addr:housenumber": "851",
+    "addr:postcode": "44483",
+    "addr:street": "Niles Rd Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.806786,41.232487,-80.806786,41.232487",
+    "geom:latitude": 41.232487,
+    "geom:longitude": -80.806786,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "851 Niles Rd SE",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 399 6665",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "passenger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 399 6665",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "passenger"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ou9oJ957Y4AflyuW4g9j8_41.232487_-80.806786@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ou9oJ957Y4AflyuW4g9j8_41.232487_-80.806786@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791391,
-    "wof:geomhash":"8c4aafd222cef52e4bc6e102f46226d8",
-    "wof:hierarchy":[],
-    "wof:id":705899139,
-    "wof:lastmodified":1472639549,
-    "wof:name":"Clemente Ambulance",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "passenger"
+    "wof:country": "US",
+    "wof:created": 1461791391,
+    "wof:geomhash": "1455ed32345da8ae7b78a90dc56304d8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705899139
+      }
+    ],
+    "wof:id": 705899139,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Clemente Ambulance",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "passenger"
     ]
-},
+  },
   "bbox": [
     -80.806786,
     41.232487,
     -80.806786,
     41.232487
-],
+  ],
   "geometry": {"coordinates":[-80.806786,41.232487],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706151563,
   "type": "Feature",
   "properties": {
-    "addr:full":"4095 Hoover Rd Grove City OH 43123",
-    "addr:housenumber":"4095",
-    "addr:postcode":"43123",
-    "addr:street":"Hoover Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.069608,39.881046,-83.069608,39.881046",
-    "geom:latitude":39.881046,
-    "geom:longitude":-83.069608,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4095 Hoover Rd",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "4095 Hoover Rd Grove City OH 43123",
+    "addr:housenumber": "4095",
+    "addr:postcode": "43123",
+    "addr:street": "Hoover Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.069608,39.881046,-83.069608,39.881046",
+    "geom:latitude": 39.881046,
+    "geom:longitude": -83.069608,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4095 Hoover Rd",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 875 4524",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 875 4524",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6W8q3zQjjWj3BuuX5KMbNc_39.881046_-83.069608@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6W8q3zQjjWj3BuuX5KMbNc_39.881046_-83.069608@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797014,
-    "wof:geomhash":"0551c7e5b638c1a74909fcaaeebd5293",
-    "wof:hierarchy":[],
-    "wof:id":706151563,
-    "wof:lastmodified":1472639365,
-    "wof:name":"Teen Dance Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:country": "US",
+    "wof:created": 1461797014,
+    "wof:geomhash": "85b7f6f6d66180a7decc54040523930a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706151563
+      }
+    ],
+    "wof:id": 706151563,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Teen Dance Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -83.069608,
     39.881046,
     -83.069608,
     39.881046
-],
+  ],
   "geometry": {"coordinates":[-83.069608,39.881046],"type":"Point"}
 }

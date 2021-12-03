@@ -2,64 +2,68 @@
   "id": 705703665,
   "type": "Feature",
   "properties": {
-    "addr:full":"2365 Edison Blvd Twinsburg OH 44087",
-    "addr:housenumber":"2365",
-    "addr:postcode":"44087",
-    "addr:street":"Edison Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.437158,41.294262,-81.437158,41.294262",
-    "geom:latitude":41.294262,
-    "geom:longitude":-81.437158,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2365 Edison Blvd",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2365 Edison Blvd Twinsburg OH 44087",
+    "addr:housenumber": "2365",
+    "addr:postcode": "44087",
+    "addr:street": "Edison Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.437158,41.294262,-81.437158,41.294262",
+    "geom:latitude": 41.294262,
+    "geom:longitude": -81.437158,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2365 Edison Blvd",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 425 3344",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 425 3344",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "sg:website":"www.akronchildrens.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1E9Q1iqoLQBCOAkbrhO43O_41.294262_-81.437158@1294180530"
+    "sg:website": "www.akronchildrens.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1E9Q1iqoLQBCOAkbrhO43O_41.294262_-81.437158@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786669,
-    "wof:geomhash":"a7d1640349e4f732cd2b7851cbedd424",
-    "wof:hierarchy":[],
-    "wof:id":705703665,
-    "wof:lastmodified":1472638303,
-    "wof:name":"Children's Hospital Phys Assoc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461786669,
+    "wof:geomhash": "029dfb7a3f48fedba7b8ccbd75ffe2db",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705703665
+      }
+    ],
+    "wof:id": 705703665,
+    "wof:lastmodified": 1638566921,
+    "wof:name": "Children's Hospital Phys Assoc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.437158,
     41.294262,
     -81.437158,
     41.294262
-],
+  ],
   "geometry": {"coordinates":[-81.437158,41.294262],"type":"Point"}
 }

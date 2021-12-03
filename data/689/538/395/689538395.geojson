@@ -2,61 +2,65 @@
   "id": 689538395,
   "type": "Feature",
   "properties": {
-    "addr:full":"7840 Richardson Rd Groveport OH 43125",
-    "addr:housenumber":"7840",
-    "addr:postcode":"43125",
-    "addr:street":"Richardson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.869736,39.816361,-82.869736,39.816361",
-    "geom:latitude":39.816361,
-    "geom:longitude":-82.869736,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7840 Richardson Rd",
-    "sg:city":"Groveport",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "7840 Richardson Rd Groveport OH 43125",
+    "addr:housenumber": "7840",
+    "addr:postcode": "43125",
+    "addr:street": "Richardson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.869736,39.816361,-82.869736,39.816361",
+    "geom:latitude": 39.816361,
+    "geom:longitude": -82.869736,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7840 Richardson Rd",
+    "sg:city": "Groveport",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 836 3769",
-    "sg:postcode":"43125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 836 3769",
+    "sg:postcode": "43125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_10yCGKuuhnIdNY6dwpMPqe_39.816361_-82.869736@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_10yCGKuuhnIdNY6dwpMPqe_39.816361_-82.869736@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774306,
-    "wof:geomhash":"1f69a0fa65367e78514941efb64ccb1f",
-    "wof:hierarchy":[],
-    "wof:id":689538395,
-    "wof:lastmodified":1472639196,
-    "wof:name":"Groveport Church Of God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461774306,
+    "wof:geomhash": "b28ee898bb1066024cc18b93e2217fcf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689538395
+      }
+    ],
+    "wof:id": 689538395,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "Groveport Church Of God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.869736,
     39.816361,
     -82.869736,
     39.816361
-],
+  ],
   "geometry": {"coordinates":[-82.869736,39.816361],"type":"Point"}
 }

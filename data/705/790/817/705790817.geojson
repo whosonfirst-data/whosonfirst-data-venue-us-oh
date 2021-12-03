@@ -2,61 +2,65 @@
   "id": 705790817,
   "type": "Feature",
   "properties": {
-    "addr:full":"52705 Washington St Beallsville OH 43716",
-    "addr:housenumber":"52705",
-    "addr:postcode":"43716",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.037384,39.84728,-81.037384,39.84728",
-    "geom:latitude":39.84728,
-    "geom:longitude":-81.037384,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"52705 Washington St",
-    "sg:city":"Beallsville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "52705 Washington St Beallsville OH 43716",
+    "addr:housenumber": "52705",
+    "addr:postcode": "43716",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.037384,39.847280,-81.037384,39.847280",
+    "geom:latitude": 39.84728,
+    "geom:longitude": -81.037384,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "52705 Washington St",
+    "sg:city": "Beallsville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 926 9151",
-    "sg:postcode":"43716",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 926 9151",
+    "sg:postcode": "43716",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_79BvYTGiNgxcfKpmqjnziw_39.847280_-81.037384@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_79BvYTGiNgxcfKpmqjnziw_39.847280_-81.037384@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788816,
-    "wof:geomhash":"55594ea8c2b54c4d349da60beb2abd2b",
-    "wof:hierarchy":[],
-    "wof:id":705790817,
-    "wof:lastmodified":1472639267,
-    "wof:name":"Beallsville Church Of God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461788816,
+    "wof:geomhash": "a7499064bea4815c9229e093dbb9cc29",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705790817
+      }
+    ],
+    "wof:id": 705790817,
+    "wof:lastmodified": 1638566983,
+    "wof:name": "Beallsville Church Of God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.037384,
     39.84728,
     -81.037384,
     39.84728
-],
+  ],
   "geometry": {"coordinates":[-81.037384,39.84728],"type":"Point"}
 }

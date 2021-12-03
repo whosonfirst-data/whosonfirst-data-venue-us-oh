@@ -2,61 +2,65 @@
   "id": 705897597,
   "type": "Feature",
   "properties": {
-    "addr:full":"4332 Kent Rd Stow OH 44224",
-    "addr:housenumber":"4332",
-    "addr:postcode":"44224",
-    "addr:street":"Kent Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.412492,41.157572,-81.412492,41.157572",
-    "geom:latitude":41.157572,
-    "geom:longitude":-81.412492,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4332 Kent Rd",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "4332 Kent Rd Stow OH 44224",
+    "addr:housenumber": "4332",
+    "addr:postcode": "44224",
+    "addr:street": "Kent Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.412492,41.157572,-81.412492,41.157572",
+    "geom:latitude": 41.157572,
+    "geom:longitude": -81.412492,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4332 Kent Rd",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 688 0686",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 688 0686",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ZlAqAmLvSilREf5pmH1pn_41.157572_-81.412492@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ZlAqAmLvSilREf5pmH1pn_41.157572_-81.412492@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791346,
-    "wof:geomhash":"20f2bcd56d3d172fac9ad16f1e5925d7",
-    "wof:hierarchy":[],
-    "wof:id":705897597,
-    "wof:lastmodified":1472639549,
-    "wof:name":"K-Mart Stores",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461791346,
+    "wof:geomhash": "b46065e6515e30418f913f7388269fd2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705897597
+      }
+    ],
+    "wof:id": 705897597,
+    "wof:lastmodified": 1638567031,
+    "wof:name": "K-Mart Stores",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -81.412492,
     41.157572,
     -81.412492,
     41.157572
-],
+  ],
   "geometry": {"coordinates":[-81.412492,41.157572],"type":"Point"}
 }

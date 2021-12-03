@@ -2,61 +2,65 @@
   "id": 705900647,
   "type": "Feature",
   "properties": {
-    "addr:full":"122 S Main St Continental OH 45831",
-    "addr:housenumber":"122",
-    "addr:postcode":"45831",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.265883,41.097047,-84.265883,41.097047",
-    "geom:latitude":41.097047,
-    "geom:longitude":-84.265883,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"122 S Main St",
-    "sg:city":"Continental",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "122 S Main St Continental OH 45831",
+    "addr:housenumber": "122",
+    "addr:postcode": "45831",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.265883,41.097047,-84.265883,41.097047",
+    "geom:latitude": 41.097047,
+    "geom:longitude": -84.265883,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "122 S Main St",
+    "sg:city": "Continental",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 596 3890",
-    "sg:postcode":"45831",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 596 3890",
+    "sg:postcode": "45831",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2DmKWhhtmyYpLLUk4UfCdu_41.097047_-84.265883@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2DmKWhhtmyYpLLUk4UfCdu_41.097047_-84.265883@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791428,
-    "wof:geomhash":"888b1e4355a6885e270b9ddd474bd767",
-    "wof:hierarchy":[],
-    "wof:id":705900647,
-    "wof:lastmodified":1472639550,
-    "wof:name":"Continental IGA",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461791428,
+    "wof:geomhash": "28e50023adfdb04ecc89577a17fc9134",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705900647
+      }
+    ],
+    "wof:id": 705900647,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Continental IGA",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -84.265883,
     41.097047,
     -84.265883,
     41.097047
-],
+  ],
   "geometry": {"coordinates":[-84.265883,41.097047],"type":"Point"}
 }

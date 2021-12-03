@@ -2,61 +2,65 @@
   "id": 705705121,
   "type": "Feature",
   "properties": {
-    "addr:full":"4248 Maple St New Boston OH 45662",
-    "addr:housenumber":"4248",
-    "addr:postcode":"45662",
-    "addr:street":"Maple St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.932613,38.759501,-82.932613,38.759501",
-    "geom:latitude":38.759501,
-    "geom:longitude":-82.932613,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4248 Maple St",
-    "sg:city":"New Boston",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "4248 Maple St New Boston OH 45662",
+    "addr:housenumber": "4248",
+    "addr:postcode": "45662",
+    "addr:street": "Maple St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.932613,38.759501,-82.932613,38.759501",
+    "geom:latitude": 38.759501,
+    "geom:longitude": -82.932613,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4248 Maple St",
+    "sg:city": "New Boston",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 456 4281",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 456 4281",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6GhSSwzKoDMPuOqNKkLQcH_38.759501_-82.932613@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6GhSSwzKoDMPuOqNKkLQcH_38.759501_-82.932613@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786734,
-    "wof:geomhash":"24d45e20bc619dfc9a5bb8d6d828e80b",
-    "wof:hierarchy":[],
-    "wof:id":705705121,
-    "wof:lastmodified":1472638268,
-    "wof:name":"Chris F Meenach",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461786734,
+    "wof:geomhash": "9341f917a6623f5c5e9656329e1a4738",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705705121
+      }
+    ],
+    "wof:id": 705705121,
+    "wof:lastmodified": 1638566922,
+    "wof:name": "Chris F Meenach",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -82.932613,
     38.759501,
     -82.932613,
     38.759501
-],
+  ],
   "geometry": {"coordinates":[-82.932613,38.759501],"type":"Point"}
 }

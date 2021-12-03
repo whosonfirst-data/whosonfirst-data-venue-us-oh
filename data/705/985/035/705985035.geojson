@@ -2,57 +2,61 @@
   "id": 705985035,
   "type": "Feature",
   "properties": {
-    "addr:full":"4015 Medina Rd Medina OH 44256",
-    "addr:housenumber":"4015",
-    "addr:postcode":"44256",
-    "addr:street":"Medina Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.831158,41.13828,-81.831158,41.13828",
-    "geom:latitude":41.13828,
-    "geom:longitude":-81.831158,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4015 Medina Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "4015 Medina Rd Medina OH 44256",
+    "addr:housenumber": "4015",
+    "addr:postcode": "44256",
+    "addr:street": "Medina Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.831158,41.138280,-81.831158,41.138280",
+    "geom:latitude": 41.13828,
+    "geom:longitude": -81.831158,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4015 Medina Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 764 3131",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:website":"www.westernreservebank.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6kj2J2zTmuMEUnojzyO3rH_41.138280_-81.831158@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 764 3131",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:website": "www.westernreservebank.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6kj2J2zTmuMEUnojzyO3rH_41.138280_-81.831158@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793269,
-    "wof:geomhash":"828494b12bcb96fc036998971da92ecc",
-    "wof:hierarchy":[],
-    "wof:id":705985035,
-    "wof:lastmodified":1472639773,
-    "wof:name":"Western Reserve Bank",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461793269,
+    "wof:geomhash": "39e5a9f69c2caae8867c2040b728aa71",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705985035
+      }
+    ],
+    "wof:id": 705985035,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Western Reserve Bank",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.831158,
     41.13828,
     -81.831158,
     41.13828
-],
+  ],
   "geometry": {"coordinates":[-81.831158,41.13828],"type":"Point"}
 }

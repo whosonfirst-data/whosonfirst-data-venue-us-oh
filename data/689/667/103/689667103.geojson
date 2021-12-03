@@ -2,61 +2,65 @@
   "id": 689667103,
   "type": "Feature",
   "properties": {
-    "addr:full":"7784 Brookside Dr Cleveland OH 44138",
-    "addr:housenumber":"7784",
-    "addr:postcode":"44138",
-    "addr:street":"Brookside Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.904946,41.378009,-81.904946,41.378009",
-    "geom:latitude":41.378009,
-    "geom:longitude":-81.904946,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7784 Brookside Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "7784 Brookside Dr Cleveland OH 44138",
+    "addr:housenumber": "7784",
+    "addr:postcode": "44138",
+    "addr:street": "Brookside Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.904946,41.378009,-81.904946,41.378009",
+    "geom:latitude": 41.378009,
+    "geom:longitude": -81.904946,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7784 Brookside Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 235 3259",
-    "sg:postcode":"44138",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 235 3259",
+    "sg:postcode": "44138",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0O3bs9t9JNrjlV7noK8l0u_41.378009_-81.904946@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0O3bs9t9JNrjlV7noK8l0u_41.378009_-81.904946@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778301,
-    "wof:geomhash":"98687f3abb9a4220c2bcf97e356b23ba",
-    "wof:hierarchy":[],
-    "wof:id":689667103,
-    "wof:lastmodified":1472639566,
-    "wof:name":"Charles Hosutt",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461778301,
+    "wof:geomhash": "68345e23a4f47976dd6ecaa1787cb9d1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689667103
+      }
+    ],
+    "wof:id": 689667103,
+    "wof:lastmodified": 1638567011,
+    "wof:name": "Charles Hosutt",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -81.904946,
     41.378009,
     -81.904946,
     41.378009
-],
+  ],
   "geometry": {"coordinates":[-81.904946,41.378009],"type":"Point"}
 }

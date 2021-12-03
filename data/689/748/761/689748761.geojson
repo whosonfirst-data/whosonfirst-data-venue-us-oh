@@ -2,61 +2,65 @@
   "id": 689748761,
   "type": "Feature",
   "properties": {
-    "addr:full":"763 Delaware Ave Marion OH 43302",
-    "addr:housenumber":"763",
-    "addr:postcode":"43302",
-    "addr:street":"Delaware Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.124929,40.575373,-83.124929,40.575373",
-    "geom:latitude":40.575373,
-    "geom:longitude":-83.124929,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"763 Delaware Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "763 Delaware Ave Marion OH 43302",
+    "addr:housenumber": "763",
+    "addr:postcode": "43302",
+    "addr:street": "Delaware Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.124929,40.575373,-83.124929,40.575373",
+    "geom:latitude": 40.575373,
+    "geom:longitude": -83.124929,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "763 Delaware Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 387 4405",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 387 4405",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_18YS8K0QbZbIY8wc8lNUNc_40.575373_-83.124929@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_18YS8K0QbZbIY8wc8lNUNc_40.575373_-83.124929@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780421,
-    "wof:geomhash":"16b4ad692e13203302eb0cd6355f265a",
-    "wof:hierarchy":[],
-    "wof:id":689748761,
-    "wof:lastmodified":1472639798,
-    "wof:name":"St Mary's Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461780421,
+    "wof:geomhash": "cd69c4e4619dba36c7736af015e20c64",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689748761
+      }
+    ],
+    "wof:id": 689748761,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "St Mary's Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -83.124929,
     40.575373,
     -83.124929,
     40.575373
-],
-  "geometry": {"coordinates":[-83.12492899999999,40.575373],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.124929,40.575373],"type":"Point"}
 }

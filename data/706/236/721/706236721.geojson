@@ -2,61 +2,65 @@
   "id": 706236721,
   "type": "Feature",
   "properties": {
-    "addr:full":"1306 Findlay St Portsmouth OH 45662",
-    "addr:housenumber":"1306",
-    "addr:postcode":"45662",
-    "addr:street":"Findlay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.992553,38.741693,-82.992553,38.741693",
-    "geom:latitude":38.741693,
-    "geom:longitude":-82.992553,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1306 Findlay St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1306 Findlay St Portsmouth OH 45662",
+    "addr:housenumber": "1306",
+    "addr:postcode": "45662",
+    "addr:street": "Findlay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.992553,38.741693,-82.992553,38.741693",
+    "geom:latitude": 38.741693,
+    "geom:longitude": -82.992553,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1306 Findlay St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 353 9060",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 353 9060",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1SMDrHeOqx4XJfmiJV1TRn_38.741693_-82.992553@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1SMDrHeOqx4XJfmiJV1TRn_38.741693_-82.992553@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798867,
-    "wof:geomhash":"fdb90d6cb2bbfaa756a09ddb19fb03c0",
-    "wof:hierarchy":[],
-    "wof:id":706236721,
-    "wof:lastmodified":1472639578,
-    "wof:name":"Kingdom Builders Evangelistic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461798867,
+    "wof:geomhash": "e7fa3628a2df201076876f756a2b3123",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706236721
+      }
+    ],
+    "wof:id": 706236721,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Kingdom Builders Evangelistic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.992553,
     38.741693,
     -82.992553,
     38.741693
-],
+  ],
   "geometry": {"coordinates":[-82.992553,38.741693],"type":"Point"}
 }

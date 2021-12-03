@@ -2,67 +2,71 @@
   "id": 706328723,
   "type": "Feature",
   "properties": {
-    "addr:full":"3100 Exon Ave Cincinnati OH 45241",
-    "addr:housenumber":"",
-    "addr:postcode":"3100;45241",
-    "addr:street":"Exon Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.422849,39.260331,-84.422849,39.260331",
-    "geom:latitude":39.260331,
-    "geom:longitude":-84.422849,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3100 Exon Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3100 Exon Ave Cincinnati OH 45241",
+    "addr:housenumber": "",
+    "addr:postcode": "3100;45241",
+    "addr:street": "Exon Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.422849,39.260331,-84.422849,39.260331",
+    "geom:latitude": 39.260331,
+    "geom:longitude": -84.422849,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3100 Exon Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 563 2033",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "delivery",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 563 2033",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "delivery",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0YCghnCXE4qnlrlM8av5lH_39.260331_-84.422849@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0YCghnCXE4qnlrlM8av5lH_39.260331_-84.422849@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800961,
-    "wof:geomhash":"8086f4d46062759901e5f4246dec7c7d",
-    "wof:hierarchy":[],
-    "wof:id":706328723,
-    "wof:lastmodified":1472639821,
-    "wof:name":"Prestige Delivery Systems Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "delivery",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461800961,
+    "wof:geomhash": "b155594928205cc68982f41eb742317b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706328723
+      }
+    ],
+    "wof:id": 706328723,
+    "wof:lastmodified": 1638567089,
+    "wof:name": "Prestige Delivery Systems Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "delivery",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.422849,
     39.260331,
     -84.422849,
     39.260331
-],
+  ],
   "geometry": {"coordinates":[-84.422849,39.260331],"type":"Point"}
 }

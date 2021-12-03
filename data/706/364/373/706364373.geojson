@@ -2,63 +2,67 @@
   "id": 706364373,
   "type": "Feature",
   "properties": {
-    "addr:full":"415 Home St Georgetown OH 45121",
-    "addr:housenumber":"415",
-    "addr:postcode":"45121",
-    "addr:street":"Home St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.897728,38.860418,-83.897728,38.860418",
-    "geom:latitude":38.860418,
-    "geom:longitude":-83.897728,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"415 Home St",
-    "sg:city":"Georgetown",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "415 Home St Georgetown OH 45121",
+    "addr:housenumber": "415",
+    "addr:postcode": "45121",
+    "addr:street": "Home St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.897728,38.860418,-83.897728,38.860418",
+    "geom:latitude": 38.860418,
+    "geom:longitude": -83.897728,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "415 Home St",
+    "sg:city": "Georgetown",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 378 0031",
-    "sg:postcode":"45121",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 378 0031",
+    "sg:postcode": "45121",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Ce6oIHogczgk9gu2N6go3_38.860418_-83.897728@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Ce6oIHogczgk9gu2N6go3_38.860418_-83.897728@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801702,
-    "wof:geomhash":"c6a029261964ba11baea6a76b5a2bf1f",
-    "wof:hierarchy":[],
-    "wof:id":706364373,
-    "wof:lastmodified":1472639926,
-    "wof:name":"Howard Eye Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461801702,
+    "wof:geomhash": "2e4a917cb515f4674d036bcb5622aa38",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706364373
+      }
+    ],
+    "wof:id": 706364373,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Howard Eye Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.897728,
     38.860418,
     -83.897728,
     38.860418
-],
+  ],
   "geometry": {"coordinates":[-83.897728,38.860418],"type":"Point"}
 }

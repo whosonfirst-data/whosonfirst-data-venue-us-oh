@@ -2,63 +2,67 @@
   "id": 706451583,
   "type": "Feature",
   "properties": {
-    "addr:full":"711 Francis St Zanesville OH 43701",
-    "addr:housenumber":"711",
-    "addr:postcode":"43701",
-    "addr:street":"Francis St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.011499,39.969005,-82.011499,39.969005",
-    "geom:latitude":39.969005,
-    "geom:longitude":-82.011499,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"711 Francis St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "711 Francis St Zanesville OH 43701",
+    "addr:housenumber": "711",
+    "addr:postcode": "43701",
+    "addr:street": "Francis St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.011499,39.969005,-82.011499,39.969005",
+    "geom:latitude": 39.969005,
+    "geom:longitude": -82.011499,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "711 Francis St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 6211",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 6211",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Hpj405cMSMvCTcK3trCVb_39.969005_-82.011499@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Hpj405cMSMvCTcK3trCVb_39.969005_-82.011499@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803478,
-    "wof:geomhash":"455566b04adc4e08f7e4e3a24b885fd0",
-    "wof:hierarchy":[],
-    "wof:id":706451583,
-    "wof:lastmodified":1472640032,
-    "wof:name":"T C Auto Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461803478,
+    "wof:geomhash": "1eb7e028f60e5c819ad28e2a6c4d69f6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706451583
+      }
+    ],
+    "wof:id": 706451583,
+    "wof:lastmodified": 1638567128,
+    "wof:name": "T C Auto Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -82.011499,
     39.969005,
     -82.011499,
     39.969005
-],
+  ],
   "geometry": {"coordinates":[-82.011499,39.969005],"type":"Point"}
 }

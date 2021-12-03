@@ -2,61 +2,65 @@
   "id": 706109923,
   "type": "Feature",
   "properties": {
-    "addr:full":"1244 5th St SW Warren OH 44485",
-    "addr:housenumber":"1244",
-    "addr:postcode":"44485",
-    "addr:street":"5Th St Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.838745,41.22157,-80.838745,41.22157",
-    "geom:latitude":41.22157,
-    "geom:longitude":-80.838745,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1244 5th St SW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "1244 5th St SW Warren OH 44485",
+    "addr:housenumber": "1244",
+    "addr:postcode": "44485",
+    "addr:street": "5Th St Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.838745,41.221570,-80.838745,41.221570",
+    "geom:latitude": 41.22157,
+    "geom:longitude": -80.838745,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1244 5th St SW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 393 8900",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 393 8900",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6mq1XT4ySketQ961XtsVLe_41.221570_-80.838745@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6mq1XT4ySketQ961XtsVLe_41.221570_-80.838745@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795987,
-    "wof:geomhash":"c9f3950a8f0e8f4ce3ab0599e9ed7614",
-    "wof:hierarchy":[],
-    "wof:id":706109923,
-    "wof:lastmodified":1472639266,
-    "wof:name":"Hampshire House",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461795987,
+    "wof:geomhash": "bdd0f08ccae33a8e8d50b8bce43d9341",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706109923
+      }
+    ],
+    "wof:id": 706109923,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "Hampshire House",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -80.838745,
     41.22157,
     -80.838745,
     41.22157
-],
+  ],
   "geometry": {"coordinates":[-80.838745,41.22157],"type":"Point"}
 }

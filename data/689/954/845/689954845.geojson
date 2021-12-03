@@ -2,61 +2,65 @@
   "id": 689954845,
   "type": "Feature",
   "properties": {
-    "addr:full":"33 S Main St Roseville OH 43777",
-    "addr:housenumber":"33",
-    "addr:postcode":"43777",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.072981,39.803305,-82.072981,39.803305",
-    "geom:latitude":39.803305,
-    "geom:longitude":-82.072981,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"33 S Main St",
-    "sg:city":"Roseville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "33 S Main St Roseville OH 43777",
+    "addr:housenumber": "33",
+    "addr:postcode": "43777",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.072981,39.803305,-82.072981,39.803305",
+    "geom:latitude": 39.803305,
+    "geom:longitude": -82.072981,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "33 S Main St",
+    "sg:city": "Roseville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 697 7777",
-    "sg:postcode":"43777",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 697 7777",
+    "sg:postcode": "43777",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6HNxJnUkxxhBtN1QZFZRtT_39.803305_-82.072981@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6HNxJnUkxxhBtN1QZFZRtT_39.803305_-82.072981@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785991,
-    "wof:geomhash":"2cd16629f297d7bd9aa483901731cc56",
-    "wof:hierarchy":[],
-    "wof:id":689954845,
-    "wof:lastmodified":1472640127,
-    "wof:name":"Lanning-Ross Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461785991,
+    "wof:geomhash": "cb25eda988850624008387abcb2d83de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689954845
+      }
+    ],
+    "wof:id": 689954845,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Lanning-Ross Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -82.072981,
     39.803305,
     -82.072981,
     39.803305
-],
+  ],
   "geometry": {"coordinates":[-82.072981,39.803305],"type":"Point"}
 }

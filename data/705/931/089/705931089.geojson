@@ -2,63 +2,67 @@
   "id": 705931089,
   "type": "Feature",
   "properties": {
-    "addr:full":"7318 International Dr Holland OH 43528",
-    "addr:housenumber":"7318",
-    "addr:postcode":"43528",
-    "addr:street":"International Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.716031,41.609301,-83.716031,41.609301",
-    "geom:latitude":41.609301,
-    "geom:longitude":-83.716031,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7318 International Dr",
-    "sg:city":"Holland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "7318 International Dr Holland OH 43528",
+    "addr:housenumber": "7318",
+    "addr:postcode": "43528",
+    "addr:street": "International Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.716031,41.609301,-83.716031,41.609301",
+    "geom:latitude": 41.609301,
+    "geom:longitude": -83.716031,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7318 International Dr",
+    "sg:city": "Holland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 868 6662",
-    "sg:postcode":"43528",
-    "sg:province":"OH",
-    "sg:tags":[
-        "broker",
-        "customs"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 868 6662",
+    "sg:postcode": "43528",
+    "sg:province": "OH",
+    "sg:tags": [
+      "broker",
+      "customs"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Cgj3euv1awx2rVoDVxwe2_41.609301_-83.716031@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Cgj3euv1awx2rVoDVxwe2_41.609301_-83.716031@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792082,
-    "wof:geomhash":"23fd5d80a8dcdedbf8b16f457be07503",
-    "wof:hierarchy":[],
-    "wof:id":705931089,
-    "wof:lastmodified":1472639649,
-    "wof:name":"UPS Supply Chain Solutions",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "broker",
-        "customs"
+    "wof:country": "US",
+    "wof:created": 1461792082,
+    "wof:geomhash": "398e363636f2eb8e3ef0235979828457",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705931089
+      }
+    ],
+    "wof:id": 705931089,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "UPS Supply Chain Solutions",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "broker",
+      "customs"
     ]
-},
+  },
   "bbox": [
     -83.716031,
     41.609301,
     -83.716031,
     41.609301
-],
+  ],
   "geometry": {"coordinates":[-83.716031,41.609301],"type":"Point"}
 }

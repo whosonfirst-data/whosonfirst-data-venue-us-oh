@@ -2,56 +2,60 @@
   "id": 706638733,
   "type": "Feature",
   "properties": {
-    "addr:full":"777 Ohio Pike Cincinnati OH 45245",
-    "addr:housenumber":"777",
-    "addr:postcode":"45245",
-    "addr:street":"Ohio Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.283324,39.064763,-84.283324,39.064763",
-    "geom:latitude":39.064763,
-    "geom:longitude":-84.283324,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"777 Ohio Pike",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "777 Ohio Pike Cincinnati OH 45245",
+    "addr:housenumber": "777",
+    "addr:postcode": "45245",
+    "addr:street": "Ohio Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.283324,39.064763,-84.283324,39.064763",
+    "geom:latitude": 39.064763,
+    "geom:longitude": -84.283324,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "777 Ohio Pike",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 752 9500",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_71jUIDUkrtSLmUB0kFsBzc_39.064763_-84.283324@1303262759"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 752 9500",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_71jUIDUkrtSLmUB0kFsBzc_39.064763_-84.283324@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807547,
-    "wof:geomhash":"232c9ae44bfa521e3ad79c031d8f8561",
-    "wof:hierarchy":[],
-    "wof:id":706638733,
-    "wof:lastmodified":1472640256,
-    "wof:name":"Haas Automotive",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461807547,
+    "wof:geomhash": "0bd86997be1911071b4367a2be3acbe0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706638733
+      }
+    ],
+    "wof:id": 706638733,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Haas Automotive",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.283324,
     39.064763,
     -84.283324,
     39.064763
-],
-  "geometry": {"coordinates":[-84.28332399999999,39.064763],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.283324,39.064763],"type":"Point"}
 }

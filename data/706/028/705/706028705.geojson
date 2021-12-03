@@ -2,61 +2,65 @@
   "id": 706028705,
   "type": "Feature",
   "properties": {
-    "addr:full":"15228 Madison Rd Middlefield OH 44062",
-    "addr:housenumber":"15228",
-    "addr:postcode":"44062",
-    "addr:street":"Madison Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.051282,41.456996,-81.051282,41.456996",
-    "geom:latitude":41.456996,
-    "geom:longitude":-81.051282,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15228 Madison Rd",
-    "sg:city":"Middlefield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "15228 Madison Rd Middlefield OH 44062",
+    "addr:housenumber": "15228",
+    "addr:postcode": "44062",
+    "addr:street": "Madison Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.051282,41.456996,-81.051282,41.456996",
+    "geom:latitude": 41.456996,
+    "geom:longitude": -81.051282,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15228 Madison Rd",
+    "sg:city": "Middlefield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 632 1115",
-    "sg:postcode":"44062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 632 1115",
+    "sg:postcode": "44062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0AWdhv1RQpUrYhnknjT0oj_41.456996_-81.051282@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0AWdhv1RQpUrYhnknjT0oj_41.456996_-81.051282@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794185,
-    "wof:geomhash":"0e20b44d9b2fe93821494683e28d2c9b",
-    "wof:hierarchy":[],
-    "wof:id":706028705,
-    "wof:lastmodified":1472638707,
-    "wof:name":"Middlefield Trustees",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461794185,
+    "wof:geomhash": "ca9268865a2aae3c370bc33203e078f1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706028705
+      }
+    ],
+    "wof:id": 706028705,
+    "wof:lastmodified": 1638566951,
+    "wof:name": "Middlefield Trustees",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -81.051282,
     41.456996,
     -81.051282,
     41.456996
-],
+  ],
   "geometry": {"coordinates":[-81.051282,41.456996],"type":"Point"}
 }

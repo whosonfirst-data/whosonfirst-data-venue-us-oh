@@ -2,61 +2,65 @@
   "id": 705808987,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 Hickory St Clyde OH 43410",
-    "addr:housenumber":"150",
-    "addr:postcode":"43410",
-    "addr:street":"Hickory St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.987157,41.300905,-82.987157,41.300905",
-    "geom:latitude":41.300905,
-    "geom:longitude":-82.987157,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"150 Hickory St",
-    "sg:city":"Clyde",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "150 Hickory St Clyde OH 43410",
+    "addr:housenumber": "150",
+    "addr:postcode": "43410",
+    "addr:street": "Hickory St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.987157,41.300905,-82.987157,41.300905",
+    "geom:latitude": 41.300905,
+    "geom:longitude": -82.987157,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "150 Hickory St",
+    "sg:city": "Clyde",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 547 7393",
-    "sg:postcode":"43410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 547 7393",
+    "sg:postcode": "43410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5p2mw0G26Th6AzPov8429o_41.300905_-82.987157@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5p2mw0G26Th6AzPov8429o_41.300905_-82.987157@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789211,
-    "wof:geomhash":"8f2c901f7d80106c7224ecd9c2e6b48d",
-    "wof:hierarchy":[],
-    "wof:id":705808987,
-    "wof:lastmodified":1472639317,
-    "wof:name":"Clyde Manor Apt",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461789211,
+    "wof:geomhash": "b7dd048fb9742018381748f785a69b18",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705808987
+      }
+    ],
+    "wof:id": 705808987,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Clyde Manor Apt",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -82.987157,
     41.300905,
     -82.987157,
     41.300905
-],
+  ],
   "geometry": {"coordinates":[-82.987157,41.300905],"type":"Point"}
 }

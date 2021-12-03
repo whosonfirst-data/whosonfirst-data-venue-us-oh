@@ -2,65 +2,69 @@
   "id": 706049387,
   "type": "Feature",
   "properties": {
-    "addr:full":"1724 State Rte 728 Lucasville OH 45648",
-    "addr:housenumber":"1724",
-    "addr:postcode":"45648",
-    "addr:street":"State Rte 728",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.975356,38.879331,-82.975356,38.879331",
-    "geom:latitude":38.879331,
-    "geom:longitude":-82.975356,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1724 State Rte 728",
-    "sg:city":"Lucasville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Jail",
-            "type":"Public Place"
-        }
+    "addr:full": "1724 State Rte 728 Lucasville OH 45648",
+    "addr:housenumber": "1724",
+    "addr:postcode": "45648",
+    "addr:street": "State Rte 728",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.975356,38.879331,-82.975356,38.879331",
+    "geom:latitude": 38.879331,
+    "geom:longitude": -82.975356,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1724 State Rte 728",
+    "sg:city": "Lucasville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Jail",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 259 5544",
-    "sg:postcode":"45648",
-    "sg:province":"OH",
-    "sg:tags":[
-        "govt",
-        "state",
-        "institution"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 259 5544",
+    "sg:postcode": "45648",
+    "sg:province": "OH",
+    "sg:tags": [
+      "govt",
+      "state",
+      "institution"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_72SxtB8vPh0PHgDZe7SM0h_38.879331_-82.975356@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_72SxtB8vPh0PHgDZe7SM0h_38.879331_-82.975356@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794585,
-    "wof:geomhash":"d2f8ca9dec749f768b6983f4c0ec16bf",
-    "wof:hierarchy":[],
-    "wof:id":706049387,
-    "wof:lastmodified":1472639045,
-    "wof:name":"Southern Ohio Correctional",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "govt",
-        "state",
-        "institution"
+    "wof:country": "US",
+    "wof:created": 1461794585,
+    "wof:geomhash": "37a9d5dbd57df6037a38a4bab303ebd6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706049387
+      }
+    ],
+    "wof:id": 706049387,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Southern Ohio Correctional",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "govt",
+      "state",
+      "institution"
     ]
-},
+  },
   "bbox": [
     -82.975356,
     38.879331,
     -82.975356,
     38.879331
-],
+  ],
   "geometry": {"coordinates":[-82.975356,38.879331],"type":"Point"}
 }

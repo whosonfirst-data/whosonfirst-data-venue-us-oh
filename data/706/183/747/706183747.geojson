@@ -2,64 +2,68 @@
   "id": 706183747,
   "type": "Feature",
   "properties": {
-    "addr:full":"1789 Tiffin Ave Findlay OH 45840",
-    "addr:housenumber":"1789",
-    "addr:postcode":"45840",
-    "addr:street":"Tiffin Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.61253,41.053146,-83.61253,41.053146",
-    "geom:latitude":41.053146,
-    "geom:longitude":-83.61253,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1789 Tiffin Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "1789 Tiffin Ave Findlay OH 45840",
+    "addr:housenumber": "1789",
+    "addr:postcode": "45840",
+    "addr:street": "Tiffin Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.612530,41.053146,-83.612530,41.053146",
+    "geom:latitude": 41.053146,
+    "geom:longitude": -83.61253,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1789 Tiffin Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 423 8518",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 423 8518",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125151645,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6AFvzu41Gjbnocn9twB9Li_41.053146_-83.612530@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125151645,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6AFvzu41Gjbnocn9twB9Li_41.053146_-83.612530@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797713,
-    "wof:geomhash":"f4cfbd49f52d4357b54e209f73f12455",
-    "wof:hierarchy":[],
-    "wof:id":706183747,
-    "wof:lastmodified":1510695197,
-    "wof:name":"Hot Spot",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461797713,
+    "wof:geomhash": "f4cfbd49f52d4357b54e209f73f12455",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706183747
+      }
+    ],
+    "wof:id": 706183747,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Hot Spot",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -83.61253,
     41.053146,
     -83.61253,
     41.053146
-],
-  "geometry": {"coordinates":[-83.61253000000001,41.053146],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.61253,41.053146],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 706595435,
   "type": "Feature",
   "properties": {
-    "addr:full":"16744 W Park Circle Dr Chagrin Falls OH 44023",
-    "addr:housenumber":"16744",
-    "addr:postcode":"44023",
-    "addr:street":"W Park Circle Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.348602,41.413601,-81.348602,41.413601",
-    "geom:latitude":41.413601,
-    "geom:longitude":-81.348602,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16744 W Park Circle Dr",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "16744 W Park Circle Dr Chagrin Falls OH 44023",
+    "addr:housenumber": "16744",
+    "addr:postcode": "44023",
+    "addr:street": "W Park Circle Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.348602,41.413601,-81.348602,41.413601",
+    "geom:latitude": 41.413601,
+    "geom:longitude": -81.348602,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16744 W Park Circle Dr",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 247 2292",
-    "sg:postcode":"44023",
-    "sg:province":"OH",
-    "sg:website":"www.dlmrtrailers.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55HNjzF71zsMG4JrQOz2p9_41.413601_-81.348602@1303262753"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 247 2292",
+    "sg:postcode": "44023",
+    "sg:province": "OH",
+    "sg:website": "www.dlmrtrailers.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55HNjzF71zsMG4JrQOz2p9_41.413601_-81.348602@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806626,
-    "wof:geomhash":"1de46398e21d20b76570716103c7d707",
-    "wof:hierarchy":[],
-    "wof:id":706595435,
-    "wof:lastmodified":1472640209,
-    "wof:name":"Dales Auto Service",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806626,
+    "wof:geomhash": "b428dc7d2e90cefea0bf11ddea612fff",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706595435
+      }
+    ],
+    "wof:id": 706595435,
+    "wof:lastmodified": 1638567144,
+    "wof:name": "Dales Auto Service",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.348602,
     41.413601,
     -81.348602,
     41.413601
-],
+  ],
   "geometry": {"coordinates":[-81.348602,41.413601],"type":"Point"}
 }

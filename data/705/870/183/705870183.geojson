@@ -2,61 +2,65 @@
   "id": 705870183,
   "type": "Feature",
   "properties": {
-    "addr:full":"248 S Main St West Milton OH 45383",
-    "addr:housenumber":"248",
-    "addr:postcode":"45383",
-    "addr:street":"S Main St West",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.328076,39.959412,-84.328076,39.959412",
-    "geom:latitude":39.959412,
-    "geom:longitude":-84.328076,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"248 S Main St",
-    "sg:city":"West Milton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "248 S Main St West Milton OH 45383",
+    "addr:housenumber": "248",
+    "addr:postcode": "45383",
+    "addr:street": "S Main St West",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.328076,39.959412,-84.328076,39.959412",
+    "geom:latitude": 39.959412,
+    "geom:longitude": -84.328076,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "248 S Main St",
+    "sg:city": "West Milton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 526 5000",
-    "sg:postcode":"45383",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 526 5000",
+    "sg:postcode": "45383",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6bwT9H5iQTWLHzte2S0Gbt_39.959412_-84.328076@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6bwT9H5iQTWLHzte2S0Gbt_39.959412_-84.328076@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790699,
-    "wof:geomhash":"b130bbed67f2fb2492dcb4503156b517",
-    "wof:hierarchy":[],
-    "wof:id":705870183,
-    "wof:lastmodified":1472639455,
-    "wof:name":"David W Menning DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461790699,
+    "wof:geomhash": "6e92eb4e3de6b1e059857c7263bf054a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705870183
+      }
+    ],
+    "wof:id": 705870183,
+    "wof:lastmodified": 1638567019,
+    "wof:name": "David W Menning DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.328076,
     39.959412,
     -84.328076,
     39.959412
-],
+  ],
   "geometry": {"coordinates":[-84.328076,39.959412],"type":"Point"}
 }

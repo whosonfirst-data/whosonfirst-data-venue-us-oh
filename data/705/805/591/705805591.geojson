@@ -2,63 +2,67 @@
   "id": 705805591,
   "type": "Feature",
   "properties": {
-    "addr:full":"10987 Plank Rd Montville OH 44046",
-    "addr:housenumber":"10987",
-    "addr:postcode":"44046",
-    "addr:street":"Plank Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.037719,41.585532,-81.037719,41.585532",
-    "geom:latitude":41.585532,
-    "geom:longitude":-81.037719,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10987 Plank Rd",
-    "sg:city":"Montville",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "10987 Plank Rd Montville OH 44046",
+    "addr:housenumber": "10987",
+    "addr:postcode": "44046",
+    "addr:street": "Plank Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.037719,41.585532,-81.037719,41.585532",
+    "geom:latitude": 41.585532,
+    "geom:longitude": -81.037719,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10987 Plank Rd",
+    "sg:city": "Montville",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 968 3598",
-    "sg:postcode":"44046",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment",
-        "management"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 968 3598",
+    "sg:postcode": "44046",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment",
+      "management"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4fdTeb0C0qYPrOyhWchbMB_41.585532_-81.037719@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4fdTeb0C0qYPrOyhWchbMB_41.585532_-81.037719@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789142,
-    "wof:geomhash":"308c4b57892e1e8470e9add5500a6afa",
-    "wof:hierarchy":[],
-    "wof:id":705805591,
-    "wof:lastmodified":1472639306,
-    "wof:name":"Apartmax",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment",
-        "management"
+    "wof:country": "US",
+    "wof:created": 1461789142,
+    "wof:geomhash": "0bf8786637bd7316fb5f734f7bc791aa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705805591
+      }
+    ],
+    "wof:id": 705805591,
+    "wof:lastmodified": 1638566987,
+    "wof:name": "Apartmax",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment",
+      "management"
     ]
-},
+  },
   "bbox": [
     -81.037719,
     41.585532,
     -81.037719,
     41.585532
-],
+  ],
   "geometry": {"coordinates":[-81.037719,41.585532],"type":"Point"}
 }

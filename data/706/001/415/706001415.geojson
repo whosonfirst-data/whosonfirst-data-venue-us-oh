@@ -2,63 +2,67 @@
   "id": 706001415,
   "type": "Feature",
   "properties": {
-    "addr:full":"312 Plum St Cincinnati OH 45202",
-    "addr:housenumber":"312",
-    "addr:postcode":"45202",
-    "addr:street":"Plum St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.517186,39.098234,-84.517186,39.098234",
-    "geom:latitude":39.098234,
-    "geom:longitude":-84.517186,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"312 Plum St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "312 Plum St Cincinnati OH 45202",
+    "addr:housenumber": "312",
+    "addr:postcode": "45202",
+    "addr:street": "Plum St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.517186,39.098234,-84.517186,39.098234",
+    "geom:latitude": 39.098234,
+    "geom:longitude": -84.517186,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "312 Plum St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 723 5100",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 723 5100",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Z3JsLJ2hbQxqetJ6XkrS5_39.098234_-84.517186@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Z3JsLJ2hbQxqetJ6XkrS5_39.098234_-84.517186@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793605,
-    "wof:geomhash":"758570adfd3ec953c2f490728aafd9fb",
-    "wof:hierarchy":[],
-    "wof:id":706001415,
-    "wof:lastmodified":1472638246,
-    "wof:name":"Osteopathic Physician Exchange",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461793605,
+    "wof:geomhash": "9751957db8ffbf52f439c3a983da2225",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706001415
+      }
+    ],
+    "wof:id": 706001415,
+    "wof:lastmodified": 1638566925,
+    "wof:name": "Osteopathic Physician Exchange",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.517186,
     39.098234,
     -84.517186,
     39.098234
-],
+  ],
   "geometry": {"coordinates":[-84.517186,39.098234],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705855095,
   "type": "Feature",
   "properties": {
-    "addr:full":"214 S Defiance St West Unity OH 43570",
-    "addr:housenumber":"214",
-    "addr:postcode":"43570",
-    "addr:street":"S Defiance St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.438523,41.584131,-84.438523,41.584131",
-    "geom:latitude":41.584131,
-    "geom:longitude":-84.438523,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"214 S Defiance St",
-    "sg:city":"West Unity",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "214 S Defiance St West Unity OH 43570",
+    "addr:housenumber": "214",
+    "addr:postcode": "43570",
+    "addr:street": "S Defiance St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.438523,41.584131,-84.438523,41.584131",
+    "geom:latitude": 41.584131,
+    "geom:longitude": -84.438523,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "214 S Defiance St",
+    "sg:city": "West Unity",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 924 2324",
-    "sg:postcode":"43570",
-    "sg:province":"OH",
-    "sg:tags":[
-        "packaging"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 924 2324",
+    "sg:postcode": "43570",
+    "sg:province": "OH",
+    "sg:tags": [
+      "packaging"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2SPIoEtuI99uQnwKZJYEKm_41.584131_-84.438523@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2SPIoEtuI99uQnwKZJYEKm_41.584131_-84.438523@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790304,
-    "wof:geomhash":"07654e9dbb2d286b5a74b1d60a8dd277",
-    "wof:hierarchy":[],
-    "wof:id":705855095,
-    "wof:lastmodified":1472639404,
-    "wof:name":"Leiner Packaging Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "packaging"
+    "wof:country": "US",
+    "wof:created": 1461790304,
+    "wof:geomhash": "83e22c808cf2eb710c86c8b803127ac3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705855095
+      }
+    ],
+    "wof:id": 705855095,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Leiner Packaging Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "packaging"
     ]
-},
+  },
   "bbox": [
     -84.438523,
     41.584131,
     -84.438523,
     41.584131
-],
+  ],
   "geometry": {"coordinates":[-84.438523,41.584131],"type":"Point"}
 }

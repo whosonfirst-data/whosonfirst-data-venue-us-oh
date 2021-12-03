@@ -2,61 +2,65 @@
   "id": 706607493,
   "type": "Feature",
   "properties": {
-    "addr:full":"7241 Parma Park Blvd Cleveland OH 44130",
-    "addr:housenumber":"7241",
-    "addr:postcode":"44130",
-    "addr:street":"Parma Park Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.776256,41.367821,-81.776256,41.367821",
-    "geom:latitude":41.367821,
-    "geom:longitude":-81.776256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7241 Parma Park Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7241 Parma Park Blvd Cleveland OH 44130",
+    "addr:housenumber": "7241",
+    "addr:postcode": "44130",
+    "addr:street": "Parma Park Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.776256,41.367821,-81.776256,41.367821",
+    "geom:latitude": 41.367821,
+    "geom:longitude": -81.776256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7241 Parma Park Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 845 1384",
-    "sg:postcode":"44130",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 845 1384",
+    "sg:postcode": "44130",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ujDXLLuTgGg5WafcGt9Ml_41.367821_-81.776256@1303262755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ujDXLLuTgGg5WafcGt9Ml_41.367821_-81.776256@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806880,
-    "wof:geomhash":"39482c16d9bc5f4e0f180bdcfad43b69",
-    "wof:hierarchy":[],
-    "wof:id":706607493,
-    "wof:lastmodified":1472640222,
-    "wof:name":"Victory Megastore",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461806880,
+    "wof:geomhash": "2d8dcfd18107787ba8bede839d95b715",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706607493
+      }
+    ],
+    "wof:id": 706607493,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Victory Megastore",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -81.776256,
     41.367821,
     -81.776256,
     41.367821
-],
+  ],
   "geometry": {"coordinates":[-81.776256,41.367821],"type":"Point"}
 }

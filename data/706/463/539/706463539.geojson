@@ -2,61 +2,65 @@
   "id": 706463539,
   "type": "Feature",
   "properties": {
-    "addr:full":"605 S Elm St Hillsboro OH 45133",
-    "addr:housenumber":"605",
-    "addr:postcode":"45133",
-    "addr:street":"S Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.619022,39.194239,-83.619022,39.194239",
-    "geom:latitude":39.194239,
-    "geom:longitude":-83.619022,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"605 S Elm St",
-    "sg:city":"Hillsboro",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "605 S Elm St Hillsboro OH 45133",
+    "addr:housenumber": "605",
+    "addr:postcode": "45133",
+    "addr:street": "S Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.619022,39.194239,-83.619022,39.194239",
+    "geom:latitude": 39.194239,
+    "geom:longitude": -83.619022,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "605 S Elm St",
+    "sg:city": "Hillsboro",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 393 3181",
-    "sg:postcode":"45133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 393 3181",
+    "sg:postcode": "45133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Jk28RSMbYszcycuigwrLH_39.194239_-83.619022@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Jk28RSMbYszcycuigwrLH_39.194239_-83.619022@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803722,
-    "wof:geomhash":"0fbb678bb37d44d1a591e46f3da27522",
-    "wof:hierarchy":[],
-    "wof:id":706463539,
-    "wof:lastmodified":1472640060,
-    "wof:name":"Tom Zile",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461803722,
+    "wof:geomhash": "7cee9ff05173e8fef967b6aaa8b121b5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706463539
+      }
+    ],
+    "wof:id": 706463539,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Tom Zile",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -83.619022,
     39.194239,
     -83.619022,
     39.194239
-],
+  ],
   "geometry": {"coordinates":[-83.619022,39.194239],"type":"Point"}
 }

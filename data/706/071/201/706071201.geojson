@@ -2,61 +2,65 @@
   "id": 706071201,
   "type": "Feature",
   "properties": {
-    "addr:full":"2356 Amy Ave Lima OH 45807",
-    "addr:housenumber":"2356",
-    "addr:postcode":"45807",
-    "addr:street":"Amy Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.197678,40.771796,-84.197678,40.771796",
-    "geom:latitude":40.771796,
-    "geom:longitude":-84.197678,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2356 Amy Ave",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "2356 Amy Ave Lima OH 45807",
+    "addr:housenumber": "2356",
+    "addr:postcode": "45807",
+    "addr:street": "Amy Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.197678,40.771796,-84.197678,40.771796",
+    "geom:latitude": 40.771796,
+    "geom:longitude": -84.197678,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2356 Amy Ave",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 339 0126",
-    "sg:postcode":"45807",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 339 0126",
+    "sg:postcode": "45807",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_77BdB53BxKWJBSP6HTQO9C_40.771796_-84.197678@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_77BdB53BxKWJBSP6HTQO9C_40.771796_-84.197678@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795058,
-    "wof:geomhash":"7f51368b672b42e1d29b84eb99eb6158",
-    "wof:hierarchy":[],
-    "wof:id":706071201,
-    "wof:lastmodified":1472639158,
-    "wof:name":"Shultz Contracting",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461795058,
+    "wof:geomhash": "d5ded7b89b227e236adea7e0f5431ae4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706071201
+      }
+    ],
+    "wof:id": 706071201,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Shultz Contracting",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -84.197678,
     40.771796,
     -84.197678,
     40.771796
-],
+  ],
   "geometry": {"coordinates":[-84.197678,40.771796],"type":"Point"}
 }

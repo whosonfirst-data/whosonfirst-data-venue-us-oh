@@ -2,61 +2,65 @@
   "id": 705910971,
   "type": "Feature",
   "properties": {
-    "addr:full":"8757 N State Rte 66 Defiance OH 43512",
-    "addr:housenumber":"8757",
-    "addr:postcode":"43512",
-    "addr:street":"N State Rte 66",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.360771,41.314973,-84.360771,41.314973",
-    "geom:latitude":41.314973,
-    "geom:longitude":-84.360771,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8757 N State Rte 66",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "8757 N State Rte 66 Defiance OH 43512",
+    "addr:housenumber": "8757",
+    "addr:postcode": "43512",
+    "addr:street": "N State Rte 66",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.360771,41.314973,-84.360771,41.314973",
+    "geom:latitude": 41.314973,
+    "geom:longitude": -84.360771,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8757 N State Rte 66",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 782 0166",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 782 0166",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5G0c25Gt4XumbRO5E0Nvup_41.314973_-84.360771@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5G0c25Gt4XumbRO5E0Nvup_41.314973_-84.360771@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791655,
-    "wof:geomhash":"a224066e414a1b37d1ec01c2973f463d",
-    "wof:hierarchy":[],
-    "wof:id":705910971,
-    "wof:lastmodified":1472639632,
-    "wof:name":"Defiance Area Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461791655,
+    "wof:geomhash": "0a4c346ba52992dde4d1c7c45cd82014",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705910971
+      }
+    ],
+    "wof:id": 705910971,
+    "wof:lastmodified": 1638567038,
+    "wof:name": "Defiance Area Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -84.360771,
     41.314973,
     -84.360771,
     41.314973
-],
+  ],
   "geometry": {"coordinates":[-84.360771,41.314973],"type":"Point"}
 }

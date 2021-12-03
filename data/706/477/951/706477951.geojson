@@ -2,57 +2,61 @@
   "id": 706477951,
   "type": "Feature",
   "properties": {
-    "addr:full":"7886 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7886",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.368567,39.318485,-84.368567,39.318485",
-    "geom:latitude":39.318485,
-    "geom:longitude":-84.368567,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7886 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7886 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7886",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.368567,39.318485,-84.368567,39.318485",
+    "geom:latitude": 39.318485,
+    "geom:longitude": -84.368567,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7886 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 777 8880",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:website":"www.guenthers.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3z6tpEttC9OvMnl8se7PPW_39.318485_-84.368567@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 777 8880",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:website": "www.guenthers.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3z6tpEttC9OvMnl8se7PPW_39.318485_-84.368567@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461804001,
-    "wof:geomhash":"937815d332a049f6e11358878de5d4fe",
-    "wof:hierarchy":[],
-    "wof:id":706477951,
-    "wof:lastmodified":1472640116,
-    "wof:name":"Guenther's Steak & Seafood",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461804001,
+    "wof:geomhash": "37bea47765b701329fcfd3c18577e429",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706477951
+      }
+    ],
+    "wof:id": 706477951,
+    "wof:lastmodified": 1638567131,
+    "wof:name": "Guenther's Steak \u0026 Seafood",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.368567,
     39.318485,
     -84.368567,
     39.318485
-],
+  ],
   "geometry": {"coordinates":[-84.368567,39.318485],"type":"Point"}
 }

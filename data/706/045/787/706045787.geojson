@@ -2,61 +2,65 @@
   "id": 706045787,
   "type": "Feature",
   "properties": {
-    "addr:full":"11000 Santa Barbara Dr Plain City OH 43064",
-    "addr:housenumber":"11000",
-    "addr:postcode":"43064",
-    "addr:street":"Santa Barbara Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.245181,40.149719,-83.245181,40.149719",
-    "geom:latitude":40.149719,
-    "geom:longitude":-83.245181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11000 Santa Barbara Dr",
-    "sg:city":"Plain City",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Engineering",
-            "type":"Services"
-        }
+    "addr:full": "11000 Santa Barbara Dr Plain City OH 43064",
+    "addr:housenumber": "11000",
+    "addr:postcode": "43064",
+    "addr:street": "Santa Barbara Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.245181,40.149719,-83.245181,40.149719",
+    "geom:latitude": 40.149719,
+    "geom:longitude": -83.245181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11000 Santa Barbara Dr",
+    "sg:city": "Plain City",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Engineering",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 733 3606",
-    "sg:postcode":"43064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "engineer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 733 3606",
+    "sg:postcode": "43064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "engineer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5B3JsdxvvLUYccYNjcZM76_40.149719_-83.245181@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5B3JsdxvvLUYccYNjcZM76_40.149719_-83.245181@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794513,
-    "wof:geomhash":"da05f53b484fc394208d85fcbe138e04",
-    "wof:hierarchy":[],
-    "wof:id":706045787,
-    "wof:lastmodified":1472639005,
-    "wof:name":"E3 Electrical Design & Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "engineer"
+    "wof:country": "US",
+    "wof:created": 1461794513,
+    "wof:geomhash": "b1068c9553ef2f48e50900501bad4dca",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706045787
+      }
+    ],
+    "wof:id": 706045787,
+    "wof:lastmodified": 1638566966,
+    "wof:name": "E3 Electrical Design \u0026 Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "engineer"
     ]
-},
+  },
   "bbox": [
     -83.245181,
     40.149719,
     -83.245181,
     40.149719
-],
+  ],
   "geometry": {"coordinates":[-83.245181,40.149719],"type":"Point"}
 }

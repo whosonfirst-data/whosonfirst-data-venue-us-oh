@@ -2,61 +2,65 @@
   "id": 705713849,
   "type": "Feature",
   "properties": {
-    "addr:full":"2981 Tremainsville Rd Toledo OH 43613",
-    "addr:housenumber":"2981",
-    "addr:postcode":"43613",
-    "addr:street":"Tremainsville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.616834,41.717,-83.616834,41.717",
-    "geom:latitude":41.717,
-    "geom:longitude":-83.616834,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2981 Tremainsville Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2981 Tremainsville Rd Toledo OH 43613",
+    "addr:housenumber": "2981",
+    "addr:postcode": "43613",
+    "addr:street": "Tremainsville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.616834,41.717000,-83.616834,41.717000",
+    "geom:latitude": 41.717,
+    "geom:longitude": -83.616834,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2981 Tremainsville Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 474 4137",
-    "sg:postcode":"43613",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 474 4137",
+    "sg:postcode": "43613",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1deKpMdb2ndyIv4I5HQAsu_41.717000_-83.616834@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1deKpMdb2ndyIv4I5HQAsu_41.717000_-83.616834@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787004,
-    "wof:geomhash":"12edbaee0067f97ee831ac4f6e03c12d",
-    "wof:hierarchy":[],
-    "wof:id":705713849,
-    "wof:lastmodified":1472638392,
-    "wof:name":"Kaslly's Kitchen",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461787004,
+    "wof:geomhash": "cd5c14bed02a9da948b242700fcdb0bf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705713849
+      }
+    ],
+    "wof:id": 705713849,
+    "wof:lastmodified": 1638566930,
+    "wof:name": "Kaslly's Kitchen",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.616834,
     41.717,
     -83.616834,
     41.717
-],
+  ],
   "geometry": {"coordinates":[-83.616834,41.717],"type":"Point"}
 }

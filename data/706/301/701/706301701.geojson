@@ -2,61 +2,65 @@
   "id": 706301701,
   "type": "Feature",
   "properties": {
-    "addr:full":"404 Hamilton Rd Wapakoneta OH 45895",
-    "addr:housenumber":"404",
-    "addr:postcode":"45895",
-    "addr:street":"Hamilton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.20417,40.576871,-84.20417,40.576871",
-    "geom:latitude":40.576871,
-    "geom:longitude":-84.20417,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"404 Hamilton Rd",
-    "sg:city":"Wapakoneta",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "404 Hamilton Rd Wapakoneta OH 45895",
+    "addr:housenumber": "404",
+    "addr:postcode": "45895",
+    "addr:street": "Hamilton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.204170,40.576871,-84.204170,40.576871",
+    "geom:latitude": 40.576871,
+    "geom:longitude": -84.20417,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "404 Hamilton Rd",
+    "sg:city": "Wapakoneta",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 738 8800",
-    "sg:postcode":"45895",
-    "sg:province":"OH",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 738 8800",
+    "sg:postcode": "45895",
+    "sg:province": "OH",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4OP7F4h1C0KPWL2Upu0A0R_40.576871_-84.204170@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4OP7F4h1C0KPWL2Upu0A0R_40.576871_-84.204170@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800337,
-    "wof:geomhash":"14eba4d5a3343b7626d1d426bf638644",
-    "wof:hierarchy":[],
-    "wof:id":706301701,
-    "wof:lastmodified":1472639753,
-    "wof:name":"Medi-Lab Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:country": "US",
+    "wof:created": 1461800337,
+    "wof:geomhash": "bb25823fa1fae6fe1d25201f1048bec6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706301701
+      }
+    ],
+    "wof:id": 706301701,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Medi-Lab Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -84.20417,
     40.576871,
     -84.20417,
     40.576871
-],
+  ],
   "geometry": {"coordinates":[-84.20417,40.576871],"type":"Point"}
 }

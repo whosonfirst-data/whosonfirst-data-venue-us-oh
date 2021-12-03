@@ -2,63 +2,67 @@
   "id": 706614315,
   "type": "Feature",
   "properties": {
-    "addr:full":"6055 Manchester Rd Akron OH 44319",
-    "addr:housenumber":"6055",
-    "addr:postcode":"44319",
-    "addr:street":"Manchester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.569397,40.9384,-81.569397,40.9384",
-    "geom:latitude":40.9384,
-    "geom:longitude":-81.569397,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6055 Manchester Rd",
-    "sg:city":"Akron",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "6055 Manchester Rd Akron OH 44319",
+    "addr:housenumber": "6055",
+    "addr:postcode": "44319",
+    "addr:street": "Manchester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.569397,40.938400,-81.569397,40.938400",
+    "geom:latitude": 40.9384,
+    "geom:longitude": -81.569397,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6055 Manchester Rd",
+    "sg:city": "Akron",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 882 5177",
-    "sg:postcode":"44319",
-    "sg:province":"OH",
-    "sg:tags":[
-        "surgeon",
-        "oral"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 882 5177",
+    "sg:postcode": "44319",
+    "sg:province": "OH",
+    "sg:tags": [
+      "surgeon",
+      "oral"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55bcxjoLf8Vv0UzB2X5M86_40.938400_-81.569397@1303262756"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55bcxjoLf8Vv0UzB2X5M86_40.938400_-81.569397@1303262756"
     },
-    "wof:country":"US",
-    "wof:created":1461807021,
-    "wof:geomhash":"26c850a008700b3f5627bcc98282cc46",
-    "wof:hierarchy":[],
-    "wof:id":706614315,
-    "wof:lastmodified":1472640230,
-    "wof:name":"Keim John R DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "surgeon",
-        "oral"
+    "wof:country": "US",
+    "wof:created": 1461807021,
+    "wof:geomhash": "d60fa632f7fa875dbadf0ab6d35e9273",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706614315
+      }
+    ],
+    "wof:id": 706614315,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Keim John R DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "surgeon",
+      "oral"
     ]
-},
+  },
   "bbox": [
     -81.569397,
     40.9384,
     -81.569397,
     40.9384
-],
+  ],
   "geometry": {"coordinates":[-81.569397,40.9384],"type":"Point"}
 }

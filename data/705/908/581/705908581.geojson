@@ -2,63 +2,67 @@
   "id": 705908581,
   "type": "Feature",
   "properties": {
-    "addr:full":"271 Hedges St Mansfield OH 44902",
-    "addr:housenumber":"271",
-    "addr:postcode":"44902",
-    "addr:street":"Hedges St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.509845,40.749747,-82.509845,40.749747",
-    "geom:latitude":40.749747,
-    "geom:longitude":-82.509845,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"271 Hedges St",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "271 Hedges St Mansfield OH 44902",
+    "addr:housenumber": "271",
+    "addr:postcode": "44902",
+    "addr:street": "Hedges St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.509845,40.749747,-82.509845,40.749747",
+    "geom:latitude": 40.749747,
+    "geom:longitude": -82.509845,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "271 Hedges St",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 525 1893",
-    "sg:postcode":"44902",
-    "sg:province":"OH",
-    "sg:tags":[
-        "federal",
-        "security"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 525 1893",
+    "sg:postcode": "44902",
+    "sg:province": "OH",
+    "sg:tags": [
+      "federal",
+      "security"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01sW0KTkrf8euwiHDNVNfE_40.749747_-82.509845@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_01sW0KTkrf8euwiHDNVNfE_40.749747_-82.509845@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791598,
-    "wof:geomhash":"5fa6564950a2afc2f06e4eedc0552175",
-    "wof:hierarchy":[],
-    "wof:id":705908581,
-    "wof:lastmodified":1472639586,
-    "wof:name":"US Army Reserve Training",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "federal",
-        "security"
+    "wof:country": "US",
+    "wof:created": 1461791598,
+    "wof:geomhash": "e31ee19e2606a68b65f4956776b1c48b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705908581
+      }
+    ],
+    "wof:id": 705908581,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "US Army Reserve Training",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "federal",
+      "security"
     ]
-},
+  },
   "bbox": [
     -82.509845,
     40.749747,
     -82.509845,
     40.749747
-],
+  ],
   "geometry": {"coordinates":[-82.509845,40.749747],"type":"Point"}
 }

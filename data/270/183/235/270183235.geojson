@@ -2,73 +2,74 @@
   "id": 270183235,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 E Broad St Newton Falls OH 44444",
-    "addr:housenumber":"100",
-    "addr:postcode":"44444",
-    "addr:street":"E Broad St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.970545,41.186315,-80.970545,41.186315",
-    "geom:latitude":41.186315,
-    "geom:longitude":-80.970545,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 E Broad St",
-    "sg:city":"Newton Falls",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "100 E Broad St Newton Falls OH 44444",
+    "addr:housenumber": "100",
+    "addr:postcode": "44444",
+    "addr:street": "E Broad St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.970545,41.186315,-80.970545,41.186315",
+    "geom:latitude": 41.186315,
+    "geom:longitude": -80.970545,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 E Broad St",
+    "sg:city": "Newton Falls",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 872 9127",
-    "sg:postcode":"44444",
-    "sg:province":"OH",
-    "sg:website":"www.macs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101713297,
-        102083719,
-        85803553
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 872 9127",
+    "sg:postcode": "44444",
+    "sg:province": "OH",
+    "sg:website": "www.macs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101713297,
+      102083719,
+      85803553
     ],
-    "wof:brand_id":420573875,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1TivSLFZ9Xd4BN17EFClbw_41.186315_-80.970545@1294180530"
+    "wof:brand_id": 420573875,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1TivSLFZ9Xd4BN17EFClbw_41.186315_-80.970545@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"47188bf0005b6a13742a3a73370b69d8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083719,
-            "locality_id":101713297,
-            "neighbourhood_id":85803553,
-            "region_id":85688485,
-            "venue_id":270183235
-        }
+    "wof:country": "US",
+    "wof:created": 1638566893,
+    "wof:geomhash": "ab596213929bc8403b5633167cb07902",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083719,
+        "locality_id": 101713297,
+        "neighbourhood_id": 85803553,
+        "region_id": 85688485,
+        "venue_id": 270183235
+      }
     ],
-    "wof:id":270183235,
-    "wof:lastmodified":1472638522,
-    "wof:name":"Circle K",
-    "wof:parent_id":85803553,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 270183235,
+    "wof:lastmodified": 1638566893,
+    "wof:name": "Circle K",
+    "wof:parent_id": 85803553,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -80.970545,
     41.186315,
     -80.970545,
     41.186315
-],
+  ],
   "geometry": {"coordinates":[-80.970545,41.186315],"type":"Point"}
 }

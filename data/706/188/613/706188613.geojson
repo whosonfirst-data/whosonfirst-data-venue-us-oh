@@ -2,61 +2,65 @@
   "id": 706188613,
   "type": "Feature",
   "properties": {
-    "addr:full":"226 N Main St Antwerp OH 45813",
-    "addr:housenumber":"226",
-    "addr:postcode":"45813",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.741147,41.182382,-84.741147,41.182382",
-    "geom:latitude":41.182382,
-    "geom:longitude":-84.741147,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"226 N Main St",
-    "sg:city":"Antwerp",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "226 N Main St Antwerp OH 45813",
+    "addr:housenumber": "226",
+    "addr:postcode": "45813",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.741147,41.182382,-84.741147,41.182382",
+    "geom:latitude": 41.182382,
+    "geom:longitude": -84.741147,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "226 N Main St",
+    "sg:city": "Antwerp",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 258 6262",
-    "sg:postcode":"45813",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 258 6262",
+    "sg:postcode": "45813",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6cE8hvUNwdjnAMsjjmaVhy_41.182382_-84.741147@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6cE8hvUNwdjnAMsjjmaVhy_41.182382_-84.741147@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797823,
-    "wof:geomhash":"d963117ae715d463f7e450a89da247b8",
-    "wof:hierarchy":[],
-    "wof:id":706188613,
-    "wof:lastmodified":1472639466,
-    "wof:name":"1891 House",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461797823,
+    "wof:geomhash": "04af218b9605fd8880aa81e95692ba0b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706188613
+      }
+    ],
+    "wof:id": 706188613,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "1891 House",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.741147,
     41.182382,
     -84.741147,
     41.182382
-],
+  ],
   "geometry": {"coordinates":[-84.741147,41.182382],"type":"Point"}
 }

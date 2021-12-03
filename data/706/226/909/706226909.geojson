@@ -2,68 +2,72 @@
   "id": 706226909,
   "type": "Feature",
   "properties": {
-    "addr:full":"5703 Main St Sylvania OH 43560",
-    "addr:housenumber":"5703",
-    "addr:postcode":"43560",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.703322,41.719359,-83.703322,41.719359",
-    "geom:latitude":41.719359,
-    "geom:longitude":-83.703322,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5703 Main St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Glass & Minerals",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "5703 Main St Sylvania OH 43560",
+    "addr:housenumber": "5703",
+    "addr:postcode": "43560",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.703322,41.719359,-83.703322,41.719359",
+    "geom:latitude": 41.719359,
+    "geom:longitude": -83.703322,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5703 Main St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Glass \u0026 Minerals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 885 6023",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "glazier",
-        "mfg"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 885 6023",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "glazier",
+      "mfg"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Kb69a92OZ02ZCF9tbsGWE_41.719359_-83.703322@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Kb69a92OZ02ZCF9tbsGWE_41.719359_-83.703322@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798641,
-    "wof:geomhash":"1392f2e727d2dd3f963f9b8510f37d1c",
-    "wof:hierarchy":[],
-    "wof:id":706226909,
-    "wof:lastmodified":1472639541,
-    "wof:name":"Village Glass",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "glazier",
-        "mfg"
+    "wof:country": "US",
+    "wof:created": 1461798641,
+    "wof:geomhash": "c9c5112e08e200e3c2dba277509c7c0d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706226909
+      }
+    ],
+    "wof:id": 706226909,
+    "wof:lastmodified": 1638567053,
+    "wof:name": "Village Glass",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "glazier",
+      "mfg"
     ]
-},
+  },
   "bbox": [
     -83.703322,
     41.719359,
     -83.703322,
     41.719359
-],
+  ],
   "geometry": {"coordinates":[-83.703322,41.719359],"type":"Point"}
 }

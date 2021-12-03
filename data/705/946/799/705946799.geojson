@@ -2,66 +2,70 @@
   "id": 705946799,
   "type": "Feature",
   "properties": {
-    "addr:full":"203 S Main St Willard OH 44890",
-    "addr:housenumber":"203",
-    "addr:postcode":"44890",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.732821,41.056255,-82.732821,41.056255",
-    "geom:latitude":41.056255,
-    "geom:longitude":-82.732821,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"203 S Main St",
-    "sg:city":"Willard",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "203 S Main St Willard OH 44890",
+    "addr:housenumber": "203",
+    "addr:postcode": "44890",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.732821,41.056255,-82.732821,41.056255",
+    "geom:latitude": 41.056255,
+    "geom:longitude": -82.732821,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "203 S Main St",
+    "sg:city": "Willard",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 935 0676",
-    "sg:postcode":"44890",
-    "sg:province":"OH",
-    "sg:tags":[
-        "alcoholic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 935 0676",
+    "sg:postcode": "44890",
+    "sg:province": "OH",
+    "sg:tags": [
+      "alcoholic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_64y2HPA5acSdtDjeDCBhCb_41.056255_-82.732821@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_64y2HPA5acSdtDjeDCBhCb_41.056255_-82.732821@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792461,
-    "wof:geomhash":"d924fa7d603f8b3b5fe5c806b7a938af",
-    "wof:hierarchy":[],
-    "wof:id":705946799,
-    "wof:lastmodified":1472639697,
-    "wof:name":"Main Street Carry Out",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "alcoholic"
+    "wof:country": "US",
+    "wof:created": 1461792461,
+    "wof:geomhash": "3dcb708dcf727eb67c4f6771af06212a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705946799
+      }
+    ],
+    "wof:id": 705946799,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Main Street Carry Out",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "alcoholic"
     ]
-},
+  },
   "bbox": [
     -82.732821,
     41.056255,
     -82.732821,
     41.056255
-],
+  ],
   "geometry": {"coordinates":[-82.732821,41.056255],"type":"Point"}
 }

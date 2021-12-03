@@ -2,61 +2,65 @@
   "id": 706219293,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 W Elm St Butler OH 44822",
-    "addr:housenumber":"20",
-    "addr:postcode":"44822",
-    "addr:street":"W Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.426189,40.588539,-82.426189,40.588539",
-    "geom:latitude":40.588539,
-    "geom:longitude":-82.426189,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 W Elm St",
-    "sg:city":"Butler",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "20 W Elm St Butler OH 44822",
+    "addr:housenumber": "20",
+    "addr:postcode": "44822",
+    "addr:street": "W Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.426189,40.588539,-82.426189,40.588539",
+    "geom:latitude": 40.588539,
+    "geom:longitude": -82.426189,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20 W Elm St",
+    "sg:city": "Butler",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 883 2221",
-    "sg:postcode":"44822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 883 2221",
+    "sg:postcode": "44822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3TT8uen1UHPxeWhvJc3wJD_40.588539_-82.426189@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3TT8uen1UHPxeWhvJc3wJD_40.588539_-82.426189@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798489,
-    "wof:geomhash":"5777dfa82393f4a11c6f04a130709c60",
-    "wof:hierarchy":[],
-    "wof:id":706219293,
-    "wof:lastmodified":1472639508,
-    "wof:name":"Butler Rescue Squad",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461798489,
+    "wof:geomhash": "a5bdac313e0d00273a6b1be85ea758d5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706219293
+      }
+    ],
+    "wof:id": 706219293,
+    "wof:lastmodified": 1638567050,
+    "wof:name": "Butler Rescue Squad",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.426189,
     40.588539,
     -82.426189,
     40.588539
-],
-  "geometry": {"coordinates":[-82.42618899999999,40.588539],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.426189,40.588539],"type":"Point"}
 }

@@ -2,66 +2,70 @@
   "id": 706641549,
   "type": "Feature",
   "properties": {
-    "addr:full":"7495 State Rd Ste 355 Cincinnati OH 45255",
-    "addr:housenumber":"7495",
-    "addr:postcode":"45255",
-    "addr:street":"State Rd Ste 355",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.320396,39.0723,-84.320396,39.0723",
-    "geom:latitude":39.0723,
-    "geom:longitude":-84.320396,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7495 State Rd Ste 355",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Dentist",
-            "type":"Services"
-        }
+    "addr:full": "7495 State Rd Ste 355 Cincinnati OH 45255",
+    "addr:housenumber": "7495",
+    "addr:postcode": "45255",
+    "addr:street": "State Rd Ste 355",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.320396,39.072300,-84.320396,39.072300",
+    "geom:latitude": 39.0723,
+    "geom:longitude": -84.320396,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7495 State Rd Ste 355",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Dentist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 636 6100",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pediatric"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 636 6100",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pediatric"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1D9BLXkC5h1W4TmQFzs0bn_39.072300_-84.320396@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1D9BLXkC5h1W4TmQFzs0bn_39.072300_-84.320396@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807606,
-    "wof:geomhash":"0b1228e7084633fcf27f19637ec5ceb7",
-    "wof:hierarchy":[],
-    "wof:id":706641549,
-    "wof:lastmodified":1472640255,
-    "wof:name":"Cincinnati Children's Hospital Medical Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pediatric"
+    "wof:country": "US",
+    "wof:created": 1461807606,
+    "wof:geomhash": "3ab91fe685e184a7caa116f73ac47628",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706641549
+      }
+    ],
+    "wof:id": 706641549,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Cincinnati Children's Hospital Medical Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pediatric"
     ]
-},
+  },
   "bbox": [
     -84.320396,
     39.0723,
     -84.320396,
     39.0723
-],
+  ],
   "geometry": {"coordinates":[-84.320396,39.0723],"type":"Point"}
 }

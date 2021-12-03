@@ -2,62 +2,66 @@
   "id": 706245153,
   "type": "Feature",
   "properties": {
-    "addr:full":"430 Central Ave Cincinnati OH 45202",
-    "addr:housenumber":"430",
-    "addr:postcode":"45202",
-    "addr:street":"Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.519294,39.100164,-84.519294,39.100164",
-    "geom:latitude":39.100164,
-    "geom:longitude":-84.519294,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"430 Central Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "430 Central Ave Cincinnati OH 45202",
+    "addr:housenumber": "430",
+    "addr:postcode": "45202",
+    "addr:street": "Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.519294,39.100164,-84.519294,39.100164",
+    "geom:latitude": 39.100164,
+    "geom:longitude": -84.519294,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "430 Central Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 352 6220",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 352 6220",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.cincyfire.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ebYCLzutKrEJqvBWpc8JK_39.100164_-84.519294@1294180530"
+    "sg:website": "www.cincyfire.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ebYCLzutKrEJqvBWpc8JK_39.100164_-84.519294@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799074,
-    "wof:geomhash":"847de4f3e1848cd37c5e2c16036b7d15",
-    "wof:hierarchy":[],
-    "wof:id":706245153,
-    "wof:lastmodified":1472639566,
-    "wof:name":"Cincinnati Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461799074,
+    "wof:geomhash": "12d72688bd4ac1fe28e93d9215f8b796",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706245153
+      }
+    ],
+    "wof:id": 706245153,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "Cincinnati Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.519294,
     39.100164,
     -84.519294,
     39.100164
-],
+  ],
   "geometry": {"coordinates":[-84.519294,39.100164],"type":"Point"}
 }

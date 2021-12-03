@@ -2,61 +2,65 @@
   "id": 689574461,
   "type": "Feature",
   "properties": {
-    "addr:full":"108 N Main Ave Tuscarawas OH 44682",
-    "addr:housenumber":"108",
-    "addr:postcode":"44682",
-    "addr:street":"N Main Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.407345,40.39753,-81.407345,40.39753",
-    "geom:latitude":40.39753,
-    "geom:longitude":-81.407345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"108 N Main Ave",
-    "sg:city":"Tuscarawas",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "108 N Main Ave Tuscarawas OH 44682",
+    "addr:housenumber": "108",
+    "addr:postcode": "44682",
+    "addr:street": "N Main Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.407345,40.397530,-81.407345,40.397530",
+    "geom:latitude": 40.39753,
+    "geom:longitude": -81.407345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "108 N Main Ave",
+    "sg:city": "Tuscarawas",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 922 1255",
-    "sg:postcode":"44682",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 922 1255",
+    "sg:postcode": "44682",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0aEQzGsLlCOInMnNxbj9oI_40.397530_-81.407345@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0aEQzGsLlCOInMnNxbj9oI_40.397530_-81.407345@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775421,
-    "wof:geomhash":"1449184f5c526074f8b0cbb25af614b5",
-    "wof:hierarchy":[],
-    "wof:id":689574461,
-    "wof:lastmodified":1472639338,
-    "wof:name":"Hursey's Grocery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461775421,
+    "wof:geomhash": "29a6e5768ec64bf2d775107e23f83154",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689574461
+      }
+    ],
+    "wof:id": 689574461,
+    "wof:lastmodified": 1638566990,
+    "wof:name": "Hursey's Grocery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -81.407345,
     40.39753,
     -81.407345,
     40.39753
-],
-  "geometry": {"coordinates":[-81.40734500000001,40.39753],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.407345,40.39753],"type":"Point"}
 }

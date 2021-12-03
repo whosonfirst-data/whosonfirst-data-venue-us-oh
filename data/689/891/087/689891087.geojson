@@ -2,63 +2,67 @@
   "id": 689891087,
   "type": "Feature",
   "properties": {
-    "addr:full":"65 Community Rd Tallmadge OH 44288",
-    "addr:housenumber":"65",
-    "addr:postcode":"44288",
-    "addr:street":"Community Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.047397,41.240652,-81.047397,41.240652",
-    "geom:latitude":41.240652,
-    "geom:longitude":-81.047397,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"65 Community Rd",
-    "sg:city":"Tallmadge",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "65 Community Rd Tallmadge OH 44288",
+    "addr:housenumber": "65",
+    "addr:postcode": "44288",
+    "addr:street": "Community Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.047397,41.240652,-81.047397,41.240652",
+    "geom:latitude": 41.240652,
+    "geom:longitude": -81.047397,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "65 Community Rd",
+    "sg:city": "Tallmadge",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 633 6601",
-    "sg:postcode":"44288",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 633 6601",
+    "sg:postcode": "44288",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4PUgYk78Dhvhav4Uy16s50_41.240652_-81.047397@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4PUgYk78Dhvhav4Uy16s50_41.240652_-81.047397@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784322,
-    "wof:geomhash":"283ff472068e1f69805d2d6de14397ca",
-    "wof:hierarchy":[],
-    "wof:id":689891087,
-    "wof:lastmodified":1472640026,
-    "wof:name":"Northeast Family Health Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461784322,
+    "wof:geomhash": "8f27554e84d57e069185d5a18b11a460",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689891087
+      }
+    ],
+    "wof:id": 689891087,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Northeast Family Health Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.047397,
     41.240652,
     -81.047397,
     41.240652
-],
+  ],
   "geometry": {"coordinates":[-81.047397,41.240652],"type":"Point"}
 }

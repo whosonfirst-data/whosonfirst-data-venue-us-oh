@@ -2,61 +2,65 @@
   "id": 705710427,
   "type": "Feature",
   "properties": {
-    "addr:full":"1230 State Rte 2 Bryan OH 43506",
-    "addr:housenumber":"1230",
-    "addr:postcode":"43506",
-    "addr:street":"State Rte 2",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.534845,41.47461,-84.534845,41.47461",
-    "geom:latitude":41.47461,
-    "geom:longitude":-84.534845,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1230 State Rte 2",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1230 State Rte 2 Bryan OH 43506",
+    "addr:housenumber": "1230",
+    "addr:postcode": "43506",
+    "addr:street": "State Rte 2",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.534845,41.474610,-84.534845,41.474610",
+    "geom:latitude": 41.47461,
+    "geom:longitude": -84.534845,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1230 State Rte 2",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 4776",
-    "sg:postcode":"43506",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 4776",
+    "sg:postcode": "43506",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4D79TnteIu1nr57Y4p0fwZ_41.474610_-84.534845@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4D79TnteIu1nr57Y4p0fwZ_41.474610_-84.534845@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786900,
-    "wof:geomhash":"94f6e5fd0b2c31beacd54cd698de0f14",
-    "wof:hierarchy":[],
-    "wof:id":705710427,
-    "wof:lastmodified":1472638356,
-    "wof:name":"Carry Out",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461786900,
+    "wof:geomhash": "5dab61d5210bf84480a52da846402290",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705710427
+      }
+    ],
+    "wof:id": 705710427,
+    "wof:lastmodified": 1638566927,
+    "wof:name": "Carry Out",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -84.534845,
     41.47461,
     -84.534845,
     41.47461
-],
+  ],
   "geometry": {"coordinates":[-84.534845,41.47461],"type":"Point"}
 }

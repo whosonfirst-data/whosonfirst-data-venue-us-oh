@@ -2,61 +2,65 @@
   "id": 689552453,
   "type": "Feature",
   "properties": {
-    "addr:full":"15499 Thompson Rd Thompson OH 44086",
-    "addr:housenumber":"15499",
-    "addr:postcode":"44086",
-    "addr:street":"Thompson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.091568,41.687801,-81.091568,41.687801",
-    "geom:latitude":41.687801,
-    "geom:longitude":-81.091568,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15499 Thompson Rd",
-    "sg:city":"Thompson",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "15499 Thompson Rd Thompson OH 44086",
+    "addr:housenumber": "15499",
+    "addr:postcode": "44086",
+    "addr:street": "Thompson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.091568,41.687801,-81.091568,41.687801",
+    "geom:latitude": 41.687801,
+    "geom:longitude": -81.091568,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15499 Thompson Rd",
+    "sg:city": "Thompson",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 298 1840",
-    "sg:postcode":"44086",
-    "sg:province":"OH",
-    "sg:tags":[
-        "appliance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 298 1840",
+    "sg:postcode": "44086",
+    "sg:province": "OH",
+    "sg:tags": [
+      "appliance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4fdw9nOXT3jQj3nKnvXsSX_41.687801_-81.091568@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4fdw9nOXT3jQj3nKnvXsSX_41.687801_-81.091568@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774793,
-    "wof:geomhash":"57ebb8dfd5923ddf9b09e6301378a3bd",
-    "wof:hierarchy":[],
-    "wof:id":689552453,
-    "wof:lastmodified":1472639254,
-    "wof:name":"Appliances Technical Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "appliance"
+    "wof:country": "US",
+    "wof:created": 1461774793,
+    "wof:geomhash": "c48d225bc8402291f8921bf072f87e8c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689552453
+      }
+    ],
+    "wof:id": 689552453,
+    "wof:lastmodified": 1638566980,
+    "wof:name": "Appliances Technical Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "appliance"
     ]
-},
+  },
   "bbox": [
     -81.091568,
     41.687801,
     -81.091568,
     41.687801
-],
+  ],
   "geometry": {"coordinates":[-81.091568,41.687801],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689517767,
   "type": "Feature",
   "properties": {
-    "addr:full":"1093 W Main St Ravenna OH 44266",
-    "addr:housenumber":"1093",
-    "addr:postcode":"44266",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.263069,41.158356,-81.263069,41.158356",
-    "geom:latitude":41.158356,
-    "geom:longitude":-81.263069,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1093 W Main St",
-    "sg:city":"Ravenna",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1093 W Main St Ravenna OH 44266",
+    "addr:housenumber": "1093",
+    "addr:postcode": "44266",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.263069,41.158356,-81.263069,41.158356",
+    "geom:latitude": 41.158356,
+    "geom:longitude": -81.263069,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1093 W Main St",
+    "sg:city": "Ravenna",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 296 9747",
-    "sg:postcode":"44266",
-    "sg:province":"OH",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 296 9747",
+    "sg:postcode": "44266",
+    "sg:province": "OH",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4WbiV5SETWMuXgr0ImMGA2_41.158356_-81.263069@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4WbiV5SETWMuXgr0ImMGA2_41.158356_-81.263069@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773625,
-    "wof:geomhash":"b0a76141096e3054573e0d46d4a3fb7a",
-    "wof:hierarchy":[],
-    "wof:id":689517767,
-    "wof:lastmodified":1472639141,
-    "wof:name":"Richardson Animal Hospital",
-    "wof:parent_id":420535149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1461773625,
+    "wof:geomhash": "9e4a4f10baa5b05b91b98492cf5e9824",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689517767
+      }
+    ],
+    "wof:id": 689517767,
+    "wof:lastmodified": 1638566960,
+    "wof:name": "Richardson Animal Hospital",
+    "wof:parent_id": 420535149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -81.263069,
     41.158356,
     -81.263069,
     41.158356
-],
+  ],
   "geometry": {"coordinates":[-81.263069,41.158356],"type":"Point"}
 }

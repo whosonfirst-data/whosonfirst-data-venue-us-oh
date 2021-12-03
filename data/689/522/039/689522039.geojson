@@ -2,61 +2,65 @@
   "id": 689522039,
   "type": "Feature",
   "properties": {
-    "addr:full":"112 Henry St Malinta OH 43535",
-    "addr:housenumber":"112",
-    "addr:postcode":"43535",
-    "addr:street":"Henry St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.036325,41.321595,-84.036325,41.321595",
-    "geom:latitude":41.321595,
-    "geom:longitude":-84.036325,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"112 Henry St",
-    "sg:city":"Malinta",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "112 Henry St Malinta OH 43535",
+    "addr:housenumber": "112",
+    "addr:postcode": "43535",
+    "addr:street": "Henry St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.036325,41.321595,-84.036325,41.321595",
+    "geom:latitude": 41.321595,
+    "geom:longitude": -84.036325,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "112 Henry St",
+    "sg:city": "Malinta",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 256 7865",
-    "sg:postcode":"43535",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 256 7865",
+    "sg:postcode": "43535",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3MZfHKEIg2qbEdcsqmf7of_41.321595_-84.036325@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3MZfHKEIg2qbEdcsqmf7of_41.321595_-84.036325@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773769,
-    "wof:geomhash":"bd5ad7e0d355056bf5ab717f99c97383",
-    "wof:hierarchy":[],
-    "wof:id":689522039,
-    "wof:lastmodified":1472639153,
-    "wof:name":"Malinta Village Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461773769,
+    "wof:geomhash": "c487118c96f78416fcf27924facd85f7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689522039
+      }
+    ],
+    "wof:id": 689522039,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Malinta Village Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.036325,
     41.321595,
     -84.036325,
     41.321595
-],
-  "geometry": {"coordinates":[-84.03632500000001,41.321595],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.036325,41.321595],"type":"Point"}
 }

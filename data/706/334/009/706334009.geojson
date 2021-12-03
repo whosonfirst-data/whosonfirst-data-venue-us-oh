@@ -2,61 +2,65 @@
   "id": 706334009,
   "type": "Feature",
   "properties": {
-    "addr:full":"18586 5th St Beloit OH 44609",
-    "addr:housenumber":"18586",
-    "addr:postcode":"44609",
-    "addr:street":"5Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.005622,40.92329,-81.005622,40.92329",
-    "geom:latitude":40.92329,
-    "geom:longitude":-81.005622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"18586 5th St",
-    "sg:city":"Beloit",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "18586 5th St Beloit OH 44609",
+    "addr:housenumber": "18586",
+    "addr:postcode": "44609",
+    "addr:street": "5Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.005622,40.923290,-81.005622,40.923290",
+    "geom:latitude": 40.92329,
+    "geom:longitude": -81.005622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "18586 5th St",
+    "sg:city": "Beloit",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 938 3333",
-    "sg:postcode":"44609",
-    "sg:province":"OH",
-    "sg:tags":[
-        "osteopathic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 938 3333",
+    "sg:postcode": "44609",
+    "sg:province": "OH",
+    "sg:tags": [
+      "osteopathic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2gIFkXYmu8VroUo9pAWVbh_40.923290_-81.005622@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2gIFkXYmu8VroUo9pAWVbh_40.923290_-81.005622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801073,
-    "wof:geomhash":"81aaaef217837082acd8105774a57352",
-    "wof:hierarchy":[],
-    "wof:id":706334009,
-    "wof:lastmodified":1472639830,
-    "wof:name":"Corallo David Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "osteopathic"
+    "wof:country": "US",
+    "wof:created": 1461801073,
+    "wof:geomhash": "7e8da89b6c6174fb7c0164338fa3edbb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706334009
+      }
+    ],
+    "wof:id": 706334009,
+    "wof:lastmodified": 1638567083,
+    "wof:name": "Corallo David Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "osteopathic"
     ]
-},
+  },
   "bbox": [
     -81.005622,
     40.92329,
     -81.005622,
     40.92329
-],
+  ],
   "geometry": {"coordinates":[-81.005622,40.92329],"type":"Point"}
 }

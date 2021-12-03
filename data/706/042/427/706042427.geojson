@@ -2,61 +2,65 @@
   "id": 706042427,
   "type": "Feature",
   "properties": {
-    "addr:full":"3505 Armstrong Rd Wooster OH 44691",
-    "addr:housenumber":"3505",
-    "addr:postcode":"44691",
-    "addr:street":"Armstrong Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.004209,40.901186,-82.004209,40.901186",
-    "geom:latitude":40.901186,
-    "geom:longitude":-82.004209,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3505 Armstrong Rd",
-    "sg:city":"Wooster",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "3505 Armstrong Rd Wooster OH 44691",
+    "addr:housenumber": "3505",
+    "addr:postcode": "44691",
+    "addr:street": "Armstrong Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.004209,40.901186,-82.004209,40.901186",
+    "geom:latitude": 40.901186,
+    "geom:longitude": -82.004209,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3505 Armstrong Rd",
+    "sg:city": "Wooster",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 345 3570",
-    "sg:postcode":"44691",
-    "sg:province":"OH",
-    "sg:tags":[
-        "welding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 345 3570",
+    "sg:postcode": "44691",
+    "sg:province": "OH",
+    "sg:tags": [
+      "welding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1apLfdNlg0G7xgT9UV583A_40.901186_-82.004209@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1apLfdNlg0G7xgT9UV583A_40.901186_-82.004209@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794450,
-    "wof:geomhash":"16bce5faf60b391bb7e8097ae3d18ecb",
-    "wof:hierarchy":[],
-    "wof:id":706042427,
-    "wof:lastmodified":1472638907,
-    "wof:name":"Superior Welding Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "welding"
+    "wof:country": "US",
+    "wof:created": 1461794450,
+    "wof:geomhash": "a17c042eb38d76a3a8fbff8d44560a42",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706042427
+      }
+    ],
+    "wof:id": 706042427,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Superior Welding Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "welding"
     ]
-},
+  },
   "bbox": [
     -82.004209,
     40.901186,
     -82.004209,
     40.901186
-],
+  ],
   "geometry": {"coordinates":[-82.004209,40.901186],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706373107,
   "type": "Feature",
   "properties": {
-    "addr:full":"209 N Main St Walbridge OH 43465",
-    "addr:housenumber":"209",
-    "addr:postcode":"43465",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.49341,41.589777,-83.49341,41.589777",
-    "geom:latitude":41.589777,
-    "geom:longitude":-83.49341,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"209 N Main St",
-    "sg:city":"Walbridge",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        }
+    "addr:full": "209 N Main St Walbridge OH 43465",
+    "addr:housenumber": "209",
+    "addr:postcode": "43465",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.493410,41.589777,-83.493410,41.589777",
+    "geom:latitude": 41.589777,
+    "geom:longitude": -83.49341,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "209 N Main St",
+    "sg:city": "Walbridge",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 661 1313",
-    "sg:postcode":"43465",
-    "sg:province":"OH",
-    "sg:tags":[
-        "day"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 661 1313",
+    "sg:postcode": "43465",
+    "sg:province": "OH",
+    "sg:tags": [
+      "day"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4alXZi19vKuD5DpgzieHT1_41.589777_-83.493410@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4alXZi19vKuD5DpgzieHT1_41.589777_-83.493410@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801871,
-    "wof:geomhash":"439353f3d71d105d60f8680acaa6cc87",
-    "wof:hierarchy":[],
-    "wof:id":706373107,
-    "wof:lastmodified":1472639940,
-    "wof:name":"Ever Gard Day Care Ctr Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "day"
+    "wof:country": "US",
+    "wof:created": 1461801871,
+    "wof:geomhash": "d2cd8af0786c2739b8927ddbd686776d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706373107
+      }
+    ],
+    "wof:id": 706373107,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Ever Gard Day Care Ctr Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "day"
     ]
-},
+  },
   "bbox": [
     -83.49341,
     41.589777,
     -83.49341,
     41.589777
-],
+  ],
   "geometry": {"coordinates":[-83.49341,41.589777],"type":"Point"}
 }

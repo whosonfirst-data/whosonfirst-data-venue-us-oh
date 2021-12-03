@@ -2,61 +2,65 @@
   "id": 706201441,
   "type": "Feature",
   "properties": {
-    "addr:full":"7547 Hill Rd Butler OH 44822",
-    "addr:housenumber":"7547",
-    "addr:postcode":"44822",
-    "addr:street":"Hill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.405028,40.558468,-82.405028,40.558468",
-    "geom:latitude":40.558468,
-    "geom:longitude":-82.405028,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7547 Hill Rd",
-    "sg:city":"Butler",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "7547 Hill Rd Butler OH 44822",
+    "addr:housenumber": "7547",
+    "addr:postcode": "44822",
+    "addr:street": "Hill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.405028,40.558468,-82.405028,40.558468",
+    "geom:latitude": 40.558468,
+    "geom:longitude": -82.405028,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7547 Hill Rd",
+    "sg:city": "Butler",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 883 2042",
-    "sg:postcode":"44822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 883 2042",
+    "sg:postcode": "44822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_50QWaXnq7rBeorO3mOCwa3_40.558468_-82.405028@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_50QWaXnq7rBeorO3mOCwa3_40.558468_-82.405028@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798106,
-    "wof:geomhash":"e34bcc68e03b667e95e0f2abba57181e",
-    "wof:hierarchy":[],
-    "wof:id":706201441,
-    "wof:lastmodified":1472639493,
-    "wof:name":"Brennstuhl Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461798106,
+    "wof:geomhash": "66727dd5205cb3b842da85f49178f9f1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706201441
+      }
+    ],
+    "wof:id": 706201441,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Brennstuhl Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -82.405028,
     40.558468,
     -82.405028,
     40.558468
-],
+  ],
   "geometry": {"coordinates":[-82.405028,40.558468],"type":"Point"}
 }

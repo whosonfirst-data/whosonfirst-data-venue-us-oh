@@ -2,69 +2,73 @@
   "id": 706542443,
   "type": "Feature",
   "properties": {
-    "addr:full":"475 Ohio Pike Cincinnati OH 45255",
-    "addr:housenumber":"475",
-    "addr:postcode":"45255",
-    "addr:street":"Ohio Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.308756,39.070976,-84.308756,39.070976",
-    "geom:latitude":39.070976,
-    "geom:longitude":-84.308756,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"475 Ohio Pike",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "475 Ohio Pike Cincinnati OH 45255",
+    "addr:housenumber": "475",
+    "addr:postcode": "45255",
+    "addr:street": "Ohio Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.308756,39.070976,-84.308756,39.070976",
+    "geom:latitude": 39.070976,
+    "geom:longitude": -84.308756,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "475 Ohio Pike",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 528 4075",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking",
-        "eating",
-        "italian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 528 4075",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking",
+      "eating",
+      "italian"
     ],
-    "sg:website":"www.olivegarden.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420575983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6yegZPuvhY9Z96gCQhshBl_39.071448_-84.308269@1293134755"
+    "sg:website": "www.olivegarden.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420575983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6yegZPuvhY9Z96gCQhshBl_39.071448_-84.308269@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461805508,
-    "wof:geomhash":"7b520000c7812defc4782d60d37dc8e1",
-    "wof:hierarchy":[],
-    "wof:id":706542443,
-    "wof:lastmodified":1511316887,
-    "wof:name":"Olive Garden",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking",
-        "eating",
-        "italian"
+    "wof:country": "US",
+    "wof:created": 1461805508,
+    "wof:geomhash": "7b520000c7812defc4782d60d37dc8e1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706542443
+      }
+    ],
+    "wof:id": 706542443,
+    "wof:lastmodified": 1638567133,
+    "wof:name": "Olive Garden",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking",
+      "eating",
+      "italian"
     ]
-},
+  },
   "bbox": [
     -84.308756,
     39.070976,
     -84.308756,
     39.070976
-],
+  ],
   "geometry": {"coordinates":[-84.308756,39.070976],"type":"Point"}
 }

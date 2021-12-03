@@ -2,70 +2,74 @@
   "id": 706144249,
   "type": "Feature",
   "properties": {
-    "addr:full":"1505 Eastern Ave Gallipolis OH 45631",
-    "addr:housenumber":"1505",
-    "addr:postcode":"45631",
-    "addr:street":"Eastern Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.181135,38.819085,-82.181135,38.819085",
-    "geom:latitude":38.819085,
-    "geom:longitude":-82.181135,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1505 Eastern Ave",
-    "sg:city":"Gallipolis",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Manufacturing",
-            "subcategory":"Glass & Minerals",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1505 Eastern Ave Gallipolis OH 45631",
+    "addr:housenumber": "1505",
+    "addr:postcode": "45631",
+    "addr:street": "Eastern Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.181135,38.819085,-82.181135,38.819085",
+    "geom:latitude": 38.819085,
+    "geom:longitude": -82.181135,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1505 Eastern Ave",
+    "sg:city": "Gallipolis",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Manufacturing",
+        "subcategory": "Glass \u0026 Minerals",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 446 1594",
-    "sg:postcode":"45631",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manufacture",
-        "concrete",
-        "mixed"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 446 1594",
+    "sg:postcode": "45631",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manufacture",
+      "concrete",
+      "mixed"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2BviizcgF24qzBnDks5k00_38.819085_-82.181135@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2BviizcgF24qzBnDks5k00_38.819085_-82.181135@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796850,
-    "wof:geomhash":"2360cbda6d7a58eeb04532730b15e1dd",
-    "wof:hierarchy":[],
-    "wof:id":706144249,
-    "wof:lastmodified":1472639334,
-    "wof:name":"Arrow Concrete Company",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manufacture",
-        "concrete",
-        "mixed"
+    "wof:country": "US",
+    "wof:created": 1461796850,
+    "wof:geomhash": "2d818b1cbdd39671c5ea6eac8b991fd7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706144249
+      }
+    ],
+    "wof:id": 706144249,
+    "wof:lastmodified": 1638567014,
+    "wof:name": "Arrow Concrete Company",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manufacture",
+      "concrete",
+      "mixed"
     ]
-},
+  },
   "bbox": [
     -82.181135,
     38.819085,
     -82.181135,
     38.819085
-],
+  ],
   "geometry": {"coordinates":[-82.181135,38.819085],"type":"Point"}
 }

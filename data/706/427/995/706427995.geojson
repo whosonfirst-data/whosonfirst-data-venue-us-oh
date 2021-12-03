@@ -2,61 +2,65 @@
   "id": 706427995,
   "type": "Feature",
   "properties": {
-    "addr:full":"1007 Riverside Ave Defiance OH 43512",
-    "addr:housenumber":"1007",
-    "addr:postcode":"43512",
-    "addr:street":"Riverside Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.363775,41.2746,-84.363775,41.2746",
-    "geom:latitude":41.2746,
-    "geom:longitude":-84.363775,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1007 Riverside Ave",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1007 Riverside Ave Defiance OH 43512",
+    "addr:housenumber": "1007",
+    "addr:postcode": "43512",
+    "addr:street": "Riverside Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.363775,41.274600,-84.363775,41.274600",
+    "geom:latitude": 41.2746,
+    "geom:longitude": -84.363775,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1007 Riverside Ave",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 782 7091",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 782 7091",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0s8ot2i1M7KU9aUd9m4S9e_41.274600_-84.363775@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0s8ot2i1M7KU9aUd9m4S9e_41.274600_-84.363775@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802943,
-    "wof:geomhash":"dd7b9921ad9dd997557ba391de8896e1",
-    "wof:hierarchy":[],
-    "wof:id":706427995,
-    "wof:lastmodified":1472640021,
-    "wof:name":"SC Defiance Cty Bus Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461802943,
+    "wof:geomhash": "cd9d24e1d76b5906eae5de63f9a1606b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706427995
+      }
+    ],
+    "wof:id": 706427995,
+    "wof:lastmodified": 1638567115,
+    "wof:name": "SC Defiance Cty Bus Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general"
     ]
-},
+  },
   "bbox": [
     -84.363775,
     41.2746,
     -84.363775,
     41.2746
-],
+  ],
   "geometry": {"coordinates":[-84.363775,41.2746],"type":"Point"}
 }

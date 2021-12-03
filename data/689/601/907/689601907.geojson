@@ -2,61 +2,65 @@
   "id": 689601907,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Main St Osgood OH 45351",
-    "addr:housenumber":"45",
-    "addr:postcode":"45351",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.495729,40.339659,-84.495729,40.339659",
-    "geom:latitude":40.339659,
-    "geom:longitude":-84.495729,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45 Main St",
-    "sg:city":"Osgood",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Meat",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "45 Main St Osgood OH 45351",
+    "addr:housenumber": "45",
+    "addr:postcode": "45351",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.495729,40.339659,-84.495729,40.339659",
+    "geom:latitude": 40.339659,
+    "geom:longitude": -84.495729,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "45 Main St",
+    "sg:city": "Osgood",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Meat",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 582 2441",
-    "sg:postcode":"45351",
-    "sg:province":"OH",
-    "sg:tags":[
-        "product"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 582 2441",
+    "sg:postcode": "45351",
+    "sg:province": "OH",
+    "sg:tags": [
+      "product"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0AumXrYf9dp96h30l1LA4n_40.339659_-84.495729@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0AumXrYf9dp96h30l1LA4n_40.339659_-84.495729@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776308,
-    "wof:geomhash":"1d105ab6451bdd469efbc959c4548bed",
-    "wof:hierarchy":[],
-    "wof:id":689601907,
-    "wof:lastmodified":1472639429,
-    "wof:name":"Robert Winner Sons Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product"
+    "wof:country": "US",
+    "wof:created": 1461776308,
+    "wof:geomhash": "c1aa6f2662525655ab73c93ff385e9d1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689601907
+      }
+    ],
+    "wof:id": 689601907,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Robert Winner Sons Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product"
     ]
-},
+  },
   "bbox": [
     -84.495729,
     40.339659,
     -84.495729,
     40.339659
-],
+  ],
   "geometry": {"coordinates":[-84.495729,40.339659],"type":"Point"}
 }

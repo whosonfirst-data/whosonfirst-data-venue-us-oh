@@ -2,67 +2,71 @@
   "id": 706563723,
   "type": "Feature",
   "properties": {
-    "addr:full":"1052 W Main St Ravenna OH 44266",
-    "addr:housenumber":"1052",
-    "addr:postcode":"44266",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.261197,41.158375,-81.261197,41.158375",
-    "geom:latitude":41.158375,
-    "geom:longitude":-81.261197,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1052 W Main St",
-    "sg:city":"Ravenna",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1052 W Main St Ravenna OH 44266",
+    "addr:housenumber": "1052",
+    "addr:postcode": "44266",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.261197,41.158375,-81.261197,41.158375",
+    "geom:latitude": 41.158375,
+    "geom:longitude": -81.261197,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1052 W Main St",
+    "sg:city": "Ravenna",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/ravenna/134026-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 297 5555",
-    "sg:postcode":"44266",
-    "sg:province":"OH",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/ravenna/134026-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 297 5555",
+    "sg:postcode": "44266",
+    "sg:province": "OH",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3yHZX55dZQMgwTPeO7o84t_41.158375_-81.261197@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3yHZX55dZQMgwTPeO7o84t_41.158375_-81.261197@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805926,
-    "wof:geomhash":"ece5ca5d24badbfb3e4c609a10fd9028",
-    "wof:hierarchy":[],
-    "wof:id":706563723,
-    "wof:lastmodified":1511322277,
-    "wof:name":"Subway",
-    "wof:parent_id":420535149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461805926,
+    "wof:geomhash": "ece5ca5d24badbfb3e4c609a10fd9028",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706563723
+      }
+    ],
+    "wof:id": 706563723,
+    "wof:lastmodified": 1638567152,
+    "wof:name": "Subway",
+    "wof:parent_id": 420535149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -81.261197,
     41.158375,
     -81.261197,
     41.158375
-],
+  ],
   "geometry": {"coordinates":[-81.261197,41.158375],"type":"Point"}
 }

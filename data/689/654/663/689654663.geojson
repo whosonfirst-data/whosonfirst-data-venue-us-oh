@@ -2,61 +2,65 @@
   "id": 689654663,
   "type": "Feature",
   "properties": {
-    "addr:full":"879 Danwood Rd Mansfield OH 44907",
-    "addr:housenumber":"879",
-    "addr:postcode":"44907",
-    "addr:street":"Danwood Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.500399,40.733701,-82.500399,40.733701",
-    "geom:latitude":40.733701,
-    "geom:longitude":-82.500399,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"879 Danwood Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "879 Danwood Rd Mansfield OH 44907",
+    "addr:housenumber": "879",
+    "addr:postcode": "44907",
+    "addr:street": "Danwood Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.500399,40.733701,-82.500399,40.733701",
+    "geom:latitude": 40.733701,
+    "geom:longitude": -82.500399,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "879 Danwood Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 756 4669",
-    "sg:postcode":"44907",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 756 4669",
+    "sg:postcode": "44907",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5lMao2zmMQU8m1askF4oRh_40.733701_-82.500399@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5lMao2zmMQU8m1askF4oRh_40.733701_-82.500399@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777984,
-    "wof:geomhash":"bc28325ed67a057a19ed4ede6b9daaa6",
-    "wof:hierarchy":[],
-    "wof:id":689654663,
-    "wof:lastmodified":1472639572,
-    "wof:name":"A & B Express",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461777984,
+    "wof:geomhash": "d8fa801ccdefaf67e14543fd91356587",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689654663
+      }
+    ],
+    "wof:id": 689654663,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "A \u0026 B Express",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.500399,
     40.733701,
     -82.500399,
     40.733701
-],
+  ],
   "geometry": {"coordinates":[-82.500399,40.733701],"type":"Point"}
 }

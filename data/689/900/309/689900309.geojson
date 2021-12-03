@@ -2,65 +2,69 @@
   "id": 689900309,
   "type": "Feature",
   "properties": {
-    "addr:full":"3273 Liberty Rd Willard OH 44890",
-    "addr:housenumber":"3273",
-    "addr:postcode":"44890",
-    "addr:street":"Liberty Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.75526,41.053979,-82.75526,41.053979",
-    "geom:latitude":41.053979,
-    "geom:longitude":-82.75526,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3273 Liberty Rd",
-    "sg:city":"Willard",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3273 Liberty Rd Willard OH 44890",
+    "addr:housenumber": "3273",
+    "addr:postcode": "44890",
+    "addr:street": "Liberty Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.755260,41.053979,-82.755260,41.053979",
+    "geom:latitude": 41.053979,
+    "geom:longitude": -82.75526,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3273 Liberty Rd",
+    "sg:city": "Willard",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 933 2586",
-    "sg:postcode":"44890",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 933 2586",
+    "sg:postcode": "44890",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_58LVq3B7OgP6GTQgDe2bst_41.053979_-82.755260@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_58LVq3B7OgP6GTQgDe2bst_41.053979_-82.755260@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784581,
-    "wof:geomhash":"7f537a29103a18440f341c4ed3de2430",
-    "wof:hierarchy":[],
-    "wof:id":689900309,
-    "wof:lastmodified":1472640048,
-    "wof:name":"Herners Water & Stone Hauling",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461784581,
+    "wof:geomhash": "c968021acf3fddc1c5060a6d8a881aee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689900309
+      }
+    ],
+    "wof:id": 689900309,
+    "wof:lastmodified": 1638567096,
+    "wof:name": "Herners Water \u0026 Stone Hauling",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.75526,
     41.053979,
     -82.75526,
     41.053979
-],
-  "geometry": {"coordinates":[-82.75526000000001,41.053979],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.75526,41.053979],"type":"Point"}
 }

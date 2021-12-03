@@ -2,61 +2,65 @@
   "id": 706464013,
   "type": "Feature",
   "properties": {
-    "addr:full":"640 W North St Piqua OH 45356",
-    "addr:housenumber":"640",
-    "addr:postcode":"45356",
-    "addr:street":"W North St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.248239,40.151749,-84.248239,40.151749",
-    "geom:latitude":40.151749,
-    "geom:longitude":-84.248239,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"640 W North St",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "640 W North St Piqua OH 45356",
+    "addr:housenumber": "640",
+    "addr:postcode": "45356",
+    "addr:street": "W North St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.248239,40.151749,-84.248239,40.151749",
+    "geom:latitude": 40.151749,
+    "geom:longitude": -84.248239,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "640 W North St",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 328 2211",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 328 2211",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Gt1iINGUJF8DUoyrttqxl_40.151749_-84.248239@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Gt1iINGUJF8DUoyrttqxl_40.151749_-84.248239@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803730,
-    "wof:geomhash":"4217b69cd4f9d58d5528ba17b8892e46",
-    "wof:hierarchy":[],
-    "wof:id":706464013,
-    "wof:lastmodified":1472640055,
-    "wof:name":"Pager Depot",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461803730,
+    "wof:geomhash": "e5426e0e5edede806b3e965be1ca0bbe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706464013
+      }
+    ],
+    "wof:id": 706464013,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Pager Depot",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -84.248239,
     40.151749,
     -84.248239,
     40.151749
-],
+  ],
   "geometry": {"coordinates":[-84.248239,40.151749],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706245735,
   "type": "Feature",
   "properties": {
-    "addr:full":"107 E Main St Blanchester OH 45107",
-    "addr:housenumber":"107",
-    "addr:postcode":"45107",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.98752,39.293902,-83.98752,39.293902",
-    "geom:latitude":39.293902,
-    "geom:longitude":-83.98752,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"107 E Main St",
-    "sg:city":"Blanchester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "107 E Main St Blanchester OH 45107",
+    "addr:housenumber": "107",
+    "addr:postcode": "45107",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.987520,39.293902,-83.987520,39.293902",
+    "geom:latitude": 39.293902,
+    "geom:longitude": -83.98752,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "107 E Main St",
+    "sg:city": "Blanchester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 783 0419",
-    "sg:postcode":"45107",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 783 0419",
+    "sg:postcode": "45107",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_18dWOjk8EcsJVXWMFDw50i_39.293902_-83.987520@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_18dWOjk8EcsJVXWMFDw50i_39.293902_-83.987520@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799094,
-    "wof:geomhash":"c07d63ff8daff952eb1c0064dc804462",
-    "wof:hierarchy":[],
-    "wof:id":706245735,
-    "wof:lastmodified":1472639586,
-    "wof:name":"McDs Diner",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461799094,
+    "wof:geomhash": "40cfa95e8b17086afc7ea2e72b948015",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706245735
+      }
+    ],
+    "wof:id": 706245735,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "McDs Diner",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.98752,
     39.293902,
     -83.98752,
     39.293902
-],
+  ],
   "geometry": {"coordinates":[-83.98752,39.293902],"type":"Point"}
 }

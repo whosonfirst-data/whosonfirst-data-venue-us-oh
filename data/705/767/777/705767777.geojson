@@ -2,61 +2,65 @@
   "id": 705767777,
   "type": "Feature",
   "properties": {
-    "addr:full":"1345 N Main St Orrville OH 44667",
-    "addr:housenumber":"1345",
-    "addr:postcode":"44667",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.763912,40.85359,-81.763912,40.85359",
-    "geom:latitude":40.85359,
-    "geom:longitude":-81.763912,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1345 N Main St",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Engineering",
-            "type":"Services"
-        }
+    "addr:full": "1345 N Main St Orrville OH 44667",
+    "addr:housenumber": "1345",
+    "addr:postcode": "44667",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.763912,40.853590,-81.763912,40.853590",
+    "geom:latitude": 40.85359,
+    "geom:longitude": -81.763912,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1345 N Main St",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Engineering",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 682 4007",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "engineer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 682 4007",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "engineer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1bnSpDgun4QCQBhUR0yRVe_40.853590_-81.763912@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1bnSpDgun4QCQBhUR0yRVe_40.853590_-81.763912@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788251,
-    "wof:geomhash":"507a1d79f2bc6581c3431e352c9930a7",
-    "wof:hierarchy":[],
-    "wof:id":705767777,
-    "wof:lastmodified":1472639243,
-    "wof:name":"EER Engineers",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "engineer"
+    "wof:country": "US",
+    "wof:created": 1461788251,
+    "wof:geomhash": "c799a163b922498a17f4e96a04e223f1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705767777
+      }
+    ],
+    "wof:id": 705767777,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "EER Engineers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "engineer"
     ]
-},
+  },
   "bbox": [
     -81.763912,
     40.85359,
     -81.763912,
     40.85359
-],
+  ],
   "geometry": {"coordinates":[-81.763912,40.85359],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689605519,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 Virginia Ln Cincinnati OH 45244",
-    "addr:housenumber":"555",
-    "addr:postcode":"45244",
-    "addr:street":"Virginia Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.293509,39.119373,-84.293509,39.119373",
-    "geom:latitude":39.119373,
-    "geom:longitude":-84.293509,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"555 Virginia Ln",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Landscaping Services",
-            "type":"Services"
-        }
+    "addr:full": "555 Virginia Ln Cincinnati OH 45244",
+    "addr:housenumber": "555",
+    "addr:postcode": "45244",
+    "addr:street": "Virginia Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.293509,39.119373,-84.293509,39.119373",
+    "geom:latitude": 39.119373,
+    "geom:longitude": -84.293509,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "555 Virginia Ln",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Landscaping Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 528 7168",
-    "sg:postcode":"45244",
-    "sg:province":"OH",
-    "sg:tags":[
-        "landscape"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 528 7168",
+    "sg:postcode": "45244",
+    "sg:province": "OH",
+    "sg:tags": [
+      "landscape"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1cxTEcoX8ROoW8WcwtWU1B_39.119373_-84.293509@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1cxTEcoX8ROoW8WcwtWU1B_39.119373_-84.293509@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776428,
-    "wof:geomhash":"f99520e7ad2062980c767c3b001bce83",
-    "wof:hierarchy":[],
-    "wof:id":689605519,
-    "wof:lastmodified":1472639417,
-    "wof:name":"East Woods Landscaping Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "landscape"
+    "wof:country": "US",
+    "wof:created": 1461776428,
+    "wof:geomhash": "f05026cea3aca2217c01455f63e06794",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689605519
+      }
+    ],
+    "wof:id": 689605519,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "East Woods Landscaping Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "landscape"
     ]
-},
+  },
   "bbox": [
     -84.293509,
     39.119373,
     -84.293509,
     39.119373
-],
+  ],
   "geometry": {"coordinates":[-84.293509,39.119373],"type":"Point"}
 }

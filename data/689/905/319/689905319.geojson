@@ -2,61 +2,65 @@
   "id": 689905319,
   "type": "Feature",
   "properties": {
-    "addr:full":"932 Cunningham Ct Tipp City OH 45371",
-    "addr:housenumber":"932",
-    "addr:postcode":"45371",
-    "addr:street":"Cunningham Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.189514,39.976061,-84.189514,39.976061",
-    "geom:latitude":39.976061,
-    "geom:longitude":-84.189514,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"932 Cunningham Ct",
-    "sg:city":"Tipp City",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "932 Cunningham Ct Tipp City OH 45371",
+    "addr:housenumber": "932",
+    "addr:postcode": "45371",
+    "addr:street": "Cunningham Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.189514,39.976061,-84.189514,39.976061",
+    "geom:latitude": 39.976061,
+    "geom:longitude": -84.189514,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "932 Cunningham Ct",
+    "sg:city": "Tipp City",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 669 4057",
-    "sg:postcode":"45371",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 669 4057",
+    "sg:postcode": "45371",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45MM3ooJATwk29RP5z2Kku_39.976061_-84.189514@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_45MM3ooJATwk29RP5z2Kku_39.976061_-84.189514@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784717,
-    "wof:geomhash":"cce38ad78394407460d033aff6988b6e",
-    "wof:hierarchy":[],
-    "wof:id":689905319,
-    "wof:lastmodified":1472640060,
-    "wof:name":"Ohio Styling Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461784717,
+    "wof:geomhash": "06c58aa3ad316d3827ec2390c815f232",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689905319
+      }
+    ],
+    "wof:id": 689905319,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Ohio Styling Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.189514,
     39.976061,
     -84.189514,
     39.976061
-],
+  ],
   "geometry": {"coordinates":[-84.189514,39.976061],"type":"Point"}
 }

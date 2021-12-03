@@ -2,61 +2,65 @@
   "id": 706355441,
   "type": "Feature",
   "properties": {
-    "addr:full":"11245 Heritage Dr Twinsburg OH 44087",
-    "addr:housenumber":"11245",
-    "addr:postcode":"44087",
-    "addr:street":"Heritage Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.46634,41.347586,-81.46634,41.347586",
-    "geom:latitude":41.347586,
-    "geom:longitude":-81.46634,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11245 Heritage Dr",
-    "sg:city":"Twinsburg",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "11245 Heritage Dr Twinsburg OH 44087",
+    "addr:housenumber": "11245",
+    "addr:postcode": "44087",
+    "addr:street": "Heritage Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.466340,41.347586,-81.466340,41.347586",
+    "geom:latitude": 41.347586,
+    "geom:longitude": -81.46634,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11245 Heritage Dr",
+    "sg:city": "Twinsburg",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 963 7455",
-    "sg:postcode":"44087",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 963 7455",
+    "sg:postcode": "44087",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0BhMudSosX2PYlMkiQDCrK_41.347586_-81.466340@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0BhMudSosX2PYlMkiQDCrK_41.347586_-81.466340@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801514,
-    "wof:geomhash":"19ce268885e9fe1de4757ce9b283b33d",
-    "wof:hierarchy":[],
-    "wof:id":706355441,
-    "wof:lastmodified":1472639904,
-    "wof:name":"Maros Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461801514,
+    "wof:geomhash": "d15a830c77fa8940b21490f87e486af9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706355441
+      }
+    ],
+    "wof:id": 706355441,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Maros Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.46634,
     41.347586,
     -81.46634,
     41.347586
-],
+  ],
   "geometry": {"coordinates":[-81.46634,41.347586],"type":"Point"}
 }

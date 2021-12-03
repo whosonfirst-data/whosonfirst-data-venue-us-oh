@@ -2,63 +2,67 @@
   "id": 705754331,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 Lattin St Cortland OH 44410",
-    "addr:housenumber":"204",
-    "addr:postcode":"44410",
-    "addr:street":"Lattin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.729254,41.330948,-80.729254,41.330948",
-    "geom:latitude":41.330948,
-    "geom:longitude":-80.729254,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"204 Lattin St",
-    "sg:city":"Cortland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "204 Lattin St Cortland OH 44410",
+    "addr:housenumber": "204",
+    "addr:postcode": "44410",
+    "addr:street": "Lattin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.729254,41.330948,-80.729254,41.330948",
+    "geom:latitude": 41.330948,
+    "geom:longitude": -80.729254,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "204 Lattin St",
+    "sg:city": "Cortland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 637 1550",
-    "sg:postcode":"44410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 637 1550",
+    "sg:postcode": "44410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hDpbdj4VowCM1AYMQRYkP_41.330948_-80.729254@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0hDpbdj4VowCM1AYMQRYkP_41.330948_-80.729254@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787953,
-    "wof:geomhash":"2f16552549f0ac93c6332b08aeabbbb3",
-    "wof:hierarchy":[],
-    "wof:id":705754331,
-    "wof:lastmodified":1472639191,
-    "wof:name":"Bull Run Self Storage",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461787953,
+    "wof:geomhash": "01ec2fe4731c3c25a5d0eef66c687f7a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705754331
+      }
+    ],
+    "wof:id": 705754331,
+    "wof:lastmodified": 1638566968,
+    "wof:name": "Bull Run Self Storage",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -80.729254,
     41.330948,
     -80.729254,
     41.330948
-],
+  ],
   "geometry": {"coordinates":[-80.729254,41.330948],"type":"Point"}
 }

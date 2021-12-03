@@ -2,63 +2,67 @@
   "id": 706001853,
   "type": "Feature",
   "properties": {
-    "addr:full":"2323 Campbell Rd Sidney OH 45365",
-    "addr:housenumber":"2323",
-    "addr:postcode":"45365",
-    "addr:street":"Campbell Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.188752,40.280386,-84.188752,40.280386",
-    "geom:latitude":40.280386,
-    "geom:longitude":-84.188752,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2323 Campbell Rd",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2323 Campbell Rd Sidney OH 45365",
+    "addr:housenumber": "2323",
+    "addr:postcode": "45365",
+    "addr:street": "Campbell Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.188752,40.280386,-84.188752,40.280386",
+    "geom:latitude": 40.280386,
+    "geom:longitude": -84.188752,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2323 Campbell Rd",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 435 7588",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "terminal",
-        "dispatch"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 435 7588",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "terminal",
+      "dispatch"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7btUCbELtfhmsyCw12J9Eq_40.280386_-84.188752@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7btUCbELtfhmsyCw12J9Eq_40.280386_-84.188752@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793617,
-    "wof:geomhash":"f5d378ff55befbddded4c70901342264",
-    "wof:hierarchy":[],
-    "wof:id":706001853,
-    "wof:lastmodified":1472638276,
-    "wof:name":"Dedicated Fleet Services",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "terminal",
-        "dispatch"
+    "wof:country": "US",
+    "wof:created": 1461793617,
+    "wof:geomhash": "b57d151627acd867f67a649f49389f03",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706001853
+      }
+    ],
+    "wof:id": 706001853,
+    "wof:lastmodified": 1638566926,
+    "wof:name": "Dedicated Fleet Services",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "terminal",
+      "dispatch"
     ]
-},
+  },
   "bbox": [
     -84.188752,
     40.280386,
     -84.188752,
     40.280386
-],
-  "geometry": {"coordinates":[-84.18875199999999,40.280386],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.188752,40.280386],"type":"Point"}
 }

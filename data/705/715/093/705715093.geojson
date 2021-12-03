@@ -2,63 +2,67 @@
   "id": 705715093,
   "type": "Feature",
   "properties": {
-    "addr:full":"166 Vine Ave Salem OH 44460",
-    "addr:housenumber":"166",
-    "addr:postcode":"44460",
-    "addr:street":"Vine Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.849965,40.901755,-80.849965,40.901755",
-    "geom:latitude":40.901755,
-    "geom:longitude":-80.849965,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"166 Vine Ave",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "166 Vine Ave Salem OH 44460",
+    "addr:housenumber": "166",
+    "addr:postcode": "44460",
+    "addr:street": "Vine Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.849965,40.901755,-80.849965,40.901755",
+    "geom:latitude": 40.901755,
+    "geom:longitude": -80.849965,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "166 Vine Ave",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 337 3500",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 337 3500",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6xA9HFicIgbCA2wdC3bQVX_40.901755_-80.849965@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6xA9HFicIgbCA2wdC3bQVX_40.901755_-80.849965@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787041,
-    "wof:geomhash":"c49f866a36bf1a95730ae44c42f1efeb",
-    "wof:hierarchy":[],
-    "wof:id":705715093,
-    "wof:lastmodified":1472638422,
-    "wof:name":"Family Health Care-Columbiana",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461787041,
+    "wof:geomhash": "32577c1718db6e993676e5696bca517f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705715093
+      }
+    ],
+    "wof:id": 705715093,
+    "wof:lastmodified": 1638566931,
+    "wof:name": "Family Health Care-Columbiana",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.849965,
     40.901755,
     -80.849965,
     40.901755
-],
+  ],
   "geometry": {"coordinates":[-80.849965,40.901755],"type":"Point"}
 }

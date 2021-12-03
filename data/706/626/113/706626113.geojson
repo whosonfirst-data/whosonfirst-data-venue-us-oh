@@ -2,65 +2,69 @@
   "id": 706626113,
   "type": "Feature",
   "properties": {
-    "addr:full":"575 Chamber Dr Milford OH 45150",
-    "addr:housenumber":"575",
-    "addr:postcode":"45150",
-    "addr:street":"Chamber Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.27324,39.15817,-84.27324,39.15817",
-    "geom:latitude":39.15817,
-    "geom:longitude":-84.27324,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"575 Chamber Dr",
-    "sg:city":"Milford",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Financial Services",
-            "type":"Services"
-        }
+    "addr:full": "575 Chamber Dr Milford OH 45150",
+    "addr:housenumber": "575",
+    "addr:postcode": "45150",
+    "addr:street": "Chamber Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.273240,39.158170,-84.273240,39.158170",
+    "geom:latitude": 39.15817,
+    "geom:longitude": -84.27324,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "575 Chamber Dr",
+    "sg:city": "Milford",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 831 0100",
-    "sg:postcode":"45150",
-    "sg:province":"OH",
-    "sg:tags":[
-        "franchising"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 831 0100",
+    "sg:postcode": "45150",
+    "sg:province": "OH",
+    "sg:tags": [
+      "franchising"
     ],
-    "sg:website":"http://www.housedoctors.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125155143,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3EZ5jZ43cIsvBMdHI7hbJK_39.158170_-84.273240@1303262757"
+    "sg:website": "http://www.housedoctors.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125155143,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3EZ5jZ43cIsvBMdHI7hbJK_39.158170_-84.273240@1303262757"
     },
-    "wof:country":"US",
-    "wof:created":1461807272,
-    "wof:geomhash":"47f8ef7ff36dd4f488cabbbbb1315958",
-    "wof:hierarchy":[],
-    "wof:id":706626113,
-    "wof:lastmodified":1511317940,
-    "wof:name":"House Doctor",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "franchising"
+    "wof:country": "US",
+    "wof:created": 1461807272,
+    "wof:geomhash": "47f8ef7ff36dd4f488cabbbbb1315958",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706626113
+      }
+    ],
+    "wof:id": 706626113,
+    "wof:lastmodified": 1638567147,
+    "wof:name": "House Doctor",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "franchising"
     ]
-},
+  },
   "bbox": [
     -84.27324,
     39.15817,
     -84.27324,
     39.15817
-],
+  ],
   "geometry": {"coordinates":[-84.27324,39.15817],"type":"Point"}
 }

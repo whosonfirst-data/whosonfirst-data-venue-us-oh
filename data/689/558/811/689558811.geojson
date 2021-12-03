@@ -2,61 +2,65 @@
   "id": 689558811,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 E Washington St Lisbon OH 44432",
-    "addr:housenumber":"115",
-    "addr:postcode":"44432",
-    "addr:street":"E Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.767273,40.771004,-80.767273,40.771004",
-    "geom:latitude":40.771004,
-    "geom:longitude":-80.767273,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 E Washington St",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "115 E Washington St Lisbon OH 44432",
+    "addr:housenumber": "115",
+    "addr:postcode": "44432",
+    "addr:street": "E Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.767273,40.771004,-80.767273,40.771004",
+    "geom:latitude": 40.771004,
+    "geom:longitude": -80.767273,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "115 E Washington St",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 5540",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 5540",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1WWyF1HRhv4dnC0CcFDGGU_40.771004_-80.767273@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1WWyF1HRhv4dnC0CcFDGGU_40.771004_-80.767273@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774989,
-    "wof:geomhash":"8db7ff43bbd37685854321d24c31249a",
-    "wof:hierarchy":[],
-    "wof:id":689558811,
-    "wof:lastmodified":1472639312,
-    "wof:name":"Community Legal Aid Svc Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461774989,
+    "wof:geomhash": "87653981f85355ecc0844151539e1995",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689558811
+      }
+    ],
+    "wof:id": 689558811,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Community Legal Aid Svc Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -80.767273,
     40.771004,
     -80.767273,
     40.771004
-],
+  ],
   "geometry": {"coordinates":[-80.767273,40.771004],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706276403,
   "type": "Feature",
   "properties": {
-    "addr:full":"3102 Hayes Ave Sandusky OH 44870",
-    "addr:housenumber":"3102",
-    "addr:postcode":"44870",
-    "addr:street":"Hayes Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.719808,41.422641,-82.719808,41.422641",
-    "geom:latitude":41.422641,
-    "geom:longitude":-82.719808,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3102 Hayes Ave",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3102 Hayes Ave Sandusky OH 44870",
+    "addr:housenumber": "3102",
+    "addr:postcode": "44870",
+    "addr:street": "Hayes Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.719808,41.422641,-82.719808,41.422641",
+    "geom:latitude": 41.422641,
+    "geom:longitude": -82.719808,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3102 Hayes Ave",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 627 0595",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 627 0595",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45U7hFMJLYALQuYpF9KKMy_41.422641_-82.719808@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_45U7hFMJLYALQuYpF9KKMy_41.422641_-82.719808@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799763,
-    "wof:geomhash":"2ffea5e413c90d7a281fb8f0e7563e99",
-    "wof:hierarchy":[],
-    "wof:id":706276403,
-    "wof:lastmodified":1472639630,
-    "wof:name":"Handol Korean Methodist Church",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461799763,
+    "wof:geomhash": "3edb9320e907d84ff4787355e96f4a64",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706276403
+      }
+    ],
+    "wof:id": 706276403,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Handol Korean Methodist Church",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.719808,
     41.422641,
     -82.719808,
     41.422641
-],
+  ],
   "geometry": {"coordinates":[-82.719808,41.422641],"type":"Point"}
 }

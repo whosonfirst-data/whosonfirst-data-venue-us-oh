@@ -2,61 +2,65 @@
   "id": 705788245,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 N Blanchard St Findlay OH 45840",
-    "addr:housenumber":"1800",
-    "addr:postcode":"45840",
-    "addr:street":"N Blanchard St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.64147,41.06334,-83.64147,41.06334",
-    "geom:latitude":41.06334,
-    "geom:longitude":-83.64147,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1800 N Blanchard St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1800 N Blanchard St Findlay OH 45840",
+    "addr:housenumber": "1800",
+    "addr:postcode": "45840",
+    "addr:street": "N Blanchard St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.641470,41.063340,-83.641470,41.063340",
+    "geom:latitude": 41.06334,
+    "geom:longitude": -83.64147,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1800 N Blanchard St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 422 7664",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 422 7664",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2UbP3RcXL6NRJdeoSrQIHE_41.063340_-83.641470@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2UbP3RcXL6NRJdeoSrQIHE_41.063340_-83.641470@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788757,
-    "wof:geomhash":"3ef53c392c184dc77f21938e4239c539",
-    "wof:hierarchy":[],
-    "wof:id":705788245,
-    "wof:lastmodified":1472639245,
-    "wof:name":"Dental Center Of Nw Ohio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461788757,
+    "wof:geomhash": "12a58e38a1b1a4508b66b21482817399",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705788245
+      }
+    ],
+    "wof:id": 705788245,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Dental Center Of Nw Ohio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.64147,
     41.06334,
     -83.64147,
     41.06334
-],
+  ],
   "geometry": {"coordinates":[-83.64147,41.06334],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689591877,
   "type": "Feature",
   "properties": {
-    "addr:full":"6476 Buckeye Pkwy Grove City OH 43123",
-    "addr:housenumber":"6476",
-    "addr:postcode":"43123",
-    "addr:street":"Buckeye Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.048659,39.829953,-83.048659,39.829953",
-    "geom:latitude":39.829953,
-    "geom:longitude":-83.048659,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6476 Buckeye Pkwy",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "6476 Buckeye Pkwy Grove City OH 43123",
+    "addr:housenumber": "6476",
+    "addr:postcode": "43123",
+    "addr:street": "Buckeye Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.048659,39.829953,-83.048659,39.829953",
+    "geom:latitude": 39.829953,
+    "geom:longitude": -83.048659,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6476 Buckeye Pkwy",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 539 0618",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 539 0618",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3LzBoPgHCcp3LMnXHe0yDS_39.829953_-83.048659@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3LzBoPgHCcp3LMnXHe0yDS_39.829953_-83.048659@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775963,
-    "wof:geomhash":"1eb7c18e2b496afb42a182c420d8645b",
-    "wof:hierarchy":[],
-    "wof:id":689591877,
-    "wof:lastmodified":1472639380,
-    "wof:name":"Dan's Hauling Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461775963,
+    "wof:geomhash": "cc53fceaec9a00d57076cb59904a9d1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689591877
+      }
+    ],
+    "wof:id": 689591877,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "Dan's Hauling Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -83.048659,
     39.829953,
     -83.048659,
     39.829953
-],
+  ],
   "geometry": {"coordinates":[-83.048659,39.829953],"type":"Point"}
 }

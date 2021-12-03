@@ -2,61 +2,65 @@
   "id": 706098895,
   "type": "Feature",
   "properties": {
-    "addr:full":"905 N Court St Circleville OH 43113",
-    "addr:housenumber":"905",
-    "addr:postcode":"43113",
-    "addr:street":"N Court St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.939701,39.616346,-82.939701,39.616346",
-    "geom:latitude":39.616346,
-    "geom:longitude":-82.939701,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"905 N Court St",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "905 N Court St Circleville OH 43113",
+    "addr:housenumber": "905",
+    "addr:postcode": "43113",
+    "addr:street": "N Court St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.939701,39.616346,-82.939701,39.616346",
+    "geom:latitude": 39.616346,
+    "geom:longitude": -82.939701,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "905 N Court St",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 474 4401",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 474 4401",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5JbXMH1OjEKDq2fK7LWnlX_39.616346_-82.939701@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5JbXMH1OjEKDq2fK7LWnlX_39.616346_-82.939701@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795760,
-    "wof:geomhash":"dd9321cc4525252831b0f87b7c5697d6",
-    "wof:hierarchy":[],
-    "wof:id":706098895,
-    "wof:lastmodified":1472639267,
-    "wof:name":"Forest Cemetery Association",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461795760,
+    "wof:geomhash": "6bd0f9a7eea5fa060362106e0c78bfec",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706098895
+      }
+    ],
+    "wof:id": 706098895,
+    "wof:lastmodified": 1638566986,
+    "wof:name": "Forest Cemetery Association",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -82.939701,
     39.616346,
     -82.939701,
     39.616346
-],
+  ],
   "geometry": {"coordinates":[-82.939701,39.616346],"type":"Point"}
 }

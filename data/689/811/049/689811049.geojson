@@ -2,63 +2,67 @@
   "id": 689811049,
   "type": "Feature",
   "properties": {
-    "addr:full":"5245 Thomas St Cleveland OH 44137",
-    "addr:housenumber":"5245",
-    "addr:postcode":"44137",
-    "addr:street":"Thomas St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.556382,41.420513,-81.556382,41.420513",
-    "geom:latitude":41.420513,
-    "geom:longitude":-81.556382,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5245 Thomas St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Plumbing",
-            "type":"Services"
-        }
+    "addr:full": "5245 Thomas St Cleveland OH 44137",
+    "addr:housenumber": "5245",
+    "addr:postcode": "44137",
+    "addr:street": "Thomas St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.556382,41.420513,-81.556382,41.420513",
+    "geom:latitude": 41.420513,
+    "geom:longitude": -81.556382,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5245 Thomas St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Plumbing",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 581 1800",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mechanical",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 581 1800",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mechanical",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_36BLJNEcg9RTQ7zk5VndoI_41.420513_-81.556382@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_36BLJNEcg9RTQ7zk5VndoI_41.420513_-81.556382@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782220,
-    "wof:geomhash":"b056ac3f79e4823697d8e645fd529670",
-    "wof:hierarchy":[],
-    "wof:id":689811049,
-    "wof:lastmodified":1472639876,
-    "wof:name":"Jackson Management Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mechanical",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461782220,
+    "wof:geomhash": "b202be91c4691ba20c8d7417415d5b9e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689811049
+      }
+    ],
+    "wof:id": 689811049,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Jackson Management Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mechanical",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.556382,
     41.420513,
     -81.556382,
     41.420513
-],
+  ],
   "geometry": {"coordinates":[-81.556382,41.420513],"type":"Point"}
 }

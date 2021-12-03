@@ -2,61 +2,65 @@
   "id": 689773911,
   "type": "Feature",
   "properties": {
-    "addr:full":"414 Mill St New Lexington OH 43764",
-    "addr:housenumber":"414",
-    "addr:postcode":"43764",
-    "addr:street":"Mill St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.200293,39.711289,-82.200293,39.711289",
-    "geom:latitude":39.711289,
-    "geom:longitude":-82.200293,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"414 Mill St",
-    "sg:city":"New Lexington",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "414 Mill St New Lexington OH 43764",
+    "addr:housenumber": "414",
+    "addr:postcode": "43764",
+    "addr:street": "Mill St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.200293,39.711289,-82.200293,39.711289",
+    "geom:latitude": 39.711289,
+    "geom:longitude": -82.200293,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "414 Mill St",
+    "sg:city": "New Lexington",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 342 5419",
-    "sg:postcode":"43764",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mental"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 342 5419",
+    "sg:postcode": "43764",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mental"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6kv2Y2AaXh0fU6xTyWnNPG_39.711289_-82.200293@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6kv2Y2AaXh0fU6xTyWnNPG_39.711289_-82.200293@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781101,
-    "wof:geomhash":"a6b119f858d3d63a16ccc4d08d4e0ba1",
-    "wof:hierarchy":[],
-    "wof:id":689773911,
-    "wof:lastmodified":1472639842,
-    "wof:name":"Residence Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mental"
+    "wof:country": "US",
+    "wof:created": 1461781101,
+    "wof:geomhash": "b50c8dd50e4464858b0d00b6d1b64ae9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689773911
+      }
+    ],
+    "wof:id": 689773911,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Residence Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mental"
     ]
-},
+  },
   "bbox": [
     -82.200293,
     39.711289,
     -82.200293,
     39.711289
-],
+  ],
   "geometry": {"coordinates":[-82.200293,39.711289],"type":"Point"}
 }

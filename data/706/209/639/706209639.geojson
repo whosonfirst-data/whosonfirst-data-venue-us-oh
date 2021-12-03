@@ -2,61 +2,65 @@
   "id": 706209639,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 Harding Way E Galion OH 44833",
-    "addr:housenumber":"301",
-    "addr:postcode":"44833",
-    "addr:street":"Harding Way E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.785966,40.733824,-82.785966,40.733824",
-    "geom:latitude":40.733824,
-    "geom:longitude":-82.785966,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"301 Harding Way E",
-    "sg:city":"Galion",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "301 Harding Way E Galion OH 44833",
+    "addr:housenumber": "301",
+    "addr:postcode": "44833",
+    "addr:street": "Harding Way E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.785966,40.733824,-82.785966,40.733824",
+    "geom:latitude": 40.733824,
+    "geom:longitude": -82.785966,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "301 Harding Way E",
+    "sg:city": "Galion",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 468 2818",
-    "sg:postcode":"44833",
-    "sg:province":"OH",
-    "sg:tags":[
-        "conservation"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 468 2818",
+    "sg:postcode": "44833",
+    "sg:province": "OH",
+    "sg:tags": [
+      "conservation"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1X3SY9xBurgEqhdGGrchxV_40.733824_-82.785966@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1X3SY9xBurgEqhdGGrchxV_40.733824_-82.785966@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798273,
-    "wof:geomhash":"1691bd084ecace17719862e935f2e90b",
-    "wof:hierarchy":[],
-    "wof:id":706209639,
-    "wof:lastmodified":1472639511,
-    "wof:name":"Street & Parks Department",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "conservation"
+    "wof:country": "US",
+    "wof:created": 1461798273,
+    "wof:geomhash": "b72749ea78a04d2e7270f1e589247135",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706209639
+      }
+    ],
+    "wof:id": 706209639,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Street \u0026 Parks Department",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "conservation"
     ]
-},
+  },
   "bbox": [
     -82.785966,
     40.733824,
     -82.785966,
     40.733824
-],
+  ],
   "geometry": {"coordinates":[-82.785966,40.733824],"type":"Point"}
 }

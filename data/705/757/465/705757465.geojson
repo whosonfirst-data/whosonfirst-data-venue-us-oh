@@ -2,61 +2,65 @@
   "id": 705757465,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 N Miami St West Milton OH 45383",
-    "addr:housenumber":"101",
-    "addr:postcode":"45383",
-    "addr:street":"N Miami St West",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.328369,39.964214,-84.328369,39.964214",
-    "geom:latitude":39.964214,
-    "geom:longitude":-84.328369,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"101 N Miami St",
-    "sg:city":"West Milton",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "101 N Miami St West Milton OH 45383",
+    "addr:housenumber": "101",
+    "addr:postcode": "45383",
+    "addr:street": "N Miami St West",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.328369,39.964214,-84.328369,39.964214",
+    "geom:latitude": 39.964214,
+    "geom:longitude": -84.328369,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "101 N Miami St",
+    "sg:city": "West Milton",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 698 3134",
-    "sg:postcode":"45383",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bar"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 698 3134",
+    "sg:postcode": "45383",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bar"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4elBVrSnX9BHkmUDWS9Vah_39.964214_-84.328369@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4elBVrSnX9BHkmUDWS9Vah_39.964214_-84.328369@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788040,
-    "wof:geomhash":"89423ef263d0ffdd3f458439029492c7",
-    "wof:hierarchy":[],
-    "wof:id":705757465,
-    "wof:lastmodified":1472639183,
-    "wof:name":"Corner Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bar"
+    "wof:country": "US",
+    "wof:created": 1461788040,
+    "wof:geomhash": "fdc7e842f1d6f0379ceadc5adb1a0f24",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705757465
+      }
+    ],
+    "wof:id": 705757465,
+    "wof:lastmodified": 1638566971,
+    "wof:name": "Corner Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bar"
     ]
-},
+  },
   "bbox": [
     -84.328369,
     39.964214,
     -84.328369,
     39.964214
-],
+  ],
   "geometry": {"coordinates":[-84.328369,39.964214],"type":"Point"}
 }

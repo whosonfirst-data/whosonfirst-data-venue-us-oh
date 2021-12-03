@@ -2,61 +2,65 @@
   "id": 705730811,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Hopping Ct Harrison OH 45030",
-    "addr:housenumber":"123",
-    "addr:postcode":"45030",
-    "addr:street":"Hopping Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.788685,39.246025,-84.788685,39.246025",
-    "geom:latitude":39.246025,
-    "geom:longitude":-84.788685,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Hopping Ct",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 Hopping Ct Harrison OH 45030",
+    "addr:housenumber": "123",
+    "addr:postcode": "45030",
+    "addr:street": "Hopping Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.788685,39.246025,-84.788685,39.246025",
+    "geom:latitude": 39.246025,
+    "geom:longitude": -84.788685,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Hopping Ct",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 367 6870",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 367 6870",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7iDoG6zDD1689R1W2n7mhy_39.246025_-84.788685@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7iDoG6zDD1689R1W2n7mhy_39.246025_-84.788685@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787429,
-    "wof:geomhash":"18d2f1359220a5f7524319720154d6d7",
-    "wof:hierarchy":[],
-    "wof:id":705730811,
-    "wof:lastmodified":1472638924,
-    "wof:name":"Home & Garden LTD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "center"
+    "wof:country": "US",
+    "wof:created": 1461787429,
+    "wof:geomhash": "88f7be5a89ec644bb94a36ae098bf48d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705730811
+      }
+    ],
+    "wof:id": 705730811,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "Home \u0026 Garden LTD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "center"
     ]
-},
+  },
   "bbox": [
     -84.788685,
     39.246025,
     -84.788685,
     39.246025
-],
+  ],
   "geometry": {"coordinates":[-84.788685,39.246025],"type":"Point"}
 }

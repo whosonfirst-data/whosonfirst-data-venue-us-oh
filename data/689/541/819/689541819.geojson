@@ -2,61 +2,65 @@
   "id": 689541819,
   "type": "Feature",
   "properties": {
-    "addr:full":"30651 Detroit Rd Westlake OH 44145",
-    "addr:housenumber":"30651",
-    "addr:postcode":"44145",
-    "addr:street":"Detroit Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.959489,41.461412,-81.959489,41.461412",
-    "geom:latitude":41.461412,
-    "geom:longitude":-81.959489,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"30651 Detroit Rd",
-    "sg:city":"Westlake",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "30651 Detroit Rd Westlake OH 44145",
+    "addr:housenumber": "30651",
+    "addr:postcode": "44145",
+    "addr:street": "Detroit Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.959489,41.461412,-81.959489,41.461412",
+    "geom:latitude": 41.461412,
+    "geom:longitude": -81.959489,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "30651 Detroit Rd",
+    "sg:city": "Westlake",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 899 7111",
-    "sg:postcode":"44145",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 899 7111",
+    "sg:postcode": "44145",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hN6d51hqxPg81kulksH0V_41.461412_-81.959489@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7hN6d51hqxPg81kulksH0V_41.461412_-81.959489@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774399,
-    "wof:geomhash":"e6404636b843946ee61681597de36c44",
-    "wof:hierarchy":[],
-    "wof:id":689541819,
-    "wof:lastmodified":1472639232,
-    "wof:name":"Rocky River",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461774399,
+    "wof:geomhash": "cb246ced476c4da9fd9b4c009b6ac5c6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689541819
+      }
+    ],
+    "wof:id": 689541819,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Rocky River",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.959489,
     41.461412,
     -81.959489,
     41.461412
-],
+  ],
   "geometry": {"coordinates":[-81.959489,41.461412],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706012787,
   "type": "Feature",
   "properties": {
-    "addr:full":"32631 Meadowlark Way Cleveland OH 44124",
-    "addr:housenumber":"32631",
-    "addr:postcode":"44124",
-    "addr:street":"Meadowlark Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.447247,41.467243,-81.447247,41.467243",
-    "geom:latitude":41.467243,
-    "geom:longitude":-81.447247,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"32631 Meadowlark Way",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "32631 Meadowlark Way Cleveland OH 44124",
+    "addr:housenumber": "32631",
+    "addr:postcode": "44124",
+    "addr:street": "Meadowlark Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.447247,41.467243,-81.447247,41.467243",
+    "geom:latitude": 41.467243,
+    "geom:longitude": -81.447247,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "32631 Meadowlark Way",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 595 0750",
-    "sg:postcode":"44124",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic",
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 595 0750",
+    "sg:postcode": "44124",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic",
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0kqbpRaawaBFxDkZaKzX8q_41.467243_-81.447247@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0kqbpRaawaBFxDkZaKzX8q_41.467243_-81.447247@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793850,
-    "wof:geomhash":"0ed7e32659b8ffe15350bffb4b5709a5",
-    "wof:hierarchy":[],
-    "wof:id":706012787,
-    "wof:lastmodified":1472638426,
-    "wof:name":"Richard A Moore MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic",
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461793850,
+    "wof:geomhash": "b0e4ab5496357c404d67ab26ffb87d64",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706012787
+      }
+    ],
+    "wof:id": 706012787,
+    "wof:lastmodified": 1638566935,
+    "wof:name": "Richard A Moore MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic",
+      "medical"
     ]
-},
+  },
   "bbox": [
     -81.447247,
     41.467243,
     -81.447247,
     41.467243
-],
+  ],
   "geometry": {"coordinates":[-81.447247,41.467243],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 705980335,
   "type": "Feature",
   "properties": {
-    "addr:full":"3431 Cleveland Ave Columbus OH 43224",
-    "addr:housenumber":"3431",
-    "addr:postcode":"43224",
-    "addr:street":"Cleveland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.963183,40.035948,-82.963183,40.035948",
-    "geom:latitude":40.035948,
-    "geom:longitude":-82.963183,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3431 Cleveland Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3431 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber": "3431",
+    "addr:postcode": "43224",
+    "addr:street": "Cleveland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.963183,40.035948,-82.963183,40.035948",
+    "geom:latitude": 40.035948,
+    "geom:longitude": -82.963183,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3431 Cleveland Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 261 9484",
-    "sg:postcode":"43224",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3QTcbQtjUJXfGKlvZgLlAy_40.035948_-82.963183@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 261 9484",
+    "sg:postcode": "43224",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3QTcbQtjUJXfGKlvZgLlAy_40.035948_-82.963183@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793174,
-    "wof:geomhash":"da30a3858dc8c9e930b8b1d752bfbf97",
-    "wof:hierarchy":[],
-    "wof:id":705980335,
-    "wof:lastmodified":1491926695,
-    "wof:name":"Hyatt Restaurant",
-    "wof:parent_id":85811437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461793174,
+    "wof:geomhash": "6e86fcd68b4bcd2406637644bda3108e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705980335
+      }
+    ],
+    "wof:id": 705980335,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "Hyatt Restaurant",
+    "wof:parent_id": 85811437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.963183,
     40.035948,
     -82.963183,
     40.035948
-],
+  ],
   "geometry": {"coordinates":[-82.963183,40.035948],"type":"Point"}
 }

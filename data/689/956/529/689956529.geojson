@@ -2,61 +2,65 @@
   "id": 689956529,
   "type": "Feature",
   "properties": {
-    "addr:full":"45 Gay St West Union OH 45693",
-    "addr:housenumber":"45",
-    "addr:postcode":"45693",
-    "addr:street":"Gay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.515193,38.793501,-83.515193,38.793501",
-    "geom:latitude":38.793501,
-    "geom:longitude":-83.515193,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"45 Gay St",
-    "sg:city":"West Union",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Landscaping Services",
-            "type":"Services"
-        }
+    "addr:full": "45 Gay St West Union OH 45693",
+    "addr:housenumber": "45",
+    "addr:postcode": "45693",
+    "addr:street": "Gay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.515193,38.793501,-83.515193,38.793501",
+    "geom:latitude": 38.793501,
+    "geom:longitude": -83.515193,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "45 Gay St",
+    "sg:city": "West Union",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Landscaping Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 544 5781",
-    "sg:postcode":"45693",
-    "sg:province":"OH",
-    "sg:tags":[
-        "landscape"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 544 5781",
+    "sg:postcode": "45693",
+    "sg:province": "OH",
+    "sg:tags": [
+      "landscape"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7MQHLhkDwb6O1pKP0Uopay_38.793501_-83.515193@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7MQHLhkDwb6O1pKP0Uopay_38.793501_-83.515193@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786040,
-    "wof:geomhash":"46247b383cc1e6e93d5ceee767713e8c",
-    "wof:hierarchy":[],
-    "wof:id":689956529,
-    "wof:lastmodified":1472640120,
-    "wof:name":"Scenic Design Landscaping",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "landscape"
+    "wof:country": "US",
+    "wof:created": 1461786040,
+    "wof:geomhash": "c819fcc3bd126f5b81c5ce50ee18be80",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689956529
+      }
+    ],
+    "wof:id": 689956529,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Scenic Design Landscaping",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "landscape"
     ]
-},
+  },
   "bbox": [
     -83.515193,
     38.793501,
     -83.515193,
     38.793501
-],
+  ],
   "geometry": {"coordinates":[-83.515193,38.793501],"type":"Point"}
 }

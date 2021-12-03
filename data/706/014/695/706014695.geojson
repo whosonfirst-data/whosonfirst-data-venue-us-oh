@@ -2,61 +2,65 @@
   "id": 706014695,
   "type": "Feature",
   "properties": {
-    "addr:full":"9341 Broadview Rd Broadview Heights OH 44147",
-    "addr:housenumber":"9341",
-    "addr:postcode":"44147",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.68461,41.30795,-81.68461,41.30795",
-    "geom:latitude":41.30795,
-    "geom:longitude":-81.68461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9341 Broadview Rd",
-    "sg:city":"Broadview Heights",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "9341 Broadview Rd Broadview Heights OH 44147",
+    "addr:housenumber": "9341",
+    "addr:postcode": "44147",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.684610,41.307950,-81.684610,41.307950",
+    "geom:latitude": 41.30795,
+    "geom:longitude": -81.68461,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9341 Broadview Rd",
+    "sg:city": "Broadview Heights",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 526 1000",
-    "sg:postcode":"44147",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 526 1000",
+    "sg:postcode": "44147",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5hyhDhGjxb5ovLfwMiACAa_41.307950_-81.684610@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5hyhDhGjxb5ovLfwMiACAa_41.307950_-81.684610@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793890,
-    "wof:geomhash":"03d4e97a1db8329b743c22fd51089b5a",
-    "wof:hierarchy":[],
-    "wof:id":706014695,
-    "wof:lastmodified":1472638552,
-    "wof:name":"R Douglas Matthews DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461793890,
+    "wof:geomhash": "6d16df50415113a3ef7a9b06b936bd87",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706014695
+      }
+    ],
+    "wof:id": 706014695,
+    "wof:lastmodified": 1638566937,
+    "wof:name": "R Douglas Matthews DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.68461,
     41.30795,
     -81.68461,
     41.30795
-],
-  "geometry": {"coordinates":[-81.68461000000001,41.30795],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.68461,41.30795],"type":"Point"}
 }

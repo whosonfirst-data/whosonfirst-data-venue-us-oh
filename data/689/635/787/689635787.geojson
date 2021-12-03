@@ -2,66 +2,70 @@
   "id": 689635787,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 W Fayette St Celina OH 45822",
-    "addr:housenumber":"123",
-    "addr:postcode":"45822",
-    "addr:street":"W Fayette St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.572084,40.54809,-84.572084,40.54809",
-    "geom:latitude":40.54809,
-    "geom:longitude":-84.572084,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 W Fayette St",
-    "sg:city":"Celina",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Hobbies, Toys, & Games",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 W Fayette St Celina OH 45822",
+    "addr:housenumber": "123",
+    "addr:postcode": "45822",
+    "addr:street": "W Fayette St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.572084,40.548090,-84.572084,40.548090",
+    "geom:latitude": 40.54809,
+    "geom:longitude": -84.572084,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 W Fayette St",
+    "sg:city": "Celina",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Hobbies, Toys, \u0026 Games",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 586 5385",
-    "sg:postcode":"45822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "collectible"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 586 5385",
+    "sg:postcode": "45822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "collectible"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5jaTZn7SmdgmCp4FGJoxBG_40.548090_-84.572084@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5jaTZn7SmdgmCp4FGJoxBG_40.548090_-84.572084@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777311,
-    "wof:geomhash":"8b44198844cab45bd7659b30871a98df",
-    "wof:hierarchy":[],
-    "wof:id":689635787,
-    "wof:lastmodified":1472639512,
-    "wof:name":"Dave's Dugout",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "collectible"
+    "wof:country": "US",
+    "wof:created": 1461777311,
+    "wof:geomhash": "51a0c7b9651146ad7ed503e4cc9a0c6d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689635787
+      }
+    ],
+    "wof:id": 689635787,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Dave's Dugout",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "collectible"
     ]
-},
+  },
   "bbox": [
     -84.572084,
     40.54809,
     -84.572084,
     40.54809
-],
+  ],
   "geometry": {"coordinates":[-84.572084,40.54809],"type":"Point"}
 }

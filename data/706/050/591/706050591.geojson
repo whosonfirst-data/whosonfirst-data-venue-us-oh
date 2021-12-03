@@ -2,61 +2,65 @@
   "id": 706050591,
   "type": "Feature",
   "properties": {
-    "addr:full":"2336 Maple Ave Zanesville OH 43701",
-    "addr:housenumber":"2336",
-    "addr:postcode":"43701",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.009883,39.965731,-82.009883,39.965731",
-    "geom:latitude":39.965731,
-    "geom:longitude":-82.009883,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2336 Maple Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2336 Maple Ave Zanesville OH 43701",
+    "addr:housenumber": "2336",
+    "addr:postcode": "43701",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.009883,39.965731,-82.009883,39.965731",
+    "geom:latitude": 39.965731,
+    "geom:longitude": -82.009883,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2336 Maple Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 6333",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 6333",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1PazjZjk6BfJOQ0yuxx20z_39.965731_-82.009883@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1PazjZjk6BfJOQ0yuxx20z_39.965731_-82.009883@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794612,
-    "wof:geomhash":"7e4c038cc177cbe1c630d0dd303f624e",
-    "wof:hierarchy":[],
-    "wof:id":706050591,
-    "wof:lastmodified":1472639075,
-    "wof:name":"Winerak Market",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461794612,
+    "wof:geomhash": "0ef12fec7e21dfb7839e56b1de001015",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706050591
+      }
+    ],
+    "wof:id": 706050591,
+    "wof:lastmodified": 1638566971,
+    "wof:name": "Winerak Market",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -82.009883,
     39.965731,
     -82.009883,
     39.965731
-],
+  ],
   "geometry": {"coordinates":[-82.009883,39.965731],"type":"Point"}
 }

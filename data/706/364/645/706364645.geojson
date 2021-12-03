@@ -2,61 +2,65 @@
   "id": 706364645,
   "type": "Feature",
   "properties": {
-    "addr:full":"3540 Ohio Trl Youngstown OH 44505",
-    "addr:housenumber":"3540",
-    "addr:postcode":"44505",
-    "addr:street":"Ohio Trl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.64678,41.146518,-80.64678,41.146518",
-    "geom:latitude":41.146518,
-    "geom:longitude":-80.64678,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3540 Ohio Trl",
-    "sg:city":"Youngstown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3540 Ohio Trl Youngstown OH 44505",
+    "addr:housenumber": "3540",
+    "addr:postcode": "44505",
+    "addr:street": "Ohio Trl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.646780,41.146518,-80.646780,41.146518",
+    "geom:latitude": 41.146518,
+    "geom:longitude": -80.64678,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3540 Ohio Trl",
+    "sg:city": "Youngstown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 759 4010",
-    "sg:postcode":"44505",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 759 4010",
+    "sg:postcode": "44505",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5qPwsWRUnpWHEN7AIfggOl_41.146518_-80.646780@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5qPwsWRUnpWHEN7AIfggOl_41.146518_-80.646780@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801707,
-    "wof:geomhash":"44e76956f4fb6f7217fe156bc2fd11f5",
-    "wof:hierarchy":[],
-    "wof:id":706364645,
-    "wof:lastmodified":1472639930,
-    "wof:name":"Fusillo Catering Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461801707,
+    "wof:geomhash": "8a5ea2c6b9b0879296bd1f343ea368b4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706364645
+      }
+    ],
+    "wof:id": 706364645,
+    "wof:lastmodified": 1638567102,
+    "wof:name": "Fusillo Catering Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -80.64678,
     41.146518,
     -80.64678,
     41.146518
-],
-  "geometry": {"coordinates":[-80.64678000000001,41.146518],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.64678,41.146518],"type":"Point"}
 }

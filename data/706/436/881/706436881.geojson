@@ -2,61 +2,65 @@
   "id": 706436881,
   "type": "Feature",
   "properties": {
-    "addr:full":"7890 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7890",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.368661,39.318483,-84.368661,39.318483",
-    "geom:latitude":39.318483,
-    "geom:longitude":-84.368661,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7890 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "7890 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7890",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.368661,39.318483,-84.368661,39.318483",
+    "geom:latitude": 39.318483,
+    "geom:longitude": -84.368661,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7890 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 942 5666",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 942 5666",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0V2sKB6EomixEdsUApqCV5_39.318483_-84.368661@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0V2sKB6EomixEdsUApqCV5_39.318483_-84.368661@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803122,
-    "wof:geomhash":"5ce87282a1142b0150ef7a14ba144ddf",
-    "wof:hierarchy":[],
-    "wof:id":706436881,
-    "wof:lastmodified":1472640025,
-    "wof:name":"Parklane Painting Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461803122,
+    "wof:geomhash": "3f88564b7ef40151f024299c1040e12e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706436881
+      }
+    ],
+    "wof:id": 706436881,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Parklane Painting Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -84.368661,
     39.318483,
     -84.368661,
     39.318483
-],
+  ],
   "geometry": {"coordinates":[-84.368661,39.318483],"type":"Point"}
 }

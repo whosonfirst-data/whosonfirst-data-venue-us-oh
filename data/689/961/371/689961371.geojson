@@ -2,61 +2,65 @@
   "id": 689961371,
   "type": "Feature",
   "properties": {
-    "addr:full":"20886 Drake Rd Strongsville OH 44149",
-    "addr:housenumber":"20886",
-    "addr:postcode":"44149",
-    "addr:street":"Drake Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.85735,41.290245,-81.85735,41.290245",
-    "geom:latitude":41.290245,
-    "geom:longitude":-81.85735,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20886 Drake Rd",
-    "sg:city":"Strongsville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "20886 Drake Rd Strongsville OH 44149",
+    "addr:housenumber": "20886",
+    "addr:postcode": "44149",
+    "addr:street": "Drake Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.857350,41.290245,-81.857350,41.290245",
+    "geom:latitude": 41.290245,
+    "geom:longitude": -81.85735,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20886 Drake Rd",
+    "sg:city": "Strongsville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 572 6020",
-    "sg:postcode":"44149",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 572 6020",
+    "sg:postcode": "44149",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3WpGN2iBwEIK2g3iPM083i_41.290245_-81.857350@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3WpGN2iBwEIK2g3iPM083i_41.290245_-81.857350@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786170,
-    "wof:geomhash":"ed4a44535455b4f28cca23c28d33b591",
-    "wof:hierarchy":[],
-    "wof:id":689961371,
-    "wof:lastmodified":1472640123,
-    "wof:name":"Northcoast Family Dental Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461786170,
+    "wof:geomhash": "0d40b36d3e8b120e731bd9cc89903d23",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689961371
+      }
+    ],
+    "wof:id": 689961371,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Northcoast Family Dental Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.85735,
     41.290245,
     -81.85735,
     41.290245
-],
+  ],
   "geometry": {"coordinates":[-81.85735,41.290245],"type":"Point"}
 }

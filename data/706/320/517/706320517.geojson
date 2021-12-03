@@ -2,61 +2,65 @@
   "id": 706320517,
   "type": "Feature",
   "properties": {
-    "addr:full":"113 S Milton St Smithville OH 44677",
-    "addr:housenumber":"113",
-    "addr:postcode":"44677",
-    "addr:street":"S Milton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.859634,40.863217,-81.859634,40.863217",
-    "geom:latitude":40.863217,
-    "geom:longitude":-81.859634,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"113 S Milton St",
-    "sg:city":"Smithville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "113 S Milton St Smithville OH 44677",
+    "addr:housenumber": "113",
+    "addr:postcode": "44677",
+    "addr:street": "S Milton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.859634,40.863217,-81.859634,40.863217",
+    "geom:latitude": 40.863217,
+    "geom:longitude": -81.859634,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "113 S Milton St",
+    "sg:city": "Smithville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 669 3117",
-    "sg:postcode":"44677",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 669 3117",
+    "sg:postcode": "44677",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ExI7Lq6D3wMo7tk7YAP06_40.863217_-81.859634@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5ExI7Lq6D3wMo7tk7YAP06_40.863217_-81.859634@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800738,
-    "wof:geomhash":"34f45458bd235689a661d870e6e0aa2b",
-    "wof:hierarchy":[],
-    "wof:id":706320517,
-    "wof:lastmodified":1472639806,
-    "wof:name":"Hubacher Builders Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461800738,
+    "wof:geomhash": "201ce947993fac31dba0a883e8ea10fe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706320517
+      }
+    ],
+    "wof:id": 706320517,
+    "wof:lastmodified": 1638567087,
+    "wof:name": "Hubacher Builders Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -81.859634,
     40.863217,
     -81.859634,
     40.863217
-],
+  ],
   "geometry": {"coordinates":[-81.859634,40.863217],"type":"Point"}
 }

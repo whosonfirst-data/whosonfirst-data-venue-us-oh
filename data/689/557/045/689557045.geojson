@@ -2,61 +2,65 @@
   "id": 689557045,
   "type": "Feature",
   "properties": {
-    "addr:full":"77 S Liberty St Powell OH 43065",
-    "addr:housenumber":"77",
-    "addr:postcode":"43065",
-    "addr:street":"S Liberty St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.074488,40.15321,-83.074488,40.15321",
-    "geom:latitude":40.15321,
-    "geom:longitude":-83.074488,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"77 S Liberty St",
-    "sg:city":"Powell",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Accounting & Tax Preparation",
-            "type":"Services"
-        }
+    "addr:full": "77 S Liberty St Powell OH 43065",
+    "addr:housenumber": "77",
+    "addr:postcode": "43065",
+    "addr:street": "S Liberty St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.074488,40.153210,-83.074488,40.153210",
+    "geom:latitude": 40.15321,
+    "geom:longitude": -83.074488,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "77 S Liberty St",
+    "sg:city": "Powell",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Accounting \u0026 Tax Preparation",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 431 9991",
-    "sg:postcode":"43065",
-    "sg:province":"OH",
-    "sg:tags":[
-        "accountant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 431 9991",
+    "sg:postcode": "43065",
+    "sg:province": "OH",
+    "sg:tags": [
+      "accountant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6K41Uvs6eoQzszdSbZZQit_40.153210_-83.074488@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6K41Uvs6eoQzszdSbZZQit_40.153210_-83.074488@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774943,
-    "wof:geomhash":"5206c927d591db88ffdb34589cd6c8b3",
-    "wof:hierarchy":[],
-    "wof:id":689557045,
-    "wof:lastmodified":1472639270,
-    "wof:name":"PMG Capital Advisors",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "accountant"
+    "wof:country": "US",
+    "wof:created": 1461774943,
+    "wof:geomhash": "b03c86b63dda66e2b75a39000a5176a4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689557045
+      }
+    ],
+    "wof:id": 689557045,
+    "wof:lastmodified": 1638566984,
+    "wof:name": "PMG Capital Advisors",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "accountant"
     ]
-},
+  },
   "bbox": [
     -83.074488,
     40.15321,
     -83.074488,
     40.15321
-],
+  ],
   "geometry": {"coordinates":[-83.074488,40.15321],"type":"Point"}
 }

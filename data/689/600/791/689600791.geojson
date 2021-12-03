@@ -2,61 +2,65 @@
   "id": 689600791,
   "type": "Feature",
   "properties": {
-    "addr:full":"126 E 4th St Lima OH 45804",
-    "addr:housenumber":"126",
-    "addr:postcode":"45804",
-    "addr:street":"E 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.104305,40.716712,-84.104305,40.716712",
-    "geom:latitude":40.716712,
-    "geom:longitude":-84.104305,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"126 E 4th St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "126 E 4th St Lima OH 45804",
+    "addr:housenumber": "126",
+    "addr:postcode": "45804",
+    "addr:street": "E 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.104305,40.716712,-84.104305,40.716712",
+    "geom:latitude": 40.716712,
+    "geom:longitude": -84.104305,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "126 E 4th St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 228 7070",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 228 7070",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ieey3Jc8K4oClZB2wdE7R_40.716712_-84.104305@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0ieey3Jc8K4oClZB2wdE7R_40.716712_-84.104305@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776274,
-    "wof:geomhash":"9f02e362611ed67c4117ba6968d0b3f7",
-    "wof:hierarchy":[],
-    "wof:id":689600791,
-    "wof:lastmodified":1472639428,
-    "wof:name":"Taste N See",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461776274,
+    "wof:geomhash": "41c558c4613181ff75f24322052a292e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689600791
+      }
+    ],
+    "wof:id": 689600791,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Taste N See",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.104305,
     40.716712,
     -84.104305,
     40.716712
-],
+  ],
   "geometry": {"coordinates":[-84.104305,40.716712],"type":"Point"}
 }

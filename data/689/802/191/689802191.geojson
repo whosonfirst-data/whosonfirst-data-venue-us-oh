@@ -2,61 +2,65 @@
   "id": 689802191,
   "type": "Feature",
   "properties": {
-    "addr:full":"3739 E 93rd St Cleveland OH 44105",
-    "addr:housenumber":"3739",
-    "addr:postcode":"44105",
-    "addr:street":"E 93Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.621317,41.45665,-81.621317,41.45665",
-    "geom:latitude":41.45665,
-    "geom:longitude":-81.621317,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3739 E 93rd St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "3739 E 93rd St Cleveland OH 44105",
+    "addr:housenumber": "3739",
+    "addr:postcode": "44105",
+    "addr:street": "E 93Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.621317,41.456650,-81.621317,41.456650",
+    "geom:latitude": 41.45665,
+    "geom:longitude": -81.621317,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3739 E 93rd St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 441 6714",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 441 6714",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5u5xkK94E74mO7L8qg6mfl_41.456650_-81.621317@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5u5xkK94E74mO7L8qg6mfl_41.456650_-81.621317@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781948,
-    "wof:geomhash":"1d8129444c442ee2fd6abbdc42eab135",
-    "wof:hierarchy":[],
-    "wof:id":689802191,
-    "wof:lastmodified":1472639873,
-    "wof:name":"Williams Chapel Church Of God",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461781948,
+    "wof:geomhash": "f084413f45558d8386021150de31006d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689802191
+      }
+    ],
+    "wof:id": 689802191,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Williams Chapel Church Of God",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.621317,
     41.45665,
     -81.621317,
     41.45665
-],
+  ],
   "geometry": {"coordinates":[-81.621317,41.45665],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705695051,
   "type": "Feature",
   "properties": {
-    "addr:full":"2509 W Market St Warren OH 44485",
-    "addr:housenumber":"2509",
-    "addr:postcode":"44485",
-    "addr:street":"W Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.851606,41.236543,-80.851606,41.236543",
-    "geom:latitude":41.236543,
-    "geom:longitude":-80.851606,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2509 W Market St",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "2509 W Market St Warren OH 44485",
+    "addr:housenumber": "2509",
+    "addr:postcode": "44485",
+    "addr:street": "W Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.851606,41.236543,-80.851606,41.236543",
+    "geom:latitude": 41.236543,
+    "geom:longitude": -80.851606,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2509 W Market St",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 399 3817",
-    "sg:postcode":"44485",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 399 3817",
+    "sg:postcode": "44485",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_69TLvrOgbAck1ujKswqker_41.236543_-80.851606@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_69TLvrOgbAck1ujKswqker_41.236543_-80.851606@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786297,
-    "wof:geomhash":"a0812964a881a2299a95fd3b6699e5c9",
-    "wof:hierarchy":[],
-    "wof:id":705695051,
-    "wof:lastmodified":1472638176,
-    "wof:name":"C & S Roll-Off Svc",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461786297,
+    "wof:geomhash": "261cadd333c22ee13fe952907ef3a44a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705695051
+      }
+    ],
+    "wof:id": 705695051,
+    "wof:lastmodified": 1638566913,
+    "wof:name": "C \u0026 S Roll-Off Svc",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -80.851606,
     41.236543,
     -80.851606,
     41.236543
-],
+  ],
   "geometry": {"coordinates":[-80.851606,41.236543],"type":"Point"}
 }

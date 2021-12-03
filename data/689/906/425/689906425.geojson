@@ -2,61 +2,65 @@
   "id": 689906425,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 S Point Dr Zanesville OH 43701",
-    "addr:housenumber":"1600",
-    "addr:postcode":"43701",
-    "addr:street":"S Point Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.863919,39.96953,-81.863919,39.96953",
-    "geom:latitude":39.96953,
-    "geom:longitude":-81.863919,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1600 S Point Dr",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1600 S Point Dr Zanesville OH 43701",
+    "addr:housenumber": "1600",
+    "addr:postcode": "43701",
+    "addr:street": "S Point Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.863919,39.969530,-81.863919,39.969530",
+    "geom:latitude": 39.96953,
+    "geom:longitude": -81.863919,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1600 S Point Dr",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 1840",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 1840",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_129qE9xQROPwfoMhpMywSh_39.969530_-81.863919@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_129qE9xQROPwfoMhpMywSh_39.969530_-81.863919@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784750,
-    "wof:geomhash":"6a8447135b9c12d63d00082de27e64a1",
-    "wof:hierarchy":[],
-    "wof:id":689906425,
-    "wof:lastmodified":1472640062,
-    "wof:name":"Worthington Foods",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1461784750,
+    "wof:geomhash": "2cdd1582c33d29eb3bd41bcc612b8d2d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689906425
+      }
+    ],
+    "wof:id": 689906425,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "Worthington Foods",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -81.863919,
     39.96953,
     -81.863919,
     39.96953
-],
+  ],
   "geometry": {"coordinates":[-81.863919,39.96953],"type":"Point"}
 }

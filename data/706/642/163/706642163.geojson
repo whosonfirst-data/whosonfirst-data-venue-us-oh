@@ -2,61 +2,65 @@
   "id": 706642163,
   "type": "Feature",
   "properties": {
-    "addr:full":"1638 Summit Hills Dr Cincinnati OH 45255",
-    "addr:housenumber":"1638",
-    "addr:postcode":"45255",
-    "addr:street":"Summit Hills Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.317294,39.080845,-84.317294,39.080845",
-    "geom:latitude":39.080845,
-    "geom:longitude":-84.317294,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1638 Summit Hills Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Locksmith",
-            "type":"Services"
-        }
+    "addr:full": "1638 Summit Hills Dr Cincinnati OH 45255",
+    "addr:housenumber": "1638",
+    "addr:postcode": "45255",
+    "addr:street": "Summit Hills Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.317294,39.080845,-84.317294,39.080845",
+    "geom:latitude": 39.080845,
+    "geom:longitude": -84.317294,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1638 Summit Hills Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Locksmith",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 830 5008",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "key"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 830 5008",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "key"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5fM8gP6PTTb6NcvcSJL3RL_39.080845_-84.317294@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5fM8gP6PTTb6NcvcSJL3RL_39.080845_-84.317294@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807619,
-    "wof:geomhash":"2063bc19dddf754577b80bde2be8cda9",
-    "wof:hierarchy":[],
-    "wof:id":706642163,
-    "wof:lastmodified":1472640250,
-    "wof:name":"Cincinnati Locksmith Available",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "key"
+    "wof:country": "US",
+    "wof:created": 1461807619,
+    "wof:geomhash": "258afc26664dc4e38025e10efe596dbe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642163
+      }
+    ],
+    "wof:id": 706642163,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Cincinnati Locksmith Available",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "key"
     ]
-},
+  },
   "bbox": [
     -84.317294,
     39.080845,
     -84.317294,
     39.080845
-],
+  ],
   "geometry": {"coordinates":[-84.317294,39.080845],"type":"Point"}
 }

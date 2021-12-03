@@ -2,63 +2,67 @@
   "id": 705844641,
   "type": "Feature",
   "properties": {
-    "addr:full":"107 Central St New Paris OH 45347",
-    "addr:housenumber":"107",
-    "addr:postcode":"45347",
-    "addr:street":"Central St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.78924,39.860743,-84.78924,39.860743",
-    "geom:latitude":39.860743,
-    "geom:longitude":-84.78924,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"107 Central St",
-    "sg:city":"New Paris",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "107 Central St New Paris OH 45347",
+    "addr:housenumber": "107",
+    "addr:postcode": "45347",
+    "addr:street": "Central St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.789240,39.860743,-84.789240,39.860743",
+    "geom:latitude": 39.860743,
+    "geom:longitude": -84.78924,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "107 Central St",
+    "sg:city": "New Paris",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 437 5345",
-    "sg:postcode":"45347",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 437 5345",
+    "sg:postcode": "45347",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7EONPM3T3MtKZUsFUmuaUL_39.860743_-84.789240@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7EONPM3T3MtKZUsFUmuaUL_39.860743_-84.789240@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790061,
-    "wof:geomhash":"641d8a7d2048a3cb1e53efeba72a1547",
-    "wof:hierarchy":[],
-    "wof:id":705844641,
-    "wof:lastmodified":1472639404,
-    "wof:name":"Ed's Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461790061,
+    "wof:geomhash": "ccba5655e163224eb96e176426d60127",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705844641
+      }
+    ],
+    "wof:id": 705844641,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Ed's Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -84.78924,
     39.860743,
     -84.78924,
     39.860743
-],
-  "geometry": {"coordinates":[-84.78924000000001,39.860743],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.78924,39.860743],"type":"Point"}
 }

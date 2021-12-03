@@ -2,65 +2,69 @@
   "id": 705873203,
   "type": "Feature",
   "properties": {
-    "addr:full":"1184 W Locust St Wilmington OH 45177",
-    "addr:housenumber":"1184",
-    "addr:postcode":"45177",
-    "addr:street":"W Locust St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.851743,39.446992,-83.851743,39.446992",
-    "geom:latitude":39.446992,
-    "geom:longitude":-83.851743,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1184 W Locust St",
-    "sg:city":"Wilmington",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1184 W Locust St Wilmington OH 45177",
+    "addr:housenumber": "1184",
+    "addr:postcode": "45177",
+    "addr:street": "W Locust St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.851743,39.446992,-83.851743,39.446992",
+    "geom:latitude": 39.446992,
+    "geom:longitude": -83.851743,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1184 W Locust St",
+    "sg:city": "Wilmington",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 382 1616",
-    "sg:postcode":"45177",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "medical",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 382 1616",
+    "sg:postcode": "45177",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "medical",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1F7vStF4kkZDlH0Okebq8S_39.446992_-83.851743@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1F7vStF4kkZDlH0Okebq8S_39.446992_-83.851743@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790773,
-    "wof:geomhash":"4c77fa512eaf37b481f7770e9820e7af",
-    "wof:hierarchy":[],
-    "wof:id":705873203,
-    "wof:lastmodified":1472639464,
-    "wof:name":"Wilmington Medical Associates",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "medical",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461790773,
+    "wof:geomhash": "1d425f27ffc3310bceabc2e4f43daa57",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705873203
+      }
+    ],
+    "wof:id": 705873203,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Wilmington Medical Associates",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "medical",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.851743,
     39.446992,
     -83.851743,
     39.446992
-],
+  ],
   "geometry": {"coordinates":[-83.851743,39.446992],"type":"Point"}
 }

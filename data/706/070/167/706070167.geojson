@@ -2,61 +2,65 @@
   "id": 706070167,
   "type": "Feature",
   "properties": {
-    "addr:full":"2965 Columbus St Grove City OH 43123",
-    "addr:housenumber":"2965",
-    "addr:postcode":"43123",
-    "addr:street":"Columbus St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.08392,39.881496,-83.08392,39.881496",
-    "geom:latitude":39.881496,
-    "geom:longitude":-83.08392,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2965 Columbus St",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2965 Columbus St Grove City OH 43123",
+    "addr:housenumber": "2965",
+    "addr:postcode": "43123",
+    "addr:street": "Columbus St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.083920,39.881496,-83.083920,39.881496",
+    "geom:latitude": 39.881496,
+    "geom:longitude": -83.08392,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2965 Columbus St",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 875 4222",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 875 4222",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2AZlNqCqFLIn5iMK4YXDyD_39.881496_-83.083920@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2AZlNqCqFLIn5iMK4YXDyD_39.881496_-83.083920@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795039,
-    "wof:geomhash":"40bbc8ed8cbd82476f38228885195d20",
-    "wof:hierarchy":[],
-    "wof:id":706070167,
-    "wof:lastmodified":1472639154,
-    "wof:name":"Michael J Freeman Associates",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461795039,
+    "wof:geomhash": "392251db63d3ea4c2f370ede5afab6ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706070167
+      }
+    ],
+    "wof:id": 706070167,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Michael J Freeman Associates",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.08392,
     39.881496,
     -83.08392,
     39.881496
-],
-  "geometry": {"coordinates":[-83.08392000000001,39.881496],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.08392,39.881496],"type":"Point"}
 }

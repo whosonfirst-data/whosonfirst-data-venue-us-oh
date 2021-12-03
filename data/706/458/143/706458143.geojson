@@ -2,61 +2,65 @@
   "id": 706458143,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Sterling Hill Dr Findlay OH 45840",
-    "addr:housenumber":"400",
-    "addr:postcode":"45840",
-    "addr:street":"Sterling Hill Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.641857,41.06419,-83.641857,41.06419",
-    "geom:latitude":41.06419,
-    "geom:longitude":-83.641857,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"400 Sterling Hill Dr",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "400 Sterling Hill Dr Findlay OH 45840",
+    "addr:housenumber": "400",
+    "addr:postcode": "45840",
+    "addr:street": "Sterling Hill Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.641857,41.064190,-83.641857,41.064190",
+    "geom:latitude": 41.06419,
+    "geom:longitude": -83.641857,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "400 Sterling Hill Dr",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 423 8657",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 423 8657",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4wjVaFNap1K3EQShiRdObT_41.064190_-83.641857@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4wjVaFNap1K3EQShiRdObT_41.064190_-83.641857@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803608,
-    "wof:geomhash":"66bdad5fb1d97226ae1f7ffffc1a4fd4",
-    "wof:hierarchy":[],
-    "wof:id":706458143,
-    "wof:lastmodified":1472640038,
-    "wof:name":"George Masonry Restoration",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461803608,
+    "wof:geomhash": "95dadc0c545625552f49b750799277a5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706458143
+      }
+    ],
+    "wof:id": 706458143,
+    "wof:lastmodified": 1638567123,
+    "wof:name": "George Masonry Restoration",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.641857,
     41.06419,
     -83.641857,
     41.06419
-],
+  ],
   "geometry": {"coordinates":[-83.641857,41.06419],"type":"Point"}
 }

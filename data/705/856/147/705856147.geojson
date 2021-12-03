@@ -2,61 +2,65 @@
   "id": 705856147,
   "type": "Feature",
   "properties": {
-    "addr:full":"22693 Lincoln Hwy Delphos OH 45833",
-    "addr:housenumber":"22693",
-    "addr:postcode":"45833",
-    "addr:street":"Lincoln Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.38497,40.851672,-84.38497,40.851672",
-    "geom:latitude":40.851672,
-    "geom:longitude":-84.38497,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"22693 Lincoln Hwy",
-    "sg:city":"Delphos",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "22693 Lincoln Hwy Delphos OH 45833",
+    "addr:housenumber": "22693",
+    "addr:postcode": "45833",
+    "addr:street": "Lincoln Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.384970,40.851672,-84.384970,40.851672",
+    "geom:latitude": 40.851672,
+    "geom:longitude": -84.38497,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "22693 Lincoln Hwy",
+    "sg:city": "Delphos",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 692 2019",
-    "sg:postcode":"45833",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 692 2019",
+    "sg:postcode": "45833",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ADtQbaTbDMEt894FGo06J_40.851672_-84.384970@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ADtQbaTbDMEt894FGo06J_40.851672_-84.384970@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790332,
-    "wof:geomhash":"a68617c803db61ce10cc4e3fdcd82d1c",
-    "wof:hierarchy":[],
-    "wof:id":705856147,
-    "wof:lastmodified":1472639401,
-    "wof:name":"Washington Township Office",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461790332,
+    "wof:geomhash": "1a17ec1a4264d409a066a70ba251bb24",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705856147
+      }
+    ],
+    "wof:id": 705856147,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Washington Township Office",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -84.38497,
     40.851672,
     -84.38497,
     40.851672
-],
+  ],
   "geometry": {"coordinates":[-84.38497,40.851672],"type":"Point"}
 }

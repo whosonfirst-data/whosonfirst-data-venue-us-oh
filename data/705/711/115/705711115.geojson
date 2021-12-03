@@ -2,61 +2,65 @@
   "id": 705711115,
   "type": "Feature",
   "properties": {
-    "addr:full":"161 Mill St SW Sugarcreek OH 44681",
-    "addr:housenumber":"161",
-    "addr:postcode":"44681",
-    "addr:street":"Mill St Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.654402,40.509754,-81.654402,40.509754",
-    "geom:latitude":40.509754,
-    "geom:longitude":-81.654402,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"161 Mill St SW",
-    "sg:city":"Sugarcreek",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "161 Mill St SW Sugarcreek OH 44681",
+    "addr:housenumber": "161",
+    "addr:postcode": "44681",
+    "addr:street": "Mill St Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.654402,40.509754,-81.654402,40.509754",
+    "geom:latitude": 40.509754,
+    "geom:longitude": -81.654402,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "161 Mill St SW",
+    "sg:city": "Sugarcreek",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 852 9721",
-    "sg:postcode":"44681",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 852 9721",
+    "sg:postcode": "44681",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1BdQtZBetACXN99YUbo5ao_40.509754_-81.654402@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1BdQtZBetACXN99YUbo5ao_40.509754_-81.654402@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786920,
-    "wof:geomhash":"fafa39878c9ef0cbe41567e0221d52ae",
-    "wof:hierarchy":[],
-    "wof:id":705711115,
-    "wof:lastmodified":1472638334,
-    "wof:name":"Miller Trim",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461786920,
+    "wof:geomhash": "b59831fd524c207328b8f33870973ce7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705711115
+      }
+    ],
+    "wof:id": 705711115,
+    "wof:lastmodified": 1638566927,
+    "wof:name": "Miller Trim",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -81.654402,
     40.509754,
     -81.654402,
     40.509754
-],
+  ],
   "geometry": {"coordinates":[-81.654402,40.509754],"type":"Point"}
 }

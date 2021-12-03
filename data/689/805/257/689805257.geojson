@@ -2,61 +2,65 @@
   "id": 689805257,
   "type": "Feature",
   "properties": {
-    "addr:full":"124 E Main St Leesburg OH 45135",
-    "addr:housenumber":"124",
-    "addr:postcode":"45135",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.553461,39.346841,-83.553461,39.346841",
-    "geom:latitude":39.346841,
-    "geom:longitude":-83.553461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"124 E Main St",
-    "sg:city":"Leesburg",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "124 E Main St Leesburg OH 45135",
+    "addr:housenumber": "124",
+    "addr:postcode": "45135",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.553461,39.346841,-83.553461,39.346841",
+    "geom:latitude": 39.346841,
+    "geom:longitude": -83.553461,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "124 E Main St",
+    "sg:city": "Leesburg",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 780 2697",
-    "sg:postcode":"45135",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 780 2697",
+    "sg:postcode": "45135",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1JkYBTkepcc7OMBjhsbw5y_39.346841_-83.553461@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1JkYBTkepcc7OMBjhsbw5y_39.346841_-83.553461@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782056,
-    "wof:geomhash":"1e095d008dbce90a37e96ff64318a9e9",
-    "wof:hierarchy":[],
-    "wof:id":689805257,
-    "wof:lastmodified":1472639881,
-    "wof:name":"Fat Boys Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461782056,
+    "wof:geomhash": "d19dc8ef16dc57e5d083a91375e5a5c9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689805257
+      }
+    ],
+    "wof:id": 689805257,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Fat Boys Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.553461,
     39.346841,
     -83.553461,
     39.346841
-],
+  ],
   "geometry": {"coordinates":[-83.553461,39.346841],"type":"Point"}
 }

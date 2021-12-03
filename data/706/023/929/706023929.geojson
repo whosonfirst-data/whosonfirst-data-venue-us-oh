@@ -2,61 +2,65 @@
   "id": 706023929,
   "type": "Feature",
   "properties": {
-    "addr:full":"398 Damascus Rd Marysville OH 43040",
-    "addr:housenumber":"398",
-    "addr:postcode":"43040",
-    "addr:street":"Damascus Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.39124,40.235893,-83.39124,40.235893",
-    "geom:latitude":40.235893,
-    "geom:longitude":-83.39124,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"398 Damascus Rd",
-    "sg:city":"Marysville",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        }
+    "addr:full": "398 Damascus Rd Marysville OH 43040",
+    "addr:housenumber": "398",
+    "addr:postcode": "43040",
+    "addr:street": "Damascus Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.391240,40.235893,-83.391240,40.235893",
+    "geom:latitude": 40.235893,
+    "geom:longitude": -83.39124,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "398 Damascus Rd",
+    "sg:city": "Marysville",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 642 4300",
-    "sg:postcode":"43040",
-    "sg:province":"OH",
-    "sg:tags":[
-        "day"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 642 4300",
+    "sg:postcode": "43040",
+    "sg:province": "OH",
+    "sg:tags": [
+      "day"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0M4hmwoCFYDOfTBx4W5Gmj_40.235893_-83.391240@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0M4hmwoCFYDOfTBx4W5Gmj_40.235893_-83.391240@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794086,
-    "wof:geomhash":"b857a501ab5702fcfc5f5584537161e6",
-    "wof:hierarchy":[],
-    "wof:id":706023929,
-    "wof:lastmodified":1472638665,
-    "wof:name":"A Plus Child Care & Learning",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "day"
+    "wof:country": "US",
+    "wof:created": 1461794086,
+    "wof:geomhash": "322e18ced803ff5f4b9aa6a7db055250",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706023929
+      }
+    ],
+    "wof:id": 706023929,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "A Plus Child Care \u0026 Learning",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "day"
     ]
-},
+  },
   "bbox": [
     -83.39124,
     40.235893,
     -83.39124,
     40.235893
-],
+  ],
   "geometry": {"coordinates":[-83.39124,40.235893],"type":"Point"}
 }

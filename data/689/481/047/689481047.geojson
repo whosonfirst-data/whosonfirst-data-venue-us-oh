@@ -2,61 +2,65 @@
   "id": 689481047,
   "type": "Feature",
   "properties": {
-    "addr:full":"8146 High St Garrettsville OH 44231",
-    "addr:housenumber":"8146",
-    "addr:postcode":"44231",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.094218,41.286225,-81.094218,41.286225",
-    "geom:latitude":41.286225,
-    "geom:longitude":-81.094218,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8146 High St",
-    "sg:city":"Garrettsville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "8146 High St Garrettsville OH 44231",
+    "addr:housenumber": "8146",
+    "addr:postcode": "44231",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.094218,41.286225,-81.094218,41.286225",
+    "geom:latitude": 41.286225,
+    "geom:longitude": -81.094218,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8146 High St",
+    "sg:city": "Garrettsville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 527 4205",
-    "sg:postcode":"44231",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 527 4205",
+    "sg:postcode": "44231",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6lIE4HJ5PBshqIs9bYXZ80_41.286225_-81.094218@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6lIE4HJ5PBshqIs9bYXZ80_41.286225_-81.094218@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772548,
-    "wof:geomhash":"5d445ee569c51b2d177a60b70baee664",
-    "wof:hierarchy":[],
-    "wof:id":689481047,
-    "wof:lastmodified":1472638490,
-    "wof:name":"United Church of Garrettsville",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461772548,
+    "wof:geomhash": "089d26e07e567ea5390b45f2ee71ddeb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689481047
+      }
+    ],
+    "wof:id": 689481047,
+    "wof:lastmodified": 1638566927,
+    "wof:name": "United Church of Garrettsville",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.094218,
     41.286225,
     -81.094218,
     41.286225
-],
+  ],
   "geometry": {"coordinates":[-81.094218,41.286225],"type":"Point"}
 }

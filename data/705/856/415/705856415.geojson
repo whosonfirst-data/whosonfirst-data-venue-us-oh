@@ -2,61 +2,65 @@
   "id": 705856415,
   "type": "Feature",
   "properties": {
-    "addr:full":"108 S State St Harrison OH 45030",
-    "addr:housenumber":"108",
-    "addr:postcode":"45030",
-    "addr:street":"S State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.819843,39.2616,-84.819843,39.2616",
-    "geom:latitude":39.2616,
-    "geom:longitude":-84.819843,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"108 S State St",
-    "sg:city":"Harrison",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "108 S State St Harrison OH 45030",
+    "addr:housenumber": "108",
+    "addr:postcode": "45030",
+    "addr:street": "S State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.819843,39.261600,-84.819843,39.261600",
+    "geom:latitude": 39.2616,
+    "geom:longitude": -84.819843,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "108 S State St",
+    "sg:city": "Harrison",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 367 4366",
-    "sg:postcode":"45030",
-    "sg:province":"OH",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 367 4366",
+    "sg:postcode": "45030",
+    "sg:province": "OH",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4LTPmHBn6OdI2c0mPGpq85_39.261600_-84.819843@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4LTPmHBn6OdI2c0mPGpq85_39.261600_-84.819843@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790337,
-    "wof:geomhash":"db371ddc6b97e899803f4b4c67d029fd",
-    "wof:hierarchy":[],
-    "wof:id":705856415,
-    "wof:lastmodified":1472639422,
-    "wof:name":"Taiwon Kim MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:country": "US",
+    "wof:created": 1461790337,
+    "wof:geomhash": "10a8df236f4dab1266b55e596b4f08f4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705856415
+      }
+    ],
+    "wof:id": 705856415,
+    "wof:lastmodified": 1638567016,
+    "wof:name": "Taiwon Kim MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -84.819843,
     39.2616,
     -84.819843,
     39.2616
-],
-  "geometry": {"coordinates":[-84.81984300000001,39.2616],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.819843,39.2616],"type":"Point"}
 }

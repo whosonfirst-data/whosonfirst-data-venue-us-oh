@@ -2,61 +2,65 @@
   "id": 706063105,
   "type": "Feature",
   "properties": {
-    "addr:full":"590 Douglas Way Tipp City OH 45371",
-    "addr:housenumber":"590",
-    "addr:postcode":"45371",
-    "addr:street":"Douglas Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.179192,39.95355,-84.179192,39.95355",
-    "geom:latitude":39.95355,
-    "geom:longitude":-84.179192,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"590 Douglas Way",
-    "sg:city":"Tipp City",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "590 Douglas Way Tipp City OH 45371",
+    "addr:housenumber": "590",
+    "addr:postcode": "45371",
+    "addr:street": "Douglas Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.179192,39.953550,-84.179192,39.953550",
+    "geom:latitude": 39.95355,
+    "geom:longitude": -84.179192,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "590 Douglas Way",
+    "sg:city": "Tipp City",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 830 3108",
-    "sg:postcode":"45371",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 830 3108",
+    "sg:postcode": "45371",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cab"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2t3B3ZdGDl1mFJ9g7HLp3K_39.953550_-84.179192@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2t3B3ZdGDl1mFJ9g7HLp3K_39.953550_-84.179192@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794877,
-    "wof:geomhash":"dd68e4b03bbd000c5d7e60497001f228",
-    "wof:hierarchy":[],
-    "wof:id":706063105,
-    "wof:lastmodified":1472639149,
-    "wof:name":"Anthony Smith",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cab"
+    "wof:country": "US",
+    "wof:created": 1461794877,
+    "wof:geomhash": "13de781a8f53fcbd312a35a51d917b43",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706063105
+      }
+    ],
+    "wof:id": 706063105,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Anthony Smith",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cab"
     ]
-},
+  },
   "bbox": [
     -84.179192,
     39.95355,
     -84.179192,
     39.95355
-],
+  ],
   "geometry": {"coordinates":[-84.179192,39.95355],"type":"Point"}
 }

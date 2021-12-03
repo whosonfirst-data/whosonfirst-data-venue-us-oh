@@ -2,61 +2,65 @@
   "id": 689563063,
   "type": "Feature",
   "properties": {
-    "addr:full":"6401 Monroe St Sylvania OH 43560",
-    "addr:housenumber":"6401",
-    "addr:postcode":"43560",
-    "addr:street":"Monroe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.701835,41.715578,-83.701835,41.715578",
-    "geom:latitude":41.715578,
-    "geom:longitude":-83.701835,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6401 Monroe St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "6401 Monroe St Sylvania OH 43560",
+    "addr:housenumber": "6401",
+    "addr:postcode": "43560",
+    "addr:street": "Monroe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.701835,41.715578,-83.701835,41.715578",
+    "geom:latitude": 41.715578,
+    "geom:longitude": -83.701835,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6401 Monroe St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 2145",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 2145",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xRe5OPP1Bn4rNgzYKTuk9_41.715578_-83.701835@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xRe5OPP1Bn4rNgzYKTuk9_41.715578_-83.701835@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775105,
-    "wof:geomhash":"5ec76304a19610f28b82399806e2c17c",
-    "wof:hierarchy":[],
-    "wof:id":689563063,
-    "wof:lastmodified":1472639272,
-    "wof:name":"Exchange Bank",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial"
+    "wof:country": "US",
+    "wof:created": 1461775105,
+    "wof:geomhash": "fbb8dcd50506679b66d57f85e8fc87bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689563063
+      }
+    ],
+    "wof:id": 689563063,
+    "wof:lastmodified": 1638566984,
+    "wof:name": "Exchange Bank",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -83.701835,
     41.715578,
     -83.701835,
     41.715578
-],
+  ],
   "geometry": {"coordinates":[-83.701835,41.715578],"type":"Point"}
 }

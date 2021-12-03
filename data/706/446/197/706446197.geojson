@@ -2,61 +2,65 @@
   "id": 706446197,
   "type": "Feature",
   "properties": {
-    "addr:full":"51 N Oak St London OH 43140",
-    "addr:housenumber":"51",
-    "addr:postcode":"43140",
-    "addr:street":"N Oak St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.451249,39.887028,-83.451249,39.887028",
-    "geom:latitude":39.887028,
-    "geom:longitude":-83.451249,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"51 N Oak St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "51 N Oak St London OH 43140",
+    "addr:housenumber": "51",
+    "addr:postcode": "43140",
+    "addr:street": "N Oak St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.451249,39.887028,-83.451249,39.887028",
+    "geom:latitude": 39.887028,
+    "geom:longitude": -83.451249,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "51 N Oak St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 0112",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 0112",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0byQofCbHuCOoQViWxnGvf_39.887028_-83.451249@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0byQofCbHuCOoQViWxnGvf_39.887028_-83.451249@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803357,
-    "wof:geomhash":"79aacfb6de5b1dfbf84dec8f63a0ad3a",
-    "wof:hierarchy":[],
-    "wof:id":706446197,
-    "wof:lastmodified":1472640023,
-    "wof:name":"Pitstick Law Offices",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461803357,
+    "wof:geomhash": "264d7ccd24c80763043e418ee5e86e7e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706446197
+      }
+    ],
+    "wof:id": 706446197,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Pitstick Law Offices",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.451249,
     39.887028,
     -83.451249,
     39.887028
-],
+  ],
   "geometry": {"coordinates":[-83.451249,39.887028],"type":"Point"}
 }

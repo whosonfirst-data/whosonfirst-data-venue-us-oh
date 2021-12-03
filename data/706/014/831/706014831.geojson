@@ -2,63 +2,67 @@
   "id": 706014831,
   "type": "Feature",
   "properties": {
-    "addr:full":"2477 Linden Ave Zanesville OH 43701",
-    "addr:housenumber":"2477",
-    "addr:postcode":"43701",
-    "addr:street":"Linden Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.995851,39.967546,-81.995851,39.967546",
-    "geom:latitude":39.967546,
-    "geom:longitude":-81.995851,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2477 Linden Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2477 Linden Ave Zanesville OH 43701",
+    "addr:housenumber": "2477",
+    "addr:postcode": "43701",
+    "addr:street": "Linden Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.995851,39.967546,-81.995851,39.967546",
+    "geom:latitude": 39.967546,
+    "geom:longitude": -81.995851,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2477 Linden Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 5296",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 5296",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5GEqmQZnULUezGoHkxvO1N_39.967546_-81.995851@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5GEqmQZnULUezGoHkxvO1N_39.967546_-81.995851@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793892,
-    "wof:geomhash":"e12417a3a4080f4ba7132b0378adec08",
-    "wof:hierarchy":[],
-    "wof:id":706014831,
-    "wof:lastmodified":1472638575,
-    "wof:name":"North Linden Stroage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461793892,
+    "wof:geomhash": "77a69bc0313380b4040185b2ddc9e8fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706014831
+      }
+    ],
+    "wof:id": 706014831,
+    "wof:lastmodified": 1638566938,
+    "wof:name": "North Linden Stroage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -81.995851,
     39.967546,
     -81.995851,
     39.967546
-],
+  ],
   "geometry": {"coordinates":[-81.995851,39.967546],"type":"Point"}
 }

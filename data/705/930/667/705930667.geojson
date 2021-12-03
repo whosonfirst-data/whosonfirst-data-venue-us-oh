@@ -2,61 +2,65 @@
   "id": 705930667,
   "type": "Feature",
   "properties": {
-    "addr:full":"835 Sweitzer St Greenville OH 45331",
-    "addr:housenumber":"835",
-    "addr:postcode":"45331",
-    "addr:street":"Sweitzer St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.635034,40.0882,-84.635034,40.0882",
-    "geom:latitude":40.0882,
-    "geom:longitude":-84.635034,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"835 Sweitzer St",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "835 Sweitzer St Greenville OH 45331",
+    "addr:housenumber": "835",
+    "addr:postcode": "45331",
+    "addr:street": "Sweitzer St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.635034,40.088200,-84.635034,40.088200",
+    "geom:latitude": 40.0882,
+    "geom:longitude": -84.635034,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "835 Sweitzer St",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 547 5779",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clinic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 547 5779",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clinic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Q4P76URc5LAm4dPgb9S8i_40.088200_-84.635034@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Q4P76URc5LAm4dPgb9S8i_40.088200_-84.635034@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792074,
-    "wof:geomhash":"273b2011ba5959d1d955668bddee7fdb",
-    "wof:hierarchy":[],
-    "wof:id":705930667,
-    "wof:lastmodified":1472639674,
-    "wof:name":"Convenient Care Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic"
+    "wof:country": "US",
+    "wof:created": 1461792074,
+    "wof:geomhash": "e98573e494a3620a178c232bbc2aedda",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705930667
+      }
+    ],
+    "wof:id": 705930667,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Convenient Care Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic"
     ]
-},
+  },
   "bbox": [
     -84.635034,
     40.0882,
     -84.635034,
     40.0882
-],
+  ],
   "geometry": {"coordinates":[-84.635034,40.0882],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705944101,
   "type": "Feature",
   "properties": {
-    "addr:full":"917 Main St Caldwell OH 43724",
-    "addr:housenumber":"917",
-    "addr:postcode":"43724",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.523343,39.746653,-81.523343,39.746653",
-    "geom:latitude":39.746653,
-    "geom:longitude":-81.523343,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"917 Main St",
-    "sg:city":"Caldwell",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "917 Main St Caldwell OH 43724",
+    "addr:housenumber": "917",
+    "addr:postcode": "43724",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.523343,39.746653,-81.523343,39.746653",
+    "geom:latitude": 39.746653,
+    "geom:longitude": -81.523343,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "917 Main St",
+    "sg:city": "Caldwell",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 732 5487",
-    "sg:postcode":"43724",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 732 5487",
+    "sg:postcode": "43724",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3JqJL2x3PcCgiUzP0snAJd_39.746653_-81.523343@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3JqJL2x3PcCgiUzP0snAJd_39.746653_-81.523343@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792400,
-    "wof:geomhash":"5a5b6bb288d231afe683b4b63fbc0709",
-    "wof:hierarchy":[],
-    "wof:id":705944101,
-    "wof:lastmodified":1472639667,
-    "wof:name":"Murphy-Mc Curdy Funeral Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461792400,
+    "wof:geomhash": "4d3f12d8aec4fcf07706fc33e253251f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705944101
+      }
+    ],
+    "wof:id": 705944101,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Murphy-Mc Curdy Funeral Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -81.523343,
     39.746653,
     -81.523343,
     39.746653
-],
+  ],
   "geometry": {"coordinates":[-81.523343,39.746653],"type":"Point"}
 }

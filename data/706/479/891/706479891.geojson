@@ -2,65 +2,69 @@
   "id": 706479891,
   "type": "Feature",
   "properties": {
-    "addr:full":"411 2nd St Portsmouth OH 45662",
-    "addr:housenumber":"411",
-    "addr:postcode":"45662",
-    "addr:street":"2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.004959,38.73179,-83.004959,38.73179",
-    "geom:latitude":38.73179,
-    "geom:longitude":-83.004959,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"411 2nd St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "411 2nd St Portsmouth OH 45662",
+    "addr:housenumber": "411",
+    "addr:postcode": "45662",
+    "addr:street": "2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.004959,38.731790,-83.004959,38.731790",
+    "geom:latitude": 38.73179,
+    "geom:longitude": -83.004959,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "411 2nd St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 353 3173",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "county",
-        "program",
-        "health"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 353 3173",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "county",
+      "program",
+      "health"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wIRCUU4HApeg05ZwgNYLH_38.731790_-83.004959@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0wIRCUU4HApeg05ZwgNYLH_38.731790_-83.004959@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461804041,
-    "wof:geomhash":"38336f499f78da90a6a31f699032e47e",
-    "wof:hierarchy":[],
-    "wof:id":706479891,
-    "wof:lastmodified":1472640117,
-    "wof:name":"Scioto County Health Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "county",
-        "program",
-        "health"
+    "wof:country": "US",
+    "wof:created": 1461804041,
+    "wof:geomhash": "fe3af2eca92317f43f630098fad8fefc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706479891
+      }
+    ],
+    "wof:id": 706479891,
+    "wof:lastmodified": 1638567131,
+    "wof:name": "Scioto County Health Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "county",
+      "program",
+      "health"
     ]
-},
+  },
   "bbox": [
     -83.004959,
     38.73179,
     -83.004959,
     38.73179
-],
+  ],
   "geometry": {"coordinates":[-83.004959,38.73179],"type":"Point"}
 }

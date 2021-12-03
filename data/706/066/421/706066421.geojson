@@ -2,61 +2,65 @@
   "id": 706066421,
   "type": "Feature",
   "properties": {
-    "addr:full":"9405 Canal Way West Chester OH 45069",
-    "addr:housenumber":"9405",
-    "addr:postcode":"45069",
-    "addr:street":"Canal Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.458885,39.330199,-84.458885,39.330199",
-    "geom:latitude":39.330199,
-    "geom:longitude":-84.458885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9405 Canal Way",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "9405 Canal Way West Chester OH 45069",
+    "addr:housenumber": "9405",
+    "addr:postcode": "45069",
+    "addr:street": "Canal Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.458885,39.330199,-84.458885,39.330199",
+    "geom:latitude": 39.330199,
+    "geom:longitude": -84.458885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9405 Canal Way",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 741 6422",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "establishment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 741 6422",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "establishment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hSv9fHbr7WychvMu6M87N_39.330199_-84.458885@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7hSv9fHbr7WychvMu6M87N_39.330199_-84.458885@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794953,
-    "wof:geomhash":"c5b7db5b15c2ccf092f23e247daf6f93",
-    "wof:hierarchy":[],
-    "wof:id":706066421,
-    "wof:lastmodified":1472639178,
-    "wof:name":"Northgate Sears",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "establishment"
+    "wof:country": "US",
+    "wof:created": 1461794953,
+    "wof:geomhash": "f458c0540ae3a2acd277f3384484b7bb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706066421
+      }
+    ],
+    "wof:id": 706066421,
+    "wof:lastmodified": 1638566976,
+    "wof:name": "Northgate Sears",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "establishment"
     ]
-},
+  },
   "bbox": [
     -84.458885,
     39.330199,
     -84.458885,
     39.330199
-],
+  ],
   "geometry": {"coordinates":[-84.458885,39.330199],"type":"Point"}
 }

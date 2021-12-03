@@ -2,61 +2,65 @@
   "id": 705702953,
   "type": "Feature",
   "properties": {
-    "addr:full":"2601 S Main St Findlay OH 45840",
-    "addr:housenumber":"2601",
-    "addr:postcode":"45840",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650407,41.00671,-83.650407,41.00671",
-    "geom:latitude":41.00671,
-    "geom:longitude":-83.650407,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2601 S Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "2601 S Main St Findlay OH 45840",
+    "addr:housenumber": "2601",
+    "addr:postcode": "45840",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650407,41.006710,-83.650407,41.006710",
+    "geom:latitude": 41.00671,
+    "geom:longitude": -83.650407,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2601 S Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 422 4591",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 422 4591",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7TiF2QVZ5ukb9JkJ6eSgC7_41.006710_-83.650407@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7TiF2QVZ5ukb9JkJ6eSgC7_41.006710_-83.650407@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786652,
-    "wof:geomhash":"d435ae5586ab2909a9c483cb6f531390",
-    "wof:hierarchy":[],
-    "wof:id":705702953,
-    "wof:lastmodified":1472638313,
-    "wof:name":"St Andrew's UM Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461786652,
+    "wof:geomhash": "2a60ff74d46abb61410df7f01f72d321",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702953
+      }
+    ],
+    "wof:id": 705702953,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "St Andrew's UM Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -83.650407,
     41.00671,
     -83.650407,
     41.00671
-],
+  ],
   "geometry": {"coordinates":[-83.650407,41.00671],"type":"Point"}
 }

@@ -2,57 +2,61 @@
   "id": 706595835,
   "type": "Feature",
   "properties": {
-    "addr:full":"8200 E Washington St Chagrin Falls OH 44023",
-    "addr:housenumber":"8200",
-    "addr:postcode":"44023",
-    "addr:street":"E Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.348265,41.418033,-81.348265,41.418033",
-    "geom:latitude":41.418033,
-    "geom:longitude":-81.348265,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8200 E Washington St",
-    "sg:city":"Chagrin Falls",
-    "sg:classifiers":[
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "8200 E Washington St Chagrin Falls OH 44023",
+    "addr:housenumber": "8200",
+    "addr:postcode": "44023",
+    "addr:street": "E Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.348265,41.418033,-81.348265,41.418033",
+    "geom:latitude": 41.418033,
+    "geom:longitude": -81.348265,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8200 E Washington St",
+    "sg:city": "Chagrin Falls",
+    "sg:classifiers": [
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 349 3306",
-    "sg:postcode":"44023",
-    "sg:province":"OH",
-    "sg:website":"www.clevelandcinemas.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3179KILc7Jr75x3ywp05cU_41.418033_-81.348265@1303262753"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 349 3306",
+    "sg:postcode": "44023",
+    "sg:province": "OH",
+    "sg:website": "www.clevelandcinemas.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3179KILc7Jr75x3ywp05cU_41.418033_-81.348265@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806634,
-    "wof:geomhash":"c4d862748e68f4e3c458480b1e450090",
-    "wof:hierarchy":[],
-    "wof:id":706595835,
-    "wof:lastmodified":1472640218,
-    "wof:name":"Chagrin Cinemas",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806634,
+    "wof:geomhash": "53d7a51bb6fffb0efddee1c9363baac5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706595835
+      }
+    ],
+    "wof:id": 706595835,
+    "wof:lastmodified": 1638567145,
+    "wof:name": "Chagrin Cinemas",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.348265,
     41.418033,
     -81.348265,
     41.418033
-],
+  ],
   "geometry": {"coordinates":[-81.348265,41.418033],"type":"Point"}
 }

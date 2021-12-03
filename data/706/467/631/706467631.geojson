@@ -2,63 +2,67 @@
   "id": 706467631,
   "type": "Feature",
   "properties": {
-    "addr:full":"14 Raymond Ave Shelby OH 44875",
-    "addr:housenumber":"14",
-    "addr:postcode":"44875",
-    "addr:street":"Raymond Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.665374,40.882371,-82.665374,40.882371",
-    "geom:latitude":40.882371,
-    "geom:longitude":-82.665374,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14 Raymond Ave",
-    "sg:city":"Shelby",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "14 Raymond Ave Shelby OH 44875",
+    "addr:housenumber": "14",
+    "addr:postcode": "44875",
+    "addr:street": "Raymond Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.665374,40.882371,-82.665374,40.882371",
+    "geom:latitude": 40.882371,
+    "geom:longitude": -82.665374,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14 Raymond Ave",
+    "sg:city": "Shelby",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 342 6141",
-    "sg:postcode":"44875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 342 6141",
+    "sg:postcode": "44875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IMSrwRFxKE63Sih1QQaVx_40.882371_-82.665374@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5IMSrwRFxKE63Sih1QQaVx_40.882371_-82.665374@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803798,
-    "wof:geomhash":"dd3e3ff4ec672433d834c56731c50a92",
-    "wof:hierarchy":[],
-    "wof:id":706467631,
-    "wof:lastmodified":1472640096,
-    "wof:name":"Liberty Mill",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461803798,
+    "wof:geomhash": "5915241758ed372db010c7e63cc17655",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706467631
+      }
+    ],
+    "wof:id": 706467631,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "Liberty Mill",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -82.665374,
     40.882371,
     -82.665374,
     40.882371
-],
+  ],
   "geometry": {"coordinates":[-82.665374,40.882371],"type":"Point"}
 }

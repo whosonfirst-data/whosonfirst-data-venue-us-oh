@@ -2,66 +2,70 @@
   "id": 706553043,
   "type": "Feature",
   "properties": {
-    "addr:full":"1127 N Main St Bellefontaine OH 43311",
-    "addr:housenumber":"1127",
-    "addr:postcode":"43311",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.755735,40.377774,-83.755735,40.377774",
-    "geom:latitude":40.377774,
-    "geom:longitude":-83.755735,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1127 N Main St",
-    "sg:city":"Bellefontaine",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1127 N Main St Bellefontaine OH 43311",
+    "addr:housenumber": "1127",
+    "addr:postcode": "43311",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.755735,40.377774,-83.755735,40.377774",
+    "geom:latitude": 40.377774,
+    "geom:longitude": -83.755735,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1127 N Main St",
+    "sg:city": "Bellefontaine",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/lake/194884-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43311",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/lake/194884-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43311",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_63coz0GnQ03g0eYvlrjEAI_40.377774_-83.755735@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_63coz0GnQ03g0eYvlrjEAI_40.377774_-83.755735@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805719,
-    "wof:geomhash":"e100eabc0dfce14603f6858d609d7683",
-    "wof:hierarchy":[],
-    "wof:id":706553043,
-    "wof:lastmodified":1512142843,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805719,
+    "wof:geomhash": "e100eabc0dfce14603f6858d609d7683",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706553043
+      }
+    ],
+    "wof:id": 706553043,
+    "wof:lastmodified": 1638567134,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -83.755735,
     40.377774,
     -83.755735,
     40.377774
-],
+  ],
   "geometry": {"coordinates":[-83.755735,40.377774],"type":"Point"}
 }

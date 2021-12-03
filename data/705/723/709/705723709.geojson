@@ -2,63 +2,67 @@
   "id": 705723709,
   "type": "Feature",
   "properties": {
-    "addr:full":"613 Center St Wheelersburg OH 45694",
-    "addr:housenumber":"613",
-    "addr:postcode":"45694",
-    "addr:street":"Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.859131,38.729102,-82.859131,38.729102",
-    "geom:latitude":38.729102,
-    "geom:longitude":-82.859131,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"613 Center St",
-    "sg:city":"Wheelersburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "613 Center St Wheelersburg OH 45694",
+    "addr:housenumber": "613",
+    "addr:postcode": "45694",
+    "addr:street": "Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.859131,38.729102,-82.859131,38.729102",
+    "geom:latitude": 38.729102,
+    "geom:longitude": -82.859131,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "613 Center St",
+    "sg:city": "Wheelersburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 574 1712",
-    "sg:postcode":"45694",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 574 1712",
+    "sg:postcode": "45694",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7JHzczbYkdYdP4un4iH6QF_38.729102_-82.859131@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7JHzczbYkdYdP4un4iH6QF_38.729102_-82.859131@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787248,
-    "wof:geomhash":"f54d642174e2e2d42421ab80f723542a",
-    "wof:hierarchy":[],
-    "wof:id":705723709,
-    "wof:lastmodified":1472638607,
-    "wof:name":"Somc Rehab Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461787248,
+    "wof:geomhash": "a6f0ea0ac3f50aa9b30a34dfb872dc8f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705723709
+      }
+    ],
+    "wof:id": 705723709,
+    "wof:lastmodified": 1638566939,
+    "wof:name": "Somc Rehab Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.859131,
     38.729102,
     -82.859131,
     38.729102
-],
+  ],
   "geometry": {"coordinates":[-82.859131,38.729102],"type":"Point"}
 }

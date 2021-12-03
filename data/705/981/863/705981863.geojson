@@ -2,61 +2,65 @@
   "id": 705981863,
   "type": "Feature",
   "properties": {
-    "addr:full":"16514 N Redrock Dr Cleveland OH 44136",
-    "addr:housenumber":"16514",
-    "addr:postcode":"44136",
-    "addr:street":"N Redrock Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.818532,41.289473,-81.818532,41.289473",
-    "geom:latitude":41.289473,
-    "geom:longitude":-81.818532,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16514 N Redrock Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "16514 N Redrock Dr Cleveland OH 44136",
+    "addr:housenumber": "16514",
+    "addr:postcode": "44136",
+    "addr:street": "N Redrock Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.818532,41.289473,-81.818532,41.289473",
+    "geom:latitude": 41.289473,
+    "geom:longitude": -81.818532,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16514 N Redrock Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 572 0346",
-    "sg:postcode":"44136",
-    "sg:province":"OH",
-    "sg:tags":[
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 572 0346",
+    "sg:postcode": "44136",
+    "sg:province": "OH",
+    "sg:tags": [
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7B7pnejLP79b4p78rmkiEp_41.289473_-81.818532@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7B7pnejLP79b4p78rmkiEp_41.289473_-81.818532@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793200,
-    "wof:geomhash":"f4d7a4ced1b9ad72f19e05c9672ae6d2",
-    "wof:hierarchy":[],
-    "wof:id":705981863,
-    "wof:lastmodified":1472639805,
-    "wof:name":"Republic Storage Systems",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461793200,
+    "wof:geomhash": "8722ba99ea667b5f4a3dc28ff84475ab",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705981863
+      }
+    ],
+    "wof:id": 705981863,
+    "wof:lastmodified": 1638567068,
+    "wof:name": "Republic Storage Systems",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "storage"
     ]
-},
+  },
   "bbox": [
     -81.818532,
     41.289473,
     -81.818532,
     41.289473
-],
+  ],
   "geometry": {"coordinates":[-81.818532,41.289473],"type":"Point"}
 }

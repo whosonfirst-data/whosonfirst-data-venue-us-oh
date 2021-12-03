@@ -2,61 +2,65 @@
   "id": 689711275,
   "type": "Feature",
   "properties": {
-    "addr:full":"6875 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"6875",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.399407,39.324486,-84.399407,39.324486",
-    "geom:latitude":39.324486,
-    "geom:longitude":-84.399407,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6875 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "6875 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "6875",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.399407,39.324486,-84.399407,39.324486",
+    "geom:latitude": 39.324486,
+    "geom:longitude": -84.399407,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6875 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 779 1103",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "educational"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 779 1103",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "educational"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5meRkRT2UAbTYDdt6xL2S7_39.324486_-84.399407@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5meRkRT2UAbTYDdt6xL2S7_39.324486_-84.399407@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779435,
-    "wof:geomhash":"1f2aec984a1dce64777700d2aafaf276",
-    "wof:hierarchy":[],
-    "wof:id":689711275,
-    "wof:lastmodified":1472639712,
-    "wof:name":"Safe Day Education Of Ohio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "educational"
+    "wof:country": "US",
+    "wof:created": 1461779435,
+    "wof:geomhash": "3d965ebed1dad158e44e8932f0145371",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689711275
+      }
+    ],
+    "wof:id": 689711275,
+    "wof:lastmodified": 1638567031,
+    "wof:name": "Safe Day Education Of Ohio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "educational"
     ]
-},
+  },
   "bbox": [
     -84.399407,
     39.324486,
     -84.399407,
     39.324486
-],
+  ],
   "geometry": {"coordinates":[-84.399407,39.324486],"type":"Point"}
 }

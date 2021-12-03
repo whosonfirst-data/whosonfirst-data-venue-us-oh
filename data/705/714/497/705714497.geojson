@@ -2,61 +2,65 @@
   "id": 705714497,
   "type": "Feature",
   "properties": {
-    "addr:full":"11311 Rockside Rd Cleveland OH 44125",
-    "addr:housenumber":"11311",
-    "addr:postcode":"44125",
-    "addr:street":"Rockside Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.607872,41.393741,-81.607872,41.393741",
-    "geom:latitude":41.393741,
-    "geom:longitude":-81.607872,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11311 Rockside Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "11311 Rockside Rd Cleveland OH 44125",
+    "addr:housenumber": "11311",
+    "addr:postcode": "44125",
+    "addr:street": "Rockside Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.607872,41.393741,-81.607872,41.393741",
+    "geom:latitude": 41.393741,
+    "geom:longitude": -81.607872,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11311 Rockside Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 524 3620",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 524 3620",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "system"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5g9pmnT1NRnBLsBpICbbT7_41.393741_-81.607872@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5g9pmnT1NRnBLsBpICbbT7_41.393741_-81.607872@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787022,
-    "wof:geomhash":"e1356b823354d214acb4118aa2cae389",
-    "wof:hierarchy":[],
-    "wof:id":705714497,
-    "wof:lastmodified":1472638447,
-    "wof:name":"Boyas Excavating Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "system"
+    "wof:country": "US",
+    "wof:created": 1461787022,
+    "wof:geomhash": "e6f03d42ae556435eeb5f4916e18d462",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705714497
+      }
+    ],
+    "wof:id": 705714497,
+    "wof:lastmodified": 1638566930,
+    "wof:name": "Boyas Excavating Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "system"
     ]
-},
+  },
   "bbox": [
     -81.607872,
     41.393741,
     -81.607872,
     41.393741
-],
+  ],
   "geometry": {"coordinates":[-81.607872,41.393741],"type":"Point"}
 }

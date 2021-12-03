@@ -2,61 +2,65 @@
   "id": 689798767,
   "type": "Feature",
   "properties": {
-    "addr:full":"378 Sherwood Ave Smithfield OH 43948",
-    "addr:housenumber":"378",
-    "addr:postcode":"43948",
-    "addr:street":"Sherwood Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.775435,40.263245,-80.775435,40.263245",
-    "geom:latitude":40.263245,
-    "geom:longitude":-80.775435,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"378 Sherwood Ave",
-    "sg:city":"Smithfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "378 Sherwood Ave Smithfield OH 43948",
+    "addr:housenumber": "378",
+    "addr:postcode": "43948",
+    "addr:street": "Sherwood Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.775435,40.263245,-80.775435,40.263245",
+    "geom:latitude": 40.263245,
+    "geom:longitude": -80.775435,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "378 Sherwood Ave",
+    "sg:city": "Smithfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 733 7023",
-    "sg:postcode":"43948",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 733 7023",
+    "sg:postcode": "43948",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5FoffpzfcBaSQjT15IdpMn_40.263245_-80.775435@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5FoffpzfcBaSQjT15IdpMn_40.263245_-80.775435@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781834,
-    "wof:geomhash":"e0b0c8aea32195a3a06979216744c031",
-    "wof:hierarchy":[],
-    "wof:id":689798767,
-    "wof:lastmodified":1472639867,
-    "wof:name":"Smithfield Sewage Treatment",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461781834,
+    "wof:geomhash": "d4d614de4a55e2471bb716d8ac963818",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689798767
+      }
+    ],
+    "wof:id": 689798767,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "Smithfield Sewage Treatment",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -80.775435,
     40.263245,
     -80.775435,
     40.263245
-],
+  ],
   "geometry": {"coordinates":[-80.775435,40.263245],"type":"Point"}
 }

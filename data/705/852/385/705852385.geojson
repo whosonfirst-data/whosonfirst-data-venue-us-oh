@@ -2,61 +2,65 @@
   "id": 705852385,
   "type": "Feature",
   "properties": {
-    "addr:full":"9601 Madison Rd Montville OH 44064",
-    "addr:housenumber":"9601",
-    "addr:postcode":"44064",
-    "addr:street":"Madison Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.049689,41.613655,-81.049689,41.613655",
-    "geom:latitude":41.613655,
-    "geom:longitude":-81.049689,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9601 Madison Rd",
-    "sg:city":"Montville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "9601 Madison Rd Montville OH 44064",
+    "addr:housenumber": "9601",
+    "addr:postcode": "44064",
+    "addr:street": "Madison Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.049689,41.613655,-81.049689,41.613655",
+    "geom:latitude": 41.613655,
+    "geom:longitude": -81.049689,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9601 Madison Rd",
+    "sg:city": "Montville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 968 3320",
-    "sg:postcode":"44064",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 968 3320",
+    "sg:postcode": "44064",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0VTEfMt6yuOHBHwbxjuYpA_41.613655_-81.049689@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0VTEfMt6yuOHBHwbxjuYpA_41.613655_-81.049689@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790241,
-    "wof:geomhash":"c4a4cb9c9aabaa0af8e6767d8383a8e4",
-    "wof:hierarchy":[],
-    "wof:id":705852385,
-    "wof:lastmodified":1472639399,
-    "wof:name":"Church Of Christ Montville",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461790241,
+    "wof:geomhash": "2a6f5457d42460c88f4c6f882aa0c057",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705852385
+      }
+    ],
+    "wof:id": 705852385,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Church Of Christ Montville",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.049689,
     41.613655,
     -81.049689,
     41.613655
-],
+  ],
   "geometry": {"coordinates":[-81.049689,41.613655],"type":"Point"}
 }

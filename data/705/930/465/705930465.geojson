@@ -2,61 +2,65 @@
   "id": 705930465,
   "type": "Feature",
   "properties": {
-    "addr:full":"631 N Elm St Delphos OH 45833",
-    "addr:housenumber":"631",
-    "addr:postcode":"45833",
-    "addr:street":"N Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.346926,40.849221,-84.346926,40.849221",
-    "geom:latitude":40.849221,
-    "geom:longitude":-84.346926,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"631 N Elm St",
-    "sg:city":"Delphos",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "631 N Elm St Delphos OH 45833",
+    "addr:housenumber": "631",
+    "addr:postcode": "45833",
+    "addr:street": "N Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.346926,40.849221,-84.346926,40.849221",
+    "geom:latitude": 40.849221,
+    "geom:longitude": -84.346926,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "631 N Elm St",
+    "sg:city": "Delphos",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 692 6336",
-    "sg:postcode":"45833",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 692 6336",
+    "sg:postcode": "45833",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1JSU2JQtDkc1AXTjX3Msnk_40.849221_-84.346926@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1JSU2JQtDkc1AXTjX3Msnk_40.849221_-84.346926@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792070,
-    "wof:geomhash":"15570d17899de6b55ab5e695895763d1",
-    "wof:hierarchy":[],
-    "wof:id":705930465,
-    "wof:lastmodified":1472639662,
-    "wof:name":"Delphos Self Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461792070,
+    "wof:geomhash": "6d63693aa21e3ffb269d71690bc091c4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705930465
+      }
+    ],
+    "wof:id": 705930465,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Delphos Self Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general"
     ]
-},
+  },
   "bbox": [
     -84.346926,
     40.849221,
     -84.346926,
     40.849221
-],
+  ],
   "geometry": {"coordinates":[-84.346926,40.849221],"type":"Point"}
 }

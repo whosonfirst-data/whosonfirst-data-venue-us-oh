@@ -2,70 +2,74 @@
   "id": 689589321,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 W Water St Oak Harbor OH 43449",
-    "addr:housenumber":"111",
-    "addr:postcode":"43449",
-    "addr:street":"W Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.147256,41.507574,-83.147256,41.507574",
-    "geom:latitude":41.507574,
-    "geom:longitude":-83.147256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 W Water St",
-    "sg:city":"Oak Harbor",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Clothing, Apparel, & Fashions",
-            "type":"Retail Goods"
-        }
+    "addr:full": "111 W Water St Oak Harbor OH 43449",
+    "addr:housenumber": "111",
+    "addr:postcode": "43449",
+    "addr:street": "W Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.147256,41.507574,-83.147256,41.507574",
+    "geom:latitude": 41.507574,
+    "geom:longitude": -83.147256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 W Water St",
+    "sg:city": "Oak Harbor",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 898 4474",
-    "sg:postcode":"43449",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "shoes",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 898 4474",
+    "sg:postcode": "43449",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "shoes",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1HPuCam6qpTIqrkXxj0N6c_41.507574_-83.147256@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1HPuCam6qpTIqrkXxj0N6c_41.507574_-83.147256@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775901,
-    "wof:geomhash":"3ae1f9337331de10ab664b93c92e69bb",
-    "wof:hierarchy":[],
-    "wof:id":689589321,
-    "wof:lastmodified":1472639350,
-    "wof:name":"Class A Performance Arts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "shoes",
-        "dancing"
+    "wof:country": "US",
+    "wof:created": 1461775901,
+    "wof:geomhash": "bae3ab0ff8d2d3d63938c68cf99e49bb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689589321
+      }
+    ],
+    "wof:id": 689589321,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Class A Performance Arts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "shoes",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -83.147256,
     41.507574,
     -83.147256,
     41.507574
-],
+  ],
   "geometry": {"coordinates":[-83.147256,41.507574],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705932503,
   "type": "Feature",
   "properties": {
-    "addr:full":"207 S Main St Amsterdam OH 43903",
-    "addr:housenumber":"207",
-    "addr:postcode":"43903",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.923929,40.472201,-80.923929,40.472201",
-    "geom:latitude":40.472201,
-    "geom:longitude":-80.923929,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"207 S Main St",
-    "sg:city":"Amsterdam",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "207 S Main St Amsterdam OH 43903",
+    "addr:housenumber": "207",
+    "addr:postcode": "43903",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.923929,40.472201,-80.923929,40.472201",
+    "geom:latitude": 40.472201,
+    "geom:longitude": -80.923929,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "207 S Main St",
+    "sg:city": "Amsterdam",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 543 3555",
-    "sg:postcode":"43903",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 543 3555",
+    "sg:postcode": "43903",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6emeu7HrBHjcIk3rjNwX84_40.472201_-80.923929@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6emeu7HrBHjcIk3rjNwX84_40.472201_-80.923929@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792117,
-    "wof:geomhash":"9d835c0a7ef4e07e3e5894fc2ee5695f",
-    "wof:hierarchy":[],
-    "wof:id":705932503,
-    "wof:lastmodified":1472639653,
-    "wof:name":"Sweeney-Dodds Funeral Home",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461792117,
+    "wof:geomhash": "3d1da22e260cbbd622daae18568937cc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705932503
+      }
+    ],
+    "wof:id": 705932503,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Sweeney-Dodds Funeral Home",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -80.923929,
     40.472201,
     -80.923929,
     40.472201
-],
+  ],
   "geometry": {"coordinates":[-80.923929,40.472201],"type":"Point"}
 }

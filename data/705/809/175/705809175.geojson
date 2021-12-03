@@ -2,61 +2,65 @@
   "id": 705809175,
   "type": "Feature",
   "properties": {
-    "addr:full":"144 E 1st St London OH 43140",
-    "addr:housenumber":"144",
-    "addr:postcode":"43140",
-    "addr:street":"E 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.44161,39.887385,-83.44161,39.887385",
-    "geom:latitude":39.887385,
-    "geom:longitude":-83.44161,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"144 E 1st St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "144 E 1st St London OH 43140",
+    "addr:housenumber": "144",
+    "addr:postcode": "43140",
+    "addr:street": "E 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.441610,39.887385,-83.441610,39.887385",
+    "geom:latitude": 39.887385,
+    "geom:longitude": -83.44161,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "144 E 1st St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 845 0709",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 845 0709",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5BbP56AbRm8V5o86bdIibv_39.887385_-83.441610@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5BbP56AbRm8V5o86bdIibv_39.887385_-83.441610@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789214,
-    "wof:geomhash":"acca87bc2d958da6c6824693e570dfdd",
-    "wof:hierarchy":[],
-    "wof:id":705809175,
-    "wof:lastmodified":1472639276,
-    "wof:name":"Inside Scoop Cafe Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461789214,
+    "wof:geomhash": "6039f5c4fb797e8fcc6ce56c4dba7fba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705809175
+      }
+    ],
+    "wof:id": 705809175,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Inside Scoop Cafe Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.44161,
     39.887385,
     -83.44161,
     39.887385
-],
+  ],
   "geometry": {"coordinates":[-83.44161,39.887385],"type":"Point"}
 }

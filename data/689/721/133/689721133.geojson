@@ -2,63 +2,67 @@
   "id": 689721133,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 Columbia Rd Valley City OH 44280",
-    "addr:housenumber":"121",
-    "addr:postcode":"44280",
-    "addr:street":"Columbia Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.917834,41.2721,-81.917834,41.2721",
-    "geom:latitude":41.2721,
-    "geom:longitude":-81.917834,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"121 Columbia Rd",
-    "sg:city":"Valley City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "121 Columbia Rd Valley City OH 44280",
+    "addr:housenumber": "121",
+    "addr:postcode": "44280",
+    "addr:street": "Columbia Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.917834,41.272100,-81.917834,41.272100",
+    "geom:latitude": 41.2721,
+    "geom:longitude": -81.917834,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "121 Columbia Rd",
+    "sg:city": "Valley City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 483 1310",
-    "sg:postcode":"44280",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 483 1310",
+    "sg:postcode": "44280",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ID0KT5x1OaBinhfFjsP9W_41.272100_-81.917834@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ID0KT5x1OaBinhfFjsP9W_41.272100_-81.917834@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779699,
-    "wof:geomhash":"52d01cbd39a0960da5e14e742852dd10",
-    "wof:hierarchy":[],
-    "wof:id":689721133,
-    "wof:lastmodified":1472639707,
-    "wof:name":"Miller's Service",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461779699,
+    "wof:geomhash": "f33663f5e4bfd7838a8c440fc4adde52",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689721133
+      }
+    ],
+    "wof:id": 689721133,
+    "wof:lastmodified": 1638567032,
+    "wof:name": "Miller's Service",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -81.917834,
     41.2721,
     -81.917834,
     41.2721
-],
+  ],
   "geometry": {"coordinates":[-81.917834,41.2721],"type":"Point"}
 }

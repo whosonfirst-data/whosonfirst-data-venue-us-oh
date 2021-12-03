@@ -2,63 +2,67 @@
   "id": 689846443,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 N Commerce St Lewisburg OH 45338",
-    "addr:housenumber":"105",
-    "addr:postcode":"45338",
-    "addr:street":"N Commerce St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.539759,39.845915,-84.539759,39.845915",
-    "geom:latitude":39.845915,
-    "geom:longitude":-84.539759,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 N Commerce St",
-    "sg:city":"Lewisburg",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "105 N Commerce St Lewisburg OH 45338",
+    "addr:housenumber": "105",
+    "addr:postcode": "45338",
+    "addr:street": "N Commerce St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.539759,39.845915,-84.539759,39.845915",
+    "geom:latitude": 39.845915,
+    "geom:longitude": -84.539759,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 N Commerce St",
+    "sg:city": "Lewisburg",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 962 4499",
-    "sg:postcode":"45338",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 962 4499",
+    "sg:postcode": "45338",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ShncWxDATZ5q2vadcLire_39.845915_-84.539759@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ShncWxDATZ5q2vadcLire_39.845915_-84.539759@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783238,
-    "wof:geomhash":"89ce8128f197cab24609605252b50ae0",
-    "wof:hierarchy":[],
-    "wof:id":689846443,
-    "wof:lastmodified":1472639925,
-    "wof:name":"Step In Time Dance Studio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:country": "US",
+    "wof:created": 1461783238,
+    "wof:geomhash": "62fd596829b3737b8d663b259adebd48",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689846443
+      }
+    ],
+    "wof:id": 689846443,
+    "wof:lastmodified": 1638567078,
+    "wof:name": "Step In Time Dance Studio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -84.539759,
     39.845915,
     -84.539759,
     39.845915
-],
+  ],
   "geometry": {"coordinates":[-84.539759,39.845915],"type":"Point"}
 }

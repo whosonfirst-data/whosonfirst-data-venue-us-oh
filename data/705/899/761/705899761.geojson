@@ -2,63 +2,67 @@
   "id": 705899761,
   "type": "Feature",
   "properties": {
-    "addr:full":"42225 Enterprise Rd Pomeroy OH 45769",
-    "addr:housenumber":"42225",
-    "addr:postcode":"45769",
-    "addr:street":"Enterprise Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.010032,39.039349,-82.010032,39.039349",
-    "geom:latitude":39.039349,
-    "geom:longitude":-82.010032,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"42225 Enterprise Rd",
-    "sg:city":"Pomeroy",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "42225 Enterprise Rd Pomeroy OH 45769",
+    "addr:housenumber": "42225",
+    "addr:postcode": "45769",
+    "addr:street": "Enterprise Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.010032,39.039349,-82.010032,39.039349",
+    "geom:latitude": 39.039349,
+    "geom:longitude": -82.010032,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "42225 Enterprise Rd",
+    "sg:city": "Pomeroy",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 992 1330",
-    "sg:postcode":"45769",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 992 1330",
+    "sg:postcode": "45769",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Xp7fy4q6loRra8e3waVKU_39.039349_-82.010032@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Xp7fy4q6loRra8e3waVKU_39.039349_-82.010032@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791411,
-    "wof:geomhash":"ecba444b36843c65d6e169b9b80ea64f",
-    "wof:hierarchy":[],
-    "wof:id":705899761,
-    "wof:lastmodified":1472639554,
-    "wof:name":"33 Auto Clinic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461791411,
+    "wof:geomhash": "60e6561776608f0868365af39d473cf6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705899761
+      }
+    ],
+    "wof:id": 705899761,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "33 Auto Clinic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -82.010032,
     39.039349,
     -82.010032,
     39.039349
-],
+  ],
   "geometry": {"coordinates":[-82.010032,39.039349],"type":"Point"}
 }

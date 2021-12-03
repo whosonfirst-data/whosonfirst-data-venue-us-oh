@@ -2,61 +2,65 @@
   "id": 705694661,
   "type": "Feature",
   "properties": {
-    "addr:full":"215 Euclid St Willard OH 44890",
-    "addr:housenumber":"215",
-    "addr:postcode":"44890",
-    "addr:street":"Euclid St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.731447,41.056119,-82.731447,41.056119",
-    "geom:latitude":41.056119,
-    "geom:longitude":-82.731447,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"215 Euclid St",
-    "sg:city":"Willard",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "215 Euclid St Willard OH 44890",
+    "addr:housenumber": "215",
+    "addr:postcode": "44890",
+    "addr:street": "Euclid St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.731447,41.056119,-82.731447,41.056119",
+    "geom:latitude": 41.056119,
+    "geom:longitude": -82.731447,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "215 Euclid St",
+    "sg:city": "Willard",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 935 1631",
-    "sg:postcode":"44890",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 935 1631",
+    "sg:postcode": "44890",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_09rNSmuFC7XbMHpMy554iQ_41.056119_-82.731447@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_09rNSmuFC7XbMHpMy554iQ_41.056119_-82.731447@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786282,
-    "wof:geomhash":"dbafd2e0961400bf723f2d43012bd28d",
-    "wof:hierarchy":[],
-    "wof:id":705694661,
-    "wof:lastmodified":1472638199,
-    "wof:name":"Wilcox Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1461786282,
+    "wof:geomhash": "3f34ac6097558edabd9d0ea351e6e833",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705694661
+      }
+    ],
+    "wof:id": 705694661,
+    "wof:lastmodified": 1638566913,
+    "wof:name": "Wilcox Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -82.731447,
     41.056119,
     -82.731447,
     41.056119
-],
+  ],
   "geometry": {"coordinates":[-82.731447,41.056119],"type":"Point"}
 }

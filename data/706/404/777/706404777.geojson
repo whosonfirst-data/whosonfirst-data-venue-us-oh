@@ -2,63 +2,67 @@
   "id": 706404777,
   "type": "Feature",
   "properties": {
-    "addr:full":"1861 Industrial Dr Celina OH 45822",
-    "addr:housenumber":"1861",
-    "addr:postcode":"45822",
-    "addr:street":"Industrial Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.545205,40.558306,-84.545205,40.558306",
-    "geom:latitude":40.558306,
-    "geom:longitude":-84.545205,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1861 Industrial Dr",
-    "sg:city":"Celina",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1861 Industrial Dr Celina OH 45822",
+    "addr:housenumber": "1861",
+    "addr:postcode": "45822",
+    "addr:street": "Industrial Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.545205,40.558306,-84.545205,40.558306",
+    "geom:latitude": 40.558306,
+    "geom:longitude": -84.545205,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1861 Industrial Dr",
+    "sg:city": "Celina",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 586 1776",
-    "sg:postcode":"45822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 586 1776",
+    "sg:postcode": "45822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13xxSiHEqdMXT3YfbtLoKd_40.558306_-84.545205@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13xxSiHEqdMXT3YfbtLoKd_40.558306_-84.545205@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802495,
-    "wof:geomhash":"e6e0af7364b0a5eb5c501888c8ae0ab0",
-    "wof:hierarchy":[],
-    "wof:id":706404777,
-    "wof:lastmodified":1472640000,
-    "wof:name":"Grand Lake U-Store",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461802495,
+    "wof:geomhash": "e51d59694b837403d63985070fbcd4f0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706404777
+      }
+    ],
+    "wof:id": 706404777,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Grand Lake U-Store",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -84.545205,
     40.558306,
     -84.545205,
     40.558306
-],
+  ],
   "geometry": {"coordinates":[-84.545205,40.558306],"type":"Point"}
 }

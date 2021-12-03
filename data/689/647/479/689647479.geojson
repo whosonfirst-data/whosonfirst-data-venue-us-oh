@@ -2,63 +2,67 @@
   "id": 689647479,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 N Main St Lewisburg OH 45338",
-    "addr:housenumber":"500",
-    "addr:postcode":"45338",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.53936,39.850578,-84.53936,39.850578",
-    "geom:latitude":39.850578,
-    "geom:longitude":-84.53936,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 N Main St",
-    "sg:city":"Lewisburg",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "500 N Main St Lewisburg OH 45338",
+    "addr:housenumber": "500",
+    "addr:postcode": "45338",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.539360,39.850578,-84.539360,39.850578",
+    "geom:latitude": 39.850578,
+    "geom:longitude": -84.53936,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 N Main St",
+    "sg:city": "Lewisburg",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 962 2618",
-    "sg:postcode":"45338",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 962 2618",
+    "sg:postcode": "45338",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2sIeYDAHqvzLXoRVrre1aN_39.850578_-84.539360@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2sIeYDAHqvzLXoRVrre1aN_39.850578_-84.539360@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777802,
-    "wof:geomhash":"5b955b7aa558d35277a9c6e8b4bea742",
-    "wof:hierarchy":[],
-    "wof:id":689647479,
-    "wof:lastmodified":1472639528,
-    "wof:name":"Lewisburg Family Practice Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461777802,
+    "wof:geomhash": "ac35dfa8c076318953bc86c61a847edc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689647479
+      }
+    ],
+    "wof:id": 689647479,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Lewisburg Family Practice Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.53936,
     39.850578,
     -84.53936,
     39.850578
-],
+  ],
   "geometry": {"coordinates":[-84.53936,39.850578],"type":"Point"}
 }

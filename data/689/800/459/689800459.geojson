@@ -2,65 +2,69 @@
   "id": 689800459,
   "type": "Feature",
   "properties": {
-    "addr:full":"339 N Wooster Ave Strasburg OH 44680",
-    "addr:housenumber":"339",
-    "addr:postcode":"44680",
-    "addr:street":"N Wooster Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.528246,40.600358,-81.528246,40.600358",
-    "geom:latitude":40.600358,
-    "geom:longitude":-81.528246,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"339 N Wooster Ave",
-    "sg:city":"Strasburg",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "339 N Wooster Ave Strasburg OH 44680",
+    "addr:housenumber": "339",
+    "addr:postcode": "44680",
+    "addr:street": "N Wooster Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.528246,40.600358,-81.528246,40.600358",
+    "geom:latitude": 40.600358,
+    "geom:longitude": -81.528246,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "339 N Wooster Ave",
+    "sg:city": "Strasburg",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 878 5409",
-    "sg:postcode":"44680",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 878 5409",
+    "sg:postcode": "44680",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4WsarLFCNB6DjwcrGl5heN_40.600358_-81.528246@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4WsarLFCNB6DjwcrGl5heN_40.600358_-81.528246@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781891,
-    "wof:geomhash":"93d1552fe15b0568f12461faf676f13a",
-    "wof:hierarchy":[],
-    "wof:id":689800459,
-    "wof:lastmodified":1472639864,
-    "wof:name":"T & T Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461781891,
+    "wof:geomhash": "ce693446db98add29cb9ddf73390cede",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689800459
+      }
+    ],
+    "wof:id": 689800459,
+    "wof:lastmodified": 1638567059,
+    "wof:name": "T \u0026 T Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.528246,
     40.600358,
     -81.528246,
     40.600358
-],
+  ],
   "geometry": {"coordinates":[-81.528246,40.600358],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706444275,
   "type": "Feature",
   "properties": {
-    "addr:full":"4481 Kent Rd Stow OH 44224",
-    "addr:housenumber":"4481",
-    "addr:postcode":"44224",
-    "addr:street":"Kent Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.399854,41.155302,-81.399854,41.155302",
-    "geom:latitude":41.155302,
-    "geom:longitude":-81.399854,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4481 Kent Rd",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4481 Kent Rd Stow OH 44224",
+    "addr:housenumber": "4481",
+    "addr:postcode": "44224",
+    "addr:street": "Kent Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.399854,41.155302,-81.399854,41.155302",
+    "geom:latitude": 41.155302,
+    "geom:longitude": -81.399854,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4481 Kent Rd",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 678 4000",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 678 4000",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06okPQu4W7BIgViLRjXw7N_41.155302_-81.399854@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_06okPQu4W7BIgViLRjXw7N_41.155302_-81.399854@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803309,
-    "wof:geomhash":"68070679cf199f9115875ab36dd0b524",
-    "wof:hierarchy":[],
-    "wof:id":706444275,
-    "wof:lastmodified":1472640027,
-    "wof:name":"Stow Kent Dentisty",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461803309,
+    "wof:geomhash": "345789b93ff2fd2b6cdbb410c895ecc2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706444275
+      }
+    ],
+    "wof:id": 706444275,
+    "wof:lastmodified": 1638567121,
+    "wof:name": "Stow Kent Dentisty",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.399854,
     41.155302,
     -81.399854,
     41.155302
-],
+  ],
   "geometry": {"coordinates":[-81.399854,41.155302],"type":"Point"}
 }

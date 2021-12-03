@@ -2,61 +2,65 @@
   "id": 705771193,
   "type": "Feature",
   "properties": {
-    "addr:full":"1410 Ball St Fremont OH 43420",
-    "addr:housenumber":"1410",
-    "addr:postcode":"43420",
-    "addr:street":"Ball St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.129005,41.359089,-83.129005,41.359089",
-    "geom:latitude":41.359089,
-    "geom:longitude":-83.129005,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1410 Ball St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1410 Ball St Fremont OH 43420",
+    "addr:housenumber": "1410",
+    "addr:postcode": "43420",
+    "addr:street": "Ball St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.129005,41.359089,-83.129005,41.359089",
+    "geom:latitude": 41.359089,
+    "geom:longitude": -83.129005,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1410 Ball St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 8284",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "taxicab"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 8284",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "taxicab"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_046RFG6s2tjeKHS6HKYq81_41.359089_-83.129005@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_046RFG6s2tjeKHS6HKYq81_41.359089_-83.129005@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788325,
-    "wof:geomhash":"07f4d21daae6d464037e07b448daf063",
-    "wof:hierarchy":[],
-    "wof:id":705771193,
-    "wof:lastmodified":1472639213,
-    "wof:name":"Fremont Taxi",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "taxicab"
+    "wof:country": "US",
+    "wof:created": 1461788325,
+    "wof:geomhash": "6e1eee196945188e09774499b61f3bee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705771193
+      }
+    ],
+    "wof:id": 705771193,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Fremont Taxi",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "taxicab"
     ]
-},
+  },
   "bbox": [
     -83.129005,
     41.359089,
     -83.129005,
     41.359089
-],
-  "geometry": {"coordinates":[-83.12900500000001,41.359089],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.129005,41.359089],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706380805,
   "type": "Feature",
   "properties": {
-    "addr:full":"8888 Prospect Rd Strongsville OH 44149",
-    "addr:housenumber":"8888",
-    "addr:postcode":"44149",
-    "addr:street":"Prospect Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.857675,41.344052,-81.857675,41.344052",
-    "geom:latitude":41.344052,
-    "geom:longitude":-81.857675,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8888 Prospect Rd",
-    "sg:city":"Strongsville",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        }
+    "addr:full": "8888 Prospect Rd Strongsville OH 44149",
+    "addr:housenumber": "8888",
+    "addr:postcode": "44149",
+    "addr:street": "Prospect Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.857675,41.344052,-81.857675,41.344052",
+    "geom:latitude": 41.344052,
+    "geom:longitude": -81.857675,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8888 Prospect Rd",
+    "sg:city": "Strongsville",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 243 0767",
-    "sg:postcode":"44149",
-    "sg:province":"OH",
-    "sg:tags":[
-        "day"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 243 0767",
+    "sg:postcode": "44149",
+    "sg:province": "OH",
+    "sg:tags": [
+      "day"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6LSIZOvTfu0WhQ3EVCGXKI_41.344052_-81.857675@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6LSIZOvTfu0WhQ3EVCGXKI_41.344052_-81.857675@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802023,
-    "wof:geomhash":"6203f12203dc19b907348ffdcaaaa06f",
-    "wof:hierarchy":[],
-    "wof:id":706380805,
-    "wof:lastmodified":1472639966,
-    "wof:name":"Smart Start Day Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "day"
+    "wof:country": "US",
+    "wof:created": 1461802023,
+    "wof:geomhash": "fa360b5bef9240347e1ae8a99183d541",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706380805
+      }
+    ],
+    "wof:id": 706380805,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Smart Start Day Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "day"
     ]
-},
+  },
   "bbox": [
     -81.857675,
     41.344052,
     -81.857675,
     41.344052
-],
+  ],
   "geometry": {"coordinates":[-81.857675,41.344052],"type":"Point"}
 }

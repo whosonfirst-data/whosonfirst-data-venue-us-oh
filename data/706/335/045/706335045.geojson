@@ -2,61 +2,65 @@
   "id": 706335045,
   "type": "Feature",
   "properties": {
-    "addr:full":"6303 Center Rd Valley City OH 44280",
-    "addr:housenumber":"6303",
-    "addr:postcode":"44280",
-    "addr:street":"Center Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.910821,41.237666,-81.910821,41.237666",
-    "geom:latitude":41.237666,
-    "geom:longitude":-81.910821,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6303 Center Rd",
-    "sg:city":"Valley City",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "6303 Center Rd Valley City OH 44280",
+    "addr:housenumber": "6303",
+    "addr:postcode": "44280",
+    "addr:street": "Center Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.910821,41.237666,-81.910821,41.237666",
+    "geom:latitude": 41.237666,
+    "geom:longitude": -81.910821,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6303 Center Rd",
+    "sg:city": "Valley City",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 483 3346",
-    "sg:postcode":"44280",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 483 3346",
+    "sg:postcode": "44280",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ctFkSL3CU1LdmAWbPe6Yv_41.237666_-81.910821@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ctFkSL3CU1LdmAWbPe6Yv_41.237666_-81.910821@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801096,
-    "wof:geomhash":"41598072f2fffdebc78b1e760ea49c92",
-    "wof:hierarchy":[],
-    "wof:id":706335045,
-    "wof:lastmodified":1472639836,
-    "wof:name":"Resurrection Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461801096,
+    "wof:geomhash": "ed1bc4d1aafe94e29171329f9bc9743a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706335045
+      }
+    ],
+    "wof:id": 706335045,
+    "wof:lastmodified": 1638567086,
+    "wof:name": "Resurrection Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -81.910821,
     41.237666,
     -81.910821,
     41.237666
-],
+  ],
   "geometry": {"coordinates":[-81.910821,41.237666],"type":"Point"}
 }

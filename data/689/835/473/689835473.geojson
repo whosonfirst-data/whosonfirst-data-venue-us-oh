@@ -2,61 +2,65 @@
   "id": 689835473,
   "type": "Feature",
   "properties": {
-    "addr:full":"81 Robin Hood Ln Troy OH 45373",
-    "addr:housenumber":"81",
-    "addr:postcode":"45373",
-    "addr:street":"Robin Hood Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.193457,40.051624,-84.193457,40.051624",
-    "geom:latitude":40.051624,
-    "geom:longitude":-84.193457,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"81 Robin Hood Ln",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "81 Robin Hood Ln Troy OH 45373",
+    "addr:housenumber": "81",
+    "addr:postcode": "45373",
+    "addr:street": "Robin Hood Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.193457,40.051624,-84.193457,40.051624",
+    "geom:latitude": 40.051624,
+    "geom:longitude": -84.193457,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "81 Robin Hood Ln",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 339 7536",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 339 7536",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0J9PIQnBSEVVVFes05ZnUS_40.051624_-84.193457@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0J9PIQnBSEVVVFes05ZnUS_40.051624_-84.193457@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461783011,
-    "wof:geomhash":"95e89b9f8c1079a19410809b0e6b192c",
-    "wof:hierarchy":[],
-    "wof:id":689835473,
-    "wof:lastmodified":1472639912,
-    "wof:name":"John J Murphy DDS Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461783011,
+    "wof:geomhash": "98c8f91ee2dd8c621110905048b9b6a5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689835473
+      }
+    ],
+    "wof:id": 689835473,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "John J Murphy DDS Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.193457,
     40.051624,
     -84.193457,
     40.051624
-],
+  ],
   "geometry": {"coordinates":[-84.193457,40.051624],"type":"Point"}
 }

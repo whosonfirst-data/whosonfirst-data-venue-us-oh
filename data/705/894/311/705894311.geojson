@@ -2,61 +2,65 @@
   "id": 705894311,
   "type": "Feature",
   "properties": {
-    "addr:full":"3595 Washington Ave Cincinnati OH 45229",
-    "addr:housenumber":"3595",
-    "addr:postcode":"45229",
-    "addr:street":"Washington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.495145,39.145862,-84.495145,39.145862",
-    "geom:latitude":39.145862,
-    "geom:longitude":-84.495145,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3595 Washington Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "3595 Washington Ave Cincinnati OH 45229",
+    "addr:housenumber": "3595",
+    "addr:postcode": "45229",
+    "addr:street": "Washington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.495145,39.145862,-84.495145,39.145862",
+    "geom:latitude": 39.145862,
+    "geom:longitude": -84.495145,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3595 Washington Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 751 6900",
-    "sg:postcode":"45229",
-    "sg:province":"OH",
-    "sg:tags":[
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 751 6900",
+    "sg:postcode": "45229",
+    "sg:province": "OH",
+    "sg:tags": [
+      "specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7gjghZya0Jqp4PWKe81iaH_39.145862_-84.495145@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7gjghZya0Jqp4PWKe81iaH_39.145862_-84.495145@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791278,
-    "wof:geomhash":"4c142511050e95de488e1765adbd4ded",
-    "wof:hierarchy":[],
-    "wof:id":705894311,
-    "wof:lastmodified":1472639548,
-    "wof:name":"Catherine Booth Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "specialty"
+    "wof:country": "US",
+    "wof:created": 1461791278,
+    "wof:geomhash": "f9eb7a17f1a2ab6cb508cecdcdd52c50",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705894311
+      }
+    ],
+    "wof:id": 705894311,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Catherine Booth Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -84.495145,
     39.145862,
     -84.495145,
     39.145862
-],
-  "geometry": {"coordinates":[-84.49514499999999,39.145862],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.495145,39.145862],"type":"Point"}
 }

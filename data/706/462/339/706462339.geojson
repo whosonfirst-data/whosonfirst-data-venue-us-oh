@@ -2,63 +2,67 @@
   "id": 706462339,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 7th Ave Chardon OH 44024",
-    "addr:housenumber":"150",
-    "addr:postcode":"44024",
-    "addr:street":"7Th Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.21969,41.590951,-81.21969,41.590951",
-    "geom:latitude":41.590951,
-    "geom:longitude":-81.21969,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"150 7th Ave",
-    "sg:city":"Chardon",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "150 7th Ave Chardon OH 44024",
+    "addr:housenumber": "150",
+    "addr:postcode": "44024",
+    "addr:street": "7Th Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.219690,41.590951,-81.219690,41.590951",
+    "geom:latitude": 41.590951,
+    "geom:longitude": -81.21969,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "150 7th Ave",
+    "sg:city": "Chardon",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 285 4999",
-    "sg:postcode":"44024",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 285 4999",
+    "sg:postcode": "44024",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2bNqrBC8DnCGfQgOeRSEzg_41.590951_-81.219690@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2bNqrBC8DnCGfQgOeRSEzg_41.590951_-81.219690@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803686,
-    "wof:geomhash":"34a2caa2663e7657142073d46afa56b5",
-    "wof:hierarchy":[],
-    "wof:id":706462339,
-    "wof:lastmodified":1472640038,
-    "wof:name":"Precision Orthopaedic Spec",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461803686,
+    "wof:geomhash": "22ec64a0bec897af4f330e46c5e2d506",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706462339
+      }
+    ],
+    "wof:id": 706462339,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Precision Orthopaedic Spec",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.21969,
     41.590951,
     -81.21969,
     41.590951
-],
+  ],
   "geometry": {"coordinates":[-81.21969,41.590951],"type":"Point"}
 }

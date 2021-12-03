@@ -2,66 +2,70 @@
   "id": 706579093,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 E High St Hicksville OH 43526",
-    "addr:housenumber":"200",
-    "addr:postcode":"43526",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.758479,41.295816,-84.758479,41.295816",
-    "geom:latitude":41.295816,
-    "geom:longitude":-84.758479,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"200 E High St",
-    "sg:city":"Hicksville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "200 E High St Hicksville OH 43526",
+    "addr:housenumber": "200",
+    "addr:postcode": "43526",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.758479,41.295816,-84.758479,41.295816",
+    "geom:latitude": 41.295816,
+    "geom:longitude": -84.758479,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "200 E High St",
+    "sg:city": "Hicksville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/hicksville/195038-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43526",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/hicksville/195038-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43526",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06GJYXpOemArWzP7z8rPyx_41.295418_-84.759090@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_06GJYXpOemArWzP7z8rPyx_41.295418_-84.759090@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806293,
-    "wof:geomhash":"e62419622044d0e221dab3fbf76eaf41",
-    "wof:hierarchy":[],
-    "wof:id":706579093,
-    "wof:lastmodified":1512142993,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806293,
+    "wof:geomhash": "e62419622044d0e221dab3fbf76eaf41",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706579093
+      }
+    ],
+    "wof:id": 706579093,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.758479,
     41.295816,
     -84.758479,
     41.295816
-],
-  "geometry": {"coordinates":[-84.75847899999999,41.295816],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.758479,41.295816],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705998141,
   "type": "Feature",
   "properties": {
-    "addr:full":"40 S Main St Croton OH 43013",
-    "addr:housenumber":"40",
-    "addr:postcode":"43013",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.686205,40.238178,-82.686205,40.238178",
-    "geom:latitude":40.238178,
-    "geom:longitude":-82.686205,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"40 S Main St",
-    "sg:city":"Croton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "40 S Main St Croton OH 43013",
+    "addr:housenumber": "40",
+    "addr:postcode": "43013",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.686205,40.238178,-82.686205,40.238178",
+    "geom:latitude": 40.238178,
+    "geom:longitude": -82.686205,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "40 S Main St",
+    "sg:city": "Croton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 893 3191",
-    "sg:postcode":"43013",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 893 3191",
+    "sg:postcode": "43013",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1jDCB2dkIilaW7aCcw2kxJ_40.238178_-82.686205@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1jDCB2dkIilaW7aCcw2kxJ_40.238178_-82.686205@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793542,
-    "wof:geomhash":"79aff704af4aa79e7098c4e2c317e81d",
-    "wof:hierarchy":[],
-    "wof:id":705998141,
-    "wof:lastmodified":1472639821,
-    "wof:name":"Croton Church Of Christ",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793542,
+    "wof:geomhash": "b935574bf6e8efc3755c7c53afc0afa5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705998141
+      }
+    ],
+    "wof:id": 705998141,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Croton Church Of Christ",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.686205,
     40.238178,
     -82.686205,
     40.238178
-],
+  ],
   "geometry": {"coordinates":[-82.686205,40.238178],"type":"Point"}
 }

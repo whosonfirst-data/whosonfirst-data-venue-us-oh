@@ -2,61 +2,65 @@
   "id": 706036177,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 N Oakland St Urbana OH 43078",
-    "addr:housenumber":"129",
-    "addr:postcode":"43078",
-    "addr:street":"N Oakland St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.764927,40.109669,-83.764927,40.109669",
-    "geom:latitude":40.109669,
-    "geom:longitude":-83.764927,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"129 N Oakland St",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "129 N Oakland St Urbana OH 43078",
+    "addr:housenumber": "129",
+    "addr:postcode": "43078",
+    "addr:street": "N Oakland St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.764927,40.109669,-83.764927,40.109669",
+    "geom:latitude": 40.109669,
+    "geom:longitude": -83.764927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "129 N Oakland St",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 653 3831",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 653 3831",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16ygq3jnxUoi2F4fHqmXRG_40.109669_-83.764927@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_16ygq3jnxUoi2F4fHqmXRG_40.109669_-83.764927@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794331,
-    "wof:geomhash":"63e4c64b1ed1aa0f453fddb4b857a0d9",
-    "wof:hierarchy":[],
-    "wof:id":706036177,
-    "wof:lastmodified":1472638836,
-    "wof:name":"Urbana Fellowship Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461794331,
+    "wof:geomhash": "274bde1554e917e4e46a0e11c106ec8f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706036177
+      }
+    ],
+    "wof:id": 706036177,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Urbana Fellowship Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.764927,
     40.109669,
     -83.764927,
     40.109669
-],
+  ],
   "geometry": {"coordinates":[-83.764927,40.109669],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705698481,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 N Main St Findlay OH 45840",
-    "addr:housenumber":"121",
-    "addr:postcode":"45840",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.650198,41.041408,-83.650198,41.041408",
-    "geom:latitude":41.041408,
-    "geom:longitude":-83.650198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"121 N Main St",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "121 N Main St Findlay OH 45840",
+    "addr:housenumber": "121",
+    "addr:postcode": "45840",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.650198,41.041408,-83.650198,41.041408",
+    "geom:latitude": 41.041408,
+    "geom:longitude": -83.650198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "121 N Main St",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 422 5021",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parlor",
-        "billiard"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 422 5021",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parlor",
+      "billiard"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_35VThgbt4nweQzcblrs5JI_41.041408_-83.650198@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_35VThgbt4nweQzcblrs5JI_41.041408_-83.650198@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786441,
-    "wof:geomhash":"f256825e2cb35704abadbf2a80db23b4",
-    "wof:hierarchy":[],
-    "wof:id":705698481,
-    "wof:lastmodified":1472638290,
-    "wof:name":"Dillon's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parlor",
-        "billiard"
+    "wof:country": "US",
+    "wof:created": 1461786441,
+    "wof:geomhash": "d18dbace532d1614fe11de6966339421",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705698481
+      }
+    ],
+    "wof:id": 705698481,
+    "wof:lastmodified": 1638566916,
+    "wof:name": "Dillon's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parlor",
+      "billiard"
     ]
-},
+  },
   "bbox": [
     -83.650198,
     41.041408,
     -83.650198,
     41.041408
-],
+  ],
   "geometry": {"coordinates":[-83.650198,41.041408],"type":"Point"}
 }

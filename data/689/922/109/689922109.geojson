@@ -2,61 +2,65 @@
   "id": 689922109,
   "type": "Feature",
   "properties": {
-    "addr:full":"1117 Main St Milford OH 45150",
-    "addr:housenumber":"1117",
-    "addr:postcode":"45150",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.275067,39.181281,-84.275067,39.181281",
-    "geom:latitude":39.181281,
-    "geom:longitude":-84.275067,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1117 Main St",
-    "sg:city":"Milford",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1117 Main St Milford OH 45150",
+    "addr:housenumber": "1117",
+    "addr:postcode": "45150",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.275067,39.181281,-84.275067,39.181281",
+    "geom:latitude": 39.181281,
+    "geom:longitude": -84.275067,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1117 Main St",
+    "sg:city": "Milford",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 576 1388",
-    "sg:postcode":"45150",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 576 1388",
+    "sg:postcode": "45150",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Mb05DX0XgFMzpHuBt2rQG_39.181281_-84.275067@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7Mb05DX0XgFMzpHuBt2rQG_39.181281_-84.275067@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785168,
-    "wof:geomhash":"59001eaa932996050384fe9f65eaa8f8",
-    "wof:hierarchy":[],
-    "wof:id":689922109,
-    "wof:lastmodified":1472640073,
-    "wof:name":"Hong Kong Wok",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461785168,
+    "wof:geomhash": "068cca6727e92fae1c99587ef6643302",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689922109
+      }
+    ],
+    "wof:id": 689922109,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Hong Kong Wok",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.275067,
     39.181281,
     -84.275067,
     39.181281
-],
-  "geometry": {"coordinates":[-84.27506700000001,39.181281],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.275067,39.181281],"type":"Point"}
 }

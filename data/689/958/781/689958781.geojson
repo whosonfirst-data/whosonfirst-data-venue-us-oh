@@ -2,63 +2,67 @@
   "id": 689958781,
   "type": "Feature",
   "properties": {
-    "addr:full":"1509 Conwell Ave Willard OH 44890",
-    "addr:housenumber":"1509",
-    "addr:postcode":"44890",
-    "addr:street":"Conwell Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.71583,41.041555,-82.71583,41.041555",
-    "geom:latitude":41.041555,
-    "geom:longitude":-82.71583,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1509 Conwell Ave",
-    "sg:city":"Willard",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1509 Conwell Ave Willard OH 44890",
+    "addr:housenumber": "1509",
+    "addr:postcode": "44890",
+    "addr:street": "Conwell Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.715830,41.041555,-82.715830,41.041555",
+    "geom:latitude": 41.041555,
+    "geom:longitude": -82.71583,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1509 Conwell Ave",
+    "sg:city": "Willard",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 933 4424",
-    "sg:postcode":"44890",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 933 4424",
+    "sg:postcode": "44890",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1jXuRWaqBiKfKt1mXo2lhs_41.041555_-82.715830@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1jXuRWaqBiKfKt1mXo2lhs_41.041555_-82.715830@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786099,
-    "wof:geomhash":"9d27140af2642c09fdc2aee283257d83",
-    "wof:hierarchy":[],
-    "wof:id":689958781,
-    "wof:lastmodified":1472640128,
-    "wof:name":"Ohio Cancer Specialists",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461786099,
+    "wof:geomhash": "6489c1dbaa77c8aea8bc5a7abe0cc70b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689958781
+      }
+    ],
+    "wof:id": 689958781,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Ohio Cancer Specialists",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.71583,
     41.041555,
     -82.71583,
     41.041555
-],
+  ],
   "geometry": {"coordinates":[-82.71583,41.041555],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706114101,
   "type": "Feature",
   "properties": {
-    "addr:full":"14350 Summit Ave Cleveland OH 44137",
-    "addr:housenumber":"14350",
-    "addr:postcode":"44137",
-    "addr:street":"Summit Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.583809,41.395915,-81.583809,41.395915",
-    "geom:latitude":41.395915,
-    "geom:longitude":-81.583809,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14350 Summit Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "14350 Summit Ave Cleveland OH 44137",
+    "addr:housenumber": "14350",
+    "addr:postcode": "44137",
+    "addr:street": "Summit Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.583809,41.395915,-81.583809,41.395915",
+    "geom:latitude": 41.395915,
+    "geom:longitude": -81.583809,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14350 Summit Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 581 0809",
-    "sg:postcode":"44137",
-    "sg:province":"OH",
-    "sg:tags":[
-        "painter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 581 0809",
+    "sg:postcode": "44137",
+    "sg:province": "OH",
+    "sg:tags": [
+      "painter"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7dk5NQVWb3BhIOE6DJDWkT_41.395915_-81.583809@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7dk5NQVWb3BhIOE6DJDWkT_41.395915_-81.583809@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796112,
-    "wof:geomhash":"1ab41e749eba2f7d09ab5c36952c55c1",
-    "wof:hierarchy":[],
-    "wof:id":706114101,
-    "wof:lastmodified":1472639274,
-    "wof:name":"Callahan Painting & Aluminum",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "painter"
+    "wof:country": "US",
+    "wof:created": 1461796112,
+    "wof:geomhash": "f112cf4ffffe76014cb317d715a4e739",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706114101
+      }
+    ],
+    "wof:id": 706114101,
+    "wof:lastmodified": 1638566998,
+    "wof:name": "Callahan Painting \u0026 Aluminum",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "painter"
     ]
-},
+  },
   "bbox": [
     -81.583809,
     41.395915,
     -81.583809,
     41.395915
-],
+  ],
   "geometry": {"coordinates":[-81.583809,41.395915],"type":"Point"}
 }

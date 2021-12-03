@@ -2,63 +2,67 @@
   "id": 706358445,
   "type": "Feature",
   "properties": {
-    "addr:full":"607 E Main St Anna OH 45302",
-    "addr:housenumber":"607",
-    "addr:postcode":"45302",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.16448,40.395054,-84.16448,40.395054",
-    "geom:latitude":40.395054,
-    "geom:longitude":-84.16448,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"607 E Main St",
-    "sg:city":"Anna",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "607 E Main St Anna OH 45302",
+    "addr:housenumber": "607",
+    "addr:postcode": "45302",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.164480,40.395054,-84.164480,40.395054",
+    "geom:latitude": 40.395054,
+    "geom:longitude": -84.16448,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "607 E Main St",
+    "sg:city": "Anna",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 394 7183",
-    "sg:postcode":"45302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "station",
-        "gasoline"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 394 7183",
+    "sg:postcode": "45302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "station",
+      "gasoline"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4sveOoo4a0ZRpZD7vpjmmW_40.395054_-84.164480@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4sveOoo4a0ZRpZD7vpjmmW_40.395054_-84.164480@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801579,
-    "wof:geomhash":"2e8deff194de5c4f36907ba2429702e4",
-    "wof:hierarchy":[],
-    "wof:id":706358445,
-    "wof:lastmodified":1472639912,
-    "wof:name":"Gas America 100",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "station",
-        "gasoline"
+    "wof:country": "US",
+    "wof:created": 1461801579,
+    "wof:geomhash": "9383e76ff51035bfbfd6b768f546f6de",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706358445
+      }
+    ],
+    "wof:id": 706358445,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "Gas America 100",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "station",
+      "gasoline"
     ]
-},
+  },
   "bbox": [
     -84.16448,
     40.395054,
     -84.16448,
     40.395054
-],
+  ],
   "geometry": {"coordinates":[-84.16448,40.395054],"type":"Point"}
 }

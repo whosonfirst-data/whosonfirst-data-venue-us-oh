@@ -2,61 +2,65 @@
   "id": 706306557,
   "type": "Feature",
   "properties": {
-    "addr:full":"8762 Thomas Rd Middletown OH 45042",
-    "addr:housenumber":"8762",
-    "addr:postcode":"45042",
-    "addr:street":"Thomas Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.37242,39.56207,-84.37242,39.56207",
-    "geom:latitude":39.56207,
-    "geom:longitude":-84.37242,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8762 Thomas Rd",
-    "sg:city":"Middletown",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "8762 Thomas Rd Middletown OH 45042",
+    "addr:housenumber": "8762",
+    "addr:postcode": "45042",
+    "addr:street": "Thomas Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.372420,39.562070,-84.372420,39.562070",
+    "geom:latitude": 39.56207,
+    "geom:longitude": -84.37242,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8762 Thomas Rd",
+    "sg:city": "Middletown",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 423 9960",
-    "sg:postcode":"45042",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 423 9960",
+    "sg:postcode": "45042",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61ox7VvhGOI3TvotPOb5i5_39.562070_-84.372420@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_61ox7VvhGOI3TvotPOb5i5_39.562070_-84.372420@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800448,
-    "wof:geomhash":"dd037e30a628c4c9e11c1a2c799e69ae",
-    "wof:hierarchy":[],
-    "wof:id":706306557,
-    "wof:lastmodified":1472639757,
-    "wof:name":"Middletown Haunted Trail",
-    "wof:parent_id":420534569,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461800448,
+    "wof:geomhash": "7b9d2fe2eb79adc0bfa20a9231c67a84",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706306557
+      }
+    ],
+    "wof:id": 706306557,
+    "wof:lastmodified": 1638567081,
+    "wof:name": "Middletown Haunted Trail",
+    "wof:parent_id": 420534569,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -84.37242,
     39.56207,
     -84.37242,
     39.56207
-],
-  "geometry": {"coordinates":[-84.37242000000001,39.56207],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.37242,39.56207],"type":"Point"}
 }

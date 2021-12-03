@@ -2,61 +2,65 @@
   "id": 689649863,
   "type": "Feature",
   "properties": {
-    "addr:full":"15590 Parkview Dr Newbury OH 44065",
-    "addr:housenumber":"15590",
-    "addr:postcode":"44065",
-    "addr:street":"Parkview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.216365,41.444269,-81.216365,41.444269",
-    "geom:latitude":41.444269,
-    "geom:longitude":-81.216365,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15590 Parkview Dr",
-    "sg:city":"Newbury",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "15590 Parkview Dr Newbury OH 44065",
+    "addr:housenumber": "15590",
+    "addr:postcode": "44065",
+    "addr:street": "Parkview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.216365,41.444269,-81.216365,41.444269",
+    "geom:latitude": 41.444269,
+    "geom:longitude": -81.216365,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15590 Parkview Dr",
+    "sg:city": "Newbury",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 729 9729",
-    "sg:postcode":"44065",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 729 9729",
+    "sg:postcode": "44065",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1vsSbpwZExbMZWOiWdKRUs_41.444269_-81.216365@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1vsSbpwZExbMZWOiWdKRUs_41.444269_-81.216365@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777864,
-    "wof:geomhash":"65479de579be610f348b6147dfab1b6a",
-    "wof:hierarchy":[],
-    "wof:id":689649863,
-    "wof:lastmodified":1472639541,
-    "wof:name":"Ross Mac Donald Studios",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461777864,
+    "wof:geomhash": "56ab960b880845e4b7b03f5b9380f385",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689649863
+      }
+    ],
+    "wof:id": 689649863,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Ross Mac Donald Studios",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -81.216365,
     41.444269,
     -81.216365,
     41.444269
-],
+  ],
   "geometry": {"coordinates":[-81.216365,41.444269],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689832983,
   "type": "Feature",
   "properties": {
-    "addr:full":"16810 Winchester Rd Ashville OH 43103",
-    "addr:housenumber":"16810",
-    "addr:postcode":"43103",
-    "addr:street":"Winchester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.893299,39.684302,-82.893299,39.684302",
-    "geom:latitude":39.684302,
-    "geom:longitude":-82.893299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16810 Winchester Rd",
-    "sg:city":"Ashville",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Developer",
-            "type":"Services"
-        }
+    "addr:full": "16810 Winchester Rd Ashville OH 43103",
+    "addr:housenumber": "16810",
+    "addr:postcode": "43103",
+    "addr:street": "Winchester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.893299,39.684302,-82.893299,39.684302",
+    "geom:latitude": 39.684302,
+    "geom:longitude": -82.893299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16810 Winchester Rd",
+    "sg:city": "Ashville",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Developer",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 983 2909",
-    "sg:postcode":"43103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 983 2909",
+    "sg:postcode": "43103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ZRKjbgw7CBbiB4OKSXEv6_39.684302_-82.893299@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0ZRKjbgw7CBbiB4OKSXEv6_39.684302_-82.893299@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782929,
-    "wof:geomhash":"655cff5f1ad64f957362b54950df830d",
-    "wof:hierarchy":[],
-    "wof:id":689832983,
-    "wof:lastmodified":1472639931,
-    "wof:name":"Reber Hill Cemetery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461782929,
+    "wof:geomhash": "a1a350e0fa7d2719621facb813d40c93",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689832983
+      }
+    ],
+    "wof:id": 689832983,
+    "wof:lastmodified": 1638567075,
+    "wof:name": "Reber Hill Cemetery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -82.893299,
     39.684302,
     -82.893299,
     39.684302
-],
+  ],
   "geometry": {"coordinates":[-82.893299,39.684302],"type":"Point"}
 }

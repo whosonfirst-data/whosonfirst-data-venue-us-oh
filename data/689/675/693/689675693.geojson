@@ -2,63 +2,67 @@
   "id": 689675693,
   "type": "Feature",
   "properties": {
-    "addr:full":"6123 Lafayette Rd Granville OH 43023",
-    "addr:housenumber":"6123",
-    "addr:postcode":"43023",
-    "addr:street":"Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.543547,40.141648,-82.543547,40.141648",
-    "geom:latitude":40.141648,
-    "geom:longitude":-82.543547,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6123 Lafayette Rd",
-    "sg:city":"Granville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Electrical",
-            "type":"Services"
-        }
+    "addr:full": "6123 Lafayette Rd Granville OH 43023",
+    "addr:housenumber": "6123",
+    "addr:postcode": "43023",
+    "addr:street": "Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.543547,40.141648,-82.543547,40.141648",
+    "geom:latitude": 40.141648,
+    "geom:longitude": -82.543547,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6123 Lafayette Rd",
+    "sg:city": "Granville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Electrical",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 587 1848",
-    "sg:postcode":"43023",
-    "sg:province":"OH",
-    "sg:tags":[
-        "electrical",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 587 1848",
+    "sg:postcode": "43023",
+    "sg:province": "OH",
+    "sg:tags": [
+      "electrical",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_37osH0dFTVWCfW86v7enj0_40.141648_-82.543547@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37osH0dFTVWCfW86v7enj0_40.141648_-82.543547@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778525,
-    "wof:geomhash":"2a80a13a68a76d418fc04ddd85212d58",
-    "wof:hierarchy":[],
-    "wof:id":689675693,
-    "wof:lastmodified":1472639624,
-    "wof:name":"North Fork Electric",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "electrical",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461778525,
+    "wof:geomhash": "d813f58b8830107e896fa25951c9d393",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689675693
+      }
+    ],
+    "wof:id": 689675693,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "North Fork Electric",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "electrical",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -82.543547,
     40.141648,
     -82.543547,
     40.141648
-],
+  ],
   "geometry": {"coordinates":[-82.543547,40.141648],"type":"Point"}
 }

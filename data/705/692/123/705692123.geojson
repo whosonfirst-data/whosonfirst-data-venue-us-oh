@@ -2,63 +2,67 @@
   "id": 705692123,
   "type": "Feature",
   "properties": {
-    "addr:full":"348 Garfield Ave Troy OH 45373",
-    "addr:housenumber":"348",
-    "addr:postcode":"45373",
-    "addr:street":"Garfield Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.212559,40.039108,-84.212559,40.039108",
-    "geom:latitude":40.039108,
-    "geom:longitude":-84.212559,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"348 Garfield Ave",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "348 Garfield Ave Troy OH 45373",
+    "addr:housenumber": "348",
+    "addr:postcode": "45373",
+    "addr:street": "Garfield Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.212559,40.039108,-84.212559,40.039108",
+    "geom:latitude": 40.039108,
+    "geom:longitude": -84.212559,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "348 Garfield Ave",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 339 7543",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 339 7543",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2QGoUnXsyTTNBAGAWw6PsI_40.039108_-84.212559@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2QGoUnXsyTTNBAGAWw6PsI_40.039108_-84.212559@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786217,
-    "wof:geomhash":"4dd4b1a4c9b13d8a6041d6195c8aa3df",
-    "wof:hierarchy":[],
-    "wof:id":705692123,
-    "wof:lastmodified":1472638192,
-    "wof:name":"Newmans Enterprises",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461786217,
+    "wof:geomhash": "dc7eb22dc4d2bf4213f3ae458d10ba35",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705692123
+      }
+    ],
+    "wof:id": 705692123,
+    "wof:lastmodified": 1638566911,
+    "wof:name": "Newmans Enterprises",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.212559,
     40.039108,
     -84.212559,
     40.039108
-],
+  ],
   "geometry": {"coordinates":[-84.212559,40.039108],"type":"Point"}
 }

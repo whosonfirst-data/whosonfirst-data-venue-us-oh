@@ -2,61 +2,65 @@
   "id": 705901037,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 W Wayne St Lima OH 45801",
-    "addr:housenumber":"102",
-    "addr:postcode":"45801",
-    "addr:street":"W Wayne St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.10587,40.74411,-84.10587,40.74411",
-    "geom:latitude":40.74411,
-    "geom:longitude":-84.10587,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 W Wayne St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "102 W Wayne St Lima OH 45801",
+    "addr:housenumber": "102",
+    "addr:postcode": "45801",
+    "addr:street": "W Wayne St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.105870,40.744110,-84.105870,40.744110",
+    "geom:latitude": 40.74411,
+    "geom:longitude": -84.10587,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 W Wayne St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 229 5731",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "printer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 229 5731",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "printer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5w3jc2HmRQjKxwyg8Tmb3O_40.744110_-84.105870@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5w3jc2HmRQjKxwyg8Tmb3O_40.744110_-84.105870@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791436,
-    "wof:geomhash":"61139c6b42280187f13a08a334df3c50",
-    "wof:hierarchy":[],
-    "wof:id":705901037,
-    "wof:lastmodified":1472639546,
-    "wof:name":"Whited Printing Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "printer"
+    "wof:country": "US",
+    "wof:created": 1461791436,
+    "wof:geomhash": "6282d4a32d6df335e88322c2fbaa8dc7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705901037
+      }
+    ],
+    "wof:id": 705901037,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Whited Printing Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "printer"
     ]
-},
+  },
   "bbox": [
     -84.10587,
     40.74411,
     -84.10587,
     40.74411
-],
+  ],
   "geometry": {"coordinates":[-84.10587,40.74411],"type":"Point"}
 }

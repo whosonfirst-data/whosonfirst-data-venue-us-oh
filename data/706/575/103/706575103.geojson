@@ -2,66 +2,70 @@
   "id": 706575103,
   "type": "Feature",
   "properties": {
-    "addr:full":"6222 Wilmington Pike Dayton OH 45459",
-    "addr:housenumber":"6222",
-    "addr:postcode":"45459",
-    "addr:street":"Wilmington Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.110145,39.649176,-84.110145,39.649176",
-    "geom:latitude":39.649176,
-    "geom:longitude":-84.110145,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"6222 Wilmington Pike",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6222 Wilmington Pike Dayton OH 45459",
+    "addr:housenumber": "6222",
+    "addr:postcode": "45459",
+    "addr:street": "Wilmington Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.110145,39.649176,-84.110145,39.649176",
+    "geom:latitude": 39.649176,
+    "geom:longitude": -84.110145,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "6222 Wilmington Pike",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/sugarcreek/195384-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/sugarcreek/195384-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7PZgpMVcIdDFRLysX11Txp_39.649176_-84.110145@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7PZgpMVcIdDFRLysX11Txp_39.649176_-84.110145@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806183,
-    "wof:geomhash":"7f7551983e09e8f851092c1700b39fb9",
-    "wof:hierarchy":[],
-    "wof:id":706575103,
-    "wof:lastmodified":1512142844,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806183,
+    "wof:geomhash": "7f7551983e09e8f851092c1700b39fb9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706575103
+      }
+    ],
+    "wof:id": 706575103,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.110145,
     39.649176,
     -84.110145,
     39.649176
-],
+  ],
   "geometry": {"coordinates":[-84.110145,39.649176],"type":"Point"}
 }

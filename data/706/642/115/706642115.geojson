@@ -2,63 +2,67 @@
   "id": 706642115,
   "type": "Feature",
   "properties": {
-    "addr:full":"483 Ohio Pike Cincinnati OH 45255",
-    "addr:housenumber":"483",
-    "addr:postcode":"45255",
-    "addr:street":"Ohio Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.308601,39.071701,-84.308601,39.071701",
-    "geom:latitude":39.071701,
-    "geom:longitude":-84.308601,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"483 Ohio Pike",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "483 Ohio Pike Cincinnati OH 45255",
+    "addr:housenumber": "483",
+    "addr:postcode": "45255",
+    "addr:street": "Ohio Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.308601,39.071701,-84.308601,39.071701",
+    "geom:latitude": 39.071701,
+    "geom:longitude": -84.308601,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "483 Ohio Pike",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 528 5326",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "body",
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 528 5326",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "body",
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6HDoRolQHydih2OPttPtlP_39.071701_-84.308601@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6HDoRolQHydih2OPttPtlP_39.071701_-84.308601@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807618,
-    "wof:geomhash":"ca324c79b6b48253e2b530185749405e",
-    "wof:hierarchy":[],
-    "wof:id":706642115,
-    "wof:lastmodified":1472640248,
-    "wof:name":"Miller's Dan Auto Service Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461807618,
+    "wof:geomhash": "1c3011b0217667f6df5ec2144ac918dd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642115
+      }
+    ],
+    "wof:id": 706642115,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Miller's Dan Auto Service Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.308601,
     39.071701,
     -84.308601,
     39.071701
-],
+  ],
   "geometry": {"coordinates":[-84.308601,39.071701],"type":"Point"}
 }

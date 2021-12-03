@@ -2,61 +2,65 @@
   "id": 689888627,
   "type": "Feature",
   "properties": {
-    "addr:full":"1040 Greenwich Ave Grafton OH 44044",
-    "addr:housenumber":"1040",
-    "addr:postcode":"44044",
-    "addr:street":"Greenwich Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.057773,41.284081,-82.057773,41.284081",
-    "geom:latitude":41.284081,
-    "geom:longitude":-82.057773,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1040 Greenwich Ave",
-    "sg:city":"Grafton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1040 Greenwich Ave Grafton OH 44044",
+    "addr:housenumber": "1040",
+    "addr:postcode": "44044",
+    "addr:street": "Greenwich Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.057773,41.284081,-82.057773,41.284081",
+    "geom:latitude": 41.284081,
+    "geom:longitude": -82.057773,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1040 Greenwich Ave",
+    "sg:city": "Grafton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 926 1311",
-    "sg:postcode":"44044",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 926 1311",
+    "sg:postcode": "44044",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5nqMAbhGcOk0vZmNnqWhwY_41.284081_-82.057773@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5nqMAbhGcOk0vZmNnqWhwY_41.284081_-82.057773@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784269,
-    "wof:geomhash":"5054b4c30fd79ef1865a271fb0249706",
-    "wof:hierarchy":[],
-    "wof:id":689888627,
-    "wof:lastmodified":1472640042,
-    "wof:name":"J P K Pizza Inc",
-    "wof:parent_id":420535001,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461784269,
+    "wof:geomhash": "96321533a033e62dfde8a5af8cd1bd47",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689888627
+      }
+    ],
+    "wof:id": 689888627,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "J P K Pizza Inc",
+    "wof:parent_id": 420535001,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.057773,
     41.284081,
     -82.057773,
     41.284081
-],
+  ],
   "geometry": {"coordinates":[-82.057773,41.284081],"type":"Point"}
 }

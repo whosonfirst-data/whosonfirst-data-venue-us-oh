@@ -2,61 +2,65 @@
   "id": 705923823,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 E Church St Wintersville OH 43953",
-    "addr:housenumber":"500",
-    "addr:postcode":"43953",
-    "addr:street":"E Church St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.692178,40.374513,-80.692178,40.374513",
-    "geom:latitude":40.374513,
-    "geom:longitude":-80.692178,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 E Church St",
-    "sg:city":"Wintersville",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "500 E Church St Wintersville OH 43953",
+    "addr:housenumber": "500",
+    "addr:postcode": "43953",
+    "addr:street": "E Church St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.692178,40.374513,-80.692178,40.374513",
+    "geom:latitude": 40.374513,
+    "geom:longitude": -80.692178,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 E Church St",
+    "sg:city": "Wintersville",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 266 2300",
-    "sg:postcode":"43953",
-    "sg:province":"OH",
-    "sg:tags":[
-        "ticket"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 266 2300",
+    "sg:postcode": "43953",
+    "sg:province": "OH",
+    "sg:tags": [
+      "ticket"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2B5Xp21n7MfpTzQkvDkmLq_40.374513_-80.692178@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2B5Xp21n7MfpTzQkvDkmLq_40.374513_-80.692178@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791931,
-    "wof:geomhash":"c1210017078a0233048d337c1810b0b2",
-    "wof:hierarchy":[],
-    "wof:id":705923823,
-    "wof:lastmodified":1472639639,
-    "wof:name":"Front Row Tickets",
-    "wof:parent_id":420534923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ticket"
+    "wof:country": "US",
+    "wof:created": 1461791931,
+    "wof:geomhash": "999f3d651486317efaea9a4c2044d78f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705923823
+      }
+    ],
+    "wof:id": 705923823,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Front Row Tickets",
+    "wof:parent_id": 420534923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ticket"
     ]
-},
+  },
   "bbox": [
     -80.692178,
     40.374513,
     -80.692178,
     40.374513
-],
+  ],
   "geometry": {"coordinates":[-80.692178,40.374513],"type":"Point"}
 }

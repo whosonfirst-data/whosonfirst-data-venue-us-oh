@@ -2,61 +2,65 @@
   "id": 706001433,
   "type": "Feature",
   "properties": {
-    "addr:full":"1199 N West St Lima OH 45801",
-    "addr:housenumber":"1199",
-    "addr:postcode":"45801",
-    "addr:street":"N West St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.108578,40.758686,-84.108578,40.758686",
-    "geom:latitude":40.758686,
-    "geom:longitude":-84.108578,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1199 N West St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1199 N West St Lima OH 45801",
+    "addr:housenumber": "1199",
+    "addr:postcode": "45801",
+    "addr:street": "N West St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.108578,40.758686,-84.108578,40.758686",
+    "geom:latitude": 40.758686,
+    "geom:longitude": -84.108578,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1199 N West St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 221 5103",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 221 5103",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5UDQiUVKb3BNJITBMTyEbo_40.758686_-84.108578@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5UDQiUVKb3BNJITBMTyEbo_40.758686_-84.108578@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793605,
-    "wof:geomhash":"79769c0bcf1f62dc4696c13385da0914",
-    "wof:hierarchy":[],
-    "wof:id":706001433,
-    "wof:lastmodified":1472638246,
-    "wof:name":"Lima City Fire Dept Station 3",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461793605,
+    "wof:geomhash": "d15d039fdaceb51827d415bcc4e13f76",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706001433
+      }
+    ],
+    "wof:id": 706001433,
+    "wof:lastmodified": 1638566925,
+    "wof:name": "Lima City Fire Dept Station 3",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.108578,
     40.758686,
     -84.108578,
     40.758686
-],
-  "geometry": {"coordinates":[-84.10857799999999,40.758686],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.108578,40.758686],"type":"Point"}
 }

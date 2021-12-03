@@ -2,65 +2,69 @@
   "id": 689806439,
   "type": "Feature",
   "properties": {
-    "addr:full":"1144 Pat Ln Mansfield OH 44906",
-    "addr:housenumber":"1144",
-    "addr:postcode":"44906",
-    "addr:street":"Pat Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.555625,40.792559,-82.555625,40.792559",
-    "geom:latitude":40.792559,
-    "geom:longitude":-82.555625,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1144 Pat Ln",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1144 Pat Ln Mansfield OH 44906",
+    "addr:housenumber": "1144",
+    "addr:postcode": "44906",
+    "addr:street": "Pat Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.555625,40.792559,-82.555625,40.792559",
+    "geom:latitude": 40.792559,
+    "geom:longitude": -82.555625,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1144 Pat Ln",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 747 4412",
-    "sg:postcode":"44906",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 747 4412",
+    "sg:postcode": "44906",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0SBOINXKHLFzT7Dnkxitng_40.792559_-82.555625@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0SBOINXKHLFzT7Dnkxitng_40.792559_-82.555625@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782085,
-    "wof:geomhash":"4da266b5e2f2b3cdc8c2bc3f95c73275",
-    "wof:hierarchy":[],
-    "wof:id":689806439,
-    "wof:lastmodified":1472639879,
-    "wof:name":"Perkins Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461782085,
+    "wof:geomhash": "32cfce4bc2b1a9ce8e133e7503dc8730",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689806439
+      }
+    ],
+    "wof:id": 689806439,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "Perkins Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.555625,
     40.792559,
     -82.555625,
     40.792559
-],
-  "geometry": {"coordinates":[-82.55562500000001,40.792559],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.555625,40.792559],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706009385,
   "type": "Feature",
   "properties": {
-    "addr:full":"3377 US Rte 35 E West Alexandria OH 45381",
-    "addr:housenumber":"3377;e",
-    "addr:postcode":"45381",
-    "addr:street":"Us Rte 35",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.56934,39.744305,-84.56934,39.744305",
-    "geom:latitude":39.744305,
-    "geom:longitude":-84.56934,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3377 US Rte 35 E",
-    "sg:city":"West Alexandria",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "3377 US Rte 35 E West Alexandria OH 45381",
+    "addr:housenumber": "3377;e",
+    "addr:postcode": "45381",
+    "addr:street": "Us Rte 35",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.569340,39.744305,-84.569340,39.744305",
+    "geom:latitude": 39.744305,
+    "geom:longitude": -84.56934,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3377 US Rte 35 E",
+    "sg:city": "West Alexandria",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 839 4476",
-    "sg:postcode":"45381",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 839 4476",
+    "sg:postcode": "45381",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0YzBLYXOPbb8AGav4VoLEX_39.744305_-84.569340@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0YzBLYXOPbb8AGav4VoLEX_39.744305_-84.569340@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793780,
-    "wof:geomhash":"1585f98405ef30bf9b9b7bfc289e4365",
-    "wof:hierarchy":[],
-    "wof:id":706009385,
-    "wof:lastmodified":1472638412,
-    "wof:name":"Preble Memory Gardens",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:country": "US",
+    "wof:created": 1461793780,
+    "wof:geomhash": "f417d77f75a1b54d86e2ab781a63946b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706009385
+      }
+    ],
+    "wof:id": 706009385,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "Preble Memory Gardens",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -84.56934,
     39.744305,
     -84.56934,
     39.744305
-],
+  ],
   "geometry": {"coordinates":[-84.56934,39.744305],"type":"Point"}
 }

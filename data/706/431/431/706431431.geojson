@@ -2,61 +2,65 @@
   "id": 706431431,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Shady Ln Amelia OH 45102",
-    "addr:housenumber":"123",
-    "addr:postcode":"45102",
-    "addr:street":"Shady Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.158377,38.992367,-84.158377,38.992367",
-    "geom:latitude":38.992367,
-    "geom:longitude":-84.158377,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Shady Ln",
-    "sg:city":"Amelia",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "123 Shady Ln Amelia OH 45102",
+    "addr:housenumber": "123",
+    "addr:postcode": "45102",
+    "addr:street": "Shady Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.158377,38.992367,-84.158377,38.992367",
+    "geom:latitude": 38.992367,
+    "geom:longitude": -84.158377,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Shady Ln",
+    "sg:city": "Amelia",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 734 4955",
-    "sg:postcode":"45102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 734 4955",
+    "sg:postcode": "45102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6acXmbkcQcjSSUfu4O0aSb_38.992367_-84.158377@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6acXmbkcQcjSSUfu4O0aSb_38.992367_-84.158377@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803009,
-    "wof:geomhash":"a4a23abae0c3788ba61ee1c57ae160e2",
-    "wof:hierarchy":[],
-    "wof:id":706431431,
-    "wof:lastmodified":1472640014,
-    "wof:name":"Mike Manning",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461803009,
+    "wof:geomhash": "2cb89f625f83d2936d678a224c589c9d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706431431
+      }
+    ],
+    "wof:id": 706431431,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Mike Manning",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -84.158377,
     38.992367,
     -84.158377,
     38.992367
-],
+  ],
   "geometry": {"coordinates":[-84.158377,38.992367],"type":"Point"}
 }

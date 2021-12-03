@@ -2,61 +2,65 @@
   "id": 705896165,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 S Park Ave Fremont OH 43420",
-    "addr:housenumber":"216",
-    "addr:postcode":"43420",
-    "addr:street":"S Park Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.117358,41.345242,-83.117358,41.345242",
-    "geom:latitude":41.345242,
-    "geom:longitude":-83.117358,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"216 S Park Ave",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "216 S Park Ave Fremont OH 43420",
+    "addr:housenumber": "216",
+    "addr:postcode": "43420",
+    "addr:street": "S Park Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.117358,41.345242,-83.117358,41.345242",
+    "geom:latitude": 41.345242,
+    "geom:longitude": -83.117358,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "216 S Park Ave",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 0531",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 0531",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BmXg6oQwVGXRa3WjGGJ5F_41.345242_-83.117358@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3BmXg6oQwVGXRa3WjGGJ5F_41.345242_-83.117358@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791316,
-    "wof:geomhash":"331ca897c3d2a4f1658495a7e9954ae5",
-    "wof:hierarchy":[],
-    "wof:id":705896165,
-    "wof:lastmodified":1472639546,
-    "wof:name":"First Brethren Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461791316,
+    "wof:geomhash": "8faac3df862ab4108475a1f8e9662c92",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705896165
+      }
+    ],
+    "wof:id": 705896165,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "First Brethren Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.117358,
     41.345242,
     -83.117358,
     41.345242
-],
+  ],
   "geometry": {"coordinates":[-83.117358,41.345242],"type":"Point"}
 }

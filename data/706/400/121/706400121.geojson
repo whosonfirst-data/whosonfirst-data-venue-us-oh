@@ -2,56 +2,60 @@
   "id": 706400121,
   "type": "Feature",
   "properties": {
-    "addr:full":"6593 Crestlawn Dr SE Canton OH 44730",
-    "addr:housenumber":"6593",
-    "addr:postcode":"44730",
-    "addr:street":"Crestlawn Dr Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.283343,40.744343,-81.283343,40.744343",
-    "geom:latitude":40.744343,
-    "geom:longitude":-81.283343,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6593 Crestlawn Dr SE",
-    "sg:city":"Canton",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "6593 Crestlawn Dr SE Canton OH 44730",
+    "addr:housenumber": "6593",
+    "addr:postcode": "44730",
+    "addr:street": "Crestlawn Dr Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.283343,40.744343,-81.283343,40.744343",
+    "geom:latitude": 40.744343,
+    "geom:longitude": -81.283343,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6593 Crestlawn Dr SE",
+    "sg:city": "Canton",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 488 1645",
-    "sg:postcode":"44730",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2LqW2e2618CJroyUNuHlrr_40.744343_-81.283343@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 488 1645",
+    "sg:postcode": "44730",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2LqW2e2618CJroyUNuHlrr_40.744343_-81.283343@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802401,
-    "wof:geomhash":"27e9a32b60c62390fa754b4d9891c19c",
-    "wof:hierarchy":[],
-    "wof:id":706400121,
-    "wof:lastmodified":1472639987,
-    "wof:name":"Clapper & Clapper Partnership",
-    "wof:parent_id":420535247,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461802401,
+    "wof:geomhash": "4cfc2781d670ef015ccc1c0ae273a37c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706400121
+      }
+    ],
+    "wof:id": 706400121,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Clapper \u0026 Clapper Partnership",
+    "wof:parent_id": 420535247,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.283343,
     40.744343,
     -81.283343,
     40.744343
-],
+  ],
   "geometry": {"coordinates":[-81.283343,40.744343],"type":"Point"}
 }

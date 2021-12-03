@@ -2,65 +2,69 @@
   "id": 689702335,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 S 2nd St Ripley OH 45167",
-    "addr:housenumber":"1111",
-    "addr:postcode":"45167",
-    "addr:street":"S 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.835448,38.729677,-83.835448,38.729677",
-    "geom:latitude":38.729677,
-    "geom:longitude":-83.835448,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1111 S 2nd St",
-    "sg:city":"Ripley",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Food",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1111 S 2nd St Ripley OH 45167",
+    "addr:housenumber": "1111",
+    "addr:postcode": "45167",
+    "addr:street": "S 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.835448,38.729677,-83.835448,38.729677",
+    "geom:latitude": 38.729677,
+    "geom:longitude": -83.835448,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1111 S 2nd St",
+    "sg:city": "Ripley",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Food",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 392 4388",
-    "sg:postcode":"45167",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bottler"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 392 4388",
+    "sg:postcode": "45167",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bottler"
     ],
-    "sg:website":"www.pepsi.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125151603,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3R0RKl07qgTjDF9YDjZ9c8_38.729677_-83.835448@1294180530"
+    "sg:website": "www.pepsi.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125151603,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3R0RKl07qgTjDF9YDjZ9c8_38.729677_-83.835448@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779169,
-    "wof:geomhash":"9e0d32f8f277e85f365611f11527ed41",
-    "wof:hierarchy":[],
-    "wof:id":689702335,
-    "wof:lastmodified":1510875846,
-    "wof:name":"Pepsi-Cola Bottling Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bottler"
+    "wof:country": "US",
+    "wof:created": 1461779169,
+    "wof:geomhash": "9e0d32f8f277e85f365611f11527ed41",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689702335
+      }
+    ],
+    "wof:id": 689702335,
+    "wof:lastmodified": 1638567025,
+    "wof:name": "Pepsi-Cola Bottling Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bottler"
     ]
-},
+  },
   "bbox": [
     -83.835448,
     38.729677,
     -83.835448,
     38.729677
-],
+  ],
   "geometry": {"coordinates":[-83.835448,38.729677],"type":"Point"}
 }

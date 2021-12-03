@@ -2,61 +2,65 @@
   "id": 706412275,
   "type": "Feature",
   "properties": {
-    "addr:full":"7601 Broadview Rd Cleveland OH 44131",
-    "addr:housenumber":"7601",
-    "addr:postcode":"44131",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.684506,41.359258,-81.684506,41.359258",
-    "geom:latitude":41.359258,
-    "geom:longitude":-81.684506,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7601 Broadview Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "7601 Broadview Rd Cleveland OH 44131",
+    "addr:housenumber": "7601",
+    "addr:postcode": "44131",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.684506,41.359258,-81.684506,41.359258",
+    "geom:latitude": 41.359258,
+    "geom:longitude": -81.684506,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7601 Broadview Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 447 4040",
-    "sg:postcode":"44131",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 447 4040",
+    "sg:postcode": "44131",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5wZdXyJIWNNynWSTKofjoe_41.359258_-81.684506@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5wZdXyJIWNNynWSTKofjoe_41.359258_-81.684506@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802641,
-    "wof:geomhash":"9e930861852387663e179e47691903e7",
-    "wof:hierarchy":[],
-    "wof:id":706412275,
-    "wof:lastmodified":1472639994,
-    "wof:name":"Michael's Hair Design",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461802641,
+    "wof:geomhash": "e2c23117e5afa567e3166d9f421a947f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706412275
+      }
+    ],
+    "wof:id": 706412275,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Michael's Hair Design",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -81.684506,
     41.359258,
     -81.684506,
     41.359258
-],
+  ],
   "geometry": {"coordinates":[-81.684506,41.359258],"type":"Point"}
 }

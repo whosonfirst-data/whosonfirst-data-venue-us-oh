@@ -2,61 +2,65 @@
   "id": 689811801,
   "type": "Feature",
   "properties": {
-    "addr:full":"124 S Main St Woodsfield OH 43793",
-    "addr:housenumber":"124",
-    "addr:postcode":"43793",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.116168,39.761954,-81.116168,39.761954",
-    "geom:latitude":39.761954,
-    "geom:longitude":-81.116168,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"124 S Main St",
-    "sg:city":"Woodsfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "124 S Main St Woodsfield OH 43793",
+    "addr:housenumber": "124",
+    "addr:postcode": "43793",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.116168,39.761954,-81.116168,39.761954",
+    "geom:latitude": 39.761954,
+    "geom:longitude": -81.116168,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "124 S Main St",
+    "sg:city": "Woodsfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 472 2340",
-    "sg:postcode":"43793",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 472 2340",
+    "sg:postcode": "43793",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_31bCpX6InY1ugHHuCZnaKd_39.761954_-81.116168@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_31bCpX6InY1ugHHuCZnaKd_39.761954_-81.116168@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782251,
-    "wof:geomhash":"ad2bb4dd7018eac3cd62203cdb6c4f8c",
-    "wof:hierarchy":[],
-    "wof:id":689811801,
-    "wof:lastmodified":1472639888,
-    "wof:name":"Jerry Lee's Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461782251,
+    "wof:geomhash": "008d7de273b6afe9981a164ba3bbf78f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689811801
+      }
+    ],
+    "wof:id": 689811801,
+    "wof:lastmodified": 1638567067,
+    "wof:name": "Jerry Lee's Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.116168,
     39.761954,
     -81.116168,
     39.761954
-],
+  ],
   "geometry": {"coordinates":[-81.116168,39.761954],"type":"Point"}
 }

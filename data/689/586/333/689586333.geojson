@@ -2,61 +2,65 @@
   "id": 689586333,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 Oak Harbor Rd Fremont OH 43420",
-    "addr:housenumber":"1111",
-    "addr:postcode":"43420",
-    "addr:street":"Oak Harbor Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.136616,41.360352,-83.136616,41.360352",
-    "geom:latitude":41.360352,
-    "geom:longitude":-83.136616,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1111 Oak Harbor Rd",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1111 Oak Harbor Rd Fremont OH 43420",
+    "addr:housenumber": "1111",
+    "addr:postcode": "43420",
+    "addr:street": "Oak Harbor Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.136616,41.360352,-83.136616,41.360352",
+    "geom:latitude": 41.360352,
+    "geom:longitude": -83.136616,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1111 Oak Harbor Rd",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 1585",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 1585",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ATDVX7804PMb1bs4VSiuo_41.360352_-83.136616@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ATDVX7804PMb1bs4VSiuo_41.360352_-83.136616@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775823,
-    "wof:geomhash":"c2e435ed73b8d06c0455d486062a260b",
-    "wof:hierarchy":[],
-    "wof:id":689586333,
-    "wof:lastmodified":1472639342,
-    "wof:name":"District 2",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461775823,
+    "wof:geomhash": "b57cb56a6404c49f26c56b36d1f50dfb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689586333
+      }
+    ],
+    "wof:id": 689586333,
+    "wof:lastmodified": 1638566992,
+    "wof:name": "District 2",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general"
     ]
-},
+  },
   "bbox": [
     -83.136616,
     41.360352,
     -83.136616,
     41.360352
-],
+  ],
   "geometry": {"coordinates":[-83.136616,41.360352],"type":"Point"}
 }

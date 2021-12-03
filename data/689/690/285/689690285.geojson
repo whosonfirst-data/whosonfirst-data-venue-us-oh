@@ -2,61 +2,65 @@
   "id": 689690285,
   "type": "Feature",
   "properties": {
-    "addr:full":"12395 McCracken Rd Cleveland OH 44125",
-    "addr:housenumber":"12395",
-    "addr:postcode":"44125",
-    "addr:street":"Mccracken Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.597565,41.422487,-81.597565,41.422487",
-    "geom:latitude":41.422487,
-    "geom:longitude":-81.597565,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12395 McCracken Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "12395 McCracken Rd Cleveland OH 44125",
+    "addr:housenumber": "12395",
+    "addr:postcode": "44125",
+    "addr:street": "Mccracken Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.597565,41.422487,-81.597565,41.422487",
+    "geom:latitude": 41.422487,
+    "geom:longitude": -81.597565,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12395 McCracken Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 587 5467",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 587 5467",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4b4SSXIvUqMgACTk8HLBil_41.422487_-81.597565@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4b4SSXIvUqMgACTk8HLBil_41.422487_-81.597565@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778884,
-    "wof:geomhash":"d732a160ae57071cd4bbc0361abc4510",
-    "wof:hierarchy":[],
-    "wof:id":689690285,
-    "wof:lastmodified":1472639658,
-    "wof:name":"Gary F Bialek DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461778884,
+    "wof:geomhash": "5f258907aac0dd34037cb7a985d77673",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689690285
+      }
+    ],
+    "wof:id": 689690285,
+    "wof:lastmodified": 1638567021,
+    "wof:name": "Gary F Bialek DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -81.597565,
     41.422487,
     -81.597565,
     41.422487
-],
+  ],
   "geometry": {"coordinates":[-81.597565,41.422487],"type":"Point"}
 }

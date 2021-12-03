@@ -2,61 +2,65 @@
   "id": 705701473,
   "type": "Feature",
   "properties": {
-    "addr:full":"2615 State Rte 314 Fredericktown OH 43019",
-    "addr:housenumber":"2615",
-    "addr:postcode":"43019",
-    "addr:street":"State Rte 314",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.696898,40.45381,-82.696898,40.45381",
-    "geom:latitude":40.45381,
-    "geom:longitude":-82.696898,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2615 State Rte 314",
-    "sg:city":"Fredericktown",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2615 State Rte 314 Fredericktown OH 43019",
+    "addr:housenumber": "2615",
+    "addr:postcode": "43019",
+    "addr:street": "State Rte 314",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.696898,40.453810,-82.696898,40.453810",
+    "geom:latitude": 40.45381,
+    "geom:longitude": -82.696898,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2615 State Rte 314",
+    "sg:city": "Fredericktown",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 768 4000",
-    "sg:postcode":"43019",
-    "sg:province":"OH",
-    "sg:tags":[
-        "ambulance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 768 4000",
+    "sg:postcode": "43019",
+    "sg:province": "OH",
+    "sg:tags": [
+      "ambulance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Hsypu2UcwhUldgy6InewY_40.453810_-82.696898@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2Hsypu2UcwhUldgy6InewY_40.453810_-82.696898@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786595,
-    "wof:geomhash":"67f61b3d8c9a26fc50354a20d6d893e1",
-    "wof:hierarchy":[],
-    "wof:id":705701473,
-    "wof:lastmodified":1472638281,
-    "wof:name":"Life Line Medical Ambulance",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ambulance"
+    "wof:country": "US",
+    "wof:created": 1461786595,
+    "wof:geomhash": "da77cd686f58276672d9b787170ae23a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705701473
+      }
+    ],
+    "wof:id": 705701473,
+    "wof:lastmodified": 1638566919,
+    "wof:name": "Life Line Medical Ambulance",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ambulance"
     ]
-},
+  },
   "bbox": [
     -82.696898,
     40.45381,
     -82.696898,
     40.45381
-],
+  ],
   "geometry": {"coordinates":[-82.696898,40.45381],"type":"Point"}
 }

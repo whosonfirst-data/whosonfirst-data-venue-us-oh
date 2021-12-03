@@ -2,61 +2,65 @@
   "id": 706642705,
   "type": "Feature",
   "properties": {
-    "addr:full":"8516 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"8516",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.316597,39.071899,-84.316597,39.071899",
-    "geom:latitude":39.071899,
-    "geom:longitude":-84.316597,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8516 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Child Care",
-            "type":"Services"
-        }
+    "addr:full": "8516 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "8516",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.316597,39.071899,-84.316597,39.071899",
+    "geom:latitude": 39.071899,
+    "geom:longitude": -84.316597,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8516 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Child Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 7800",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "day"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 7800",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "day"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6LkYevxe0YsZ5ecSKTJLiy_39.071899_-84.316597@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6LkYevxe0YsZ5ecSKTJLiy_39.071899_-84.316597@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807637,
-    "wof:geomhash":"595adc3ec47e925b9a4e64c1fa483df3",
-    "wof:hierarchy":[],
-    "wof:id":706642705,
-    "wof:lastmodified":1472640257,
-    "wof:name":"Little Anderson Inc the",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "day"
+    "wof:country": "US",
+    "wof:created": 1461807637,
+    "wof:geomhash": "a3cc6180c570315d91713f0f642190f3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706642705
+      }
+    ],
+    "wof:id": 706642705,
+    "wof:lastmodified": 1638567152,
+    "wof:name": "Little Anderson Inc the",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "day"
     ]
-},
+  },
   "bbox": [
     -84.316597,
     39.071899,
     -84.316597,
     39.071899
-],
+  ],
   "geometry": {"coordinates":[-84.316597,39.071899],"type":"Point"}
 }

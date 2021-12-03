@@ -2,61 +2,65 @@
   "id": 705808353,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 N Oak St Lakeview OH 43331",
-    "addr:housenumber":"301",
-    "addr:postcode":"43331",
-    "addr:street":"N Oak St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.922944,40.486171,-83.922944,40.486171",
-    "geom:latitude":40.486171,
-    "geom:longitude":-83.922944,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"301 N Oak St",
-    "sg:city":"Lakeview",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "301 N Oak St Lakeview OH 43331",
+    "addr:housenumber": "301",
+    "addr:postcode": "43331",
+    "addr:street": "N Oak St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.922944,40.486171,-83.922944,40.486171",
+    "geom:latitude": 40.486171,
+    "geom:longitude": -83.922944,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "301 N Oak St",
+    "sg:city": "Lakeview",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 843 3000",
-    "sg:postcode":"43331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "ambulance"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 843 3000",
+    "sg:postcode": "43331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "ambulance"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2QAMTuK18aAx1Rk2vZjxGf_40.486171_-83.922944@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2QAMTuK18aAx1Rk2vZjxGf_40.486171_-83.922944@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789198,
-    "wof:geomhash":"603cd352f6b1f19276fe74e85461d296",
-    "wof:hierarchy":[],
-    "wof:id":705808353,
-    "wof:lastmodified":1472639287,
-    "wof:name":"Indian Lake Emergency Medical",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ambulance"
+    "wof:country": "US",
+    "wof:created": 1461789198,
+    "wof:geomhash": "5b8324da9283c45825ad5b950c49d348",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705808353
+      }
+    ],
+    "wof:id": 705808353,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Indian Lake Emergency Medical",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ambulance"
     ]
-},
+  },
   "bbox": [
     -83.922944,
     40.486171,
     -83.922944,
     40.486171
-],
+  ],
   "geometry": {"coordinates":[-83.922944,40.486171],"type":"Point"}
 }

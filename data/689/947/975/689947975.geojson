@@ -2,61 +2,65 @@
   "id": 689947975,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 W Columbus St Kenton OH 43326",
-    "addr:housenumber":"102",
-    "addr:postcode":"43326",
-    "addr:street":"W Columbus St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.609213,40.648256,-83.609213,40.648256",
-    "geom:latitude":40.648256,
-    "geom:longitude":-83.609213,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 W Columbus St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "102 W Columbus St Kenton OH 43326",
+    "addr:housenumber": "102",
+    "addr:postcode": "43326",
+    "addr:street": "W Columbus St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.609213,40.648256,-83.609213,40.648256",
+    "geom:latitude": 40.648256,
+    "geom:longitude": -83.609213,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 W Columbus St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 673 1444",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 673 1444",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5GAaA0C26hZo5EmAgPPek0_40.648256_-83.609213@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5GAaA0C26hZo5EmAgPPek0_40.648256_-83.609213@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785809,
-    "wof:geomhash":"867e93b8dc0257094635fa34b4d067bd",
-    "wof:hierarchy":[],
-    "wof:id":689947975,
-    "wof:lastmodified":1472640116,
-    "wof:name":"Fischmann Law Offices",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461785809,
+    "wof:geomhash": "ed3a50c622b869c6fb30450a83b1f748",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689947975
+      }
+    ],
+    "wof:id": 689947975,
+    "wof:lastmodified": 1638567120,
+    "wof:name": "Fischmann Law Offices",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.609213,
     40.648256,
     -83.609213,
     40.648256
-],
+  ],
   "geometry": {"coordinates":[-83.609213,40.648256],"type":"Point"}
 }

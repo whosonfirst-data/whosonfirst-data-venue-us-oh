@@ -2,61 +2,65 @@
   "id": 706232525,
   "type": "Feature",
   "properties": {
-    "addr:full":"2792 Maple Ave Zanesville OH 43701",
-    "addr:housenumber":"2792",
-    "addr:postcode":"43701",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.011578,39.973268,-82.011578,39.973268",
-    "geom:latitude":39.973268,
-    "geom:longitude":-82.011578,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2792 Maple Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "2792 Maple Ave Zanesville OH 43701",
+    "addr:housenumber": "2792",
+    "addr:postcode": "43701",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.011578,39.973268,-82.011578,39.973268",
+    "geom:latitude": 39.973268,
+    "geom:longitude": -82.011578,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2792 Maple Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 2792",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 2792",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5tzmz9n8dMkelL4W9PGBka_39.973268_-82.011578@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5tzmz9n8dMkelL4W9PGBka_39.973268_-82.011578@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798755,
-    "wof:geomhash":"09740c1b4e4dfad66c5c5266cd0991c7",
-    "wof:hierarchy":[],
-    "wof:id":706232525,
-    "wof:lastmodified":1472639569,
-    "wof:name":"Maple Place Hair Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461798755,
+    "wof:geomhash": "b8087f171c62769e2b80a6b6efa1f7b6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706232525
+      }
+    ],
+    "wof:id": 706232525,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Maple Place Hair Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -82.011578,
     39.973268,
     -82.011578,
     39.973268
-],
+  ],
   "geometry": {"coordinates":[-82.011578,39.973268],"type":"Point"}
 }

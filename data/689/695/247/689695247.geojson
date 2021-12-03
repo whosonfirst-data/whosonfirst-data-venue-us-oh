@@ -2,61 +2,65 @@
   "id": 689695247,
   "type": "Feature",
   "properties": {
-    "addr:full":"430 Elm St Fostoria OH 44830",
-    "addr:housenumber":"430",
-    "addr:postcode":"44830",
-    "addr:street":"Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.421843,41.164082,-83.421843,41.164082",
-    "geom:latitude":41.164082,
-    "geom:longitude":-83.421843,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"430 Elm St",
-    "sg:city":"Fostoria",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "430 Elm St Fostoria OH 44830",
+    "addr:housenumber": "430",
+    "addr:postcode": "44830",
+    "addr:street": "Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.421843,41.164082,-83.421843,41.164082",
+    "geom:latitude": 41.164082,
+    "geom:longitude": -83.421843,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "430 Elm St",
+    "sg:city": "Fostoria",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 435 5519",
-    "sg:postcode":"44830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 435 5519",
+    "sg:postcode": "44830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5xzkxTaZw8OFTAG5wQYqaF_41.164082_-83.421843@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5xzkxTaZw8OFTAG5wQYqaF_41.164082_-83.421843@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778991,
-    "wof:geomhash":"daa967a32e80d83f1cdd0143802d725a",
-    "wof:hierarchy":[],
-    "wof:id":689695247,
-    "wof:lastmodified":1472639657,
-    "wof:name":"S P Geroski DDS",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461778991,
+    "wof:geomhash": "98b0f7f81dec8b4770efb2617173fa7a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689695247
+      }
+    ],
+    "wof:id": 689695247,
+    "wof:lastmodified": 1638567023,
+    "wof:name": "S P Geroski DDS",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -83.421843,
     41.164082,
     -83.421843,
     41.164082
-],
+  ],
   "geometry": {"coordinates":[-83.421843,41.164082],"type":"Point"}
 }

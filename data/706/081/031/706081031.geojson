@@ -2,63 +2,67 @@
   "id": 706081031,
   "type": "Feature",
   "properties": {
-    "addr:full":"2815 State Rte 100 Tiffin OH 44883",
-    "addr:housenumber":"2815",
-    "addr:postcode":"44883",
-    "addr:street":"State Rte 100",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.155455,41.083536,-83.155455,41.083536",
-    "geom:latitude":41.083536,
-    "geom:longitude":-83.155455,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2815 State Rte 100",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2815 State Rte 100 Tiffin OH 44883",
+    "addr:housenumber": "2815",
+    "addr:postcode": "44883",
+    "addr:street": "State Rte 100",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.155455,41.083536,-83.155455,41.083536",
+    "geom:latitude": 41.083536,
+    "geom:longitude": -83.155455,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2815 State Rte 100",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 448 9728",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 448 9728",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1DiP24VZoXvywStR3qAgQc_41.083536_-83.155455@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1DiP24VZoXvywStR3qAgQc_41.083536_-83.155455@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795276,
-    "wof:geomhash":"ace9817a14549fadbeb75c86abefb59e",
-    "wof:hierarchy":[],
-    "wof:id":706081031,
-    "wof:lastmodified":1472639160,
-    "wof:name":"Michael Scherer DO",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461795276,
+    "wof:geomhash": "43058fb0d0a774661a36bee3af673e0c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706081031
+      }
+    ],
+    "wof:id": 706081031,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "Michael Scherer DO",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.155455,
     41.083536,
     -83.155455,
     41.083536
-],
+  ],
   "geometry": {"coordinates":[-83.155455,41.083536],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706279287,
   "type": "Feature",
   "properties": {
-    "addr:full":"248 S Miami St West Milton OH 45383",
-    "addr:housenumber":"248",
-    "addr:postcode":"45383",
-    "addr:street":"S Miami St West",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.326822,39.959887,-84.326822,39.959887",
-    "geom:latitude":39.959887,
-    "geom:longitude":-84.326822,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"248 S Miami St",
-    "sg:city":"West Milton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "248 S Miami St West Milton OH 45383",
+    "addr:housenumber": "248",
+    "addr:postcode": "45383",
+    "addr:street": "S Miami St West",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.326822,39.959887,-84.326822,39.959887",
+    "geom:latitude": 39.959887,
+    "geom:longitude": -84.326822,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "248 S Miami St",
+    "sg:city": "West Milton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 698 4184",
-    "sg:postcode":"45383",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 698 4184",
+    "sg:postcode": "45383",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1icuH8wxrjIF7Pqa9KDvYQ_39.959887_-84.326822@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1icuH8wxrjIF7Pqa9KDvYQ_39.959887_-84.326822@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799834,
-    "wof:geomhash":"19644a20bd1a9b6b2da6ee40c19c4ea5",
-    "wof:hierarchy":[],
-    "wof:id":706279287,
-    "wof:lastmodified":1472639646,
-    "wof:name":"West Milton Dental Center",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461799834,
+    "wof:geomhash": "5c62b76fab652da8f2328d2411eb9496",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706279287
+      }
+    ],
+    "wof:id": 706279287,
+    "wof:lastmodified": 1638567074,
+    "wof:name": "West Milton Dental Center",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -84.326822,
     39.959887,
     -84.326822,
     39.959887
-],
-  "geometry": {"coordinates":[-84.32682200000001,39.959887],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.326822,39.959887],"type":"Point"}
 }

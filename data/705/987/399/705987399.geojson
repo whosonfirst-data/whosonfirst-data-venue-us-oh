@@ -2,61 +2,65 @@
   "id": 705987399,
   "type": "Feature",
   "properties": {
-    "addr:full":"50 N Main St Rittman OH 44270",
-    "addr:housenumber":"50",
-    "addr:postcode":"44270",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.781453,40.974385,-81.781453,40.974385",
-    "geom:latitude":40.974385,
-    "geom:longitude":-81.781453,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"50 N Main St",
-    "sg:city":"Rittman",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "50 N Main St Rittman OH 44270",
+    "addr:housenumber": "50",
+    "addr:postcode": "44270",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.781453,40.974385,-81.781453,40.974385",
+    "geom:latitude": 40.974385,
+    "geom:longitude": -81.781453,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "50 N Main St",
+    "sg:city": "Rittman",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 925 5741",
-    "sg:postcode":"44270",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 925 5741",
+    "sg:postcode": "44270",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7m7V2Rc7dkHTh65yTU41XA_40.974385_-81.781453@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7m7V2Rc7dkHTh65yTU41XA_40.974385_-81.781453@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793322,
-    "wof:geomhash":"06c8c6cca309cc15622443ca4c70d99a",
-    "wof:hierarchy":[],
-    "wof:id":705987399,
-    "wof:lastmodified":1472639785,
-    "wof:name":"Rittman Christian Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461793322,
+    "wof:geomhash": "a2374b70084686aee46898ea80153773",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705987399
+      }
+    ],
+    "wof:id": 705987399,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Rittman Christian Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.781453,
     40.974385,
     -81.781453,
     40.974385
-],
+  ],
   "geometry": {"coordinates":[-81.781453,40.974385],"type":"Point"}
 }

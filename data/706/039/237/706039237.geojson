@@ -2,61 +2,65 @@
   "id": 706039237,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 Holloway Rd Holland OH 43528",
-    "addr:housenumber":"1600",
-    "addr:postcode":"43528",
-    "addr:street":"Holloway Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.713312,41.610943,-83.713312,41.610943",
-    "geom:latitude":41.610943,
-    "geom:longitude":-83.713312,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1600 Holloway Rd",
-    "sg:city":"Holland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Membership Organization",
-            "type":"Services"
-        }
+    "addr:full": "1600 Holloway Rd Holland OH 43528",
+    "addr:housenumber": "1600",
+    "addr:postcode": "43528",
+    "addr:street": "Holloway Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.713312,41.610943,-83.713312,41.610943",
+    "geom:latitude": 41.610943,
+    "geom:longitude": -83.713312,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1600 Holloway Rd",
+    "sg:city": "Holland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Membership Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 861 3884",
-    "sg:postcode":"43528",
-    "sg:province":"OH",
-    "sg:tags":[
-        "athletic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 861 3884",
+    "sg:postcode": "43528",
+    "sg:province": "OH",
+    "sg:tags": [
+      "athletic"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_70b7LbyfPMjDdzFgZW3tGI_41.610943_-83.713312@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_70b7LbyfPMjDdzFgZW3tGI_41.610943_-83.713312@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794389,
-    "wof:geomhash":"5f2485e3596ad8a290641efc8bb8dc48",
-    "wof:hierarchy":[],
-    "wof:id":706039237,
-    "wof:lastmodified":1472638906,
-    "wof:name":"Medina Athletics",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "athletic"
+    "wof:country": "US",
+    "wof:created": 1461794389,
+    "wof:geomhash": "d71614eb9331046371da1df37e3cacaa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706039237
+      }
+    ],
+    "wof:id": 706039237,
+    "wof:lastmodified": 1638566960,
+    "wof:name": "Medina Athletics",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "athletic"
     ]
-},
+  },
   "bbox": [
     -83.713312,
     41.610943,
     -83.713312,
     41.610943
-],
+  ],
   "geometry": {"coordinates":[-83.713312,41.610943],"type":"Point"}
 }

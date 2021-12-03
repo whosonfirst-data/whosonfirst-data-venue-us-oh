@@ -2,61 +2,65 @@
   "id": 705702503,
   "type": "Feature",
   "properties": {
-    "addr:full":"1120 E Stroop Rd Dayton OH 45429",
-    "addr:housenumber":"1120",
-    "addr:postcode":"45429",
-    "addr:street":"E Stroop Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.14687,39.688762,-84.14687,39.688762",
-    "geom:latitude":39.688762,
-    "geom:longitude":-84.14687,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1120 E Stroop Rd",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "1120 E Stroop Rd Dayton OH 45429",
+    "addr:housenumber": "1120",
+    "addr:postcode": "45429",
+    "addr:street": "E Stroop Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.146870,39.688762,-84.146870,39.688762",
+    "geom:latitude": 39.688762,
+    "geom:longitude": -84.14687,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1120 E Stroop Rd",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 296 1338",
-    "sg:postcode":"45429",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 296 1338",
+    "sg:postcode": "45429",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4soi4qdgfXDB3ZH3RGl7i6_39.688762_-84.146870@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4soi4qdgfXDB3ZH3RGl7i6_39.688762_-84.146870@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786641,
-    "wof:geomhash":"f92356ff72d614fdd4142231b11c7a60",
-    "wof:hierarchy":[],
-    "wof:id":705702503,
-    "wof:lastmodified":1472638290,
-    "wof:name":"Fine Cleaners",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:country": "US",
+    "wof:created": 1461786641,
+    "wof:geomhash": "0f454744fe4d0630e66c377f525bef10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702503
+      }
+    ],
+    "wof:id": 705702503,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "Fine Cleaners",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -84.14687,
     39.688762,
     -84.14687,
     39.688762
-],
-  "geometry": {"coordinates":[-84.14687000000001,39.688762],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.14687,39.688762],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705754915,
   "type": "Feature",
   "properties": {
-    "addr:full":"995 Jackson Pike Gallipolis OH 45631",
-    "addr:housenumber":"995",
-    "addr:postcode":"45631",
-    "addr:street":"Jackson Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.253115,38.842835,-82.253115,38.842835",
-    "geom:latitude":38.842835,
-    "geom:longitude":-82.253115,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"995 Jackson Pike",
-    "sg:city":"Gallipolis",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "995 Jackson Pike Gallipolis OH 45631",
+    "addr:housenumber": "995",
+    "addr:postcode": "45631",
+    "addr:street": "Jackson Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.253115,38.842835,-82.253115,38.842835",
+    "geom:latitude": 38.842835,
+    "geom:longitude": -82.253115,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "995 Jackson Pike",
+    "sg:city": "Gallipolis",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 446 2960",
-    "sg:postcode":"45631",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 446 2960",
+    "sg:postcode": "45631",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6pFfe2o0gRxxtIkLGPI3PD_38.842835_-82.253115@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6pFfe2o0gRxxtIkLGPI3PD_38.842835_-82.253115@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787975,
-    "wof:geomhash":"65ab91b26645b1dd2f775408c8c03ad9",
-    "wof:hierarchy":[],
-    "wof:id":705754915,
-    "wof:lastmodified":1472639210,
-    "wof:name":"Thomas A Skinner DDS",
-    "wof:parent_id":420534827,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:country": "US",
+    "wof:created": 1461787975,
+    "wof:geomhash": "ec27fa3942d742ebd66b318b051d6bbc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705754915
+      }
+    ],
+    "wof:id": 705754915,
+    "wof:lastmodified": 1638566968,
+    "wof:name": "Thomas A Skinner DDS",
+    "wof:parent_id": 420534827,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -82.253115,
     38.842835,
     -82.253115,
     38.842835
-],
-  "geometry": {"coordinates":[-82.25311499999999,38.842835],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.253115,38.842835],"type":"Point"}
 }

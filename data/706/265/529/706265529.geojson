@@ -2,61 +2,65 @@
   "id": 706265529,
   "type": "Feature",
   "properties": {
-    "addr:full":"1515 N Sandusky Ave Bucyrus OH 44820",
-    "addr:housenumber":"1515",
-    "addr:postcode":"44820",
-    "addr:street":"N Sandusky Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.973965,40.82305,-82.973965,40.82305",
-    "geom:latitude":40.82305,
-    "geom:longitude":-82.973965,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1515 N Sandusky Ave",
-    "sg:city":"Bucyrus",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1515 N Sandusky Ave Bucyrus OH 44820",
+    "addr:housenumber": "1515",
+    "addr:postcode": "44820",
+    "addr:street": "N Sandusky Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.973965,40.823050,-82.973965,40.823050",
+    "geom:latitude": 40.82305,
+    "geom:longitude": -82.973965,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1515 N Sandusky Ave",
+    "sg:city": "Bucyrus",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 563 0538",
-    "sg:postcode":"44820",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 563 0538",
+    "sg:postcode": "44820",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4eagLd43N7vI8nCdxJ20hk_40.823050_-82.973965@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4eagLd43N7vI8nCdxJ20hk_40.823050_-82.973965@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799512,
-    "wof:geomhash":"d1f710fc84c0e408c8f90e03f3a6eb48",
-    "wof:hierarchy":[],
-    "wof:id":706265529,
-    "wof:lastmodified":1472639616,
-    "wof:name":"El Canelo",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461799512,
+    "wof:geomhash": "14870db17f1f2fb966e890a7152489a4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706265529
+      }
+    ],
+    "wof:id": 706265529,
+    "wof:lastmodified": 1638567069,
+    "wof:name": "El Canelo",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.973965,
     40.82305,
     -82.973965,
     40.82305
-],
-  "geometry": {"coordinates":[-82.97396500000001,40.82305],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.973965,40.82305],"type":"Point"}
 }

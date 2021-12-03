@@ -2,61 +2,65 @@
   "id": 706232105,
   "type": "Feature",
   "properties": {
-    "addr:full":"247 N Lawn Ave Bluffton OH 45817",
-    "addr:housenumber":"247",
-    "addr:postcode":"45817",
-    "addr:street":"N Lawn Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.890608,40.897549,-83.890608,40.897549",
-    "geom:latitude":40.897549,
-    "geom:longitude":-83.890608,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"247 N Lawn Ave",
-    "sg:city":"Bluffton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "247 N Lawn Ave Bluffton OH 45817",
+    "addr:housenumber": "247",
+    "addr:postcode": "45817",
+    "addr:street": "N Lawn Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.890608,40.897549,-83.890608,40.897549",
+    "geom:latitude": 40.897549,
+    "geom:longitude": -83.890608,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "247 N Lawn Ave",
+    "sg:city": "Bluffton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 358 7751",
-    "sg:postcode":"45817",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 358 7751",
+    "sg:postcode": "45817",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2k8hp5A4nPwRQcFsCTIyBC_40.897549_-83.890608@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2k8hp5A4nPwRQcFsCTIyBC_40.897549_-83.890608@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798747,
-    "wof:geomhash":"8aeda646be7e46ba810152f67fb04dcd",
-    "wof:hierarchy":[],
-    "wof:id":706232105,
-    "wof:lastmodified":1472639556,
-    "wof:name":"First Missionary Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461798747,
+    "wof:geomhash": "55a18cde17e3a982e5504b84e17eb537",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706232105
+      }
+    ],
+    "wof:id": 706232105,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "First Missionary Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.890608,
     40.897549,
     -83.890608,
     40.897549
-],
+  ],
   "geometry": {"coordinates":[-83.890608,40.897549],"type":"Point"}
 }

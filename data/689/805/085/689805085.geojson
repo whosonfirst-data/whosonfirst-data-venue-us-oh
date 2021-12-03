@@ -2,65 +2,69 @@
   "id": 689805085,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 N Highland Dr Alexandria OH 43001",
-    "addr:housenumber":"111",
-    "addr:postcode":"43001",
-    "addr:street":"N Highland Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.581442,40.055578,-82.581442,40.055578",
-    "geom:latitude":40.055578,
-    "geom:longitude":-82.581442,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 N Highland Dr",
-    "sg:city":"Alexandria",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "111 N Highland Dr Alexandria OH 43001",
+    "addr:housenumber": "111",
+    "addr:postcode": "43001",
+    "addr:street": "N Highland Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.581442,40.055578,-82.581442,40.055578",
+    "geom:latitude": 40.055578,
+    "geom:longitude": -82.581442,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 N Highland Dr",
+    "sg:city": "Alexandria",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 924 4482",
-    "sg:postcode":"43001",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 924 4482",
+    "sg:postcode": "43001",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Pj26yPRJuR4LoECNFtmwE_40.055578_-82.581442@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Pj26yPRJuR4LoECNFtmwE_40.055578_-82.581442@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782051,
-    "wof:geomhash":"103a823926122992ec5dcd14e0a41493",
-    "wof:hierarchy":[],
-    "wof:id":689805085,
-    "wof:lastmodified":1472639875,
-    "wof:name":"Covert Trucking",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461782051,
+    "wof:geomhash": "fad10fe54eacb2caeb3247a8d9ebcdac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689805085
+      }
+    ],
+    "wof:id": 689805085,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Covert Trucking",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.581442,
     40.055578,
     -82.581442,
     40.055578
-],
+  ],
   "geometry": {"coordinates":[-82.581442,40.055578],"type":"Point"}
 }

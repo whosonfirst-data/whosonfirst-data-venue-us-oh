@@ -2,61 +2,65 @@
   "id": 705935657,
   "type": "Feature",
   "properties": {
-    "addr:full":"12280 Dennis St Paulding OH 45879",
-    "addr:housenumber":"12280",
-    "addr:postcode":"45879",
-    "addr:street":"Dennis St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.564745,41.155058,-84.564745,41.155058",
-    "geom:latitude":41.155058,
-    "geom:longitude":-84.564745,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12280 Dennis St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "12280 Dennis St Paulding OH 45879",
+    "addr:housenumber": "12280",
+    "addr:postcode": "45879",
+    "addr:street": "Dennis St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.564745,41.155058,-84.564745,41.155058",
+    "geom:latitude": 41.155058,
+    "geom:longitude": -84.564745,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12280 Dennis St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 3344",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 3344",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4RS8RCyLgGDUMm3hEZkg4P_41.155058_-84.564745@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4RS8RCyLgGDUMm3hEZkg4P_41.155058_-84.564745@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792196,
-    "wof:geomhash":"a084316d456e189970561c0cbd1d0a7b",
-    "wof:hierarchy":[],
-    "wof:id":705935657,
-    "wof:lastmodified":1472639683,
-    "wof:name":"Patrick Place Apartments",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461792196,
+    "wof:geomhash": "9a02b0d7cd7921281072b7015ee5d401",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705935657
+      }
+    ],
+    "wof:id": 705935657,
+    "wof:lastmodified": 1638567046,
+    "wof:name": "Patrick Place Apartments",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -84.564745,
     41.155058,
     -84.564745,
     41.155058
-],
+  ],
   "geometry": {"coordinates":[-84.564745,41.155058],"type":"Point"}
 }

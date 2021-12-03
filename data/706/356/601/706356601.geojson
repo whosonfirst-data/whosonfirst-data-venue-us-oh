@@ -2,61 +2,65 @@
   "id": 706356601,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 S Bridge St Adena OH 43901",
-    "addr:housenumber":"111",
-    "addr:postcode":"43901",
-    "addr:street":"S Bridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.87372,40.217715,-80.87372,40.217715",
-    "geom:latitude":40.217715,
-    "geom:longitude":-80.87372,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 S Bridge St",
-    "sg:city":"Adena",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "111 S Bridge St Adena OH 43901",
+    "addr:housenumber": "111",
+    "addr:postcode": "43901",
+    "addr:street": "S Bridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.873720,40.217715,-80.873720,40.217715",
+    "geom:latitude": 40.217715,
+    "geom:longitude": -80.87372,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 S Bridge St",
+    "sg:city": "Adena",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 546 3965",
-    "sg:postcode":"43901",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 546 3965",
+    "sg:postcode": "43901",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0qtNogakX4hdwZ2wCjYgV7_40.217715_-80.873720@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0qtNogakX4hdwZ2wCjYgV7_40.217715_-80.873720@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801536,
-    "wof:geomhash":"68369df0c183ad20967797e81edb05cd",
-    "wof:hierarchy":[],
-    "wof:id":706356601,
-    "wof:lastmodified":1472639908,
-    "wof:name":"Borkoski Funeral Homes",
-    "wof:parent_id":420534919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461801536,
+    "wof:geomhash": "263e4e93b89546b270789594f1be30d3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706356601
+      }
+    ],
+    "wof:id": 706356601,
+    "wof:lastmodified": 1638567098,
+    "wof:name": "Borkoski Funeral Homes",
+    "wof:parent_id": 420534919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -80.87372,
     40.217715,
     -80.87372,
     40.217715
-],
-  "geometry": {"coordinates":[-80.87372000000001,40.217715],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.87372,40.217715],"type":"Point"}
 }

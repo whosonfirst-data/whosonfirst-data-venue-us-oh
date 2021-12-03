@@ -2,61 +2,65 @@
   "id": 706044043,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Summit St Celina OH 45822",
-    "addr:housenumber":"123",
-    "addr:postcode":"45822",
-    "addr:street":"Summit St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.571831,40.560405,-84.571831,40.560405",
-    "geom:latitude":40.560405,
-    "geom:longitude":-84.571831,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Summit St",
-    "sg:city":"Celina",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "123 Summit St Celina OH 45822",
+    "addr:housenumber": "123",
+    "addr:postcode": "45822",
+    "addr:street": "Summit St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.571831,40.560405,-84.571831,40.560405",
+    "geom:latitude": 40.560405,
+    "geom:longitude": -84.571831,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Summit St",
+    "sg:city": "Celina",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 586 5522",
-    "sg:postcode":"45822",
-    "sg:province":"OH",
-    "sg:tags":[
-        "federal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 586 5522",
+    "sg:postcode": "45822",
+    "sg:province": "OH",
+    "sg:tags": [
+      "federal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0VzxzlZBJpHJoiEdHm33aW_40.560405_-84.571831@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0VzxzlZBJpHJoiEdHm33aW_40.560405_-84.571831@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794481,
-    "wof:geomhash":"8acec2016c5fcadc13c0baebae44025f",
-    "wof:hierarchy":[],
-    "wof:id":706044043,
-    "wof:lastmodified":1472638963,
-    "wof:name":"Dynamic Federal Credit Union",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "federal"
+    "wof:country": "US",
+    "wof:created": 1461794481,
+    "wof:geomhash": "b77e5066fde96afe8116d054347cddc5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706044043
+      }
+    ],
+    "wof:id": 706044043,
+    "wof:lastmodified": 1638566965,
+    "wof:name": "Dynamic Federal Credit Union",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "federal"
     ]
-},
+  },
   "bbox": [
     -84.571831,
     40.560405,
     -84.571831,
     40.560405
-],
+  ],
   "geometry": {"coordinates":[-84.571831,40.560405],"type":"Point"}
 }

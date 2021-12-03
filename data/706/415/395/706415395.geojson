@@ -2,61 +2,65 @@
   "id": 706415395,
   "type": "Feature",
   "properties": {
-    "addr:full":"444 N Michigan Ave Edgerton OH 43517",
-    "addr:housenumber":"444",
-    "addr:postcode":"43517",
-    "addr:street":"N Michigan Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.748123,41.45516,-84.748123,41.45516",
-    "geom:latitude":41.45516,
-    "geom:longitude":-84.748123,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"444 N Michigan Ave",
-    "sg:city":"Edgerton",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "444 N Michigan Ave Edgerton OH 43517",
+    "addr:housenumber": "444",
+    "addr:postcode": "43517",
+    "addr:street": "N Michigan Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.748123,41.455160,-84.748123,41.455160",
+    "geom:latitude": 41.45516,
+    "geom:longitude": -84.748123,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "444 N Michigan Ave",
+    "sg:city": "Edgerton",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 298 2371",
-    "sg:postcode":"43517",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 298 2371",
+    "sg:postcode": "43517",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5aA5pssXk3GkDV4IC9ysrB_41.455160_-84.748123@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5aA5pssXk3GkDV4IC9ysrB_41.455160_-84.748123@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802705,
-    "wof:geomhash":"3e59fa19012d6efd4a02132f92e6327a",
-    "wof:hierarchy":[],
-    "wof:id":706415395,
-    "wof:lastmodified":1472639998,
-    "wof:name":"Building Concepts Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461802705,
+    "wof:geomhash": "52651e6a7a215792212370fe5782e5d3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706415395
+      }
+    ],
+    "wof:id": 706415395,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Building Concepts Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -84.748123,
     41.45516,
     -84.748123,
     41.45516
-],
-  "geometry": {"coordinates":[-84.74812300000001,41.45516],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.748123,41.45516],"type":"Point"}
 }

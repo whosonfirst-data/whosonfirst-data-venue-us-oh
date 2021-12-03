@@ -2,61 +2,65 @@
   "id": 706113033,
   "type": "Feature",
   "properties": {
-    "addr:full":"3035 W Canal St Port Clinton OH 43452",
-    "addr:housenumber":"3035",
-    "addr:postcode":"43452",
-    "addr:street":"W Canal St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.991782,41.507293,-82.991782,41.507293",
-    "geom:latitude":41.507293,
-    "geom:longitude":-82.991782,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3035 W Canal St",
-    "sg:city":"Port Clinton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "3035 W Canal St Port Clinton OH 43452",
+    "addr:housenumber": "3035",
+    "addr:postcode": "43452",
+    "addr:street": "W Canal St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.991782,41.507293,-82.991782,41.507293",
+    "geom:latitude": 41.507293,
+    "geom:longitude": -82.991782,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3035 W Canal St",
+    "sg:city": "Port Clinton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 734 4530",
-    "sg:postcode":"43452",
-    "sg:province":"OH",
-    "sg:tags":[
-        "club"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 734 4530",
+    "sg:postcode": "43452",
+    "sg:province": "OH",
+    "sg:tags": [
+      "club"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1SmWnSCQZ0idfCid6O2eLj_41.507293_-82.991782@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1SmWnSCQZ0idfCid6O2eLj_41.507293_-82.991782@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796072,
-    "wof:geomhash":"a3b2253e8452287613cda00b95564a75",
-    "wof:hierarchy":[],
-    "wof:id":706113033,
-    "wof:lastmodified":1472639272,
-    "wof:name":"Nugent's Canal Yacht Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club"
+    "wof:country": "US",
+    "wof:created": 1461796072,
+    "wof:geomhash": "0f17beb5af11580159f8435e0b4fd6d3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706113033
+      }
+    ],
+    "wof:id": 706113033,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Nugent's Canal Yacht Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club"
     ]
-},
+  },
   "bbox": [
     -82.991782,
     41.507293,
     -82.991782,
     41.507293
-],
+  ],
   "geometry": {"coordinates":[-82.991782,41.507293],"type":"Point"}
 }

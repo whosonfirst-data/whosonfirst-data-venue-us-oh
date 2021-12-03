@@ -2,61 +2,65 @@
   "id": 706636805,
   "type": "Feature",
   "properties": {
-    "addr:full":"11168 Spinner Ave Cincinnati OH 45241",
-    "addr:housenumber":"11168",
-    "addr:postcode":"45241",
-    "addr:street":"Spinner Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.410434,39.271447,-84.410434,39.271447",
-    "geom:latitude":39.271447,
-    "geom:longitude":-84.410434,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11168 Spinner Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "11168 Spinner Ave Cincinnati OH 45241",
+    "addr:housenumber": "11168",
+    "addr:postcode": "45241",
+    "addr:street": "Spinner Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.410434,39.271447,-84.410434,39.271447",
+    "geom:latitude": 39.271447,
+    "geom:longitude": -84.410434,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11168 Spinner Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 769 3049",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 769 3049",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_58RgClqGUIX3F9wGYSvACG_39.271447_-84.410434@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_58RgClqGUIX3F9wGYSvACG_39.271447_-84.410434@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807510,
-    "wof:geomhash":"1faf3e573c265c57dd84ebcf51b8c134",
-    "wof:hierarchy":[],
-    "wof:id":706636805,
-    "wof:lastmodified":1472640256,
-    "wof:name":"Hilton Auctioneers",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461807510,
+    "wof:geomhash": "dd03c4a3193ad10f64ff3e44aed417b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706636805
+      }
+    ],
+    "wof:id": 706636805,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Hilton Auctioneers",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -84.410434,
     39.271447,
     -84.410434,
     39.271447
-],
+  ],
   "geometry": {"coordinates":[-84.410434,39.271447],"type":"Point"}
 }

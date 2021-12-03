@@ -2,78 +2,79 @@
   "id": 270169399,
   "type": "Feature",
   "properties": {
-    "addr:full":"4330 Indianola Ave Columbus OH 43214",
-    "addr:housenumber":"4330",
-    "addr:postcode":"43214",
-    "addr:street":"Indianola Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.000244,40.054307,-83.000244,40.054307",
-    "geom:latitude":40.054307,
-    "geom:longitude":-83.000244,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4330 Indianola Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "4330 Indianola Ave Columbus OH 43214",
+    "addr:housenumber": "4330",
+    "addr:postcode": "43214",
+    "addr:street": "Indianola Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.000244,40.054307,-83.000244,40.054307",
+    "geom:latitude": 40.054307,
+    "geom:longitude": -83.000244,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4330 Indianola Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 263 4978",
-    "sg:postcode":"43214",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 263 4978",
+    "sg:postcode": "43214",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        101712381,
-        102080969,
-        85870257
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      101712381,
+      102080969,
+      85870257
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1OxeVjsaGXWBTPHpY53hBl_40.054307_-83.000244@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1OxeVjsaGXWBTPHpY53hBl_40.054307_-83.000244@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dca1825161ebcda129c41a2136052a49",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080969,
-            "locality_id":101712381,
-            "neighbourhood_id":85870257,
-            "region_id":85688485,
-            "venue_id":270169399
-        }
+    "wof:country": "US",
+    "wof:created": 1638566891,
+    "wof:geomhash": "68ce959e73206304fe05f1fa1ecd14af",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080969,
+        "locality_id": 101712381,
+        "neighbourhood_id": 85870257,
+        "region_id": 85688485,
+        "venue_id": 270169399
+      }
     ],
-    "wof:id":270169399,
-    "wof:lastmodified":1472638481,
-    "wof:name":"Northend Wrench Inc",
-    "wof:parent_id":85870257,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 270169399,
+    "wof:lastmodified": 1638566891,
+    "wof:name": "Northend Wrench Inc",
+    "wof:parent_id": 85870257,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.000244,
     40.054307,
     -83.000244,
     40.054307
-],
+  ],
   "geometry": {"coordinates":[-83.000244,40.054307],"type":"Point"}
 }

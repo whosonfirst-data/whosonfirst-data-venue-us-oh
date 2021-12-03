@@ -2,63 +2,67 @@
   "id": 705726775,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 E High St Glenford OH 43739",
-    "addr:housenumber":"105",
-    "addr:postcode":"43739",
-    "addr:street":"E High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.314756,39.8873,-82.314756,39.8873",
-    "geom:latitude":39.8873,
-    "geom:longitude":-82.314756,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"105 E High St",
-    "sg:city":"Glenford",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "105 E High St Glenford OH 43739",
+    "addr:housenumber": "105",
+    "addr:postcode": "43739",
+    "addr:street": "E High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.314756,39.887300,-82.314756,39.887300",
+    "geom:latitude": 39.8873,
+    "geom:longitude": -82.314756,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "105 E High St",
+    "sg:city": "Glenford",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 659 2303",
-    "sg:postcode":"43739",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 659 2303",
+    "sg:postcode": "43739",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1hMxE02426K4keiO1ARhiu_39.887300_-82.314756@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1hMxE02426K4keiO1ARhiu_39.887300_-82.314756@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787326,
-    "wof:geomhash":"c2041fa643e33a3bc6c70163ab4ce623",
-    "wof:hierarchy":[],
-    "wof:id":705726775,
-    "wof:lastmodified":1472638812,
-    "wof:name":"Jeff's Automotive",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461787326,
+    "wof:geomhash": "eb3c9ac3377d2d75d56a5fd11ed780e3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705726775
+      }
+    ],
+    "wof:id": 705726775,
+    "wof:lastmodified": 1638566942,
+    "wof:name": "Jeff's Automotive",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -82.314756,
     39.8873,
     -82.314756,
     39.8873
-],
+  ],
   "geometry": {"coordinates":[-82.314756,39.8873],"type":"Point"}
 }

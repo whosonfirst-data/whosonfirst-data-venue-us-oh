@@ -2,56 +2,60 @@
   "id": 689952507,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Pike St Manchester OH 45144",
-    "addr:housenumber":"401",
-    "addr:postcode":"45144",
-    "addr:street":"Pike St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.60962,38.68916,-83.60962,38.68916",
-    "geom:latitude":38.68916,
-    "geom:longitude":-83.60962,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"401 Pike St",
-    "sg:city":"Manchester",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "401 Pike St Manchester OH 45144",
+    "addr:housenumber": "401",
+    "addr:postcode": "45144",
+    "addr:street": "Pike St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.609620,38.689160,-83.609620,38.689160",
+    "geom:latitude": 38.68916,
+    "geom:longitude": -83.60962,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "401 Pike St",
+    "sg:city": "Manchester",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 549 3359",
-    "sg:postcode":"45144",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_02nfs4V8lfLCdDfriJaPil_38.689160_-83.609620@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 549 3359",
+    "sg:postcode": "45144",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_02nfs4V8lfLCdDfriJaPil_38.689160_-83.609620@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785921,
-    "wof:geomhash":"315e5d23c6f48211a14e7c08ae9d306a",
-    "wof:hierarchy":[],
-    "wof:id":689952507,
-    "wof:lastmodified":1472640126,
-    "wof:name":"Manchester County Public Lib",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461785921,
+    "wof:geomhash": "0c22487e8811e9dbc5f2a3f3e1cda031",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689952507
+      }
+    ],
+    "wof:id": 689952507,
+    "wof:lastmodified": 1638567120,
+    "wof:name": "Manchester County Public Lib",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.60962,
     38.68916,
     -83.60962,
     38.68916
-],
-  "geometry": {"coordinates":[-83.60962000000001,38.68916],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.60962,38.68916],"type":"Point"}
 }

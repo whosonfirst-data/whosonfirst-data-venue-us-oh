@@ -2,61 +2,65 @@
   "id": 689661433,
   "type": "Feature",
   "properties": {
-    "addr:full":"14899 Auburn Rd Newbury OH 44065",
-    "addr:housenumber":"14899",
-    "addr:postcode":"44065",
-    "addr:street":"Auburn Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.244275,41.461983,-81.244275,41.461983",
-    "geom:latitude":41.461983,
-    "geom:longitude":-81.244275,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"14899 Auburn Rd",
-    "sg:city":"Newbury",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "14899 Auburn Rd Newbury OH 44065",
+    "addr:housenumber": "14899",
+    "addr:postcode": "44065",
+    "addr:street": "Auburn Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.244275,41.461983,-81.244275,41.461983",
+    "geom:latitude": 41.461983,
+    "geom:longitude": -81.244275,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "14899 Auburn Rd",
+    "sg:city": "Newbury",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 564 5997",
-    "sg:postcode":"44065",
-    "sg:province":"OH",
-    "sg:tags":[
-        "city"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 564 5997",
+    "sg:postcode": "44065",
+    "sg:province": "OH",
+    "sg:tags": [
+      "city"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ziIhhxHo5dxPOC0gylr2e_41.461983_-81.244275@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ziIhhxHo5dxPOC0gylr2e_41.461983_-81.244275@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778161,
-    "wof:geomhash":"e95d7ae80e3fff99f35a6f28cc2793c3",
-    "wof:hierarchy":[],
-    "wof:id":689661433,
-    "wof:lastmodified":1472639577,
-    "wof:name":"Newbury Town Hall",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city"
+    "wof:country": "US",
+    "wof:created": 1461778161,
+    "wof:geomhash": "975a67a98f21f44e30813e9a247704f2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689661433
+      }
+    ],
+    "wof:id": 689661433,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Newbury Town Hall",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city"
     ]
-},
+  },
   "bbox": [
     -81.244275,
     41.461983,
     -81.244275,
     41.461983
-],
+  ],
   "geometry": {"coordinates":[-81.244275,41.461983],"type":"Point"}
 }

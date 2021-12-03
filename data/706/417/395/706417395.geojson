@@ -2,63 +2,67 @@
   "id": 706417395,
   "type": "Feature",
   "properties": {
-    "addr:full":"39 Wood St Mansfield OH 44903",
-    "addr:housenumber":"39",
-    "addr:postcode":"44903",
-    "addr:street":"Wood St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.526077,40.756887,-82.526077,40.756887",
-    "geom:latitude":40.756887,
-    "geom:longitude":-82.526077,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"39 Wood St",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "39 Wood St Mansfield OH 44903",
+    "addr:housenumber": "39",
+    "addr:postcode": "44903",
+    "addr:street": "Wood St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.526077,40.756887,-82.526077,40.756887",
+    "geom:latitude": 40.756887,
+    "geom:longitude": -82.526077,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "39 Wood St",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 775 1200",
-    "sg:postcode":"44903",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 775 1200",
+    "sg:postcode": "44903",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_50g4F8QWKZJD7QJrIsjnLF_40.756887_-82.526077@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_50g4F8QWKZJD7QJrIsjnLF_40.756887_-82.526077@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802741,
-    "wof:geomhash":"a105c54c40678172fb44f5945cd6dde5",
-    "wof:hierarchy":[],
-    "wof:id":706417395,
-    "wof:lastmodified":1472640002,
-    "wof:name":"Mid-Ohio Neurosurgical Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802741,
+    "wof:geomhash": "a3cd145ca8f51f35a1de5c1a616b5540",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706417395
+      }
+    ],
+    "wof:id": 706417395,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Mid-Ohio Neurosurgical Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.526077,
     40.756887,
     -82.526077,
     40.756887
-],
+  ],
   "geometry": {"coordinates":[-82.526077,40.756887],"type":"Point"}
 }

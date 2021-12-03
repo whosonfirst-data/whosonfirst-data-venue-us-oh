@@ -2,61 +2,65 @@
   "id": 705857507,
   "type": "Feature",
   "properties": {
-    "addr:full":"7060 Apple Creek Rd Sylvania OH 43560",
-    "addr:housenumber":"7060",
-    "addr:postcode":"43560",
-    "addr:street":"Apple Creek Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.712294,41.716238,-83.712294,41.716238",
-    "geom:latitude":41.716238,
-    "geom:longitude":-83.712294,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7060 Apple Creek Rd",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "7060 Apple Creek Rd Sylvania OH 43560",
+    "addr:housenumber": "7060",
+    "addr:postcode": "43560",
+    "addr:street": "Apple Creek Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.712294,41.716238,-83.712294,41.716238",
+    "geom:latitude": 41.716238,
+    "geom:longitude": -83.712294,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7060 Apple Creek Rd",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 885 4946",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 885 4946",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4GpmFIHkdclxL6H3OaDhJa_41.716238_-83.712294@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4GpmFIHkdclxL6H3OaDhJa_41.716238_-83.712294@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790360,
-    "wof:geomhash":"ed2afaeca5a486b3752139c7239e7da3",
-    "wof:hierarchy":[],
-    "wof:id":705857507,
-    "wof:lastmodified":1472639425,
-    "wof:name":"Michael Jenkins",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461790360,
+    "wof:geomhash": "43d633d890bce46d6accffd736c5e8c3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705857507
+      }
+    ],
+    "wof:id": 705857507,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Michael Jenkins",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -83.712294,
     41.716238,
     -83.712294,
     41.716238
-],
+  ],
   "geometry": {"coordinates":[-83.712294,41.716238],"type":"Point"}
 }

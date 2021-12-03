@@ -2,61 +2,65 @@
   "id": 706453591,
   "type": "Feature",
   "properties": {
-    "addr:full":"289 S Main St Pataskala OH 43062",
-    "addr:housenumber":"289",
-    "addr:postcode":"43062",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.675056,39.997194,-82.675056,39.997194",
-    "geom:latitude":39.997194,
-    "geom:longitude":-82.675056,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"289 S Main St",
-    "sg:city":"Pataskala",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "289 S Main St Pataskala OH 43062",
+    "addr:housenumber": "289",
+    "addr:postcode": "43062",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.675056,39.997194,-82.675056,39.997194",
+    "geom:latitude": 39.997194,
+    "geom:longitude": -82.675056,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "289 S Main St",
+    "sg:city": "Pataskala",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 927 3971",
-    "sg:postcode":"43062",
-    "sg:province":"OH",
-    "sg:tags":[
-        "director"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 927 3971",
+    "sg:postcode": "43062",
+    "sg:province": "OH",
+    "sg:tags": [
+      "director"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_59gTzGmaTHjua6C46erERm_39.997194_-82.675056@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_59gTzGmaTHjua6C46erERm_39.997194_-82.675056@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803517,
-    "wof:geomhash":"8de02b459cdd1a099369ffbc89dde5a1",
-    "wof:hierarchy":[],
-    "wof:id":706453591,
-    "wof:lastmodified":1472640052,
-    "wof:name":"Kauber Miller Funeral Home",
-    "wof:parent_id":420534959,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director"
+    "wof:country": "US",
+    "wof:created": 1461803517,
+    "wof:geomhash": "675f86ac360e580a9f8ca187b2d47377",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706453591
+      }
+    ],
+    "wof:id": 706453591,
+    "wof:lastmodified": 1638567128,
+    "wof:name": "Kauber Miller Funeral Home",
+    "wof:parent_id": 420534959,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director"
     ]
-},
+  },
   "bbox": [
     -82.675056,
     39.997194,
     -82.675056,
     39.997194
-],
+  ],
   "geometry": {"coordinates":[-82.675056,39.997194],"type":"Point"}
 }

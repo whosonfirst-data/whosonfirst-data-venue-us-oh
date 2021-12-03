@@ -2,61 +2,65 @@
   "id": 706345701,
   "type": "Feature",
   "properties": {
-    "addr:full":"1507 S Chapel St Louisville OH 44641",
-    "addr:housenumber":"1507",
-    "addr:postcode":"44641",
-    "addr:street":"S Chapel St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.26033,40.825974,-81.26033,40.825974",
-    "geom:latitude":40.825974,
-    "geom:longitude":-81.26033,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1507 S Chapel St",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1507 S Chapel St Louisville OH 44641",
+    "addr:housenumber": "1507",
+    "addr:postcode": "44641",
+    "addr:street": "S Chapel St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.260330,40.825974,-81.260330,40.825974",
+    "geom:latitude": 40.825974,
+    "geom:longitude": -81.26033,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1507 S Chapel St",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 875 8837",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "automotive"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 875 8837",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "automotive"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Zg1Crs71O8q2Hc3VpDR9Q_40.825974_-81.260330@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Zg1Crs71O8q2Hc3VpDR9Q_40.825974_-81.260330@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801322,
-    "wof:geomhash":"57c4d3c0c19c45a648896ad330b30346",
-    "wof:hierarchy":[],
-    "wof:id":706345701,
-    "wof:lastmodified":1472639865,
-    "wof:name":"Conleys Service",
-    "wof:parent_id":420535239,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automotive"
+    "wof:country": "US",
+    "wof:created": 1461801322,
+    "wof:geomhash": "e7849836805708de89fe6413a1f518f4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706345701
+      }
+    ],
+    "wof:id": 706345701,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Conleys Service",
+    "wof:parent_id": 420535239,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automotive"
     ]
-},
+  },
   "bbox": [
     -81.26033,
     40.825974,
     -81.26033,
     40.825974
-],
+  ],
   "geometry": {"coordinates":[-81.26033,40.825974],"type":"Point"}
 }

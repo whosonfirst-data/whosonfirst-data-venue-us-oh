@@ -2,63 +2,67 @@
   "id": 706420291,
   "type": "Feature",
   "properties": {
-    "addr:full":"7097 Co Hwy 47 Upper Sandusky OH 43351",
-    "addr:housenumber":"7097",
-    "addr:postcode":"43351",
-    "addr:street":"Co Hwy 47",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.247414,40.86544,-83.247414,40.86544",
-    "geom:latitude":40.86544,
-    "geom:longitude":-83.247414,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7097 Co Hwy 47",
-    "sg:city":"Upper Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "7097 Co Hwy 47 Upper Sandusky OH 43351",
+    "addr:housenumber": "7097",
+    "addr:postcode": "43351",
+    "addr:street": "Co Hwy 47",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.247414,40.865440,-83.247414,40.865440",
+    "geom:latitude": 40.86544,
+    "geom:longitude": -83.247414,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7097 Co Hwy 47",
+    "sg:city": "Upper Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 294 3078",
-    "sg:postcode":"43351",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 294 3078",
+    "sg:postcode": "43351",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2EL67ENB3UhNHeAjVsWEpS_40.865440_-83.247414@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2EL67ENB3UhNHeAjVsWEpS_40.865440_-83.247414@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802795,
-    "wof:geomhash":"516b4c7713205f29632e9aba0a9207b6",
-    "wof:hierarchy":[],
-    "wof:id":706420291,
-    "wof:lastmodified":1472640003,
-    "wof:name":"Walton Agri-Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461802795,
+    "wof:geomhash": "38502bc392b055fad41eb1a8434d6ac6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706420291
+      }
+    ],
+    "wof:id": 706420291,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Walton Agri-Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -83.247414,
     40.86544,
     -83.247414,
     40.86544
-],
-  "geometry": {"coordinates":[-83.24741400000001,40.86544],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.247414,40.86544],"type":"Point"}
 }

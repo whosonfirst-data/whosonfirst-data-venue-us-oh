@@ -2,68 +2,72 @@
   "id": 705908247,
   "type": "Feature",
   "properties": {
-    "addr:full":"6700 Sterling Rd Sterling OH 44276",
-    "addr:housenumber":"6700",
-    "addr:postcode":"44276",
-    "addr:street":"Sterling Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.849828,40.960389,-81.849828,40.960389",
-    "geom:latitude":40.960389,
-    "geom:longitude":-81.849828,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"6700 Sterling Rd",
-    "sg:city":"Sterling",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "6700 Sterling Rd Sterling OH 44276",
+    "addr:housenumber": "6700",
+    "addr:postcode": "44276",
+    "addr:street": "Sterling Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.849828,40.960389,-81.849828,40.960389",
+    "geom:latitude": 40.960389,
+    "geom:longitude": -81.849828,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "6700 Sterling Rd",
+    "sg:city": "Sterling",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 939 3681",
-    "sg:postcode":"44276",
-    "sg:province":"OH",
-    "sg:tags":[
-        "water",
-        "plant",
-        "treatment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 939 3681",
+    "sg:postcode": "44276",
+    "sg:province": "OH",
+    "sg:tags": [
+      "water",
+      "plant",
+      "treatment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125157303,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3yUXUJR5IlLESsXqwH2HJe_40.960389_-81.849828@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125157303,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3yUXUJR5IlLESsXqwH2HJe_40.960389_-81.849828@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791591,
-    "wof:geomhash":"cd0938169cba337a6e55eff2e62ad983",
-    "wof:hierarchy":[],
-    "wof:id":705908247,
-    "wof:lastmodified":1510695285,
-    "wof:name":"Water Plant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "water",
-        "plant",
-        "treatment"
+    "wof:country": "US",
+    "wof:created": 1461791591,
+    "wof:geomhash": "cd0938169cba337a6e55eff2e62ad983",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705908247
+      }
+    ],
+    "wof:id": 705908247,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Water Plant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "water",
+      "plant",
+      "treatment"
     ]
-},
+  },
   "bbox": [
     -81.849828,
     40.960389,
     -81.849828,
     40.960389
-],
+  ],
   "geometry": {"coordinates":[-81.849828,40.960389],"type":"Point"}
 }

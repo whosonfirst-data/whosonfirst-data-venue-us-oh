@@ -2,63 +2,67 @@
   "id": 705791033,
   "type": "Feature",
   "properties": {
-    "addr:full":"7879 E Lincoln Hwy Lima OH 45801",
-    "addr:housenumber":"7879",
-    "addr:postcode":"45801",
-    "addr:street":"E Lincoln Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.956,40.833366,-83.956,40.833366",
-    "geom:latitude":40.833366,
-    "geom:longitude":-83.956,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7879 E Lincoln Hwy",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "7879 E Lincoln Hwy Lima OH 45801",
+    "addr:housenumber": "7879",
+    "addr:postcode": "45801",
+    "addr:street": "E Lincoln Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.956000,40.833366,-83.956000,40.833366",
+    "geom:latitude": 40.833366,
+    "geom:longitude": -83.956,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7879 E Lincoln Hwy",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 643 6035",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 643 6035",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Wv5aPNGK3QlT9OS2NTmzN_40.833366_-83.956000@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Wv5aPNGK3QlT9OS2NTmzN_40.833366_-83.956000@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788820,
-    "wof:geomhash":"7ee0be3bba1333debf4b3152bf26d6d5",
-    "wof:hierarchy":[],
-    "wof:id":705791033,
-    "wof:lastmodified":1472639233,
-    "wof:name":"Koogler's Refuse Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461788820,
+    "wof:geomhash": "cb69525f9aca734602a35cb72a70fec5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705791033
+      }
+    ],
+    "wof:id": 705791033,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Koogler's Refuse Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -83.956,
     40.833366,
     -83.956,
     40.833366
-],
+  ],
   "geometry": {"coordinates":[-83.956,40.833366],"type":"Point"}
 }

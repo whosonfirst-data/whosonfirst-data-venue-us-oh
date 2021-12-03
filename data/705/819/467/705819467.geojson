@@ -2,61 +2,65 @@
   "id": 705819467,
   "type": "Feature",
   "properties": {
-    "addr:full":"7165 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7165",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.38755,39.32177,-84.38755,39.32177",
-    "geom:latitude":39.32177,
-    "geom:longitude":-84.38755,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7165 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7165 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7165",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.387550,39.321770,-84.387550,39.321770",
+    "geom:latitude": 39.32177,
+    "geom:longitude": -84.38755,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7165 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 755 7242",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "italian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 755 7242",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "italian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4wWX6bQGBF1xjfr6XferVB_39.321770_-84.387550@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4wWX6bQGBF1xjfr6XferVB_39.321770_-84.387550@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789473,
-    "wof:geomhash":"465c5498299a77aeb8f416347d418a5e",
-    "wof:hierarchy":[],
-    "wof:id":705819467,
-    "wof:lastmodified":1472639340,
-    "wof:name":"Antonios",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "italian"
+    "wof:country": "US",
+    "wof:created": 1461789473,
+    "wof:geomhash": "9223da8f275dbb50474f8903e507bb0f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705819467
+      }
+    ],
+    "wof:id": 705819467,
+    "wof:lastmodified": 1638566996,
+    "wof:name": "Antonios",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "italian"
     ]
-},
+  },
   "bbox": [
     -84.38755,
     39.32177,
     -84.38755,
     39.32177
-],
+  ],
   "geometry": {"coordinates":[-84.38755,39.32177],"type":"Point"}
 }

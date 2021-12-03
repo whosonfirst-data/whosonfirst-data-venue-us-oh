@@ -2,61 +2,65 @@
   "id": 689494387,
   "type": "Feature",
   "properties": {
-    "addr:full":"12096 Island Rd Grafton OH 44044",
-    "addr:housenumber":"12096",
-    "addr:postcode":"44044",
-    "addr:street":"Island Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.001485,41.312432,-82.001485,41.312432",
-    "geom:latitude":41.312432,
-    "geom:longitude":-82.001485,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12096 Island Rd",
-    "sg:city":"Grafton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "12096 Island Rd Grafton OH 44044",
+    "addr:housenumber": "12096",
+    "addr:postcode": "44044",
+    "addr:street": "Island Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.001485,41.312432,-82.001485,41.312432",
+    "geom:latitude": 41.312432,
+    "geom:longitude": -82.001485,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12096 Island Rd",
+    "sg:city": "Grafton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 748 3794",
-    "sg:postcode":"44044",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 748 3794",
+    "sg:postcode": "44044",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5rXTvc9EmcqjEpNpm7WEFF_41.312432_-82.001485@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5rXTvc9EmcqjEpNpm7WEFF_41.312432_-82.001485@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772939,
-    "wof:geomhash":"9918a72fcc0106ab37889274b8fff874",
-    "wof:hierarchy":[],
-    "wof:id":689494387,
-    "wof:lastmodified":1472638923,
-    "wof:name":"North Eaton Church Of God",
-    "wof:parent_id":420535001,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461772939,
+    "wof:geomhash": "e3ae7279ab27cb5d73ea0477d259d534",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689494387
+      }
+    ],
+    "wof:id": 689494387,
+    "wof:lastmodified": 1638566940,
+    "wof:name": "North Eaton Church Of God",
+    "wof:parent_id": 420535001,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.001485,
     41.312432,
     -82.001485,
     41.312432
-],
+  ],
   "geometry": {"coordinates":[-82.001485,41.312432],"type":"Point"}
 }

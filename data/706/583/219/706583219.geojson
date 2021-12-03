@@ -2,66 +2,70 @@
   "id": 706583219,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 W Hanley Rd Mansfield OH 44903",
-    "addr:housenumber":"25",
-    "addr:postcode":"44903",
-    "addr:street":"W Hanley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.511731,40.696667,-82.511731,40.696667",
-    "geom:latitude":40.696667,
-    "geom:longitude":-82.511731,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"25 W Hanley Rd",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "25 W Hanley Rd Mansfield OH 44903",
+    "addr:housenumber": "25",
+    "addr:postcode": "44903",
+    "addr:street": "W Hanley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.511731,40.696667,-82.511731,40.696667",
+    "geom:latitude": 40.696667,
+    "geom:longitude": -82.511731,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "25 W Hanley Rd",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/mansfield/195111-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"44903",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/mansfield/195111-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "44903",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2kXG4B1dpQRqiH2P1NdRab_40.696484_-82.512104@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2kXG4B1dpQRqiH2P1NdRab_40.696484_-82.512104@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806386,
-    "wof:geomhash":"66ea306330c85187b3600587a1d23b3c",
-    "wof:hierarchy":[],
-    "wof:id":706583219,
-    "wof:lastmodified":1512142942,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806386,
+    "wof:geomhash": "66ea306330c85187b3600587a1d23b3c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706583219
+      }
+    ],
+    "wof:id": 706583219,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -82.511731,
     40.696667,
     -82.511731,
     40.696667
-],
+  ],
   "geometry": {"coordinates":[-82.511731,40.696667],"type":"Point"}
 }

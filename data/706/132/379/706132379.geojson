@@ -2,61 +2,65 @@
   "id": 706132379,
   "type": "Feature",
   "properties": {
-    "addr:full":"31118 Center Ridge Rd Cleveland OH 44145",
-    "addr:housenumber":"31118",
-    "addr:postcode":"44145",
-    "addr:street":"Center Ridge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.962281,41.422618,-81.962281,41.422618",
-    "geom:latitude":41.422618,
-    "geom:longitude":-81.962281,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"31118 Center Ridge Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "31118 Center Ridge Rd Cleveland OH 44145",
+    "addr:housenumber": "31118",
+    "addr:postcode": "44145",
+    "addr:street": "Center Ridge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.962281,41.422618,-81.962281,41.422618",
+    "geom:latitude": 41.422618,
+    "geom:longitude": -81.962281,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "31118 Center Ridge Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 892 1919",
-    "sg:postcode":"44145",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 892 1919",
+    "sg:postcode": "44145",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2TfMssnUzkzTGA2Sx4fMhr_41.422618_-81.962281@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2TfMssnUzkzTGA2Sx4fMhr_41.422618_-81.962281@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796578,
-    "wof:geomhash":"b5126a4d4b027c999acb3bcac472cb69",
-    "wof:hierarchy":[],
-    "wof:id":706132379,
-    "wof:lastmodified":1472639315,
-    "wof:name":"Butler Did It",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461796578,
+    "wof:geomhash": "09788f503c22705709ac61259892e019",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706132379
+      }
+    ],
+    "wof:id": 706132379,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Butler Did It",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -81.962281,
     41.422618,
     -81.962281,
     41.422618
-],
+  ],
   "geometry": {"coordinates":[-81.962281,41.422618],"type":"Point"}
 }

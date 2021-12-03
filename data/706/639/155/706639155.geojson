@@ -2,70 +2,74 @@
   "id": 706639155,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 Ohio Pike Cincinnati OH 45245",
-    "addr:housenumber":"1000",
-    "addr:postcode":"45245",
-    "addr:street":"Ohio Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.265111,39.058959,-84.265111,39.058959",
-    "geom:latitude":39.058959,
-    "geom:longitude":-84.265111,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1000 Ohio Pike",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Hobbies, Toys, & Games",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Rental",
-            "type":"Entertainment"
-        }
+    "addr:full": "1000 Ohio Pike Cincinnati OH 45245",
+    "addr:housenumber": "1000",
+    "addr:postcode": "45245",
+    "addr:street": "Ohio Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.265111,39.058959,-84.265111,39.058959",
+    "geom:latitude": 39.058959,
+    "geom:longitude": -84.265111,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1000 Ohio Pike",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Hobbies, Toys, \u0026 Games",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Rental",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 752 2704",
-    "sg:postcode":"45245",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop",
-        "hobby",
-        "video"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 752 2704",
+    "sg:postcode": "45245",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop",
+      "hobby",
+      "video"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6kXaB4vT2NjQDy090NkWlC_39.058959_-84.265111@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6kXaB4vT2NjQDy090NkWlC_39.058959_-84.265111@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807555,
-    "wof:geomhash":"58c04f27c9f8553cb34c6de80c523891",
-    "wof:hierarchy":[],
-    "wof:id":706639155,
-    "wof:lastmodified":1472640246,
-    "wof:name":"Lightspeed Gaming",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "hobby",
-        "video"
+    "wof:country": "US",
+    "wof:created": 1461807555,
+    "wof:geomhash": "bd70b82eaf5e3ca9bf6c55e9a68e859b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706639155
+      }
+    ],
+    "wof:id": 706639155,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Lightspeed Gaming",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "hobby",
+      "video"
     ]
-},
+  },
   "bbox": [
     -84.265111,
     39.058959,
     -84.265111,
     39.058959
-],
+  ],
   "geometry": {"coordinates":[-84.265111,39.058959],"type":"Point"}
 }

@@ -2,65 +2,69 @@
   "id": 705789659,
   "type": "Feature",
   "properties": {
-    "addr:full":"3238 Jackson Pike Batavia OH 45103",
-    "addr:housenumber":"3238",
-    "addr:postcode":"45103",
-    "addr:street":"Jackson Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.069663,39.104156,-84.069663,39.104156",
-    "geom:latitude":39.104156,
-    "geom:longitude":-84.069663,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3238 Jackson Pike",
-    "sg:city":"Batavia",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3238 Jackson Pike Batavia OH 45103",
+    "addr:housenumber": "3238",
+    "addr:postcode": "45103",
+    "addr:street": "Jackson Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.069663,39.104156,-84.069663,39.104156",
+    "geom:latitude": 39.104156,
+    "geom:longitude": -84.069663,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3238 Jackson Pike",
+    "sg:city": "Batavia",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 724 1073",
-    "sg:postcode":"45103",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 724 1073",
+    "sg:postcode": "45103",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5jfOkNIGrcN3X4Bapb9Gls_39.104156_-84.069663@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5jfOkNIGrcN3X4Bapb9Gls_39.104156_-84.069663@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788793,
-    "wof:geomhash":"48a692eab82b72b6a287a15286799772",
-    "wof:hierarchy":[],
-    "wof:id":705789659,
-    "wof:lastmodified":1472639262,
-    "wof:name":"Schneider Trucking Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461788793,
+    "wof:geomhash": "359a37f89a28e5b56e48ba009aa8457a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705789659
+      }
+    ],
+    "wof:id": 705789659,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Schneider Trucking Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.069663,
     39.104156,
     -84.069663,
     39.104156
-],
-  "geometry": {"coordinates":[-84.06966300000001,39.104156],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.069663,39.104156],"type":"Point"}
 }

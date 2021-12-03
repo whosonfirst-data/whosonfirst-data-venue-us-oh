@@ -2,61 +2,65 @@
   "id": 689916705,
   "type": "Feature",
   "properties": {
-    "addr:full":"421 Breaden Dr Monroe OH 45050",
-    "addr:housenumber":"421",
-    "addr:postcode":"45050",
-    "addr:street":"Breaden Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.342186,39.43824,-84.342186,39.43824",
-    "geom:latitude":39.43824,
-    "geom:longitude":-84.342186,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"421 Breaden Dr",
-    "sg:city":"Monroe",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "421 Breaden Dr Monroe OH 45050",
+    "addr:housenumber": "421",
+    "addr:postcode": "45050",
+    "addr:street": "Breaden Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.342186,39.438240,-84.342186,39.438240",
+    "geom:latitude": 39.43824,
+    "geom:longitude": -84.342186,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "421 Breaden Dr",
+    "sg:city": "Monroe",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 539 2104",
-    "sg:postcode":"45050",
-    "sg:province":"OH",
-    "sg:tags":[
-        "welding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 539 2104",
+    "sg:postcode": "45050",
+    "sg:province": "OH",
+    "sg:tags": [
+      "welding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55mYEK1MawuVJKdDugJ5uU_39.438240_-84.342186@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55mYEK1MawuVJKdDugJ5uU_39.438240_-84.342186@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785029,
-    "wof:geomhash":"0be09df6a026326f0090d9d970f429ba",
-    "wof:hierarchy":[],
-    "wof:id":689916705,
-    "wof:lastmodified":1472640081,
-    "wof:name":"Very Reliable Welding",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "welding"
+    "wof:country": "US",
+    "wof:created": 1461785029,
+    "wof:geomhash": "6f310750d5c5b2e1895fff518ac7e207",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689916705
+      }
+    ],
+    "wof:id": 689916705,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Very Reliable Welding",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "welding"
     ]
-},
+  },
   "bbox": [
     -84.342186,
     39.43824,
     -84.342186,
     39.43824
-],
+  ],
   "geometry": {"coordinates":[-84.342186,39.43824],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705812411,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Main St New Straitsville OH 43766",
-    "addr:housenumber":"200",
-    "addr:postcode":"43766",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.235314,39.576861,-82.235314,39.576861",
-    "geom:latitude":39.576861,
-    "geom:longitude":-82.235314,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 Main St",
-    "sg:city":"New Straitsville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "200 Main St New Straitsville OH 43766",
+    "addr:housenumber": "200",
+    "addr:postcode": "43766",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.235314,39.576861,-82.235314,39.576861",
+    "geom:latitude": 39.576861,
+    "geom:longitude": -82.235314,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 Main St",
+    "sg:city": "New Straitsville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 394 3068",
-    "sg:postcode":"43766",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 394 3068",
+    "sg:postcode": "43766",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4WXQrEBm0BKTkmcxlzRMUN_39.576861_-82.235314@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4WXQrEBm0BKTkmcxlzRMUN_39.576861_-82.235314@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789287,
-    "wof:geomhash":"d098c2e9129d83fb11684df6a441b2b8",
-    "wof:hierarchy":[],
-    "wof:id":705812411,
-    "wof:lastmodified":1472639300,
-    "wof:name":"Karen's Kitchen",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461789287,
+    "wof:geomhash": "3b21a3c1444c1a6deb845e1e865a70b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705812411
+      }
+    ],
+    "wof:id": 705812411,
+    "wof:lastmodified": 1638566989,
+    "wof:name": "Karen's Kitchen",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -82.235314,
     39.576861,
     -82.235314,
     39.576861
-],
+  ],
   "geometry": {"coordinates":[-82.235314,39.576861],"type":"Point"}
 }

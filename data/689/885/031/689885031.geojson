@@ -2,63 +2,67 @@
   "id": 689885031,
   "type": "Feature",
   "properties": {
-    "addr:full":"738 State St Wadsworth OH 44281",
-    "addr:housenumber":"738",
-    "addr:postcode":"44281",
-    "addr:street":"State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.745622,41.010487,-81.745622,41.010487",
-    "geom:latitude":41.010487,
-    "geom:longitude":-81.745622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"738 State St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "738 State St Wadsworth OH 44281",
+    "addr:housenumber": "738",
+    "addr:postcode": "44281",
+    "addr:street": "State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.745622,41.010487,-81.745622,41.010487",
+    "geom:latitude": 41.010487,
+    "geom:longitude": -81.745622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "738 State St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 336 6021",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 336 6021",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ugNpt0bH3kOBnTYVMJjpC_41.010487_-81.745622@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0ugNpt0bH3kOBnTYVMJjpC_41.010487_-81.745622@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784173,
-    "wof:geomhash":"521cd5397f3fabf4b2f70094a1693f40",
-    "wof:hierarchy":[],
-    "wof:id":689885031,
-    "wof:lastmodified":1472640021,
-    "wof:name":"Horner's Corner",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461784173,
+    "wof:geomhash": "0831498eb761c2c436c8d086e870f1df",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689885031
+      }
+    ],
+    "wof:id": 689885031,
+    "wof:lastmodified": 1638567095,
+    "wof:name": "Horner's Corner",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -81.745622,
     41.010487,
     -81.745622,
     41.010487
-],
+  ],
   "geometry": {"coordinates":[-81.745622,41.010487],"type":"Point"}
 }

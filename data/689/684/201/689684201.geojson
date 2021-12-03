@@ -2,61 +2,65 @@
   "id": 689684201,
   "type": "Feature",
   "properties": {
-    "addr:full":"410 N East St Galion OH 44833",
-    "addr:housenumber":"410",
-    "addr:postcode":"44833",
-    "addr:street":"N East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.778142,40.737177,-82.778142,40.737177",
-    "geom:latitude":40.737177,
-    "geom:longitude":-82.778142,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"410 N East St",
-    "sg:city":"Galion",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "410 N East St Galion OH 44833",
+    "addr:housenumber": "410",
+    "addr:postcode": "44833",
+    "addr:street": "N East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.778142,40.737177,-82.778142,40.737177",
+    "geom:latitude": 40.737177,
+    "geom:longitude": -82.778142,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "410 N East St",
+    "sg:city": "Galion",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 468 0064",
-    "sg:postcode":"44833",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 468 0064",
+    "sg:postcode": "44833",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7H3hK81CyoBCiqidxZqHFj_40.737177_-82.778142@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7H3hK81CyoBCiqidxZqHFj_40.737177_-82.778142@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778733,
-    "wof:geomhash":"48b7b1306bb56129fa2d05096b15f4d0",
-    "wof:hierarchy":[],
-    "wof:id":689684201,
-    "wof:lastmodified":1472639620,
-    "wof:name":"Hall's Discount Video",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461778733,
+    "wof:geomhash": "58baf265cf2ce8cb471e7ebead6f46f3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689684201
+      }
+    ],
+    "wof:id": 689684201,
+    "wof:lastmodified": 1638567019,
+    "wof:name": "Hall's Discount Video",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -82.778142,
     40.737177,
     -82.778142,
     40.737177
-],
+  ],
   "geometry": {"coordinates":[-82.778142,40.737177],"type":"Point"}
 }

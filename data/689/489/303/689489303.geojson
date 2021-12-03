@@ -2,63 +2,67 @@
   "id": 689489303,
   "type": "Feature",
   "properties": {
-    "addr:full":"4170 Boston Rd Cleveland OH 44141",
-    "addr:housenumber":"4170",
-    "addr:postcode":"44141",
-    "addr:street":"Boston Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.670169,41.277182,-81.670169,41.277182",
-    "geom:latitude":41.277182,
-    "geom:longitude":-81.670169,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4170 Boston Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "4170 Boston Rd Cleveland OH 44141",
+    "addr:housenumber": "4170",
+    "addr:postcode": "44141",
+    "addr:street": "Boston Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.670169,41.277182,-81.670169,41.277182",
+    "geom:latitude": 41.277182,
+    "geom:longitude": -81.670169,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4170 Boston Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 526 4321",
-    "sg:postcode":"44141",
-    "sg:province":"OH",
-    "sg:tags":[
-        "senior",
-        "citizen"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 526 4321",
+    "sg:postcode": "44141",
+    "sg:province": "OH",
+    "sg:tags": [
+      "senior",
+      "citizen"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3pC2ae2aHtdFLM2iwmT0rR_41.277182_-81.670169@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3pC2ae2aHtdFLM2iwmT0rR_41.277182_-81.670169@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772806,
-    "wof:geomhash":"06ff205441146730f0270509b943b2de",
-    "wof:hierarchy":[],
-    "wof:id":689489303,
-    "wof:lastmodified":1472638649,
-    "wof:name":"Care & Counseling",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "senior",
-        "citizen"
+    "wof:country": "US",
+    "wof:created": 1461772806,
+    "wof:geomhash": "86cd3758a6b659d74095850440411620",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689489303
+      }
+    ],
+    "wof:id": 689489303,
+    "wof:lastmodified": 1638566935,
+    "wof:name": "Care \u0026 Counseling",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "senior",
+      "citizen"
     ]
-},
+  },
   "bbox": [
     -81.670169,
     41.277182,
     -81.670169,
     41.277182
-],
+  ],
   "geometry": {"coordinates":[-81.670169,41.277182],"type":"Point"}
 }

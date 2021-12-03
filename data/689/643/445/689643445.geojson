@@ -2,63 +2,67 @@
   "id": 689643445,
   "type": "Feature",
   "properties": {
-    "addr:full":"320 E Garfield Rd Aurora OH 44202",
-    "addr:housenumber":"320",
-    "addr:postcode":"44202",
-    "addr:street":"E Garfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.333175,41.317289,-81.333175,41.317289",
-    "geom:latitude":41.317289,
-    "geom:longitude":-81.333175,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"320 E Garfield Rd",
-    "sg:city":"Aurora",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "320 E Garfield Rd Aurora OH 44202",
+    "addr:housenumber": "320",
+    "addr:postcode": "44202",
+    "addr:street": "E Garfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.333175,41.317289,-81.333175,41.317289",
+    "geom:latitude": 41.317289,
+    "geom:longitude": -81.333175,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "320 E Garfield Rd",
+    "sg:city": "Aurora",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 562 8082",
-    "sg:postcode":"44202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 562 8082",
+    "sg:postcode": "44202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3MdM7w66HUhxmySipw4iKn_41.317289_-81.333175@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3MdM7w66HUhxmySipw4iKn_41.317289_-81.333175@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777627,
-    "wof:geomhash":"a6219232a6a22c2f43174f8d3c44306a",
-    "wof:hierarchy":[],
-    "wof:id":689643445,
-    "wof:lastmodified":1472639518,
-    "wof:name":"Aurora Automotive",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461777627,
+    "wof:geomhash": "cf435d9640cc23416da43b8ed92ade51",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689643445
+      }
+    ],
+    "wof:id": 689643445,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Aurora Automotive",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -81.333175,
     41.317289,
     -81.333175,
     41.317289
-],
+  ],
   "geometry": {"coordinates":[-81.333175,41.317289],"type":"Point"}
 }

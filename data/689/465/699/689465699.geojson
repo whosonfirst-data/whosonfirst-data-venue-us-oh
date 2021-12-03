@@ -2,61 +2,65 @@
   "id": 689465699,
   "type": "Feature",
   "properties": {
-    "addr:full":"115 N Beaver St Lisbon OH 44432",
-    "addr:housenumber":"115",
-    "addr:postcode":"44432",
-    "addr:street":"N Beaver St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.76967,40.773156,-80.76967,40.773156",
-    "geom:latitude":40.773156,
-    "geom:longitude":-80.76967,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"115 N Beaver St",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "115 N Beaver St Lisbon OH 44432",
+    "addr:housenumber": "115",
+    "addr:postcode": "44432",
+    "addr:street": "N Beaver St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.769670,40.773156,-80.769670,40.773156",
+    "geom:latitude": 40.773156,
+    "geom:longitude": -80.76967,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "115 N Beaver St",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 7800",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 7800",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3d8CTiqrE7WJxamKTW7Hfk_40.773156_-80.769670@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3d8CTiqrE7WJxamKTW7Hfk_40.773156_-80.769670@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772072,
-    "wof:geomhash":"95084e328bc363e9c94c1d3c50deef00",
-    "wof:hierarchy":[],
-    "wof:id":689465699,
-    "wof:lastmodified":1472638279,
-    "wof:name":"Jerry J Ward",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461772072,
+    "wof:geomhash": "270bd77ee6445e39702f13454c306056",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689465699
+      }
+    ],
+    "wof:id": 689465699,
+    "wof:lastmodified": 1638566912,
+    "wof:name": "Jerry J Ward",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -80.76967,
     40.773156,
     -80.76967,
     40.773156
-],
+  ],
   "geometry": {"coordinates":[-80.76967,40.773156],"type":"Point"}
 }

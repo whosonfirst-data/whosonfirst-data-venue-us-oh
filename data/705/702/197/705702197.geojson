@@ -2,61 +2,65 @@
   "id": 705702197,
   "type": "Feature",
   "properties": {
-    "addr:full":"7888 Broadview Rd Cleveland OH 44134",
-    "addr:housenumber":"7888",
-    "addr:postcode":"44134",
-    "addr:street":"Broadview Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.684653,41.353575,-81.684653,41.353575",
-    "geom:latitude":41.353575,
-    "geom:longitude":-81.684653,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7888 Broadview Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7888 Broadview Rd Cleveland OH 44134",
+    "addr:housenumber": "7888",
+    "addr:postcode": "44134",
+    "addr:street": "Broadview Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.684653,41.353575,-81.684653,41.353575",
+    "geom:latitude": 41.353575,
+    "geom:longitude": -81.684653,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7888 Broadview Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 524 5522",
-    "sg:postcode":"44134",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 524 5522",
+    "sg:postcode": "44134",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_59O3Xw7gHnnBsKDvSjdnwU_41.353575_-81.684653@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_59O3Xw7gHnnBsKDvSjdnwU_41.353575_-81.684653@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786626,
-    "wof:geomhash":"6a5565a8e4884b9d5a93acef5fe8b36a",
-    "wof:hierarchy":[],
-    "wof:id":705702197,
-    "wof:lastmodified":1472638276,
-    "wof:name":"Great Wall Of China Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461786626,
+    "wof:geomhash": "72062e71b99dde0f38d6876e4b7e045a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702197
+      }
+    ],
+    "wof:id": 705702197,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "Great Wall Of China Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.684653,
     41.353575,
     -81.684653,
     41.353575
-],
+  ],
   "geometry": {"coordinates":[-81.684653,41.353575],"type":"Point"}
 }

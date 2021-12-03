@@ -2,68 +2,72 @@
   "id": 706002215,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 N Main St Swanton OH 43558",
-    "addr:housenumber":"123",
-    "addr:postcode":"43558",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.891623,41.589631,-83.891623,41.589631",
-    "geom:latitude":41.589631,
-    "geom:longitude":-83.891623,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"123 N Main St",
-    "sg:city":"Swanton",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "123 N Main St Swanton OH 43558",
+    "addr:housenumber": "123",
+    "addr:postcode": "43558",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.891623,41.589631,-83.891623,41.589631",
+    "geom:latitude": 41.589631,
+    "geom:longitude": -83.891623,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "123 N Main St",
+    "sg:city": "Swanton",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 825 1125",
-    "sg:postcode":"43558",
-    "sg:province":"OH",
-    "sg:tags":[
-        "savings",
-        "loan",
-        "association"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 825 1125",
+    "sg:postcode": "43558",
+    "sg:province": "OH",
+    "sg:tags": [
+      "savings",
+      "loan",
+      "association"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125156077,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5iMs2UEQZhb8lqYDe1wDfu_41.589631_-83.891623@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125156077,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5iMs2UEQZhb8lqYDe1wDfu_41.589631_-83.891623@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793624,
-    "wof:geomhash":"d5d29db8afa1a7666181d4c1ee40e2a4",
-    "wof:hierarchy":[],
-    "wof:id":706002215,
-    "wof:lastmodified":1510875648,
-    "wof:name":"First Federal Savings & Loan",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "savings",
-        "loan",
-        "association"
+    "wof:country": "US",
+    "wof:created": 1461793624,
+    "wof:geomhash": "d5d29db8afa1a7666181d4c1ee40e2a4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706002215
+      }
+    ],
+    "wof:id": 706002215,
+    "wof:lastmodified": 1638566926,
+    "wof:name": "First Federal Savings \u0026 Loan",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "savings",
+      "loan",
+      "association"
     ]
-},
+  },
   "bbox": [
     -83.891623,
     41.589631,
     -83.891623,
     41.589631
-],
+  ],
   "geometry": {"coordinates":[-83.891623,41.589631],"type":"Point"}
 }

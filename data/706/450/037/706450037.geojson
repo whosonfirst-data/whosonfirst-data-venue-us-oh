@@ -2,63 +2,67 @@
   "id": 706450037,
   "type": "Feature",
   "properties": {
-    "addr:full":"6576 Westfall Rd Greenville OH 45331",
-    "addr:housenumber":"6576",
-    "addr:postcode":"45331",
-    "addr:street":"Westfall Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.580114,40.10489,-84.580114,40.10489",
-    "geom:latitude":40.10489,
-    "geom:longitude":-84.580114,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6576 Westfall Rd",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "6576 Westfall Rd Greenville OH 45331",
+    "addr:housenumber": "6576",
+    "addr:postcode": "45331",
+    "addr:street": "Westfall Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.580114,40.104890,-84.580114,40.104890",
+    "geom:latitude": 40.10489,
+    "geom:longitude": -84.580114,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6576 Westfall Rd",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 548 2002",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 548 2002",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0HUScyq1WOxlGc45uT2uYW_40.104890_-84.580114@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0HUScyq1WOxlGc45uT2uYW_40.104890_-84.580114@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803434,
-    "wof:geomhash":"037f85100b779352438b11dbf4707c7f",
-    "wof:hierarchy":[],
-    "wof:id":706450037,
-    "wof:lastmodified":1472640020,
-    "wof:name":"Leroy M Steinbrecher MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461803434,
+    "wof:geomhash": "f4e79d529560ae5fd2da3de0b404745c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706450037
+      }
+    ],
+    "wof:id": 706450037,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "Leroy M Steinbrecher MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.580114,
     40.10489,
     -84.580114,
     40.10489
-],
-  "geometry": {"coordinates":[-84.58011399999999,40.10489],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.580114,40.10489],"type":"Point"}
 }

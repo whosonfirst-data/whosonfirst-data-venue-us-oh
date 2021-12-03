@@ -2,63 +2,67 @@
   "id": 689592017,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Burlington Rd Jackson OH 45640",
-    "addr:housenumber":"500",
-    "addr:postcode":"45640",
-    "addr:street":"Burlington Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.638028,39.03016,-82.638028,39.03016",
-    "geom:latitude":39.03016,
-    "geom:longitude":-82.638028,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"500 Burlington Rd",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "500 Burlington Rd Jackson OH 45640",
+    "addr:housenumber": "500",
+    "addr:postcode": "45640",
+    "addr:street": "Burlington Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.638028,39.030160,-82.638028,39.030160",
+    "geom:latitude": 39.03016,
+    "geom:longitude": -82.638028,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "500 Burlington Rd",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 355 1000",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 355 1000",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_69sNSn84vWbsVJtz69egQB_39.030160_-82.638028@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_69sNSn84vWbsVJtz69egQB_39.030160_-82.638028@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775971,
-    "wof:geomhash":"bac69d7c9d9bddf9bc7ac5f0a95546e0",
-    "wof:hierarchy":[],
-    "wof:id":689592017,
-    "wof:lastmodified":1472639343,
-    "wof:name":"Pain Management Of S Ohio",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461775971,
+    "wof:geomhash": "7b8a0dccf6fa21f662bb2bb38d055d01",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689592017
+      }
+    ],
+    "wof:id": 689592017,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Pain Management Of S Ohio",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -82.638028,
     39.03016,
     -82.638028,
     39.03016
-],
-  "geometry": {"coordinates":[-82.63802800000001,39.03016],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.638028,39.03016],"type":"Point"}
 }

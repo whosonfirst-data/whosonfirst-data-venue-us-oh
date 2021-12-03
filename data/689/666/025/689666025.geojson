@@ -2,61 +2,65 @@
   "id": 689666025,
   "type": "Feature",
   "properties": {
-    "addr:full":"34 W State St SE Niles OH 44446",
-    "addr:housenumber":"34",
-    "addr:postcode":"44446",
-    "addr:street":"W State St Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.766855,41.179211,-80.766855,41.179211",
-    "geom:latitude":41.179211,
-    "geom:longitude":-80.766855,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"34 W State St SE",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "34 W State St SE Niles OH 44446",
+    "addr:housenumber": "34",
+    "addr:postcode": "44446",
+    "addr:street": "W State St Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.766855,41.179211,-80.766855,41.179211",
+    "geom:latitude": 41.179211,
+    "geom:longitude": -80.766855,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "34 W State St SE",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 544 9055",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 544 9055",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2A89zcyIrMBZUv8m774dnY_41.179211_-80.766855@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2A89zcyIrMBZUv8m774dnY_41.179211_-80.766855@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778281,
-    "wof:geomhash":"5d5296a2b05143b55a8ad52fd60d9d44",
-    "wof:hierarchy":[],
-    "wof:id":689666025,
-    "wof:lastmodified":1472639564,
-    "wof:name":"Niles City Park Maintenance",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461778281,
+    "wof:geomhash": "92b52fc8346275b6eaabb148a9af7989",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689666025
+      }
+    ],
+    "wof:id": 689666025,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Niles City Park Maintenance",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -80.766855,
     41.179211,
     -80.766855,
     41.179211
-],
-  "geometry": {"coordinates":[-80.76685500000001,41.179211],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.766855,41.179211],"type":"Point"}
 }

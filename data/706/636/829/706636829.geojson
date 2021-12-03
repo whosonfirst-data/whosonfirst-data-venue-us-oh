@@ -2,63 +2,67 @@
   "id": 706636829,
   "type": "Feature",
   "properties": {
-    "addr:full":"10765 Reading Rd Unit 4 Cincinnati OH 45241",
-    "addr:housenumber":"10765;4",
-    "addr:postcode":"45241",
-    "addr:street":"Reading Rd Unit",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.416527,39.26276,-84.416527,39.26276",
-    "geom:latitude":39.26276,
-    "geom:longitude":-84.416527,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10765 Reading Rd Unit 4",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Construction Materials",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "10765 Reading Rd Unit 4 Cincinnati OH 45241",
+    "addr:housenumber": "10765;4",
+    "addr:postcode": "45241",
+    "addr:street": "Reading Rd Unit",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.416527,39.262760,-84.416527,39.262760",
+    "geom:latitude": 39.26276,
+    "geom:longitude": -84.416527,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10765 Reading Rd Unit 4",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Construction Materials",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 469 8722",
-    "sg:postcode":"45241",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cage",
-        "batting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 469 8722",
+    "sg:postcode": "45241",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cage",
+      "batting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3iMKbYgoON8aRRg9JNKVeW_39.262760_-84.416527@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3iMKbYgoON8aRRg9JNKVeW_39.262760_-84.416527@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807511,
-    "wof:geomhash":"9321a380684ef18bb1c27b07b2bfc283",
-    "wof:hierarchy":[],
-    "wof:id":706636829,
-    "wof:lastmodified":1472640256,
-    "wof:name":"Tri-State Baseball Academy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cage",
-        "batting"
+    "wof:country": "US",
+    "wof:created": 1461807511,
+    "wof:geomhash": "bd754a14785dd3cc4b9de2a319163224",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706636829
+      }
+    ],
+    "wof:id": 706636829,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Tri-State Baseball Academy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cage",
+      "batting"
     ]
-},
+  },
   "bbox": [
     -84.416527,
     39.26276,
     -84.416527,
     39.26276
-],
+  ],
   "geometry": {"coordinates":[-84.416527,39.26276],"type":"Point"}
 }

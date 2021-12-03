@@ -2,61 +2,65 @@
   "id": 705714725,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 W Grand Ave Lima OH 45801",
-    "addr:housenumber":"200",
-    "addr:postcode":"45801",
-    "addr:street":"W Grand Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.1085,40.750933,-84.1085,40.750933",
-    "geom:latitude":40.750933,
-    "geom:longitude":-84.1085,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 W Grand Ave",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "200 W Grand Ave Lima OH 45801",
+    "addr:housenumber": "200",
+    "addr:postcode": "45801",
+    "addr:street": "W Grand Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.108500,40.750933,-84.108500,40.750933",
+    "geom:latitude": 40.750933,
+    "geom:longitude": -84.1085,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 W Grand Ave",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 222 9302",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 222 9302",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5EwA3FrWkipmtoHh5Z631F_40.750933_-84.108500@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5EwA3FrWkipmtoHh5Z631F_40.750933_-84.108500@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787034,
-    "wof:geomhash":"3fabe93351f68840482dd481ad223304",
-    "wof:hierarchy":[],
-    "wof:id":705714725,
-    "wof:lastmodified":1472638465,
-    "wof:name":"Ray's Place",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461787034,
+    "wof:geomhash": "60eb2f4e2bdbfbbddeae7698b098afaa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705714725
+      }
+    ],
+    "wof:id": 705714725,
+    "wof:lastmodified": 1638566931,
+    "wof:name": "Ray's Place",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -84.1085,
     40.750933,
     -84.1085,
     40.750933
-],
-  "geometry": {"coordinates":[-84.10850000000001,40.750933],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.1085,40.750933],"type":"Point"}
 }

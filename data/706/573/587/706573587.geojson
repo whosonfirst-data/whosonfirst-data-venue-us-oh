@@ -2,66 +2,70 @@
   "id": 706573587,
   "type": "Feature",
   "properties": {
-    "addr:full":"1070 S Smithville Rd Dayton OH 45403",
-    "addr:housenumber":"1070",
-    "addr:postcode":"45403",
-    "addr:street":"S Smithville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.13864,39.75248,-84.13864,39.75248",
-    "geom:latitude":39.75248,
-    "geom:longitude":-84.13864,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1070 S Smithville Rd",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1070 S Smithville Rd Dayton OH 45403",
+    "addr:housenumber": "1070",
+    "addr:postcode": "45403",
+    "addr:street": "S Smithville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.138640,39.752480,-84.138640,39.752480",
+    "geom:latitude": 39.75248,
+    "geom:longitude": -84.13864,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1070 S Smithville Rd",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/dayton/194858-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45403",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/dayton/194858-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45403",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_78XxD77iSFdWdh5XVi4VVC_39.752480_-84.138640@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_78XxD77iSFdWdh5XVi4VVC_39.752480_-84.138640@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806144,
-    "wof:geomhash":"ec50bf6d4a76e817e3a8819169ca8d16",
-    "wof:hierarchy":[],
-    "wof:id":706573587,
-    "wof:lastmodified":1512142890,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806144,
+    "wof:geomhash": "ec50bf6d4a76e817e3a8819169ca8d16",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706573587
+      }
+    ],
+    "wof:id": 706573587,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.13864,
     39.75248,
     -84.13864,
     39.75248
-],
+  ],
   "geometry": {"coordinates":[-84.13864,39.75248],"type":"Point"}
 }

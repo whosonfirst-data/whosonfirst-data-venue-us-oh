@@ -2,61 +2,65 @@
   "id": 705723301,
   "type": "Feature",
   "properties": {
-    "addr:full":"1864 Middle Ave Elyria OH 44035",
-    "addr:housenumber":"1864",
-    "addr:postcode":"44035",
-    "addr:street":"Middle Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.107446,41.348942,-82.107446,41.348942",
-    "geom:latitude":41.348942,
-    "geom:longitude":-82.107446,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1864 Middle Ave",
-    "sg:city":"Elyria",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "1864 Middle Ave Elyria OH 44035",
+    "addr:housenumber": "1864",
+    "addr:postcode": "44035",
+    "addr:street": "Middle Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.107446,41.348942,-82.107446,41.348942",
+    "geom:latitude": 41.348942,
+    "geom:longitude": -82.107446,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1864 Middle Ave",
+    "sg:city": "Elyria",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 323 2080",
-    "sg:postcode":"44035",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 323 2080",
+    "sg:postcode": "44035",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6bLLuxj7zSbdnTUrRT9Vgz_41.348942_-82.107446@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6bLLuxj7zSbdnTUrRT9Vgz_41.348942_-82.107446@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787240,
-    "wof:geomhash":"d9937e40743ae952c856f239577f6566",
-    "wof:hierarchy":[],
-    "wof:id":705723301,
-    "wof:lastmodified":1472638579,
-    "wof:name":"South Park Apartments",
-    "wof:parent_id":420535007,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461787240,
+    "wof:geomhash": "9a2daf08c315e0e227352c2acba2ab79",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705723301
+      }
+    ],
+    "wof:id": 705723301,
+    "wof:lastmodified": 1638566939,
+    "wof:name": "South Park Apartments",
+    "wof:parent_id": 420535007,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -82.107446,
     41.348942,
     -82.107446,
     41.348942
-],
+  ],
   "geometry": {"coordinates":[-82.107446,41.348942],"type":"Point"}
 }

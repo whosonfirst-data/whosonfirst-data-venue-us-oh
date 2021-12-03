@@ -2,63 +2,67 @@
   "id": 705770699,
   "type": "Feature",
   "properties": {
-    "addr:full":"5800 Monroe St Sylvania OH 43560",
-    "addr:housenumber":"5800",
-    "addr:postcode":"43560",
-    "addr:street":"Monroe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.684654,41.714327,-83.684654,41.714327",
-    "geom:latitude":41.714327,
-    "geom:longitude":-83.684654,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5800 Monroe St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5800 Monroe St Sylvania OH 43560",
+    "addr:housenumber": "5800",
+    "addr:postcode": "43560",
+    "addr:street": "Monroe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.684654,41.714327,-83.684654,41.714327",
+    "geom:latitude": 41.714327,
+    "geom:longitude": -83.684654,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5800 Monroe St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 251 4674",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 251 4674",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2kdtXtm05Ff8EgL0I4ShDU_41.714327_-83.684654@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2kdtXtm05Ff8EgL0I4ShDU_41.714327_-83.684654@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788311,
-    "wof:geomhash":"86fcbda4a2dec6889937cf6908040b9e",
-    "wof:hierarchy":[],
-    "wof:id":705770699,
-    "wof:lastmodified":1472639233,
-    "wof:name":"Toledo Surgical Spec",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461788311,
+    "wof:geomhash": "11e7f819826e3c800c6ab5533efab09a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705770699
+      }
+    ],
+    "wof:id": 705770699,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Toledo Surgical Spec",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.684654,
     41.714327,
     -83.684654,
     41.714327
-],
-  "geometry": {"coordinates":[-83.68465399999999,41.714327],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.684654,41.714327],"type":"Point"}
 }

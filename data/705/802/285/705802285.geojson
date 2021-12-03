@@ -2,61 +2,65 @@
   "id": 705802285,
   "type": "Feature",
   "properties": {
-    "addr:full":"27750 Chagrin Blvd Cleveland OH 44122",
-    "addr:housenumber":"27750",
-    "addr:postcode":"44122",
-    "addr:street":"Chagrin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.483017,41.462262,-81.483017,41.462262",
-    "geom:latitude":41.462262,
-    "geom:longitude":-81.483017,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"27750 Chagrin Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Cleaning & Sanitation",
-            "type":"Services"
-        }
+    "addr:full": "27750 Chagrin Blvd Cleveland OH 44122",
+    "addr:housenumber": "27750",
+    "addr:postcode": "44122",
+    "addr:street": "Chagrin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.483017,41.462262,-81.483017,41.462262",
+    "geom:latitude": 41.462262,
+    "geom:longitude": -81.483017,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "27750 Chagrin Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Cleaning \u0026 Sanitation",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 896 9711",
-    "sg:postcode":"44122",
-    "sg:province":"OH",
-    "sg:tags":[
-        "janitor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 896 9711",
+    "sg:postcode": "44122",
+    "sg:province": "OH",
+    "sg:tags": [
+      "janitor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ng7mRzGYIonGNeR7lHbql_41.462262_-81.483017@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ng7mRzGYIonGNeR7lHbql_41.462262_-81.483017@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789068,
-    "wof:geomhash":"5764f57df73371eb0c361e9e25967ca8",
-    "wof:hierarchy":[],
-    "wof:id":705802285,
-    "wof:lastmodified":1472639273,
-    "wof:name":"High Gloss Commercial Cleaning",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "janitor"
+    "wof:country": "US",
+    "wof:created": 1461789068,
+    "wof:geomhash": "135758a4dcf4a17417b59fc09c6b7655",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705802285
+      }
+    ],
+    "wof:id": 705802285,
+    "wof:lastmodified": 1638566985,
+    "wof:name": "High Gloss Commercial Cleaning",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "janitor"
     ]
-},
+  },
   "bbox": [
     -81.483017,
     41.462262,
     -81.483017,
     41.462262
-],
+  ],
   "geometry": {"coordinates":[-81.483017,41.462262],"type":"Point"}
 }

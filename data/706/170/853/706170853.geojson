@@ -2,63 +2,67 @@
   "id": 706170853,
   "type": "Feature",
   "properties": {
-    "addr:full":"1193 Wayne Ave Greenville OH 45331",
-    "addr:housenumber":"1193",
-    "addr:postcode":"45331",
-    "addr:street":"Wayne Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.631378,40.083292,-84.631378,40.083292",
-    "geom:latitude":40.083292,
-    "geom:longitude":-84.631378,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1193 Wayne Ave",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1193 Wayne Ave Greenville OH 45331",
+    "addr:housenumber": "1193",
+    "addr:postcode": "45331",
+    "addr:street": "Wayne Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.631378,40.083292,-84.631378,40.083292",
+    "geom:latitude": 40.083292,
+    "geom:longitude": -84.631378,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1193 Wayne Ave",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 548 6489",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 548 6489",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2XS5uI6zv4a7sqX0bj7FEe_40.083292_-84.631378@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2XS5uI6zv4a7sqX0bj7FEe_40.083292_-84.631378@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797448,
-    "wof:geomhash":"a494b3f2236e3311b04c722de5a74692",
-    "wof:hierarchy":[],
-    "wof:id":706170853,
-    "wof:lastmodified":1472639432,
-    "wof:name":"Roxanne Cech MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461797448,
+    "wof:geomhash": "5b17e146605d91c9eba5104373890dfa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706170853
+      }
+    ],
+    "wof:id": 706170853,
+    "wof:lastmodified": 1638567025,
+    "wof:name": "Roxanne Cech MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.631378,
     40.083292,
     -84.631378,
     40.083292
-],
+  ],
   "geometry": {"coordinates":[-84.631378,40.083292],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689902445,
   "type": "Feature",
   "properties": {
-    "addr:full":"843 N Main St Fostoria OH 44830",
-    "addr:housenumber":"843",
-    "addr:postcode":"44830",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.414134,41.169703,-83.414134,41.169703",
-    "geom:latitude":41.169703,
-    "geom:longitude":-83.414134,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"843 N Main St",
-    "sg:city":"Fostoria",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "843 N Main St Fostoria OH 44830",
+    "addr:housenumber": "843",
+    "addr:postcode": "44830",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.414134,41.169703,-83.414134,41.169703",
+    "geom:latitude": 41.169703,
+    "geom:longitude": -83.414134,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "843 N Main St",
+    "sg:city": "Fostoria",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 435 8688",
-    "sg:postcode":"44830",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 435 8688",
+    "sg:postcode": "44830",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4DbsfLwBJIx2wlP0JSD1Iu_41.169703_-83.414134@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4DbsfLwBJIx2wlP0JSD1Iu_41.169703_-83.414134@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784643,
-    "wof:geomhash":"d47db87aa802a0b74e544e5f10c8261d",
-    "wof:hierarchy":[],
-    "wof:id":689902445,
-    "wof:lastmodified":1472640047,
-    "wof:name":"M & M Catering",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461784643,
+    "wof:geomhash": "e3cbdd02c10b2fdb3db0344cbb52e104",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689902445
+      }
+    ],
+    "wof:id": 689902445,
+    "wof:lastmodified": 1638567099,
+    "wof:name": "M \u0026 M Catering",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.414134,
     41.169703,
     -83.414134,
     41.169703
-],
+  ],
   "geometry": {"coordinates":[-83.414134,41.169703],"type":"Point"}
 }

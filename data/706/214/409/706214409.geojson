@@ -2,63 +2,67 @@
   "id": 706214409,
   "type": "Feature",
   "properties": {
-    "addr:full":"3925 Lincoln Way W Massillon OH 44647",
-    "addr:housenumber":"3925",
-    "addr:postcode":"44647",
-    "addr:street":"Lincoln Way W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.573364,40.795933,-81.573364,40.795933",
-    "geom:latitude":40.795933,
-    "geom:longitude":-81.573364,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3925 Lincoln Way W",
-    "sg:city":"Massillon",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3925 Lincoln Way W Massillon OH 44647",
+    "addr:housenumber": "3925",
+    "addr:postcode": "44647",
+    "addr:street": "Lincoln Way W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.573364,40.795933,-81.573364,40.795933",
+    "geom:latitude": 40.795933,
+    "geom:longitude": -81.573364,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3925 Lincoln Way W",
+    "sg:city": "Massillon",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 832 5839",
-    "sg:postcode":"44647",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 832 5839",
+    "sg:postcode": "44647",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0zcOYWFi3NbnxCYgsYSTuk_40.795933_-81.573364@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0zcOYWFi3NbnxCYgsYSTuk_40.795933_-81.573364@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798380,
-    "wof:geomhash":"0e74d157b2553b9143e22db0af67bfda",
-    "wof:hierarchy":[],
-    "wof:id":706214409,
-    "wof:lastmodified":1472639513,
-    "wof:name":"Rohr Storage",
-    "wof:parent_id":420535217,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461798380,
+    "wof:geomhash": "445ace9335dfa22cd2fb89eb9cb11f34",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706214409
+      }
+    ],
+    "wof:id": 706214409,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Rohr Storage",
+    "wof:parent_id": 420535217,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -81.573364,
     40.795933,
     -81.573364,
     40.795933
-],
+  ],
   "geometry": {"coordinates":[-81.573364,40.795933],"type":"Point"}
 }

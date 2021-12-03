@@ -2,61 +2,65 @@
   "id": 689880297,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Water St Steubenville OH 43952",
-    "addr:housenumber":"100",
-    "addr:postcode":"43952",
-    "addr:street":"Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.610756,40.360638,-80.610756,40.360638",
-    "geom:latitude":40.360638,
-    "geom:longitude":-80.610756,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 Water St",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "100 Water St Steubenville OH 43952",
+    "addr:housenumber": "100",
+    "addr:postcode": "43952",
+    "addr:street": "Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.610756,40.360638,-80.610756,40.360638",
+    "geom:latitude": 40.360638,
+    "geom:longitude": -80.610756,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 Water St",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 283 6150",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 283 6150",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_17YkbgICNB5Pc2Ha3S8ADo_40.360638_-80.610756@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_17YkbgICNB5Pc2Ha3S8ADo_40.360638_-80.610756@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784052,
-    "wof:geomhash":"3da2a46ff91c18d37d42ce382d841f74",
-    "wof:hierarchy":[],
-    "wof:id":689880297,
-    "wof:lastmodified":1472639976,
-    "wof:name":"Steubenville Sewage Treatment",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461784052,
+    "wof:geomhash": "9921ded6fad9d5f303ff55ce40b9171d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689880297
+      }
+    ],
+    "wof:id": 689880297,
+    "wof:lastmodified": 1638567095,
+    "wof:name": "Steubenville Sewage Treatment",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -80.610756,
     40.360638,
     -80.610756,
     40.360638
-],
-  "geometry": {"coordinates":[-80.61075599999999,40.360638],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.610756,40.360638],"type":"Point"}
 }

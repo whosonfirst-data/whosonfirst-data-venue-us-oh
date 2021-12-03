@@ -2,63 +2,67 @@
   "id": 705975883,
   "type": "Feature",
   "properties": {
-    "addr:full":"565 S Metcalf St Lima OH 45804",
-    "addr:housenumber":"565",
-    "addr:postcode":"45804",
-    "addr:street":"S Metcalf St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.113271,40.733042,-84.113271,40.733042",
-    "geom:latitude":40.733042,
-    "geom:longitude":-84.113271,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"565 S Metcalf St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"Radio Station",
-            "type":"Services"
-        }
+    "addr:full": "565 S Metcalf St Lima OH 45804",
+    "addr:housenumber": "565",
+    "addr:postcode": "45804",
+    "addr:street": "S Metcalf St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.113271,40.733042,-84.113271,40.733042",
+    "geom:latitude": 40.733042,
+    "geom:longitude": -84.113271,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "565 S Metcalf St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Radio Station",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 229 9999",
-    "sg:postcode":"45804",
-    "sg:province":"OH",
-    "sg:tags":[
-        "company",
-        "broadcasting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 229 9999",
+    "sg:postcode": "45804",
+    "sg:province": "OH",
+    "sg:tags": [
+      "company",
+      "broadcasting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4drsmMP6ajSNGrh0gP4I3M_40.733042_-84.113271@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4drsmMP6ajSNGrh0gP4I3M_40.733042_-84.113271@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793085,
-    "wof:geomhash":"8ae592cd3d5fc164ddfb43e3a16ddb3c",
-    "wof:hierarchy":[],
-    "wof:id":705975883,
-    "wof:lastmodified":1472639761,
-    "wof:name":"WBUK Radio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company",
-        "broadcasting"
+    "wof:country": "US",
+    "wof:created": 1461793085,
+    "wof:geomhash": "792d97f1f957607261aa7d8ef62a213b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705975883
+      }
+    ],
+    "wof:id": 705975883,
+    "wof:lastmodified": 1638567063,
+    "wof:name": "WBUK Radio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company",
+      "broadcasting"
     ]
-},
+  },
   "bbox": [
     -84.113271,
     40.733042,
     -84.113271,
     40.733042
-],
+  ],
   "geometry": {"coordinates":[-84.113271,40.733042],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706442137,
   "type": "Feature",
   "properties": {
-    "addr:full":"1001 Tuscarora Dr Loveland OH 45140",
-    "addr:housenumber":"1001",
-    "addr:postcode":"45140",
-    "addr:street":"Tuscarora Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.27348,39.269765,-84.27348,39.269765",
-    "geom:latitude":39.269765,
-    "geom:longitude":-84.27348,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1001 Tuscarora Dr",
-    "sg:city":"Loveland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1001 Tuscarora Dr Loveland OH 45140",
+    "addr:housenumber": "1001",
+    "addr:postcode": "45140",
+    "addr:street": "Tuscarora Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.273480,39.269765,-84.273480,39.269765",
+    "geom:latitude": 39.269765,
+    "geom:longitude": -84.27348,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1001 Tuscarora Dr",
+    "sg:city": "Loveland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 683 1402",
-    "sg:postcode":"45140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 683 1402",
+    "sg:postcode": "45140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4poTDitioT8615OprLD7eU_39.269765_-84.273480@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4poTDitioT8615OprLD7eU_39.269765_-84.273480@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803269,
-    "wof:geomhash":"83dd2a4c8e1b8e82a124a7f7d55cf9bb",
-    "wof:hierarchy":[],
-    "wof:id":706442137,
-    "wof:lastmodified":1472640022,
-    "wof:name":"L V Towing",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1461803269,
+    "wof:geomhash": "bfc45f17ad8d8a5e37f4a8b5683980df",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706442137
+      }
+    ],
+    "wof:id": 706442137,
+    "wof:lastmodified": 1638567122,
+    "wof:name": "L V Towing",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -84.27348,
     39.269765,
     -84.27348,
     39.269765
-],
-  "geometry": {"coordinates":[-84.27348000000001,39.269765],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.27348,39.269765],"type":"Point"}
 }

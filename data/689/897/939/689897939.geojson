@@ -2,61 +2,65 @@
   "id": 689897939,
   "type": "Feature",
   "properties": {
-    "addr:full":"140 E 3rd St Mansfield OH 44902",
-    "addr:housenumber":"140",
-    "addr:postcode":"44902",
-    "addr:street":"E 3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.509479,40.759558,-82.509479,40.759558",
-    "geom:latitude":40.759558,
-    "geom:longitude":-82.509479,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"140 E 3rd St",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "140 E 3rd St Mansfield OH 44902",
+    "addr:housenumber": "140",
+    "addr:postcode": "44902",
+    "addr:street": "E 3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.509479,40.759558,-82.509479,40.759558",
+    "geom:latitude": 40.759558,
+    "geom:longitude": -82.509479,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "140 E 3rd St",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 755 9816",
-    "sg:postcode":"44902",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 755 9816",
+    "sg:postcode": "44902",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6JGFf88m4HJs4TkpMxVtzc_40.759558_-82.509479@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6JGFf88m4HJs4TkpMxVtzc_40.759558_-82.509479@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784504,
-    "wof:geomhash":"d4386c2fbdf0f151f1d77c450a4ce443",
-    "wof:hierarchy":[],
-    "wof:id":689897939,
-    "wof:lastmodified":1472640052,
-    "wof:name":"Mansfield Fire Prevention Bur",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461784504,
+    "wof:geomhash": "c64941c048083eecade863f847a8d1aa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689897939
+      }
+    ],
+    "wof:id": 689897939,
+    "wof:lastmodified": 1638567094,
+    "wof:name": "Mansfield Fire Prevention Bur",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -82.509479,
     40.759558,
     -82.509479,
     40.759558
-],
+  ],
   "geometry": {"coordinates":[-82.509479,40.759558],"type":"Point"}
 }

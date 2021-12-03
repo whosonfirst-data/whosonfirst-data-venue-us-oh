@@ -2,61 +2,65 @@
   "id": 689588213,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 S Main St Urbana OH 43078",
-    "addr:housenumber":"205",
-    "addr:postcode":"43078",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.752551,40.10691,-83.752551,40.10691",
-    "geom:latitude":40.10691,
-    "geom:longitude":-83.752551,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"205 S Main St",
-    "sg:city":"Urbana",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "205 S Main St Urbana OH 43078",
+    "addr:housenumber": "205",
+    "addr:postcode": "43078",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.752551,40.106910,-83.752551,40.106910",
+    "geom:latitude": 40.10691,
+    "geom:longitude": -83.752551,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "205 S Main St",
+    "sg:city": "Urbana",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 652 4315",
-    "sg:postcode":"43078",
-    "sg:province":"OH",
-    "sg:tags":[
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 652 4315",
+    "sg:postcode": "43078",
+    "sg:province": "OH",
+    "sg:tags": [
+      "supply"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4DlwSJ1pznLZ2R053aXcnh_40.106910_-83.752551@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4DlwSJ1pznLZ2R053aXcnh_40.106910_-83.752551@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775880,
-    "wof:geomhash":"8af92e055b17fc60686737c4a9c70823",
-    "wof:hierarchy":[],
-    "wof:id":689588213,
-    "wof:lastmodified":1472639338,
-    "wof:name":"Urbana Water Works",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "supply"
+    "wof:country": "US",
+    "wof:created": 1461775880,
+    "wof:geomhash": "1eb4c03f76d8caedf345b4beb26b6445",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689588213
+      }
+    ],
+    "wof:id": 689588213,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Urbana Water Works",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "supply"
     ]
-},
+  },
   "bbox": [
     -83.752551,
     40.10691,
     -83.752551,
     40.10691
-],
+  ],
   "geometry": {"coordinates":[-83.752551,40.10691],"type":"Point"}
 }

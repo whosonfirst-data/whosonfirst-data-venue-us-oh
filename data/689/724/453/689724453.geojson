@@ -2,67 +2,71 @@
   "id": 689724453,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 Main St Cincinnati OH 45202",
-    "addr:housenumber":"1000",
-    "addr:postcode":"45202",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2017-11-15",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.511273,39.10764,-84.511273,39.10764",
-    "geom:latitude":39.10764,
-    "geom:longitude":-84.511273,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "sg:address":"1000 Main St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1000 Main St Cincinnati OH 45202",
+    "addr:housenumber": "1000",
+    "addr:postcode": "45202",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2017-11-15",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.511273,39.107640,-84.511273,39.107640",
+    "geom:latitude": 39.10764,
+    "geom:longitude": -84.511273,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "sg:address": "1000 Main St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 946 5320",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 946 5320",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "protection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420575429,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Xo6eu3dGP7icfNMxe1DbC_39.107640_-84.511273@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420575429,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Xo6eu3dGP7icfNMxe1DbC_39.107640_-84.511273@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461779790,
-    "wof:geomhash":"a2e70c71b24c7faeda89a00c514cc9d0",
-    "wof:hierarchy":[],
-    "wof:id":689724453,
-    "wof:lastmodified":1510943727,
-    "wof:name":"Sheriffs Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[
-        706627453
+    "wof:country": "US",
+    "wof:created": 1461779790,
+    "wof:geomhash": "a2e70c71b24c7faeda89a00c514cc9d0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689724453
+      }
     ],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "protection"
+    "wof:id": 689724453,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Sheriffs Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [
+      706627453
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "protection"
     ]
-},
+  },
   "bbox": [
     -84.511273,
     39.10764,
     -84.511273,
     39.10764
-],
+  ],
   "geometry": {"coordinates":[-84.511273,39.10764],"type":"Point"}
 }

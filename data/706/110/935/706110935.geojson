@@ -2,61 +2,65 @@
   "id": 706110935,
   "type": "Feature",
   "properties": {
-    "addr:full":"20039 Hill Rd Circleville OH 43113",
-    "addr:housenumber":"20039",
-    "addr:postcode":"43113",
-    "addr:street":"Hill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.081525,39.654776,-83.081525,39.654776",
-    "geom:latitude":39.654776,
-    "geom:longitude":-83.081525,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20039 Hill Rd",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "20039 Hill Rd Circleville OH 43113",
+    "addr:housenumber": "20039",
+    "addr:postcode": "43113",
+    "addr:street": "Hill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.081525,39.654776,-83.081525,39.654776",
+    "geom:latitude": 39.654776,
+    "geom:longitude": -83.081525,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20039 Hill Rd",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 477 6497",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 477 6497",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_77fUXqPa2f8dPKotylXM5n_39.654776_-83.081525@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_77fUXqPa2f8dPKotylXM5n_39.654776_-83.081525@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796007,
-    "wof:geomhash":"9321596648df706660b20ec766b8e3e5",
-    "wof:hierarchy":[],
-    "wof:id":706110935,
-    "wof:lastmodified":1472639275,
-    "wof:name":"Richard Bond",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461796007,
+    "wof:geomhash": "ac62f055b185979d6bcf156abab2fe49",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706110935
+      }
+    ],
+    "wof:id": 706110935,
+    "wof:lastmodified": 1638566995,
+    "wof:name": "Richard Bond",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.081525,
     39.654776,
     -83.081525,
     39.654776
-],
+  ],
   "geometry": {"coordinates":[-83.081525,39.654776],"type":"Point"}
 }

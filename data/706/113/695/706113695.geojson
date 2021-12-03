@@ -2,61 +2,65 @@
   "id": 706113695,
   "type": "Feature",
   "properties": {
-    "addr:full":"6025 Millshire Dr Dayton OH 45459",
-    "addr:housenumber":"6025",
-    "addr:postcode":"45459",
-    "addr:street":"Millshire Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.136448,39.657463,-84.136448,39.657463",
-    "geom:latitude":39.657463,
-    "geom:longitude":-84.136448,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6025 Millshire Dr",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6025 Millshire Dr Dayton OH 45459",
+    "addr:housenumber": "6025",
+    "addr:postcode": "45459",
+    "addr:street": "Millshire Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.136448,39.657463,-84.136448,39.657463",
+    "geom:latitude": 39.657463,
+    "geom:longitude": -84.136448,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6025 Millshire Dr",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 439 0009",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "consultant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 439 0009",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "consultant"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3HCySOxoKggtbITNtA512m_39.657463_-84.136448@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3HCySOxoKggtbITNtA512m_39.657463_-84.136448@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796089,
-    "wof:geomhash":"0baafddd6b990e56ebdb9188b82e4814",
-    "wof:hierarchy":[],
-    "wof:id":706113695,
-    "wof:lastmodified":1472639297,
-    "wof:name":"Transportation Safety Cnsltnts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "consultant"
+    "wof:country": "US",
+    "wof:created": 1461796089,
+    "wof:geomhash": "ee03976f21d085f917347b2cbe1229ed",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706113695
+      }
+    ],
+    "wof:id": 706113695,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Transportation Safety Cnsltnts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consultant"
     ]
-},
+  },
   "bbox": [
     -84.136448,
     39.657463,
     -84.136448,
     39.657463
-],
+  ],
   "geometry": {"coordinates":[-84.136448,39.657463],"type":"Point"}
 }

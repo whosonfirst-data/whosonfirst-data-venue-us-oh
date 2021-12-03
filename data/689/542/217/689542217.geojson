@@ -2,61 +2,65 @@
   "id": 689542217,
   "type": "Feature",
   "properties": {
-    "addr:full":"3000 Graham Rd Stow OH 44224",
-    "addr:housenumber":"3000",
-    "addr:postcode":"44224",
-    "addr:street":"Graham Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.405531,41.166438,-81.405531,41.166438",
-    "geom:latitude":41.166438,
-    "geom:longitude":-81.405531,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3000 Graham Rd",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "3000 Graham Rd Stow OH 44224",
+    "addr:housenumber": "3000",
+    "addr:postcode": "44224",
+    "addr:street": "Graham Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.405531,41.166438,-81.405531,41.166438",
+    "geom:latitude": 41.166438,
+    "geom:longitude": -81.405531,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3000 Graham Rd",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 688 0450",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 688 0450",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Eu08G8VRGxx1jZqhKfK2R_41.166438_-81.405531@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Eu08G8VRGxx1jZqhKfK2R_41.166438_-81.405531@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774413,
-    "wof:geomhash":"583fb3a542bab245c0eb513ef9b9ba90",
-    "wof:hierarchy":[],
-    "wof:id":689542217,
-    "wof:lastmodified":1472639220,
-    "wof:name":"Lawrence Saltis Plaza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461774413,
+    "wof:geomhash": "3381117d4ef1da2e35422b49d22ec0ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689542217
+      }
+    ],
+    "wof:id": 689542217,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "Lawrence Saltis Plaza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -81.405531,
     41.166438,
     -81.405531,
     41.166438
-],
+  ],
   "geometry": {"coordinates":[-81.405531,41.166438],"type":"Point"}
 }

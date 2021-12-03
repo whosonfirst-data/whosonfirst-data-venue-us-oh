@@ -2,61 +2,65 @@
   "id": 706402119,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 N Main St Niles OH 44446",
-    "addr:housenumber":"123",
-    "addr:postcode":"44446",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.765045,41.182542,-80.765045,41.182542",
-    "geom:latitude":41.182542,
-    "geom:longitude":-80.765045,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 N Main St",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "123 N Main St Niles OH 44446",
+    "addr:housenumber": "123",
+    "addr:postcode": "44446",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.765045,41.182542,-80.765045,41.182542",
+    "geom:latitude": 41.182542,
+    "geom:longitude": -80.765045,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 N Main St",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 652 1064",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 652 1064",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3V8lMpzFa5BpCjgki2vUo0_41.182542_-80.765045@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3V8lMpzFa5BpCjgki2vUo0_41.182542_-80.765045@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802441,
-    "wof:geomhash":"d20ac8c6885b2e94cf25320ca0f89e46",
-    "wof:hierarchy":[],
-    "wof:id":706402119,
-    "wof:lastmodified":1472639987,
-    "wof:name":"Mollica's Banquet Ctr",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "caterer"
+    "wof:country": "US",
+    "wof:created": 1461802441,
+    "wof:geomhash": "ea63cf53cb90ada1f579778b5440775e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706402119
+      }
+    ],
+    "wof:id": 706402119,
+    "wof:lastmodified": 1638567110,
+    "wof:name": "Mollica's Banquet Ctr",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -80.765045,
     41.182542,
     -80.765045,
     41.182542
-],
+  ],
   "geometry": {"coordinates":[-80.765045,41.182542],"type":"Point"}
 }

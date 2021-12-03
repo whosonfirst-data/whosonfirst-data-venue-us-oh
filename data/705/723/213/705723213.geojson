@@ -2,61 +2,65 @@
   "id": 705723213,
   "type": "Feature",
   "properties": {
-    "addr:full":"8117 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"8117",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.358985,39.31756,-84.358985,39.31756",
-    "geom:latitude":39.31756,
-    "geom:longitude":-84.358985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8117 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "8117 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "8117",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.358985,39.317560,-84.358985,39.317560",
+    "geom:latitude": 39.31756,
+    "geom:longitude": -84.358985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8117 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 777 4025",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 777 4025",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0loE6ozbcaR78e5wDlXbcj_39.317560_-84.358985@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0loE6ozbcaR78e5wDlXbcj_39.317560_-84.358985@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787237,
-    "wof:geomhash":"8b68dd68b5e148821c4d3716bbfe1428",
-    "wof:hierarchy":[],
-    "wof:id":705723213,
-    "wof:lastmodified":1472638576,
-    "wof:name":"Hair Network",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461787237,
+    "wof:geomhash": "b8af62b0b4af3056a7670b70eaf96f28",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705723213
+      }
+    ],
+    "wof:id": 705723213,
+    "wof:lastmodified": 1638566938,
+    "wof:name": "Hair Network",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -84.358985,
     39.31756,
     -84.358985,
     39.31756
-],
+  ],
   "geometry": {"coordinates":[-84.358985,39.31756],"type":"Point"}
 }

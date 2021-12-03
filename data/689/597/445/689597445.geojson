@@ -2,61 +2,65 @@
   "id": 689597445,
   "type": "Feature",
   "properties": {
-    "addr:full":"2996 State Rte 5 Cortland OH 44410",
-    "addr:housenumber":"2996",
-    "addr:postcode":"44410",
-    "addr:street":"State Rte 5",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.74957,41.300584,-80.74957,41.300584",
-    "geom:latitude":41.300584,
-    "geom:longitude":-80.74957,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2996 State Rte 5",
-    "sg:city":"Cortland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "2996 State Rte 5 Cortland OH 44410",
+    "addr:housenumber": "2996",
+    "addr:postcode": "44410",
+    "addr:street": "State Rte 5",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.749570,41.300584,-80.749570,41.300584",
+    "geom:latitude": 41.300584,
+    "geom:longitude": -80.74957,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2996 State Rte 5",
+    "sg:city": "Cortland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 638 5500",
-    "sg:postcode":"44410",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 638 5500",
+    "sg:postcode": "44410",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3hTJgoLXhP3eFs9ZvD0x3R_41.300584_-80.749570@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3hTJgoLXhP3eFs9ZvD0x3R_41.300584_-80.749570@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776150,
-    "wof:geomhash":"61afb88ee16dc911c063641f8a37a6fe",
-    "wof:hierarchy":[],
-    "wof:id":689597445,
-    "wof:lastmodified":1472639402,
-    "wof:name":"Frankly Photography",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461776150,
+    "wof:geomhash": "f6501ecb7084cffc3dfb63c959d01650",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689597445
+      }
+    ],
+    "wof:id": 689597445,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "Frankly Photography",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -80.74957,
     41.300584,
     -80.74957,
     41.300584
-],
-  "geometry": {"coordinates":[-80.74957000000001,41.300584],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.74957,41.300584],"type":"Point"}
 }

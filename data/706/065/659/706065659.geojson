@@ -2,63 +2,67 @@
   "id": 706065659,
   "type": "Feature",
   "properties": {
-    "addr:full":"2002 State Rte 7 Fowler OH 44418",
-    "addr:housenumber":"2002",
-    "addr:postcode":"44418",
-    "addr:street":"State Rte 7",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.568169,41.268913,-80.568169,41.268913",
-    "geom:latitude":41.268913,
-    "geom:longitude":-80.568169,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2002 State Rte 7",
-    "sg:city":"Fowler",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2002 State Rte 7 Fowler OH 44418",
+    "addr:housenumber": "2002",
+    "addr:postcode": "44418",
+    "addr:street": "State Rte 7",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.568169,41.268913,-80.568169,41.268913",
+    "geom:latitude": 41.268913,
+    "geom:longitude": -80.568169,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2002 State Rte 7",
+    "sg:city": "Fowler",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 772 3330",
-    "sg:postcode":"44418",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 772 3330",
+    "sg:postcode": "44418",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5CgKb0RX4o0XheSIqoUfpj_41.268913_-80.568169@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5CgKb0RX4o0XheSIqoUfpj_41.268913_-80.568169@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794932,
-    "wof:geomhash":"f019791598dbb957e5ce877f5c2b0006",
-    "wof:hierarchy":[],
-    "wof:id":706065659,
-    "wof:lastmodified":1472639163,
-    "wof:name":"Custom Storage",
-    "wof:parent_id":420535301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461794932,
+    "wof:geomhash": "6d2ffc05351f8740f98c13856c87870a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706065659
+      }
+    ],
+    "wof:id": 706065659,
+    "wof:lastmodified": 1638566975,
+    "wof:name": "Custom Storage",
+    "wof:parent_id": 420535301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -80.568169,
     41.268913,
     -80.568169,
     41.268913
-],
+  ],
   "geometry": {"coordinates":[-80.568169,41.268913],"type":"Point"}
 }

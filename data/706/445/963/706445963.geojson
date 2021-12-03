@@ -2,61 +2,65 @@
   "id": 706445963,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 S Main St New Lexington OH 43764",
-    "addr:housenumber":"116",
-    "addr:postcode":"43764",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.207702,39.713821,-82.207702,39.713821",
-    "geom:latitude":39.713821,
-    "geom:longitude":-82.207702,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"116 S Main St",
-    "sg:city":"New Lexington",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Advertising",
-            "type":"Services"
-        }
+    "addr:full": "116 S Main St New Lexington OH 43764",
+    "addr:housenumber": "116",
+    "addr:postcode": "43764",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.207702,39.713821,-82.207702,39.713821",
+    "geom:latitude": 39.713821,
+    "geom:longitude": -82.207702,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "116 S Main St",
+    "sg:city": "New Lexington",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Advertising",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 342 5483",
-    "sg:postcode":"43764",
-    "sg:province":"OH",
-    "sg:tags":[
-        "counselor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 342 5483",
+    "sg:postcode": "43764",
+    "sg:province": "OH",
+    "sg:tags": [
+      "counselor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6FlZTVXq0P7Ke2XrFMRkDz_39.713821_-82.207702@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6FlZTVXq0P7Ke2XrFMRkDz_39.713821_-82.207702@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803352,
-    "wof:geomhash":"5f847c3983b108273bb107b990985dc6",
-    "wof:hierarchy":[],
-    "wof:id":706445963,
-    "wof:lastmodified":1472640051,
-    "wof:name":"Perry Advertiser",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counselor"
+    "wof:country": "US",
+    "wof:created": 1461803352,
+    "wof:geomhash": "9b628715d063c58c39db4a2eabe34781",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706445963
+      }
+    ],
+    "wof:id": 706445963,
+    "wof:lastmodified": 1638567123,
+    "wof:name": "Perry Advertiser",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counselor"
     ]
-},
+  },
   "bbox": [
     -82.207702,
     39.713821,
     -82.207702,
     39.713821
-],
+  ],
   "geometry": {"coordinates":[-82.207702,39.713821],"type":"Point"}
 }

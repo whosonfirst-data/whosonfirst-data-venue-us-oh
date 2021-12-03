@@ -2,61 +2,65 @@
   "id": 689568737,
   "type": "Feature",
   "properties": {
-    "addr:full":"659 Putnam Ave Zanesville OH 43701",
-    "addr:housenumber":"659",
-    "addr:postcode":"43701",
-    "addr:street":"Putnam Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.007086,39.928822,-82.007086,39.928822",
-    "geom:latitude":39.928822,
-    "geom:longitude":-82.007086,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"659 Putnam Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "659 Putnam Ave Zanesville OH 43701",
+    "addr:housenumber": "659",
+    "addr:postcode": "43701",
+    "addr:street": "Putnam Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.007086,39.928822,-82.007086,39.928822",
+    "geom:latitude": 39.928822,
+    "geom:longitude": -82.007086,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "659 Putnam Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 4113",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 4113",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3gc2WGX2iTaQVr3kVHXIEe_39.928822_-82.007086@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3gc2WGX2iTaQVr3kVHXIEe_39.928822_-82.007086@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775255,
-    "wof:geomhash":"2266713eca9d8336320b8078b995d230",
-    "wof:hierarchy":[],
-    "wof:id":689568737,
-    "wof:lastmodified":1472639317,
-    "wof:name":"Putnam House",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461775255,
+    "wof:geomhash": "db4b32671b2d9d0acfcafd4c69527b45",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689568737
+      }
+    ],
+    "wof:id": 689568737,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Putnam House",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -82.007086,
     39.928822,
     -82.007086,
     39.928822
-],
+  ],
   "geometry": {"coordinates":[-82.007086,39.928822],"type":"Point"}
 }

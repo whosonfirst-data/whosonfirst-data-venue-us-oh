@@ -2,61 +2,65 @@
   "id": 705746065,
   "type": "Feature",
   "properties": {
-    "addr:full":"613 Jett St West Portsmouth OH 45663",
-    "addr:housenumber":"613",
-    "addr:postcode":"45663",
-    "addr:street":"Jett St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.025903,38.765451,-83.025903,38.765451",
-    "geom:latitude":38.765451,
-    "geom:longitude":-83.025903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"613 Jett St",
-    "sg:city":"West Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "613 Jett St West Portsmouth OH 45663",
+    "addr:housenumber": "613",
+    "addr:postcode": "45663",
+    "addr:street": "Jett St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.025903,38.765451,-83.025903,38.765451",
+    "geom:latitude": 38.765451,
+    "geom:longitude": -83.025903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "613 Jett St",
+    "sg:city": "West Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 858 0808",
-    "sg:postcode":"45663",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manicuring"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 858 0808",
+    "sg:postcode": "45663",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manicuring"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3wBYgyTwKyvgpu2L1kRmep_38.765451_-83.025903@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3wBYgyTwKyvgpu2L1kRmep_38.765451_-83.025903@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787772,
-    "wof:geomhash":"8e3cc35a009c482fcc5d06d1969b170c",
-    "wof:hierarchy":[],
-    "wof:id":705746065,
-    "wof:lastmodified":1472639150,
-    "wof:name":"Salon One Nails",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manicuring"
+    "wof:country": "US",
+    "wof:created": 1461787772,
+    "wof:geomhash": "d2877cb5facd251cf0ec0ff3a268c173",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705746065
+      }
+    ],
+    "wof:id": 705746065,
+    "wof:lastmodified": 1638566960,
+    "wof:name": "Salon One Nails",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manicuring"
     ]
-},
+  },
   "bbox": [
     -83.025903,
     38.765451,
     -83.025903,
     38.765451
-],
+  ],
   "geometry": {"coordinates":[-83.025903,38.765451],"type":"Point"}
 }

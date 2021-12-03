@@ -2,61 +2,65 @@
   "id": 706269791,
   "type": "Feature",
   "properties": {
-    "addr:full":"1616 Linden Ave Portsmouth OH 45662",
-    "addr:housenumber":"1616",
-    "addr:postcode":"45662",
-    "addr:street":"Linden Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.967806,38.742286,-82.967806,38.742286",
-    "geom:latitude":38.742286,
-    "geom:longitude":-82.967806,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1616 Linden Ave",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1616 Linden Ave Portsmouth OH 45662",
+    "addr:housenumber": "1616",
+    "addr:postcode": "45662",
+    "addr:street": "Linden Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.967806,38.742286,-82.967806,38.742286",
+    "geom:latitude": 38.742286,
+    "geom:longitude": -82.967806,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1616 Linden Ave",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 354 3646",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 354 3646",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5beSwNSLEavWO8OZUqpYJh_38.742286_-82.967806@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5beSwNSLEavWO8OZUqpYJh_38.742286_-82.967806@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799611,
-    "wof:geomhash":"b79e1630ad535a5cff642104666fd558",
-    "wof:hierarchy":[],
-    "wof:id":706269791,
-    "wof:lastmodified":1472639637,
-    "wof:name":"Numa Christian Ctr Ministries",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461799611,
+    "wof:geomhash": "cbd0a16a9c1830f8f2b19380c972971c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706269791
+      }
+    ],
+    "wof:id": 706269791,
+    "wof:lastmodified": 1638567070,
+    "wof:name": "Numa Christian Ctr Ministries",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -82.967806,
     38.742286,
     -82.967806,
     38.742286
-],
+  ],
   "geometry": {"coordinates":[-82.967806,38.742286],"type":"Point"}
 }

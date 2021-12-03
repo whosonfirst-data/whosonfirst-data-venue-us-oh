@@ -2,63 +2,67 @@
   "id": 705767001,
   "type": "Feature",
   "properties": {
-    "addr:full":"425 E Front St Pemberville OH 43450",
-    "addr:housenumber":"425",
-    "addr:postcode":"43450",
-    "addr:street":"E Front St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.454787,41.413082,-83.454787,41.413082",
-    "geom:latitude":41.413082,
-    "geom:longitude":-83.454787,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"425 E Front St",
-    "sg:city":"Pemberville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "425 E Front St Pemberville OH 43450",
+    "addr:housenumber": "425",
+    "addr:postcode": "43450",
+    "addr:street": "E Front St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.454787,41.413082,-83.454787,41.413082",
+    "geom:latitude": 41.413082,
+    "geom:longitude": -83.454787,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "425 E Front St",
+    "sg:city": "Pemberville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 287 3241",
-    "sg:postcode":"43450",
-    "sg:province":"OH",
-    "sg:tags":[
-        "grain",
-        "elevator"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 287 3241",
+    "sg:postcode": "43450",
+    "sg:province": "OH",
+    "sg:tags": [
+      "grain",
+      "elevator"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7XFZ8u8oKDLv5bFhDuISnz_41.413082_-83.454787@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7XFZ8u8oKDLv5bFhDuISnz_41.413082_-83.454787@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788238,
-    "wof:geomhash":"29d9ce2b28cf57d5f01b9222552cd69f",
-    "wof:hierarchy":[],
-    "wof:id":705767001,
-    "wof:lastmodified":1472639212,
-    "wof:name":"Countyline Co-Op",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grain",
-        "elevator"
+    "wof:country": "US",
+    "wof:created": 1461788238,
+    "wof:geomhash": "4d4e104002af8097a238d036b9d77986",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705767001
+      }
+    ],
+    "wof:id": 705767001,
+    "wof:lastmodified": 1638566976,
+    "wof:name": "Countyline Co-Op",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grain",
+      "elevator"
     ]
-},
+  },
   "bbox": [
     -83.454787,
     41.413082,
     -83.454787,
     41.413082
-],
+  ],
   "geometry": {"coordinates":[-83.454787,41.413082],"type":"Point"}
 }

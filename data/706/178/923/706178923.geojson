@@ -2,61 +2,65 @@
   "id": 706178923,
   "type": "Feature",
   "properties": {
-    "addr:full":"2809 Trimble Rd Toledo OH 43613",
-    "addr:housenumber":"2809",
-    "addr:postcode":"43613",
-    "addr:street":"Trimble Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.613451,41.709641,-83.613451,41.709641",
-    "geom:latitude":41.709641,
-    "geom:longitude":-83.613451,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2809 Trimble Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "2809 Trimble Rd Toledo OH 43613",
+    "addr:housenumber": "2809",
+    "addr:postcode": "43613",
+    "addr:street": "Trimble Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.613451,41.709641,-83.613451,41.709641",
+    "geom:latitude": 41.709641,
+    "geom:longitude": -83.613451,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2809 Trimble Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 473 9977",
-    "sg:postcode":"43613",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 473 9977",
+    "sg:postcode": "43613",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5y2jWmAPhSQsGaoTSkNsP4_41.709641_-83.613451@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5y2jWmAPhSQsGaoTSkNsP4_41.709641_-83.613451@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797610,
-    "wof:geomhash":"d78b0966386b92d305349858820fb758",
-    "wof:hierarchy":[],
-    "wof:id":706178923,
-    "wof:lastmodified":1472639436,
-    "wof:name":"Island Pools",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461797610,
+    "wof:geomhash": "95d38c5b8cc2db23a01211827a675444",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706178923
+      }
+    ],
+    "wof:id": 706178923,
+    "wof:lastmodified": 1638567034,
+    "wof:name": "Island Pools",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.613451,
     41.709641,
     -83.613451,
     41.709641
-],
+  ],
   "geometry": {"coordinates":[-83.613451,41.709641],"type":"Point"}
 }

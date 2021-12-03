@@ -2,61 +2,65 @@
   "id": 705833767,
   "type": "Feature",
   "properties": {
-    "addr:full":"7315 N Aurora Rd Aurora OH 44202",
-    "addr:housenumber":"7315",
-    "addr:postcode":"44202",
-    "addr:street":"N Aurora Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.391761,41.35729,-81.391761,41.35729",
-    "geom:latitude":41.35729,
-    "geom:longitude":-81.391761,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7315 N Aurora Rd",
-    "sg:city":"Aurora",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Equipment Rental",
-            "type":"Services"
-        }
+    "addr:full": "7315 N Aurora Rd Aurora OH 44202",
+    "addr:housenumber": "7315",
+    "addr:postcode": "44202",
+    "addr:street": "N Aurora Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.391761,41.357290,-81.391761,41.357290",
+    "geom:latitude": 41.35729,
+    "geom:longitude": -81.391761,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7315 N Aurora Rd",
+    "sg:city": "Aurora",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Equipment Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 562 1581",
-    "sg:postcode":"44202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "industrial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 562 1581",
+    "sg:postcode": "44202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "industrial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3D4yIemuJcnVqaJMlT3orS_41.357290_-81.391761@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3D4yIemuJcnVqaJMlT3orS_41.357290_-81.391761@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789817,
-    "wof:geomhash":"10bf40d7341735ba46f46af413ad94fe",
-    "wof:hierarchy":[],
-    "wof:id":705833767,
-    "wof:lastmodified":1472639383,
-    "wof:name":"Miller Tool Rental",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "industrial"
+    "wof:country": "US",
+    "wof:created": 1461789817,
+    "wof:geomhash": "62fe28a3fa6b50e91cd7e7cb143bf924",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705833767
+      }
+    ],
+    "wof:id": 705833767,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Miller Tool Rental",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "industrial"
     ]
-},
+  },
   "bbox": [
     -81.391761,
     41.35729,
     -81.391761,
     41.35729
-],
+  ],
   "geometry": {"coordinates":[-81.391761,41.35729],"type":"Point"}
 }

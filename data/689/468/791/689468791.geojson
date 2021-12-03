@@ -2,61 +2,65 @@
   "id": 689468791,
   "type": "Feature",
   "properties": {
-    "addr:full":"512 S Court St Circleville OH 43113",
-    "addr:housenumber":"512",
-    "addr:postcode":"43113",
-    "addr:street":"S Court St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.94718,39.597587,-82.94718,39.597587",
-    "geom:latitude":39.597587,
-    "geom:longitude":-82.94718,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"512 S Court St",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "512 S Court St Circleville OH 43113",
+    "addr:housenumber": "512",
+    "addr:postcode": "43113",
+    "addr:street": "S Court St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.947180,39.597587,-82.947180,39.597587",
+    "geom:latitude": 39.597587,
+    "geom:longitude": -82.94718,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "512 S Court St",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 474 4581",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "auctioneer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 474 4581",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "auctioneer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6yGlRf8EKyjgDqpWsb8bpQ_39.597587_-82.947180@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6yGlRf8EKyjgDqpWsb8bpQ_39.597587_-82.947180@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461772172,
-    "wof:geomhash":"ca622f9505dd46293e4228ed6043e871",
-    "wof:hierarchy":[],
-    "wof:id":689468791,
-    "wof:lastmodified":1472638351,
-    "wof:name":"Jim Ford's Auction Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "auctioneer"
+    "wof:country": "US",
+    "wof:created": 1461772172,
+    "wof:geomhash": "a8b785cef0594f0def88534826f612f2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689468791
+      }
+    ],
+    "wof:id": 689468791,
+    "wof:lastmodified": 1638566915,
+    "wof:name": "Jim Ford's Auction Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "auctioneer"
     ]
-},
+  },
   "bbox": [
     -82.94718,
     39.597587,
     -82.94718,
     39.597587
-],
+  ],
   "geometry": {"coordinates":[-82.94718,39.597587],"type":"Point"}
 }

@@ -2,64 +2,68 @@
   "id": 705698047,
   "type": "Feature",
   "properties": {
-    "addr:full":"3200 N West St Lima OH 45801",
-    "addr:housenumber":"3200",
-    "addr:postcode":"45801",
-    "addr:street":"N West St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.108774,40.784642,-84.108774,40.784642",
-    "geom:latitude":40.784642,
-    "geom:longitude":-84.108774,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3200 N West St",
-    "sg:city":"Lima",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Jail",
-            "type":"Public Place"
-        }
+    "addr:full": "3200 N West St Lima OH 45801",
+    "addr:housenumber": "3200",
+    "addr:postcode": "45801",
+    "addr:street": "N West St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.108774,40.784642,-84.108774,40.784642",
+    "geom:latitude": 40.784642,
+    "geom:longitude": -84.108774,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3200 N West St",
+    "sg:city": "Lima",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Jail",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 225 8052",
-    "sg:postcode":"45801",
-    "sg:province":"OH",
-    "sg:tags":[
-        "correctional",
-        "institution"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 225 8052",
+    "sg:postcode": "45801",
+    "sg:province": "OH",
+    "sg:tags": [
+      "correctional",
+      "institution"
     ],
-    "sg:website":"www.drc.state.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7hQnzqn68TsIw3sYj7yVs7_40.784642_-84.108774@1294180530"
+    "sg:website": "www.drc.state.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7hQnzqn68TsIw3sYj7yVs7_40.784642_-84.108774@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786421,
-    "wof:geomhash":"52f09c8858521b9ff1cc9e2bc0250097",
-    "wof:hierarchy":[],
-    "wof:id":705698047,
-    "wof:lastmodified":1472638256,
-    "wof:name":"Oakwood Correctional Facility",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "correctional",
-        "institution"
+    "wof:country": "US",
+    "wof:created": 1461786421,
+    "wof:geomhash": "fe9642d67c18ffbda786b377c79a80c8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705698047
+      }
+    ],
+    "wof:id": 705698047,
+    "wof:lastmodified": 1638566916,
+    "wof:name": "Oakwood Correctional Facility",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "correctional",
+      "institution"
     ]
-},
+  },
   "bbox": [
     -84.108774,
     40.784642,
     -84.108774,
     40.784642
-],
+  ],
   "geometry": {"coordinates":[-84.108774,40.784642],"type":"Point"}
 }

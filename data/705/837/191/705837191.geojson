@@ -2,61 +2,65 @@
   "id": 705837191,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 S Gibson St Gibsonburg OH 43431",
-    "addr:housenumber":"204",
-    "addr:postcode":"43431",
-    "addr:street":"S Gibson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.323262,41.383464,-83.323262,41.383464",
-    "geom:latitude":41.383464,
-    "geom:longitude":-83.323262,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"204 S Gibson St",
-    "sg:city":"Gibsonburg",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "204 S Gibson St Gibsonburg OH 43431",
+    "addr:housenumber": "204",
+    "addr:postcode": "43431",
+    "addr:street": "S Gibson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.323262,41.383464,-83.323262,41.383464",
+    "geom:latitude": 41.383464,
+    "geom:longitude": -83.323262,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "204 S Gibson St",
+    "sg:city": "Gibsonburg",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 637 2017",
-    "sg:postcode":"43431",
-    "sg:province":"OH",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 637 2017",
+    "sg:postcode": "43431",
+    "sg:province": "OH",
+    "sg:tags": [
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BwevtBB42aTCq9vq4g5uT_41.383464_-83.323262@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3BwevtBB42aTCq9vq4g5uT_41.383464_-83.323262@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789892,
-    "wof:geomhash":"0e8f5cc68ebd6316fadf74dd141d0b09",
-    "wof:hierarchy":[],
-    "wof:id":705837191,
-    "wof:lastmodified":1472639365,
-    "wof:name":"R & R Sales",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:country": "US",
+    "wof:created": 1461789892,
+    "wof:geomhash": "a54dabcf0011859ee68e2e52c89bf29a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705837191
+      }
+    ],
+    "wof:id": 705837191,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "R \u0026 R Sales",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -83.323262,
     41.383464,
     -83.323262,
     41.383464
-],
+  ],
   "geometry": {"coordinates":[-83.323262,41.383464],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706109791,
   "type": "Feature",
   "properties": {
-    "addr:full":"440 N Elm St Columbiana OH 44408",
-    "addr:housenumber":"440",
-    "addr:postcode":"44408",
-    "addr:street":"N Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.692395,40.896491,-80.692395,40.896491",
-    "geom:latitude":40.896491,
-    "geom:longitude":-80.692395,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"440 N Elm St",
-    "sg:city":"Columbiana",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "440 N Elm St Columbiana OH 44408",
+    "addr:housenumber": "440",
+    "addr:postcode": "44408",
+    "addr:street": "N Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.692395,40.896491,-80.692395,40.896491",
+    "geom:latitude": 40.896491,
+    "geom:longitude": -80.692395,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "440 N Elm St",
+    "sg:city": "Columbiana",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 1365",
-    "sg:postcode":"44408",
-    "sg:province":"OH",
-    "sg:tags":[
-        "general"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 1365",
+    "sg:postcode": "44408",
+    "sg:province": "OH",
+    "sg:tags": [
+      "general"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4DK1imiPlK6RuhWfXfP86n_40.896491_-80.692395@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4DK1imiPlK6RuhWfXfP86n_40.896491_-80.692395@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795983,
-    "wof:geomhash":"6cd06e89a8ced739281fe972de4423fe",
-    "wof:hierarchy":[],
-    "wof:id":706109791,
-    "wof:lastmodified":1472639265,
-    "wof:name":"Storage Place Lisbon",
-    "wof:parent_id":420534601,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "general"
+    "wof:country": "US",
+    "wof:created": 1461795983,
+    "wof:geomhash": "4cd0aabb025902d7cc0e085b8046e7b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706109791
+      }
+    ],
+    "wof:id": 706109791,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "Storage Place Lisbon",
+    "wof:parent_id": 420534601,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "general"
     ]
-},
+  },
   "bbox": [
     -80.692395,
     40.896491,
     -80.692395,
     40.896491
-],
+  ],
   "geometry": {"coordinates":[-80.692395,40.896491],"type":"Point"}
 }

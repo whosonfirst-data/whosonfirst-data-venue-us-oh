@@ -2,63 +2,67 @@
   "id": 705820303,
   "type": "Feature",
   "properties": {
-    "addr:full":"12215 Granger Rd Cleveland OH 44125",
-    "addr:housenumber":"12215",
-    "addr:postcode":"44125",
-    "addr:street":"Granger Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.598951,41.417157,-81.598951,41.417157",
-    "geom:latitude":41.417157,
-    "geom:longitude":-81.598951,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12215 Granger Rd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "12215 Granger Rd Cleveland OH 44125",
+    "addr:housenumber": "12215",
+    "addr:postcode": "44125",
+    "addr:street": "Granger Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.598951,41.417157,-81.598951,41.417157",
+    "geom:latitude": 41.417157,
+    "geom:longitude": -81.598951,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12215 Granger Rd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 581 0724",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "convalescent"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 581 0724",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "convalescent"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_44jOxlX0ESho5okXHgF1Qf_41.417157_-81.598951@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_44jOxlX0ESho5okXHgF1Qf_41.417157_-81.598951@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789491,
-    "wof:geomhash":"79cb2929ddc0ba21b8b320be27042b44",
-    "wof:hierarchy":[],
-    "wof:id":705820303,
-    "wof:lastmodified":1472639337,
-    "wof:name":"Clare Hall",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "convalescent"
+    "wof:country": "US",
+    "wof:created": 1461789491,
+    "wof:geomhash": "fdacfb2587f48b9a118cecfaa9f7f431",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705820303
+      }
+    ],
+    "wof:id": 705820303,
+    "wof:lastmodified": 1638566997,
+    "wof:name": "Clare Hall",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "convalescent"
     ]
-},
+  },
   "bbox": [
     -81.598951,
     41.417157,
     -81.598951,
     41.417157
-],
+  ],
   "geometry": {"coordinates":[-81.598951,41.417157],"type":"Point"}
 }

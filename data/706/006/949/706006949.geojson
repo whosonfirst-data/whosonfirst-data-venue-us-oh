@@ -2,63 +2,67 @@
   "id": 706006949,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 S Main St Paulding OH 45879",
-    "addr:housenumber":"103",
-    "addr:postcode":"45879",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.579443,41.137286,-84.579443,41.137286",
-    "geom:latitude":41.137286,
-    "geom:longitude":-84.579443,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"103 S Main St",
-    "sg:city":"Paulding",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "103 S Main St Paulding OH 45879",
+    "addr:housenumber": "103",
+    "addr:postcode": "45879",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.579443,41.137286,-84.579443,41.137286",
+    "geom:latitude": 41.137286,
+    "geom:longitude": -84.579443,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "103 S Main St",
+    "sg:city": "Paulding",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 399 3222",
-    "sg:postcode":"45879",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 399 3222",
+    "sg:postcode": "45879",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6MEDTY2SPMRaBVBjtGh60a_41.137286_-84.579443@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6MEDTY2SPMRaBVBjtGh60a_41.137286_-84.579443@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793723,
-    "wof:geomhash":"431a04636119e0caca809d22ccbd62a8",
-    "wof:hierarchy":[],
-    "wof:id":706006949,
-    "wof:lastmodified":1472638447,
-    "wof:name":"Raise The Barre Dance Studio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:country": "US",
+    "wof:created": 1461793723,
+    "wof:geomhash": "04d2b8146520a9340b3cb186e31ef1f1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706006949
+      }
+    ],
+    "wof:id": 706006949,
+    "wof:lastmodified": 1638566930,
+    "wof:name": "Raise The Barre Dance Studio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -84.579443,
     41.137286,
     -84.579443,
     41.137286
-],
+  ],
   "geometry": {"coordinates":[-84.579443,41.137286],"type":"Point"}
 }

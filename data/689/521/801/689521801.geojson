@@ -2,61 +2,65 @@
   "id": 689521801,
   "type": "Feature",
   "properties": {
-    "addr:full":"5207 Secor Rd Toledo OH 43623",
-    "addr:housenumber":"5207",
-    "addr:postcode":"43623",
-    "addr:street":"Secor Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.62392,41.709813,-83.62392,41.709813",
-    "geom:latitude":41.709813,
-    "geom:longitude":-83.62392,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5207 Secor Rd",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "5207 Secor Rd Toledo OH 43623",
+    "addr:housenumber": "5207",
+    "addr:postcode": "43623",
+    "addr:street": "Secor Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.623920,41.709813,-83.623920,41.709813",
+    "geom:latitude": 41.709813,
+    "geom:longitude": -83.62392,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5207 Secor Rd",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 475 6767",
-    "sg:postcode":"43623",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mover"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 475 6767",
+    "sg:postcode": "43623",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mover"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_29cL3yLgskciP5Wm0us8UL_41.709813_-83.623920@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_29cL3yLgskciP5Wm0us8UL_41.709813_-83.623920@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773757,
-    "wof:geomhash":"2baa52836ede79f7cf9e59bb4bd4c10f",
-    "wof:hierarchy":[],
-    "wof:id":689521801,
-    "wof:lastmodified":1472639198,
-    "wof:name":"Glass City Movers LLC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mover"
+    "wof:country": "US",
+    "wof:created": 1461773757,
+    "wof:geomhash": "03b34225839a7b77339d61f71f9121b3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689521801
+      }
+    ],
+    "wof:id": 689521801,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Glass City Movers LLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mover"
     ]
-},
+  },
   "bbox": [
     -83.62392,
     41.709813,
     -83.62392,
     41.709813
-],
+  ],
   "geometry": {"coordinates":[-83.62392,41.709813],"type":"Point"}
 }

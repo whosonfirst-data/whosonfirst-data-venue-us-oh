@@ -2,61 +2,65 @@
   "id": 689828683,
   "type": "Feature",
   "properties": {
-    "addr:full":"5507 N River Rd Zanesville OH 43701",
-    "addr:housenumber":"5507",
-    "addr:postcode":"43701",
-    "addr:street":"N River Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.978181,40.02629,-81.978181,40.02629",
-    "geom:latitude":40.02629,
-    "geom:longitude":-81.978181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5507 N River Rd",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "5507 N River Rd Zanesville OH 43701",
+    "addr:housenumber": "5507",
+    "addr:postcode": "43701",
+    "addr:street": "N River Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.978181,40.026290,-81.978181,40.026290",
+    "geom:latitude": 40.02629,
+    "geom:longitude": -81.978181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5507 N River Rd",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 7107",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "welding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 7107",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "welding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1wTcRnzabVGdTXrodVhKJp_40.026290_-81.978181@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1wTcRnzabVGdTXrodVhKJp_40.026290_-81.978181@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782753,
-    "wof:geomhash":"af08df966cfb15a21caa898b36ca74d7",
-    "wof:hierarchy":[],
-    "wof:id":689828683,
-    "wof:lastmodified":1472639916,
-    "wof:name":"Mark's Welding",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "welding"
+    "wof:country": "US",
+    "wof:created": 1461782753,
+    "wof:geomhash": "64696f62619add3e094f8508fad2b3b2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689828683
+      }
+    ],
+    "wof:id": 689828683,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Mark's Welding",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "welding"
     ]
-},
+  },
   "bbox": [
     -81.978181,
     40.02629,
     -81.978181,
     40.02629
-],
-  "geometry": {"coordinates":[-81.97818100000001,40.02629],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.978181,40.02629],"type":"Point"}
 }

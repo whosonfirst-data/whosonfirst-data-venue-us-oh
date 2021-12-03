@@ -2,57 +2,61 @@
   "id": 689795077,
   "type": "Feature",
   "properties": {
-    "addr:full":"309 W 2nd St Delphos OH 45833",
-    "addr:housenumber":"309",
-    "addr:postcode":"45833",
-    "addr:street":"W 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.343557,40.843642,-84.343557,40.843642",
-    "geom:latitude":40.843642,
-    "geom:longitude":-84.343557,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"309 W 2nd St",
-    "sg:city":"Delphos",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "309 W 2nd St Delphos OH 45833",
+    "addr:housenumber": "309",
+    "addr:postcode": "45833",
+    "addr:street": "W 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.343557,40.843642,-84.343557,40.843642",
+    "geom:latitude": 40.843642,
+    "geom:longitude": -84.343557,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "309 W 2nd St",
+    "sg:city": "Delphos",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 695 4015",
-    "sg:postcode":"45833",
-    "sg:province":"OH",
-    "sg:website":"www.delphos.lib.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_60oIfejaVHZ5TUX0JmORgJ_40.843642_-84.343557@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 695 4015",
+    "sg:postcode": "45833",
+    "sg:province": "OH",
+    "sg:website": "www.delphos.lib.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_60oIfejaVHZ5TUX0JmORgJ_40.843642_-84.343557@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781709,
-    "wof:geomhash":"b1967724c685f41896ea596183e21cb4",
-    "wof:hierarchy":[],
-    "wof:id":689795077,
-    "wof:lastmodified":1472639855,
-    "wof:name":"Delphos Public Library",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461781709,
+    "wof:geomhash": "bfe2214ce798de925d6a4895d2ab481e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689795077
+      }
+    ],
+    "wof:id": 689795077,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Delphos Public Library",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.343557,
     40.843642,
     -84.343557,
     40.843642
-],
+  ],
   "geometry": {"coordinates":[-84.343557,40.843642],"type":"Point"}
 }

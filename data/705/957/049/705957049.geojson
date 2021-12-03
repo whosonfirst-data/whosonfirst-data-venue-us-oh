@@ -2,68 +2,72 @@
   "id": 705957049,
   "type": "Feature",
   "properties": {
-    "addr:full":"4326 Broadway Grove City OH 43123",
-    "addr:housenumber":"4326",
-    "addr:postcode":"43123",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.098384,39.876628,-83.098384,39.876628",
-    "geom:latitude":39.876628,
-    "geom:longitude":-83.098384,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4326 Broadway",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "4326 Broadway Grove City OH 43123",
+    "addr:housenumber": "4326",
+    "addr:postcode": "43123",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.098384,39.876628,-83.098384,39.876628",
+    "geom:latitude": 39.876628,
+    "geom:longitude": -83.098384,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4326 Broadway",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 539 4870",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 539 4870",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0KXwtSy0QPgOnbl0B8axNv_39.876628_-83.098384@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0KXwtSy0QPgOnbl0B8axNv_39.876628_-83.098384@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792690,
-    "wof:geomhash":"6d2ad82833cdf5760f9e4110dfe3c8a6",
-    "wof:hierarchy":[],
-    "wof:id":705957049,
-    "wof:lastmodified":1472639709,
-    "wof:name":"Bill's On Broadway",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461792690,
+    "wof:geomhash": "b5b3c1fb08bf5eb8f55f76b17cc99711",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705957049
+      }
+    ],
+    "wof:id": 705957049,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Bill's On Broadway",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.098384,
     39.876628,
     -83.098384,
     39.876628
-],
+  ],
   "geometry": {"coordinates":[-83.098384,39.876628],"type":"Point"}
 }

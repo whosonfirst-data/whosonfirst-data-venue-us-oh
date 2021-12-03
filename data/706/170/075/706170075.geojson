@@ -2,56 +2,60 @@
   "id": 706170075,
   "type": "Feature",
   "properties": {
-    "addr:full":"2103 Baltimore St Defiance OH 43512",
-    "addr:housenumber":"2103",
-    "addr:postcode":"43512",
-    "addr:street":"Baltimore St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.40072,41.276196,-84.40072,41.276196",
-    "geom:latitude":41.276196,
-    "geom:longitude":-84.40072,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2103 Baltimore St",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2103 Baltimore St Defiance OH 43512",
+    "addr:housenumber": "2103",
+    "addr:postcode": "43512",
+    "addr:street": "Baltimore St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.400720,41.276196,-84.400720,41.276196",
+    "geom:latitude": 41.276196,
+    "geom:longitude": -84.40072,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2103 Baltimore St",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 784 4645",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6QnNpdCXyRE6R2z5ST1v1T_41.276196_-84.400720@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 784 4645",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6QnNpdCXyRE6R2z5ST1v1T_41.276196_-84.400720@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797433,
-    "wof:geomhash":"c63e53edbb9d490136d00ee4a1aed5d5",
-    "wof:hierarchy":[],
-    "wof:id":706170075,
-    "wof:lastmodified":1472639396,
-    "wof:name":"Westwood Saloon",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461797433,
+    "wof:geomhash": "c456bd67358c9938f0b5cb6a072950d6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706170075
+      }
+    ],
+    "wof:id": 706170075,
+    "wof:lastmodified": 1638567025,
+    "wof:name": "Westwood Saloon",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.40072,
     41.276196,
     -84.40072,
     41.276196
-],
-  "geometry": {"coordinates":[-84.40072000000001,41.276196],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.40072,41.276196],"type":"Point"}
 }

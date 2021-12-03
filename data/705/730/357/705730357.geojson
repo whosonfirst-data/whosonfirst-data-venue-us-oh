@@ -2,61 +2,65 @@
   "id": 705730357,
   "type": "Feature",
   "properties": {
-    "addr:full":"4790 Powderhorn Dr Cincinnati OH 45244",
-    "addr:housenumber":"4790",
-    "addr:postcode":"45244",
-    "addr:street":"Powderhorn Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.296657,39.122234,-84.296657,39.122234",
-    "geom:latitude":39.122234,
-    "geom:longitude":-84.296657,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4790 Powderhorn Dr",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "4790 Powderhorn Dr Cincinnati OH 45244",
+    "addr:housenumber": "4790",
+    "addr:postcode": "45244",
+    "addr:street": "Powderhorn Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.296657,39.122234,-84.296657,39.122234",
+    "geom:latitude": 39.122234,
+    "geom:longitude": -84.296657,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4790 Powderhorn Dr",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 528 9132",
-    "sg:postcode":"45244",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 528 9132",
+    "sg:postcode": "45244",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6eiaUhp4ArO6Uam3aBNs5R_39.122234_-84.296657@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6eiaUhp4ArO6Uam3aBNs5R_39.122234_-84.296657@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787415,
-    "wof:geomhash":"6ed1f6982412f9f78d116b5f57946523",
-    "wof:hierarchy":[],
-    "wof:id":705730357,
-    "wof:lastmodified":1472638870,
-    "wof:name":"James R Dinkel",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461787415,
+    "wof:geomhash": "bce06b6de395177f88a0855919100736",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705730357
+      }
+    ],
+    "wof:id": 705730357,
+    "wof:lastmodified": 1638566946,
+    "wof:name": "James R Dinkel",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -84.296657,
     39.122234,
     -84.296657,
     39.122234
-],
+  ],
   "geometry": {"coordinates":[-84.296657,39.122234],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 705862275,
   "type": "Feature",
   "properties": {
-    "addr:full":"52 Gallo Rd NW Carrollton OH 44615",
-    "addr:housenumber":"52",
-    "addr:postcode":"44615",
-    "addr:street":"Gallo Rd Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.09316,40.606324,-81.09316,40.606324",
-    "geom:latitude":40.606324,
-    "geom:longitude":-81.09316,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"52 Gallo Rd NW",
-    "sg:city":"Carrollton",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "52 Gallo Rd NW Carrollton OH 44615",
+    "addr:housenumber": "52",
+    "addr:postcode": "44615",
+    "addr:street": "Gallo Rd Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.093160,40.606324,-81.093160,40.606324",
+    "geom:latitude": 40.606324,
+    "geom:longitude": -81.09316,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "52 Gallo Rd NW",
+    "sg:city": "Carrollton",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 627 2373",
-    "sg:postcode":"44615",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 627 2373",
+    "sg:postcode": "44615",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4wUogA2Pi0y7KyugKrA3En_40.606324_-81.093160@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4wUogA2Pi0y7KyugKrA3En_40.606324_-81.093160@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790473,
-    "wof:geomhash":"035cbd7b04190b63704d84eb0129f47f",
-    "wof:hierarchy":[],
-    "wof:id":705862275,
-    "wof:lastmodified":1472639444,
-    "wof:name":"J Reed & Sons",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461790473,
+    "wof:geomhash": "dd4bcd3899101dc674a4f3705777f712",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705862275
+      }
+    ],
+    "wof:id": 705862275,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "J Reed \u0026 Sons",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.09316,
     40.606324,
     -81.09316,
     40.606324
-],
+  ],
   "geometry": {"coordinates":[-81.09316,40.606324],"type":"Point"}
 }

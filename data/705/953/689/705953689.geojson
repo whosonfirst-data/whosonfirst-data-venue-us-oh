@@ -2,63 +2,67 @@
   "id": 705953689,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 Monroe St NW Warren OH 44483",
-    "addr:housenumber":"204",
-    "addr:postcode":"44483",
-    "addr:street":"Monroe St Nw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.822714,41.23962,-80.822714,41.23962",
-    "geom:latitude":41.23962,
-    "geom:longitude":-80.822714,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"204 Monroe St NW",
-    "sg:city":"Warren",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "204 Monroe St NW Warren OH 44483",
+    "addr:housenumber": "204",
+    "addr:postcode": "44483",
+    "addr:street": "Monroe St Nw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.822714,41.239620,-80.822714,41.239620",
+    "geom:latitude": 41.23962,
+    "geom:longitude": -80.822714,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "204 Monroe St NW",
+    "sg:city": "Warren",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 392 5993",
-    "sg:postcode":"44483",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 392 5993",
+    "sg:postcode": "44483",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_02V92A6RDNBguRCJm2AbsJ_41.239620_-80.822714@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_02V92A6RDNBguRCJm2AbsJ_41.239620_-80.822714@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792614,
-    "wof:geomhash":"929c70bc42822b6bfbc5584544a00c7b",
-    "wof:hierarchy":[],
-    "wof:id":705953689,
-    "wof:lastmodified":1472639734,
-    "wof:name":"Arthur G Lapping DO",
-    "wof:parent_id":420535299,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461792614,
+    "wof:geomhash": "766cf4043d893c58e95894a16d8b7318",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705953689
+      }
+    ],
+    "wof:id": 705953689,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Arthur G Lapping DO",
+    "wof:parent_id": 420535299,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.822714,
     41.23962,
     -80.822714,
     41.23962
-],
+  ],
   "geometry": {"coordinates":[-80.822714,41.23962],"type":"Point"}
 }

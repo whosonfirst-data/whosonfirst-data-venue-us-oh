@@ -2,56 +2,60 @@
   "id": 705834721,
   "type": "Feature",
   "properties": {
-    "addr:full":"271 S Sandusky St Tiffin OH 44883",
-    "addr:housenumber":"271",
-    "addr:postcode":"44883",
-    "addr:street":"S Sandusky St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.187404,41.112545,-83.187404,41.112545",
-    "geom:latitude":41.112545,
-    "geom:longitude":-83.187404,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"271 S Sandusky St",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "271 S Sandusky St Tiffin OH 44883",
+    "addr:housenumber": "271",
+    "addr:postcode": "44883",
+    "addr:street": "S Sandusky St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.187404,41.112545,-83.187404,41.112545",
+    "geom:latitude": 41.112545,
+    "geom:longitude": -83.187404,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "271 S Sandusky St",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 447 0201",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3MsOkPq3m2oBfgAS2b98nb_41.112545_-83.187404@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 447 0201",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3MsOkPq3m2oBfgAS2b98nb_41.112545_-83.187404@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789838,
-    "wof:geomhash":"8a2a6b39821f2ef76b887fbcb3b591db",
-    "wof:hierarchy":[],
-    "wof:id":705834721,
-    "wof:lastmodified":1472639374,
-    "wof:name":"Sandusky Street Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461789838,
+    "wof:geomhash": "7d65b0c2af87fc6c738d516ac3ea2d08",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705834721
+      }
+    ],
+    "wof:id": 705834721,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Sandusky Street Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.187404,
     41.112545,
     -83.187404,
     41.112545
-],
+  ],
   "geometry": {"coordinates":[-83.187404,41.112545],"type":"Point"}
 }

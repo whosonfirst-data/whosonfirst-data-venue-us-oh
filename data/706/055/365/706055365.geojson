@@ -2,63 +2,67 @@
   "id": 706055365,
   "type": "Feature",
   "properties": {
-    "addr:full":"132 N Market St East Palestine OH 44413",
-    "addr:housenumber":"132",
-    "addr:postcode":"44413",
-    "addr:street":"N Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.53982,40.834634,-80.53982,40.834634",
-    "geom:latitude":40.834634,
-    "geom:longitude":-80.53982,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"132 N Market St",
-    "sg:city":"East Palestine",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "132 N Market St East Palestine OH 44413",
+    "addr:housenumber": "132",
+    "addr:postcode": "44413",
+    "addr:street": "N Market St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.539820,40.834634,-80.539820,40.834634",
+    "geom:latitude": 40.834634,
+    "geom:longitude": -80.53982,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "132 N Market St",
+    "sg:city": "East Palestine",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 9484",
-    "sg:postcode":"44413",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 9484",
+    "sg:postcode": "44413",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5tnmQvF2Ui6IlBIXPkRu02_40.834634_-80.539820@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5tnmQvF2Ui6IlBIXPkRu02_40.834634_-80.539820@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794718,
-    "wof:geomhash":"079893a7200191005ff7947a290fe9a5",
-    "wof:hierarchy":[],
-    "wof:id":706055365,
-    "wof:lastmodified":1472639136,
-    "wof:name":"Firestone Health Care Inc",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461794718,
+    "wof:geomhash": "d86bf9a21169ad55d21c7d1c3e6800b1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706055365
+      }
+    ],
+    "wof:id": 706055365,
+    "wof:lastmodified": 1638566972,
+    "wof:name": "Firestone Health Care Inc",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -80.53982,
     40.834634,
     -80.53982,
     40.834634
-],
-  "geometry": {"coordinates":[-80.53982000000001,40.834634],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.53982,40.834634],"type":"Point"}
 }

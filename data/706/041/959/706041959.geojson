@@ -2,61 +2,65 @@
   "id": 706041959,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 W Main St Loveland OH 45140",
-    "addr:housenumber":"800",
-    "addr:postcode":"45140",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.27226,39.268119,-84.27226,39.268119",
-    "geom:latitude":39.268119,
-    "geom:longitude":-84.27226,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"800 W Main St",
-    "sg:city":"Loveland",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "800 W Main St Loveland OH 45140",
+    "addr:housenumber": "800",
+    "addr:postcode": "45140",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.272260,39.268119,-84.272260,39.268119",
+    "geom:latitude": 39.268119,
+    "geom:longitude": -84.27226,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "800 W Main St",
+    "sg:city": "Loveland",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 683 1550",
-    "sg:postcode":"45140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 683 1550",
+    "sg:postcode": "45140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_54gcWoOFWDcFx6p5vd1ZSo_39.268119_-84.272260@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_54gcWoOFWDcFx6p5vd1ZSo_39.268119_-84.272260@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794442,
-    "wof:geomhash":"181aca2a8b30f268842bc83343488fb0",
-    "wof:hierarchy":[],
-    "wof:id":706041959,
-    "wof:lastmodified":1472638953,
-    "wof:name":"Westover Village",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1461794442,
+    "wof:geomhash": "ba27774cf79e6fb59b22fe3667a5426f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706041959
+      }
+    ],
+    "wof:id": 706041959,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Westover Village",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -84.27226,
     39.268119,
     -84.27226,
     39.268119
-],
+  ],
   "geometry": {"coordinates":[-84.27226,39.268119],"type":"Point"}
 }

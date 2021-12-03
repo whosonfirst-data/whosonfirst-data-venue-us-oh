@@ -2,61 +2,65 @@
   "id": 705954497,
   "type": "Feature",
   "properties": {
-    "addr:full":"3421 Dale Ln Amelia OH 45102",
-    "addr:housenumber":"3421",
-    "addr:postcode":"45102",
-    "addr:street":"Dale Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.236549,39.021841,-84.236549,39.021841",
-    "geom:latitude":39.021841,
-    "geom:longitude":-84.236549,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3421 Dale Ln",
-    "sg:city":"Amelia",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3421 Dale Ln Amelia OH 45102",
+    "addr:housenumber": "3421",
+    "addr:postcode": "45102",
+    "addr:street": "Dale Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.236549,39.021841,-84.236549,39.021841",
+    "geom:latitude": 39.021841,
+    "geom:longitude": -84.236549,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3421 Dale Ln",
+    "sg:city": "Amelia",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 753 3351",
-    "sg:postcode":"45102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 753 3351",
+    "sg:postcode": "45102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Ibous4fgXlPeF3XHvuEfE_39.021841_-84.236549@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Ibous4fgXlPeF3XHvuEfE_39.021841_-84.236549@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792632,
-    "wof:geomhash":"f71ca8603937f3735ae212094d427b99",
-    "wof:hierarchy":[],
-    "wof:id":705954497,
-    "wof:lastmodified":1472639712,
-    "wof:name":"Readers Choice Books",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dealer"
+    "wof:country": "US",
+    "wof:created": 1461792632,
+    "wof:geomhash": "a20137d774caadf1cb8ccb71b0201182",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705954497
+      }
+    ],
+    "wof:id": 705954497,
+    "wof:lastmodified": 1638567058,
+    "wof:name": "Readers Choice Books",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -84.236549,
     39.021841,
     -84.236549,
     39.021841
-],
+  ],
   "geometry": {"coordinates":[-84.236549,39.021841],"type":"Point"}
 }

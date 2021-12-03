@@ -2,61 +2,65 @@
   "id": 705845405,
   "type": "Feature",
   "properties": {
-    "addr:full":"323 Pleasant Grove Rd Zanesville OH 43701",
-    "addr:housenumber":"323",
-    "addr:postcode":"43701",
-    "addr:street":"Pleasant Grove Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.960326,39.950617,-81.960326,39.950617",
-    "geom:latitude":39.950617,
-    "geom:longitude":-81.960326,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"323 Pleasant Grove Rd",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "323 Pleasant Grove Rd Zanesville OH 43701",
+    "addr:housenumber": "323",
+    "addr:postcode": "43701",
+    "addr:street": "Pleasant Grove Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.960326,39.950617,-81.960326,39.950617",
+    "geom:latitude": 39.950617,
+    "geom:longitude": -81.960326,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "323 Pleasant Grove Rd",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 450 7020",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 450 7020",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6kQBiJ8CwGmPlowflI7pap_39.950617_-81.960326@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6kQBiJ8CwGmPlowflI7pap_39.950617_-81.960326@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790076,
-    "wof:geomhash":"753e4ceeeffec5f8e1e1f816a9e1321c",
-    "wof:hierarchy":[],
-    "wof:id":705845405,
-    "wof:lastmodified":1472639411,
-    "wof:name":"Brad Goff Trucking Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461790076,
+    "wof:geomhash": "2678eb828860b10ab1ac37ad3d46e41a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705845405
+      }
+    ],
+    "wof:id": 705845405,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Brad Goff Trucking Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.960326,
     39.950617,
     -81.960326,
     39.950617
-],
-  "geometry": {"coordinates":[-81.96032599999999,39.950617],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.960326,39.950617],"type":"Point"}
 }

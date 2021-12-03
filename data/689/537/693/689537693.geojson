@@ -2,61 +2,65 @@
   "id": 689537693,
   "type": "Feature",
   "properties": {
-    "addr:full":"12131 New Lexington Ave Highland OH 45132",
-    "addr:housenumber":"12131",
-    "addr:postcode":"45132",
-    "addr:street":"New Lexington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.597371,39.341672,-83.597371,39.341672",
-    "geom:latitude":39.341672,
-    "geom:longitude":-83.597371,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12131 New Lexington Ave",
-    "sg:city":"Highland",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "12131 New Lexington Ave Highland OH 45132",
+    "addr:housenumber": "12131",
+    "addr:postcode": "45132",
+    "addr:street": "New Lexington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.597371,39.341672,-83.597371,39.341672",
+    "geom:latitude": 39.341672,
+    "geom:longitude": -83.597371,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12131 New Lexington Ave",
+    "sg:city": "Highland",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 780 3885",
-    "sg:postcode":"45132",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 780 3885",
+    "sg:postcode": "45132",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4cllPkf8dSlfhjdhcUts7o_39.341672_-83.597371@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4cllPkf8dSlfhjdhcUts7o_39.341672_-83.597371@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774289,
-    "wof:geomhash":"8ff4aebd20c95e9269e310d83aef5b96",
-    "wof:hierarchy":[],
-    "wof:id":689537693,
-    "wof:lastmodified":1472639206,
-    "wof:name":"Village Of Highland",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461774289,
+    "wof:geomhash": "414be3df8d51d63f91ba90f4ac68d4ba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689537693
+      }
+    ],
+    "wof:id": 689537693,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "Village Of Highland",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -83.597371,
     39.341672,
     -83.597371,
     39.341672
-],
+  ],
   "geometry": {"coordinates":[-83.597371,39.341672],"type":"Point"}
 }

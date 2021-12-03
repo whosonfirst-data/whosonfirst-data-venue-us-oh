@@ -2,61 +2,65 @@
   "id": 689933335,
   "type": "Feature",
   "properties": {
-    "addr:full":"226 E Wyandot Ave Upper Sandusky OH 43351",
-    "addr:housenumber":"226 e",
-    "addr:postcode":"43351",
-    "addr:street":"Wyandot Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.27948,40.82758,-83.27948,40.82758",
-    "geom:latitude":40.82758,
-    "geom:longitude":-83.27948,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"226 E Wyandot Ave",
-    "sg:city":"Upper Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "226 E Wyandot Ave Upper Sandusky OH 43351",
+    "addr:housenumber": "226 e",
+    "addr:postcode": "43351",
+    "addr:street": "Wyandot Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.279480,40.827580,-83.279480,40.827580",
+    "geom:latitude": 40.82758,
+    "geom:longitude": -83.27948,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "226 E Wyandot Ave",
+    "sg:city": "Upper Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 294 2328",
-    "sg:postcode":"43351",
-    "sg:province":"OH",
-    "sg:tags":[
-        "crematory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 294 2328",
+    "sg:postcode": "43351",
+    "sg:province": "OH",
+    "sg:tags": [
+      "crematory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3RBVsOuhXAQhfmRnIFuZ58_40.827580_-83.279480@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3RBVsOuhXAQhfmRnIFuZ58_40.827580_-83.279480@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785454,
-    "wof:geomhash":"1ffc9eaf296117c847f7edb41ac69ba5",
-    "wof:hierarchy":[],
-    "wof:id":689933335,
-    "wof:lastmodified":1472640089,
-    "wof:name":"Bringman Clark & Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "crematory"
+    "wof:country": "US",
+    "wof:created": 1461785454,
+    "wof:geomhash": "16712d7f57ba8527b0a4c5abcd602d67",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689933335
+      }
+    ],
+    "wof:id": 689933335,
+    "wof:lastmodified": 1638567107,
+    "wof:name": "Bringman Clark \u0026 Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "crematory"
     ]
-},
+  },
   "bbox": [
     -83.27948,
     40.82758,
     -83.27948,
     40.82758
-],
-  "geometry": {"coordinates":[-83.27948000000001,40.82758],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.27948,40.82758],"type":"Point"}
 }

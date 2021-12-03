@@ -2,68 +2,72 @@
   "id": 706639785,
   "type": "Feature",
   "properties": {
-    "addr:full":"10110 Princeton Glendale Rd Cincinnati OH 45246",
-    "addr:housenumber":"10110",
-    "addr:postcode":"45246",
-    "addr:street":"Princeton Glendale Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.46489,39.305,-84.46489,39.305",
-    "geom:latitude":39.305,
-    "geom:longitude":-84.46489,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10110 Princeton Glendale Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "10110 Princeton Glendale Rd Cincinnati OH 45246",
+    "addr:housenumber": "10110",
+    "addr:postcode": "45246",
+    "addr:street": "Princeton Glendale Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.464890,39.305000,-84.464890,39.305000",
+    "geom:latitude": 39.305,
+    "geom:longitude": -84.46489,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10110 Princeton Glendale Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 874 3345",
-    "sg:postcode":"45246",
-    "sg:province":"OH",
-    "sg:tags":[
-        "inn",
-        "lodging"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 874 3345",
+    "sg:postcode": "45246",
+    "sg:province": "OH",
+    "sg:tags": [
+      "inn",
+      "lodging"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ISolAdS5WC9mohGcVtuuV_39.305000_-84.464890@1303262759"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5ISolAdS5WC9mohGcVtuuV_39.305000_-84.464890@1303262759"
     },
-    "wof:country":"US",
-    "wof:created":1461807570,
-    "wof:geomhash":"791928ff506f45fc60e55cf9743b1d3a",
-    "wof:hierarchy":[],
-    "wof:id":706639785,
-    "wof:lastmodified":1472640253,
-    "wof:name":"Tri County Inn",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "inn",
-        "lodging"
+    "wof:country": "US",
+    "wof:created": 1461807570,
+    "wof:geomhash": "a53c643d91f028ba39a6fc7b56d0d4e9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706639785
+      }
+    ],
+    "wof:id": 706639785,
+    "wof:lastmodified": 1638567151,
+    "wof:name": "Tri County Inn",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "inn",
+      "lodging"
     ]
-},
+  },
   "bbox": [
     -84.46489,
     39.305,
     -84.46489,
     39.305
-],
+  ],
   "geometry": {"coordinates":[-84.46489,39.305],"type":"Point"}
 }

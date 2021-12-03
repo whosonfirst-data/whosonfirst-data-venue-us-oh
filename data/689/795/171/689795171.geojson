@@ -2,61 +2,65 @@
   "id": 689795171,
   "type": "Feature",
   "properties": {
-    "addr:full":"525 Vine St Cincinnati OH 45202",
-    "addr:housenumber":"525",
-    "addr:postcode":"45202",
-    "addr:street":"Vine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.51327,39.102018,-84.51327,39.102018",
-    "geom:latitude":39.102018,
-    "geom:longitude":-84.51327,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"525 Vine St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "525 Vine St Cincinnati OH 45202",
+    "addr:housenumber": "525",
+    "addr:postcode": "45202",
+    "addr:street": "Vine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.513270,39.102018,-84.513270,39.102018",
+    "geom:latitude": 39.102018,
+    "geom:longitude": -84.51327,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "525 Vine St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 345 8580",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 345 8580",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5hH6mpfRumMC1IspyQh88C_39.102018_-84.513270@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5hH6mpfRumMC1IspyQh88C_39.102018_-84.513270@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781711,
-    "wof:geomhash":"a24b9e7d70bc8563e36d2b32658047a3",
-    "wof:hierarchy":[],
-    "wof:id":689795171,
-    "wof:lastmodified":1472639857,
-    "wof:name":"Keycenters",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial"
+    "wof:country": "US",
+    "wof:created": 1461781711,
+    "wof:geomhash": "8d45d243102712aa8fda24470ca1b64c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689795171
+      }
+    ],
+    "wof:id": 689795171,
+    "wof:lastmodified": 1638567055,
+    "wof:name": "Keycenters",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -84.51327,
     39.102018,
     -84.51327,
     39.102018
-],
-  "geometry": {"coordinates":[-84.51327000000001,39.102018],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.51327,39.102018],"type":"Point"}
 }

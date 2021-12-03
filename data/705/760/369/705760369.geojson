@@ -2,65 +2,69 @@
   "id": 705760369,
   "type": "Feature",
   "properties": {
-    "addr:full":"4121 N River Rd W Zanesville OH 43701",
-    "addr:housenumber":"4121",
-    "addr:postcode":"43701",
-    "addr:street":"N River Rd W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.983439,40.0041,-81.983439,40.0041",
-    "geom:latitude":40.0041,
-    "geom:longitude":-81.983439,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4121 N River Rd W",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Livestock Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "4121 N River Rd W Zanesville OH 43701",
+    "addr:housenumber": "4121",
+    "addr:postcode": "43701",
+    "addr:street": "N River Rd W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.983439,40.004100,-81.983439,40.004100",
+    "geom:latitude": 40.0041,
+    "geom:longitude": -81.983439,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4121 N River Rd W",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Livestock Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 6876",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hog",
-        "or",
-        "feedlot"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 6876",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hog",
+      "or",
+      "feedlot"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1B96yJ0OoKOoY1n5nbmNws_40.004100_-81.983439@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1B96yJ0OoKOoY1n5nbmNws_40.004100_-81.983439@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788095,
-    "wof:geomhash":"d34448c923a00441b179d6bd508a10c4",
-    "wof:hierarchy":[],
-    "wof:id":705760369,
-    "wof:lastmodified":1472639182,
-    "wof:name":"Bell Farm",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hog",
-        "or",
-        "feedlot"
+    "wof:country": "US",
+    "wof:created": 1461788095,
+    "wof:geomhash": "f6f61b567c9d1c899097096926acb16b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705760369
+      }
+    ],
+    "wof:id": 705760369,
+    "wof:lastmodified": 1638566971,
+    "wof:name": "Bell Farm",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hog",
+      "or",
+      "feedlot"
     ]
-},
+  },
   "bbox": [
     -81.983439,
     40.0041,
     -81.983439,
     40.0041
-],
+  ],
   "geometry": {"coordinates":[-81.983439,40.0041],"type":"Point"}
 }

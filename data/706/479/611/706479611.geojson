@@ -2,61 +2,65 @@
   "id": 706479611,
   "type": "Feature",
   "properties": {
-    "addr:full":"6060 Glenn Hwy Cambridge OH 43725",
-    "addr:housenumber":"6060",
-    "addr:postcode":"43725",
-    "addr:street":"Glenn Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.628512,40.012352,-81.628512,40.012352",
-    "geom:latitude":40.012352,
-    "geom:longitude":-81.628512,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6060 Glenn Hwy",
-    "sg:city":"Cambridge",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "6060 Glenn Hwy Cambridge OH 43725",
+    "addr:housenumber": "6060",
+    "addr:postcode": "43725",
+    "addr:street": "Glenn Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.628512,40.012352,-81.628512,40.012352",
+    "geom:latitude": 40.012352,
+    "geom:longitude": -81.628512,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6060 Glenn Hwy",
+    "sg:city": "Cambridge",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 432 7850",
-    "sg:postcode":"43725",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 432 7850",
+    "sg:postcode": "43725",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3fGWIQ7dFvM4jSxOBsDmB1_40.012352_-81.628512@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3fGWIQ7dFvM4jSxOBsDmB1_40.012352_-81.628512@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461804035,
-    "wof:geomhash":"de8f517fa5da9b582d1dc84350380558",
-    "wof:hierarchy":[],
-    "wof:id":706479611,
-    "wof:lastmodified":1472640116,
-    "wof:name":"Harvest Christian Fellowship",
-    "wof:parent_id":420534845,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461804035,
+    "wof:geomhash": "6cd554746d1d59f67751e52a51034e77",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706479611
+      }
+    ],
+    "wof:id": 706479611,
+    "wof:lastmodified": 1638567131,
+    "wof:name": "Harvest Christian Fellowship",
+    "wof:parent_id": 420534845,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.628512,
     40.012352,
     -81.628512,
     40.012352
-],
+  ],
   "geometry": {"coordinates":[-81.628512,40.012352],"type":"Point"}
 }

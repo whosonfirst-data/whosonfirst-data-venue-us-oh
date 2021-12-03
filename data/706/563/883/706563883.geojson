@@ -2,65 +2,69 @@
   "id": 706563883,
   "type": "Feature",
   "properties": {
-    "addr:full":"973 High St Wadsworth OH 44281",
-    "addr:housenumber":"973",
-    "addr:postcode":"44281",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.7288,41.048842,-81.7288,41.048842",
-    "geom:latitude":41.048842,
-    "geom:longitude":-81.7288,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"973 High St",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "973 High St Wadsworth OH 44281",
+    "addr:housenumber": "973",
+    "addr:postcode": "44281",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.728800,41.048842,-81.728800,41.048842",
+    "geom:latitude": 41.048842,
+    "geom:longitude": -81.7288,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "973 High St",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/wadsworth/213958-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 336 9242",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/oh/wadsworth/213958-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 336 9242",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dYMcSfXD0ExtwBuc3JKo8_41.048842_-81.728800@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3dYMcSfXD0ExtwBuc3JKo8_41.048842_-81.728800@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805929,
-    "wof:geomhash":"b41e3f2f45cef891e341e5a175df3554",
-    "wof:hierarchy":[],
-    "wof:id":706563883,
-    "wof:lastmodified":1511321252,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":420535073,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1461805929,
+    "wof:geomhash": "b41e3f2f45cef891e341e5a175df3554",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706563883
+      }
+    ],
+    "wof:id": 706563883,
+    "wof:lastmodified": 1638567138,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 420535073,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -81.7288,
     41.048842,
     -81.7288,
     41.048842
-],
-  "geometry": {"coordinates":[-81.72880000000001,41.048842],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.7288,41.048842],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 689784401,
   "type": "Feature",
   "properties": {
-    "addr:full":"212 N Main St London OH 43140",
-    "addr:housenumber":"212",
-    "addr:postcode":"43140",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.456033,39.892719,-83.456033,39.892719",
-    "geom:latitude":39.892719,
-    "geom:longitude":-83.456033,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"212 N Main St",
-    "sg:city":"London",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "212 N Main St London OH 43140",
+    "addr:housenumber": "212",
+    "addr:postcode": "43140",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.456033,39.892719,-83.456033,39.892719",
+    "geom:latitude": 39.892719,
+    "geom:longitude": -83.456033,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "212 N Main St",
+    "sg:city": "London",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 852 3915",
-    "sg:postcode":"43140",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "care"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 852 3915",
+    "sg:postcode": "43140",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "care"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_04myflv3vkGzWcIvVTXLOr_39.892719_-83.456033@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_04myflv3vkGzWcIvVTXLOr_39.892719_-83.456033@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781381,
-    "wof:geomhash":"860582399883dedc47ecb9316da63dcf",
-    "wof:hierarchy":[],
-    "wof:id":689784401,
-    "wof:lastmodified":1472639835,
-    "wof:name":"Hospice Madison County HM Hlth",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "care"
+    "wof:country": "US",
+    "wof:created": 1461781381,
+    "wof:geomhash": "6b011cadcd9055fdb76709995243c8b4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689784401
+      }
+    ],
+    "wof:id": 689784401,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Hospice Madison County HM Hlth",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "care"
     ]
-},
+  },
   "bbox": [
     -83.456033,
     39.892719,
     -83.456033,
     39.892719
-],
-  "geometry": {"coordinates":[-83.45603300000001,39.892719],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.456033,39.892719],"type":"Point"}
 }

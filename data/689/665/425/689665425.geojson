@@ -2,57 +2,61 @@
   "id": 689665425,
   "type": "Feature",
   "properties": {
-    "addr:full":"675 Lewis Center Rd Lewis Center OH 43035",
-    "addr:housenumber":"675",
-    "addr:postcode":"43035",
-    "addr:street":"Lewis Center Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.015602,40.199951,-83.015602,40.199951",
-    "geom:latitude":40.199951,
-    "geom:longitude":-83.015602,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"675 Lewis Center Rd",
-    "sg:city":"Lewis Center",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "675 Lewis Center Rd Lewis Center OH 43035",
+    "addr:housenumber": "675",
+    "addr:postcode": "43035",
+    "addr:street": "Lewis Center Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.015602,40.199951,-83.015602,40.199951",
+    "geom:latitude": 40.199951,
+    "geom:longitude": -83.015602,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "675 Lewis Center Rd",
+    "sg:city": "Lewis Center",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 657 4100",
-    "sg:postcode":"43035",
-    "sg:province":"OH",
-    "sg:website":"www.olentangy.k12.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4CppowAk9ksJaV2OZdcLo5_40.199951_-83.015602@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 657 4100",
+    "sg:postcode": "43035",
+    "sg:province": "OH",
+    "sg:website": "www.olentangy.k12.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4CppowAk9ksJaV2OZdcLo5_40.199951_-83.015602@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778265,
-    "wof:geomhash":"9379fa2b9defb5fa7f03dfc64c75d278",
-    "wof:hierarchy":[],
-    "wof:id":689665425,
-    "wof:lastmodified":1472639577,
-    "wof:name":"Olentangy High School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461778265,
+    "wof:geomhash": "d71835c8378d886ec779f1c6d2911cdb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689665425
+      }
+    ],
+    "wof:id": 689665425,
+    "wof:lastmodified": 1638567009,
+    "wof:name": "Olentangy High School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.015602,
     40.199951,
     -83.015602,
     40.199951
-],
+  ],
   "geometry": {"coordinates":[-83.015602,40.199951],"type":"Point"}
 }

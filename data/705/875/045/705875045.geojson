@@ -2,65 +2,69 @@
   "id": 705875045,
   "type": "Feature",
   "properties": {
-    "addr:full":"6404 Depot Rd Lisbon OH 44432",
-    "addr:housenumber":"6404",
-    "addr:postcode":"44432",
-    "addr:street":"Depot Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.858285,40.80936,-80.858285,40.80936",
-    "geom:latitude":40.80936,
-    "geom:longitude":-80.858285,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6404 Depot Rd",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6404 Depot Rd Lisbon OH 44432",
+    "addr:housenumber": "6404",
+    "addr:postcode": "44432",
+    "addr:street": "Depot Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.858285,40.809360,-80.858285,40.809360",
+    "geom:latitude": 40.80936,
+    "geom:longitude": -80.858285,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6404 Depot Rd",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 222 1664",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 222 1664",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_38d3RKrVu946TtPGdyBQfi_40.809360_-80.858285@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_38d3RKrVu946TtPGdyBQfi_40.809360_-80.858285@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790818,
-    "wof:geomhash":"4e7eb3545fe697e21f909cfc81e06186",
-    "wof:hierarchy":[],
-    "wof:id":705875045,
-    "wof:lastmodified":1472639486,
-    "wof:name":"John Mrugala Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461790818,
+    "wof:geomhash": "0f3e091a9907edc5d1f6212ccab685cb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705875045
+      }
+    ],
+    "wof:id": 705875045,
+    "wof:lastmodified": 1638567024,
+    "wof:name": "John Mrugala Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.858285,
     40.80936,
     -80.858285,
     40.80936
-],
+  ],
   "geometry": {"coordinates":[-80.858285,40.80936],"type":"Point"}
 }

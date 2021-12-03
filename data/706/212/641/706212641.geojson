@@ -2,56 +2,60 @@
   "id": 706212641,
   "type": "Feature",
   "properties": {
-    "addr:full":"6719 Maplewood Ave Sylvania OH 43560",
-    "addr:housenumber":"6719",
-    "addr:postcode":"43560",
-    "addr:street":"Maplewood Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.706509,41.716948,-83.706509,41.716948",
-    "geom:latitude":41.716948,
-    "geom:longitude":-83.706509,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6719 Maplewood Ave",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        }
+    "addr:full": "6719 Maplewood Ave Sylvania OH 43560",
+    "addr:housenumber": "6719",
+    "addr:postcode": "43560",
+    "addr:street": "Maplewood Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.706509,41.716948,-83.706509,41.716948",
+    "geom:latitude": 41.716948,
+    "geom:longitude": -83.706509,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6719 Maplewood Ave",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 5580",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2JkT1YT05Pf8fcFXWLd3y3_41.716948_-83.706509@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 5580",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2JkT1YT05Pf8fcFXWLd3y3_41.716948_-83.706509@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798346,
-    "wof:geomhash":"93a6e2cf9c3d65ba739df28cc80a99ac",
-    "wof:hierarchy":[],
-    "wof:id":706212641,
-    "wof:lastmodified":1472639531,
-    "wof:name":"Kostas Kaffe & Gift Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461798346,
+    "wof:geomhash": "89adf0cfe0e1fe2772f20843d83e3e42",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706212641
+      }
+    ],
+    "wof:id": 706212641,
+    "wof:lastmodified": 1638567050,
+    "wof:name": "Kostas Kaffe \u0026 Gift Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.706509,
     41.716948,
     -83.706509,
     41.716948
-],
+  ],
   "geometry": {"coordinates":[-83.706509,41.716948],"type":"Point"}
 }

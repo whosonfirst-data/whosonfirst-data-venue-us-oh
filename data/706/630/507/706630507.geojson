@@ -2,68 +2,72 @@
   "id": 706630507,
   "type": "Feature",
   "properties": {
-    "addr:full":"9456 Reading Rd Cincinnati OH 45215",
-    "addr:housenumber":"9456",
-    "addr:postcode":"45215",
-    "addr:street":"Reading Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.433682,39.234231,-84.433682,39.234231",
-    "geom:latitude":39.234231,
-    "geom:longitude":-84.433682,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9456 Reading Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Manufacturing",
-            "subcategory":"Building Materials",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "9456 Reading Rd Cincinnati OH 45215",
+    "addr:housenumber": "9456",
+    "addr:postcode": "45215",
+    "addr:street": "Reading Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.433682,39.234231,-84.433682,39.234231",
+    "geom:latitude": 39.234231,
+    "geom:longitude": -84.433682,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9456 Reading Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Manufacturing",
+        "subcategory": "Building Materials",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 554 4545",
-    "sg:postcode":"45215",
-    "sg:province":"OH",
-    "sg:tags":[
-        "materials-wholesale",
-        "manufacturer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 554 4545",
+    "sg:postcode": "45215",
+    "sg:province": "OH",
+    "sg:tags": [
+      "materials-wholesale",
+      "manufacturer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7BzMDJwH1QB1H1DlOZFUKv_39.234231_-84.433682@1303262758"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7BzMDJwH1QB1H1DlOZFUKv_39.234231_-84.433682@1303262758"
     },
-    "wof:country":"US",
-    "wof:created":1461807380,
-    "wof:geomhash":"efb28d515194fef2ade43a1597ef8ed8",
-    "wof:hierarchy":[],
-    "wof:id":706630507,
-    "wof:lastmodified":1472640246,
-    "wof:name":"C H K Incorporated",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "materials-wholesale",
-        "manufacturer"
+    "wof:country": "US",
+    "wof:created": 1461807380,
+    "wof:geomhash": "d1c3cbf936c159b3cdd910ebb3739f52",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706630507
+      }
+    ],
+    "wof:id": 706630507,
+    "wof:lastmodified": 1638567148,
+    "wof:name": "C H K Incorporated",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "materials-wholesale",
+      "manufacturer"
     ]
-},
+  },
   "bbox": [
     -84.433682,
     39.234231,
     -84.433682,
     39.234231
-],
+  ],
   "geometry": {"coordinates":[-84.433682,39.234231],"type":"Point"}
 }

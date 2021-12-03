@@ -2,63 +2,67 @@
   "id": 689888167,
   "type": "Feature",
   "properties": {
-    "addr:full":"5555 Transportation Blvd Cleveland OH 44125",
-    "addr:housenumber":"5555",
-    "addr:postcode":"44125",
-    "addr:street":"Transportation Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.61596,41.41642,-81.61596,41.41642",
-    "geom:latitude":41.41642,
-    "geom:longitude":-81.61596,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5555 Transportation Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5555 Transportation Blvd Cleveland OH 44125",
+    "addr:housenumber": "5555",
+    "addr:postcode": "44125",
+    "addr:street": "Transportation Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.615960,41.416420,-81.615960,41.416420",
+    "geom:latitude": 41.41642,
+    "geom:longitude": -81.61596,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5555 Transportation Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 518 3298",
-    "sg:postcode":"44125",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 518 3298",
+    "sg:postcode": "44125",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5KblK54Dqc1IPd1KoZcmq9_41.416420_-81.615960@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5KblK54Dqc1IPd1KoZcmq9_41.416420_-81.615960@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461784260,
-    "wof:geomhash":"1bca8b5770915961fb451a72b8cc07af",
-    "wof:hierarchy":[],
-    "wof:id":689888167,
-    "wof:lastmodified":1472640024,
-    "wof:name":"Cleveland Nasal Sinus & Sleep",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461784260,
+    "wof:geomhash": "24dad95c514f342e8adc8ea0fd8605dc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689888167
+      }
+    ],
+    "wof:id": 689888167,
+    "wof:lastmodified": 1638567097,
+    "wof:name": "Cleveland Nasal Sinus \u0026 Sleep",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.61596,
     41.41642,
     -81.61596,
     41.41642
-],
+  ],
   "geometry": {"coordinates":[-81.61596,41.41642],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706466275,
   "type": "Feature",
   "properties": {
-    "addr:full":"5720 Hamilton Mason Rd Hamilton OH 45011",
-    "addr:housenumber":"5720",
-    "addr:postcode":"45011",
-    "addr:street":"Hamilton Mason Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.425691,39.372411,-84.425691,39.372411",
-    "geom:latitude":39.372411,
-    "geom:longitude":-84.425691,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5720 Hamilton Mason Rd",
-    "sg:city":"Hamilton",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "5720 Hamilton Mason Rd Hamilton OH 45011",
+    "addr:housenumber": "5720",
+    "addr:postcode": "45011",
+    "addr:street": "Hamilton Mason Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.425691,39.372411,-84.425691,39.372411",
+    "geom:latitude": 39.372411,
+    "geom:longitude": -84.425691,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5720 Hamilton Mason Rd",
+    "sg:city": "Hamilton",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 777 4322",
-    "sg:postcode":"45011",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 777 4322",
+    "sg:postcode": "45011",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_72qKRyycwfsKRi27uVaAl2_39.372411_-84.425691@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_72qKRyycwfsKRi27uVaAl2_39.372411_-84.425691@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803772,
-    "wof:geomhash":"33fb5af71409f603dad2e73d17a1597a",
-    "wof:hierarchy":[],
-    "wof:id":706466275,
-    "wof:lastmodified":1472640077,
-    "wof:name":"Saint Maximillian Kolbe Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461803772,
+    "wof:geomhash": "076b6d63ad7e42557d79c30b16eb0bc3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706466275
+      }
+    ],
+    "wof:id": 706466275,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Saint Maximillian Kolbe Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.425691,
     39.372411,
     -84.425691,
     39.372411
-],
+  ],
   "geometry": {"coordinates":[-84.425691,39.372411],"type":"Point"}
 }

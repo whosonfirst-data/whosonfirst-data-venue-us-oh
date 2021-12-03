@@ -2,61 +2,65 @@
   "id": 689741573,
   "type": "Feature",
   "properties": {
-    "addr:full":"203 N Reed Ave Malvern OH 44644",
-    "addr:housenumber":"203",
-    "addr:postcode":"44644",
-    "addr:street":"N Reed Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.180564,40.690517,-81.180564,40.690517",
-    "geom:latitude":40.690517,
-    "geom:longitude":-81.180564,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"203 N Reed Ave",
-    "sg:city":"Malvern",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Tanning Parlor",
-            "type":"Services"
-        }
+    "addr:full": "203 N Reed Ave Malvern OH 44644",
+    "addr:housenumber": "203",
+    "addr:postcode": "44644",
+    "addr:street": "N Reed Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.180564,40.690517,-81.180564,40.690517",
+    "geom:latitude": 40.690517,
+    "geom:longitude": -81.180564,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "203 N Reed Ave",
+    "sg:city": "Malvern",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Tanning Parlor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 863 7773",
-    "sg:postcode":"44644",
-    "sg:province":"OH",
-    "sg:tags":[
-        "salon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 863 7773",
+    "sg:postcode": "44644",
+    "sg:province": "OH",
+    "sg:tags": [
+      "salon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2SRQ15A1fbboyZMmdc5mRS_40.690517_-81.180564@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2SRQ15A1fbboyZMmdc5mRS_40.690517_-81.180564@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780237,
-    "wof:geomhash":"fae25e1e6287037b2df299b3cbcbbd39",
-    "wof:hierarchy":[],
-    "wof:id":689741573,
-    "wof:lastmodified":1472639779,
-    "wof:name":"Town Tropics",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "salon"
+    "wof:country": "US",
+    "wof:created": 1461780237,
+    "wof:geomhash": "1defccfd0e11efbb72ad135dc4a40079",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689741573
+      }
+    ],
+    "wof:id": 689741573,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Town Tropics",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "salon"
     ]
-},
+  },
   "bbox": [
     -81.180564,
     40.690517,
     -81.180564,
     40.690517
-],
+  ],
   "geometry": {"coordinates":[-81.180564,40.690517],"type":"Point"}
 }

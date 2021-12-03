@@ -2,63 +2,67 @@
   "id": 689664707,
   "type": "Feature",
   "properties": {
-    "addr:full":"444 W Harding Rd Springfield OH 45504",
-    "addr:housenumber":"444",
-    "addr:postcode":"45504",
-    "addr:street":"W Harding Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.817008,39.94614,-83.817008,39.94614",
-    "geom:latitude":39.94614,
-    "geom:longitude":-83.817008,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"444 W Harding Rd",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "444 W Harding Rd Springfield OH 45504",
+    "addr:housenumber": "444",
+    "addr:postcode": "45504",
+    "addr:street": "W Harding Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.817008,39.946140,-83.817008,39.946140",
+    "geom:latitude": 39.94614,
+    "geom:longitude": -83.817008,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "444 W Harding Rd",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 390 2479",
-    "sg:postcode":"45504",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 390 2479",
+    "sg:postcode": "45504",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_105LZG8xKjTscu4LWNPwJt_39.946140_-83.817008@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_105LZG8xKjTscu4LWNPwJt_39.946140_-83.817008@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778251,
-    "wof:geomhash":"4b0f873f8ee513d6d3f6d5132bf8879d",
-    "wof:hierarchy":[],
-    "wof:id":689664707,
-    "wof:lastmodified":1472639588,
-    "wof:name":"Dayton Colon & Rectal Ctr",
-    "wof:parent_id":420559033,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461778251,
+    "wof:geomhash": "3cdb153e3ea926027ec565c3d16dc7f7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689664707
+      }
+    ],
+    "wof:id": 689664707,
+    "wof:lastmodified": 1638567008,
+    "wof:name": "Dayton Colon \u0026 Rectal Ctr",
+    "wof:parent_id": 420559033,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.817008,
     39.94614,
     -83.817008,
     39.94614
-],
+  ],
   "geometry": {"coordinates":[-83.817008,39.94614],"type":"Point"}
 }

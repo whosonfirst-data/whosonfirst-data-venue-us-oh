@@ -2,56 +2,60 @@
   "id": 706099661,
   "type": "Feature",
   "properties": {
-    "addr:full":"20878 Sun Meadow Trl Strongsville OH 44149",
-    "addr:housenumber":"20878",
-    "addr:postcode":"44149",
-    "addr:street":"Sun Meadow Trl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.856826,41.292098,-81.856826,41.292098",
-    "geom:latitude":41.292098,
-    "geom:longitude":-81.856826,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20878 Sun Meadow Trl",
-    "sg:city":"Strongsville",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Pest Control",
-            "type":"Services"
-        }
+    "addr:full": "20878 Sun Meadow Trl Strongsville OH 44149",
+    "addr:housenumber": "20878",
+    "addr:postcode": "44149",
+    "addr:street": "Sun Meadow Trl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.856826,41.292098,-81.856826,41.292098",
+    "geom:latitude": 41.292098,
+    "geom:longitude": -81.856826,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20878 Sun Meadow Trl",
+    "sg:city": "Strongsville",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Pest Control",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 572 4663",
-    "sg:postcode":"44149",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2SSWlR5ScciFCRNkUJotwH_41.292098_-81.856826@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 572 4663",
+    "sg:postcode": "44149",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2SSWlR5ScciFCRNkUJotwH_41.292098_-81.856826@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795776,
-    "wof:geomhash":"b3e09b1d10071e10379c1c1c971d9e59",
-    "wof:hierarchy":[],
-    "wof:id":706099661,
-    "wof:lastmodified":1472639256,
-    "wof:name":"B & B Exterminating Svc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461795776,
+    "wof:geomhash": "29e4f34753431f82a80b02122c675705",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706099661
+      }
+    ],
+    "wof:id": 706099661,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "B \u0026 B Exterminating Svc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.856826,
     41.292098,
     -81.856826,
     41.292098
-],
+  ],
   "geometry": {"coordinates":[-81.856826,41.292098],"type":"Point"}
 }

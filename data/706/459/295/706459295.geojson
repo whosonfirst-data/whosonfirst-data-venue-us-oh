@@ -2,61 +2,65 @@
   "id": 706459295,
   "type": "Feature",
   "properties": {
-    "addr:full":"41 S State St Phillipsburg OH 45354",
-    "addr:housenumber":"41",
-    "addr:postcode":"45354",
-    "addr:street":"S State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.399207,39.902166,-84.399207,39.902166",
-    "geom:latitude":39.902166,
-    "geom:longitude":-84.399207,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"41 S State St",
-    "sg:city":"Phillipsburg",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "41 S State St Phillipsburg OH 45354",
+    "addr:housenumber": "41",
+    "addr:postcode": "45354",
+    "addr:street": "S State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.399207,39.902166,-84.399207,39.902166",
+    "geom:latitude": 39.902166,
+    "geom:longitude": -84.399207,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "41 S State St",
+    "sg:city": "Phillipsburg",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 884 5563",
-    "sg:postcode":"45354",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 884 5563",
+    "sg:postcode": "45354",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_71arLKLlZnhdiU9yIN7SbW_39.902166_-84.399207@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_71arLKLlZnhdiU9yIN7SbW_39.902166_-84.399207@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803628,
-    "wof:geomhash":"10ba00cf593ba99f9c41757bb2a68e3b",
-    "wof:hierarchy":[],
-    "wof:id":706459295,
-    "wof:lastmodified":1472640042,
-    "wof:name":"Phillipsburg United Methodist",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461803628,
+    "wof:geomhash": "09d48e81f5ab2ff3c0837dc5cfb5b013",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706459295
+      }
+    ],
+    "wof:id": 706459295,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Phillipsburg United Methodist",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -84.399207,
     39.902166,
     -84.399207,
     39.902166
-],
+  ],
   "geometry": {"coordinates":[-84.399207,39.902166],"type":"Point"}
 }

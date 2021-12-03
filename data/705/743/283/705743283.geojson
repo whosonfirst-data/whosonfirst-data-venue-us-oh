@@ -2,58 +2,62 @@
   "id": 705743283,
   "type": "Feature",
   "properties": {
-    "addr:full":"3487 Cleveland Ave Columbus OH 43224",
-    "addr:housenumber":"3487",
-    "addr:postcode":"43224",
-    "addr:street":"Cleveland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-82.96344,40.035451,-82.96344,40.035451",
-    "geom:latitude":40.035451,
-    "geom:longitude":-82.96344,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3487 Cleveland Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Clothing, Apparel, & Fashions",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3487 Cleveland Ave Columbus OH 43224",
+    "addr:housenumber": "3487",
+    "addr:postcode": "43224",
+    "addr:street": "Cleveland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-82.963440,40.035451,-82.963440,40.035451",
+    "geom:latitude": 40.035451,
+    "geom:longitude": -82.96344,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3487 Cleveland Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 267 8318",
-    "sg:postcode":"43224",
-    "sg:province":"OH",
-    "sg:website":"www.dots.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_327bmbHogHBan2VPZSHY47_40.035451_-82.963440@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 267 8318",
+    "sg:postcode": "43224",
+    "sg:province": "OH",
+    "sg:website": "www.dots.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_327bmbHogHBan2VPZSHY47_40.035451_-82.963440@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787714,
-    "wof:geomhash":"632a2b997a1d3a11d90acb42fbe99c64",
-    "wof:hierarchy":[],
-    "wof:id":705743283,
-    "wof:lastmodified":1491926700,
-    "wof:name":"Dots Fashions",
-    "wof:parent_id":85811437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461787714,
+    "wof:geomhash": "e58d583842ad7d6733ca6715d7e1cbe9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705743283
+      }
+    ],
+    "wof:id": 705743283,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Dots Fashions",
+    "wof:parent_id": 85811437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.96344,
     40.035451,
     -82.96344,
     40.035451
-],
-  "geometry": {"coordinates":[-82.96344000000001,40.035451],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.96344,40.035451],"type":"Point"}
 }

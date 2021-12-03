@@ -2,63 +2,67 @@
   "id": 706305641,
   "type": "Feature",
   "properties": {
-    "addr:full":"719 N Union Ave Alliance OH 44601",
-    "addr:housenumber":"719",
-    "addr:postcode":"44601",
-    "addr:street":"N Union Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.105744,40.928503,-81.105744,40.928503",
-    "geom:latitude":40.928503,
-    "geom:longitude":-81.105744,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"719 N Union Ave",
-    "sg:city":"Alliance",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "719 N Union Ave Alliance OH 44601",
+    "addr:housenumber": "719",
+    "addr:postcode": "44601",
+    "addr:street": "N Union Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.105744,40.928503,-81.105744,40.928503",
+    "geom:latitude": 40.928503,
+    "geom:longitude": -81.105744,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "719 N Union Ave",
+    "sg:city": "Alliance",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 821 7010",
-    "sg:postcode":"44601",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating",
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 821 7010",
+    "sg:postcode": "44601",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1GhW8fAE4GwXMVQxMvu9MF_40.928503_-81.105744@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1GhW8fAE4GwXMVQxMvu9MF_40.928503_-81.105744@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800424,
-    "wof:geomhash":"731fd7b0329a535a1ba7d767731ac8d2",
-    "wof:hierarchy":[],
-    "wof:id":706305641,
-    "wof:lastmodified":1472639754,
-    "wof:name":"Al & Dave's Pizza",
-    "wof:parent_id":420535235,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating",
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461800424,
+    "wof:geomhash": "bd0b6def4e2ff5b2dc664da228b67e38",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706305641
+      }
+    ],
+    "wof:id": 706305641,
+    "wof:lastmodified": 1638567081,
+    "wof:name": "Al \u0026 Dave's Pizza",
+    "wof:parent_id": 420535235,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -81.105744,
     40.928503,
     -81.105744,
     40.928503
-],
+  ],
   "geometry": {"coordinates":[-81.105744,40.928503],"type":"Point"}
 }

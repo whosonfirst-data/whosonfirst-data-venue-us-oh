@@ -2,56 +2,60 @@
   "id": 689622171,
   "type": "Feature",
   "properties": {
-    "addr:full":"11206 Stonecreek Rd SW Newcomerstown OH 43832",
-    "addr:housenumber":"11206",
-    "addr:postcode":"43832",
-    "addr:street":"Stonecreek Rd Sw",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.573143,40.320389,-81.573143,40.320389",
-    "geom:latitude":40.320389,
-    "geom:longitude":-81.573143,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11206 Stonecreek Rd SW",
-    "sg:city":"Newcomerstown",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Dairy Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "11206 Stonecreek Rd SW Newcomerstown OH 43832",
+    "addr:housenumber": "11206",
+    "addr:postcode": "43832",
+    "addr:street": "Stonecreek Rd Sw",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.573143,40.320389,-81.573143,40.320389",
+    "geom:latitude": 40.320389,
+    "geom:longitude": -81.573143,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11206 Stonecreek Rd SW",
+    "sg:city": "Newcomerstown",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Dairy Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 498 7719",
-    "sg:postcode":"43832",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Ioan9A7AxcUpEqQQB9wLT_40.320389_-81.573143@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 498 7719",
+    "sg:postcode": "43832",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Ioan9A7AxcUpEqQQB9wLT_40.320389_-81.573143@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776959,
-    "wof:geomhash":"4f2b9797f3c12b4418c2f1cf3ed858a8",
-    "wof:hierarchy":[],
-    "wof:id":689622171,
-    "wof:lastmodified":1472639459,
-    "wof:name":"Pine Grove Farm",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461776959,
+    "wof:geomhash": "589c20d14fd661d325c8d00a53e47f12",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689622171
+      }
+    ],
+    "wof:id": 689622171,
+    "wof:lastmodified": 1638567000,
+    "wof:name": "Pine Grove Farm",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.573143,
     40.320389,
     -81.573143,
     40.320389
-],
+  ],
   "geometry": {"coordinates":[-81.573143,40.320389],"type":"Point"}
 }

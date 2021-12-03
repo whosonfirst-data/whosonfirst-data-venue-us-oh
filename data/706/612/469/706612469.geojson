@@ -2,61 +2,65 @@
   "id": 706612469,
   "type": "Feature",
   "properties": {
-    "addr:full":"15132 Friendsville Rd Burbank OH 44214",
-    "addr:housenumber":"",
-    "addr:postcode":"15132;44214",
-    "addr:street":"Friendsville Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.957802,40.9828,-81.957802,40.9828",
-    "geom:latitude":40.9828,
-    "geom:longitude":-81.957802,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"15132 Friendsville Rd",
-    "sg:city":"Burbank",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Storage",
-            "type":"Services"
-        }
+    "addr:full": "15132 Friendsville Rd Burbank OH 44214",
+    "addr:housenumber": "",
+    "addr:postcode": "15132;44214",
+    "addr:street": "Friendsville Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.957802,40.982800,-81.957802,40.982800",
+    "geom:latitude": 40.9828,
+    "geom:longitude": -81.957802,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "15132 Friendsville Rd",
+    "sg:city": "Burbank",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Storage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 435 6786",
-    "sg:postcode":"44214",
-    "sg:province":"OH",
-    "sg:tags":[
-        "self"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 435 6786",
+    "sg:postcode": "44214",
+    "sg:province": "OH",
+    "sg:tags": [
+      "self"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3CNvlddqs6dj4tG5VGfK4Q_40.982800_-81.957802@1303262755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3CNvlddqs6dj4tG5VGfK4Q_40.982800_-81.957802@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806975,
-    "wof:geomhash":"a163eb67a4d8874c4379c116c15abc16",
-    "wof:hierarchy":[],
-    "wof:id":706612469,
-    "wof:lastmodified":1472640227,
-    "wof:name":"Wagner's Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "self"
+    "wof:country": "US",
+    "wof:created": 1461806975,
+    "wof:geomhash": "b39bed4554fbc27a16362b056ba24d90",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706612469
+      }
+    ],
+    "wof:id": 706612469,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Wagner's Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "self"
     ]
-},
+  },
   "bbox": [
     -81.957802,
     40.9828,
     -81.957802,
     40.9828
-],
+  ],
   "geometry": {"coordinates":[-81.957802,40.9828],"type":"Point"}
 }

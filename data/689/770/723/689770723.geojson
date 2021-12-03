@@ -2,63 +2,67 @@
   "id": 689770723,
   "type": "Feature",
   "properties": {
-    "addr:full":"321 W Main St Van Wert OH 45891",
-    "addr:housenumber":"321",
-    "addr:postcode":"45891",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.587527,40.870025,-84.587527,40.870025",
-    "geom:latitude":40.870025,
-    "geom:longitude":-84.587527,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"321 W Main St",
-    "sg:city":"Van Wert",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "321 W Main St Van Wert OH 45891",
+    "addr:housenumber": "321",
+    "addr:postcode": "45891",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.587527,40.870025,-84.587527,40.870025",
+    "geom:latitude": 40.870025,
+    "geom:longitude": -84.587527,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "321 W Main St",
+    "sg:city": "Van Wert",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 238 1464",
-    "sg:postcode":"45891",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 238 1464",
+    "sg:postcode": "45891",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ZyiPeGDlQXP93scXEUMPz_40.870025_-84.587527@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ZyiPeGDlQXP93scXEUMPz_40.870025_-84.587527@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781030,
-    "wof:geomhash":"f26ef6b261d2fe646bc398ce0ea4aa23",
-    "wof:hierarchy":[],
-    "wof:id":689770723,
-    "wof:lastmodified":1472639831,
-    "wof:name":"Philip O'Donnell MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461781030,
+    "wof:geomhash": "5b1453419ffe3428d0e66d34d13f8b67",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689770723
+      }
+    ],
+    "wof:id": 689770723,
+    "wof:lastmodified": 1638567049,
+    "wof:name": "Philip O'Donnell MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.587527,
     40.870025,
     -84.587527,
     40.870025
-],
-  "geometry": {"coordinates":[-84.58752699999999,40.870025],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.587527,40.870025],"type":"Point"}
 }

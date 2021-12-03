@@ -2,63 +2,67 @@
   "id": 705852443,
   "type": "Feature",
   "properties": {
-    "addr:full":"1180 S McCord Rd Holland OH 43528",
-    "addr:housenumber":"1180",
-    "addr:postcode":"43528",
-    "addr:street":"S Mccord Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.703464,41.61888,-83.703464,41.61888",
-    "geom:latitude":41.61888,
-    "geom:longitude":-83.703464,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1180 S McCord Rd",
-    "sg:city":"Holland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1180 S McCord Rd Holland OH 43528",
+    "addr:housenumber": "1180",
+    "addr:postcode": "43528",
+    "addr:street": "S Mccord Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.703464,41.618880,-83.703464,41.618880",
+    "geom:latitude": 41.61888,
+    "geom:longitude": -83.703464,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1180 S McCord Rd",
+    "sg:city": "Holland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 866 4063",
-    "sg:postcode":"43528",
-    "sg:province":"OH",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 866 4063",
+    "sg:postcode": "43528",
+    "sg:province": "OH",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3TMHT1rpQlmHoIzlwB58Ne_41.618880_-83.703464@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3TMHT1rpQlmHoIzlwB58Ne_41.618880_-83.703464@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790242,
-    "wof:geomhash":"d1b4fec32442e075dc83ad7b707a8175",
-    "wof:hierarchy":[],
-    "wof:id":705852443,
-    "wof:lastmodified":1472639409,
-    "wof:name":"Lock-It-Up Self Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461790242,
+    "wof:geomhash": "0baaed92f7480165096efb12fec25cec",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705852443
+      }
+    ],
+    "wof:id": 705852443,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Lock-It-Up Self Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -83.703464,
     41.61888,
     -83.703464,
     41.61888
-],
+  ],
   "geometry": {"coordinates":[-83.703464,41.61888],"type":"Point"}
 }

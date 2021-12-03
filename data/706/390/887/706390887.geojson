@@ -2,63 +2,67 @@
   "id": 706390887,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 Selhorst Dr Ottawa OH 45875",
-    "addr:housenumber":"110",
-    "addr:postcode":"45875",
-    "addr:street":"Selhorst Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.02303,41.021821,-84.02303,41.021821",
-    "geom:latitude":41.021821,
-    "geom:longitude":-84.02303,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"110 Selhorst Dr",
-    "sg:city":"Ottawa",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "110 Selhorst Dr Ottawa OH 45875",
+    "addr:housenumber": "110",
+    "addr:postcode": "45875",
+    "addr:street": "Selhorst Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.023030,41.021821,-84.023030,41.021821",
+    "geom:latitude": 41.021821,
+    "geom:longitude": -84.02303,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "110 Selhorst Dr",
+    "sg:city": "Ottawa",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 523 6329",
-    "sg:postcode":"45875",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 523 6329",
+    "sg:postcode": "45875",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5NQPLZWjmQ7nNA2PyuDrlq_41.021821_-84.023030@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5NQPLZWjmQ7nNA2PyuDrlq_41.021821_-84.023030@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802222,
-    "wof:geomhash":"f01d79389d053d0e76aefbc8eeb61e26",
-    "wof:hierarchy":[],
-    "wof:id":706390887,
-    "wof:lastmodified":1472639983,
-    "wof:name":"Family & Sports Medicine Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802222,
+    "wof:geomhash": "66190720f2505a209a15903d11b4c178",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706390887
+      }
+    ],
+    "wof:id": 706390887,
+    "wof:lastmodified": 1638567109,
+    "wof:name": "Family \u0026 Sports Medicine Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.02303,
     41.021821,
     -84.02303,
     41.021821
-],
-  "geometry": {"coordinates":[-84.02303000000001,41.021821],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.02303,41.021821],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706381151,
   "type": "Feature",
   "properties": {
-    "addr:full":"8420 Beechmont Ave Cincinnati OH 45255",
-    "addr:housenumber":"8420",
-    "addr:postcode":"45255",
-    "addr:street":"Beechmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.320813,39.072386,-84.320813,39.072386",
-    "geom:latitude":39.072386,
-    "geom:longitude":-84.320813,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8420 Beechmont Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "8420 Beechmont Ave Cincinnati OH 45255",
+    "addr:housenumber": "8420",
+    "addr:postcode": "45255",
+    "addr:street": "Beechmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.320813,39.072386,-84.320813,39.072386",
+    "geom:latitude": 39.072386,
+    "geom:longitude": -84.320813,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8420 Beechmont Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 474 6217",
-    "sg:postcode":"45255",
-    "sg:province":"OH",
-    "sg:tags":[
-        "brake"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 474 6217",
+    "sg:postcode": "45255",
+    "sg:province": "OH",
+    "sg:tags": [
+      "brake"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1V091I1e2T1c8cIm3QfaKs_39.072386_-84.320813@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1V091I1e2T1c8cIm3QfaKs_39.072386_-84.320813@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802028,
-    "wof:geomhash":"a13a62a74e4644db89b247fe8ccc63b9",
-    "wof:hierarchy":[],
-    "wof:id":706381151,
-    "wof:lastmodified":1472639950,
-    "wof:name":"Brake Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "brake"
+    "wof:country": "US",
+    "wof:created": 1461802028,
+    "wof:geomhash": "47241bee09b179fffae9dea685685493",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706381151
+      }
+    ],
+    "wof:id": 706381151,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Brake Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "brake"
     ]
-},
+  },
   "bbox": [
     -84.320813,
     39.072386,
     -84.320813,
     39.072386
-],
+  ],
   "geometry": {"coordinates":[-84.320813,39.072386],"type":"Point"}
 }

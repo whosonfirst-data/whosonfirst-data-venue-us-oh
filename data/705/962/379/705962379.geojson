@@ -2,61 +2,65 @@
   "id": 705962379,
   "type": "Feature",
   "properties": {
-    "addr:full":"1460 Upper Valley Pike Springfield OH 45504",
-    "addr:housenumber":"1460",
-    "addr:postcode":"45504",
-    "addr:street":"Upper Valley Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.851785,39.94765,-83.851785,39.94765",
-    "geom:latitude":39.94765,
-    "geom:longitude":-83.851785,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1460 Upper Valley Pike",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1460 Upper Valley Pike Springfield OH 45504",
+    "addr:housenumber": "1460",
+    "addr:postcode": "45504",
+    "addr:street": "Upper Valley Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.851785,39.947650,-83.851785,39.947650",
+    "geom:latitude": 39.94765,
+    "geom:longitude": -83.851785,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1460 Upper Valley Pike",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 322 5432",
-    "sg:postcode":"45504",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 322 5432",
+    "sg:postcode": "45504",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ywLbnG8u8XLpkjcGgGIpP_39.947650_-83.851785@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3ywLbnG8u8XLpkjcGgGIpP_39.947650_-83.851785@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792805,
-    "wof:geomhash":"64b964f3d2cc9fd284e087fdb30e2477",
-    "wof:hierarchy":[],
-    "wof:id":705962379,
-    "wof:lastmodified":1472639720,
-    "wof:name":"Hunan East",
-    "wof:parent_id":420534597,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461792805,
+    "wof:geomhash": "fc0320fa3f83aafce7933cc3fd9d5b75",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705962379
+      }
+    ],
+    "wof:id": 705962379,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Hunan East",
+    "wof:parent_id": 420534597,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.851785,
     39.94765,
     -83.851785,
     39.94765
-],
-  "geometry": {"coordinates":[-83.85178500000001,39.94765],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.851785,39.94765],"type":"Point"}
 }

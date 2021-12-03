@@ -2,56 +2,60 @@
   "id": 706178665,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 E Main St Troy OH 45373",
-    "addr:housenumber":"123",
-    "addr:postcode":"45373",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.201505,40.038938,-84.201505,40.038938",
-    "geom:latitude":40.038938,
-    "geom:longitude":-84.201505,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 E Main St",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "123 E Main St Troy OH 45373",
+    "addr:housenumber": "123",
+    "addr:postcode": "45373",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.201505,40.038938,-84.201505,40.038938",
+    "geom:latitude": 40.038938,
+    "geom:longitude": -84.201505,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 E Main St",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 440 0405",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1cTaHwnnEa4UiyiyAt0c2R_40.038938_-84.201505@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 440 0405",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1cTaHwnnEa4UiyiyAt0c2R_40.038938_-84.201505@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797605,
-    "wof:geomhash":"45c64ca140877c849ee0855e7d12cc59",
-    "wof:hierarchy":[],
-    "wof:id":706178665,
-    "wof:lastmodified":1472639431,
-    "wof:name":"Salon Inspired",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461797605,
+    "wof:geomhash": "025fec9ff60d9184e76a51ac8f97fb23",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706178665
+      }
+    ],
+    "wof:id": 706178665,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Salon Inspired",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.201505,
     40.038938,
     -84.201505,
     40.038938
-],
+  ],
   "geometry": {"coordinates":[-84.201505,40.038938],"type":"Point"}
 }

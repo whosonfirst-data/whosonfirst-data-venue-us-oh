@@ -2,67 +2,71 @@
   "id": 706456649,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 E 4th St Cincinnati OH 45202",
-    "addr:housenumber":"120",
-    "addr:postcode":"45202",
-    "addr:street":"E 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.510538,39.100327,-84.510538,39.100327",
-    "geom:latitude":39.100327,
-    "geom:longitude":-84.510538,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"120 E 4th St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "120 E 4th St Cincinnati OH 45202",
+    "addr:housenumber": "120",
+    "addr:postcode": "45202",
+    "addr:street": "E 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.510538,39.100327,-84.510538,39.100327",
+    "geom:latitude": 39.100327,
+    "geom:longitude": -84.510538,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "120 E 4th St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 632 7699",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bus",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 632 7699",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bus",
+      "line"
     ],
-    "sg:website":"www.sorta.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125154339,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0NwJ8mGpsdAQWzbWotZ6Mo_39.100327_-84.510538@1294180530"
+    "sg:website": "www.sorta.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125154339,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0NwJ8mGpsdAQWzbWotZ6Mo_39.100327_-84.510538@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803582,
-    "wof:geomhash":"f397b1ee16ff1f2f00395030c8709933",
-    "wof:hierarchy":[],
-    "wof:id":706456649,
-    "wof:lastmodified":1511317867,
-    "wof:name":"Metro",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus",
-        "line"
+    "wof:country": "US",
+    "wof:created": 1461803582,
+    "wof:geomhash": "f397b1ee16ff1f2f00395030c8709933",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706456649
+      }
+    ],
+    "wof:id": 706456649,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "Metro",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus",
+      "line"
     ]
-},
+  },
   "bbox": [
     -84.510538,
     39.100327,
     -84.510538,
     39.100327
-],
+  ],
   "geometry": {"coordinates":[-84.510538,39.100327],"type":"Point"}
 }

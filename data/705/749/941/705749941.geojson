@@ -2,61 +2,65 @@
   "id": 705749941,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Court House Plz Bryan OH 43567",
-    "addr:housenumber":"1",
-    "addr:postcode":"43567",
-    "addr:street":"Court House Plz",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.345468,41.279019,-84.345468,41.279019",
-    "geom:latitude":41.279019,
-    "geom:longitude":-84.345468,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1 Court House Plz",
-    "sg:city":"Bryan",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1 Court House Plz Bryan OH 43567",
+    "addr:housenumber": "1",
+    "addr:postcode": "43567",
+    "addr:street": "Court House Plz",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.345468,41.279019,-84.345468,41.279019",
+    "geom:latitude": 41.279019,
+    "geom:longitude": -84.345468,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1 Court House Plz",
+    "sg:city": "Bryan",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 636 2059",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:tags":[
-        "executive"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 636 2059",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:tags": [
+      "executive"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6sCTPLHI0b2c7MqF9ap1GG_41.279019_-84.345468@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6sCTPLHI0b2c7MqF9ap1GG_41.279019_-84.345468@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787845,
-    "wof:geomhash":"c2fc56f4db8f5cd4ac7809639bf27854",
-    "wof:hierarchy":[],
-    "wof:id":705749941,
-    "wof:lastmodified":1472639189,
-    "wof:name":"Williams County Nursing Home",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "executive"
+    "wof:country": "US",
+    "wof:created": 1461787845,
+    "wof:geomhash": "dd70b2c701a1fd825b83f0ac26722bfb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705749941
+      }
+    ],
+    "wof:id": 705749941,
+    "wof:lastmodified": 1638566963,
+    "wof:name": "Williams County Nursing Home",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "executive"
     ]
-},
+  },
   "bbox": [
     -84.345468,
     41.279019,
     -84.345468,
     41.279019
-],
+  ],
   "geometry": {"coordinates":[-84.345468,41.279019],"type":"Point"}
 }

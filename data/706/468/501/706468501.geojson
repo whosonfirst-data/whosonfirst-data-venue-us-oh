@@ -2,56 +2,60 @@
   "id": 706468501,
   "type": "Feature",
   "properties": {
-    "addr:full":"21771 State Rte 664 South Bloomingville OH 43152",
-    "addr:housenumber":"21771",
-    "addr:postcode":"43152",
-    "addr:street":"State Rte 664 South",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.593324,39.42307,-82.593324,39.42307",
-    "geom:latitude":39.42307,
-    "geom:longitude":-82.593324,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"21771 State Rte 664",
-    "sg:city":"South Bloomingville",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "21771 State Rte 664 South Bloomingville OH 43152",
+    "addr:housenumber": "21771",
+    "addr:postcode": "43152",
+    "addr:street": "State Rte 664 South",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.593324,39.423070,-82.593324,39.423070",
+    "geom:latitude": 39.42307,
+    "geom:longitude": -82.593324,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "21771 State Rte 664",
+    "sg:city": "South Bloomingville",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 332 6488",
-    "sg:postcode":"43152",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7PFyKVzeGV4WDq2gx4SCSS_39.423070_-82.593324@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 332 6488",
+    "sg:postcode": "43152",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7PFyKVzeGV4WDq2gx4SCSS_39.423070_-82.593324@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803818,
-    "wof:geomhash":"ab7612a9543ac5896eb984b41a3fd70c",
-    "wof:hierarchy":[],
-    "wof:id":706468501,
-    "wof:lastmodified":1472640089,
-    "wof:name":"South Blmngvlle Elmentary Schl",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461803818,
+    "wof:geomhash": "662a7bfb277a4c13389a37797c72bb13",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706468501
+      }
+    ],
+    "wof:id": 706468501,
+    "wof:lastmodified": 1638567127,
+    "wof:name": "South Blmngvlle Elmentary Schl",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.593324,
     39.42307,
     -82.593324,
     39.42307
-],
+  ],
   "geometry": {"coordinates":[-82.593324,39.42307],"type":"Point"}
 }

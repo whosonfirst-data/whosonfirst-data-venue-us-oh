@@ -2,61 +2,65 @@
   "id": 705764631,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 W Main St Mount Orab OH 45154",
-    "addr:housenumber":"102",
-    "addr:postcode":"45154",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.921373,39.028129,-83.921373,39.028129",
-    "geom:latitude":39.028129,
-    "geom:longitude":-83.921373,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"102 W Main St",
-    "sg:city":"Mount Orab",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "102 W Main St Mount Orab OH 45154",
+    "addr:housenumber": "102",
+    "addr:postcode": "45154",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.921373,39.028129,-83.921373,39.028129",
+    "geom:latitude": 39.028129,
+    "geom:longitude": -83.921373,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "102 W Main St",
+    "sg:city": "Mount Orab",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 444 3404",
-    "sg:postcode":"45154",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 444 3404",
+    "sg:postcode": "45154",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2s4BShSvwsrsCPKhd9yDC3_39.028129_-83.921373@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2s4BShSvwsrsCPKhd9yDC3_39.028129_-83.921373@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788192,
-    "wof:geomhash":"761254cf9596bc7220be588571eba1ac",
-    "wof:hierarchy":[],
-    "wof:id":705764631,
-    "wof:lastmodified":1472639237,
-    "wof:name":"Geppettos Pizza",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461788192,
+    "wof:geomhash": "f5bae739f93a3edd29149a3491da7048",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705764631
+      }
+    ],
+    "wof:id": 705764631,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Geppettos Pizza",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.921373,
     39.028129,
     -83.921373,
     39.028129
-],
+  ],
   "geometry": {"coordinates":[-83.921373,39.028129],"type":"Point"}
 }

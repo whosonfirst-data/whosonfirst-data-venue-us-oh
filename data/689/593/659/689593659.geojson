@@ -2,63 +2,67 @@
   "id": 689593659,
   "type": "Feature",
   "properties": {
-    "addr:full":"7319 State Rte 305 Burghill OH 44404",
-    "addr:housenumber":"7319",
-    "addr:postcode":"44404",
-    "addr:street":"State Rte 305",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.568426,41.311538,-80.568426,41.311538",
-    "geom:latitude":41.311538,
-    "geom:longitude":-80.568426,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7319 State Rte 305",
-    "sg:city":"Burghill",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "7319 State Rte 305 Burghill OH 44404",
+    "addr:housenumber": "7319",
+    "addr:postcode": "44404",
+    "addr:street": "State Rte 305",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.568426,41.311538,-80.568426,41.311538",
+    "geom:latitude": 41.311538,
+    "geom:longitude": -80.568426,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7319 State Rte 305",
+    "sg:city": "Burghill",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 772 4681",
-    "sg:postcode":"44404",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 772 4681",
+    "sg:postcode": "44404",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6d4fh8H9F99TUc6kFTtyrl_41.311538_-80.568426@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6d4fh8H9F99TUc6kFTtyrl_41.311538_-80.568426@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776013,
-    "wof:geomhash":"534342cb3f8633b8e52c13f2df985de6",
-    "wof:hierarchy":[],
-    "wof:id":689593659,
-    "wof:lastmodified":1472639375,
-    "wof:name":"City Disposal Svc",
-    "wof:parent_id":420535301,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461776013,
+    "wof:geomhash": "a7e3f79f41005cacd6217510b24533ba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689593659
+      }
+    ],
+    "wof:id": 689593659,
+    "wof:lastmodified": 1638566994,
+    "wof:name": "City Disposal Svc",
+    "wof:parent_id": 420535301,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -80.568426,
     41.311538,
     -80.568426,
     41.311538
-],
+  ],
   "geometry": {"coordinates":[-80.568426,41.311538],"type":"Point"}
 }

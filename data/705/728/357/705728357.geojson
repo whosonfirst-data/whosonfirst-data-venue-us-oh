@@ -2,61 +2,65 @@
   "id": 705728357,
   "type": "Feature",
   "properties": {
-    "addr:full":"1876 Commerce Dr Piqua OH 45356",
-    "addr:housenumber":"1876",
-    "addr:postcode":"45356",
-    "addr:street":"Commerce Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.279047,40.145071,-84.279047,40.145071",
-    "geom:latitude":40.145071,
-    "geom:longitude":-84.279047,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1876 Commerce Dr",
-    "sg:city":"Piqua",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1876 Commerce Dr Piqua OH 45356",
+    "addr:housenumber": "1876",
+    "addr:postcode": "45356",
+    "addr:street": "Commerce Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.279047,40.145071,-84.279047,40.145071",
+    "geom:latitude": 40.145071,
+    "geom:longitude": -84.279047,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1876 Commerce Dr",
+    "sg:city": "Piqua",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 615 9554",
-    "sg:postcode":"45356",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 615 9554",
+    "sg:postcode": "45356",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7a58J6iQAOBCPCwNPyUL0j_40.145071_-84.279047@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7a58J6iQAOBCPCwNPyUL0j_40.145071_-84.279047@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787360,
-    "wof:geomhash":"c67f48a4eeef8a60dfbb1a1f2d3d9dfc",
-    "wof:hierarchy":[],
-    "wof:id":705728357,
-    "wof:lastmodified":1472638815,
-    "wof:name":"Backyard Bistro",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461787360,
+    "wof:geomhash": "2b985a725614cb501f9be8cff99326fe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705728357
+      }
+    ],
+    "wof:id": 705728357,
+    "wof:lastmodified": 1638566944,
+    "wof:name": "Backyard Bistro",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.279047,
     40.145071,
     -84.279047,
     40.145071
-],
-  "geometry": {"coordinates":[-84.27904700000001,40.145071],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.279047,40.145071],"type":"Point"}
 }

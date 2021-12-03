@@ -2,57 +2,61 @@
   "id": 706539559,
   "type": "Feature",
   "properties": {
-    "addr:full":"1525 George St Sandusky OH 44870",
-    "addr:housenumber":"1525",
-    "addr:postcode":"44870",
-    "addr:street":"George St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.746399,41.4426,-82.746399,41.4426",
-    "geom:latitude":41.4426,
-    "geom:longitude":-82.746399,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1525 George St",
-    "sg:city":"Sandusky",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Pest Control",
-            "type":"Services"
-        }
+    "addr:full": "1525 George St Sandusky OH 44870",
+    "addr:housenumber": "1525",
+    "addr:postcode": "44870",
+    "addr:street": "George St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.746399,41.442600,-82.746399,41.442600",
+    "geom:latitude": 41.4426,
+    "geom:longitude": -82.746399,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1525 George St",
+    "sg:city": "Sandusky",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Pest Control",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 626 1192",
-    "sg:postcode":"44870",
-    "sg:province":"OH",
-    "sg:website":"www.centralexterminating.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6KmOTZCEb3VW461E4MwRBw_41.442440_-82.746746@1293134755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 626 1192",
+    "sg:postcode": "44870",
+    "sg:province": "OH",
+    "sg:website": "www.centralexterminating.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6KmOTZCEb3VW461E4MwRBw_41.442440_-82.746746@1293134755"
     },
-    "wof:country":"US",
-    "wof:created":1461805455,
-    "wof:geomhash":"2dde215900f558c82fa3fca6d6ecec22",
-    "wof:hierarchy":[],
-    "wof:id":706539559,
-    "wof:lastmodified":1472640168,
-    "wof:name":"Central Exterminating Co",
-    "wof:parent_id":420534773,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461805455,
+    "wof:geomhash": "25d7d65cb352cceae73dde26c18198f3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706539559
+      }
+    ],
+    "wof:id": 706539559,
+    "wof:lastmodified": 1638567133,
+    "wof:name": "Central Exterminating Co",
+    "wof:parent_id": 420534773,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.746399,
     41.4426,
     -82.746399,
     41.4426
-],
+  ],
   "geometry": {"coordinates":[-82.746399,41.4426],"type":"Point"}
 }

@@ -2,62 +2,66 @@
   "id": 706137053,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Inah Ave Columbus OH 43228",
-    "addr:housenumber":"123",
-    "addr:postcode":"43228",
-    "addr:street":"Inah Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.138077,39.946124,-83.138077,39.946124",
-    "geom:latitude":39.946124,
-    "geom:longitude":-83.138077,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 Inah Ave",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "123 Inah Ave Columbus OH 43228",
+    "addr:housenumber": "123",
+    "addr:postcode": "43228",
+    "addr:street": "Inah Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.138077,39.946124,-83.138077,39.946124",
+    "geom:latitude": 39.946124,
+    "geom:longitude": -83.138077,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 Inah Ave",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 878 5366",
-    "sg:postcode":"43228",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 878 5366",
+    "sg:postcode": "43228",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7l852Cp9gqKot2ofS1VyJn_39.946124_-83.138077@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7l852Cp9gqKot2ofS1VyJn_39.946124_-83.138077@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796691,
-    "wof:geomhash":"b31887a84091ff8d31210d60eb346403",
-    "wof:hierarchy":[],
-    "wof:id":706137053,
-    "wof:lastmodified":1491899834,
-    "wof:name":"Galloway Fire Dept",
-    "wof:parent_id":85870293,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461796691,
+    "wof:geomhash": "48dd438f3b51b4052c0bdccb6cde97d3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706137053
+      }
+    ],
+    "wof:id": 706137053,
+    "wof:lastmodified": 1638567012,
+    "wof:name": "Galloway Fire Dept",
+    "wof:parent_id": 85870293,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.138077,
     39.946124,
     -83.138077,
     39.946124
-],
+  ],
   "geometry": {"coordinates":[-83.138077,39.946124],"type":"Point"}
 }

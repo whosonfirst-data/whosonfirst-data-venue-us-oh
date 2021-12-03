@@ -2,61 +2,65 @@
   "id": 706009267,
   "type": "Feature",
   "properties": {
-    "addr:full":"2193 Stringtown Rd Grove City OH 43123",
-    "addr:housenumber":"2193",
-    "addr:postcode":"43123",
-    "addr:street":"Stringtown Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.060825,39.878567,-83.060825,39.878567",
-    "geom:latitude":39.878567,
-    "geom:longitude":-83.060825,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2193 Stringtown Rd",
-    "sg:city":"Grove City",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2193 Stringtown Rd Grove City OH 43123",
+    "addr:housenumber": "2193",
+    "addr:postcode": "43123",
+    "addr:street": "Stringtown Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.060825,39.878567,-83.060825,39.878567",
+    "geom:latitude": 39.878567,
+    "geom:longitude": -83.060825,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2193 Stringtown Rd",
+    "sg:city": "Grove City",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 801 2557",
-    "sg:postcode":"43123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "cafe"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 801 2557",
+    "sg:postcode": "43123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "cafe"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4QcOk5aOayoormItz83XnZ_39.878567_-83.060825@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4QcOk5aOayoormItz83XnZ_39.878567_-83.060825@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793777,
-    "wof:geomhash":"40d6875785e4f7013bf48e2e77e0c169",
-    "wof:hierarchy":[],
-    "wof:id":706009267,
-    "wof:lastmodified":1472638403,
-    "wof:name":"Tangerine Oriental Cafe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cafe"
+    "wof:country": "US",
+    "wof:created": 1461793777,
+    "wof:geomhash": "fee80b7ac76df5d9840b17cb145f18bd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706009267
+      }
+    ],
+    "wof:id": 706009267,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "Tangerine Oriental Cafe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cafe"
     ]
-},
+  },
   "bbox": [
     -83.060825,
     39.878567,
     -83.060825,
     39.878567
-],
-  "geometry": {"coordinates":[-83.06082499999999,39.878567],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.060825,39.878567],"type":"Point"}
 }

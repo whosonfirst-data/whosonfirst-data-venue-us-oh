@@ -2,61 +2,65 @@
   "id": 705787531,
   "type": "Feature",
   "properties": {
-    "addr:full":"6014 Saddlewood Dr Toledo OH 43613",
-    "addr:housenumber":"6014",
-    "addr:postcode":"43613",
-    "addr:street":"Saddlewood Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.593317,41.72642,-83.593317,41.72642",
-    "geom:latitude":41.72642,
-    "geom:longitude":-83.593317,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6014 Saddlewood Dr",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "6014 Saddlewood Dr Toledo OH 43613",
+    "addr:housenumber": "6014",
+    "addr:postcode": "43613",
+    "addr:street": "Saddlewood Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.593317,41.726420,-83.593317,41.726420",
+    "geom:latitude": 41.72642,
+    "geom:longitude": -83.593317,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6014 Saddlewood Dr",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 475 2038",
-    "sg:postcode":"43613",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 475 2038",
+    "sg:postcode": "43613",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Zon5W13nqIP2KE0KEXdTd_41.726420_-83.593317@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Zon5W13nqIP2KE0KEXdTd_41.726420_-83.593317@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788742,
-    "wof:geomhash":"4df749aa79ad95cc93374610bac6446c",
-    "wof:hierarchy":[],
-    "wof:id":705787531,
-    "wof:lastmodified":1472639260,
-    "wof:name":"Lewis Ave Baptist Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461788742,
+    "wof:geomhash": "8cf78504027b553ef8b72776e1085eb0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705787531
+      }
+    ],
+    "wof:id": 705787531,
+    "wof:lastmodified": 1638566982,
+    "wof:name": "Lewis Ave Baptist Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -83.593317,
     41.72642,
     -83.593317,
     41.72642
-],
+  ],
   "geometry": {"coordinates":[-83.593317,41.72642],"type":"Point"}
 }

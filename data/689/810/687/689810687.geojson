@@ -2,63 +2,67 @@
   "id": 689810687,
   "type": "Feature",
   "properties": {
-    "addr:full":"232 Ireland Ave Cincinnati OH 45218",
-    "addr:housenumber":"232",
-    "addr:postcode":"45218",
-    "addr:street":"Ireland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.516852,39.273123,-84.516852,39.273123",
-    "geom:latitude":39.273123,
-    "geom:longitude":-84.516852,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"232 Ireland Ave",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "232 Ireland Ave Cincinnati OH 45218",
+    "addr:housenumber": "232",
+    "addr:postcode": "45218",
+    "addr:street": "Ireland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.516852,39.273123,-84.516852,39.273123",
+    "geom:latitude": 39.273123,
+    "geom:longitude": -84.516852,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "232 Ireland Ave",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 742 1680",
-    "sg:postcode":"45218",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 742 1680",
+    "sg:postcode": "45218",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2g7dTIEY5nJLT1GaYb8EcI_39.273123_-84.516852@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2g7dTIEY5nJLT1GaYb8EcI_39.273123_-84.516852@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782210,
-    "wof:geomhash":"4e0fe9b6374117c722e3662a94f57b71",
-    "wof:hierarchy":[],
-    "wof:id":689810687,
-    "wof:lastmodified":1472639887,
-    "wof:name":"West Contract Services",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461782210,
+    "wof:geomhash": "e4050725c69c57acc0ba1246ce2372e9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689810687
+      }
+    ],
+    "wof:id": 689810687,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "West Contract Services",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -84.516852,
     39.273123,
     -84.516852,
     39.273123
-],
+  ],
   "geometry": {"coordinates":[-84.516852,39.273123],"type":"Point"}
 }

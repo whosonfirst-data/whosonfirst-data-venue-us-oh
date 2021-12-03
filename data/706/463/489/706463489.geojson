@@ -2,61 +2,65 @@
   "id": 706463489,
   "type": "Feature",
   "properties": {
-    "addr:full":"1051 N Shoop Ave Wauseon OH 43567",
-    "addr:housenumber":"1051",
-    "addr:postcode":"43567",
-    "addr:street":"N Shoop Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.134539,41.559656,-84.134539,41.559656",
-    "geom:latitude":41.559656,
-    "geom:longitude":-84.134539,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1051 N Shoop Ave",
-    "sg:city":"Wauseon",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1051 N Shoop Ave Wauseon OH 43567",
+    "addr:housenumber": "1051",
+    "addr:postcode": "43567",
+    "addr:street": "N Shoop Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.134539,41.559656,-84.134539,41.559656",
+    "geom:latitude": 41.559656,
+    "geom:longitude": -84.134539,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1051 N Shoop Ave",
+    "sg:city": "Wauseon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 337 1948",
-    "sg:postcode":"43567",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 337 1948",
+    "sg:postcode": "43567",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6mhoGOtXPgu8jWupkv0w81_41.559656_-84.134539@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6mhoGOtXPgu8jWupkv0w81_41.559656_-84.134539@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461803721,
-    "wof:geomhash":"5523c887751e564e7d53ecd73bb5c109",
-    "wof:hierarchy":[],
-    "wof:id":706463489,
-    "wof:lastmodified":1472640059,
-    "wof:name":"John Webber Good Foods LLC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461803721,
+    "wof:geomhash": "d68184dc29e068cefd35b5bf97d4c36d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706463489
+      }
+    ],
+    "wof:id": 706463489,
+    "wof:lastmodified": 1638567126,
+    "wof:name": "John Webber Good Foods LLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.134539,
     41.559656,
     -84.134539,
     41.559656
-],
+  ],
   "geometry": {"coordinates":[-84.134539,41.559656],"type":"Point"}
 }

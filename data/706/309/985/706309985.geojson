@@ -2,63 +2,67 @@
   "id": 706309985,
   "type": "Feature",
   "properties": {
-    "addr:full":"5110 Lewis Ave Toledo OH 43612",
-    "addr:housenumber":"5110",
-    "addr:postcode":"43612",
-    "addr:street":"Lewis Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.566095,41.709709,-83.566095,41.709709",
-    "geom:latitude":41.709709,
-    "geom:longitude":-83.566095,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5110 Lewis Ave",
-    "sg:city":"Toledo",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "5110 Lewis Ave Toledo OH 43612",
+    "addr:housenumber": "5110",
+    "addr:postcode": "43612",
+    "addr:street": "Lewis Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.566095,41.709709,-83.566095,41.709709",
+    "geom:latitude": 41.709709,
+    "geom:longitude": -83.566095,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5110 Lewis Ave",
+    "sg:city": "Toledo",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 476 7665",
-    "sg:postcode":"43612",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parlor",
-        "billiard"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 476 7665",
+    "sg:postcode": "43612",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parlor",
+      "billiard"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_00pIkbpOjy2faHwwkBWiV2_41.709709_-83.566095@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_00pIkbpOjy2faHwwkBWiV2_41.709709_-83.566095@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800519,
-    "wof:geomhash":"6683eaee9f509819c57368d09f8f0ec7",
-    "wof:hierarchy":[],
-    "wof:id":706309985,
-    "wof:lastmodified":1472639763,
-    "wof:name":"Glass City Billiards",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parlor",
-        "billiard"
+    "wof:country": "US",
+    "wof:created": 1461800519,
+    "wof:geomhash": "93d7312074e6e1879cf53e7a3d622311",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706309985
+      }
+    ],
+    "wof:id": 706309985,
+    "wof:lastmodified": 1638567076,
+    "wof:name": "Glass City Billiards",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parlor",
+      "billiard"
     ]
-},
+  },
   "bbox": [
     -83.566095,
     41.709709,
     -83.566095,
     41.709709
-],
+  ],
   "geometry": {"coordinates":[-83.566095,41.709709],"type":"Point"}
 }

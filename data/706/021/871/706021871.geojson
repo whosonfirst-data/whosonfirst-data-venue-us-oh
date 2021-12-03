@@ -2,63 +2,67 @@
   "id": 706021871,
   "type": "Feature",
   "properties": {
-    "addr:full":"9811 Elizabeth Ave Cleveland OH 44105",
-    "addr:housenumber":"9811",
-    "addr:postcode":"44105",
-    "addr:street":"Elizabeth Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.617238,41.453842,-81.617238,41.453842",
-    "geom:latitude":41.453842,
-    "geom:longitude":-81.617238,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"9811 Elizabeth Ave",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "9811 Elizabeth Ave Cleveland OH 44105",
+    "addr:housenumber": "9811",
+    "addr:postcode": "44105",
+    "addr:street": "Elizabeth Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.617238,41.453842,-81.617238,41.453842",
+    "geom:latitude": 41.453842,
+    "geom:longitude": -81.617238,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "9811 Elizabeth Ave",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 271 0560",
-    "sg:postcode":"44105",
-    "sg:province":"OH",
-    "sg:tags":[
-        "hauling",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 271 0560",
+    "sg:postcode": "44105",
+    "sg:province": "OH",
+    "sg:tags": [
+      "hauling",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ARaiFcgZ28dcmxKwgiTkQ_41.453842_-81.617238@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2ARaiFcgZ28dcmxKwgiTkQ_41.453842_-81.617238@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794047,
-    "wof:geomhash":"b231534817cee121ef48de5d50b55eff",
-    "wof:hierarchy":[],
-    "wof:id":706021871,
-    "wof:lastmodified":1472638659,
-    "wof:name":"M C Hauling",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hauling",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461794047,
+    "wof:geomhash": "a446de6e2525d2b0ac0f2868624b2826",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706021871
+      }
+    ],
+    "wof:id": 706021871,
+    "wof:lastmodified": 1638566945,
+    "wof:name": "M C Hauling",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hauling",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -81.617238,
     41.453842,
     -81.617238,
     41.453842
-],
+  ],
   "geometry": {"coordinates":[-81.617238,41.453842],"type":"Point"}
 }

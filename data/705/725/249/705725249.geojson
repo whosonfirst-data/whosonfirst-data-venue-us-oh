@@ -2,63 +2,67 @@
   "id": 705725249,
   "type": "Feature",
   "properties": {
-    "addr:full":"7795 W Chester Rd West Chester OH 45069",
-    "addr:housenumber":"7795",
-    "addr:postcode":"45069",
-    "addr:street":"W Chester Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.37065,39.318335,-84.37065,39.318335",
-    "geom:latitude":39.318335,
-    "geom:longitude":-84.37065,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"7795 W Chester Rd",
-    "sg:city":"West Chester",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "7795 W Chester Rd West Chester OH 45069",
+    "addr:housenumber": "7795",
+    "addr:postcode": "45069",
+    "addr:street": "W Chester Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.370650,39.318335,-84.370650,39.318335",
+    "geom:latitude": 39.318335,
+    "geom:longitude": -84.37065,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "7795 W Chester Rd",
+    "sg:city": "West Chester",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 755 7019",
-    "sg:postcode":"45069",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 755 7019",
+    "sg:postcode": "45069",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_339eaO7AClMzHMatcSPWyS_39.318335_-84.370650@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_339eaO7AClMzHMatcSPWyS_39.318335_-84.370650@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787291,
-    "wof:geomhash":"679086329f30fd4a471e9063ed265f3a",
-    "wof:hierarchy":[],
-    "wof:id":705725249,
-    "wof:lastmodified":1472638750,
-    "wof:name":"Pediatrics Associates",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461787291,
+    "wof:geomhash": "1a550e0937055c6a59cc5930d17debbd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705725249
+      }
+    ],
+    "wof:id": 705725249,
+    "wof:lastmodified": 1638566941,
+    "wof:name": "Pediatrics Associates",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.37065,
     39.318335,
     -84.37065,
     39.318335
-],
+  ],
   "geometry": {"coordinates":[-84.37065,39.318335],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705914221,
   "type": "Feature",
   "properties": {
-    "addr:full":"1231 Substation Rd Brunswick OH 44212",
-    "addr:housenumber":"1231",
-    "addr:postcode":"44212",
-    "addr:street":"Substation Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.860565,41.24226,-81.860565,41.24226",
-    "geom:latitude":41.24226,
-    "geom:longitude":-81.860565,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1231 Substation Rd",
-    "sg:city":"Brunswick",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1231 Substation Rd Brunswick OH 44212",
+    "addr:housenumber": "1231",
+    "addr:postcode": "44212",
+    "addr:street": "Substation Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.860565,41.242260,-81.860565,41.242260",
+    "geom:latitude": 41.24226,
+    "geom:longitude": -81.860565,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1231 Substation Rd",
+    "sg:city": "Brunswick",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 225 9857",
-    "sg:postcode":"44212",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 225 9857",
+    "sg:postcode": "44212",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6BsDUNE6Ke4ISlSqzzLIb9_41.242260_-81.860565@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6BsDUNE6Ke4ISlSqzzLIb9_41.242260_-81.860565@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791728,
-    "wof:geomhash":"e115cb1ea1f51baa157539d405964ddf",
-    "wof:hierarchy":[],
-    "wof:id":705914221,
-    "wof:lastmodified":1472639598,
-    "wof:name":"St Emilian Byzantine Catholic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461791728,
+    "wof:geomhash": "ae62db63bb2ed74acd2e99e982a162fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705914221
+      }
+    ],
+    "wof:id": 705914221,
+    "wof:lastmodified": 1638567039,
+    "wof:name": "St Emilian Byzantine Catholic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.860565,
     41.24226,
     -81.860565,
     41.24226
-],
-  "geometry": {"coordinates":[-81.86056499999999,41.24226],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.860565,41.24226],"type":"Point"}
 }

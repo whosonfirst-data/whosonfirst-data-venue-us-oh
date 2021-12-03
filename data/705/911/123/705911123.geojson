@@ -2,61 +2,65 @@
   "id": 705911123,
   "type": "Feature",
   "properties": {
-    "addr:full":"27080 Kingston Pike Circleville OH 43113",
-    "addr:housenumber":"27080",
-    "addr:postcode":"43113",
-    "addr:street":"Kingston Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.932452,39.538875,-82.932452,39.538875",
-    "geom:latitude":39.538875,
-    "geom:longitude":-82.932452,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"27080 Kingston Pike",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Telephone",
-            "type":"Services"
-        }
+    "addr:full": "27080 Kingston Pike Circleville OH 43113",
+    "addr:housenumber": "27080",
+    "addr:postcode": "43113",
+    "addr:street": "Kingston Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.932452,39.538875,-82.932452,39.538875",
+    "geom:latitude": 39.538875,
+    "geom:longitude": -82.932452,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "27080 Kingston Pike",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Telephone",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 474 7955",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "communications"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 474 7955",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "communications"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1dam9tCNy30rBHXchGqZua_39.538875_-82.932452@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1dam9tCNy30rBHXchGqZua_39.538875_-82.932452@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791658,
-    "wof:geomhash":"74bba13741f1b94d1aeb4f17d0b41da2",
-    "wof:hierarchy":[],
-    "wof:id":705911123,
-    "wof:lastmodified":1472639595,
-    "wof:name":"Michael Tuinstra Telecom",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "communications"
+    "wof:country": "US",
+    "wof:created": 1461791658,
+    "wof:geomhash": "171070ea4cd2ac3364ebb8713e391930",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705911123
+      }
+    ],
+    "wof:id": 705911123,
+    "wof:lastmodified": 1638567038,
+    "wof:name": "Michael Tuinstra Telecom",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "communications"
     ]
-},
+  },
   "bbox": [
     -82.932452,
     39.538875,
     -82.932452,
     39.538875
-],
+  ],
   "geometry": {"coordinates":[-82.932452,39.538875],"type":"Point"}
 }

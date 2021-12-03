@@ -2,56 +2,60 @@
   "id": 705835817,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 W Main St Somerset OH 43783",
-    "addr:housenumber":"123",
-    "addr:postcode":"43783",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.300881,39.806159,-82.300881,39.806159",
-    "geom:latitude":39.806159,
-    "geom:longitude":-82.300881,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"123 W Main St",
-    "sg:city":"Somerset",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "123 W Main St Somerset OH 43783",
+    "addr:housenumber": "123",
+    "addr:postcode": "43783",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.300881,39.806159,-82.300881,39.806159",
+    "geom:latitude": 39.806159,
+    "geom:longitude": -82.300881,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "123 W Main St",
+    "sg:city": "Somerset",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 743 1326",
-    "sg:postcode":"43783",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1pZ33YMYpshflidegnvJyu_39.806159_-82.300881@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 743 1326",
+    "sg:postcode": "43783",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1pZ33YMYpshflidegnvJyu_39.806159_-82.300881@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789861,
-    "wof:geomhash":"6d82da5d2c76ffcbd4986f1607e86324",
-    "wof:hierarchy":[],
-    "wof:id":705835817,
-    "wof:lastmodified":1472639381,
-    "wof:name":"Clay Haus",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461789861,
+    "wof:geomhash": "c233ea55a9c4fa906d978b489e78fecb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705835817
+      }
+    ],
+    "wof:id": 705835817,
+    "wof:lastmodified": 1638567007,
+    "wof:name": "Clay Haus",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.300881,
     39.806159,
     -82.300881,
     39.806159
-],
+  ],
   "geometry": {"coordinates":[-82.300881,39.806159],"type":"Point"}
 }

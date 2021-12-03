@@ -2,63 +2,67 @@
   "id": 706030219,
   "type": "Feature",
   "properties": {
-    "addr:full":"823 Michigan St Sidney OH 45365",
-    "addr:housenumber":"823",
-    "addr:postcode":"45365",
-    "addr:street":"Michigan St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.168906,40.288013,-84.168906,40.288013",
-    "geom:latitude":40.288013,
-    "geom:longitude":-84.168906,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"823 Michigan St",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "823 Michigan St Sidney OH 45365",
+    "addr:housenumber": "823",
+    "addr:postcode": "45365",
+    "addr:street": "Michigan St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.168906,40.288013,-84.168906,40.288013",
+    "geom:latitude": 40.288013,
+    "geom:longitude": -84.168906,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "823 Michigan St",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 498 5373",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 498 5373",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4V4UoZQpbohbUpCE5a8e5h_40.288013_-84.168906@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4V4UoZQpbohbUpCE5a8e5h_40.288013_-84.168906@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794212,
-    "wof:geomhash":"2c333f1e147377525ca9747f80c7ee8d",
-    "wof:hierarchy":[],
-    "wof:id":706030219,
-    "wof:lastmodified":1472638772,
-    "wof:name":"Wilson Care Women's Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461794212,
+    "wof:geomhash": "abc8f3c88adcaf6f6d8d1b18677fe64b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706030219
+      }
+    ],
+    "wof:id": 706030219,
+    "wof:lastmodified": 1638566952,
+    "wof:name": "Wilson Care Women's Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.168906,
     40.288013,
     -84.168906,
     40.288013
-],
-  "geometry": {"coordinates":[-84.16890600000001,40.288013],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.168906,40.288013],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705849047,
   "type": "Feature",
   "properties": {
-    "addr:full":"864 Wallwood Dr Copley OH 44321",
-    "addr:housenumber":"864",
-    "addr:postcode":"44321",
-    "addr:street":"Wallwood Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.676573,41.111228,-81.676573,41.111228",
-    "geom:latitude":41.111228,
-    "geom:longitude":-81.676573,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"864 Wallwood Dr",
-    "sg:city":"Copley",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Business Services",
-            "type":"Services"
-        }
+    "addr:full": "864 Wallwood Dr Copley OH 44321",
+    "addr:housenumber": "864",
+    "addr:postcode": "44321",
+    "addr:street": "Wallwood Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.676573,41.111228,-81.676573,41.111228",
+    "geom:latitude": 41.111228,
+    "geom:longitude": -81.676573,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "864 Wallwood Dr",
+    "sg:city": "Copley",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Business Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 668 9710",
-    "sg:postcode":"44321",
-    "sg:province":"OH",
-    "sg:tags":[
-        "arbitration"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 668 9710",
+    "sg:postcode": "44321",
+    "sg:province": "OH",
+    "sg:tags": [
+      "arbitration"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0EMqDub9K0bohr3KuOU9S4_41.111228_-81.676573@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0EMqDub9K0bohr3KuOU9S4_41.111228_-81.676573@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790158,
-    "wof:geomhash":"164ddb1a9baa222f2838653bbb249867",
-    "wof:hierarchy":[],
-    "wof:id":705849047,
-    "wof:lastmodified":1472639386,
-    "wof:name":"Accent Mediation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "arbitration"
+    "wof:country": "US",
+    "wof:created": 1461790158,
+    "wof:geomhash": "0bce7a5b65d70a50666b2e4b6b63c2d8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705849047
+      }
+    ],
+    "wof:id": 705849047,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Accent Mediation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "arbitration"
     ]
-},
+  },
   "bbox": [
     -81.676573,
     41.111228,
     -81.676573,
     41.111228
-],
+  ],
   "geometry": {"coordinates":[-81.676573,41.111228],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706055357,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 E Paradise St Orrville OH 44667",
-    "addr:housenumber":"220",
-    "addr:postcode":"44667",
-    "addr:street":"E Paradise St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.763099,40.836677,-81.763099,40.836677",
-    "geom:latitude":40.836677,
-    "geom:longitude":-81.763099,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"220 E Paradise St",
-    "sg:city":"Orrville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "220 E Paradise St Orrville OH 44667",
+    "addr:housenumber": "220",
+    "addr:postcode": "44667",
+    "addr:street": "E Paradise St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.763099,40.836677,-81.763099,40.836677",
+    "geom:latitude": 40.836677,
+    "geom:longitude": -81.763099,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "220 E Paradise St",
+    "sg:city": "Orrville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 683 4246",
-    "sg:postcode":"44667",
-    "sg:province":"OH",
-    "sg:tags":[
-        "psychologist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 683 4246",
+    "sg:postcode": "44667",
+    "sg:province": "OH",
+    "sg:tags": [
+      "psychologist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IEv5StCqY4xsK63EKclwD_40.836677_-81.763099@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5IEv5StCqY4xsK63EKclwD_40.836677_-81.763099@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794718,
-    "wof:geomhash":"0ac453285dca9c5078485aac76fae896",
-    "wof:hierarchy":[],
-    "wof:id":706055357,
-    "wof:lastmodified":1472639137,
-    "wof:name":"Bruce O Armstrong",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "psychologist"
+    "wof:country": "US",
+    "wof:created": 1461794718,
+    "wof:geomhash": "bd934a6c304fe481a6ae21b4e9b18097",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706055357
+      }
+    ],
+    "wof:id": 706055357,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Bruce O Armstrong",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "psychologist"
     ]
-},
+  },
   "bbox": [
     -81.763099,
     40.836677,
     -81.763099,
     40.836677
-],
+  ],
   "geometry": {"coordinates":[-81.763099,40.836677],"type":"Point"}
 }

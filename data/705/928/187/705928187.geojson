@@ -2,61 +2,65 @@
   "id": 705928187,
   "type": "Feature",
   "properties": {
-    "addr:full":"830 Main St Cincinnati OH 45202",
-    "addr:housenumber":"830",
-    "addr:postcode":"45202",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.510734,39.105768,-84.510734,39.105768",
-    "geom:latitude":39.105768,
-    "geom:longitude":-84.510734,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"830 Main St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "830 Main St Cincinnati OH 45202",
+    "addr:housenumber": "830",
+    "addr:postcode": "45202",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.510734,39.105768,-84.510734,39.105768",
+    "geom:latitude": 39.105768,
+    "geom:longitude": -84.510734,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "830 Main St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 381 6555",
-    "sg:postcode":"45202",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 381 6555",
+    "sg:postcode": "45202",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1R1xJZbz1c9LfYj8sRZsZt_39.105768_-84.510734@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1R1xJZbz1c9LfYj8sRZsZt_39.105768_-84.510734@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792019,
-    "wof:geomhash":"4c39885d20711d93e65f6d7ddf9c4467",
-    "wof:hierarchy":[],
-    "wof:id":705928187,
-    "wof:lastmodified":1472639654,
-    "wof:name":"Ivan L Tamarkin",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461792019,
+    "wof:geomhash": "2d5f68019b0a6ab2e32d770090b87914",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705928187
+      }
+    ],
+    "wof:id": 705928187,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "Ivan L Tamarkin",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -84.510734,
     39.105768,
     -84.510734,
     39.105768
-],
+  ],
   "geometry": {"coordinates":[-84.510734,39.105768],"type":"Point"}
 }

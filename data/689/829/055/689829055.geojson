@@ -2,61 +2,65 @@
   "id": 689829055,
   "type": "Feature",
   "properties": {
-    "addr:full":"4531 Belmont Ave Youngstown OH 44505",
-    "addr:housenumber":"4531",
-    "addr:postcode":"44505",
-    "addr:street":"Belmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.664755,41.162674,-80.664755,41.162674",
-    "geom:latitude":41.162674,
-    "geom:longitude":-80.664755,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4531 Belmont Ave",
-    "sg:city":"Youngstown",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "4531 Belmont Ave Youngstown OH 44505",
+    "addr:housenumber": "4531",
+    "addr:postcode": "44505",
+    "addr:street": "Belmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.664755,41.162674,-80.664755,41.162674",
+    "geom:latitude": 41.162674,
+    "geom:longitude": -80.664755,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4531 Belmont Ave",
+    "sg:city": "Youngstown",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 759 0216",
-    "sg:postcode":"44505",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 759 0216",
+    "sg:postcode": "44505",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1PbXCLspzO0VXeI1MtZVAM_41.162674_-80.664755@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1PbXCLspzO0VXeI1MtZVAM_41.162674_-80.664755@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461782771,
-    "wof:geomhash":"6ab36b09e35377d6deb411a75d5df002",
-    "wof:hierarchy":[],
-    "wof:id":689829055,
-    "wof:lastmodified":1472639889,
-    "wof:name":"Sure Shots",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461782771,
+    "wof:geomhash": "20ae69e57026ad90beefc6f88cf9a396",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689829055
+      }
+    ],
+    "wof:id": 689829055,
+    "wof:lastmodified": 1638567072,
+    "wof:name": "Sure Shots",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -80.664755,
     41.162674,
     -80.664755,
     41.162674
-],
+  ],
   "geometry": {"coordinates":[-80.664755,41.162674],"type":"Point"}
 }

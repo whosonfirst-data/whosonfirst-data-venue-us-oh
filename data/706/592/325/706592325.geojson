@@ -2,57 +2,61 @@
   "id": 706592325,
   "type": "Feature",
   "properties": {
-    "addr:full":"27441 Helen Dr Perrysburg OH 43551",
-    "addr:housenumber":"27441",
-    "addr:postcode":"43551",
-    "addr:street":"Helen Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.59846,41.551539,-83.59846,41.551539",
-    "geom:latitude":41.551539,
-    "geom:longitude":-83.59846,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"27441 Helen Dr",
-    "sg:city":"Perrysburg",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "27441 Helen Dr Perrysburg OH 43551",
+    "addr:housenumber": "27441",
+    "addr:postcode": "43551",
+    "addr:street": "Helen Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.598460,41.551539,-83.598460,41.551539",
+    "geom:latitude": 41.551539,
+    "geom:longitude": -83.59846,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "27441 Helen Dr",
+    "sg:city": "Perrysburg",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 874 9181",
-    "sg:postcode":"43551",
-    "sg:province":"OH",
-    "sg:website":"http://www.bestwestern.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3rZ6C4z8Ts6VNPRHBP7EjQ_41.551539_-83.598460@1303262753"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 874 9181",
+    "sg:postcode": "43551",
+    "sg:province": "OH",
+    "sg:website": "http://www.bestwestern.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3rZ6C4z8Ts6VNPRHBP7EjQ_41.551539_-83.598460@1303262753"
     },
-    "wof:country":"US",
-    "wof:created":1461806563,
-    "wof:geomhash":"a9f3aba4d016fc60a0ebe2317173696a",
-    "wof:hierarchy":[],
-    "wof:id":706592325,
-    "wof:lastmodified":1472640209,
-    "wof:name":"Best Western Perrysburg",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461806563,
+    "wof:geomhash": "75d8277c9bf9c8163da52c58c55fe70b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706592325
+      }
+    ],
+    "wof:id": 706592325,
+    "wof:lastmodified": 1638567141,
+    "wof:name": "Best Western Perrysburg",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.59846,
     41.551539,
     -83.59846,
     41.551539
-],
+  ],
   "geometry": {"coordinates":[-83.59846,41.551539],"type":"Point"}
 }

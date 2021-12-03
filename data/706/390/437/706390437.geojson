@@ -2,57 +2,61 @@
   "id": 706390437,
   "type": "Feature",
   "properties": {
-    "addr:full":"3227 Graham Rd Stow OH 44224",
-    "addr:housenumber":"3227",
-    "addr:postcode":"44224",
-    "addr:street":"Graham Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.401555,41.166495,-81.401555,41.166495",
-    "geom:latitude":41.166495,
-    "geom:longitude":-81.401555,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3227 Graham Rd",
-    "sg:city":"Stow",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "3227 Graham Rd Stow OH 44224",
+    "addr:housenumber": "3227",
+    "addr:postcode": "44224",
+    "addr:street": "Graham Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.401555,41.166495,-81.401555,41.166495",
+    "geom:latitude": 41.166495,
+    "geom:longitude": -81.401555,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3227 Graham Rd",
+    "sg:city": "Stow",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 678 0700",
-    "sg:postcode":"44224",
-    "sg:province":"OH",
-    "sg:website":"www.stow.summit.k12.oh.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VQd57yY1whiUqwxQMSmsw_41.166495_-81.401555@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 678 0700",
+    "sg:postcode": "44224",
+    "sg:province": "OH",
+    "sg:website": "www.stow.summit.k12.oh.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5VQd57yY1whiUqwxQMSmsw_41.166495_-81.401555@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802214,
-    "wof:geomhash":"4ee54ec3f4391c55a03ba489bc243243",
-    "wof:hierarchy":[],
-    "wof:id":706390437,
-    "wof:lastmodified":1472639975,
-    "wof:name":"Stow Monroe Falls High School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461802214,
+    "wof:geomhash": "cc72361698c5d6f4334e4a85f71cfe8d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706390437
+      }
+    ],
+    "wof:id": 706390437,
+    "wof:lastmodified": 1638567105,
+    "wof:name": "Stow Monroe Falls High School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.401555,
     41.166495,
     -81.401555,
     41.166495
-],
+  ],
   "geometry": {"coordinates":[-81.401555,41.166495],"type":"Point"}
 }

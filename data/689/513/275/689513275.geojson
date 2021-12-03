@@ -2,61 +2,65 @@
   "id": 689513275,
   "type": "Feature",
   "properties": {
-    "addr:full":"3015 S Co Rd 25A Troy OH 45373",
-    "addr:housenumber":"3015;25a",
-    "addr:postcode":"45373",
-    "addr:street":"S Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.200401,39.99301,-84.200401,39.99301",
-    "geom:latitude":39.99301,
-    "geom:longitude":-84.200401,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3015 S Co Rd 25A",
-    "sg:city":"Troy",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "3015 S Co Rd 25A Troy OH 45373",
+    "addr:housenumber": "3015;25a",
+    "addr:postcode": "45373",
+    "addr:street": "S Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.200401,39.993010,-84.200401,39.993010",
+    "geom:latitude": 39.99301,
+    "geom:longitude": -84.200401,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3015 S Co Rd 25A",
+    "sg:city": "Troy",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 339 2802",
-    "sg:postcode":"45373",
-    "sg:province":"OH",
-    "sg:tags":[
-        "welding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 339 2802",
+    "sg:postcode": "45373",
+    "sg:province": "OH",
+    "sg:tags": [
+      "welding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76Ydwtyffi4ori3RWLm6QI_39.993010_-84.200401@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_76Ydwtyffi4ori3RWLm6QI_39.993010_-84.200401@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773509,
-    "wof:geomhash":"be6483a8a4518e5faa7507ac2fecec78",
-    "wof:hierarchy":[],
-    "wof:id":689513275,
-    "wof:lastmodified":1472639134,
-    "wof:name":"Atlas Maximum Precision Mchng",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "welding"
+    "wof:country": "US",
+    "wof:created": 1461773509,
+    "wof:geomhash": "341f846a3ad5c4271e8d69ce34bfa6b5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689513275
+      }
+    ],
+    "wof:id": 689513275,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Atlas Maximum Precision Mchng",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "welding"
     ]
-},
+  },
   "bbox": [
     -84.200401,
     39.99301,
     -84.200401,
     39.99301
-],
+  ],
   "geometry": {"coordinates":[-84.200401,39.99301],"type":"Point"}
 }

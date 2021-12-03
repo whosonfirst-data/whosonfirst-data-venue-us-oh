@@ -2,61 +2,65 @@
   "id": 705957409,
   "type": "Feature",
   "properties": {
-    "addr:full":"243 Marion Dr Greenville OH 45331",
-    "addr:housenumber":"243",
-    "addr:postcode":"45331",
-    "addr:street":"Marion Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.625961,40.11685,-84.625961,40.11685",
-    "geom:latitude":40.11685,
-    "geom:longitude":-84.625961,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"243 Marion Dr",
-    "sg:city":"Greenville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "243 Marion Dr Greenville OH 45331",
+    "addr:housenumber": "243",
+    "addr:postcode": "45331",
+    "addr:street": "Marion Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.625961,40.116850,-84.625961,40.116850",
+    "geom:latitude": 40.11685,
+    "geom:longitude": -84.625961,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "243 Marion Dr",
+    "sg:city": "Greenville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 548 3141",
-    "sg:postcode":"45331",
-    "sg:province":"OH",
-    "sg:tags":[
-        "skilled"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 548 3141",
+    "sg:postcode": "45331",
+    "sg:province": "OH",
+    "sg:tags": [
+      "skilled"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4itYRqyl2WaKyAVLP3yBzo_40.116850_-84.625961@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4itYRqyl2WaKyAVLP3yBzo_40.116850_-84.625961@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792696,
-    "wof:geomhash":"c347baf2cac1cbcec00c58d64d6d7355",
-    "wof:hierarchy":[],
-    "wof:id":705957409,
-    "wof:lastmodified":1472639730,
-    "wof:name":"Heartland Of Greenville",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "skilled"
+    "wof:country": "US",
+    "wof:created": 1461792696,
+    "wof:geomhash": "a603f291b9a9cd33021ada6db789450b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705957409
+      }
+    ],
+    "wof:id": 705957409,
+    "wof:lastmodified": 1638567057,
+    "wof:name": "Heartland Of Greenville",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "skilled"
     ]
-},
+  },
   "bbox": [
     -84.625961,
     40.11685,
     -84.625961,
     40.11685
-],
+  ],
   "geometry": {"coordinates":[-84.625961,40.11685],"type":"Point"}
 }

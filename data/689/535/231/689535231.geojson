@@ -2,63 +2,67 @@
   "id": 689535231,
   "type": "Feature",
   "properties": {
-    "addr:full":"1121 Northview Dr Hillsboro OH 45133",
-    "addr:housenumber":"1121",
-    "addr:postcode":"45133",
-    "addr:street":"Northview Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.606211,39.220452,-83.606211,39.220452",
-    "geom:latitude":39.220452,
-    "geom:longitude":-83.606211,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1121 Northview Dr",
-    "sg:city":"Hillsboro",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1121 Northview Dr Hillsboro OH 45133",
+    "addr:housenumber": "1121",
+    "addr:postcode": "45133",
+    "addr:street": "Northview Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.606211,39.220452,-83.606211,39.220452",
+    "geom:latitude": 39.220452,
+    "geom:longitude": -83.606211,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1121 Northview Dr",
+    "sg:city": "Hillsboro",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 393 5067",
-    "sg:postcode":"45133",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 393 5067",
+    "sg:postcode": "45133",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5LI2tgoq6wnhSsEz8FNBDB_39.220452_-83.606211@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5LI2tgoq6wnhSsEz8FNBDB_39.220452_-83.606211@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461774231,
-    "wof:geomhash":"db48efd4170d8d31c18f2edd865adeb2",
-    "wof:hierarchy":[],
-    "wof:id":689535231,
-    "wof:lastmodified":1472639178,
-    "wof:name":"South Central Ohio Psychiatric",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461774231,
+    "wof:geomhash": "176e90431fd316019eb39a9ca782560f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689535231
+      }
+    ],
+    "wof:id": 689535231,
+    "wof:lastmodified": 1638566977,
+    "wof:name": "South Central Ohio Psychiatric",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.606211,
     39.220452,
     -83.606211,
     39.220452
-],
+  ],
   "geometry": {"coordinates":[-83.606211,39.220452],"type":"Point"}
 }

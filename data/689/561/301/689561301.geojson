@@ -2,61 +2,65 @@
   "id": 689561301,
   "type": "Feature",
   "properties": {
-    "addr:full":"203 N Elm St Prospect OH 43342",
-    "addr:housenumber":"203",
-    "addr:postcode":"43342",
-    "addr:street":"N Elm St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.18903,40.452613,-83.18903,40.452613",
-    "geom:latitude":40.452613,
-    "geom:longitude":-83.18903,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"203 N Elm St",
-    "sg:city":"Prospect",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "203 N Elm St Prospect OH 43342",
+    "addr:housenumber": "203",
+    "addr:postcode": "43342",
+    "addr:street": "N Elm St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.189030,40.452613,-83.189030,40.452613",
+    "geom:latitude": 40.452613,
+    "geom:longitude": -83.18903,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "203 N Elm St",
+    "sg:city": "Prospect",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 494 2611",
-    "sg:postcode":"43342",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 494 2611",
+    "sg:postcode": "43342",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1LIKaAq4MuIXr9UKBtC0dt_40.452613_-83.189030@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1LIKaAq4MuIXr9UKBtC0dt_40.452613_-83.189030@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775049,
-    "wof:geomhash":"e92a0306fe7604d7f8608657597dc8ae",
-    "wof:hierarchy":[],
-    "wof:id":689561301,
-    "wof:lastmodified":1472639280,
-    "wof:name":"Prospect United Methodist Chr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461775049,
+    "wof:geomhash": "43e75ca8ea51a5a358fa1059def3bff0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689561301
+      }
+    ],
+    "wof:id": 689561301,
+    "wof:lastmodified": 1638566987,
+    "wof:name": "Prospect United Methodist Chr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -83.18903,
     40.452613,
     -83.18903,
     40.452613
-],
+  ],
   "geometry": {"coordinates":[-83.18903,40.452613],"type":"Point"}
 }

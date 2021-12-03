@@ -2,65 +2,69 @@
   "id": 705742559,
   "type": "Feature",
   "properties": {
-    "addr:full":"6 Miller St Zanesville OH 43701",
-    "addr:housenumber":"6",
-    "addr:postcode":"43701",
-    "addr:street":"Miller St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.02258,39.901008,-82.02258,39.901008",
-    "geom:latitude":39.901008,
-    "geom:longitude":-82.02258,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6 Miller St",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "6 Miller St Zanesville OH 43701",
+    "addr:housenumber": "6",
+    "addr:postcode": "43701",
+    "addr:street": "Miller St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.022580,39.901008,-82.022580,39.901008",
+    "geom:latitude": 39.901008,
+    "geom:longitude": -82.02258,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6 Miller St",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 454 6489",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 454 6489",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "local",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Ky6GFuAv3DkrBda9Rd1g2_39.901008_-82.022580@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Ky6GFuAv3DkrBda9Rd1g2_39.901008_-82.022580@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787702,
-    "wof:geomhash":"82525a99fc2f53252a8acb09d6d91342",
-    "wof:hierarchy":[],
-    "wof:id":705742559,
-    "wof:lastmodified":1472639080,
-    "wof:name":"Liggett Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "local",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461787702,
+    "wof:geomhash": "fe79944609d75f751dcff73384668e37",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705742559
+      }
+    ],
+    "wof:id": 705742559,
+    "wof:lastmodified": 1638566957,
+    "wof:name": "Liggett Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "local",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -82.02258,
     39.901008,
     -82.02258,
     39.901008
-],
+  ],
   "geometry": {"coordinates":[-82.02258,39.901008],"type":"Point"}
 }

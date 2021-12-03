@@ -2,61 +2,65 @@
   "id": 706233507,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 W Middle St Burbank OH 44214",
-    "addr:housenumber":"100",
-    "addr:postcode":"44214",
-    "addr:street":"W Middle St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.998286,40.988952,-81.998286,40.988952",
-    "geom:latitude":40.988952,
-    "geom:longitude":-81.998286,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"100 W Middle St",
-    "sg:city":"Burbank",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "100 W Middle St Burbank OH 44214",
+    "addr:housenumber": "100",
+    "addr:postcode": "44214",
+    "addr:street": "W Middle St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.998286,40.988952,-81.998286,40.988952",
+    "geom:latitude": 40.988952,
+    "geom:longitude": -81.998286,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "100 W Middle St",
+    "sg:city": "Burbank",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 624 3232",
-    "sg:postcode":"44214",
-    "sg:province":"OH",
-    "sg:tags":[
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 624 3232",
+    "sg:postcode": "44214",
+    "sg:province": "OH",
+    "sg:tags": [
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_32B5EnD3ZcI5KMb4Qbgfhq_40.988952_-81.998286@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_32B5EnD3ZcI5KMb4Qbgfhq_40.988952_-81.998286@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798774,
-    "wof:geomhash":"3c3bdb96425a17c7bf0134b4038661cf",
-    "wof:hierarchy":[],
-    "wof:id":706233507,
-    "wof:lastmodified":1472639562,
-    "wof:name":"Burbank Village Council Room",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461798774,
+    "wof:geomhash": "de23b59b8f694f45064d56c32806a96e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706233507
+      }
+    ],
+    "wof:id": 706233507,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Burbank Village Council Room",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "village"
     ]
-},
+  },
   "bbox": [
     -81.998286,
     40.988952,
     -81.998286,
     40.988952
-],
-  "geometry": {"coordinates":[-81.99828599999999,40.988952],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.998286,40.988952],"type":"Point"}
 }

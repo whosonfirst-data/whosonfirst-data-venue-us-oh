@@ -2,66 +2,70 @@
   "id": 706584441,
   "type": "Feature",
   "properties": {
-    "addr:full":"2215 Michigan St Sidney OH 45365",
-    "addr:housenumber":"2215",
-    "addr:postcode":"45365",
-    "addr:street":"Michigan St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.188721,40.287641,-84.188721,40.287641",
-    "geom:latitude":40.287641,
-    "geom:longitude":-84.188721,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"2215 Michigan St",
-    "sg:city":"Sidney",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2215 Michigan St Sidney OH 45365",
+    "addr:housenumber": "2215",
+    "addr:postcode": "45365",
+    "addr:street": "Michigan St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.188721,40.287641,-84.188721,40.287641",
+    "geom:latitude": 40.287641,
+    "geom:longitude": -84.188721,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "2215 Michigan St",
+    "sg:city": "Sidney",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/clinton/195072-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"45365",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/clinton/195072-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "45365",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_08eLyfb3JZs29bFM4Z00Ci_40.287700_-84.187974@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_08eLyfb3JZs29bFM4Z00Ci_40.287700_-84.187974@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461806409,
-    "wof:geomhash":"52f1f4c8e851d0b0be142db788766835",
-    "wof:hierarchy":[],
-    "wof:id":706584441,
-    "wof:lastmodified":1512142843,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461806409,
+    "wof:geomhash": "52f1f4c8e851d0b0be142db788766835",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706584441
+      }
+    ],
+    "wof:id": 706584441,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.188721,
     40.287641,
     -84.188721,
     40.287641
-],
+  ],
   "geometry": {"coordinates":[-84.188721,40.287641],"type":"Point"}
 }

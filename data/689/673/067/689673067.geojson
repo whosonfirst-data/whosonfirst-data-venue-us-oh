@@ -2,63 +2,67 @@
   "id": 689673067,
   "type": "Feature",
   "properties": {
-    "addr:full":"1302 W Main St Louisville OH 44641",
-    "addr:housenumber":"1302",
-    "addr:postcode":"44641",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.272246,40.836182,-81.272246,40.836182",
-    "geom:latitude":40.836182,
-    "geom:longitude":-81.272246,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1302 W Main St",
-    "sg:city":"Louisville",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1302 W Main St Louisville OH 44641",
+    "addr:housenumber": "1302",
+    "addr:postcode": "44641",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.272246,40.836182,-81.272246,40.836182",
+    "geom:latitude": 40.836182,
+    "geom:longitude": -81.272246,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1302 W Main St",
+    "sg:city": "Louisville",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 875 5544",
-    "sg:postcode":"44641",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 875 5544",
+    "sg:postcode": "44641",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3RtakdY5kJz0NPsWYTR0yM_40.836182_-81.272246@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3RtakdY5kJz0NPsWYTR0yM_40.836182_-81.272246@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461778464,
-    "wof:geomhash":"4836edf0995eab01632322d5dfec5391",
-    "wof:hierarchy":[],
-    "wof:id":689673067,
-    "wof:lastmodified":1472639601,
-    "wof:name":"Community Health Care",
-    "wof:parent_id":420535239,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461778464,
+    "wof:geomhash": "85f87245a18a78b72e1fa68aaf1c1637",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689673067
+      }
+    ],
+    "wof:id": 689673067,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "Community Health Care",
+    "wof:parent_id": 420535239,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -81.272246,
     40.836182,
     -81.272246,
     40.836182
-],
+  ],
   "geometry": {"coordinates":[-81.272246,40.836182],"type":"Point"}
 }

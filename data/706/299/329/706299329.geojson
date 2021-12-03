@@ -2,61 +2,65 @@
   "id": 706299329,
   "type": "Feature",
   "properties": {
-    "addr:full":"55 W Jackson St Millersburg OH 44654",
-    "addr:housenumber":"55",
-    "addr:postcode":"44654",
-    "addr:street":"W Jackson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.917969,40.554122,-81.917969,40.554122",
-    "geom:latitude":40.554122,
-    "geom:longitude":-81.917969,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"55 W Jackson St",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Advertising",
-            "type":"Services"
-        }
+    "addr:full": "55 W Jackson St Millersburg OH 44654",
+    "addr:housenumber": "55",
+    "addr:postcode": "44654",
+    "addr:street": "W Jackson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.917969,40.554122,-81.917969,40.554122",
+    "geom:latitude": 40.554122,
+    "geom:longitude": -81.917969,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "55 W Jackson St",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Advertising",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 674 3700",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "sg:tags":[
-        "counselor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 674 3700",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "sg:tags": [
+      "counselor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4KO4zv7lG2lCXzQP0Jq1FU_40.554122_-81.917969@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4KO4zv7lG2lCXzQP0Jq1FU_40.554122_-81.917969@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800284,
-    "wof:geomhash":"42cc68218364b8d210f60742589b9b9a",
-    "wof:hierarchy":[],
-    "wof:id":706299329,
-    "wof:lastmodified":1472639723,
-    "wof:name":"Advertising By Design",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counselor"
+    "wof:country": "US",
+    "wof:created": 1461800284,
+    "wof:geomhash": "4519a6ea06742ea3ea3e487543257261",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706299329
+      }
+    ],
+    "wof:id": 706299329,
+    "wof:lastmodified": 1638567079,
+    "wof:name": "Advertising By Design",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counselor"
     ]
-},
+  },
   "bbox": [
     -81.917969,
     40.554122,
     -81.917969,
     40.554122
-],
+  ],
   "geometry": {"coordinates":[-81.917969,40.554122],"type":"Point"}
 }

@@ -2,66 +2,70 @@
   "id": 706129647,
   "type": "Feature",
   "properties": {
-    "addr:full":"3029 International St Columbus OH 43228",
-    "addr:housenumber":"3029",
-    "addr:postcode":"43228",
-    "addr:street":"International St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-83.131222,40.005332,-83.131222,40.005332",
-    "geom:latitude":40.005332,
-    "geom:longitude":-83.131222,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"3029 International St",
-    "sg:city":"Columbus",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Computer Services",
-            "type":"Services"
-        }
+    "addr:full": "3029 International St Columbus OH 43228",
+    "addr:housenumber": "3029",
+    "addr:postcode": "43228",
+    "addr:street": "International St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-83.131222,40.005332,-83.131222,40.005332",
+    "geom:latitude": 40.005332,
+    "geom:longitude": -83.131222,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "3029 International St",
+    "sg:city": "Columbus",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Computer Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 777 7322",
-    "sg:postcode":"43228",
-    "sg:province":"OH",
-    "sg:tags":[
-        "processing",
-        "datum"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 777 7322",
+    "sg:postcode": "43228",
+    "sg:province": "OH",
+    "sg:tags": [
+      "processing",
+      "datum"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125151025,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ezyWsIOxHntM1O6lWrtvI_40.005332_-83.131222@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125151025,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4ezyWsIOxHntM1O6lWrtvI_40.005332_-83.131222@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796505,
-    "wof:geomhash":"1a5f364cbdf49c9f9fb3d3a5e59da903",
-    "wof:hierarchy":[],
-    "wof:id":706129647,
-    "wof:lastmodified":1510699651,
-    "wof:name":"ADP",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "processing",
-        "datum"
+    "wof:country": "US",
+    "wof:created": 1461796505,
+    "wof:geomhash": "1a5f364cbdf49c9f9fb3d3a5e59da903",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706129647
+      }
+    ],
+    "wof:id": 706129647,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "ADP",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "processing",
+      "datum"
     ]
-},
+  },
   "bbox": [
     -83.131222,
     40.005332,
     -83.131222,
     40.005332
-],
-  "geometry": {"coordinates":[-83.13122199999999,40.005332],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.131222,40.005332],"type":"Point"}
 }

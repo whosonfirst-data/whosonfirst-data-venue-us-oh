@@ -2,61 +2,65 @@
   "id": 705745023,
   "type": "Feature",
   "properties": {
-    "addr:full":"417 Garrison St Fremont OH 43420",
-    "addr:housenumber":"417",
-    "addr:postcode":"43420",
-    "addr:street":"Garrison St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.11493,41.345338,-83.11493,41.345338",
-    "geom:latitude":41.345338,
-    "geom:longitude":-83.11493,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"417 Garrison St",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "417 Garrison St Fremont OH 43420",
+    "addr:housenumber": "417",
+    "addr:postcode": "43420",
+    "addr:street": "Garrison St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.114930,41.345338,-83.114930,41.345338",
+    "geom:latitude": 41.345338,
+    "geom:longitude": -83.11493,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "417 Garrison St",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 332 8090",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 332 8090",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0owK9y5esG4nnyfl6JvnMU_41.345338_-83.114930@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0owK9y5esG4nnyfl6JvnMU_41.345338_-83.114930@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787750,
-    "wof:geomhash":"0b45869cdd18cc508a4cff0b807dd1c6",
-    "wof:hierarchy":[],
-    "wof:id":705745023,
-    "wof:lastmodified":1472639103,
-    "wof:name":"Mariposa Artistas LLC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461787750,
+    "wof:geomhash": "db4e215ecd4d9bf5ad57ee47628f5007",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705745023
+      }
+    ],
+    "wof:id": 705745023,
+    "wof:lastmodified": 1638566959,
+    "wof:name": "Mariposa Artistas LLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.11493,
     41.345338,
     -83.11493,
     41.345338
-],
+  ],
   "geometry": {"coordinates":[-83.11493,41.345338],"type":"Point"}
 }

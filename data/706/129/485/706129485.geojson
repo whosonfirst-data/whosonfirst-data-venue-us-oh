@@ -2,61 +2,65 @@
   "id": 706129485,
   "type": "Feature",
   "properties": {
-    "addr:full":"5038 Will Dr Akron OH 44319",
-    "addr:housenumber":"5038",
-    "addr:postcode":"44319",
-    "addr:street":"Will Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.535454,40.953699,-81.535454,40.953699",
-    "geom:latitude":40.953699,
-    "geom:longitude":-81.535454,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5038 Will Dr",
-    "sg:city":"Akron",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "5038 Will Dr Akron OH 44319",
+    "addr:housenumber": "5038",
+    "addr:postcode": "44319",
+    "addr:street": "Will Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.535454,40.953699,-81.535454,40.953699",
+    "geom:latitude": 40.953699,
+    "geom:longitude": -81.535454,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5038 Will Dr",
+    "sg:city": "Akron",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 882 4194",
-    "sg:postcode":"44319",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 882 4194",
+    "sg:postcode": "44319",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6x4Zg7u1zanBtaAr8cVm83_40.953699_-81.535454@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6x4Zg7u1zanBtaAr8cVm83_40.953699_-81.535454@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796500,
-    "wof:geomhash":"7d635abd0fed1af9fcfdd652df2f5456",
-    "wof:hierarchy":[],
-    "wof:id":706129485,
-    "wof:lastmodified":1472639312,
-    "wof:name":"Zvonimir Kotorcevic",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461796500,
+    "wof:geomhash": "7ec14cb933622229b1e6bc9cc0a9b265",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706129485
+      }
+    ],
+    "wof:id": 706129485,
+    "wof:lastmodified": 1638567010,
+    "wof:name": "Zvonimir Kotorcevic",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -81.535454,
     40.953699,
     -81.535454,
     40.953699
-],
+  ],
   "geometry": {"coordinates":[-81.535454,40.953699],"type":"Point"}
 }

@@ -2,63 +2,67 @@
   "id": 706413547,
   "type": "Feature",
   "properties": {
-    "addr:full":"513 E Washington St Lisbon OH 44432",
-    "addr:housenumber":"513",
-    "addr:postcode":"44432",
-    "addr:street":"E Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.760609,40.771143,-80.760609,40.771143",
-    "geom:latitude":40.771143,
-    "geom:longitude":-80.760609,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"513 E Washington St",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Dance Studio",
-            "type":"Public Place"
-        }
+    "addr:full": "513 E Washington St Lisbon OH 44432",
+    "addr:housenumber": "513",
+    "addr:postcode": "44432",
+    "addr:street": "E Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.760609,40.771143,-80.760609,40.771143",
+    "geom:latitude": 40.771143,
+    "geom:longitude": -80.760609,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "513 E Washington St",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Dance Studio",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 424 3409",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "instruction",
-        "dancing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 424 3409",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "instruction",
+      "dancing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2N1BXqEWpJG7ml2Da7FpEb_40.771143_-80.760609@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2N1BXqEWpJG7ml2Da7FpEb_40.771143_-80.760609@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802665,
-    "wof:geomhash":"02129c889207f06fd6f8e7b8b65930bf",
-    "wof:hierarchy":[],
-    "wof:id":706413547,
-    "wof:lastmodified":1472639997,
-    "wof:name":"Bettie Lee Dance Studio",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "dancing"
+    "wof:country": "US",
+    "wof:created": 1461802665,
+    "wof:geomhash": "41da142fd1e609250761aec764d36f22",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706413547
+      }
+    ],
+    "wof:id": 706413547,
+    "wof:lastmodified": 1638567113,
+    "wof:name": "Bettie Lee Dance Studio",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "dancing"
     ]
-},
+  },
   "bbox": [
     -80.760609,
     40.771143,
     -80.760609,
     40.771143
-],
+  ],
   "geometry": {"coordinates":[-80.760609,40.771143],"type":"Point"}
 }

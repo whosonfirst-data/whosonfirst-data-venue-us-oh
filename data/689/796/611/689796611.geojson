@@ -2,61 +2,65 @@
   "id": 689796611,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 S Canal St Spencerville OH 45887",
-    "addr:housenumber":"200",
-    "addr:postcode":"45887",
-    "addr:street":"S Canal St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.35546,40.706682,-84.35546,40.706682",
-    "geom:latitude":40.706682,
-    "geom:longitude":-84.35546,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"200 S Canal St",
-    "sg:city":"Spencerville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "200 S Canal St Spencerville OH 45887",
+    "addr:housenumber": "200",
+    "addr:postcode": "45887",
+    "addr:street": "S Canal St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.355460,40.706682,-84.355460,40.706682",
+    "geom:latitude": 40.706682,
+    "geom:longitude": -84.35546,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "200 S Canal St",
+    "sg:city": "Spencerville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 647 4132",
-    "sg:postcode":"45887",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 647 4132",
+    "sg:postcode": "45887",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Ocp9G0xitu0aqTKzqfVtK_40.706682_-84.355460@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Ocp9G0xitu0aqTKzqfVtK_40.706682_-84.355460@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781757,
-    "wof:geomhash":"fdba1a58c9de3ee8996ca44807bfddb9",
-    "wof:hierarchy":[],
-    "wof:id":689796611,
-    "wof:lastmodified":1472639866,
-    "wof:name":"Spencerville Village Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461781757,
+    "wof:geomhash": "3fda8ba841ffc894d568c1b9aae2ef55",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689796611
+      }
+    ],
+    "wof:id": 689796611,
+    "wof:lastmodified": 1638567062,
+    "wof:name": "Spencerville Village Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -84.35546,
     40.706682,
     -84.35546,
     40.706682
-],
-  "geometry": {"coordinates":[-84.35545999999999,40.706682],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.35546,40.706682],"type":"Point"}
 }

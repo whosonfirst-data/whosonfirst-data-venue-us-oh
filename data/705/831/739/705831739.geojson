@@ -2,63 +2,67 @@
   "id": 705831739,
   "type": "Feature",
   "properties": {
-    "addr:full":"12140 Bradner Rd Bradner OH 43462",
-    "addr:housenumber":"12140",
-    "addr:postcode":"43462",
-    "addr:street":"Bradner Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.43671,41.333501,-83.43671,41.333501",
-    "geom:latitude":41.333501,
-    "geom:longitude":-83.43671,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"12140 Bradner Rd",
-    "sg:city":"Bradner",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "12140 Bradner Rd Bradner OH 43462",
+    "addr:housenumber": "12140",
+    "addr:postcode": "43462",
+    "addr:street": "Bradner Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.436710,41.333501,-83.436710,41.333501",
+    "geom:latitude": 41.333501,
+    "geom:longitude": -83.43671,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "12140 Bradner Rd",
+    "sg:city": "Bradner",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 288 3031",
-    "sg:postcode":"43462",
-    "sg:province":"OH",
-    "sg:tags":[
-        "concrete",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 288 3031",
+    "sg:postcode": "43462",
+    "sg:province": "OH",
+    "sg:tags": [
+      "concrete",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5LmMNKjg94BPOJnlmKhXma_41.333501_-83.436710@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5LmMNKjg94BPOJnlmKhXma_41.333501_-83.436710@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789776,
-    "wof:geomhash":"16490330ba326f34f10d84ded3a17097",
-    "wof:hierarchy":[],
-    "wof:id":705831739,
-    "wof:lastmodified":1472639380,
-    "wof:name":"Hagemann Construction",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "concrete",
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461789776,
+    "wof:geomhash": "e271fa8d8f59627723dd18fa61d7b213",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705831739
+      }
+    ],
+    "wof:id": 705831739,
+    "wof:lastmodified": 1638567004,
+    "wof:name": "Hagemann Construction",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "concrete",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -83.43671,
     41.333501,
     -83.43671,
     41.333501
-],
-  "geometry": {"coordinates":[-83.43671000000001,41.333501],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.43671,41.333501],"type":"Point"}
 }

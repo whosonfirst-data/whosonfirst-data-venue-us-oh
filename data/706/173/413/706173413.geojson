@@ -2,65 +2,69 @@
   "id": 706173413,
   "type": "Feature",
   "properties": {
-    "addr:full":"243 S Main St Rittman OH 44270",
-    "addr:housenumber":"243",
-    "addr:postcode":"44270",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.781632,40.965831,-81.781632,40.965831",
-    "geom:latitude":40.965831,
-    "geom:longitude":-81.781632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"243 S Main St",
-    "sg:city":"Rittman",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "243 S Main St Rittman OH 44270",
+    "addr:housenumber": "243",
+    "addr:postcode": "44270",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.781632,40.965831,-81.781632,40.965831",
+    "geom:latitude": 40.965831,
+    "geom:longitude": -81.781632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "243 S Main St",
+    "sg:city": "Rittman",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 925 4986",
-    "sg:postcode":"44270",
-    "sg:province":"OH",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 925 4986",
+    "sg:postcode": "44270",
+    "sg:province": "OH",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BFZxtswRdZJjC1E4eZXNs_40.965831_-81.781632@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3BFZxtswRdZJjC1E4eZXNs_40.965831_-81.781632@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797503,
-    "wof:geomhash":"7fa0de3a9da86774163b2447493e7e28",
-    "wof:hierarchy":[],
-    "wof:id":706173413,
-    "wof:lastmodified":1472639414,
-    "wof:name":"Don's Body Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:country": "US",
+    "wof:created": 1461797503,
+    "wof:geomhash": "a34b912df1d9b33bce155d7f60975e10",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706173413
+      }
+    ],
+    "wof:id": 706173413,
+    "wof:lastmodified": 1638567027,
+    "wof:name": "Don's Body Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -81.781632,
     40.965831,
     -81.781632,
     40.965831
-],
+  ],
   "geometry": {"coordinates":[-81.781632,40.965831],"type":"Point"}
 }

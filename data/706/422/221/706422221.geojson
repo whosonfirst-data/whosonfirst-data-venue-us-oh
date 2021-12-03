@@ -2,61 +2,65 @@
   "id": 706422221,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 High Gettysburg OH 45360",
-    "addr:housenumber":"216",
-    "addr:postcode":"45360",
-    "addr:street":"High Gettysburg",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.09047,40.330966,-84.09047,40.330966",
-    "geom:latitude":40.330966,
-    "geom:longitude":-84.09047,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"216 High",
-    "sg:city":"Gettysburg",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "216 High Gettysburg OH 45360",
+    "addr:housenumber": "216",
+    "addr:postcode": "45360",
+    "addr:street": "High Gettysburg",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.090470,40.330966,-84.090470,40.330966",
+    "geom:latitude": 40.330966,
+    "geom:longitude": -84.09047,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "216 High",
+    "sg:city": "Gettysburg",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 447 2171",
-    "sg:postcode":"45360",
-    "sg:province":"OH",
-    "sg:tags":[
-        "city"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 447 2171",
+    "sg:postcode": "45360",
+    "sg:province": "OH",
+    "sg:tags": [
+      "city"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_00AoBR0yzRahYzfmwe8MeD_40.330966_-84.090470@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_00AoBR0yzRahYzfmwe8MeD_40.330966_-84.090470@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802835,
-    "wof:geomhash":"db42fc3b8dab0d27c617994a655415e5",
-    "wof:hierarchy":[],
-    "wof:id":706422221,
-    "wof:lastmodified":1472640002,
-    "wof:name":"Gettysburg Village Mayor's Ofc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "city"
+    "wof:country": "US",
+    "wof:created": 1461802835,
+    "wof:geomhash": "9d7fd0d39b59a8ea1d24b63f2b4f77da",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706422221
+      }
+    ],
+    "wof:id": 706422221,
+    "wof:lastmodified": 1638567114,
+    "wof:name": "Gettysburg Village Mayor's Ofc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "city"
     ]
-},
+  },
   "bbox": [
     -84.09047,
     40.330966,
     -84.09047,
     40.330966
-],
+  ],
   "geometry": {"coordinates":[-84.09047,40.330966],"type":"Point"}
 }

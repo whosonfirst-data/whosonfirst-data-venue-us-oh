@@ -2,61 +2,65 @@
   "id": 705835289,
   "type": "Feature",
   "properties": {
-    "addr:full":"126 Leader St Marion OH 43302",
-    "addr:housenumber":"126",
-    "addr:postcode":"43302",
-    "addr:street":"Leader St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.137393,40.589076,-83.137393,40.589076",
-    "geom:latitude":40.589076,
-    "geom:longitude":-83.137393,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"126 Leader St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Natural Gas",
-            "type":"Services"
-        }
+    "addr:full": "126 Leader St Marion OH 43302",
+    "addr:housenumber": "126",
+    "addr:postcode": "43302",
+    "addr:street": "Leader St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.137393,40.589076,-83.137393,40.589076",
+    "geom:latitude": 40.589076,
+    "geom:longitude": -83.137393,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "126 Leader St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Natural Gas",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 382 9277",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "transmission"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 382 9277",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "transmission"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0USPIDogGwgQAjwVreVtGd_40.589076_-83.137393@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0USPIDogGwgQAjwVreVtGd_40.589076_-83.137393@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789850,
-    "wof:geomhash":"e1d2ec1edc5ef680f6800ef21edd6734",
-    "wof:hierarchy":[],
-    "wof:id":705835289,
-    "wof:lastmodified":1472639361,
-    "wof:name":"Columbia Gas - Ohio Inc Line",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transmission"
+    "wof:country": "US",
+    "wof:created": 1461789850,
+    "wof:geomhash": "d65ef29a8e983b73bb914524a69ad414",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705835289
+      }
+    ],
+    "wof:id": 705835289,
+    "wof:lastmodified": 1638567006,
+    "wof:name": "Columbia Gas - Ohio Inc Line",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transmission"
     ]
-},
+  },
   "bbox": [
     -83.137393,
     40.589076,
     -83.137393,
     40.589076
-],
+  ],
   "geometry": {"coordinates":[-83.137393,40.589076],"type":"Point"}
 }

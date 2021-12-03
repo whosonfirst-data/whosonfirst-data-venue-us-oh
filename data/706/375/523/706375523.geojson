@@ -2,61 +2,65 @@
   "id": 706375523,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 N Main St Kenton OH 43326",
-    "addr:housenumber":"20",
-    "addr:postcode":"43326",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.607867,40.647964,-83.607867,40.647964",
-    "geom:latitude":40.647964,
-    "geom:longitude":-83.607867,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"20 N Main St",
-    "sg:city":"Kenton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        }
+    "addr:full": "20 N Main St Kenton OH 43326",
+    "addr:housenumber": "20",
+    "addr:postcode": "43326",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.607867,40.647964,-83.607867,40.647964",
+    "geom:latitude": 40.647964,
+    "geom:longitude": -83.607867,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "20 N Main St",
+    "sg:city": "Kenton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 674 4820",
-    "sg:postcode":"43326",
-    "sg:province":"OH",
-    "sg:tags":[
-        "photographer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 674 4820",
+    "sg:postcode": "43326",
+    "sg:province": "OH",
+    "sg:tags": [
+      "photographer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7MO7q8gUBMTwuHIAiGMFvj_40.647964_-83.607867@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7MO7q8gUBMTwuHIAiGMFvj_40.647964_-83.607867@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801914,
-    "wof:geomhash":"1ce8d7f5b2938a2fe9d972f325eb673c",
-    "wof:hierarchy":[],
-    "wof:id":706375523,
-    "wof:lastmodified":1472639952,
-    "wof:name":"Richard's Photography",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographer"
+    "wof:country": "US",
+    "wof:created": 1461801914,
+    "wof:geomhash": "6f430c32f8e4eede62116ae506ed6fd7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706375523
+      }
+    ],
+    "wof:id": 706375523,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Richard's Photography",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographer"
     ]
-},
+  },
   "bbox": [
     -83.607867,
     40.647964,
     -83.607867,
     40.647964
-],
+  ],
   "geometry": {"coordinates":[-83.607867,40.647964],"type":"Point"}
 }

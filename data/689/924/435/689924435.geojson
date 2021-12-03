@@ -2,63 +2,67 @@
   "id": 689924435,
   "type": "Feature",
   "properties": {
-    "addr:full":"51277 Rice Run Rd Reedsville OH 45772",
-    "addr:housenumber":"51277",
-    "addr:postcode":"45772",
-    "addr:street":"Rice Run Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.823032,39.17717,-81.823032,39.17717",
-    "geom:latitude":39.17717,
-    "geom:longitude":-81.823032,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"51277 Rice Run Rd",
-    "sg:city":"Reedsville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Refuse",
-            "type":"Services"
-        }
+    "addr:full": "51277 Rice Run Rd Reedsville OH 45772",
+    "addr:housenumber": "51277",
+    "addr:postcode": "45772",
+    "addr:street": "Rice Run Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.823032,39.177170,-81.823032,39.177170",
+    "geom:latitude": 39.17717,
+    "geom:longitude": -81.823032,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "51277 Rice Run Rd",
+    "sg:city": "Reedsville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Refuse",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 667 3989",
-    "sg:postcode":"45772",
-    "sg:province":"OH",
-    "sg:tags":[
-        "garbage",
-        "collection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 667 3989",
+    "sg:postcode": "45772",
+    "sg:province": "OH",
+    "sg:tags": [
+      "garbage",
+      "collection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2E5BG3Wck5uDXlG1hiCsSe_39.177170_-81.823032@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2E5BG3Wck5uDXlG1hiCsSe_39.177170_-81.823032@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461785223,
-    "wof:geomhash":"07f8c2d913b479fcc2784849932c8d3f",
-    "wof:hierarchy":[],
-    "wof:id":689924435,
-    "wof:lastmodified":1472640077,
-    "wof:name":"A-1 Sanitation",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "garbage",
-        "collection"
+    "wof:country": "US",
+    "wof:created": 1461785223,
+    "wof:geomhash": "63a2b166c923beb66e13301424f92f0c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689924435
+      }
+    ],
+    "wof:id": 689924435,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "A-1 Sanitation",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "garbage",
+      "collection"
     ]
-},
+  },
   "bbox": [
     -81.823032,
     39.17717,
     -81.823032,
     39.17717
-],
+  ],
   "geometry": {"coordinates":[-81.823032,39.17717],"type":"Point"}
 }

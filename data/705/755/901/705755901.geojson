@@ -2,61 +2,65 @@
   "id": 705755901,
   "type": "Feature",
   "properties": {
-    "addr:full":"132 W Water St Oak Harbor OH 43449",
-    "addr:housenumber":"132",
-    "addr:postcode":"43449",
-    "addr:street":"W Water St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.14685,41.507723,-83.14685,41.507723",
-    "geom:latitude":41.507723,
-    "geom:longitude":-83.14685,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"132 W Water St",
-    "sg:city":"Oak Harbor",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Lawyer & Legal Services",
-            "type":"Services"
-        }
+    "addr:full": "132 W Water St Oak Harbor OH 43449",
+    "addr:housenumber": "132",
+    "addr:postcode": "43449",
+    "addr:street": "W Water St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.146850,41.507723,-83.146850,41.507723",
+    "geom:latitude": 41.507723,
+    "geom:longitude": -83.14685,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "132 W Water St",
+    "sg:city": "Oak Harbor",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Lawyer \u0026 Legal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 898 2921",
-    "sg:postcode":"43449",
-    "sg:province":"OH",
-    "sg:tags":[
-        "attorney"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 898 2921",
+    "sg:postcode": "43449",
+    "sg:province": "OH",
+    "sg:tags": [
+      "attorney"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1otObXRzfWD4ozU1TosHZA_41.507723_-83.146850@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1otObXRzfWD4ozU1TosHZA_41.507723_-83.146850@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788003,
-    "wof:geomhash":"97ecab30a8ea780bf1e4d0f839f21e9b",
-    "wof:hierarchy":[],
-    "wof:id":705755901,
-    "wof:lastmodified":1472639202,
-    "wof:name":"Robertson Law Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "attorney"
+    "wof:country": "US",
+    "wof:created": 1461788003,
+    "wof:geomhash": "1f2240f197871b29ea3c089ecf1f18fd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705755901
+      }
+    ],
+    "wof:id": 705755901,
+    "wof:lastmodified": 1638566973,
+    "wof:name": "Robertson Law Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "attorney"
     ]
-},
+  },
   "bbox": [
     -83.14685,
     41.507723,
     -83.14685,
     41.507723
-],
+  ],
   "geometry": {"coordinates":[-83.14685,41.507723],"type":"Point"}
 }

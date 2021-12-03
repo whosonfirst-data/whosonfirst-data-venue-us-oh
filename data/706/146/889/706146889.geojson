@@ -2,64 +2,68 @@
   "id": 706146889,
   "type": "Feature",
   "properties": {
-    "addr:full":"30050 Chagrin Blvd Cleveland OH 44124",
-    "addr:housenumber":"30050",
-    "addr:postcode":"44124",
-    "addr:street":"Chagrin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-81.456338,41.459931,-81.456338,41.459931",
-    "geom:latitude":41.459931,
-    "geom:longitude":-81.456338,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"30050 Chagrin Blvd",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "30050 Chagrin Blvd Cleveland OH 44124",
+    "addr:housenumber": "30050",
+    "addr:postcode": "44124",
+    "addr:street": "Chagrin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-81.456338,41.459931,-81.456338,41.459931",
+    "geom:latitude": 41.459931,
+    "geom:longitude": -81.456338,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "30050 Chagrin Blvd",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 765 8123",
-    "sg:postcode":"44124",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 765 8123",
+    "sg:postcode": "44124",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6jY3GqpHKq2mc1cT9zPPCh_41.459931_-81.456338@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6jY3GqpHKq2mc1cT9zPPCh_41.459931_-81.456338@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796907,
-    "wof:geomhash":"fb912b69f8c826f3e91b32380864b731",
-    "wof:hierarchy":[],
-    "wof:id":706146889,
-    "wof:lastmodified":1512143045,
-    "wof:name":"McDonalds",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461796907,
+    "wof:geomhash": "fb912b69f8c826f3e91b32380864b731",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706146889
+      }
+    ],
+    "wof:id": 706146889,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "McDonalds",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.456338,
     41.459931,
     -81.456338,
     41.459931
-],
+  ],
   "geometry": {"coordinates":[-81.456338,41.459931],"type":"Point"}
 }

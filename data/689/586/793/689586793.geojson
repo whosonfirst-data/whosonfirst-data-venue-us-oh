@@ -2,61 +2,65 @@
   "id": 689586793,
   "type": "Feature",
   "properties": {
-    "addr:full":"843 Main St Martin OH 43445",
-    "addr:housenumber":"843",
-    "addr:postcode":"43445",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.268248,41.637923,-83.268248,41.637923",
-    "geom:latitude":41.637923,
-    "geom:longitude":-83.268248,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"843 Main St",
-    "sg:city":"Martin",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "843 Main St Martin OH 43445",
+    "addr:housenumber": "843",
+    "addr:postcode": "43445",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.268248,41.637923,-83.268248,41.637923",
+    "geom:latitude": 41.637923,
+    "geom:longitude": -83.268248,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "843 Main St",
+    "sg:city": "Martin",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 836 8257",
-    "sg:postcode":"43445",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 836 8257",
+    "sg:postcode": "43445",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0dZh2lWrD6BVCAJktZIvhE_41.637923_-83.268248@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0dZh2lWrD6BVCAJktZIvhE_41.637923_-83.268248@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775835,
-    "wof:geomhash":"01bdfe555c872ad0aba6b4891f9a22fb",
-    "wof:hierarchy":[],
-    "wof:id":689586793,
-    "wof:lastmodified":1472639363,
-    "wof:name":"Bono Tavern",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461775835,
+    "wof:geomhash": "e6fbaa936bc7486b5b0a84b5997d8986",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689586793
+      }
+    ],
+    "wof:id": 689586793,
+    "wof:lastmodified": 1638566993,
+    "wof:name": "Bono Tavern",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -83.268248,
     41.637923,
     -83.268248,
     41.637923
-],
+  ],
   "geometry": {"coordinates":[-83.268248,41.637923],"type":"Point"}
 }

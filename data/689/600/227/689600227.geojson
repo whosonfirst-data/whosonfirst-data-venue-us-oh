@@ -2,61 +2,65 @@
   "id": 689600227,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 Glover St Portsmouth OH 45662",
-    "addr:housenumber":"10",
-    "addr:postcode":"45662",
-    "addr:street":"Glover St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.986752,38.729968,-82.986752,38.729968",
-    "geom:latitude":38.729968,
-    "geom:longitude":-82.986752,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10 Glover St",
-    "sg:city":"Portsmouth",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Hazard Insurance",
-            "type":"Services"
-        }
+    "addr:full": "10 Glover St Portsmouth OH 45662",
+    "addr:housenumber": "10",
+    "addr:postcode": "45662",
+    "addr:street": "Glover St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.986752,38.729968,-82.986752,38.729968",
+    "geom:latitude": 38.729968,
+    "geom:longitude": -82.986752,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10 Glover St",
+    "sg:city": "Portsmouth",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Hazard Insurance",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 353 2157",
-    "sg:postcode":"45662",
-    "sg:province":"OH",
-    "sg:tags":[
-        "bond"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 353 2157",
+    "sg:postcode": "45662",
+    "sg:province": "OH",
+    "sg:tags": [
+      "bond"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Ng6LVjVy1sr5BC1MbEcHa_38.729968_-82.986752@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Ng6LVjVy1sr5BC1MbEcHa_38.729968_-82.986752@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461776256,
-    "wof:geomhash":"54ed75bdebb3bac7cc72d3e877795c0b",
-    "wof:hierarchy":[],
-    "wof:id":689600227,
-    "wof:lastmodified":1472639399,
-    "wof:name":"AA-Tallerico Bail Bonds",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bond"
+    "wof:country": "US",
+    "wof:created": 1461776256,
+    "wof:geomhash": "fcf05d344ec6eecf113ae876749f815a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689600227
+      }
+    ],
+    "wof:id": 689600227,
+    "wof:lastmodified": 1638566995,
+    "wof:name": "AA-Tallerico Bail Bonds",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bond"
     ]
-},
+  },
   "bbox": [
     -82.986752,
     38.729968,
     -82.986752,
     38.729968
-],
+  ],
   "geometry": {"coordinates":[-82.986752,38.729968],"type":"Point"}
 }

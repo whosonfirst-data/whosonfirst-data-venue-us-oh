@@ -2,63 +2,67 @@
   "id": 706384173,
   "type": "Feature",
   "properties": {
-    "addr:full":"273 Regency Ridge Dr Dayton OH 45459",
-    "addr:housenumber":"273",
-    "addr:postcode":"45459",
-    "addr:street":"Regency Ridge Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.163372,39.642086,-84.163372,39.642086",
-    "geom:latitude":39.642086,
-    "geom:longitude":-84.163372,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"273 Regency Ridge Dr",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "273 Regency Ridge Dr Dayton OH 45459",
+    "addr:housenumber": "273",
+    "addr:postcode": "45459",
+    "addr:street": "Regency Ridge Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.163372,39.642086,-84.163372,39.642086",
+    "geom:latitude": 39.642086,
+    "geom:longitude": -84.163372,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "273 Regency Ridge Dr",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 433 2130",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 433 2130",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_33IL294AtyaORpAdinyWJB_39.642086_-84.163372@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_33IL294AtyaORpAdinyWJB_39.642086_-84.163372@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461802092,
-    "wof:geomhash":"98f512986c258cca025895b145f4ff3f",
-    "wof:hierarchy":[],
-    "wof:id":706384173,
-    "wof:lastmodified":1472639955,
-    "wof:name":"Centerville Dermatology",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461802092,
+    "wof:geomhash": "1b980baf92ca2a5ee25732bebb2fe7b5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706384173
+      }
+    ],
+    "wof:id": 706384173,
+    "wof:lastmodified": 1638567104,
+    "wof:name": "Centerville Dermatology",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -84.163372,
     39.642086,
     -84.163372,
     39.642086
-],
+  ],
   "geometry": {"coordinates":[-84.163372,39.642086],"type":"Point"}
 }

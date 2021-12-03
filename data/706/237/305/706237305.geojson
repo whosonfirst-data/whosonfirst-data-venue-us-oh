@@ -2,61 +2,65 @@
   "id": 706237305,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 S Washington St Tiffin OH 44883",
-    "addr:housenumber":"206",
-    "addr:postcode":"44883",
-    "addr:street":"S Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.17624,41.111673,-83.17624,41.111673",
-    "geom:latitude":41.111673,
-    "geom:longitude":-83.17624,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"206 S Washington St",
-    "sg:city":"Tiffin",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Agent",
-            "type":"Services"
-        }
+    "addr:full": "206 S Washington St Tiffin OH 44883",
+    "addr:housenumber": "206",
+    "addr:postcode": "44883",
+    "addr:street": "S Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.176240,41.111673,-83.176240,41.111673",
+    "geom:latitude": 41.111673,
+    "geom:longitude": -83.17624,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "206 S Washington St",
+    "sg:city": "Tiffin",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Agent",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 443 4663",
-    "sg:postcode":"44883",
-    "sg:province":"OH",
-    "sg:tags":[
-        "business"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 443 4663",
+    "sg:postcode": "44883",
+    "sg:province": "OH",
+    "sg:tags": [
+      "business"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01JE0pMynNuzNsv8Po8qWG_41.111673_-83.176240@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_01JE0pMynNuzNsv8Po8qWG_41.111673_-83.176240@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798880,
-    "wof:geomhash":"94803afd16a8d5d3a5c95026fa48dea2",
-    "wof:hierarchy":[],
-    "wof:id":706237305,
-    "wof:lastmodified":1472639566,
-    "wof:name":"Marcie & Associates Realty",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "business"
+    "wof:country": "US",
+    "wof:created": 1461798880,
+    "wof:geomhash": "3fafa9ae4d638e52e7a9df22ca337fe3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706237305
+      }
+    ],
+    "wof:id": 706237305,
+    "wof:lastmodified": 1638567054,
+    "wof:name": "Marcie \u0026 Associates Realty",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "business"
     ]
-},
+  },
   "bbox": [
     -83.17624,
     41.111673,
     -83.17624,
     41.111673
-],
-  "geometry": {"coordinates":[-83.17624000000001,41.111673],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.17624,41.111673],"type":"Point"}
 }

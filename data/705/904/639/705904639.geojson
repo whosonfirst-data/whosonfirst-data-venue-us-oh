@@ -2,61 +2,65 @@
   "id": 705904639,
   "type": "Feature",
   "properties": {
-    "addr:full":"5847 Day Rd Cincinnati OH 45252",
-    "addr:housenumber":"5847",
-    "addr:postcode":"45252",
-    "addr:street":"Day Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.628396,39.274352,-84.628396,39.274352",
-    "geom:latitude":39.274352,
-    "geom:longitude":-84.628396,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5847 Day Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "5847 Day Rd Cincinnati OH 45252",
+    "addr:housenumber": "5847",
+    "addr:postcode": "45252",
+    "addr:street": "Day Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.628396,39.274352,-84.628396,39.274352",
+    "geom:latitude": 39.274352,
+    "geom:longitude": -84.628396,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5847 Day Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 522 3130",
-    "sg:postcode":"45252",
-    "sg:province":"OH",
-    "sg:tags":[
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 522 3130",
+    "sg:postcode": "45252",
+    "sg:province": "OH",
+    "sg:tags": [
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5GEp2zR5E4WAzqkdUPF5VU_39.274352_-84.628396@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5GEp2zR5E4WAzqkdUPF5VU_39.274352_-84.628396@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791509,
-    "wof:geomhash":"03b9b205de195fedb679bebbc2740f79",
-    "wof:hierarchy":[],
-    "wof:id":705904639,
-    "wof:lastmodified":1472639564,
-    "wof:name":"Boots Masonry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "contractor"
+    "wof:country": "US",
+    "wof:created": 1461791509,
+    "wof:geomhash": "70a36e7ba3854d93343d4dce9d35f1ae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705904639
+      }
+    ],
+    "wof:id": 705904639,
+    "wof:lastmodified": 1638567036,
+    "wof:name": "Boots Masonry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -84.628396,
     39.274352,
     -84.628396,
     39.274352
-],
+  ],
   "geometry": {"coordinates":[-84.628396,39.274352],"type":"Point"}
 }

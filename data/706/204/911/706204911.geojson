@@ -2,61 +2,65 @@
   "id": 706204911,
   "type": "Feature",
   "properties": {
-    "addr:full":"3350 Franklin Rd Felicity OH 45120",
-    "addr:housenumber":"3350",
-    "addr:postcode":"45120",
-    "addr:street":"Franklin Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.092917,38.821984,-84.092917,38.821984",
-    "geom:latitude":38.821984,
-    "geom:longitude":-84.092917,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3350 Franklin Rd",
-    "sg:city":"Felicity",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "3350 Franklin Rd Felicity OH 45120",
+    "addr:housenumber": "3350",
+    "addr:postcode": "45120",
+    "addr:street": "Franklin Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.092917,38.821984,-84.092917,38.821984",
+    "geom:latitude": 38.821984,
+    "geom:longitude": -84.092917,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3350 Franklin Rd",
+    "sg:city": "Felicity",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 876 2120",
-    "sg:postcode":"45120",
-    "sg:province":"OH",
-    "sg:tags":[
-        "house"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 876 2120",
+    "sg:postcode": "45120",
+    "sg:province": "OH",
+    "sg:tags": [
+      "house"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5MG2YAoJNFetoU9kl9cQS4_38.821984_-84.092917@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5MG2YAoJNFetoU9kl9cQS4_38.821984_-84.092917@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798180,
-    "wof:geomhash":"0a6629362833022a585e450a1527e090",
-    "wof:hierarchy":[],
-    "wof:id":706204911,
-    "wof:lastmodified":1472639514,
-    "wof:name":"E N Construction LLC",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "house"
+    "wof:country": "US",
+    "wof:created": 1461798180,
+    "wof:geomhash": "fc2748c6277902b395ceb4e137286404",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706204911
+      }
+    ],
+    "wof:id": 706204911,
+    "wof:lastmodified": 1638567043,
+    "wof:name": "E N Construction LLC",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "house"
     ]
-},
+  },
   "bbox": [
     -84.092917,
     38.821984,
     -84.092917,
     38.821984
-],
+  ],
   "geometry": {"coordinates":[-84.092917,38.821984],"type":"Point"}
 }

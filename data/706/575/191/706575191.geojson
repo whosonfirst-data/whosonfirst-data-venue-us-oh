@@ -2,69 +2,73 @@
   "id": 706575191,
   "type": "Feature",
   "properties": {
-    "addr:full":"7144 Wilmington Pike Dayton OH 45459",
-    "addr:housenumber":"7144",
-    "addr:postcode":"45459",
-    "addr:street":"Wilmington Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.11074,39.641129,-84.11074,39.641129",
-    "geom:latitude":39.641129,
-    "geom:longitude":-84.11074,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"7144 Wilmington Pike",
-    "sg:city":"Dayton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7144 Wilmington Pike Dayton OH 45459",
+    "addr:housenumber": "7144",
+    "addr:postcode": "45459",
+    "addr:street": "Wilmington Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.110740,39.641129,-84.110740,39.641129",
+    "geom:latitude": 39.641129,
+    "geom:longitude": -84.11074,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "7144 Wilmington Pike",
+    "sg:city": "Dayton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/sugarcreek/90157-penn-station/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 433 9900",
-    "sg:postcode":"45459",
-    "sg:province":"OH",
-    "sg:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/oh/sugarcreek/90157-penn-station/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 433 9900",
+    "sg:postcode": "45459",
+    "sg:province": "OH",
+    "sg:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125150445,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Ea2F3Q2yXCCbJHQFJVY8r_39.641129_-84.110740@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125150445,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3Ea2F3Q2yXCCbJHQFJVY8r_39.641129_-84.110740@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461806184,
-    "wof:geomhash":"715b2e58afcc2aaaa6ddb6d16f5f9df1",
-    "wof:hierarchy":[],
-    "wof:id":706575191,
-    "wof:lastmodified":1510697658,
-    "wof:name":"Penn Station",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1461806184,
+    "wof:geomhash": "715b2e58afcc2aaaa6ddb6d16f5f9df1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706575191
+      }
+    ],
+    "wof:id": 706575191,
+    "wof:lastmodified": 1638567139,
+    "wof:name": "Penn Station",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -84.11074,
     39.641129,
     -84.11074,
     39.641129
-],
-  "geometry": {"coordinates":[-84.11074000000001,39.641129],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.11074,39.641129],"type":"Point"}
 }

@@ -2,70 +2,74 @@
   "id": 706368795,
   "type": "Feature",
   "properties": {
-    "addr:full":"521 Harriet St Cincinnati OH 45203",
-    "addr:housenumber":"521",
-    "addr:postcode":"45203",
-    "addr:street":"Harriet St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.537043,39.09961,-84.537043,39.09961",
-    "geom:latitude":39.09961,
-    "geom:longitude":-84.537043,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"521 Harriet St",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        },
-        {
-            "category":"Manufacturing",
-            "subcategory":"Tools & Machinery",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "521 Harriet St Cincinnati OH 45203",
+    "addr:housenumber": "521",
+    "addr:postcode": "45203",
+    "addr:street": "Harriet St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.537043,39.099610,-84.537043,39.099610",
+    "geom:latitude": 39.09961,
+    "geom:longitude": -84.537043,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "521 Harriet St",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      },
+      {
+        "category": "Manufacturing",
+        "subcategory": "Tools \u0026 Machinery",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 241 5156",
-    "sg:postcode":"45203",
-    "sg:province":"OH",
-    "sg:tags":[
-        "steel",
-        "welding",
-        "fabricating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 241 5156",
+    "sg:postcode": "45203",
+    "sg:province": "OH",
+    "sg:tags": [
+      "steel",
+      "welding",
+      "fabricating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6IW0Yx0Y52S7pfEJuLKBo7_39.099610_-84.537043@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6IW0Yx0Y52S7pfEJuLKBo7_39.099610_-84.537043@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801784,
-    "wof:geomhash":"0f453a8a8c2ca31f1f93854365084c5e",
-    "wof:hierarchy":[],
-    "wof:id":706368795,
-    "wof:lastmodified":1472639936,
-    "wof:name":"Monnig Welding Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "steel",
-        "welding",
-        "fabricating"
+    "wof:country": "US",
+    "wof:created": 1461801784,
+    "wof:geomhash": "21d9cf5b7dfc7ba9eb974e251fa1ba67",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706368795
+      }
+    ],
+    "wof:id": 706368795,
+    "wof:lastmodified": 1638567103,
+    "wof:name": "Monnig Welding Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "steel",
+      "welding",
+      "fabricating"
     ]
-},
+  },
   "bbox": [
     -84.537043,
     39.09961,
     -84.537043,
     39.09961
-],
+  ],
   "geometry": {"coordinates":[-84.537043,39.09961],"type":"Point"}
 }

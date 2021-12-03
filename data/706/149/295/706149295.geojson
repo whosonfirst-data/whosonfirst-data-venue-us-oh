@@ -2,61 +2,65 @@
   "id": 706149295,
   "type": "Feature",
   "properties": {
-    "addr:full":"3251 Maple Ave Zanesville OH 43701",
-    "addr:housenumber":"3251",
-    "addr:postcode":"43701",
-    "addr:street":"Maple Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.019102,39.981924,-82.019102,39.981924",
-    "geom:latitude":39.981924,
-    "geom:longitude":-82.019102,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3251 Maple Ave",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3251 Maple Ave Zanesville OH 43701",
+    "addr:housenumber": "3251",
+    "addr:postcode": "43701",
+    "addr:street": "Maple Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.019102,39.981924,-82.019102,39.981924",
+    "geom:latitude": 39.981924,
+    "geom:longitude": -82.019102,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3251 Maple Ave",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 452 5659",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 452 5659",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6dJquH7taxnJCadwYLY1Kg_39.981924_-82.019102@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6dJquH7taxnJCadwYLY1Kg_39.981924_-82.019102@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796962,
-    "wof:geomhash":"f8951245493fc87ae7b5eeea6b6fd5a2",
-    "wof:hierarchy":[],
-    "wof:id":706149295,
-    "wof:lastmodified":1472639355,
-    "wof:name":"Big Lots Furniture",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1461796962,
+    "wof:geomhash": "3221f4f268532b5d5960ea53b32efab8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706149295
+      }
+    ],
+    "wof:id": 706149295,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Big Lots Furniture",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -82.019102,
     39.981924,
     -82.019102,
     39.981924
-],
+  ],
   "geometry": {"coordinates":[-82.019102,39.981924],"type":"Point"}
 }

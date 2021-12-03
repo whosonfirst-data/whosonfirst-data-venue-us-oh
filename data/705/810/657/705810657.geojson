@@ -2,61 +2,65 @@
   "id": 705810657,
   "type": "Feature",
   "properties": {
-    "addr:full":"160 Barbara Ave Steubenville OH 43952",
-    "addr:housenumber":"160",
-    "addr:postcode":"43952",
-    "addr:street":"Barbara Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.624781,40.402653,-80.624781,40.402653",
-    "geom:latitude":40.402653,
-    "geom:longitude":-80.624781,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"160 Barbara Ave",
-    "sg:city":"Steubenville",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "160 Barbara Ave Steubenville OH 43952",
+    "addr:housenumber": "160",
+    "addr:postcode": "43952",
+    "addr:street": "Barbara Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.624781,40.402653,-80.624781,40.402653",
+    "geom:latitude": 40.402653,
+    "geom:longitude": -80.624781,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "160 Barbara Ave",
+    "sg:city": "Steubenville",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 283 1900",
-    "sg:postcode":"43952",
-    "sg:province":"OH",
-    "sg:tags":[
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 283 1900",
+    "sg:postcode": "43952",
+    "sg:province": "OH",
+    "sg:tags": [
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BKnzweUkC8DtF9UAnv5B6_40.402653_-80.624781@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3BKnzweUkC8DtF9UAnv5B6_40.402653_-80.624781@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461789244,
-    "wof:geomhash":"a4b798f2b6908abb422399687d8a4dfb",
-    "wof:hierarchy":[],
-    "wof:id":705810657,
-    "wof:lastmodified":1472639319,
-    "wof:name":"R D Frey Trucking",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461789244,
+    "wof:geomhash": "d17b25c831a44811e522cd175894d95d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705810657
+      }
+    ],
+    "wof:id": 705810657,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "R D Frey Trucking",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.624781,
     40.402653,
     -80.624781,
     40.402653
-],
+  ],
   "geometry": {"coordinates":[-80.624781,40.402653],"type":"Point"}
 }

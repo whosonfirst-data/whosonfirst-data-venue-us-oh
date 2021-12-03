@@ -2,61 +2,65 @@
   "id": 689735699,
   "type": "Feature",
   "properties": {
-    "addr:full":"51720 Co Rd 16 West Lafayette OH 43845",
-    "addr:housenumber":"51720;16",
-    "addr:postcode":"43845",
-    "addr:street":"Co Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.7884,40.277989,-81.7884,40.277989",
-    "geom:latitude":40.277989,
-    "geom:longitude":-81.7884,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"51720 Co Rd 16",
-    "sg:city":"West Lafayette",
-    "sg:classifiers":[
-        {
-            "category":"Railroad",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "51720 Co Rd 16 West Lafayette OH 43845",
+    "addr:housenumber": "51720;16",
+    "addr:postcode": "43845",
+    "addr:street": "Co Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.788400,40.277989,-81.788400,40.277989",
+    "geom:latitude": 40.277989,
+    "geom:longitude": -81.7884,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "51720 Co Rd 16",
+    "sg:city": "West Lafayette",
+    "sg:classifiers": [
+      {
+        "category": "Railroad",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 622 8092",
-    "sg:postcode":"43845",
-    "sg:province":"OH",
-    "sg:tags":[
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 622 8092",
+    "sg:postcode": "43845",
+    "sg:province": "OH",
+    "sg:tags": [
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_735uI4xixnrTCoj3t8lDzP_40.277989_-81.788400@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_735uI4xixnrTCoj3t8lDzP_40.277989_-81.788400@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780088,
-    "wof:geomhash":"36532ad08ccca64c7262370f391960cd",
-    "wof:hierarchy":[],
-    "wof:id":689735699,
-    "wof:lastmodified":1472639755,
-    "wof:name":"Ohio Central Railroad",
-    "wof:parent_id":420534607,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "line"
+    "wof:country": "US",
+    "wof:created": 1461780088,
+    "wof:geomhash": "f2e692a4ce3c4ff6eaaecf4d130396a1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689735699
+      }
+    ],
+    "wof:id": 689735699,
+    "wof:lastmodified": 1638567035,
+    "wof:name": "Ohio Central Railroad",
+    "wof:parent_id": 420534607,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "line"
     ]
-},
+  },
   "bbox": [
     -81.7884,
     40.277989,
     -81.7884,
     40.277989
-],
+  ],
   "geometry": {"coordinates":[-81.7884,40.277989],"type":"Point"}
 }

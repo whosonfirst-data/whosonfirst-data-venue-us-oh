@@ -2,61 +2,65 @@
   "id": 705973377,
   "type": "Feature",
   "properties": {
-    "addr:full":"5815 East Pike Zanesville OH 43701",
-    "addr:housenumber":"5815",
-    "addr:postcode":"43701",
-    "addr:street":"East Pike",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.885164,39.968413,-81.885164,39.968413",
-    "geom:latitude":39.968413,
-    "geom:longitude":-81.885164,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5815 East Pike",
-    "sg:city":"Zanesville",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5815 East Pike Zanesville OH 43701",
+    "addr:housenumber": "5815",
+    "addr:postcode": "43701",
+    "addr:street": "East Pike",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.885164,39.968413,-81.885164,39.968413",
+    "geom:latitude": 39.968413,
+    "geom:longitude": -81.885164,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5815 East Pike",
+    "sg:city": "Zanesville",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 453 1360",
-    "sg:postcode":"43701",
-    "sg:province":"OH",
-    "sg:tags":[
-        "drinking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 453 1360",
+    "sg:postcode": "43701",
+    "sg:province": "OH",
+    "sg:tags": [
+      "drinking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0kf4mJixVbt7uPUM6sDwsW_39.968413_-81.885164@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0kf4mJixVbt7uPUM6sDwsW_39.968413_-81.885164@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793036,
-    "wof:geomhash":"a6339bc3ed7902374bfb069c4256133f",
-    "wof:hierarchy":[],
-    "wof:id":705973377,
-    "wof:lastmodified":1472639746,
-    "wof:name":"William Weiser",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drinking"
+    "wof:country": "US",
+    "wof:created": 1461793036,
+    "wof:geomhash": "52989fef87263c02ecd20e7efc64f28a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705973377
+      }
+    ],
+    "wof:id": 705973377,
+    "wof:lastmodified": 1638567066,
+    "wof:name": "William Weiser",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drinking"
     ]
-},
+  },
   "bbox": [
     -81.885164,
     39.968413,
     -81.885164,
     39.968413
-],
+  ],
   "geometry": {"coordinates":[-81.885164,39.968413],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689750855,
   "type": "Feature",
   "properties": {
-    "addr:full":"699 E Smith Rd Medina OH 44256",
-    "addr:housenumber":"699",
-    "addr:postcode":"44256",
-    "addr:street":"E Smith Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.849242,41.135717,-81.849242,41.135717",
-    "geom:latitude":41.135717,
-    "geom:longitude":-81.849242,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"699 E Smith Rd",
-    "sg:city":"Medina",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "699 E Smith Rd Medina OH 44256",
+    "addr:housenumber": "699",
+    "addr:postcode": "44256",
+    "addr:street": "E Smith Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.849242,41.135717,-81.849242,41.135717",
+    "geom:latitude": 41.135717,
+    "geom:longitude": -81.849242,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "699 E Smith Rd",
+    "sg:city": "Medina",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 725 7730",
-    "sg:postcode":"44256",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 725 7730",
+    "sg:postcode": "44256",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Zsw7zx2pT9mqARpBis4Pq_41.135717_-81.849242@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0Zsw7zx2pT9mqARpBis4Pq_41.135717_-81.849242@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461780469,
-    "wof:geomhash":"42ac61d32d15a1b15f93027e05031e85",
-    "wof:hierarchy":[],
-    "wof:id":689750855,
-    "wof:lastmodified":1472639806,
-    "wof:name":"Medina Alliance Fellowship",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461780469,
+    "wof:geomhash": "3f237cf89e679e48e1eebdbe1d683a6f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689750855
+      }
+    ],
+    "wof:id": 689750855,
+    "wof:lastmodified": 1638567042,
+    "wof:name": "Medina Alliance Fellowship",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.849242,
     41.135717,
     -81.849242,
     41.135717
-],
+  ],
   "geometry": {"coordinates":[-81.849242,41.135717],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 705856117,
   "type": "Feature",
   "properties": {
-    "addr:full":"23805 Elmwood Dr Cleveland OH 44123",
-    "addr:housenumber":"23805",
-    "addr:postcode":"44123",
-    "addr:street":"Elmwood Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.516576,41.612683,-81.516576,41.612683",
-    "geom:latitude":41.612683,
-    "geom:longitude":-81.516576,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"23805 Elmwood Dr",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "23805 Elmwood Dr Cleveland OH 44123",
+    "addr:housenumber": "23805",
+    "addr:postcode": "44123",
+    "addr:street": "Elmwood Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.516576,41.612683,-81.516576,41.612683",
+    "geom:latitude": 41.612683,
+    "geom:longitude": -81.516576,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "23805 Elmwood Dr",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 731 3020",
-    "sg:postcode":"44123",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 731 3020",
+    "sg:postcode": "44123",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13Vh7HGJMDUqAFfM8wdLup_41.612683_-81.516576@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_13Vh7HGJMDUqAFfM8wdLup_41.612683_-81.516576@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790331,
-    "wof:geomhash":"ed101c0a44a847c7298660af32a8d6d5",
-    "wof:hierarchy":[],
-    "wof:id":705856117,
-    "wof:lastmodified":1472639406,
-    "wof:name":"St Robert Convent",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461790331,
+    "wof:geomhash": "ccdc75e01635a746f2adbe86a169636e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705856117
+      }
+    ],
+    "wof:id": 705856117,
+    "wof:lastmodified": 1638567013,
+    "wof:name": "St Robert Convent",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.516576,
     41.612683,
     -81.516576,
     41.612683
-],
+  ],
   "geometry": {"coordinates":[-81.516576,41.612683],"type":"Point"}
 }

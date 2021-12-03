@@ -2,61 +2,65 @@
   "id": 706223075,
   "type": "Feature",
   "properties": {
-    "addr:full":"1182 Island Rd Circleville OH 43113",
-    "addr:housenumber":"1182",
-    "addr:postcode":"43113",
-    "addr:street":"Island Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.955011,39.612868,-82.955011,39.612868",
-    "geom:latitude":39.612868,
-    "geom:longitude":-82.955011,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1182 Island Rd",
-    "sg:city":"Circleville",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "1182 Island Rd Circleville OH 43113",
+    "addr:housenumber": "1182",
+    "addr:postcode": "43113",
+    "addr:street": "Island Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.955011,39.612868,-82.955011,39.612868",
+    "geom:latitude": 39.612868,
+    "geom:longitude": -82.955011,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1182 Island Rd",
+    "sg:city": "Circleville",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 474 9530",
-    "sg:postcode":"43113",
-    "sg:province":"OH",
-    "sg:tags":[
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 474 9530",
+    "sg:postcode": "43113",
+    "sg:province": "OH",
+    "sg:tags": [
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55XzBdi1GlnvqIalN6Mn5O_39.612868_-82.955011@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55XzBdi1GlnvqIalN6Mn5O_39.612868_-82.955011@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798562,
-    "wof:geomhash":"4067b4e8cc8cef4b781bc7524430ea2b",
-    "wof:hierarchy":[],
-    "wof:id":706223075,
-    "wof:lastmodified":1472639506,
-    "wof:name":"Circleville Twin Quarries",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1461798562,
+    "wof:geomhash": "4c59b2b70222ec696faed7220a624807",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706223075
+      }
+    ],
+    "wof:id": 706223075,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Circleville Twin Quarries",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parks"
     ]
-},
+  },
   "bbox": [
     -82.955011,
     39.612868,
     -82.955011,
     39.612868
-],
+  ],
   "geometry": {"coordinates":[-82.955011,39.612868],"type":"Point"}
 }

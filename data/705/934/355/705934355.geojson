@@ -2,61 +2,65 @@
   "id": 705934355,
   "type": "Feature",
   "properties": {
-    "addr:full":"125 E State St SE Niles OH 44446",
-    "addr:housenumber":"125",
-    "addr:postcode":"44446",
-    "addr:street":"E State St Se",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.763413,41.181392,-80.763413,41.181392",
-    "geom:latitude":41.181392,
-    "geom:longitude":-80.763413,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"125 E State St SE",
-    "sg:city":"Niles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "125 E State St SE Niles OH 44446",
+    "addr:housenumber": "125",
+    "addr:postcode": "44446",
+    "addr:street": "E State St Se",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.763413,41.181392,-80.763413,41.181392",
+    "geom:latitude": 41.181392,
+    "geom:longitude": -80.763413,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "125 E State St SE",
+    "sg:city": "Niles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 505 9870",
-    "sg:postcode":"44446",
-    "sg:province":"OH",
-    "sg:tags":[
-        "monument"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 505 9870",
+    "sg:postcode": "44446",
+    "sg:province": "OH",
+    "sg:tags": [
+      "monument"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4GhhZaNUQFA4sfmRNCVQIk_41.181392_-80.763413@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4GhhZaNUQFA4sfmRNCVQIk_41.181392_-80.763413@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461792166,
-    "wof:geomhash":"1fd0e38ff594b33f26e3910e99ac36e3",
-    "wof:hierarchy":[],
-    "wof:id":705934355,
-    "wof:lastmodified":1472639655,
-    "wof:name":"Behm Memorials",
-    "wof:parent_id":420535291,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "monument"
+    "wof:country": "US",
+    "wof:created": 1461792166,
+    "wof:geomhash": "1435e77bc10d1afe06a571048ec5b168",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705934355
+      }
+    ],
+    "wof:id": 705934355,
+    "wof:lastmodified": 1638567045,
+    "wof:name": "Behm Memorials",
+    "wof:parent_id": 420535291,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "monument"
     ]
-},
+  },
   "bbox": [
     -80.763413,
     41.181392,
     -80.763413,
     41.181392
-],
+  ],
   "geometry": {"coordinates":[-80.763413,41.181392],"type":"Point"}
 }

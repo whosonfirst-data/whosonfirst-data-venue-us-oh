@@ -2,56 +2,60 @@
   "id": 705895025,
   "type": "Feature",
   "properties": {
-    "addr:full":"10061 Twp Rd 301 Millersburg OH 44654",
-    "addr:housenumber":"10061;301",
-    "addr:postcode":"44654",
-    "addr:street":"Twp Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.98766,40.547134,-81.98766,40.547134",
-    "geom:latitude":40.547134,
-    "geom:longitude":-81.98766,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"10061 Twp Rd 301",
-    "sg:city":"Millersburg",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Dairy Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "10061 Twp Rd 301 Millersburg OH 44654",
+    "addr:housenumber": "10061;301",
+    "addr:postcode": "44654",
+    "addr:street": "Twp Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.987660,40.547134,-81.987660,40.547134",
+    "geom:latitude": 40.547134,
+    "geom:longitude": -81.98766,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "10061 Twp Rd 301",
+    "sg:city": "Millersburg",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Dairy Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 674 1220",
-    "sg:postcode":"44654",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3wX8GnOpKmZBFe0PTUrSrD_40.547134_-81.987660@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 674 1220",
+    "sg:postcode": "44654",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3wX8GnOpKmZBFe0PTUrSrD_40.547134_-81.987660@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461791293,
-    "wof:geomhash":"3abc30b0ceeae79aa5f96563d0b92332",
-    "wof:hierarchy":[],
-    "wof:id":705895025,
-    "wof:lastmodified":1472639545,
-    "wof:name":"Clover Patch Dairy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461791293,
+    "wof:geomhash": "bcf2488690a05d6deed26a7b6d36352a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705895025
+      }
+    ],
+    "wof:id": 705895025,
+    "wof:lastmodified": 1638567029,
+    "wof:name": "Clover Patch Dairy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -81.98766,
     40.547134,
     -81.98766,
     40.547134
-],
-  "geometry": {"coordinates":[-81.98766000000001,40.547134],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.98766,40.547134],"type":"Point"}
 }

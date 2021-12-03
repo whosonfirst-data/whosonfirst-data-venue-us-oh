@@ -2,61 +2,65 @@
   "id": 706050273,
   "type": "Feature",
   "properties": {
-    "addr:full":"730 George St Van Wert OH 45891",
-    "addr:housenumber":"730",
-    "addr:postcode":"45891",
-    "addr:street":"George St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.592687,40.868991,-84.592687,40.868991",
-    "geom:latitude":40.868991,
-    "geom:longitude":-84.592687,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"730 George St",
-    "sg:city":"Van Wert",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Construction",
-            "type":"Services"
-        }
+    "addr:full": "730 George St Van Wert OH 45891",
+    "addr:housenumber": "730",
+    "addr:postcode": "45891",
+    "addr:street": "George St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.592687,40.868991,-84.592687,40.868991",
+    "geom:latitude": 40.868991,
+    "geom:longitude": -84.592687,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "730 George St",
+    "sg:city": "Van Wert",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Construction",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 238 0444",
-    "sg:postcode":"45891",
-    "sg:province":"OH",
-    "sg:tags":[
-        "industrial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 238 0444",
+    "sg:postcode": "45891",
+    "sg:province": "OH",
+    "sg:tags": [
+      "industrial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2tjhxKMf7y8ujArW7ngrVm_40.868991_-84.592687@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2tjhxKMf7y8ujArW7ngrVm_40.868991_-84.592687@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461794605,
-    "wof:geomhash":"65819baa0b9a24972961051397899a9f",
-    "wof:hierarchy":[],
-    "wof:id":706050273,
-    "wof:lastmodified":1472639037,
-    "wof:name":"Rotsinger Remodeling Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "industrial"
+    "wof:country": "US",
+    "wof:created": 1461794605,
+    "wof:geomhash": "81151ab3f3171f16baf615da28dc6efb",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706050273
+      }
+    ],
+    "wof:id": 706050273,
+    "wof:lastmodified": 1638566969,
+    "wof:name": "Rotsinger Remodeling Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "industrial"
     ]
-},
+  },
   "bbox": [
     -84.592687,
     40.868991,
     -84.592687,
     40.868991
-],
+  ],
   "geometry": {"coordinates":[-84.592687,40.868991],"type":"Point"}
 }

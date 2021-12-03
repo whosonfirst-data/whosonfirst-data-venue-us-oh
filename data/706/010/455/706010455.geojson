@@ -2,65 +2,69 @@
   "id": 706010455,
   "type": "Feature",
   "properties": {
-    "addr:full":"2215 Barkcreek Dr Fremont OH 43420",
-    "addr:housenumber":"2215",
-    "addr:postcode":"43420",
-    "addr:street":"Barkcreek Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.076879,41.350675,-83.076879,41.350675",
-    "geom:latitude":41.350675,
-    "geom:longitude":-83.076879,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"2215 Barkcreek Dr",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "2215 Barkcreek Dr Fremont OH 43420",
+    "addr:housenumber": "2215",
+    "addr:postcode": "43420",
+    "addr:street": "Barkcreek Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.076879,41.350675,-83.076879,41.350675",
+    "geom:latitude": 41.350675,
+    "geom:longitude": -83.076879,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "2215 Barkcreek Dr",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 355 8523",
-    "sg:postcode":"43420",
-    "sg:province":"OH",
-    "sg:tags":[
-        "warehouse",
-        "self",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 355 8523",
+    "sg:postcode": "43420",
+    "sg:province": "OH",
+    "sg:tags": [
+      "warehouse",
+      "self",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_48xnReuPgHasqM2bfKVacz_41.350675_-83.076879@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_48xnReuPgHasqM2bfKVacz_41.350675_-83.076879@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793801,
-    "wof:geomhash":"6ebe65101bee1949ead3775839c47541",
-    "wof:hierarchy":[],
-    "wof:id":706010455,
-    "wof:lastmodified":1472638417,
-    "wof:name":"GMH Enterprises",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "warehouse",
-        "self",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1461793801,
+    "wof:geomhash": "36269ab12e16f87ad7cf57cd15581efe",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706010455
+      }
+    ],
+    "wof:id": 706010455,
+    "wof:lastmodified": 1638566933,
+    "wof:name": "GMH Enterprises",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "warehouse",
+      "self",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -83.076879,
     41.350675,
     -83.076879,
     41.350675
-],
-  "geometry": {"coordinates":[-83.07687900000001,41.350675],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.076879,41.350675],"type":"Point"}
 }

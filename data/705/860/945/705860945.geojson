@@ -2,61 +2,65 @@
   "id": 705860945,
   "type": "Feature",
   "properties": {
-    "addr:full":"23 Karis St Waterville OH 43566",
-    "addr:housenumber":"23",
-    "addr:postcode":"43566",
-    "addr:street":"Karis St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.736378,41.500888,-83.736378,41.500888",
-    "geom:latitude":41.500888,
-    "geom:longitude":-83.736378,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"23 Karis St",
-    "sg:city":"Waterville",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "23 Karis St Waterville OH 43566",
+    "addr:housenumber": "23",
+    "addr:postcode": "43566",
+    "addr:street": "Karis St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.736378,41.500888,-83.736378,41.500888",
+    "geom:latitude": 41.500888,
+    "geom:longitude": -83.736378,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "23 Karis St",
+    "sg:city": "Waterville",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 878 0701",
-    "sg:postcode":"43566",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 878 0701",
+    "sg:postcode": "43566",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3uPLilnnfjY4BSBD6n6CFg_41.500888_-83.736378@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3uPLilnnfjY4BSBD6n6CFg_41.500888_-83.736378@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461790447,
-    "wof:geomhash":"edaa4620d80d5f9dbeb022acfecdc144",
-    "wof:hierarchy":[],
-    "wof:id":705860945,
-    "wof:lastmodified":1472639435,
-    "wof:name":"Gavin Pitt",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461790447,
+    "wof:geomhash": "419b45b90b9c87ff8a411d1d9fe99859",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705860945
+      }
+    ],
+    "wof:id": 705860945,
+    "wof:lastmodified": 1638567017,
+    "wof:name": "Gavin Pitt",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -83.736378,
     41.500888,
     -83.736378,
     41.500888
-],
+  ],
   "geometry": {"coordinates":[-83.736378,41.500888],"type":"Point"}
 }

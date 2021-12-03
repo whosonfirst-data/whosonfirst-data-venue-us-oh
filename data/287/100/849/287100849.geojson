@@ -2,87 +2,88 @@
   "id": 287100849,
   "type": "Feature",
   "properties": {
-    "addr:full":"1416 W 1st St Springfield OH 45504",
-    "addr:housenumber":"1416",
-    "addr:postcode":"45504",
-    "addr:street":"W 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.835137,39.940543,-83.835137,39.940543",
-    "geom:latitude":39.940543,
-    "geom:longitude":-83.835137,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1416 W 1st St",
-    "sg:city":"Springfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1416 W 1st St Springfield OH 45504",
+    "addr:housenumber": "1416",
+    "addr:postcode": "45504",
+    "addr:street": "W 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.835137,39.940543,-83.835137,39.940543",
+    "geom:latitude": 39.940543,
+    "geom:longitude": -83.835137,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1416 W 1st St",
+    "sg:city": "Springfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 323 6425",
-    "sg:postcode":"45504",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "medical",
-        "specializes",
-        "cardiac",
-        "surgeon",
-        "care"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 323 6425",
+    "sg:postcode": "45504",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "medical",
+      "specializes",
+      "cardiac",
+      "surgeon",
+      "care"
     ],
-    "sg:website":"www.oiccheart.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688485,
-        85633793,
-        85982959,
-        102083685,
-        85849229
+    "sg:website": "www.oiccheart.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688485,
+      85633793,
+      85982959,
+      102083685,
+      85849229
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Gi0hxPIXssWYSvgnO98cx_39.940543_-83.835137@1294180530"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4Gi0hxPIXssWYSvgnO98cx_39.940543_-83.835137@1294180530"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d87984ec06254be02a821efd0aa8ad39",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083685,
-            "locality_id":85982959,
-            "neighbourhood_id":85849229,
-            "region_id":85688485,
-            "venue_id":287100849
-        }
+    "wof:country": "US",
+    "wof:created": 1638566908,
+    "wof:geomhash": "7a0d7fb3d7d315907ae8fcaae9ac9579",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083685,
+        "locality_id": 85982959,
+        "neighbourhood_id": 85849229,
+        "region_id": 85688485,
+        "venue_id": 287100849
+      }
     ],
-    "wof:id":287100849,
-    "wof:lastmodified":1472638273,
-    "wof:name":"Ohio Institute of Cardiac Care",
-    "wof:parent_id":85849229,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "medical",
-        "specializes",
-        "cardiac",
-        "surgeon",
-        "care"
+    "wof:id": 287100849,
+    "wof:lastmodified": 1638566908,
+    "wof:name": "Ohio Institute of Cardiac Care",
+    "wof:parent_id": 85849229,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "medical",
+      "specializes",
+      "cardiac",
+      "surgeon",
+      "care"
     ]
-},
+  },
   "bbox": [
     -83.835137,
     39.940543,
     -83.835137,
     39.940543
-],
+  ],
   "geometry": {"coordinates":[-83.835137,39.940543],"type":"Point"}
 }

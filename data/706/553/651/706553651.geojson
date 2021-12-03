@@ -2,66 +2,70 @@
   "id": 706553651,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 N Clinton St Defiance OH 43512",
-    "addr:housenumber":"1111",
-    "addr:postcode":"43512",
-    "addr:street":"N Clinton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-84.360817,41.301183,-84.360817,41.301183",
-    "geom:latitude":41.301183,
-    "geom:longitude":-84.360817,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "sg:address":"1111 N Clinton St",
-    "sg:city":"Defiance",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1111 N Clinton St Defiance OH 43512",
+    "addr:housenumber": "1111",
+    "addr:postcode": "43512",
+    "addr:street": "N Clinton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-84.360817,41.301183,-84.360817,41.301183",
+    "geom:latitude": 41.301183,
+    "geom:longitude": -84.360817,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "sg:address": "1111 N Clinton St",
+    "sg:city": "Defiance",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/oh/noble/194876-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"43512",
-    "sg:province":"OH",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/oh/noble/194876-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "43512",
+    "sg:province": "OH",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6CJdfa3QsUlxeLZUKJuTcO_41.301183_-84.360817@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6CJdfa3QsUlxeLZUKJuTcO_41.301183_-84.360817@1299784598"
     },
-    "wof:country":"US",
-    "wof:created":1461805729,
-    "wof:geomhash":"61f901170dccb1f526e7f0aaf6bea3e6",
-    "wof:hierarchy":[],
-    "wof:id":706553651,
-    "wof:lastmodified":1512142843,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1461805729,
+    "wof:geomhash": "61f901170dccb1f526e7f0aaf6bea3e6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706553651
+      }
+    ],
+    "wof:id": 706553651,
+    "wof:lastmodified": 1638567135,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -84.360817,
     41.301183,
     -84.360817,
     41.301183
-],
+  ],
   "geometry": {"coordinates":[-84.360817,41.301183],"type":"Point"}
 }

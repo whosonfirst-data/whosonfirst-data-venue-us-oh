@@ -2,61 +2,65 @@
   "id": 706323005,
   "type": "Feature",
   "properties": {
-    "addr:full":"59 E Main St Amelia OH 45102",
-    "addr:housenumber":"59",
-    "addr:postcode":"45102",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.212724,39.02466,-84.212724,39.02466",
-    "geom:latitude":39.02466,
-    "geom:longitude":-84.212724,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"59 E Main St",
-    "sg:city":"Amelia",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "59 E Main St Amelia OH 45102",
+    "addr:housenumber": "59",
+    "addr:postcode": "45102",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.212724,39.024660,-84.212724,39.024660",
+    "geom:latitude": 39.02466,
+    "geom:longitude": -84.212724,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "59 E Main St",
+    "sg:city": "Amelia",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 752 6170",
-    "sg:postcode":"45102",
-    "sg:province":"OH",
-    "sg:tags":[
-        "counseling"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 752 6170",
+    "sg:postcode": "45102",
+    "sg:province": "OH",
+    "sg:tags": [
+      "counseling"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6oPmXzrHVUjStN1KeAz323_39.024660_-84.212724@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6oPmXzrHVUjStN1KeAz323_39.024660_-84.212724@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461800807,
-    "wof:geomhash":"768759d615bf996fb5222d864377bafa",
-    "wof:hierarchy":[],
-    "wof:id":706323005,
-    "wof:lastmodified":1472639781,
-    "wof:name":"Clermont Counseling Ctr",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counseling"
+    "wof:country": "US",
+    "wof:created": 1461800807,
+    "wof:geomhash": "aeac56e061d3cb9cfd2edd46e74042af",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706323005
+      }
+    ],
+    "wof:id": 706323005,
+    "wof:lastmodified": 1638567086,
+    "wof:name": "Clermont Counseling Ctr",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counseling"
     ]
-},
+  },
   "bbox": [
     -84.212724,
     39.02466,
     -84.212724,
     39.02466
-],
-  "geometry": {"coordinates":[-84.21272399999999,39.02466],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.212724,39.02466],"type":"Point"}
 }

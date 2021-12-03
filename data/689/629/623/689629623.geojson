@@ -2,61 +2,65 @@
   "id": 689629623,
   "type": "Feature",
   "properties": {
-    "addr:full":"34 Sturges Ave Mansfield OH 44902",
-    "addr:housenumber":"34",
-    "addr:postcode":"44902",
-    "addr:street":"Sturges Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.523235,40.7582,-82.523235,40.7582",
-    "geom:latitude":40.7582,
-    "geom:longitude":-82.523235,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"34 Sturges Ave",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "34 Sturges Ave Mansfield OH 44902",
+    "addr:housenumber": "34",
+    "addr:postcode": "44902",
+    "addr:street": "Sturges Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.523235,40.758200,-82.523235,40.758200",
+    "geom:latitude": 40.7582,
+    "geom:longitude": -82.523235,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "34 Sturges Ave",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 525 2553",
-    "sg:postcode":"44902",
-    "sg:province":"OH",
-    "sg:tags":[
-        "counseling"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 525 2553",
+    "sg:postcode": "44902",
+    "sg:province": "OH",
+    "sg:tags": [
+      "counseling"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6m2vdUmTKkuTcBb4Sr4YNm_40.758200_-82.523235@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6m2vdUmTKkuTcBb4Sr4YNm_40.758200_-82.523235@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777145,
-    "wof:geomhash":"b82e62c635213ccbaf1482b7621005d0",
-    "wof:hierarchy":[],
-    "wof:id":689629623,
-    "wof:lastmodified":1472639467,
-    "wof:name":"Care Counseling",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counseling"
+    "wof:country": "US",
+    "wof:created": 1461777145,
+    "wof:geomhash": "6456ef2be20c2362367861a1d68cde8f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689629623
+      }
+    ],
+    "wof:id": 689629623,
+    "wof:lastmodified": 1638567001,
+    "wof:name": "Care Counseling",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counseling"
     ]
-},
+  },
   "bbox": [
     -82.523235,
     40.7582,
     -82.523235,
     40.7582
-],
+  ],
   "geometry": {"coordinates":[-82.523235,40.7582],"type":"Point"}
 }

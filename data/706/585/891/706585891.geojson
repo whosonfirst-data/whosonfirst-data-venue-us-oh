@@ -2,72 +2,76 @@
   "id": 706585891,
   "type": "Feature",
   "properties": {
-    "addr:full":"3800 Municipal Way Hilliard OH 43026",
-    "addr:housenumber":"3800",
-    "addr:postcode":"43026",
-    "addr:street":"Municipal Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.151056,40.029818,-83.151056,40.029818",
-    "geom:latitude":40.029818,
-    "geom:longitude":-83.151056,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"3800 Municipal Way",
-    "sg:city":"Hilliard",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "3800 Municipal Way Hilliard OH 43026",
+    "addr:housenumber": "3800",
+    "addr:postcode": "43026",
+    "addr:street": "Municipal Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.151056,40.029818,-83.151056,40.029818",
+    "geom:latitude": 40.029818,
+    "geom:longitude": -83.151056,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "3800 Municipal Way",
+    "sg:city": "Hilliard",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 614 529 6017",
-    "sg:postcode":"43026",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department",
-        "township",
-        "government-city",
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 614 529 6017",
+    "sg:postcode": "43026",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department",
+      "township",
+      "government-city",
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Ic6zfYEXVmkH7oh2YHUVe_40.029818_-83.151056@1303262752"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6Ic6zfYEXVmkH7oh2YHUVe_40.029818_-83.151056@1303262752"
     },
-    "wof:country":"US",
-    "wof:created":1461806439,
-    "wof:geomhash":"b11a0311ce9ea227a463073f06849ff9",
-    "wof:hierarchy":[],
-    "wof:id":706585891,
-    "wof:lastmodified":1472640215,
-    "wof:name":"City of Hilliard Municipal Building",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "township",
-        "government-city",
-        "village"
+    "wof:country": "US",
+    "wof:created": 1461806439,
+    "wof:geomhash": "655b6ef9a8c33bd7212a92add35fe6c2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706585891
+      }
+    ],
+    "wof:id": 706585891,
+    "wof:lastmodified": 1638567140,
+    "wof:name": "City of Hilliard Municipal Building",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "township",
+      "government-city",
+      "village"
     ]
-},
+  },
   "bbox": [
     -83.151056,
     40.029818,
     -83.151056,
     40.029818
-],
+  ],
   "geometry": {"coordinates":[-83.151056,40.029818],"type":"Point"}
 }

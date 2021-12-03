@@ -2,63 +2,67 @@
   "id": 706001911,
   "type": "Feature",
   "properties": {
-    "addr:full":"1069 Delaware Ave Marion OH 43302",
-    "addr:housenumber":"1069",
-    "addr:postcode":"43302",
-    "addr:street":"Delaware Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.122968,40.570854,-83.122968,40.570854",
-    "geom:latitude":40.570854,
-    "geom:longitude":-83.122968,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1069 Delaware Ave",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1069 Delaware Ave Marion OH 43302",
+    "addr:housenumber": "1069",
+    "addr:postcode": "43302",
+    "addr:street": "Delaware Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.122968,40.570854,-83.122968,40.570854",
+    "geom:latitude": 40.570854,
+    "geom:longitude": -83.122968,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1069 Delaware Ave",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 387 4578",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 387 4578",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1T6ImEn8oVKXyrd1tUAnaL_40.570854_-83.122968@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1T6ImEn8oVKXyrd1tUAnaL_40.570854_-83.122968@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793618,
-    "wof:geomhash":"fda9690c000a70089c422c2db86fed02",
-    "wof:hierarchy":[],
-    "wof:id":706001911,
-    "wof:lastmodified":1472638277,
-    "wof:name":"Mark Davis MD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:country": "US",
+    "wof:created": 1461793618,
+    "wof:geomhash": "f7bf929bf12c5334cfd03353ea4c7ed9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706001911
+      }
+    ],
+    "wof:id": 706001911,
+    "wof:lastmodified": 1638566926,
+    "wof:name": "Mark Davis MD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -83.122968,
     40.570854,
     -83.122968,
     40.570854
-],
+  ],
   "geometry": {"coordinates":[-83.122968,40.570854],"type":"Point"}
 }

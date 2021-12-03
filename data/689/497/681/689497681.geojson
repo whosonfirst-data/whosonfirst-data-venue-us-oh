@@ -2,61 +2,65 @@
   "id": 689497681,
   "type": "Feature",
   "properties": {
-    "addr:full":"73 E Huron St Jackson OH 45640",
-    "addr:housenumber":"73",
-    "addr:postcode":"45640",
-    "addr:street":"E Huron St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.641281,39.045083,-82.641281,39.045083",
-    "geom:latitude":39.045083,
-    "geom:longitude":-82.641281,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"73 E Huron St",
-    "sg:city":"Jackson",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "73 E Huron St Jackson OH 45640",
+    "addr:housenumber": "73",
+    "addr:postcode": "45640",
+    "addr:street": "E Huron St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.641281,39.045083,-82.641281,39.045083",
+    "geom:latitude": 39.045083,
+    "geom:longitude": -82.641281,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "73 E Huron St",
+    "sg:city": "Jackson",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 286 1515",
-    "sg:postcode":"45640",
-    "sg:province":"OH",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 286 1515",
+    "sg:postcode": "45640",
+    "sg:province": "OH",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_571HvZ0sTzjGkHDLp23iEY_39.045083_-82.641281@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_571HvZ0sTzjGkHDLp23iEY_39.045083_-82.641281@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461773029,
-    "wof:geomhash":"8a26b963c51cb1696f253deb262069ef",
-    "wof:hierarchy":[],
-    "wof:id":689497681,
-    "wof:lastmodified":1472638999,
-    "wof:name":"Zone",
-    "wof:parent_id":420534901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1461773029,
+    "wof:geomhash": "135c3b45eb415d479d15c3eee845854b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689497681
+      }
+    ],
+    "wof:id": 689497681,
+    "wof:lastmodified": 1638566943,
+    "wof:name": "Zone",
+    "wof:parent_id": 420534901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -82.641281,
     39.045083,
     -82.641281,
     39.045083
-],
-  "geometry": {"coordinates":[-82.64128100000001,39.045083],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.641281,39.045083],"type":"Point"}
 }

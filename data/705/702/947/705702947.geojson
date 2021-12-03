@@ -2,57 +2,61 @@
   "id": 705702947,
   "type": "Feature",
   "properties": {
-    "addr:full":"38199 Capel Rd Grafton OH 44044",
-    "addr:housenumber":"38199",
-    "addr:postcode":"44044",
-    "addr:street":"Capel Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.063416,41.303299,-82.063416,41.303299",
-    "geom:latitude":41.303299,
-    "geom:longitude":-82.063416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"38199 Capel Rd",
-    "sg:city":"Grafton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "38199 Capel Rd Grafton OH 44044",
+    "addr:housenumber": "38199",
+    "addr:postcode": "44044",
+    "addr:street": "Capel Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.063416,41.303299,-82.063416,41.303299",
+    "geom:latitude": 41.303299,
+    "geom:longitude": -82.063416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "38199 Capel Rd",
+    "sg:city": "Grafton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 748 2124",
-    "sg:postcode":"44044",
-    "sg:province":"OH",
-    "sg:website":"www.midviewk12.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7MpxsYaMf1lh8n7yWL8ixZ_41.303299_-82.063416@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 748 2124",
+    "sg:postcode": "44044",
+    "sg:province": "OH",
+    "sg:website": "www.midviewk12.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7MpxsYaMf1lh8n7yWL8ixZ_41.303299_-82.063416@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786652,
-    "wof:geomhash":"6714a229fe4f6d87acb85482827a3571",
-    "wof:hierarchy":[],
-    "wof:id":705702947,
-    "wof:lastmodified":1472638313,
-    "wof:name":"Midview High School",
-    "wof:parent_id":420535001,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461786652,
+    "wof:geomhash": "d2ab5fad6ed21a23500563788085fab8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705702947
+      }
+    ],
+    "wof:id": 705702947,
+    "wof:lastmodified": 1638566920,
+    "wof:name": "Midview High School",
+    "wof:parent_id": 420535001,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -82.063416,
     41.303299,
     -82.063416,
     41.303299
-],
+  ],
   "geometry": {"coordinates":[-82.063416,41.303299],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 689782359,
   "type": "Feature",
   "properties": {
-    "addr:full":"11559 E Miami River Rd Cincinnati OH 45252",
-    "addr:housenumber":"11559",
-    "addr:postcode":"45252",
-    "addr:street":"E Miami River Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.651265,39.289234,-84.651265,39.289234",
-    "geom:latitude":39.289234,
-    "geom:longitude":-84.651265,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11559 E Miami River Rd",
-    "sg:city":"Cincinnati",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "11559 E Miami River Rd Cincinnati OH 45252",
+    "addr:housenumber": "11559",
+    "addr:postcode": "45252",
+    "addr:street": "E Miami River Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.651265,39.289234,-84.651265,39.289234",
+    "geom:latitude": 39.289234,
+    "geom:longitude": -84.651265,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11559 E Miami River Rd",
+    "sg:city": "Cincinnati",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 513 489 4844",
-    "sg:postcode":"45252",
-    "sg:province":"OH",
-    "sg:tags":[
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 513 489 4844",
+    "sg:postcode": "45252",
+    "sg:province": "OH",
+    "sg:tags": [
+      "supply"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3O1dMCG0vMPHLmSVaVY784_39.289234_-84.651265@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3O1dMCG0vMPHLmSVaVY784_39.289234_-84.651265@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461781325,
-    "wof:geomhash":"0862705812ebd699b0d9c53ed9a19891",
-    "wof:hierarchy":[],
-    "wof:id":689782359,
-    "wof:lastmodified":1472639845,
-    "wof:name":"Southwestern Ohio Water Co",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "supply"
+    "wof:country": "US",
+    "wof:created": 1461781325,
+    "wof:geomhash": "a661eaf9409b842ec82cd42ae2da065b",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689782359
+      }
+    ],
+    "wof:id": 689782359,
+    "wof:lastmodified": 1638567051,
+    "wof:name": "Southwestern Ohio Water Co",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "supply"
     ]
-},
+  },
   "bbox": [
     -84.651265,
     39.289234,
     -84.651265,
     39.289234
-],
+  ],
   "geometry": {"coordinates":[-84.651265,39.289234],"type":"Point"}
 }

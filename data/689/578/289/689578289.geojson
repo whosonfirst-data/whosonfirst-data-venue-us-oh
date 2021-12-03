@@ -2,63 +2,67 @@
   "id": 689578289,
   "type": "Feature",
   "properties": {
-    "addr:full":"712 Silver St Marion OH 43302",
-    "addr:housenumber":"712",
-    "addr:postcode":"43302",
-    "addr:street":"Silver St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.145518,40.593092,-83.145518,40.593092",
-    "geom:latitude":40.593092,
-    "geom:longitude":-83.145518,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"712 Silver St",
-    "sg:city":"Marion",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "712 Silver St Marion OH 43302",
+    "addr:housenumber": "712",
+    "addr:postcode": "43302",
+    "addr:street": "Silver St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.145518,40.593092,-83.145518,40.593092",
+    "geom:latitude": 40.593092,
+    "geom:longitude": -83.145518,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "712 Silver St",
+    "sg:city": "Marion",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 387 2006",
-    "sg:postcode":"43302",
-    "sg:province":"OH",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 387 2006",
+    "sg:postcode": "43302",
+    "sg:province": "OH",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_00XnB3tZhEVjFYwxkV4LOh_40.593092_-83.145518@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_00XnB3tZhEVjFYwxkV4LOh_40.593092_-83.145518@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461775540,
-    "wof:geomhash":"583f679eafd305c794886eb456df5dfc",
-    "wof:hierarchy":[],
-    "wof:id":689578289,
-    "wof:lastmodified":1472639334,
-    "wof:name":"Hick's Garage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1461775540,
+    "wof:geomhash": "dbe2b17aa64817439105160439a6993c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689578289
+      }
+    ],
+    "wof:id": 689578289,
+    "wof:lastmodified": 1638566991,
+    "wof:name": "Hick's Garage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -83.145518,
     40.593092,
     -83.145518,
     40.593092
-],
+  ],
   "geometry": {"coordinates":[-83.145518,40.593092],"type":"Point"}
 }

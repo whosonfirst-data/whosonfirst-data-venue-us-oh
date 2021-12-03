@@ -2,61 +2,65 @@
   "id": 706074203,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 N Main St Walbridge OH 43465",
-    "addr:housenumber":"111",
-    "addr:postcode":"43465",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.493389,41.588702,-83.493389,41.588702",
-    "geom:latitude":41.588702,
-    "geom:longitude":-83.493389,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"111 N Main St",
-    "sg:city":"Walbridge",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "111 N Main St Walbridge OH 43465",
+    "addr:housenumber": "111",
+    "addr:postcode": "43465",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.493389,41.588702,-83.493389,41.588702",
+    "geom:latitude": 41.588702,
+    "geom:longitude": -83.493389,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "111 N Main St",
+    "sg:city": "Walbridge",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 666 1444",
-    "sg:postcode":"43465",
-    "sg:province":"OH",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 666 1444",
+    "sg:postcode": "43465",
+    "sg:province": "OH",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1W00lEPN2YcZOL7qbAdAb7_41.588702_-83.493389@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1W00lEPN2YcZOL7qbAdAb7_41.588702_-83.493389@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461795124,
-    "wof:geomhash":"437f44235318640689d72298d67546a2",
-    "wof:hierarchy":[],
-    "wof:id":706074203,
-    "wof:lastmodified":1472639158,
-    "wof:name":"Walbridge Police Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1461795124,
+    "wof:geomhash": "21f9c9e779e70e28eb18849291b949e6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706074203
+      }
+    ],
+    "wof:id": 706074203,
+    "wof:lastmodified": 1638566978,
+    "wof:name": "Walbridge Police Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -83.493389,
     41.588702,
     -83.493389,
     41.588702
-],
-  "geometry": {"coordinates":[-83.49338899999999,41.588702],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.493389,41.588702],"type":"Point"}
 }

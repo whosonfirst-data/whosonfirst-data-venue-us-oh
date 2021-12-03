@@ -2,61 +2,65 @@
   "id": 706164499,
   "type": "Feature",
   "properties": {
-    "addr:full":"43232 Buckeye Rd Lisbon OH 44432",
-    "addr:housenumber":"43232",
-    "addr:postcode":"44432",
-    "addr:street":"Buckeye Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.689633,40.713786,-80.689633,40.713786",
-    "geom:latitude":40.713786,
-    "geom:longitude":-80.689633,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"43232 Buckeye Rd",
-    "sg:city":"Lisbon",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "43232 Buckeye Rd Lisbon OH 44432",
+    "addr:housenumber": "43232",
+    "addr:postcode": "44432",
+    "addr:street": "Buckeye Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.689633,40.713786,-80.689633,40.713786",
+    "geom:latitude": 40.713786,
+    "geom:longitude": -80.689633,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "43232 Buckeye Rd",
+    "sg:city": "Lisbon",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 385 3312",
-    "sg:postcode":"44432",
-    "sg:province":"OH",
-    "sg:tags":[
-        "clergy"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 385 3312",
+    "sg:postcode": "44432",
+    "sg:province": "OH",
+    "sg:tags": [
+      "clergy"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xJvovlgdVUuGk6SNsX5WP_40.713786_-80.689633@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0xJvovlgdVUuGk6SNsX5WP_40.713786_-80.689633@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797311,
-    "wof:geomhash":"f8f3ba77479993c6704ad4c10c24ac8c",
-    "wof:hierarchy":[],
-    "wof:id":706164499,
-    "wof:lastmodified":1472639394,
-    "wof:name":"Michael Adams",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clergy"
+    "wof:country": "US",
+    "wof:created": 1461797311,
+    "wof:geomhash": "7f949a8ae030119e32351dd602c0ab88",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706164499
+      }
+    ],
+    "wof:id": 706164499,
+    "wof:lastmodified": 1638567028,
+    "wof:name": "Michael Adams",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clergy"
     ]
-},
+  },
   "bbox": [
     -80.689633,
     40.713786,
     -80.689633,
     40.713786
-],
+  ],
   "geometry": {"coordinates":[-80.689633,40.713786],"type":"Point"}
 }

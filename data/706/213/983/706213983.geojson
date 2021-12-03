@@ -2,61 +2,65 @@
   "id": 706213983,
   "type": "Feature",
   "properties": {
-    "addr:full":"16 W Center St Germantown OH 45327",
-    "addr:housenumber":"16",
-    "addr:postcode":"45327",
-    "addr:street":"W Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.371775,39.626052,-84.371775,39.626052",
-    "geom:latitude":39.626052,
-    "geom:longitude":-84.371775,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"16 W Center St",
-    "sg:city":"Germantown",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "16 W Center St Germantown OH 45327",
+    "addr:housenumber": "16",
+    "addr:postcode": "45327",
+    "addr:street": "W Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.371775,39.626052,-84.371775,39.626052",
+    "geom:latitude": 39.626052,
+    "geom:longitude": -84.371775,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "16 W Center St",
+    "sg:city": "Germantown",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 855 2473",
-    "sg:postcode":"45327",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 855 2473",
+    "sg:postcode": "45327",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6N9nqcOBub7njJ6y41Ov3F_39.626052_-84.371775@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6N9nqcOBub7njJ6y41Ov3F_39.626052_-84.371775@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461798373,
-    "wof:geomhash":"2cea31193f0b75138e0b170d7915bcb3",
-    "wof:hierarchy":[],
-    "wof:id":706213983,
-    "wof:lastmodified":1472639539,
-    "wof:name":"Cardinal Roost",
-    "wof:parent_id":420535115,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461798373,
+    "wof:geomhash": "d5db5da201d7a7b68597770ad689cc9c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706213983
+      }
+    ],
+    "wof:id": 706213983,
+    "wof:lastmodified": 1638567047,
+    "wof:name": "Cardinal Roost",
+    "wof:parent_id": 420535115,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -84.371775,
     39.626052,
     -84.371775,
     39.626052
-],
+  ],
   "geometry": {"coordinates":[-84.371775,39.626052],"type":"Point"}
 }

@@ -2,61 +2,65 @@
   "id": 706280143,
   "type": "Feature",
   "properties": {
-    "addr:full":"751 Western Ave Findlay OH 45840",
-    "addr:housenumber":"751",
-    "addr:postcode":"45840",
-    "addr:street":"Western Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.659744,41.033677,-83.659744,41.033677",
-    "geom:latitude":41.033677,
-    "geom:longitude":-83.659744,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"751 Western Ave",
-    "sg:city":"Findlay",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Printing",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "751 Western Ave Findlay OH 45840",
+    "addr:housenumber": "751",
+    "addr:postcode": "45840",
+    "addr:street": "Western Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.659744,41.033677,-83.659744,41.033677",
+    "geom:latitude": 41.033677,
+    "geom:longitude": -83.659744,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "751 Western Ave",
+    "sg:city": "Findlay",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Printing",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 894 6750",
-    "sg:postcode":"45840",
-    "sg:province":"OH",
-    "sg:tags":[
-        "periodical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 894 6750",
+    "sg:postcode": "45840",
+    "sg:province": "OH",
+    "sg:tags": [
+      "periodical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1QVpRcPCP2pvHaM25F6Iem_41.033677_-83.659744@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1QVpRcPCP2pvHaM25F6Iem_41.033677_-83.659744@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461799853,
-    "wof:geomhash":"05996a55b4363f704edb9b840235ee97",
-    "wof:hierarchy":[],
-    "wof:id":706280143,
-    "wof:lastmodified":1472639648,
-    "wof:name":"Best Of Findlay Magazine",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "periodical"
+    "wof:country": "US",
+    "wof:created": 1461799853,
+    "wof:geomhash": "531d13ff16a5577d5f56910ccfe537ec",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706280143
+      }
+    ],
+    "wof:id": 706280143,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "Best Of Findlay Magazine",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "periodical"
     ]
-},
+  },
   "bbox": [
     -83.659744,
     41.033677,
     -83.659744,
     41.033677
-],
+  ],
   "geometry": {"coordinates":[-83.659744,41.033677],"type":"Point"}
 }

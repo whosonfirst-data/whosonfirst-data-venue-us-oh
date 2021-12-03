@@ -2,61 +2,65 @@
   "id": 705737453,
   "type": "Feature",
   "properties": {
-    "addr:full":"5026 Ridge Rd Wadsworth OH 44281",
-    "addr:housenumber":"5026",
-    "addr:postcode":"44281",
-    "addr:street":"Ridge Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.735923,41.153594,-81.735923,41.153594",
-    "geom:latitude":41.153594,
-    "geom:longitude":-81.735923,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"5026 Ridge Rd",
-    "sg:city":"Wadsworth",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "5026 Ridge Rd Wadsworth OH 44281",
+    "addr:housenumber": "5026",
+    "addr:postcode": "44281",
+    "addr:street": "Ridge Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.735923,41.153594,-81.735923,41.153594",
+    "geom:latitude": 41.153594,
+    "geom:longitude": -81.735923,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "5026 Ridge Rd",
+    "sg:city": "Wadsworth",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 239 1539",
-    "sg:postcode":"44281",
-    "sg:province":"OH",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 239 1539",
+    "sg:postcode": "44281",
+    "sg:province": "OH",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3c79RZ32eITk4oQIZ4omva_41.153594_-81.735923@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3c79RZ32eITk4oQIZ4omva_41.153594_-81.735923@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461787583,
-    "wof:geomhash":"7e3d033d40d9d6af31de7dfae1c8500b",
-    "wof:hierarchy":[],
-    "wof:id":705737453,
-    "wof:lastmodified":1472638971,
-    "wof:name":"Young's Corners Fellowship",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1461787583,
+    "wof:geomhash": "c3a958e3b3fc944b4deeb29a70d99b76",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705737453
+      }
+    ],
+    "wof:id": 705737453,
+    "wof:lastmodified": 1638566952,
+    "wof:name": "Young's Corners Fellowship",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -81.735923,
     41.153594,
     -81.735923,
     41.153594
-],
+  ],
   "geometry": {"coordinates":[-81.735923,41.153594],"type":"Point"}
 }

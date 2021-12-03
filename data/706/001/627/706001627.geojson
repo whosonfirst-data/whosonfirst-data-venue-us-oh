@@ -2,61 +2,65 @@
   "id": 706001627,
   "type": "Feature",
   "properties": {
-    "addr:full":"6100 Monroe St Sylvania OH 43560",
-    "addr:housenumber":"6100",
-    "addr:postcode":"43560",
-    "addr:street":"Monroe St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.69076,41.715257,-83.69076,41.715257",
-    "geom:latitude":41.715257,
-    "geom:longitude":-83.69076,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"6100 Monroe St",
-    "sg:city":"Sylvania",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Retail Goods",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "6100 Monroe St Sylvania OH 43560",
+    "addr:housenumber": "6100",
+    "addr:postcode": "43560",
+    "addr:street": "Monroe St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.690760,41.715257,-83.690760,41.715257",
+    "geom:latitude": 41.715257,
+    "geom:longitude": -83.69076,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "6100 Monroe St",
+    "sg:city": "Sylvania",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Retail Goods",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 882 4116",
-    "sg:postcode":"43560",
-    "sg:province":"OH",
-    "sg:tags":[
-        "manufacturer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 882 4116",
+    "sg:postcode": "43560",
+    "sg:province": "OH",
+    "sg:tags": [
+      "manufacturer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0OTcEmSpCNisQo2G6VWGVc_41.715257_-83.690760@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0OTcEmSpCNisQo2G6VWGVc_41.715257_-83.690760@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793608,
-    "wof:geomhash":"5502ca08d57f7d3c5cc6cbde070a4d9e",
-    "wof:hierarchy":[],
-    "wof:id":706001627,
-    "wof:lastmodified":1472638260,
-    "wof:name":"Pet Central",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manufacturer"
+    "wof:country": "US",
+    "wof:created": 1461793608,
+    "wof:geomhash": "98c56780ab81167dd71953c9e7153a52",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706001627
+      }
+    ],
+    "wof:id": 706001627,
+    "wof:lastmodified": 1638566925,
+    "wof:name": "Pet Central",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manufacturer"
     ]
-},
+  },
   "bbox": [
     -83.69076,
     41.715257,
     -83.69076,
     41.715257
-],
+  ],
   "geometry": {"coordinates":[-83.69076,41.715257],"type":"Point"}
 }

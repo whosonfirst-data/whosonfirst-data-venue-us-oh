@@ -2,56 +2,60 @@
   "id": 706154279,
   "type": "Feature",
   "properties": {
-    "addr:full":"11753 Rd 21 Antwerp OH 45813",
-    "addr:housenumber":"11753",
-    "addr:postcode":"45813",
-    "addr:street":"Rd 21",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.76578,41.143148,-84.76578,41.143148",
-    "geom:latitude":41.143148,
-    "geom:longitude":-84.76578,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"11753 Rd 21",
-    "sg:city":"Antwerp",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Dairy Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "11753 Rd 21 Antwerp OH 45813",
+    "addr:housenumber": "11753",
+    "addr:postcode": "45813",
+    "addr:street": "Rd 21",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.765780,41.143148,-84.765780,41.143148",
+    "geom:latitude": 41.143148,
+    "geom:longitude": -84.76578,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "11753 Rd 21",
+    "sg:city": "Antwerp",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Dairy Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 258 2634",
-    "sg:postcode":"45813",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7cccffSsVP5sIXLZ7Jmtix_41.143148_-84.765780@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 258 2634",
+    "sg:postcode": "45813",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7cccffSsVP5sIXLZ7Jmtix_41.143148_-84.765780@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461797073,
-    "wof:geomhash":"31b82450615c086ded034cadc0139e10",
-    "wof:hierarchy":[],
-    "wof:id":706154279,
-    "wof:lastmodified":1472639360,
-    "wof:name":"Zijlstra Dairy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461797073,
+    "wof:geomhash": "615b5b1d3e9f5e08d926d35a5fce2def",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706154279
+      }
+    ],
+    "wof:id": 706154279,
+    "wof:lastmodified": 1638567020,
+    "wof:name": "Zijlstra Dairy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -84.76578,
     41.143148,
     -84.76578,
     41.143148
-],
-  "geometry": {"coordinates":[-84.76578000000001,41.143148],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-84.76578,41.143148],"type":"Point"}
 }

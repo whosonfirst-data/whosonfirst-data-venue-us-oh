@@ -2,63 +2,67 @@
   "id": 705779537,
   "type": "Feature",
   "properties": {
-    "addr:full":"589 Jennings Ave Salem OH 44460",
-    "addr:housenumber":"589",
-    "addr:postcode":"44460",
-    "addr:street":"Jennings Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.861084,40.906,-80.861084,40.906",
-    "geom:latitude":40.906,
-    "geom:longitude":-80.861084,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"589 Jennings Ave",
-    "sg:city":"Salem",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "589 Jennings Ave Salem OH 44460",
+    "addr:housenumber": "589",
+    "addr:postcode": "44460",
+    "addr:street": "Jennings Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.861084,40.906000,-80.861084,40.906000",
+    "geom:latitude": 40.906,
+    "geom:longitude": -80.861084,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "589 Jennings Ave",
+    "sg:city": "Salem",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 337 1100",
-    "sg:postcode":"44460",
-    "sg:province":"OH",
-    "sg:tags":[
-        "passenger",
-        "limousine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 337 1100",
+    "sg:postcode": "44460",
+    "sg:province": "OH",
+    "sg:tags": [
+      "passenger",
+      "limousine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xufA37XW4MVtceGIlQTfl_40.906000_-80.861084@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xufA37XW4MVtceGIlQTfl_40.906000_-80.861084@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788538,
-    "wof:geomhash":"568f019a9d1285b84e9f37fbbfc121d8",
-    "wof:hierarchy":[],
-    "wof:id":705779537,
-    "wof:lastmodified":1472639246,
-    "wof:name":"Crystal Limousine Of Salem LTD",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "passenger",
-        "limousine"
+    "wof:country": "US",
+    "wof:created": 1461788538,
+    "wof:geomhash": "d6ee9b2fd429feeb8bf28b5abe529090",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705779537
+      }
+    ],
+    "wof:id": 705779537,
+    "wof:lastmodified": 1638566981,
+    "wof:name": "Crystal Limousine Of Salem LTD",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "passenger",
+      "limousine"
     ]
-},
+  },
   "bbox": [
     -80.861084,
     40.906,
     -80.861084,
     40.906
-],
-  "geometry": {"coordinates":[-80.86108400000001,40.906],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-80.861084,40.906],"type":"Point"}
 }

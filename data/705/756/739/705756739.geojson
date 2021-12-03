@@ -2,63 +2,67 @@
   "id": 705756739,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 Lexington Ave Mansfield OH 44907",
-    "addr:housenumber":"1100",
-    "addr:postcode":"44907",
-    "addr:street":"Lexington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-82.53857,40.728027,-82.53857,40.728027",
-    "geom:latitude":40.728027,
-    "geom:longitude":-82.53857,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"1100 Lexington Ave",
-    "sg:city":"Mansfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "1100 Lexington Ave Mansfield OH 44907",
+    "addr:housenumber": "1100",
+    "addr:postcode": "44907",
+    "addr:street": "Lexington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-82.538570,40.728027,-82.538570,40.728027",
+    "geom:latitude": 40.728027,
+    "geom:longitude": -82.53857,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "1100 Lexington Ave",
+    "sg:city": "Mansfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 775 1253",
-    "sg:postcode":"44907",
-    "sg:province":"OH",
-    "sg:tags":[
-        "home",
-        "care"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 775 1253",
+    "sg:postcode": "44907",
+    "sg:province": "OH",
+    "sg:tags": [
+      "home",
+      "care"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2UHB0QtZhbUlibuHS4TMQJ_40.728027_-82.538570@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2UHB0QtZhbUlibuHS4TMQJ_40.728027_-82.538570@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461788025,
-    "wof:geomhash":"00ac912b8d5969baa2adc8f3f77b4301",
-    "wof:hierarchy":[],
-    "wof:id":705756739,
-    "wof:lastmodified":1472639205,
-    "wof:name":"Cambridge Home Health Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "care"
+    "wof:country": "US",
+    "wof:created": 1461788025,
+    "wof:geomhash": "cdbf2f2d7b4899508c7fd62c7ca077d0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705756739
+      }
+    ],
+    "wof:id": 705756739,
+    "wof:lastmodified": 1638566970,
+    "wof:name": "Cambridge Home Health Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "care"
     ]
-},
+  },
   "bbox": [
     -82.53857,
     40.728027,
     -82.53857,
     40.728027
-],
-  "geometry": {"coordinates":[-82.53857000000001,40.728027],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-82.53857,40.728027],"type":"Point"}
 }

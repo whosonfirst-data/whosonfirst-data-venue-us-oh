@@ -2,56 +2,60 @@
   "id": 705712633,
   "type": "Feature",
   "properties": {
-    "addr:full":"550 Commerce Park Blvd Northwood OH 43619",
-    "addr:housenumber":"550",
-    "addr:postcode":"43619",
-    "addr:street":"Commerce Park Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.47101,41.605449,-83.47101,41.605449",
-    "geom:latitude":41.605449,
-    "geom:longitude":-83.47101,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"550 Commerce Park Blvd",
-    "sg:city":"Northwood",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "550 Commerce Park Blvd Northwood OH 43619",
+    "addr:housenumber": "550",
+    "addr:postcode": "43619",
+    "addr:street": "Commerce Park Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.471010,41.605449,-83.471010,41.605449",
+    "geom:latitude": 41.605449,
+    "geom:longitude": -83.47101,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "550 Commerce Park Blvd",
+    "sg:city": "Northwood",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 419 691 0330",
-    "sg:postcode":"43619",
-    "sg:province":"OH",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1YOt89jhRARm3BlXOkiSVj_41.605449_-83.471010@1294180530"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 419 691 0330",
+    "sg:postcode": "43619",
+    "sg:province": "OH",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1YOt89jhRARm3BlXOkiSVj_41.605449_-83.471010@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461786964,
-    "wof:geomhash":"96205b74621281fe6060e9a9a4e002d2",
-    "wof:hierarchy":[],
-    "wof:id":705712633,
-    "wof:lastmodified":1472638376,
-    "wof:name":"Waggin Tails Pet Grooming",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1461786964,
+    "wof:geomhash": "a6b1f40923cbc0486fb038eb1fd97e50",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705712633
+      }
+    ],
+    "wof:id": 705712633,
+    "wof:lastmodified": 1638566929,
+    "wof:name": "Waggin Tails Pet Grooming",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -83.47101,
     41.605449,
     -83.47101,
     41.605449
-],
-  "geometry": {"coordinates":[-83.47101000000001,41.605449],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.47101,41.605449],"type":"Point"}
 }

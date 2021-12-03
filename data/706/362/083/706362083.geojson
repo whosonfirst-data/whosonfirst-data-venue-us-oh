@@ -2,61 +2,65 @@
   "id": 706362083,
   "type": "Feature",
   "properties": {
-    "addr:full":"8005 Mayfield Rd Chesterland OH 44026",
-    "addr:housenumber":"8005",
-    "addr:postcode":"44026",
-    "addr:street":"Mayfield Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.358568,41.52232,-81.358568,41.52232",
-    "geom:latitude":41.52232,
-    "geom:longitude":-81.358568,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"8005 Mayfield Rd",
-    "sg:city":"Chesterland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8005 Mayfield Rd Chesterland OH 44026",
+    "addr:housenumber": "8005",
+    "addr:postcode": "44026",
+    "addr:street": "Mayfield Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.358568,41.522320,-81.358568,41.522320",
+    "geom:latitude": 41.52232,
+    "geom:longitude": -81.358568,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "8005 Mayfield Rd",
+    "sg:city": "Chesterland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 440 729 7205",
-    "sg:postcode":"44026",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 440 729 7205",
+    "sg:postcode": "44026",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2cU4FornPoNwQEvt1jqNKa_41.522320_-81.358568@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2cU4FornPoNwQEvt1jqNKa_41.522320_-81.358568@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461801652,
-    "wof:geomhash":"b18feb03c4ade4b322b8a42ad2d57a2d",
-    "wof:hierarchy":[],
-    "wof:id":706362083,
-    "wof:lastmodified":1472639904,
-    "wof:name":"High Peaks Coffee",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461801652,
+    "wof:geomhash": "c6ac6cc9d297d907adcde5126b04fc2d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706362083
+      }
+    ],
+    "wof:id": 706362083,
+    "wof:lastmodified": 1638567100,
+    "wof:name": "High Peaks Coffee",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -81.358568,
     41.52232,
     -81.358568,
     41.52232
-],
-  "geometry": {"coordinates":[-81.35856800000001,41.52232],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-81.358568,41.52232],"type":"Point"}
 }

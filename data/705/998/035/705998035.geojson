@@ -2,61 +2,65 @@
   "id": 705998035,
   "type": "Feature",
   "properties": {
-    "addr:full":"23 Newton Dr Pleasant Hill OH 45359",
-    "addr:housenumber":"23",
-    "addr:postcode":"45359",
-    "addr:street":"Newton Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-84.350121,40.051298,-84.350121,40.051298",
-    "geom:latitude":40.051298,
-    "geom:longitude":-84.350121,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"23 Newton Dr",
-    "sg:city":"Pleasant Hill",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Hardware",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "23 Newton Dr Pleasant Hill OH 45359",
+    "addr:housenumber": "23",
+    "addr:postcode": "45359",
+    "addr:street": "Newton Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-84.350121,40.051298,-84.350121,40.051298",
+    "geom:latitude": 40.051298,
+    "geom:longitude": -84.350121,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "23 Newton Dr",
+    "sg:city": "Pleasant Hill",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Hardware",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 937 676 2546",
-    "sg:postcode":"45359",
-    "sg:province":"OH",
-    "sg:tags":[
-        "refrigeration"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 937 676 2546",
+    "sg:postcode": "45359",
+    "sg:province": "OH",
+    "sg:tags": [
+      "refrigeration"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3s7SVllM1X34E6JDGJqrYv_40.051298_-84.350121@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3s7SVllM1X34E6JDGJqrYv_40.051298_-84.350121@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461793540,
-    "wof:geomhash":"29de3a5edaf7aa12e06045e86885db83",
-    "wof:hierarchy":[],
-    "wof:id":705998035,
-    "wof:lastmodified":1472639820,
-    "wof:name":"C&S Vending",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "refrigeration"
+    "wof:country": "US",
+    "wof:created": 1461793540,
+    "wof:geomhash": "4976439a3e001514fdb612480f8f423a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 705998035
+      }
+    ],
+    "wof:id": 705998035,
+    "wof:lastmodified": 1638567071,
+    "wof:name": "C\u0026S Vending",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "refrigeration"
     ]
-},
+  },
   "bbox": [
     -84.350121,
     40.051298,
     -84.350121,
     40.051298
-],
+  ],
   "geometry": {"coordinates":[-84.350121,40.051298],"type":"Point"}
 }

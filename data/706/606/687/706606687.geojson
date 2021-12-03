@@ -2,61 +2,65 @@
   "id": 706606687,
   "type": "Feature",
   "properties": {
-    "addr:full":"4444 E 153rd St Cleveland OH 44128",
-    "addr:housenumber":"4444",
-    "addr:postcode":"44128",
-    "addr:street":"E 153Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-81.574788,41.438272,-81.574788,41.438272",
-    "geom:latitude":41.438272,
-    "geom:longitude":-81.574788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"4444 E 153rd St",
-    "sg:city":"Cleveland",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "4444 E 153rd St Cleveland OH 44128",
+    "addr:housenumber": "4444",
+    "addr:postcode": "44128",
+    "addr:street": "E 153Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-81.574788,41.438272,-81.574788,41.438272",
+    "geom:latitude": 41.438272,
+    "geom:longitude": -81.574788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "4444 E 153rd St",
+    "sg:city": "Cleveland",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 216 581 3030",
-    "sg:postcode":"44128",
-    "sg:province":"OH",
-    "sg:tags":[
-        "welfare"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 216 581 3030",
+    "sg:postcode": "44128",
+    "sg:province": "OH",
+    "sg:tags": [
+      "welfare"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Zo1iIWqXs9fk0RTVdPj9j_41.438272_-81.574788@1303262755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1Zo1iIWqXs9fk0RTVdPj9j_41.438272_-81.574788@1303262755"
     },
-    "wof:country":"US",
-    "wof:created":1461806864,
-    "wof:geomhash":"849d9468e4f34a8052a04553a3826c13",
-    "wof:hierarchy":[],
-    "wof:id":706606687,
-    "wof:lastmodified":1472640230,
-    "wof:name":"Gebauer Consumer Healthcare",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "welfare"
+    "wof:country": "US",
+    "wof:created": 1461806864,
+    "wof:geomhash": "0c8f3892d8a2de26db97cd6053434021",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706606687
+      }
+    ],
+    "wof:id": 706606687,
+    "wof:lastmodified": 1638567146,
+    "wof:name": "Gebauer Consumer Healthcare",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "welfare"
     ]
-},
+  },
   "bbox": [
     -81.574788,
     41.438272,
     -81.574788,
     41.438272
-],
+  ],
   "geometry": {"coordinates":[-81.574788,41.438272],"type":"Point"}
 }

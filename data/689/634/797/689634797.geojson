@@ -2,63 +2,67 @@
   "id": 689634797,
   "type": "Feature",
   "properties": {
-    "addr:full":"249 Wood St East Palestine OH 44413",
-    "addr:housenumber":"249",
-    "addr:postcode":"44413",
-    "addr:street":"Wood St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-80.53531,40.831504,-80.53531,40.831504",
-    "geom:latitude":40.831504,
-    "geom:longitude":-80.53531,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"249 Wood St",
-    "sg:city":"East Palestine",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "249 Wood St East Palestine OH 44413",
+    "addr:housenumber": "249",
+    "addr:postcode": "44413",
+    "addr:street": "Wood St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-80.535310,40.831504,-80.535310,40.831504",
+    "geom:latitude": 40.831504,
+    "geom:longitude": -80.53531,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "249 Wood St",
+    "sg:city": "East Palestine",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 330 426 6164",
-    "sg:postcode":"44413",
-    "sg:province":"OH",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 330 426 6164",
+    "sg:postcode": "44413",
+    "sg:province": "OH",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ij9Ki8hIdSeE3rn4m5kUV_40.831504_-80.535310@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7ij9Ki8hIdSeE3rn4m5kUV_40.831504_-80.535310@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461777281,
-    "wof:geomhash":"93805c43d22a8360ac84d4da454ff0fa",
-    "wof:hierarchy":[],
-    "wof:id":689634797,
-    "wof:lastmodified":1472639517,
-    "wof:name":"Morris Dennis",
-    "wof:parent_id":420534605,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:country": "US",
+    "wof:created": 1461777281,
+    "wof:geomhash": "fc14831ca3db3aafd43078525b6cb5ec",
+    "wof:hierarchy": [
+      {
+        "venue_id": 689634797
+      }
+    ],
+    "wof:id": 689634797,
+    "wof:lastmodified": 1638566988,
+    "wof:name": "Morris Dennis",
+    "wof:parent_id": 420534605,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -80.53531,
     40.831504,
     -80.53531,
     40.831504
-],
+  ],
   "geometry": {"coordinates":[-80.53531,40.831504],"type":"Point"}
 }

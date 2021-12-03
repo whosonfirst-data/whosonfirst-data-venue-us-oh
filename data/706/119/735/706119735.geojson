@@ -2,61 +2,65 @@
   "id": 706119735,
   "type": "Feature",
   "properties": {
-    "addr:full":"17408 High St Clarksburg OH 43115",
-    "addr:housenumber":"17408",
-    "addr:postcode":"43115",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-83.153427,39.505435,-83.153427,39.505435",
-    "geom:latitude":39.505435,
-    "geom:longitude":-83.153427,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "sg:address":"17408 High St",
-    "sg:city":"Clarksburg",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "17408 High St Clarksburg OH 43115",
+    "addr:housenumber": "17408",
+    "addr:postcode": "43115",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-83.153427,39.505435,-83.153427,39.505435",
+    "geom:latitude": 39.505435,
+    "geom:longitude": -83.153427,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "sg:address": "17408 High St",
+    "sg:city": "Clarksburg",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 740 993 4927",
-    "sg:postcode":"43115",
-    "sg:province":"OH",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 740 993 4927",
+    "sg:postcode": "43115",
+    "sg:province": "OH",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ukebUxp8X4hz8o0Ud9Iih_39.505435_-83.153427@1294180530"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1ukebUxp8X4hz8o0Ud9Iih_39.505435_-83.153427@1294180530"
     },
-    "wof:country":"US",
-    "wof:created":1461796261,
-    "wof:geomhash":"6909e050e4429577e5fa393b716b2377",
-    "wof:hierarchy":[],
-    "wof:id":706119735,
-    "wof:lastmodified":1472639300,
-    "wof:name":"Fratello's Pizza",
-    "wof:parent_id":420535171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-oh",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1461796261,
+    "wof:geomhash": "e0ffbf7afe55e849b3a29020abd63fd8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 706119735
+      }
+    ],
+    "wof:id": 706119735,
+    "wof:lastmodified": 1638567003,
+    "wof:name": "Fratello's Pizza",
+    "wof:parent_id": 420535171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-oh",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -83.153427,
     39.505435,
     -83.153427,
     39.505435
-],
-  "geometry": {"coordinates":[-83.15342699999999,39.505435],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-83.153427,39.505435],"type":"Point"}
 }
